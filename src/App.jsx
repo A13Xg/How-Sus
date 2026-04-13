@@ -8,7 +8,7 @@ import Footer from './components/Footer';
 import './App.css';
 
 const SUSPICIOUS_DOMAINS = ['fakenews', 'hoax', 'clickbait', 'viral', 'shocking', 'unbelievable'];
-const SUSPICIOUS_KEYWORDS = ['shocking', 'unbelievable', 'you won\'t believe', 'mainstream media won\'t tell', 'they don\'t want you to know', 'wake up', 'share before deleted', 'going viral'];
+const SUSPICIOUS_KEYWORDS = ["shocking", "unbelievable", "you won't believe", "mainstream media won't tell", "they don't want you to know", "wake up", "share before deleted", "going viral"];
 const TRUSTED_DOMAINS = ['reuters.com', 'apnews.com', 'bbc.com', 'bbc.co.uk', 'npr.org', 'nytimes.com', 'theguardian.com', 'washingtonpost.com', 'wsj.com', 'bloomberg.com', 'economist.com', 'nature.com', 'science.org'];
 
 function analyzeUrl(url, dateFrom, dateTo) {
