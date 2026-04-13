@@ -1,3 +1,30 @@
+/* ── Skeleton loader ─────────────────────────────────────────────────────── */
+/* shimmer keyframe is defined globally in index.css */
+
+.skeleton {
+  border-radius: 4px;
+  background: linear-gradient(
+    90deg,
+    var(--bg-card) 25%,
+    rgba(255,255,255,0.06) 50%,
+    var(--bg-card) 75%
+  );
+  background-size: 800px 100%;
+  animation: shimmer 1.6s infinite linear;
+  display: block;
+}
+
+.skeleton-circle {
+  border-radius: 50%;
+}
+
+.skeleton-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8px 0;
+}
+
 .viz-section {
   margin-bottom: 24px;
 }
@@ -53,35 +80,9 @@
   color: var(--accent-blue);
 }
 
-.main-progress-bar {
-  height: 6px;
-  background: var(--bg-secondary);
-  border-radius: 3px;
-  overflow: visible;
-  position: relative;
+/* Progress bar is now the AnimatedProgressBar component */
+.viz-progress-bar {
   margin-bottom: 10px;
-}
-
-.main-progress-fill {
-  height: 100%;
-  background: var(--gradient-cyan);
-  border-radius: 3px;
-  position: relative;
-  z-index: 1;
-}
-
-.progress-glow {
-  position: absolute;
-  top: -4px;
-  width: 12px;
-  height: 14px;
-  background: var(--accent-cyan);
-  border-radius: 50%;
-  filter: blur(4px);
-  transform: translateX(-50%);
-  pointer-events: none;
-  transition: left 0.3s;
-  z-index: 2;
 }
 
 .current-step {

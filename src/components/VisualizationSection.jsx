@@ -1,105 +1,72 @@
-import React, { useEffect, useRef, useState } from 'react';
-import { motion } from 'framer-motion';
+/**
+ * VisualizationSection - Real-time animated scanning feedback panel.
+ *
+ * Shows while scanPhase is 'scanning' or 'complete'.
+ *
+ * Features:
+ *  - AnimatedProgressBar with leading glow
+ *  - Step indicator grid (each step fades in as it completes)
+ *  - Skeleton placeholders for NetworkGraph and TimelineGraph while scanning
+ *  - Smooth transition to actual data once scan completes
+ *  - All heavy sub-components (NetworkGraph, TimelineGraph) are lazy-loaded
+ *    via React.lazy so they don't block the initial bundle.
+ *
+ * Props:
+ *   scanPhase   {string}  - 'scanning' | 'complete' | 'error'
+ *   progress    {number}  - 0-100
+ *   currentStep {string}  - current step label
+ *   inputType   {string}  - 'url'|'text'|'image'
+ *   results     {object}  - scanResults (null while scanning)
+ */
+import React, { Suspense, lazy } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import AnimatedProgressBar from './AnimatedProgressBar';
 import './VisualizationSection.css';
 
+// Lazy-load heavy canvas components to keep initial bundle small
+const NetworkGraph = lazy(() => import('./NetworkGraph'));
+const TimelineGraph = lazy(() => import('./TimelineGraph'));
+
 const SCAN_STEPS = [
-  { id: 'init', label: 'Engine Init', icon: '⚙' },
-  { id: 'meta', label: 'Metadata', icon: '📋' },
-  { id: 'domain', label: 'Domain Check', icon: '🌐' },
-  { id: 'content', label: 'Content Analysis', icon: '🔎' },
-  { id: 'duplicate', label: 'Dupe Detection', icon: '🔁' },
-  { id: 'timeline', label: 'Timeline', icon: '📅' },
-  { id: 'ai', label: 'AI Analysis', icon: '🤖' },
-  { id: 'compile', label: 'Compiling', icon: '✅' },
+  { id: 'init',      label: 'Engine Init',     icon: '⚙'  },
+  { id: 'meta',      label: 'Metadata',        icon: '📋' },
+  { id: 'domain',    label: 'Domain Check',    icon: '🌐' },
+  { id: 'content',   label: 'Content Scan',    icon: '🔎' },
+  { id: 'duplicate', label: 'Dupe Detection',  icon: '🔁' },
+  { id: 'timeline',  label: 'Timeline',        icon: '📅' },
+  { id: 'ai',        label: 'AI Analysis',     icon: '🤖' },
+  { id: 'compile',   label: 'Compiling',       icon: '✅' },
 ];
 
-function NetworkGraph({ duplicates }) {
-  const canvasRef = useRef(null);
+/** Skeleton block for loading placeholders */
+function Skeleton({ height = 20, width = '100%', rounded = false, style = {} }) {
+  return (
+    <div
+      className={`skeleton ${rounded ? 'skeleton-circle' : ''}`}
+      style={{ height, width, ...style }}
+      aria-hidden="true"
+    />
+  );
+}
 
-  useEffect(() => {
-    const canvas = canvasRef.current;
-    if (!canvas || !duplicates?.length) return;
-    const ctx = canvas.getContext('2d');
-    const W = canvas.width;
-    const H = canvas.height;
-
-    const nodes = [
-      { x: W / 2, y: H / 2, label: 'Source', r: 18, color: '#3b82f6', main: true },
-      ...duplicates.slice(0, 6).map((d, i) => {
-        const angle = (i / Math.min(duplicates.length, 6)) * Math.PI * 2 - Math.PI / 2;
-        const dist = 80 + Math.random() * 30;
-        return {
-          x: W / 2 + Math.cos(angle) * dist,
-          y: H / 2 + Math.sin(angle) * dist,
-          label: d.source,
-          r: 10,
-          color: d.similarity > 80 ? '#ef4444' : d.similarity > 65 ? '#f59e0b' : '#10b981',
-          similarity: d.similarity,
-        };
-      }),
-    ];
-
-    let frame;
-    let t = 0;
-    const draw = () => {
-      ctx.clearRect(0, 0, W, H);
-      t += 0.02;
-
-      nodes.slice(1).forEach((node, i) => {
-        const pulseR = node.r + Math.sin(t + i) * 2;
-        ctx.beginPath();
-        ctx.moveTo(nodes[0].x, nodes[0].y);
-        ctx.lineTo(node.x, node.y);
-        ctx.strokeStyle = node.color + '55';
-        ctx.lineWidth = 1.5;
-        ctx.stroke();
-
-        ctx.beginPath();
-        ctx.arc(node.x, node.y, pulseR + 4, 0, Math.PI * 2);
-        ctx.fillStyle = node.color + '22';
-        ctx.fill();
-
-        ctx.beginPath();
-        ctx.arc(node.x, node.y, pulseR, 0, Math.PI * 2);
-        ctx.fillStyle = node.color;
-        ctx.fill();
-
-        ctx.fillStyle = '#f1f5f9';
-        ctx.font = '9px Inter, sans-serif';
-        ctx.textAlign = 'center';
-        ctx.fillText(node.label, node.x, node.y + pulseR + 12);
-        ctx.fillText(node.similarity + '%', node.x, node.y + pulseR + 22);
-      });
-
-      const mainPulse = nodes[0].r + Math.sin(t * 2) * 3;
-      ctx.beginPath();
-      ctx.arc(nodes[0].x, nodes[0].y, mainPulse + 6, 0, Math.PI * 2);
-      ctx.fillStyle = '#3b82f622';
-      ctx.fill();
-
-      ctx.beginPath();
-      ctx.arc(nodes[0].x, nodes[0].y, mainPulse, 0, Math.PI * 2);
-      ctx.fillStyle = '#3b82f6';
-      ctx.fill();
-
-      ctx.fillStyle = 'white';
-      ctx.font = 'bold 9px Inter, sans-serif';
-      ctx.textAlign = 'center';
-      ctx.textBaseline = 'middle';
-      ctx.fillText('SRC', nodes[0].x, nodes[0].y);
-      ctx.textBaseline = 'alphabetic';
-
-      frame = requestAnimationFrame(draw);
-    };
-    draw();
-    return () => cancelAnimationFrame(frame);
-  }, [duplicates]);
-
-  return <canvas ref={canvasRef} width={280} height={220} className="network-canvas" />;
+/** Placeholder shown inside the sub-cards while still scanning */
+function SubCardSkeleton({ rows = 4 }) {
+  return (
+    <div className="skeleton-group">
+      {Array.from({ length: rows }).map((_, i) => (
+        <Skeleton key={i} height={14} width={`${75 + Math.random() * 20}%`} style={{ marginBottom: 8 }} />
+      ))}
+    </div>
+  );
 }
 
 export default function VisualizationSection({ scanPhase, progress, currentStep, inputType, results }) {
   const completedSteps = Math.floor((progress / 100) * SCAN_STEPS.length);
+  const isScanning = scanPhase === 'scanning';
+  const isComplete = scanPhase === 'complete';
+
+  const showDuplicates = !isScanning && results?.duplicates?.length > 0;
+  const showTimeline   = !isScanning && results?.timeline?.length > 0;
 
   return (
     <motion.section
@@ -108,98 +75,112 @@ export default function VisualizationSection({ scanPhase, progress, currentStep,
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -20 }}
       transition={{ duration: 0.4 }}
+      aria-label="Scan progress and visualisation"
+      aria-live="polite"
     >
       <div className="viz-card">
+        {/* ── Header ─────────────────────────────────────────────────── */}
         <div className="viz-header">
           <h2 className="viz-title">
-            {scanPhase === 'scanning' ? (
-              <><span className="pulse-dot" /> Scanning...</>
+            {isScanning ? (
+              <><span className="pulse-dot" aria-hidden="true" /> Scanning…</>
             ) : (
-              <><span className="done-dot" /> Analysis Complete</>
+              <><span className="done-dot" aria-hidden="true" /> Analysis Complete</>
             )}
           </h2>
-          <span className="viz-progress-text">{progress}%</span>
+          <span className="viz-progress-text" aria-label={`${progress}% complete`}>{progress}%</span>
         </div>
 
-        <div className="main-progress-bar">
-          <motion.div
-            className="main-progress-fill"
-            initial={{ width: 0 }}
-            animate={{ width: `${progress}%` }}
-            transition={{ duration: 0.3 }}
-          />
-          <div className="progress-glow" style={{ left: `${progress}%` }} />
-        </div>
+        {/* ── Progress bar ─────────────────────────────────────────── */}
+        <AnimatedProgressBar
+          value={progress}
+          size="md"
+          glowing={isScanning}
+          label="Scan progress"
+          className="viz-progress-bar"
+        />
 
-        {currentStep && scanPhase === 'scanning' && (
-          <motion.p
-            key={currentStep}
-            className="current-step"
-            initial={{ opacity: 0, x: 10 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.3 }}
-          >
-            {currentStep}
-          </motion.p>
-        )}
-
-        <div className="steps-grid">
-          {SCAN_STEPS.map((step, i) => (
-            <motion.div
-              key={step.id}
-              className={`step-item ${i < completedSteps ? 'done' : i === completedSteps ? 'active' : 'pending'}`}
-              initial={{ opacity: 0, scale: 0.8 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ delay: i * 0.06 }}
+        {/* ── Current step label ───────────────────────────────────── */}
+        <AnimatePresence mode="wait">
+          {isScanning && currentStep && (
+            <motion.p
+              key={currentStep}
+              className="current-step"
+              aria-live="polite"
+              initial={{ opacity: 0, x: 10 }}
+              animate={{ opacity: 1, x: 0 }}
+              exit={{ opacity: 0, x: -10 }}
+              transition={{ duration: 0.25 }}
             >
-              <span className="step-icon">{step.icon}</span>
-              <span className="step-label">{step.label}</span>
-              <span className="step-status">
-                {i < completedSteps ? '✓' : i === completedSteps ? '…' : ''}
-              </span>
-            </motion.div>
-          ))}
+              {currentStep}
+            </motion.p>
+          )}
+        </AnimatePresence>
+
+        {/* ── Step grid ────────────────────────────────────────────── */}
+        <div className="steps-grid" role="list" aria-label="Scan steps">
+          {SCAN_STEPS.map((step, i) => {
+            const state = i < completedSteps ? 'done' : i === completedSteps ? 'active' : 'pending';
+            return (
+              <motion.div
+                key={step.id}
+                className={`step-item ${state}`}
+                role="listitem"
+                aria-label={`${step.label}: ${state}`}
+                initial={{ opacity: 0, scale: 0.85 }}
+                animate={{ opacity: 1, scale: 1 }}
+                transition={{ delay: i * 0.055 }}
+              >
+                <span className="step-icon" aria-hidden="true">{step.icon}</span>
+                <span className="step-label">{step.label}</span>
+                <span className="step-status" aria-hidden="true">
+                  {state === 'done' ? '✓' : state === 'active' ? '…' : ''}
+                </span>
+              </motion.div>
+            );
+          })}
         </div>
 
-        {scanPhase === 'complete' && results && (
-          <motion.div
-            className="viz-results-preview"
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.2 }}
-          >
-            {results.duplicates?.length > 0 && (
+        {/* ── Network graph + Timeline (shown after scan) ──────────── */}
+        <AnimatePresence>
+          {(isScanning || isComplete) && (
+            <motion.div
+              className="viz-results-preview"
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: isComplete ? 0.2 : 0 }}
+            >
+              {/* Duplicate network */}
               <div className="viz-sub-card">
                 <h3>Duplicate Detection Network</h3>
-                <NetworkGraph duplicates={results.duplicates} />
-                <p className="viz-sub-note">{results.duplicates.length} similar sources found</p>
+                {isScanning || !showDuplicates ? (
+                  <SubCardSkeleton rows={5} />
+                ) : (
+                  <Suspense fallback={<SubCardSkeleton rows={5} />}>
+                    <NetworkGraph duplicates={results.duplicates} />
+                    <p className="viz-sub-note">
+                      {results.duplicates.length} similar source{results.duplicates.length !== 1 ? 's' : ''} found
+                    </p>
+                  </Suspense>
+                )}
               </div>
-            )}
-            {results.timeline?.length > 0 && (
-              <div className="viz-sub-card">
-                <h3>Verification Timeline</h3>
-                <div className="timeline">
-                  {results.timeline.map((ev, i) => (
-                    <motion.div
-                      key={i}
-                      className="timeline-item"
-                      initial={{ opacity: 0, x: -20 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ delay: 0.1 * i }}
-                    >
-                      <div className="timeline-dot" />
-                      <div className="timeline-content">
-                        <p className="timeline-label">{ev.label}</p>
-                        <p className="timeline-detail">{ev.detail}</p>
-                        <p className="timeline-time">{ev.time}</p>
-                      </div>
-                    </motion.div>
-                  ))}
+
+              {/* Verification timeline — hidden for image type (no timeline data) */}
+              {inputType !== 'image' && (
+                <div className="viz-sub-card">
+                  <h3>Verification Timeline</h3>
+                  {isScanning || !showTimeline ? (
+                    <SubCardSkeleton rows={4} />
+                  ) : (
+                    <Suspense fallback={<SubCardSkeleton rows={4} />}>
+                      <TimelineGraph events={results.timeline} />
+                    </Suspense>
+                  )}
                 </div>
-              </div>
-            )}
-          </motion.div>
-        )}
+              )}
+            </motion.div>
+          )}
+        </AnimatePresence>
       </div>
     </motion.section>
   );

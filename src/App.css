@@ -34,3 +34,14 @@
     padding: 16px 12px 40px;
   }
 }
+
+/* Global scan error banner */
+.scan-error-banner {
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(239, 68, 68, 0.35);
+  border-radius: var(--radius-md);
+  padding: 12px 16px;
+  color: #ef4444;
+  font-size: 0.85rem;
+  margin-bottom: 20px;
+}

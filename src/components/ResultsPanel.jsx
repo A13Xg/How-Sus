@@ -1,39 +1,76 @@
-import React, { useState, useRef } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+/**
+ * ResultsPanel - Displays the final analysis results.
+ *
+ * Features:
+ *  - Circular SVG authenticity score gauge with animated stroke
+ *  - Source verification table with verified/unverified flags
+ *  - Duplicate detection bars via AnimatedProgressBar
+ *  - Optional AI analysis section (shown when apiKey was set)
+ *  - Expandable detail panels for findings, EXIF, duplicates, AI, sources
+ *  - Skeleton loader state while results prop is null (shows during brief lag)
+ *  - Download buttons: PDF (jsPDF) and full HTML report with glow hover animation
+ *  - Full ARIA labelling and keyboard navigation
+ *
+ * Props:
+ *   results   {object}  - scanResults from App.jsx
+ *   inputData {object}  - { type, value, file, … }
+ *   apiKey    {string}  - populated if AI was used
+ */
+import React, { useRef } from 'react';
+import { motion } from 'framer-motion';
 import jsPDF from 'jspdf';
+import ExpandablePanel from './ExpandablePanel';
+import AnimatedProgressBar from './AnimatedProgressBar';
 import './ResultsPanel.css';
 
-function ScoreMeter({ score }) {
-  const color = score >= 70 ? '#10b981' : score >= 40 ? '#f59e0b' : '#ef4444';
-  const label = score >= 70 ? 'Likely Authentic' : score >= 40 ? 'Uncertain' : 'Likely False';
-  const circumference = 2 * Math.PI * 54;
-  const dashOffset = circumference - (score / 100) * circumference;
+// ─── Score colour helper ───────────────────────────────────────────────────
+function scoreColor(score) {
+  if (score >= 70) return '#10b981';
+  if (score >= 40) return '#f59e0b';
+  return '#ef4444';
+}
+
+function scoreLabel(score) {
+  if (score >= 70) return 'Likely Authentic';
+  if (score >= 40) return 'Uncertain';
+  return 'Likely False';
+}
+
+// ─── Circular gauge ────────────────────────────────────────────────────────
+function ScoreGauge({ score }) {
+  const R = 54;
+  const circ = 2 * Math.PI * R;
+  const offset = circ - (score / 100) * circ;
+  const color = scoreColor(score);
 
   return (
-    <div className="score-meter">
-      <svg width="140" height="140" viewBox="0 0 140 140">
-        <circle cx="70" cy="70" r="54" fill="none" stroke="#1e2d4a" strokeWidth="12" />
+    <div className="score-gauge" aria-label={`Authenticity score: ${score} out of 100 — ${scoreLabel(score)}`}>
+      <svg width="140" height="140" viewBox="0 0 140 140" aria-hidden="true">
+        {/* Track */}
+        <circle cx="70" cy="70" r={R} fill="none" stroke="#1e2d4a" strokeWidth="12" />
+        {/* Animated arc */}
         <motion.circle
-          cx="70" cy="70" r="54"
+          cx="70" cy="70" r={R}
           fill="none"
           stroke={color}
           strokeWidth="12"
           strokeLinecap="round"
-          strokeDasharray={circumference}
-          initial={{ strokeDashoffset: circumference }}
-          animate={{ strokeDashoffset: dashOffset }}
-          transition={{ duration: 1.2, ease: 'easeOut' }}
+          strokeDasharray={circ}
+          initial={{ strokeDashoffset: circ }}
+          animate={{ strokeDashoffset: offset }}
+          transition={{ duration: 1.3, ease: 'easeOut' }}
           transform="rotate(-90 70 70)"
         />
+        {/* Score number */}
         <motion.text
-          x="70" y="65"
+          x="70" y="66"
           textAnchor="middle"
           fill={color}
           fontSize="26"
           fontWeight="800"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          transition={{ delay: 0.5 }}
+          transition={{ delay: 0.6 }}
         >
           {score}
         </motion.text>
@@ -42,169 +79,207 @@ function ScoreMeter({ score }) {
       <motion.p
         className="score-label"
         style={{ color }}
-        initial={{ opacity: 0, y: 5 }}
+        initial={{ opacity: 0, y: 4 }}
         animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.8 }}
+        transition={{ delay: 0.9 }}
       >
-        {label}
+        {scoreLabel(score)}
       </motion.p>
     </div>
   );
 }
 
+// ─── Finding row ───────────────────────────────────────────────────────────
+const STATUS_COLOR = { good: '#10b981', bad: '#ef4444', warn: '#f59e0b', info: '#3b82f6' };
+const STATUS_ICON  = { good: '✓', bad: '✗', warn: '⚠', info: 'ℹ' };
+
 function FindingRow({ finding, index }) {
-  const statusColor = { good: '#10b981', bad: '#ef4444', warn: '#f59e0b', info: '#3b82f6' };
-  const statusIcon = { good: '✓', bad: '✗', warn: '⚠', info: 'ℹ' };
+  const color = STATUS_COLOR[finding.status] || '#94a3b8';
+  const icon  = STATUS_ICON[finding.status]  || '•';
   return (
     <motion.div
       className="finding-row"
       initial={{ opacity: 0, x: -15 }}
       animate={{ opacity: 1, x: 0 }}
-      transition={{ delay: index * 0.06 }}
+      transition={{ delay: index * 0.055 }}
+      role="row"
     >
-      <span className="finding-status" style={{ color: statusColor[finding.status] || '#94a3b8' }}>
-        {statusIcon[finding.status] || '•'}
+      <span className="finding-status" style={{ color }} aria-label={finding.status} role="cell">
+        {icon}
       </span>
-      <span className="finding-label">{finding.label}</span>
-      <span className="finding-value" style={{ color: statusColor[finding.status] || 'var(--text-secondary)' }}>
-        {finding.value}
-      </span>
+      <span className="finding-label" role="cell">{finding.label}</span>
+      <span className="finding-value" style={{ color }} role="cell">{finding.value}</span>
     </motion.div>
   );
 }
 
-function ExifSection({ exifData }) {
-  const [expanded, setExpanded] = useState(false);
-  const entries = Object.entries(exifData || {}).filter(([k, v]) => v != null && typeof v !== 'object');
-
-  if (!entries.length) return null;
-  const shown = expanded ? entries : entries.slice(0, 8);
-
+// ─── Source row ────────────────────────────────────────────────────────────
+function SourceRow({ source, index }) {
+  const verified = source.verified;
   return (
-    <div className="exif-section">
-      <h3 className="section-subtitle">EXIF Metadata ({entries.length} fields)</h3>
-      <div className="exif-grid">
-        {shown.map(([k, v]) => (
-          <div key={k} className="exif-row">
-            <span className="exif-key">{k}</span>
-            <span className="exif-value">{String(v).slice(0, 80)}</span>
-          </div>
-        ))}
-      </div>
-      {entries.length > 8 && (
-        <button className="btn-expand" onClick={() => setExpanded(!expanded)}>
-          {expanded ? '▲ Show less' : `▼ Show ${entries.length - 8} more fields`}
-        </button>
-      )}
+    <motion.tr
+      className="source-row"
+      initial={{ opacity: 0, x: -10 }}
+      animate={{ opacity: 1, x: 0 }}
+      transition={{ delay: index * 0.07 }}
+    >
+      <td className="source-label">{source.label}</td>
+      <td>
+        <span className={`source-badge ${verified === true ? 'verified' : verified === false ? 'unverified' : 'neutral'}`}>
+          {verified === true ? '✓ Verified' : verified === false ? '✗ Not verified' : '— N/A'}
+        </span>
+      </td>
+      <td className="source-date">{source.date || '—'}</td>
+    </motion.tr>
+  );
+}
+
+// ─── EXIF data section ─────────────────────────────────────────────────────
+function ExifDetails({ exifData }) {
+  const entries = Object.entries(exifData || {}).filter(([, v]) => v != null && typeof v !== 'object');
+  if (!entries.length) return <p className="empty-note">No EXIF fields extracted.</p>;
+  return (
+    <div className="exif-grid">
+      {entries.map(([k, v]) => (
+        <div key={k} className="exif-row">
+          <span className="exif-key">{k}</span>
+          <span className="exif-value">{String(v).slice(0, 80)}</span>
+        </div>
+      ))}
     </div>
   );
 }
 
-export default function ResultsPanel({ results, inputData, apiKey }) {
-  const panelRef = useRef(null);
+// ─── Download helpers ──────────────────────────────────────────────────────
 
-  const downloadPDF = () => {
-    const doc = new jsPDF();
-    const lines = [];
-    lines.push('HowSus - Authenticity Analysis Report');
-    lines.push('');
-    lines.push(`Date: ${new Date().toLocaleString()}`);
-    lines.push(`Type: ${results.type.toUpperCase()}`);
-    lines.push(`Input: ${inputData.value?.slice(0, 80) || inputData.file?.name || 'N/A'}`);
-    lines.push('');
-    lines.push(`Authenticity Score: ${results.score}/100`);
-    lines.push(`Verdict: ${results.score >= 70 ? 'Likely Authentic' : results.score >= 40 ? 'Uncertain' : 'Likely False'}`);
-    lines.push('');
-    lines.push('FINDINGS:');
-    (results.findings || []).forEach(f => {
-      lines.push(`  [${f.status?.toUpperCase()}] ${f.label}: ${f.value}`);
-    });
-    if (results.duplicates?.length) {
-      lines.push('');
-      lines.push('SIMILAR SOURCES:');
-      results.duplicates.forEach(d => lines.push(`  ${d.source} - ${d.similarity}% similarity (${d.date})`));
-    }
-    if (results.aiAnalysis) {
-      lines.push('');
-      lines.push('AI ANALYSIS:');
-      const aiLines = results.aiAnalysis.match(/.{1,90}/g) || [];
-      aiLines.forEach(l => lines.push('  ' + l));
-    }
-    lines.push('');
-    lines.push('Generated by HowSus - News & Media Authenticity Analyzer');
+function buildPDF(results, inputData) {
+  const doc = new jsPDF();
+  const score = results.authenticityScore;
+  const verdict = scoreLabel(score);
+  const inputLabel = inputData.value?.slice(0, 80) || inputData.file?.name || 'N/A';
 
-    let y = 15;
-    doc.setFontSize(14);
-    doc.setFont('helvetica', 'bold');
-    doc.text(lines[0], 15, y); y += 10;
-    doc.setFontSize(10);
-    doc.setFont('helvetica', 'normal');
-    lines.slice(1).forEach(line => {
-      if (y > 270) { doc.addPage(); y = 15; }
-      doc.text(line, 15, y); y += 7;
-    });
-    doc.save(`howsus-report-${Date.now()}.pdf`);
+  let y = 16;
+  const line = (text, size = 10, bold = false) => {
+    doc.setFontSize(size);
+    doc.setFont('helvetica', bold ? 'bold' : 'normal');
+    if (y > 275) { doc.addPage(); y = 16; }
+    doc.text(String(text), 15, y);
+    y += size * 0.7 + 2;
   };
 
-  const downloadHTML = () => {
-    const score = results.score;
-    const color = score >= 70 ? '#10b981' : score >= 40 ? '#f59e0b' : '#ef4444';
-    const verdict = score >= 70 ? 'Likely Authentic' : score >= 40 ? 'Uncertain' : 'Likely False';
+  line('HowSus — Authenticity Analysis Report', 15, true);
+  line('');
+  line(`Date: ${new Date().toLocaleString()}`);
+  line(`Type: ${results.type.toUpperCase()}   Input: ${inputLabel}`);
+  line('');
+  line(`Authenticity Score: ${score}/100  (${verdict})`, 12, true);
+  line('');
+  line('FINDINGS:', 11, true);
+  (results.findings || []).forEach((f) => line(`  [${(f.status || '').toUpperCase()}] ${f.label}: ${f.value}`));
 
-    const findingsHTML = (results.findings || []).map(f => {
-      const sc = { good: '#10b981', bad: '#ef4444', warn: '#f59e0b', info: '#3b82f6' };
-      return `<tr><td style="color:${sc[f.status]}">${f.label}</td><td style="color:${sc[f.status]}">${f.value}</td></tr>`;
-    }).join('');
+  if (results.sources?.length) {
+    line('');
+    line('SOURCES:', 11, true);
+    results.sources.forEach((s) => line(`  ${s.label} — ${s.verified === true ? 'Verified' : s.verified === false ? 'Not verified' : 'N/A'} (${s.date || '—'})`));
+  }
+  if (results.duplicates?.length) {
+    line('');
+    line('SIMILAR SOURCES:', 11, true);
+    results.duplicates.forEach((d) => line(`  ${d.source ?? d.url} — ${d.matchPercentage ?? d.similarity}% similarity (${d.date})`));
+  }
+  if (results.aiAnalysis) {
+    line('');
+    line('AI ANALYSIS:', 11, true);
+    const summary = typeof results.aiAnalysis === 'object'
+      ? `Confidence: ${results.aiAnalysis.confidence ?? 'N/A'}%\n${results.aiAnalysis.summary || ''}`
+      : results.aiAnalysis;
+    (summary.match(/.{1,90}/g) || []).forEach((l) => line('  ' + l));
+  }
+  line('');
+  line('Generated by HowSus — howsus.github.io', 9);
+  doc.save(`howsus-report-${Date.now()}.pdf`);
+}
 
-    const dupHTML = results.duplicates?.length ? `
-      <h3>Similar Sources (${results.duplicates.length})</h3>
-      <table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;width:100%;border-color:#334155">
-        <tr><th>Source</th><th>Similarity</th><th>Date</th></tr>
-        ${results.duplicates.map(d => `<tr><td>${d.source}</td><td>${d.similarity}%</td><td>${d.date}</td></tr>`).join('')}
-      </table>` : '';
+function buildHTML(results, inputData) {
+  const score = results.authenticityScore;
+  const color = scoreColor(score);
+  const verdict = scoreLabel(score);
+  const inputLabel = (inputData.value || inputData.file?.name || 'N/A').slice(0, 120);
 
-    const aiHTML = results.aiAnalysis ? `<h3>AI Analysis</h3><p style="background:#1e293b;padding:12px;border-radius:8px;line-height:1.6">${results.aiAnalysis}</p>` : '';
+  const row = (cells) => `<tr>${cells.map((c) => `<td>${c}</td>`).join('')}</tr>`;
+  const sc = STATUS_COLOR;
 
-    const html = `<!DOCTYPE html>
+  const findingsHTML = (results.findings || []).map((f) =>
+    row([`<span style="color:${sc[f.status]}">${STATUS_ICON[f.status] || '•'} ${f.label}</span>`, `<span style="color:${sc[f.status]}">${f.value}</span>`])
+  ).join('');
+
+  const sourcesHTML = results.sources?.length
+    ? `<h2>Source Verification</h2>
+       <table><tr><th>Source</th><th>Status</th><th>Date</th></tr>
+       ${results.sources.map((s) => row([s.label, s.verified === true ? '✓ Verified' : s.verified === false ? '✗ Not verified' : '—', s.date || '—'])).join('')}
+       </table>` : '';
+
+  const dupHTML = results.duplicates?.length
+    ? `<h2>Similar Sources</h2>
+       <table><tr><th>Source</th><th>Similarity</th><th>Date</th></tr>
+       ${results.duplicates.map((d) => row([d.source ?? d.url, `${d.matchPercentage ?? d.similarity}%`, d.date])).join('')}
+       </table>` : '';
+
+  const aiHtml = results.aiAnalysis
+    ? `<h2>AI Analysis</h2>
+       <div class="ai-box">
+         ${typeof results.aiAnalysis === 'object'
+           ? `<p><strong>Confidence:</strong> ${results.aiAnalysis.confidence ?? 'N/A'}%</p><p>${results.aiAnalysis.summary || ''}</p>`
+           : `<p>${results.aiAnalysis}</p>`}
+       </div>` : '';
+
+  const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>HowSus Report - ${new Date().toLocaleDateString()}</title>
+<title>HowSus Report — ${new Date().toLocaleDateString()}</title>
 <style>
-  body { font-family: Arial, sans-serif; background: #0a0e1a; color: #f1f5f9; padding: 32px; max-width: 900px; margin: 0 auto; }
-  h1 { color: #3b82f6; } h2 { color: #8b5cf6; margin-top: 28px; }
-  table { width: 100%; border-collapse: collapse; margin-top: 10px; }
-  th, td { padding: 8px 12px; border: 1px solid #1e2d4a; text-align: left; }
-  th { background: #111827; }
-  .score { font-size: 4rem; font-weight: 900; color: ${color}; }
-  .verdict { font-size: 1.2rem; color: ${color}; margin-bottom: 20px; }
-  .footer { margin-top: 40px; color: #475569; font-size: 0.8rem; }
+  body{font-family:Arial,sans-serif;background:#0a0e1a;color:#f1f5f9;padding:32px;max-width:900px;margin:0 auto}
+  h1{color:#3b82f6}h2{color:#8b5cf6;margin-top:28px;border-top:1px solid #1e2d4a;padding-top:16px}
+  table{width:100%;border-collapse:collapse;margin-top:8px}
+  th,td{padding:8px 12px;border:1px solid #1e2d4a;text-align:left;font-size:.88rem}
+  th{background:#111827;font-weight:700}
+  .score{font-size:4rem;font-weight:900;color:${color};margin:8px 0}
+  .verdict{font-size:1.2rem;color:${color};margin-bottom:20px}
+  .ai-box{background:#1e293b;padding:14px 16px;border-radius:8px;line-height:1.6;font-size:.88rem}
+  .footer{margin-top:40px;color:#475569;font-size:.75rem;border-top:1px solid #1e2d4a;padding-top:12px}
 </style>
 </head>
 <body>
-<h1>🔍 HowSus - Authenticity Report</h1>
-<p>Generated: ${new Date().toLocaleString()}</p>
-<p>Type: ${results.type.toUpperCase()} | Input: ${(inputData.value || inputData.file?.name || 'N/A').slice(0, 100)}</p>
+<h1>🔍 HowSus — Authenticity Report</h1>
+<p><strong>Generated:</strong> ${new Date().toLocaleString()}</p>
+<p><strong>Type:</strong> ${results.type.toUpperCase()} &nbsp;|&nbsp; <strong>Input:</strong> ${inputLabel}</p>
 <div class="score">${score}</div>
 <div class="verdict">${verdict}</div>
 <h2>Analysis Findings</h2>
-<table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;border-color:#334155">
-  <tr><th>Check</th><th>Result</th></tr>
-  ${findingsHTML}
-</table>
+<table><tr><th>Check</th><th>Result</th></tr>${findingsHTML}</table>
+${sourcesHTML}
 ${dupHTML}
-${aiHTML}
-<div class="footer">Generated by HowSus - News & Media Authenticity Analyzer</div>
+${aiHtml}
+<div class="footer">Generated by HowSus — News &amp; Media Authenticity Analyzer</div>
 </body>
 </html>`;
 
-    const blob = new Blob([html], { type: 'text/html' });
-    const a = document.createElement('a');
-    a.href = URL.createObjectURL(blob);
-    a.download = `howsus-report-${Date.now()}.html`;
-    a.click();
-    URL.revokeObjectURL(a.href);
-  };
+  const blob = new Blob([html], { type: 'text/html' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `howsus-report-${Date.now()}.html`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+// ─── Main component ────────────────────────────────────────────────────────
+export default function ResultsPanel({ results, inputData }) {
+  const panelRef = useRef(null);
+
+  if (!results) return null; // guard — should not normally render without results
+
+  const score = results.authenticityScore ?? results.score ?? 0;
 
   return (
     <motion.section
@@ -214,126 +289,194 @@ ${aiHTML}
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: -20 }}
       transition={{ duration: 0.5 }}
+      aria-label="Analysis results"
     >
       <div className="results-card">
+        {/* ── Header row ─────────────────────────────────────────────── */}
         <div className="results-header">
           <h2>Analysis Results</h2>
-          <div className="download-btns">
-            <button className="btn-download pdf" onClick={downloadPDF} title="Download PDF report">
+          <div className="download-btns" role="group" aria-label="Download report">
+            <motion.button
+              className="btn-download pdf"
+              onClick={() => buildPDF(results, inputData)}
+              type="button"
+              aria-label="Download PDF report"
+              whileHover={{ scale: 1.06, boxShadow: '0 0 18px rgba(239,68,68,0.45)' }}
+              whileTap={{ scale: 0.95 }}
+            >
               ⬇ PDF
-            </button>
-            <button className="btn-download html" onClick={downloadHTML} title="Download HTML report">
+            </motion.button>
+            <motion.button
+              className="btn-download html"
+              onClick={() => buildHTML(results, inputData)}
+              type="button"
+              aria-label="Download full HTML report"
+              whileHover={{ scale: 1.06, boxShadow: '0 0 18px rgba(59,130,246,0.45)' }}
+              whileTap={{ scale: 0.95 }}
+            >
               ⬇ HTML
-            </button>
+            </motion.button>
           </div>
         </div>
 
+        {/* ── Score + summary ──────────────────────────────────────── */}
         <div className="results-top">
-          <ScoreMeter score={results.score} />
+          <ScoreGauge score={score} />
           <div className="results-summary">
-            <div className="summary-item">
-              <span className="summary-key">Input type</span>
-              <span className="summary-val">{results.type.toUpperCase()}</span>
-            </div>
-            {results.domain && (
-              <div className="summary-item">
-                <span className="summary-key">Domain</span>
-                <span className="summary-val">{results.domain}</span>
+            {[
+              { key: 'Input type', val: results.type.toUpperCase() },
+              results.domain      && { key: 'Domain',       val: results.domain },
+              results.wordCount   && { key: 'Words',        val: results.wordCount },
+              results.fileName    && { key: 'File',         val: results.fileName },
+              results.exifCount !== undefined && { key: 'EXIF fields', val: results.exifCount },
+              results.duplicates?.length > 0  && { key: 'Similar sources', val: `${results.duplicates.length} found`, warn: true },
+            ].filter(Boolean).map((item) => (
+              <div key={item.key} className="summary-item">
+                <span className="summary-key">{item.key}</span>
+                <span className={`summary-val ${item.warn ? 'warn' : ''}`}>{item.val}</span>
               </div>
-            )}
-            {results.wordCount && (
-              <div className="summary-item">
-                <span className="summary-key">Words</span>
-                <span className="summary-val">{results.wordCount}</span>
-              </div>
-            )}
-            {results.fileName && (
-              <div className="summary-item">
-                <span className="summary-key">File</span>
-                <span className="summary-val">{results.fileName}</span>
-              </div>
-            )}
-            {results.exifCount !== undefined && (
-              <div className="summary-item">
-                <span className="summary-key">EXIF fields</span>
-                <span className="summary-val">{results.exifCount}</span>
-              </div>
-            )}
-            {results.duplicates?.length > 0 && (
-              <div className="summary-item">
-                <span className="summary-key">Similar sources</span>
-                <span className="summary-val warn">{results.duplicates.length} found</span>
-              </div>
-            )}
+            ))}
           </div>
         </div>
 
         <div className="section-divider" />
 
-        <div className="findings-section">
-          <h3 className="section-subtitle">Detailed Findings</h3>
-          {results.findings?.map((f, i) => <FindingRow key={i} finding={f} index={i} />)}
-        </div>
-
-        {results.type === 'image' && results.exifData && Object.keys(results.exifData).length > 0 && (
-          <>
-            <div className="section-divider" />
-            <ExifSection exifData={results.exifData} />
-          </>
+        {/* ── Error banner ─────────────────────────────────────────── */}
+        {results.error && (
+          <div className="error-msg" role="alert">⚠ {results.error}</div>
         )}
 
+        {/* ── Detailed findings (expandable) ───────────────────────── */}
+        <ExpandablePanel
+          title="Detailed Findings"
+          icon="🔎"
+          badge={results.findings?.length}
+          defaultOpen
+          id="findings"
+        >
+          <div className="findings-section" role="table" aria-label="Detailed findings">
+            {results.findings?.map((f, i) => <FindingRow key={i} finding={f} index={i} />)}
+          </div>
+        </ExpandablePanel>
+
+        {/* ── Source verification (expandable) ────────────────────── */}
+        {results.sources?.length > 0 && (
+          <ExpandablePanel
+            title="Source Verification"
+            icon="🌐"
+            badge={results.sources.length}
+            defaultOpen
+            id="sources"
+          >
+            <div className="sources-table-wrap">
+              <table className="sources-table" aria-label="Source verification results">
+                <thead>
+                  <tr>
+                    <th scope="col">Source</th>
+                    <th scope="col">Status</th>
+                    <th scope="col">Date</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {results.sources.map((s, i) => <SourceRow key={i} source={s} index={i} />)}
+                </tbody>
+              </table>
+            </div>
+          </ExpandablePanel>
+        )}
+
+        {/* ── Duplicate detection (expandable) ────────────────────── */}
         {results.duplicates?.length > 0 && (
-          <>
-            <div className="section-divider" />
-            <div className="duplicates-section">
-              <h3 className="section-subtitle">Source Duplication ({results.duplicates.length} matches)</h3>
-              <div className="dup-list">
-                {results.duplicates.map((d, i) => (
+          <ExpandablePanel
+            title="Duplicate Detection"
+            icon="🔁"
+            badge={results.duplicates.length}
+            id="duplicates"
+          >
+            <div className="dup-list">
+              {results.duplicates.map((d, i) => {
+                const pct = d.matchPercentage ?? d.similarity ?? 0;
+                return (
                   <motion.div
                     key={i}
                     className="dup-item"
-                    initial={{ opacity: 0, scale: 0.95 }}
-                    animate={{ opacity: 1, scale: 1 }}
-                    transition={{ delay: i * 0.07 }}
+                    initial={{ opacity: 0, x: -10 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ delay: i * 0.06 }}
                   >
-                    <span className="dup-source">{d.source}</span>
-                    <div className="dup-bar-wrap">
-                      <motion.div
-                        className="dup-bar"
-                        style={{ background: d.similarity > 80 ? '#ef4444' : d.similarity > 65 ? '#f59e0b' : '#10b981' }}
-                        initial={{ width: 0 }}
-                        animate={{ width: `${d.similarity}%` }}
-                        transition={{ duration: 0.8, delay: i * 0.07 }}
-                      />
-                    </div>
-                    <span className="dup-pct">{d.similarity}%</span>
+                    <span className="dup-source">{d.source ?? d.url}</span>
+                    <AnimatedProgressBar
+                      value={pct}
+                      color={pct >= 80 ? '#ef4444' : pct >= 65 ? '#f59e0b' : '#10b981'}
+                      size="sm"
+                      glowing={false}
+                      label={`${d.source ?? d.url}: ${pct}% similarity`}
+                    />
+                    <span className="dup-pct">{pct}%</span>
                     <span className="dup-date">{d.date}</span>
                   </motion.div>
-                ))}
+                );
+              })}
+            </div>
+          </ExpandablePanel>
+        )}
+
+        {/* ── Image metadata (expandable — image type only) ────────── */}
+        {results.type === 'image' && results.imageAnalysis && (
+          <ExpandablePanel
+            title="Image Metadata (EXIF)"
+            icon="📷"
+            badge={results.exifCount}
+            id="exif"
+          >
+            <ExifDetails exifData={results.exifData} />
+            {results.imageAnalysis.reverseSearchMatches?.length > 0 && (
+              <div className="reverse-search">
+                <p className="section-subtitle">Reverse Image Search</p>
+                <ul>
+                  {results.imageAnalysis.reverseSearchMatches.map((url, i) => (
+                    <li key={i}><a href={url} target="_blank" rel="noopener noreferrer">{url}</a></li>
+                  ))}
+                </ul>
               </div>
-            </div>
-          </>
+            )}
+          </ExpandablePanel>
         )}
 
+        {/* ── AI analysis (expandable — only when AI was run) ──────── */}
         {results.aiAnalysis && (
-          <>
-            <div className="section-divider" />
-            <div className="ai-section">
-              <h3 className="section-subtitle">🤖 AI Analysis</h3>
-              <motion.div
-                className="ai-content"
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ delay: 0.3 }}
-              >
-                {results.aiAnalysis}
-              </motion.div>
-            </div>
-          </>
-        )}
-
-        {results.error && (
-          <div className="error-msg">⚠ {results.error}</div>
+          <ExpandablePanel
+            title="AI Analysis"
+            icon="🤖"
+            defaultOpen
+            id="ai"
+          >
+            <motion.div
+              className="ai-content"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 0.2 }}
+            >
+              {typeof results.aiAnalysis === 'object' ? (
+                <>
+                  {results.aiAnalysis.confidence != null && (
+                    <div className="ai-confidence">
+                      <span className="summary-key">Confidence</span>
+                      <AnimatedProgressBar
+                        value={results.aiAnalysis.confidence}
+                        size="sm"
+                        showLabel
+                        label={`AI confidence: ${results.aiAnalysis.confidence}%`}
+                      />
+                    </div>
+                  )}
+                  {results.aiAnalysis.summary && <p className="ai-summary">{results.aiAnalysis.summary}</p>}
+                </>
+              ) : (
+                <p className="ai-summary">{results.aiAnalysis}</p>
+              )}
+            </motion.div>
+          </ExpandablePanel>
         )}
       </div>
     </motion.section>

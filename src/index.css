@@ -24,15 +24,14 @@
   --radius-xl: 24px;
 }
 
+/* ── Reset ────────────────────────────────────────────────────────────────── */
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
-html {
-  scroll-behavior: smooth;
-}
+html { scroll-behavior: smooth; }
 
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -41,32 +40,54 @@ body {
   line-height: 1.6;
   min-height: 100vh;
   overflow-x: hidden;
+  /* Sufficient contrast: text-primary (#f1f5f9) on bg-primary (#0a0e1a) ≈ 15:1 */
 }
 
-::-webkit-scrollbar {
-  width: 6px;
-}
-::-webkit-scrollbar-track {
-  background: var(--bg-secondary);
-}
-::-webkit-scrollbar-thumb {
-  background: var(--accent-blue);
-  border-radius: 3px;
+/* ── Scrollbar ────────────────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-secondary); }
+::-webkit-scrollbar-thumb { background: var(--accent-blue); border-radius: 3px; }
+
+/* ── Base elements ────────────────────────────────────────────────────────── */
+button { cursor: pointer; font-family: inherit; }
+input, textarea { font-family: inherit; }
+a { color: var(--accent-blue); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ── Focus outline (global fallback) ─────────────────────────────────────── */
+:focus-visible {
+  outline: 2px solid var(--accent-blue);
+  outline-offset: 2px;
 }
 
-button {
-  cursor: pointer;
-  font-family: inherit;
+/* ── Responsive overflow for tables ──────────────────────────────────────── */
+table { border-collapse: collapse; }
+.table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
-input, textarea {
-  font-family: inherit;
+/* ── Section subtitle shared style ───────────────────────────────────────── */
+.section-subtitle {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--text-muted);
+  margin-bottom: 10px;
 }
 
-a {
-  color: var(--accent-blue);
-  text-decoration: none;
+/* ── Skeleton shimmer (shared keyframe) ───────────────────────────────────── */
+@keyframes shimmer {
+  0%   { background-position: -600px 0; }
+  100% { background-position:  600px 0; }
 }
-a:hover {
-  text-decoration: underline;
+
+/* ── Responsive typography ────────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  body { font-size: 0.95rem; }
+}
+
+@media (max-width: 480px) {
+  body { font-size: 0.9rem; }
 }
