@@ -1,0 +1,83 @@
+/* ExpandablePanel ------------------------------------------------------ */
+.expandable-panel {
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  background: var(--bg-secondary);
+}
+
+/* Header button */
+.expandable-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 13px 16px;
+  background: transparent;
+  border: none;
+  color: var(--text-primary);
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.18s;
+  gap: 8px;
+}
+
+.expandable-header:hover {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.expandable-header:focus-visible {
+  outline: 2px solid var(--accent-blue);
+  outline-offset: -2px;
+}
+
+.expandable-header.open {
+  border-bottom: 1px solid var(--border-color);
+}
+
+/* Title row */
+.expandable-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+  color: var(--text-muted);
+  flex: 1;
+}
+
+.expandable-icon {
+  font-size: 1rem;
+}
+
+/* Count badge */
+.expandable-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--accent-blue);
+  color: #fff;
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 999px;
+  min-width: 20px;
+  line-height: 1.6;
+  letter-spacing: 0;
+}
+
+/* Animated chevron */
+.expandable-chevron {
+  color: var(--text-muted);
+  font-size: 1rem;
+  flex-shrink: 0;
+  display: inline-block;
+  line-height: 1;
+}
+
+/* Inner padding for content */
+.expandable-inner {
+  padding: 14px 16px;
+}

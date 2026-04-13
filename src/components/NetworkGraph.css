@@ -1,0 +1,12 @@
+/* NetworkGraph --------------------------------------------------------- */
+.network-graph-wrap {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  max-height: 220px;
+}
+
+.network-graph-canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}

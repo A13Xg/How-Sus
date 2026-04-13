@@ -1,0 +1,348 @@
+/* ── ResultsPanel ───────────────────────────────────────────────────────── */
+.results-panel {
+  margin-bottom: 24px;
+}
+
+.results-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-xl);
+  padding: 24px;
+  box-shadow: var(--shadow-card);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* Header */
+.results-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.results-header h2 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  background: var(--gradient-main);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Download buttons with glow on hover (extra shadow added by Framer Motion) */
+.download-btns {
+  display: flex;
+  gap: 8px;
+}
+
+.btn-download {
+  border: none;
+  padding: 7px 14px;
+  border-radius: var(--radius-sm);
+  font-size: 0.78rem;
+  font-weight: 600;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.btn-download:focus-visible {
+  outline: 2px solid var(--accent-blue);
+  outline-offset: 2px;
+}
+
+.btn-download.pdf {
+  background: rgba(239,68,68,0.15);
+  color: #ef4444;
+  border: 1px solid rgba(239,68,68,0.3);
+}
+
+.btn-download.html {
+  background: rgba(59,130,246,0.15);
+  color: #3b82f6;
+  border: 1px solid rgba(59,130,246,0.3);
+}
+
+/* Score + summary */
+.results-top {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+
+.score-gauge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.score-label {
+  font-size: 0.9rem;
+  font-weight: 700;
+  margin-top: 4px;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+.results-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.summary-item {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.summary-key {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.summary-val {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.summary-val.warn { color: var(--accent-yellow); }
+
+/* Divider */
+.section-divider {
+  height: 1px;
+  background: var(--border-color);
+  margin: 4px 0;
+}
+
+/* Finding rows */
+.findings-section {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.finding-row {
+  display: grid;
+  grid-template-columns: 22px 1fr 1fr;
+  gap: 8px;
+  align-items: center;
+  padding: 8px 10px;
+  border-radius: var(--radius-sm);
+  background: var(--bg-secondary);
+  border: 1px solid transparent;
+  transition: border-color 0.18s;
+}
+
+.finding-row:hover {
+  border-color: var(--border-color);
+}
+
+.finding-status {
+  font-weight: 700;
+  font-size: 0.88rem;
+  text-align: center;
+}
+
+.finding-label {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+}
+
+.finding-value {
+  font-size: 0.82rem;
+  font-weight: 500;
+  text-align: right;
+}
+
+/* Source verification table */
+.sources-table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.sources-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+  min-width: 340px;
+}
+
+.sources-table th {
+  background: var(--bg-secondary);
+  color: var(--text-muted);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  padding: 8px 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.sources-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid rgba(30,45,74,0.5);
+  color: var(--text-secondary);
+}
+
+.source-label { color: var(--text-primary); font-weight: 500; }
+.source-date  { color: var(--text-muted); font-size: 0.75rem; }
+
+.source-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+.source-badge.verified   { background: rgba(16,185,129,0.15); color: #10b981; }
+.source-badge.unverified { background: rgba(239,68,68,0.15);  color: #ef4444; }
+.source-badge.neutral    { background: rgba(148,163,184,0.1); color: var(--text-muted); }
+
+/* Duplicate bars */
+.dup-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.dup-item {
+  display: grid;
+  grid-template-columns: 110px 1fr 46px 90px;
+  gap: 10px;
+  align-items: center;
+}
+
+.dup-source {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dup-pct {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  text-align: right;
+}
+
+.dup-date {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  text-align: right;
+}
+
+/* EXIF grid */
+.exif-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 6px;
+}
+
+.exif-row {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-secondary);
+  border-radius: var(--radius-sm);
+  padding: 8px 10px;
+  overflow: hidden;
+}
+
+.exif-key {
+  font-size: 0.68rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  margin-bottom: 2px;
+}
+
+.exif-value {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Reverse search */
+.reverse-search {
+  margin-top: 12px;
+}
+
+.reverse-search ul {
+  padding-left: 18px;
+  font-size: 0.82rem;
+  color: var(--accent-blue);
+}
+
+.reverse-search li { margin-bottom: 4px; }
+
+/* AI analysis */
+.ai-content {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.ai-confidence {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.ai-summary {
+  background: var(--bg-secondary);
+  border: 1px solid rgba(139,92,246,0.2);
+  border-radius: var(--radius-md);
+  padding: 14px 16px;
+  font-size: 0.88rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+  margin: 0;
+}
+
+/* Error */
+.error-msg {
+  background: rgba(239,68,68,0.08);
+  border: 1px solid rgba(239,68,68,0.3);
+  border-radius: var(--radius-md);
+  padding: 12px 16px;
+  color: #ef4444;
+  font-size: 0.85rem;
+}
+
+/* Empty state */
+.empty-note {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* ── Responsive ─────────────────────────────────────────────────────────── */
+@media (max-width: 700px) {
+  .results-top {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .dup-item {
+    grid-template-columns: 80px 1fr 38px;
+  }
+  .dup-date { display: none; }
+}
+
+@media (max-width: 480px) {
+  .results-card { padding: 16px; }
+  .results-header { flex-direction: column; align-items: flex-start; gap: 10px; }
+  .finding-row { grid-template-columns: 22px 1fr; }
+  .finding-value { grid-column: 2; text-align: left; }
+}
