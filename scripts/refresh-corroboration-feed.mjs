@@ -9,11 +9,11 @@ const outputDir = path.join(repoRoot, 'public', 'data');
 const outputPath = path.join(outputDir, 'corroboration-feed.json');
 
 const FEEDS = [
-  { name: 'Reuters World', url: 'https://www.reutersagency.com/feed/?best-topics=world&post_type=best' },
-  { name: 'BBC World', url: 'https://feeds.bbci.co.uk/news/world/rss.xml' },
-  { name: 'NPR News', url: 'https://feeds.npr.org/1001/rss.xml' },
-  { name: 'PBS Headlines', url: 'https://www.pbs.org/newshour/feeds/rss/headlines' },
-  { name: 'DW Top Stories', url: 'https://rss.dw.com/rdf/rss-en-top' },
+  { name: 'Reuters World', url: 'https://www.reutersagency.com/feed/?best-topics=world&post_type=best', tier: 1 },
+  { name: 'BBC World', url: 'https://feeds.bbci.co.uk/news/world/rss.xml', tier: 1 },
+  { name: 'NPR News', url: 'https://feeds.npr.org/1001/rss.xml', tier: 1 },
+  { name: 'PBS Headlines', url: 'https://www.pbs.org/newshour/feeds/rss/headlines', tier: 1 },
+  { name: 'DW Top Stories', url: 'https://rss.dw.com/rdf/rss-en-top', tier: 2 },
 ];
 
 function decodeXml(text) {
@@ -36,7 +36,7 @@ function extractTag(item, tag) {
   return match ? stripTags(match[1]) : null;
 }
 
-function parseRss(xml, sourceName) {
+function parseRss(xml, sourceName, tier) {
   const itemMatches = xml.match(/<item[\s\S]*?<\/item>/gi) || [];
   return itemMatches
     .map((item) => {
@@ -51,6 +51,7 @@ function parseRss(xml, sourceName) {
         link,
         publishedAt: pubDate || null,
         snippet: description ? description.slice(0, 280) : null,
+        tier,
       };
     })
     .filter(Boolean)
@@ -89,7 +90,7 @@ async function fetchFeed(feed) {
     return {
       source: feed.name,
       ok: true,
-      entries: parseRss(text, feed.name),
+      entries: parseRss(text, feed.name, feed.tier ?? 3),
       error: null,
     };
   } catch (error) {

@@ -33,6 +33,10 @@ import VisualizationSection from './components/VisualizationSection';
 import ResultsPanel from './components/ResultsPanel';
 import Footer from './components/Footer';
 import './App.css';
+import { analyzeSentiment } from './lib/sentiment.js';
+import { analyzeReadability } from './lib/readability.js';
+import { detectDarkPatterns } from './lib/darkPatterns.js';
+import { useLocalStorage } from './lib/useLocalStorage.js';
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 const SUSPICIOUS_DOMAINS = ['fakenews', 'hoax', 'clickbait', 'viral', 'shocking', 'unbelievable'];
@@ -57,6 +61,37 @@ const AI_PROVIDERS = {
     defaultModel: 'gemma-4',
   },
 };
+
+// ─── Trust tier map ────────────────────────────────────────────────────────────
+// Tier 1 = wire services / publicly funded broadcasters
+// Tier 2 = major established outlets
+// Tier 3 = unknown / aggregator (default)
+const DOMAIN_TIERS = {
+  'reuters.com': 1, 'reutersagency.com': 1,
+  'apnews.com': 1,
+  'bbc.com': 1, 'bbc.co.uk': 1, 'feeds.bbci.co.uk': 1,
+  'npr.org': 1, 'feeds.npr.org': 1,
+  'pbs.org': 1,
+  'rss.dw.com': 2,
+  'nytimes.com': 2, 'theguardian.com': 2, 'washingtonpost.com': 2,
+  'wsj.com': 2, 'bloomberg.com': 2, 'economist.com': 2,
+  'nature.com': 1, 'science.org': 1,
+};
+
+function getSourceTier(sourceOrDomain) {
+  if (!sourceOrDomain) return 3;
+  const lower = sourceOrDomain.toLowerCase();
+  for (const [domain, tier] of Object.entries(DOMAIN_TIERS)) {
+    if (lower.includes(domain)) return tier;
+  }
+  if (/\b(reuters|ap news|bbc|npr|pbs|nature|science)\b/i.test(lower)) return 1;
+  if (/\b(guardian|new york times|washington post|bloomberg|wsj|dw |deutsche welle|economist)\b/i.test(lower)) return 2;
+  return 3;
+}
+
+function tierWeight(tier) {
+  return tier === 1 ? 1.0 : tier === 2 ? 0.75 : 0.5;
+}
 
 // Scan step labels shown in VisualizationSection
 const SCAN_STEPS = [
@@ -165,17 +200,21 @@ function tokenizeText(value) {
     .slice(0, 24);
 }
 
-function selectFeedEntries(feedData, text, limit = 5) {
+function selectFeedEntriesWithKeywords(feedData, text, limit = 5) {
   const entries = Array.isArray(feedData?.entries) ? feedData.entries : [];
-  if (!entries.length) return [];
+  if (!entries.length) return { entries: [], matchedKeywords: [] };
 
   const tokens = tokenizeText(text);
-  if (!tokens.length) return entries.slice(0, limit);
+  if (!tokens.length) return { entries: entries.slice(0, limit), matchedKeywords: [] };
 
+  const matchSet = new Set();
   const scored = entries
     .map((entry) => {
       const hay = `${entry.title || ''} ${entry.snippet || ''}`.toLowerCase();
-      const overlap = tokens.reduce((acc, token) => (hay.includes(token) ? acc + 1 : acc), 0);
+      let overlap = 0;
+      for (const token of tokens) {
+        if (hay.includes(token)) { overlap++; matchSet.add(token); }
+      }
       return { entry, overlap };
     })
     .filter((item) => item.overlap > 0)
@@ -183,10 +222,13 @@ function selectFeedEntries(feedData, text, limit = 5) {
     .slice(0, limit)
     .map((item) => item.entry);
 
-  return scored.length ? scored : entries.slice(0, limit);
+  return {
+    entries: scored.length ? scored : entries.slice(0, limit),
+    matchedKeywords: [...matchSet].slice(0, 12),
+  };
 }
 
-function buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, pathKeywords, feedEntries = [] }) {
+function buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, pathKeywords, feedEntries = [], matchedKeywords = [] }) {
   const trustedPool = ['Reuters', 'AP News', 'BBC', 'NPR', 'Guardian', 'Bloomberg'];
   const altPool = ['Independent Blog', 'Community Forum', 'Social Feed', 'Mirror Site'];
   const seed = hashString(domain);
@@ -203,20 +245,24 @@ function buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, path
 
   for (let i = 0; i < corroboratingCount; i += 1) {
     const source = trustedPool[(seed + i) % trustedPool.length];
+    const tier = getSourceTier(source);
     corroborating.push({
       source,
       claim: `Core details from ${domain} align with reporting patterns seen by ${source}.`,
       confidence: 62 + ((seed + i * 7) % 34),
       note: 'Entity and timeline overlap detected.',
+      tier,
     });
   }
 
   feedEntries.slice(0, 2).forEach((entry, idx) => {
+    const tier = entry.tier || getSourceTier(entry.source || '');
     corroborating.push({
       source: entry.source || `Feed source ${idx + 1}`,
       claim: `External feed headline overlap: ${entry.title}`,
       confidence: 68 + ((seed + idx * 17) % 23),
       note: 'Matched against static corroboration feed refreshed by GitHub Actions.',
+      tier,
     });
   });
 
@@ -227,11 +273,14 @@ function buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, path
       claim: `${source} presents materially different framing for the same topic.`,
       confidence: 48 + ((seed + i * 11) % 37),
       note: pathKeywords ? 'Headline wording mismatch and sensational phrasing.' : 'Inconsistent publication metadata.',
+      tier: 3,
     });
   }
 
-  const ratio = corroborating.length / Math.max(corroborating.length + conflicting.length, 1);
-  const consistencyScore = Math.round(ratio * 100);
+  // Tier-weighted consistency score (Tier 1 sources count more)
+  const corrWeight = corroborating.reduce((acc, e) => acc + tierWeight(e.tier || 3), 0);
+  const totalWeight = [...corroborating, ...conflicting].reduce((acc, e) => acc + tierWeight(e.tier || 3), 0);
+  const consistencyScore = totalWeight > 0 ? Math.round((corrWeight / totalWeight) * 100) : 50;
 
   return {
     consistencyScore,
@@ -239,11 +288,12 @@ function buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, path
     conflictingCount: conflicting.length,
     corroborating,
     conflicting,
+    matchedKeywords,
     methodology: 'heuristic-web-source-comparison',
   };
 }
 
-function buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, feedEntries = []) {
+function buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, feedEntries = [], matchedKeywords = []) {
   const sentenceCandidates = text
     .split(/[.!?]+/)
     .map(normalizeSentence)
@@ -257,28 +307,34 @@ function buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, 
     const shortened = `${claim.slice(0, 96)}${claim.length > 96 ? '...' : ''}`;
     const confidenceBase = 58 + ((idx * 13 + claim.length) % 35);
     if (idx % 2 === 0 || (hasQuotes && hasNumbers)) {
+      const source = ['NewsWire digest', 'Fact-check archive', 'Public statement tracker'][idx % 3];
       corroborating.push({
-        source: ['NewsWire digest', 'Fact-check archive', 'Public statement tracker'][idx % 3],
+        source,
         claim: shortened,
         confidence: confidenceBase,
         note: 'Claim shape overlaps with external summaries.',
+        tier: getSourceTier(source),
       });
     } else {
+      const source = ['Forum repost', 'Unverified thread', 'Anonymous digest'][idx % 3];
       conflicting.push({
-        source: ['Forum repost', 'Unverified thread', 'Anonymous digest'][idx % 3],
+        source,
         claim: shortened,
         confidence: Math.max(45, confidenceBase - 10),
         note: suspiciousMatches.length > 0 ? 'Language intensity differs from corroborating reports.' : 'Details omitted in other references.',
+        tier: 3,
       });
     }
   });
 
   feedEntries.slice(0, 2).forEach((entry, idx) => {
+    const tier = entry.tier || getSourceTier(entry.source || '');
     corroborating.push({
       source: entry.source || `Feed source ${idx + 1}`,
       claim: `Feed overlap: ${entry.title}`,
       confidence: 63 + ((idx * 9 + (entry.title || '').length) % 28),
       note: 'Claim terms appeared in curated static feed headlines.',
+      tier,
     });
   });
 
@@ -288,16 +344,20 @@ function buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, 
       claim: 'Text did not contain enough structured claims for reliable cross-checking.',
       confidence: 40,
       note: 'Add longer text with concrete entities, dates, and numbers.',
+      tier: 3,
     });
   }
 
-  const ratio = corroborating.length / Math.max(corroborating.length + conflicting.length, 1);
+  // Tier-weighted consistency score
+  const corrWeight = corroborating.reduce((acc, e) => acc + tierWeight(e.tier || 3), 0);
+  const totalWeight = [...corroborating, ...conflicting].reduce((acc, e) => acc + tierWeight(e.tier || 3), 0);
   return {
-    consistencyScore: Math.round(ratio * 100),
+    consistencyScore: totalWeight > 0 ? Math.round((corrWeight / totalWeight) * 100) : 50,
     corroboratingCount: corroborating.length,
     conflictingCount: conflicting.length,
     corroborating,
     conflicting,
+    matchedKeywords,
     methodology: 'heuristic-claim-alignment',
   };
 }
@@ -327,13 +387,15 @@ function buildCrossCheckForImage(exifFindings) {
     });
   }
 
-  const ratio = corroborating.length / Math.max(corroborating.length + conflicting.length, 1);
+  const corrWeight = corroborating.reduce((acc, e) => acc + tierWeight(e.tier || 3), 0);
+  const totalWeight = [...corroborating, ...conflicting].reduce((acc, e) => acc + tierWeight(e.tier || 3), 0);
   return {
-    consistencyScore: Math.round(ratio * 100),
+    consistencyScore: totalWeight > 0 ? Math.round((corrWeight / totalWeight) * 100) : 50,
     corroboratingCount: corroborating.length,
     conflictingCount: conflicting.length,
     corroborating,
     conflicting,
+    matchedKeywords: [],
     methodology: 'metadata-consistency-cross-check',
   };
 }
@@ -351,14 +413,19 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
     );
     const domainAgeDays = Math.floor(Math.random() * 3000) + 100;
 
-    const feedEntries = selectFeedEntries(feedData, `${domain} ${url}`, 5);
-    const crossCheck = buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, pathKeywords, feedEntries });
+    const { entries: feedEntries, matchedKeywords } = selectFeedEntriesWithKeywords(feedData, `${domain} ${url}`, 5);
+    const crossCheck = buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, pathKeywords, feedEntries, matchedKeywords });
+    const urlPathText = urlObj.pathname.replace(/[-_/]/g, ' ');
+    const sentiment = analyzeSentiment(`${domain} ${urlPathText}`);
+    const darkPatternsResult = detectDarkPatterns(`${url} ${urlPathText}`);
 
     let score = isTrusted ? 90 : isSuspicious ? 20 : Math.max(30, Math.min(85, 60 + domainAgeDays / 100));
     if (!hasHttps) score -= 10;
     if (pathKeywords) score -= 15;
     if (isSuspicious) score -= 20;
     score += Math.round((crossCheck.consistencyScore - 50) / 6);
+    score -= Math.round(darkPatternsResult.score / 10);
+    if (Math.abs(sentiment.normalizedScore) > 3) score -= 5;
     score = Math.max(5, Math.min(100, Math.round(score)));
 
     const duplicates = generateDuplicates(domain);
@@ -402,7 +469,21 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
           value: `${crossCheck.consistencyScore}% (${crossCheck.corroboratingCount} corroborating / ${crossCheck.conflictingCount} conflicting)`,
           status: crossCheck.consistencyScore >= 65 ? 'good' : crossCheck.consistencyScore >= 40 ? 'warn' : 'bad',
         },
+        {
+          label: 'Emotional tone',
+          value: `${sentiment.label} (${sentiment.intensity}% intensity)`,
+          status: Math.abs(sentiment.normalizedScore) > 2.5 ? 'warn' : 'good',
+        },
+        {
+          label: 'Manipulative patterns',
+          value: darkPatternsResult.matchCount > 0
+            ? `${darkPatternsResult.matchCount} detected: ${darkPatternsResult.detected.slice(0, 2).map((d) => d.label).join(', ')}`
+            : 'None detected',
+          status: darkPatternsResult.riskLevel === 'high' ? 'bad' : darkPatternsResult.riskLevel === 'medium' ? 'warn' : 'good',
+        },
       ],
+      sentiment,
+      darkPatterns: darkPatternsResult,
       timeline: generateTimeline(domain),
       error: null,
     };
@@ -433,8 +514,11 @@ function analyzeText(text, feedData) {
   const exclamCount = (text.match(/!/g) || []).length;
   const hasQuotes = /[""][^""]+[""]/.test(text) || /"[^"]+"/.test(text);
   const hasNumbers = /\d/.test(text);
-  const feedEntries = selectFeedEntries(feedData, text, 5);
-  const crossCheck = buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, feedEntries);
+  const { entries: feedEntries, matchedKeywords } = selectFeedEntriesWithKeywords(feedData, text, 5);
+  const crossCheck = buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, feedEntries, matchedKeywords);
+  const sentiment = analyzeSentiment(text);
+  const readability = analyzeReadability(text);
+  const darkPatternsResult = detectDarkPatterns(text);
 
   let score = 70;
   score -= suspiciousMatches.length * 8;
@@ -444,6 +528,9 @@ function analyzeText(text, feedData) {
   score += hasNumbers ? 5 : 0;
   score += wordCount > 200 ? 10 : wordCount > 50 ? 5 : -10;
   score += Math.round((crossCheck.consistencyScore - 50) / 7);
+  score -= Math.round(darkPatternsResult.score / 8);
+  if (Math.abs(sentiment.normalizedScore) > 3) score -= 8;
+  else if (Math.abs(sentiment.normalizedScore) > 1.5) score -= 3;
   score = Math.max(5, Math.min(100, Math.round(score)));
 
   return {
@@ -503,7 +590,27 @@ function analyzeText(text, feedData) {
         value: `${crossCheck.consistencyScore}% (${crossCheck.corroboratingCount} corroborating / ${crossCheck.conflictingCount} conflicting)`,
         status: crossCheck.consistencyScore >= 65 ? 'good' : crossCheck.consistencyScore >= 40 ? 'warn' : 'bad',
       },
+      {
+        label: 'Emotional tone',
+        value: `${sentiment.label} (${sentiment.intensity}% intensity)`,
+        status: sentiment.intensity > 60 ? 'bad' : sentiment.intensity > 30 ? 'warn' : 'good',
+      },
+      {
+        label: 'Reading level',
+        value: `${readability.gradeLabel} · FK Ease: ${readability.fleschEase}`,
+        status: 'info',
+      },
+      {
+        label: 'Manipulative framing',
+        value: darkPatternsResult.matchCount > 0
+          ? `${darkPatternsResult.matchCount} pattern(s): ${darkPatternsResult.detected.slice(0, 2).map((d) => d.label).join(', ')}`
+          : 'None detected',
+        status: darkPatternsResult.riskLevel === 'high' ? 'bad' : darkPatternsResult.riskLevel === 'medium' ? 'warn' : 'good',
+      },
     ],
+    sentiment,
+    readability,
+    darkPatterns: darkPatternsResult,
     timeline: [],
     error: null,
   };
@@ -743,6 +850,7 @@ function App() {
   const [currentStep, setCurrentStep] = useState('');
   const [scanError, setScanError] = useState(null);
   const [sourceFeed, setSourceFeed] = useState(null);
+  const [scanHistory, setScanHistory] = useLocalStorage('howsus-scan-history', []);
   const scanIntervalRef = useRef(null);
 
   useEffect(() => {
@@ -755,6 +863,21 @@ function App() {
       .catch(() => {
         if (mounted) setSourceFeed(null);
       });
+
+    // Decode share link from URL hash on initial load
+    try {
+      const hash = window.location.hash;
+      if (hash.startsWith('#share=')) {
+        const data = JSON.parse(decodeURIComponent(atob(hash.slice(7))));
+        if (data.t && data.v) {
+          setInputData((prev) => ({ ...prev, type: data.t, value: data.v }));
+        }
+        // Remove hash so the page can be refreshed cleanly
+        history.replaceState(null, '', window.location.pathname + window.location.search);
+      }
+    } catch {
+      // Malformed or stale share link — ignore silently
+    }
 
     return () => {
       mounted = false;
@@ -836,9 +959,24 @@ function App() {
       result = { ...result, aiAnalysis: ai };
     }
 
+    // Persist to scan history (last 10)
+    const historyEntry = {
+      id: Date.now(),
+      timestamp: new Date().toISOString(),
+      type: result.type,
+      inputSummary:
+        inputData.type === 'url'
+          ? inputData.value.slice(0, 80)
+          : inputData.type === 'text'
+          ? `${inputData.value.slice(0, 60)}…`
+          : inputData.file?.name ?? 'Image',
+      score: result.authenticityScore,
+    };
+    setScanHistory((prev) => [historyEntry, ...prev.slice(0, 9)]);
+
     setScanResults(result);
     setScanPhase('complete');
-  }, [inputData, aiConfig, isScanning, sourceFeed]);
+  }, [inputData, aiConfig, isScanning, sourceFeed, setScanHistory]);
 
   const resolvedProvider = resolveProvider(aiConfig.provider, aiConfig.apiKey);
   const detectedProvider = detectProviderFromApiKey(aiConfig.apiKey);
@@ -914,6 +1052,9 @@ function App() {
               results={scanResults}
               inputData={inputData}
               aiConfig={aiConfig}
+              confidenceScore={computeScanConfidence(scanResults, !!aiAnalysis)}
+              scanHistory={scanHistory}
+              onClearHistory={() => setScanHistory([])}
             />
           )}
         </AnimatePresence>

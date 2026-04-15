@@ -265,6 +265,7 @@ function metricDetailsFromDuplicate(duplicate) {
 }
 
 function metricDetailsFromCrossCheck(entry, type, crossCheck) {
+  const tierLabels = { 1: 'Tier 1 — Wire service / Public broadcaster', 2: 'Tier 2 — Major outlet', 3: 'Tier 3 — Unknown / Aggregator' };
   return {
     title: `${type === 'corroborating' ? 'Corroborating' : 'Conflicting'} source: ${entry.source}`,
     value: `${entry.confidence}% confidence`,
@@ -275,6 +276,7 @@ function metricDetailsFromCrossCheck(entry, type, crossCheck) {
     signals: [
       `Claim: ${entry.claim}`,
       `Confidence: ${entry.confidence}%`,
+      `Trust tier: ${tierLabels[entry.tier] || tierLabels[3]}`,
       `Methodology: ${crossCheck?.methodology || 'N/A'}`,
       `Note: ${entry.note || 'N/A'}`,
     ],
@@ -437,7 +439,7 @@ ${aiHtml}
 }
 
 // ─── Main component ────────────────────────────────────────────────────────
-export default function ResultsPanel({ results, inputData, aiConfig }) {
+export default function ResultsPanel({ results, inputData, aiConfig, confidenceScore = 0, scanHistory = [], onClearHistory }) {
   const panelRef = useRef(null);
   const [activeMetric, setActiveMetric] = useState(null);
 
@@ -475,8 +477,33 @@ export default function ResultsPanel({ results, inputData, aiConfig }) {
       <div className="results-card">
         {/* ── Header row ─────────────────────────────────────────────── */}
         <div className="results-header">
-          <h2>Analysis Results</h2>
-          <div className="download-btns" role="group" aria-label="Download report">
+          <div className="results-header-left">
+            <h2>Analysis Results</h2>
+            {confidenceScore > 0 && (
+              <span
+                className={`confidence-badge ${confidenceScore >= 65 ? 'high' : confidenceScore >= 35 ? 'medium' : 'low'}`}
+                title={`Signal confidence: ${confidenceScore}% — based on findings count, feed matches, tier-1 sources, and AI analysis`}
+              >
+                Signal confidence: {confidenceScore}%
+              </span>
+            )}
+          </div>
+          <div className="download-btns" role="group" aria-label="Export or share report">
+            <motion.button
+              className="btn-download share"
+              onClick={() => {
+                const payload = { t: inputData.type, v: (inputData.value || inputData.file?.name || '').slice(0, 300) };
+                const hash = btoa(encodeURIComponent(JSON.stringify(payload)));
+                const url = `${window.location.origin}${window.location.pathname}#share=${hash}`;
+                navigator.clipboard?.writeText(url).then(() => alert('Share link copied to clipboard!')).catch(() => prompt('Copy this link:', url));
+              }}
+              type="button"
+              aria-label="Copy shareable link"
+              whileHover={{ scale: 1.06, boxShadow: '0 0 18px rgba(139,92,246,0.45)' }}
+              whileTap={{ scale: 0.95 }}
+            >
+              🔗 Share
+            </motion.button>
             <motion.button
               className="btn-download pdf"
               onClick={() => buildPDF(results, inputData)}
@@ -669,10 +696,11 @@ export default function ResultsPanel({ results, inputData, aiConfig }) {
                 onClick={() => setActiveMetric({
                   title: 'Cross-Source Consistency Score',
                   value: `${results.crossCheck.consistencyScore}%`,
-                  explanation: 'Higher consistency means more corroborating source signals than conflicting ones.',
+                  explanation: 'Higher consistency means more corroborating source signals than conflicting ones. Tier-1 sources (wire services, public broadcasters) carry more weight in this calculation.',
                   signals: [
                     `Corroborating count: ${results.crossCheck.corroboratingCount}`,
                     `Conflicting count: ${results.crossCheck.conflictingCount}`,
+                    `Tier-1 sources: ${(results.crossCheck.corroborating || []).filter((e) => e.tier === 1).length}`,
                     `Method: ${results.crossCheck.methodology || 'N/A'}`,
                   ],
                 })}
@@ -681,6 +709,15 @@ export default function ResultsPanel({ results, inputData, aiConfig }) {
                 Details
               </button>
             </div>
+
+            {results.crossCheck.matchedKeywords?.length > 0 && (
+              <div className="keyword-chips" aria-label="Feed-matched keywords">
+                <span className="keyword-chips-label">Matched terms:</span>
+                {results.crossCheck.matchedKeywords.map((kw) => (
+                  <span key={kw} className="keyword-chip">{kw}</span>
+                ))}
+              </div>
+            )}
 
             <div className="consistency-grid">
               <div className="consistency-card">
@@ -812,6 +849,27 @@ export default function ResultsPanel({ results, inputData, aiConfig }) {
                 <p className="ai-summary">{results.aiAnalysis}</p>
               )}
             </motion.div>
+          </ExpandablePanel>
+        )}
+        {/* ── Scan history ─────────────────────────────────────────── */}
+        {scanHistory.length > 0 && (
+          <ExpandablePanel title="Scan History" icon="🕑" badge={scanHistory.length} id="history">
+            <div className="history-list">
+              {scanHistory.map((entry) => (
+                <div key={entry.id} className="history-item">
+                  <span className="history-type">{entry.type.toUpperCase()}</span>
+                  <span className="history-summary" title={entry.inputSummary}>{entry.inputSummary}</span>
+                  <span
+                    className="history-score"
+                    style={{ color: entry.score >= 70 ? '#10b981' : entry.score >= 40 ? '#f59e0b' : '#ef4444' }}
+                  >
+                    {entry.score}/100
+                  </span>
+                  <span className="history-time">{new Date(entry.timestamp).toLocaleString()}</span>
+                </div>
+              ))}
+            </div>
+            <button type="button" className="btn-clear-history" onClick={onClearHistory}>Clear history</button>
           </ExpandablePanel>
         )}
       </div>
