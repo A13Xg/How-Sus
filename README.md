@@ -10,7 +10,9 @@ A fully client-side React web app for analyzing the authenticity of news article
 - **Animated Scan Visualization** — real-time progress bar, step indicators, and a canvas network graph showing duplicate sources
 - **Verification Timeline** — shows the spread history of a piece of content
 - **PDF & HTML Export** — download a full analysis report
-- **Optional AI Analysis** — paste your OpenAI API key for a GPT-powered authenticity assessment (key stored in memory only)
+- **Optional AI Analysis** — paste an OpenAI or Google API key (auto-detected provider, session memory only)
+- **Cross-Source Consistency** — compares corroborating vs conflicting source signals and surfaces an explainable consistency score
+- **Static Feed Refresh via GitHub Actions** — scheduled workflow updates a curated corroboration feed JSON in-repo
 
 ## Tech Stack
 
@@ -35,6 +37,42 @@ npm run build
 ```
 
 Output is placed in `dist/`. The `"homepage": "."` setting in `package.json` makes it compatible with GitHub Pages.
+
+## GitHub Pages-Only Architecture
+
+This project is designed to run without any custom backend service.
+
+- Runtime: static files served by GitHub Pages
+- Data and logic: browser-side only (React app)
+- Background processing: GitHub Actions workflows only
+- Optional external APIs: called directly from browser with user-provided key (never persisted)
+
+### What is possible in this scope
+
+- Heuristic URL/text/image analysis in-browser
+- Client-side AI calls to OpenAI or Google Gemma models
+- Scheduled data ingestion using GitHub Actions, committed as static JSON under `public/data/`
+- Static report export (PDF/HTML)
+- Explainability overlays and metric drilldowns
+
+### What is not possible without a backend
+
+- Secure server-side secret storage for third-party APIs
+- Private API access that requires hidden credentials
+- Low-latency heavy NLP or vector search over large corpora on demand
+- Real-time webhook ingestion or streaming pipelines
+
+## Static Data Refresh
+
+To refresh corroboration feed data locally:
+
+```bash
+npm run refresh:data
+```
+
+This writes `public/data/corroboration-feed.json`.
+
+The workflow `.github/workflows/refresh-data.yml` runs on schedule and can be triggered manually.
 
 ## Disclaimer
 

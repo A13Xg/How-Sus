@@ -144,6 +144,29 @@
   font-weight: 400;
 }
 
+.api-field-label {
+  display: block;
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin-bottom: 5px;
+}
+
+.api-provider-select {
+  width: 100%;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 8px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 0.8rem;
+  margin-bottom: 10px;
+  outline: none;
+}
+
+.api-provider-select:focus {
+  border-color: var(--accent-blue);
+}
+
 .api-key-input {
   width: 100%;
   background: var(--bg-secondary);

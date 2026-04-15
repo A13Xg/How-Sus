@@ -9,23 +9,35 @@
  *  - Pressing Escape closes the dropdown.
  *  - All interactive elements have aria labels.
  */
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import './Header.css';
 
-export default function Header({ apiKey, onApiKeyChange }) {
+export default function Header({ aiConfig, resolvedProvider, detectedProvider, providers, onAiConfigChange }) {
   const [showModal, setShowModal] = useState(false);
   const [tempKey, setTempKey] = useState('');
+  const [tempProvider, setTempProvider] = useState('auto');
+  const [tempModel, setTempModel] = useState('');
   const inputRef = useRef(null);
   const btnRef = useRef(null);
+
+  const providerLabel = useMemo(() => {
+    if (!aiConfig.apiKey) return 'AI Key';
+    const active = resolvedProvider && providers[resolvedProvider]
+      ? providers[resolvedProvider].label
+      : 'Provider';
+    return `AI ${active}`;
+  }, [aiConfig.apiKey, resolvedProvider, providers]);
 
   // Move focus into the input when the dropdown opens
   useEffect(() => {
     if (showModal) {
-      setTempKey(apiKey);
+      setTempKey(aiConfig.apiKey || '');
+      setTempProvider(aiConfig.provider || 'auto');
+      setTempModel(aiConfig.model || '');
       setTimeout(() => inputRef.current?.focus(), 50);
     }
-  }, [showModal, apiKey]);
+  }, [showModal, aiConfig]);
 
   // Close on Escape
   useEffect(() => {
@@ -37,14 +49,20 @@ export default function Header({ apiKey, onApiKeyChange }) {
   }, [showModal]);
 
   const handleSave = () => {
-    onApiKeyChange(tempKey.trim());
+    onAiConfigChange({
+      apiKey: tempKey.trim(),
+      provider: tempProvider,
+      model: tempModel.trim(),
+    });
     setShowModal(false);
     btnRef.current?.focus();
   };
 
   const handleClear = () => {
-    onApiKeyChange('');
+    onAiConfigChange({ apiKey: '', provider: 'auto', model: '' });
     setTempKey('');
+    setTempProvider('auto');
+    setTempModel('');
     setShowModal(false);
     btnRef.current?.focus();
   };
@@ -91,16 +109,20 @@ export default function Header({ apiKey, onApiKeyChange }) {
           <div className="api-key-area">
             <motion.button
               ref={btnRef}
-              className={`api-key-btn ${apiKey ? 'has-key' : ''}`}
+              className={`api-key-btn ${aiConfig.apiKey ? 'has-key' : ''}`}
               onClick={() => setShowModal((v) => !v)}
               aria-haspopup="dialog"
               aria-expanded={showModal}
-              aria-label={apiKey ? 'AI analysis active — click to manage API key' : 'Add OpenAI API key to enable AI analysis'}
+              aria-label={
+                aiConfig.apiKey
+                  ? 'AI analysis active. Click to manage provider and API key'
+                  : 'Add an API key to enable AI analysis'
+              }
               whileHover={{ scale: 1.04 }}
               whileTap={{ scale: 0.96 }}
             >
               <span className="api-dot" aria-hidden="true" />
-              {apiKey ? 'AI On' : 'AI Key'}
+              {providerLabel}
             </motion.button>
 
             {/* ── Dropdown modal ─────────────────────────────────────── */}
@@ -117,16 +139,29 @@ export default function Header({ apiKey, onApiKeyChange }) {
                   transition={{ duration: 0.18 }}
                 >
                   <p className="api-key-label" id="api-key-desc">
-                    OpenAI API Key <span>(session only — never stored)</span>
+                    AI Provider + API Key <span>(session only — never stored)</span>
                   </p>
+                  <label className="api-field-label" htmlFor="provider-select">Provider</label>
+                  <select
+                    id="provider-select"
+                    className="api-provider-select"
+                    value={tempProvider}
+                    onChange={(e) => setTempProvider(e.target.value)}
+                    aria-label="AI provider"
+                  >
+                    <option value="auto">Auto-detect from key</option>
+                    <option value="openai">OpenAI</option>
+                    <option value="google">Google Gemma 4</option>
+                  </select>
+
                   <input
                     ref={inputRef}
                     type="password"
                     value={tempKey}
                     onChange={(e) => setTempKey(e.target.value)}
-                    placeholder="sk-…"
+                    placeholder="sk-... or AIza..."
                     className="api-key-input"
-                    aria-label="OpenAI API key"
+                    aria-label="AI API key"
                     aria-describedby="api-key-desc api-key-note"
                     autoComplete="off"
                     onKeyDown={(e) => {
@@ -134,11 +169,23 @@ export default function Header({ apiKey, onApiKeyChange }) {
                       if (e.key === 'Escape') setShowModal(false);
                     }}
                   />
+
+                  <label className="api-field-label" htmlFor="model-input">Model (optional override)</label>
+                  <input
+                    id="model-input"
+                    type="text"
+                    value={tempModel}
+                    onChange={(e) => setTempModel(e.target.value)}
+                    placeholder={tempProvider === 'google' ? 'gemma-4' : 'gpt-4o-mini'}
+                    className="api-key-input"
+                    aria-label="AI model override"
+                  />
+
                   <div className="api-key-actions">
                     <button className="btn-save" onClick={handleSave} type="button">
                       Save
                     </button>
-                    {apiKey && (
+                    {aiConfig.apiKey && (
                       <button className="btn-clear" onClick={handleClear} type="button">
                         Clear
                       </button>
@@ -153,7 +200,8 @@ export default function Header({ apiKey, onApiKeyChange }) {
                     </button>
                   </div>
                   <p className="api-key-note" id="api-key-note">
-                    Key stored in memory only. Cleared on page refresh. Only sent to OpenAI.
+                    Auto-detect uses key prefix: sk- for OpenAI, AIza for Google. You can override provider manually.
+                    Active provider: {resolvedProvider || 'none'}{detectedProvider ? ` (detected: ${detectedProvider})` : ''}.
                   </p>
                 </motion.div>
               )}

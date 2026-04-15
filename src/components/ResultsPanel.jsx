@@ -16,7 +16,7 @@
  *   inputData {object}  - { type, value, file, … }
  *   apiKey    {string}  - populated if AI was used
  */
-import React, { useRef } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { motion } from 'framer-motion';
 import jsPDF from 'jspdf';
 import ExpandablePanel from './ExpandablePanel';
@@ -36,8 +36,39 @@ function scoreLabel(score) {
   return 'Likely False';
 }
 
+function MetricDetailModal({ metric, onClose }) {
+  if (!metric) return null;
+
+  return (
+    <div className="metric-modal-backdrop" role="presentation" onClick={onClose}>
+      <motion.div
+        className="metric-modal"
+        role="dialog"
+        aria-modal="true"
+        aria-label={metric.title}
+        initial={{ opacity: 0, y: 18, scale: 0.98 }}
+        animate={{ opacity: 1, y: 0, scale: 1 }}
+        exit={{ opacity: 0, y: 18, scale: 0.98 }}
+        onClick={(e) => e.stopPropagation()}
+      >
+        <div className="metric-modal-head">
+          <h3>{metric.title}</h3>
+          <button type="button" className="metric-close" onClick={onClose} aria-label="Close metric details">✕</button>
+        </div>
+        {metric.value && <p className="metric-current"><strong>Current value:</strong> {metric.value}</p>}
+        <p className="metric-body">{metric.explanation}</p>
+        {metric.signals?.length > 0 && (
+          <ul className="metric-signals">
+            {metric.signals.map((s, i) => <li key={i}>{s}</li>)}
+          </ul>
+        )}
+      </motion.div>
+    </div>
+  );
+}
+
 // ─── Circular gauge ────────────────────────────────────────────────────────
-function ScoreGauge({ score }) {
+function ScoreGauge({ score, onDetails }) {
   const R = 54;
   const circ = 2 * Math.PI * R;
   const offset = circ - (score / 100) * circ;
@@ -85,6 +116,9 @@ function ScoreGauge({ score }) {
       >
         {scoreLabel(score)}
       </motion.p>
+      <button type="button" className="metric-info-btn" onClick={onDetails} aria-label="Explain authenticity score">
+        Details
+      </button>
     </div>
   );
 }
@@ -93,7 +127,7 @@ function ScoreGauge({ score }) {
 const STATUS_COLOR = { good: '#10b981', bad: '#ef4444', warn: '#f59e0b', info: '#3b82f6' };
 const STATUS_ICON  = { good: '✓', bad: '✗', warn: '⚠', info: 'ℹ' };
 
-function FindingRow({ finding, index }) {
+function FindingRow({ finding, index, onDetails }) {
   const color = STATUS_COLOR[finding.status] || '#94a3b8';
   const icon  = STATUS_ICON[finding.status]  || '•';
   return (
@@ -107,14 +141,19 @@ function FindingRow({ finding, index }) {
       <span className="finding-status" style={{ color }} aria-label={finding.status} role="cell">
         {icon}
       </span>
-      <span className="finding-label" role="cell">{finding.label}</span>
+      <span className="finding-label" role="cell">
+        {finding.label}
+        <button type="button" className="metric-info-btn" onClick={onDetails} aria-label={`Explain ${finding.label}`}>
+          Details
+        </button>
+      </span>
       <span className="finding-value" style={{ color }} role="cell">{finding.value}</span>
     </motion.div>
   );
 }
 
 // ─── Source row ────────────────────────────────────────────────────────────
-function SourceRow({ source, index }) {
+function SourceRow({ source, index, onDetails }) {
   const verified = source.verified;
   return (
     <motion.tr
@@ -123,7 +162,12 @@ function SourceRow({ source, index }) {
       animate={{ opacity: 1, x: 0 }}
       transition={{ delay: index * 0.07 }}
     >
-      <td className="source-label">{source.label}</td>
+      <td className="source-label">
+        {source.label}
+        <button type="button" className="metric-info-btn source-info-btn" onClick={onDetails} aria-label={`Explain source ${source.label}`}>
+          Details
+        </button>
+      </td>
       <td>
         <span className={`source-badge ${verified === true ? 'verified' : verified === false ? 'unverified' : 'neutral'}`}>
           {verified === true ? '✓ Verified' : verified === false ? '✗ Not verified' : '— N/A'}
@@ -132,6 +176,109 @@ function SourceRow({ source, index }) {
       <td className="source-date">{source.date || '—'}</td>
     </motion.tr>
   );
+}
+
+function metricDetailsFromSummary(item, results, inputData) {
+  const details = {
+    title: item.key,
+    value: item.val,
+    explanation: 'This metric summarizes key signals used in the authenticity score.',
+    signals: [],
+  };
+
+  if (item.key === 'Input type') {
+    details.explanation = 'This selects which analysis pipeline was used: URL checks, text heuristics, or EXIF metadata extraction.';
+    details.signals = [`Input mode: ${results.type}`, `Original value preview: ${(inputData.value || inputData.file?.name || 'N/A').slice(0, 80)}`];
+  }
+  if (item.key === 'Domain') {
+    details.explanation = 'Domain is normalized from the URL and checked against trusted and suspicious patterns.';
+    details.signals = [
+      `Trusted list match: ${results.isTrusted ? 'Yes' : 'No'}`,
+      `Suspicious pattern match: ${results.isSuspicious ? 'Yes' : 'No'}`,
+      `HTTPS: ${results.hasHttps ? 'Enabled' : 'Missing'}`,
+    ];
+  }
+  if (item.key === 'Words') {
+    details.explanation = 'Word count affects confidence. Extremely short text has less context and is less reliable for analysis.';
+    details.signals = [`Word count: ${results.wordCount}`, `Average word length: ${results.avgWordLen || 'N/A'}`];
+  }
+  if (item.key === 'EXIF fields') {
+    details.explanation = 'EXIF presence helps estimate provenance. More metadata typically means better traceability.';
+    details.signals = [`Extracted EXIF fields: ${results.exifCount}`, `Camera metadata present: ${results.imageAnalysis?.metadata?.camera ? 'Yes' : 'No'}`];
+  }
+  if (item.key === 'Similar sources') {
+    details.explanation = 'Potential duplicates are detected with heuristic similarity scoring and listed with per-source percentages.';
+    details.signals = (results.duplicates || []).slice(0, 4).map((d) => `${d.source ?? d.url}: ${d.matchPercentage ?? d.similarity}%`);
+  }
+  if (item.key === 'Consistency') {
+    details.explanation = 'Cross-source consistency compares corroborating vs conflicting external signals for the detected claims.';
+    details.signals = [
+      `Corroborating sources: ${results.crossCheck?.corroboratingCount ?? 0}`,
+      `Conflicting sources: ${results.crossCheck?.conflictingCount ?? 0}`,
+      `Method: ${results.crossCheck?.methodology || 'N/A'}`,
+    ];
+  }
+
+  return details;
+}
+
+function metricDetailsFromFinding(finding, results) {
+  return {
+    title: finding.label,
+    value: finding.value,
+    explanation:
+      finding.explanation ||
+      `Status ${finding.status.toUpperCase()} was assigned by rule thresholds for ${finding.label.toLowerCase()}.`,
+    signals: [
+      `Current status: ${finding.status}`,
+      `Overall authenticity score: ${results.authenticityScore}`,
+      `Metric category: ${results.type}`,
+    ],
+  };
+}
+
+function metricDetailsFromSource(source) {
+  return {
+    title: `Source: ${source.label}`,
+    value: source.url || 'N/A',
+    explanation: 'Source verification status reflects trusted-domain matching and metadata confidence checks for this entry.',
+    signals: [
+      `Verification status: ${source.verified === true ? 'Verified' : source.verified === false ? 'Not verified' : 'N/A'}`,
+      `Source URL: ${source.url || 'N/A'}`,
+      `Recorded date: ${source.date || 'N/A'}`,
+    ],
+  };
+}
+
+function metricDetailsFromDuplicate(duplicate) {
+  const pct = duplicate.matchPercentage ?? duplicate.similarity ?? 0;
+  return {
+    title: `Duplicate similarity: ${duplicate.source ?? duplicate.url}`,
+    value: `${pct}%`,
+    explanation: 'Similarity score is a heuristic match estimate for repeated content traces across channels.',
+    signals: [
+      `Similarity: ${pct}%`,
+      `Source: ${duplicate.source ?? duplicate.url}`,
+      `Observed date: ${duplicate.date || 'N/A'}`,
+    ],
+  };
+}
+
+function metricDetailsFromCrossCheck(entry, type, crossCheck) {
+  return {
+    title: `${type === 'corroborating' ? 'Corroborating' : 'Conflicting'} source: ${entry.source}`,
+    value: `${entry.confidence}% confidence`,
+    explanation:
+      type === 'corroborating'
+        ? 'This source aligned with major claims from the scanned content.'
+        : 'This source diverged from major claims and may indicate contradictions or omitted context.',
+    signals: [
+      `Claim: ${entry.claim}`,
+      `Confidence: ${entry.confidence}%`,
+      `Methodology: ${crossCheck?.methodology || 'N/A'}`,
+      `Note: ${entry.note || 'N/A'}`,
+    ],
+  };
 }
 
 // ─── EXIF data section ─────────────────────────────────────────────────────
@@ -187,6 +334,12 @@ function buildPDF(results, inputData) {
     line('SIMILAR SOURCES:', 11, true);
     results.duplicates.forEach((d) => line(`  ${d.source ?? d.url} — ${d.matchPercentage ?? d.similarity}% similarity (${d.date})`));
   }
+  if (results.crossCheck) {
+    line('');
+    line('CROSS-SOURCE CONSISTENCY:', 11, true);
+    line(`  Score: ${results.crossCheck.consistencyScore}%`);
+    line(`  Corroborating: ${results.crossCheck.corroboratingCount} | Conflicting: ${results.crossCheck.conflictingCount}`);
+  }
   if (results.aiAnalysis) {
     line('');
     line('AI ANALYSIS:', 11, true);
@@ -233,6 +386,15 @@ function buildHTML(results, inputData) {
            : `<p>${results.aiAnalysis}</p>`}
        </div>` : '';
 
+  const consistencyHtml = results.crossCheck
+    ? `<h2>Cross-Source Consistency</h2>
+       <table><tr><th>Metric</th><th>Value</th></tr>
+       ${row(['Consistency Score', `${results.crossCheck.consistencyScore}%`])}
+       ${row(['Corroborating Sources', `${results.crossCheck.corroboratingCount}`])}
+       ${row(['Conflicting Sources', `${results.crossCheck.conflictingCount}`])}
+       ${row(['Method', results.crossCheck.methodology || 'N/A'])}
+       </table>` : '';
+
   const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -260,6 +422,7 @@ function buildHTML(results, inputData) {
 <table><tr><th>Check</th><th>Result</th></tr>${findingsHTML}</table>
 ${sourcesHTML}
 ${dupHTML}
+${consistencyHtml}
 ${aiHtml}
 <div class="footer">Generated by HowSus — News &amp; Media Authenticity Analyzer</div>
 </body>
@@ -274,12 +437,30 @@ ${aiHtml}
 }
 
 // ─── Main component ────────────────────────────────────────────────────────
-export default function ResultsPanel({ results, inputData }) {
+export default function ResultsPanel({ results, inputData, aiConfig }) {
   const panelRef = useRef(null);
+  const [activeMetric, setActiveMetric] = useState(null);
+
+  useEffect(() => {
+    const onKeyDown = (event) => {
+      if (event.key === 'Escape') setActiveMetric(null);
+    };
+    document.addEventListener('keydown', onKeyDown);
+    return () => document.removeEventListener('keydown', onKeyDown);
+  }, []);
 
   if (!results) return null; // guard — should not normally render without results
 
   const score = results.authenticityScore ?? results.score ?? 0;
+  const summaryItems = useMemo(() => ([
+    { key: 'Input type', val: results.type.toUpperCase() },
+    results.domain      && { key: 'Domain',       val: results.domain },
+    results.wordCount   && { key: 'Words',        val: results.wordCount },
+    results.fileName    && { key: 'File',         val: results.fileName },
+    results.exifCount !== undefined && { key: 'EXIF fields', val: results.exifCount },
+    results.duplicates?.length > 0  && { key: 'Similar sources', val: `${results.duplicates.length} found`, warn: true },
+    results.crossCheck && { key: 'Consistency', val: `${results.crossCheck.consistencyScore}%` },
+  ].filter(Boolean)), [results]);
 
   return (
     <motion.section
@@ -321,19 +502,34 @@ export default function ResultsPanel({ results, inputData }) {
 
         {/* ── Score + summary ──────────────────────────────────────── */}
         <div className="results-top">
-          <ScoreGauge score={score} />
+          <ScoreGauge
+            score={score}
+            onDetails={() => setActiveMetric({
+              title: 'Authenticity Score',
+              value: `${score}/100 (${scoreLabel(score)})`,
+              explanation: 'This score is a weighted heuristic based on domain signals, text patterns, duplicate checks, and metadata quality.',
+              signals: [
+                `Analysis type: ${results.type}`,
+                `Findings counted: ${(results.findings || []).length}`,
+                `Duplicate matches: ${(results.duplicates || []).length}`,
+              ],
+            })}
+          />
           <div className="results-summary">
-            {[
-              { key: 'Input type', val: results.type.toUpperCase() },
-              results.domain      && { key: 'Domain',       val: results.domain },
-              results.wordCount   && { key: 'Words',        val: results.wordCount },
-              results.fileName    && { key: 'File',         val: results.fileName },
-              results.exifCount !== undefined && { key: 'EXIF fields', val: results.exifCount },
-              results.duplicates?.length > 0  && { key: 'Similar sources', val: `${results.duplicates.length} found`, warn: true },
-            ].filter(Boolean).map((item) => (
+            {summaryItems.map((item) => (
               <div key={item.key} className="summary-item">
                 <span className="summary-key">{item.key}</span>
-                <span className={`summary-val ${item.warn ? 'warn' : ''}`}>{item.val}</span>
+                <span className={`summary-val ${item.warn ? 'warn' : ''}`}>
+                  {item.val}
+                  <button
+                    type="button"
+                    className="metric-info-btn"
+                    onClick={() => setActiveMetric(metricDetailsFromSummary(item, results, inputData))}
+                    aria-label={`Explain ${item.key}`}
+                  >
+                    Details
+                  </button>
+                </span>
               </div>
             ))}
           </div>
@@ -355,7 +551,14 @@ export default function ResultsPanel({ results, inputData }) {
           id="findings"
         >
           <div className="findings-section" role="table" aria-label="Detailed findings">
-            {results.findings?.map((f, i) => <FindingRow key={i} finding={f} index={i} />)}
+            {results.findings?.map((f, i) => (
+              <FindingRow
+                key={i}
+                finding={f}
+                index={i}
+                onDetails={() => setActiveMetric(metricDetailsFromFinding(f, results))}
+              />
+            ))}
           </div>
         </ExpandablePanel>
 
@@ -378,7 +581,14 @@ export default function ResultsPanel({ results, inputData }) {
                   </tr>
                 </thead>
                 <tbody>
-                  {results.sources.map((s, i) => <SourceRow key={i} source={s} index={i} />)}
+                  {results.sources.map((s, i) => (
+                    <SourceRow
+                      key={i}
+                      source={s}
+                      index={i}
+                      onDetails={() => setActiveMetric(metricDetailsFromSource(s))}
+                    />
+                  ))}
                 </tbody>
               </table>
             </div>
@@ -414,9 +624,118 @@ export default function ResultsPanel({ results, inputData }) {
                     />
                     <span className="dup-pct">{pct}%</span>
                     <span className="dup-date">{d.date}</span>
+                    <button
+                      type="button"
+                      className="metric-info-btn dup-info-btn"
+                      onClick={() => setActiveMetric(metricDetailsFromDuplicate(d))}
+                      aria-label={`Explain duplicate match for ${d.source ?? d.url}`}
+                    >
+                      Details
+                    </button>
                   </motion.div>
                 );
               })}
+            </div>
+          </ExpandablePanel>
+        )}
+
+        {/* ── Cross-source consistency (expandable) ──────────────── */}
+        {results.crossCheck && (
+          <ExpandablePanel
+            title="Cross-Source Consistency"
+            icon="🧭"
+            badge={`${results.crossCheck.consistencyScore}%`}
+            defaultOpen
+            id="consistency"
+          >
+            <div className="consistency-score-row">
+              <span className="summary-key">Consistency score</span>
+              <AnimatedProgressBar
+                value={results.crossCheck.consistencyScore}
+                size="sm"
+                showLabel
+                color={
+                  results.crossCheck.consistencyScore >= 65
+                    ? '#10b981'
+                    : results.crossCheck.consistencyScore >= 40
+                      ? '#f59e0b'
+                      : '#ef4444'
+                }
+                label={`Cross-source consistency ${results.crossCheck.consistencyScore}%`}
+              />
+              <button
+                type="button"
+                className="metric-info-btn"
+                onClick={() => setActiveMetric({
+                  title: 'Cross-Source Consistency Score',
+                  value: `${results.crossCheck.consistencyScore}%`,
+                  explanation: 'Higher consistency means more corroborating source signals than conflicting ones.',
+                  signals: [
+                    `Corroborating count: ${results.crossCheck.corroboratingCount}`,
+                    `Conflicting count: ${results.crossCheck.conflictingCount}`,
+                    `Method: ${results.crossCheck.methodology || 'N/A'}`,
+                  ],
+                })}
+                aria-label="Explain consistency score"
+              >
+                Details
+              </button>
+            </div>
+
+            <div className="consistency-grid">
+              <div className="consistency-card">
+                <h4>Corroborating Sources ({results.crossCheck.corroboratingCount})</h4>
+                {(results.crossCheck.corroborating || []).length === 0 ? (
+                  <p className="empty-note">No corroborating sources found in this pass.</p>
+                ) : (
+                  <ul className="consistency-list">
+                    {results.crossCheck.corroborating.map((entry, i) => (
+                      <li key={`c-${i}`}>
+                        <div className="consistency-entry-head">
+                          <strong>{entry.source}</strong>
+                          <span>{entry.confidence}%</span>
+                        </div>
+                        <p>{entry.claim}</p>
+                        <button
+                          type="button"
+                          className="metric-info-btn"
+                          onClick={() => setActiveMetric(metricDetailsFromCrossCheck(entry, 'corroborating', results.crossCheck))}
+                          aria-label={`Explain corroborating source ${entry.source}`}
+                        >
+                          Details
+                        </button>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+
+              <div className="consistency-card">
+                <h4>Conflicting Sources ({results.crossCheck.conflictingCount})</h4>
+                {(results.crossCheck.conflicting || []).length === 0 ? (
+                  <p className="empty-note">No conflicting sources found in this pass.</p>
+                ) : (
+                  <ul className="consistency-list">
+                    {results.crossCheck.conflicting.map((entry, i) => (
+                      <li key={`x-${i}`}>
+                        <div className="consistency-entry-head">
+                          <strong>{entry.source}</strong>
+                          <span>{entry.confidence}%</span>
+                        </div>
+                        <p>{entry.claim}</p>
+                        <button
+                          type="button"
+                          className="metric-info-btn"
+                          onClick={() => setActiveMetric(metricDetailsFromCrossCheck(entry, 'conflicting', results.crossCheck))}
+                          aria-label={`Explain conflicting source ${entry.source}`}
+                        >
+                          Details
+                        </button>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
             </div>
           </ExpandablePanel>
         )}
@@ -468,6 +787,23 @@ export default function ResultsPanel({ results, inputData }) {
                         showLabel
                         label={`AI confidence: ${results.aiAnalysis.confidence}%`}
                       />
+                      <button
+                        type="button"
+                        className="metric-info-btn"
+                        onClick={() => setActiveMetric({
+                          title: 'AI Confidence',
+                          value: `${results.aiAnalysis.confidence}%`,
+                          explanation: 'AI confidence is model-reported certainty from the selected provider and model.',
+                          signals: [
+                            `Provider: ${results.aiAnalysis.provider || aiConfig?.provider || 'N/A'}`,
+                            `Model: ${results.aiAnalysis.model || aiConfig?.model || 'N/A'}`,
+                            `Summary length: ${(results.aiAnalysis.summary || '').length} characters`,
+                          ],
+                        })}
+                        aria-label="Explain AI confidence"
+                      >
+                        Details
+                      </button>
                     </div>
                   )}
                   {results.aiAnalysis.summary && <p className="ai-summary">{results.aiAnalysis.summary}</p>}
@@ -479,6 +815,8 @@ export default function ResultsPanel({ results, inputData }) {
           </ExpandablePanel>
         )}
       </div>
+
+      <MetricDetailModal metric={activeMetric} onClose={() => setActiveMetric(null)} />
     </motion.section>
   );
 }
