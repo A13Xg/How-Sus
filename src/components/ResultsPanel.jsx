@@ -7,14 +7,21 @@
  *  - Duplicate detection bars via AnimatedProgressBar
  *  - Optional AI analysis section (shown when apiKey was set)
  *  - Expandable detail panels for findings, EXIF, duplicates, AI, sources
+ *  - Dark patterns detail panel (detected manipulation tactics with tips)
+ *  - Sentiment word chips (positive/negative words highlighted)
+ *  - Readability score bar (Flesch Reading Ease + stats grid — text type only)
+ *  - "How to read this report" glossary panel for first-time users
  *  - Skeleton loader state while results prop is null (shows during brief lag)
  *  - Download buttons: PDF (jsPDF) and full HTML report with glow hover animation
  *  - Full ARIA labelling and keyboard navigation
  *
  * Props:
- *   results   {object}  - scanResults from App.jsx
- *   inputData {object}  - { type, value, file, … }
- *   apiKey    {string}  - populated if AI was used
+ *   results        {object}   - scanResults from App.jsx
+ *   inputData      {object}   - { type, value, file, … }
+ *   aiConfig       {object}   - { apiKey, provider, model } (session memory)
+ *   confidenceScore{number}   - 0-100 signal confidence (computed by App)
+ *   scanHistory    {Array}    - previous scan entries from localStorage
+ *   onClearHistory {function} - clears the scan history
  */
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { motion } from 'framer-motion';
@@ -293,6 +300,262 @@ function ExifDetails({ exifData }) {
         <div key={k} className="exif-row">
           <span className="exif-key">{k}</span>
           <span className="exif-value">{String(v).slice(0, 80)}</span>
+        </div>
+      ))}
+    </div>
+  );
+}
+
+// ─── Dark patterns panel ──────────────────────────────────────────────────
+
+/**
+ * Category-to-display-label mapping for the dark patterns panel.
+ * These labels match the `category` field in detectDarkPatterns output.
+ */
+const DARK_PATTERN_CATEGORY_LABELS = {
+  urgency:     'Urgency',
+  fear:        'Fear Appeal',
+  tribalism:   'Tribalism',
+  conspiracy:  'Conspiracy',
+  sensational: 'Sensational',
+  clickbait:   'Clickbait',
+};
+
+/**
+ * DarkPatternsPanel — shows each detected dark-pattern tactic with its
+ * category badge, matched text snippet, and an educational tip.
+ *
+ * @param {{ darkPatterns: { detected: Array, matchCount: number, riskLevel: string } }} props
+ */
+function DarkPatternsPanel({ darkPatterns }) {
+  if (!darkPatterns) return null;
+  const { detected = [], matchCount } = darkPatterns;
+
+  if (matchCount === 0) {
+    return (
+      <p className="dark-pattern-none">
+        <span aria-hidden="true">✓</span> No manipulative framing patterns detected.
+      </p>
+    );
+  }
+
+  return (
+    <ul className="dark-patterns-list" aria-label="Detected dark patterns">
+      {detected.map((item, i) => (
+        <li key={i} className="dark-pattern-item">
+          <div className="dark-pattern-head">
+            <span className="dark-pattern-label">{item.label}</span>
+            {/* Pill badge colour-coded by category */}
+            <span className={`dark-pattern-category ${item.category}`}>
+              {DARK_PATTERN_CATEGORY_LABELS[item.category] ?? item.category}
+            </span>
+          </div>
+          {/* The actual phrase that triggered the pattern match */}
+          {item.match && (
+            <p className="dark-pattern-match">
+              Matched: &ldquo;{item.match}&rdquo;
+            </p>
+          )}
+          {/* Educational context for each pattern */}
+          <p className="dark-pattern-tip">{item.tip}</p>
+        </li>
+      ))}
+    </ul>
+  );
+}
+
+// ─── Sentiment word chips panel ───────────────────────────────────────────
+
+/**
+ * SentimentPanel — shows the sentiment score bar plus word-level chips
+ * for the matched positive and negative vocabulary from AFINN scoring.
+ *
+ * @param {{ sentiment: object }} props
+ *   sentiment: { label, normalizedScore, intensity, positiveWords, negativeWords }
+ */
+function SentimentPanel({ sentiment }) {
+  if (!sentiment) return null;
+
+  const { label, intensity, positiveWords = [], negativeWords = [] } = sentiment;
+
+  // Derive a bar colour from the overall tone label
+  const barColor =
+    intensity > 60 ? '#ef4444' :
+    intensity > 30 ? '#f59e0b' :
+    '#10b981';
+
+  return (
+    <div className="sentiment-section">
+      {/* Overall intensity progress bar */}
+      <div className="sentiment-score-row">
+        <span className="sentiment-label-key">Tone</span>
+        <AnimatedProgressBar
+          value={intensity}
+          color={barColor}
+          size="sm"
+          showLabel
+          label={`Emotional intensity: ${intensity}% — ${label}`}
+        />
+        <span style={{ fontSize: '0.78rem', color: 'var(--text-muted)', whiteSpace: 'nowrap' }}>
+          {label}
+        </span>
+      </div>
+
+      {/* Positive matched words */}
+      <div className="sentiment-row">
+        <span className="sentiment-label-key">Positive</span>
+        <div className="sentiment-chips">
+          {positiveWords.length > 0 ? (
+            positiveWords.map((w) => (
+              <span key={w} className="sentiment-chip positive">{w}</span>
+            ))
+          ) : (
+            <span className="sentiment-chip-empty">none detected</span>
+          )}
+        </div>
+      </div>
+
+      {/* Negative matched words */}
+      <div className="sentiment-row">
+        <span className="sentiment-label-key">Negative</span>
+        <div className="sentiment-chips">
+          {negativeWords.length > 0 ? (
+            negativeWords.map((w) => (
+              <span key={w} className="sentiment-chip negative">{w}</span>
+            ))
+          ) : (
+            <span className="sentiment-chip-empty">none detected</span>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ─── Readability visualization panel ─────────────────────────────────────
+
+/**
+ * ReadabilityPanel — displays a Flesch Reading Ease bar and a stats grid
+ * (sentences, words, average sentence length, syllables/word).
+ *
+ * @param {{ readability: object }} props
+ *   readability: { fleschEase, gradeLabel, sentenceCount, wordCount,
+ *                  wordsPerSentence, syllablesPerWord }
+ */
+function ReadabilityPanel({ readability }) {
+  if (!readability) return null;
+
+  const { fleschEase, gradeLabel, sentenceCount, wordCount, wordsPerSentence, syllablesPerWord } = readability;
+
+  // Colour the bar: green = easy, amber = moderate, red = hard
+  const barColor =
+    fleschEase >= 60 ? '#10b981' :
+    fleschEase >= 30 ? '#f59e0b' :
+    '#ef4444';
+
+  return (
+    <div className="readability-section">
+      {/* Flesch Reading Ease bar (higher score = easier to read) */}
+      <div className="readability-bar-row">
+        <span className="sentiment-label-key">Reading ease</span>
+        <AnimatedProgressBar
+          value={fleschEase}
+          color={barColor}
+          size="sm"
+          showLabel
+          label={`Flesch Reading Ease: ${fleschEase}`}
+        />
+        <span style={{ fontSize: '0.78rem', color: 'var(--text-muted)', textAlign: 'right' }}>
+          {fleschEase} / 100
+        </span>
+      </div>
+
+      {/* Human-readable grade label */}
+      <p style={{ fontSize: '0.82rem', color: barColor, fontWeight: 600, margin: 0 }}>
+        {gradeLabel}
+      </p>
+
+      {/* Detailed stats grid */}
+      <div className="readability-stats-grid">
+        {[
+          { label: 'Sentences',       value: sentenceCount },
+          { label: 'Words',           value: wordCount },
+          { label: 'Avg words/sent.', value: wordsPerSentence },
+          { label: 'Syllables/word',  value: syllablesPerWord },
+        ].map((stat) => (
+          <div key={stat.label} className="readability-stat">
+            <span className="readability-stat-label">{stat.label}</span>
+            <span className="readability-stat-value">{stat.value}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+// ─── Glossary / help panel ────────────────────────────────────────────────
+
+/**
+ * Glossary definitions shown in the "How to read this report" panel.
+ * Each entry has an emoji icon, a term, and a plain-language explanation.
+ */
+const GLOSSARY_ITEMS = [
+  {
+    icon: '🎯',
+    term: 'Authenticity Score',
+    desc: 'A 0-100 heuristic score. ≥70 = likely authentic; 40-69 = uncertain; <40 = likely false. It combines domain reputation, content signals, and cross-source consistency.',
+  },
+  {
+    icon: '📡',
+    term: 'Signal Confidence',
+    desc: 'How much supporting evidence was gathered. High confidence means the score is backed by many signals (tier-1 sources, feed matches, AI). Low confidence means fewer data points.',
+  },
+  {
+    icon: '🧭',
+    term: 'Cross-Source Consistency',
+    desc: 'Compares corroborating versus conflicting external source signals for the detected claims. Tier-1 (wire services) sources carry more weight.',
+  },
+  {
+    icon: '🔁',
+    term: 'Duplicate Detection',
+    desc: 'Heuristic similarity scores for how widely the content has been shared or copied. High similarity (≥80%) across many channels can indicate viral misinformation.',
+  },
+  {
+    icon: '🌀',
+    term: 'Dark Patterns',
+    desc: 'Linguistic tactics that bypass critical thinking: urgency, fear appeals, tribalism ("us vs them"), conspiracy framing, sensationalism, and clickbait.',
+  },
+  {
+    icon: '😶',
+    term: 'Sentiment / Emotional Tone',
+    desc: 'AFINN-based scoring of emotional language. Extreme negativity or positivity can indicate manipulation. Neutral content tends to be more reliable.',
+  },
+  {
+    icon: '📖',
+    term: 'Reading Level',
+    desc: 'Flesch Reading Ease (0-100). Higher = easier to read. Legitimate journalism typically scores 50-70. Very complex (< 30) or oversimplified text can be a signal.',
+  },
+  {
+    icon: '📷',
+    term: 'EXIF Metadata',
+    desc: 'Camera and GPS data embedded in image files. Presence of capture date and camera model improves provenance confidence. Editing software in EXIF is a warning signal.',
+  },
+];
+
+/**
+ * GlossaryPanel — collapsible "How to read this report" help section.
+ * Renders a grid of term cards explaining each metric used in the analysis.
+ */
+function GlossaryPanel() {
+  return (
+    <div className="glossary-grid" role="list" aria-label="Glossary of report metrics">
+      {GLOSSARY_ITEMS.map((item) => (
+        <div key={item.term} className="glossary-item" role="listitem">
+          <h4>
+            <span aria-hidden="true">{item.icon}</span>
+            {item.term}
+          </h4>
+          <p>{item.desc}</p>
         </div>
       ))}
     </div>
@@ -872,6 +1135,53 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
             <button type="button" className="btn-clear-history" onClick={onClearHistory}>Clear history</button>
           </ExpandablePanel>
         )}
+
+        {/* ── Dark patterns detail (expandable) ───────────────────── */}
+        {results.darkPatterns && (
+          <ExpandablePanel
+            title="Manipulative Framing Patterns"
+            icon="🌀"
+            badge={
+              results.darkPatterns.matchCount > 0
+                ? results.darkPatterns.matchCount
+                : null
+            }
+            id="dark-patterns"
+          >
+            <DarkPatternsPanel darkPatterns={results.darkPatterns} />
+          </ExpandablePanel>
+        )}
+
+        {/* ── Sentiment detail (expandable — text/url types with sentiment) ─ */}
+        {results.sentiment && (
+          <ExpandablePanel
+            title="Emotional Tone Analysis"
+            icon="😶"
+            id="sentiment"
+          >
+            <SentimentPanel sentiment={results.sentiment} />
+          </ExpandablePanel>
+        )}
+
+        {/* ── Readability (expandable — text type only) ────────────── */}
+        {results.type === 'text' && results.readability && (
+          <ExpandablePanel
+            title="Reading Level"
+            icon="📖"
+            id="readability"
+          >
+            <ReadabilityPanel readability={results.readability} />
+          </ExpandablePanel>
+        )}
+
+        {/* ── "How to read this report" glossary ──────────────────── */}
+        <ExpandablePanel
+          title="How to Read This Report"
+          icon="❓"
+          id="glossary"
+        >
+          <GlossaryPanel />
+        </ExpandablePanel>
       </div>
 
       <MetricDetailModal metric={activeMetric} onClose={() => setActiveMetric(null)} />
