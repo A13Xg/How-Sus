@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T12:47:35.033Z",
+  "generatedAt": "2026-04-17T01:05:11.562Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,42 +32,42 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
-      "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Apr 2026 21:10:14 GMT",
-      "snippet": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
+      "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
+      "link": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 21:18:31 GMT",
+      "snippet": "The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
-      "link": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Apr 2026 08:28:51 GMT",
-      "snippet": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Pope criticises 'tyrants' who spend billions on wars, days after Trump spat",
+      "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
       "link": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Apr 2026 12:42:23 GMT",
+      "publishedAt": "Thu, 16 Apr 2026 18:40:45 GMT",
       "snippet": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Turkish police detain 162 people over online praise for school shootings",
+      "title": "Turkish police detain 162 people over online posts about school shootings",
       "link": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Apr 2026 11:01:59 GMT",
+      "publishedAt": "Thu, 16 Apr 2026 15:23:23 GMT",
       "snippet": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "South African opposition figure Malema sentenced to five years in prison",
-      "link": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Apr 2026 12:36:16 GMT",
-      "snippet": "Malema is appealing against the decision to prevent him from being taken to prison on Thursday.",
+      "title": "Former Arsenal goalkeeper Alex Manninger dies after car hit by train",
+      "link": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 13:53:25 GMT",
+      "snippet": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia launches deadliest aerial attack in months, killing 18 in Ukraine",
+      "link": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 15:20:59 GMT",
+      "snippet": "A Ukrainian drone attack killed two people in Russia, Moscow says, after an Orthodox Easter truce.",
       "tier": 1
     },
     {
@@ -80,15 +80,55 @@
     },
     {
       "source": "BBC World",
-      "title": "China's economy grows faster than expected despite Iran war",
-      "link": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Apr 2026 07:08:52 GMT",
-      "snippet": "The better-than-expected GDP data comes as Asian countries have been hit hard by the impact of the conflict.",
+      "title": "Naples bank robbers hold 25 people hostage then vanish through tunnel",
+      "link": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 17:24:46 GMT",
+      "snippet": "The armed men reportedly evaded capture by escaping through the city's sewer system.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'Unprecedented' fire at Australian oil refinery to impact nation's petrol supplies",
+      "title": "Rescuers to use air cushions in latest effort to save stranded whale",
+      "link": "https://www.bbc.com/news/articles/c2082pljyk1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 18:30:08 GMT",
+      "snippet": "\"Timmy\" has been stranded in the Baltic Sea for weeks despite several attempts to free the ailing animal.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-Virginia deputy governor kills wife and himself in murder-suicide, police say",
+      "link": "https://www.bbc.com/news/articles/cy0124xel35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 15:41:33 GMT",
+      "snippet": "Investigators say Justin Fairfax shot his wife, Cerina, multiple times before turning the gun on himself.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Lawmakers clash with RFK Jr as he shifts focus away from vaccines",
+      "link": "https://www.bbc.com/news/articles/c30r2v68lg8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 17:55:15 GMT",
+      "snippet": "During a three-hour hearing, the US health secretary tried to focus on chronic disease while being pressed on vaccines.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "South African opposition figure Malema sentenced to five years in prison for firing a gun",
+      "link": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 17:20:41 GMT",
+      "snippet": "Malema is appealing against the decision, which means he is not going to prison immediately.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope lashes out at foreigners who exploit Africa",
+      "link": "https://www.bbc.com/news/articles/c5yj796plqmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 16:59:38 GMT",
+      "snippet": "The pontiff has been unusually forthright during his visit to conflict-hit Cameroon.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'Unprecedented' fire at Australian oil refinery to affect nation's petrol supplies",
       "link": "https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 16 Apr 2026 03:45:29 GMT",
       "snippet": "The fire has deepened fears over the nation's petrol supplies amid a global crunch.",
@@ -104,58 +144,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
-      "link": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Apr 2026 01:55:12 GMT",
-      "snippet": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Meghan says she was 'most trolled person in the world'",
-      "link": "https://www.bbc.com/news/articles/c8r48l0kd2do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Apr 2026 08:24:35 GMT",
-      "snippet": "Alongside her husband, the Duchess of Sussex was speaking to young people in Melbourne about the harms of social media.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Shakespeare's 'missing' home mapped with discovery",
-      "link": "https://www.bbc.com/news/articles/cedeenvdwgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Apr 2026 05:02:47 GMT",
-      "snippet": "A Shakespeare expert identifies the location and size of the property the playwright bought in1613.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Cool Hand Luke actress Joy Harmon dies aged 87",
-      "link": "https://www.bbc.com/news/articles/cvgkzpqnvd0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Apr 2026 05:52:12 GMT",
-      "snippet": "Harmon was best known for a car-washing scene in the Paul Newman prison drama.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Former US Marine pilot loses appeal against extradition from Australia",
-      "link": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Apr 2026 02:17:38 GMT",
-      "snippet": "Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
-      "link": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Apr 2026 22:56:29 GMT",
-      "snippet": "The lawsuit said the firm's practices had led to higher ticket prices and worse service for customers.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "South Africa names apartheid-era politician as new ambassador to the US",
-      "link": "https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Apr 2026 13:10:56 GMT",
-      "snippet": "Roelf Meyer played a key role as a negotiator during talks to end white-minority rule in South Africa.",
+      "title": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
+      "link": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 08:28:51 GMT",
+      "snippet": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
       "tier": 1
     },
     {
@@ -168,18 +160,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Frank Gardner: What is China's role in the Iran war?",
-      "link": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Apr 2026 18:54:06 GMT",
-      "snippet": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+      "title": "India pushes for women's quota bill as row over parliamentary seats intensifies",
+      "link": "https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Apr 2026 14:26:17 GMT",
+      "snippet": "Southern Indian leaders urge mass mobilisation over concerns about redrawing electoral boundaries.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "India to decide women's quota bill as row over parliamentary seats intensifies",
-      "link": "https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Apr 2026 08:20:55 GMT",
-      "snippet": "Southern Indian leaders urge mass mobilisation over concerns about redrawing electoral boundaries.",
+      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+      "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Apr 2026 21:10:14 GMT",
+      "snippet": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
       "tier": 1
     },
     {
@@ -191,243 +183,251 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "A Polymarket trader made $300,000 betting on Biden&apos;s pardons, a new analysis shows",
-      "link": "https://www.npr.org/2026/04/16/nx-s1-5786580/a-polymarket-trader-made-300-000-betting-on-bidens-pardons",
-      "publishedAt": "Thu, 16 Apr 2026 08:00:00 -0400",
-      "snippet": "In the final hours of President Biden&apos;s term, an anonymous prediction market trader placed lucrative bets on who would be pardoned even as the odds were nearly zero.",
+      "source": "BBC World",
+      "title": "Howl recordings and an AI image: Inside South Korea's long hunt for an escaped wolf",
+      "link": "https://www.bbc.com/news/articles/c24882dem6po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Apr 2026 22:09:13 GMT",
+      "snippet": "Hundreds have been deployed to find Neukgu, a young wolf that has eluded capture for a week and counting.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Iran War timeline continues to shift. And, jury rules Live Nation acted as monopoly",
-      "link": "https://www.npr.org/2026/04/16/g-s1-117639/up-first-newsletter-trump-iran-war-strait-pope-leo-ticketmaster-live-nation-january-6",
-      "publishedAt": "Thu, 16 Apr 2026 07:59:11 -0400",
-      "snippet": "Trump continues to try to declare victory in Iran as the timeline for the war&apos;s end shifts. And, a jury determined that Live Nation acted as a monopoly and overcharged ticket buyers.",
+      "title": "House passes bill extending protections for Haitian migrants in the U.S.",
+      "link": "https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s",
+      "publishedAt": "Thu, 16 Apr 2026 19:37:15 -0400",
+      "snippet": "Ten Republicans voted alongside Democrats, in a rebuke to the Trump administration&apos;s immigration policies. Should it pass the Senate, the White House said President Trump would veto the measure.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Mediators push to extend U.S.-Iran ceasefire",
-      "link": "https://www.npr.org/2026/04/16/nx-s1-5787392/iran-middle-east-updates",
-      "publishedAt": "Thu, 16 Apr 2026 07:45:30 -0400",
-      "snippet": "Pakistan said it expected to host a second round of US-Iran negotiations to end the war, but did not say when or where the meetings would take place.",
+      "title": "Top five takeaways from Homeland Security budget hearings",
+      "link": "https://www.npr.org/2026/04/16/g-s1-117703/trump-immigration-homeland-security-hearings",
+      "publishedAt": "Thu, 16 Apr 2026 18:07:55 -0400",
+      "snippet": "Lawmakers have been in a stalemate for over 60 days about funding the entire department, which includes agencies that oversee immigration enforcement, disaster relief, cybersecurity and the U.S. Coast Guard.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "How seals&apos; whiskers make them master underwater hunters",
-      "link": "https://www.npr.org/2026/04/16/nx-s1-5786687/harbor-seals-whiskers-fish-science",
-      "publishedAt": "Thu, 16 Apr 2026 07:00:00 -0400",
-      "snippet": "Their sensitive facial hair may be the harbor seals superpower for tracking fish, scientists are learning.",
+      "title": "These musicians are providing the soundtrack for anti-ICE protests in LA",
+      "link": "https://www.npr.org/2026/04/16/nx-s1-5717551/these-musicians-are-providing-the-soundtrack-for-anti-ice-protests-in-la",
+      "publishedAt": "Thu, 16 Apr 2026 17:14:45 -0400",
+      "snippet": "Los Jornaleros Del Norte play protest songs whose lyrics reflect the hopes and struggles of undocumented workers as they evade immigration agents patrolling the streets.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Indonesia&apos;s capital of the future faces doubts in the present",
-      "link": "https://www.npr.org/2026/04/16/g-s1-117409/indonesia-capital-nusantara-future-faces-doubts-present",
-      "publishedAt": "Thu, 16 Apr 2026 06:02:00 -0400",
-      "snippet": "Indonesia is racing to build a new capital, promising a greener, futuristic city. But many citizens aren&apos;t convinced it will live up to the vision.",
+      "title": "Trump nominates former Coast Guard doctor as CDC chief",
+      "link": "https://www.npr.org/2026/04/16/nx-s1-5787959/erica-schwartz-cdc-leadership-nomination",
+      "publishedAt": "Thu, 16 Apr 2026 16:58:49 -0400",
+      "snippet": "The nomination comes after months of interim leadership at the Centers for Disease Control and Prevention.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "&apos;Dear America&apos;: HUD workers say they&apos;re being blocked from doing their jobs",
-      "link": "https://www.npr.org/2026/04/16/nx-s1-5780859/hud-employees-trump-policy-protest-letters-website",
-      "publishedAt": "Thu, 16 Apr 2026 06:00:00 -0400",
-      "snippet": "A website with anonymous employee letters accuses the Trump administration of undermining work on housing discrimination. HUD says it&apos;s restoring \"sanity\" to fair housing enforcement.",
+      "title": "Minnesota has charged an ICE officer with assault for alleged actions during immigration surge",
+      "link": "https://www.npr.org/2026/04/16/nx-s1-5787958/minnesota-charged-ice-officer-assault-immigration-surge",
+      "publishedAt": "Thu, 16 Apr 2026 16:26:20 -0400",
+      "snippet": "Hennepin County officials say these are the first charges filed against a federal immigration agent related to the crackdown that brought thousands of federal officers to the state. The widespread operation led to the shooting deaths of two American citizens.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Jet fuel prices double, leading airlines to increase baggage fees, raise fares",
-      "link": "https://www.npr.org/2026/04/16/nx-s1-5785258/jet-fuel-airline-cost-iran-war-oil",
-      "publishedAt": "Thu, 16 Apr 2026 06:00:00 -0400",
-      "snippet": "Airlines are facing higher costs, and one airport group in Europe has warned of the risk of a \"systemic jet fuel shortage\" if traffic through the Strait of Hormuz doesn&apos;t normalize by the end of this month.",
+      "title": "A jury declared Live Nation a monopoly. But ticket prices won&apos;t drop just yet",
+      "link": "https://www.npr.org/2026/04/16/nx-s1-5787491/ticketmaster-live-nation-verdict-monopoly-remedies",
+      "publishedAt": "Thu, 16 Apr 2026 14:41:04 -0400",
+      "snippet": "D.C. and 33 states now have to argue in favor of specific remedies and fines, which could be paused if Live Nation appeals. Experts say the long-term impact on ticket prices isn&apos;t clear either.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "3 things to know about naval blockades as U.S. begins patrols in the Strait of Hormuz",
-      "link": "https://www.npr.org/2026/04/16/nx-s1-5783870/strait-of-hormuz-naval-blockade",
-      "publishedAt": "Thu, 16 Apr 2026 05:00:00 -0400",
-      "snippet": "The White House says it wants to choke off Iran&apos;s oil export revenue. But experts say that blockades are often unpredictable and difficult to enforce.",
+      "title": "Israeli and Palestinian activists share a vision for peace in Gaza",
+      "link": "https://www.npr.org/2026/04/16/nx-s1-5787745/an-israeli-and-a-palestinian-activist-share-a-vision-for-peace-in-gaza",
+      "publishedAt": "Thu, 16 Apr 2026 13:27:06 -0400",
+      "snippet": "Maoz Inon&apos;s parents were killed by Hamas in the Oct. 7 attacks. Aziz Abu Sarah&apos;s brother died after being tortured in an Israeli military prison. Their new book is The Future Is Peace .",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "We watched 2 focus groups of Georgia swing voters. They&apos;re not happy with the Iran war",
-      "link": "https://www.npr.org/2026/04/16/nx-s1-5781002/georgia-focus-groups-trump-iran-war",
-      "publishedAt": "Thu, 16 Apr 2026 05:00:00 -0400",
-      "snippet": "None of the 13 focus group participants — who all voted for President Trump in 2024 — said they would describe the military action in Iran as going well so far.",
+      "title": "Boiling milk and worrying about the Iran war: A New Year dawns in Sri Lanka",
+      "link": "https://www.npr.org/2026/04/16/g-s1-117630/new-years-sri-lanka-buddhist-hindu-prosperity-iran-war",
+      "publishedAt": "Thu, 16 Apr 2026 13:22:27 -0400",
+      "snippet": "In Sri Lanka, Buddhists and Hindus marked their New Year on Tuesday while a war thousands of miles away is making itself felt.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/04/16/nx-s1-5780737/morning-news-brief",
-      "publishedAt": "Thu, 16 Apr 2026 04:45:06 -0400",
-      "snippet": "President Trump&apos;s timeline for an end to the Iran war continues to shift, U.S. and Iran block the Strait of Hormuz, trapping the Gulf&apos;s oil and gas, Trump&apos;s allies defend his remarks about Pope Leo.",
+      "title": "A complex set of negotiations to end Israel&apos;s overlapping wars",
+      "link": "https://www.npr.org/2026/04/16/g-s1-117656/a-complex-set-of-negotiations-to-end-israels-overlapping-wars",
+      "publishedAt": "Thu, 16 Apr 2026 12:27:33 -0400",
+      "snippet": "Israel has agreed to a ceasefire in Lebanon, part of a complex web of Mideast negotiations, from Iran to Gaza.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Pope Leo takes aim at &apos;handful of tyrants&apos; spending billions on war amid tensions with Trump",
+      "link": "https://www.npr.org/2026/04/16/nx-s1-5787753/pope-leo-takes-trump-war-tyrants-iran-africa",
+      "publishedAt": "Thu, 16 Apr 2026 12:26:23 -0400",
+      "snippet": "Pope Leo XIV condemns \"tyrants\" fueling war with billions. His calls for global peace during his Africa trip come amid rising tensions with President Trump.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH LIVE: Health Secretary RFK Jr. testifies about HHS priorities at House hearing",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-health-secretary-rfk-jr-testifies-about-hhs-priorities-at-house-hearing",
-      "publishedAt": "Wed, 15 Apr 2026 21:25:42 -0400",
-      "snippet": "Health and Human Services Secretary Robert F. Kennedy, Jr. is appearing before the House Ways and Means Committee to testify about his agency's priorities Thursday.",
+      "title": "Ex-NBA player Damon Jones expected to make 1st guilty plea in gambling sweep",
+      "link": "https://www.pbs.org/newshour/nation/ex-nba-player-damon-jones-expected-to-make-1st-guilty-plea-in-gambling-sweep",
+      "publishedAt": "Thu, 16 Apr 2026 20:36:43 -0400",
+      "snippet": "Jones had previously pleaded not guilty to separate indictments charging him with profiting from rigged poker games and providing sports bettors with non-public information about injuries to stars LeBron James and Anthony Davis.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Justice Jackson calls out Supreme Court conservatives' pro-Trump emergency orders",
-      "link": "https://www.pbs.org/newshour/politics/justice-jackson-calls-out-supreme-court-conservatives-pro-trump-emergency-orders",
-      "publishedAt": "Wed, 15 Apr 2026 20:51:34 -0400",
-      "snippet": "Supreme Court Justice Ketanji Brown Jackson has delivered a sustained attack on her conservative colleagues' use of emergency orders to benefit the Trump administration, calling the orders \"scratch-paper musings\" that can \"seem oblivious and thus ring hollow.\"",
+      "title": "What lagging jet fuel supplies could mean for airlines and travelers",
+      "link": "https://www.pbs.org/newshour/economy/what-lagging-jet-fuel-supplies-could-mean-for-airlines-and-travelers",
+      "publishedAt": "Thu, 16 Apr 2026 20:01:24 -0400",
+      "snippet": "A looming jet fuel shortage in Europe and Asia sparked by the Iran war and the effective closure of the Strait of Hormuz could further upend world travel within weeks if oil doesn't start flowing again soon — meaning higher airfares and flight cancellations as the summer travel s",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "FDA to weigh easing limits on unproven peptides favored by RFK Jr. and MAHA supporters",
-      "link": "https://www.pbs.org/newshour/health/fda-to-weigh-easing-limits-on-unproven-peptides-favored-by-rfk-jr-and-maha-supporters",
-      "publishedAt": "Wed, 15 Apr 2026 20:39:53 -0400",
-      "snippet": "The Food and Drug Administration will hold a meeting this summer to consider easing restrictions on more than a half dozen peptide injections, a group of unapproved therapies that have become popular among wellness influencers, fitness gurus and celebrities.",
+      "title": "Duffy withholds federal funding from New York over immigrant trucker licenses dispute",
+      "link": "https://www.pbs.org/newshour/politics/duffy-withholds-federal-funding-from-new-york-over-immigrant-trucker-licenses-dispute",
+      "publishedAt": "Thu, 16 Apr 2026 19:53:06 -0400",
+      "snippet": "New York will lose more than $73.5 million in federal money because the Transportation Department said Thursday that state has refused to revoke nearly 33,000 questionable commercial driver's licenses for immigrants since an audit uncovered problems last year.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Pakistani delegation meets in Tehran hoping for more U.S.-Iran talks before ceasefire expires",
-      "link": "https://www.pbs.org/newshour/world/pakistani-delegation-meets-in-tehran-hoping-for-more-u-s-iran-talks-before-ceasefire-expires",
-      "publishedAt": "Wed, 15 Apr 2026 20:02:30 -0400",
-      "snippet": "Pakistan's army chief met Wednesday in Tehran with Iran's foreign minister in the latest diplomatic move to ease tensions in the Middle East and arrange a second round of negotiations between the United States and Iran after almost seven weeks of war.",
+      "title": "House rejects effort to withdraw U.S. forces from Iran war as GOP lawmakers stick with Trump",
+      "link": "https://www.pbs.org/newshour/politics/house-rejects-effort-to-withdraw-u-s-forces-from-iran-war-as-gop-lawmakers-stick-with-trump",
+      "publishedAt": "Thu, 16 Apr 2026 19:40:18 -0400",
+      "snippet": "The House rejected a resolution Thursday requiring President Donald Trump to withdraw U.S. forces from the war with Iran unless Congress authorizes military action. It was the latest such vote that fell short of passage as Republicans largely continue to support Trump's operation",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump administration prepares for pivot to economic warfare on Iran",
-      "link": "https://www.pbs.org/newshour/world/trump-administration-prepares-for-pivot-to-economic-warfare-on-iran",
-      "publishedAt": "Wed, 15 Apr 2026 19:41:43 -0400",
-      "snippet": "Treasury Secretary Scott Bessent told reporters at a White House briefing Wednesday that the U.S. plans to ramp up economic pain on Iran, and said the new moves will be the \"financial equivalent\" of a bombing campaign.",
+      "title": "Israel agrees to 10-day ceasefire in Lebanon as U.S. pushes for broader peace deal",
+      "link": "https://www.pbs.org/newshour/show/israel-agrees-to-10-day-ceasefire-in-lebanon-as-u-s-pushes-for-broader-peace-deal",
+      "publishedAt": "Thu, 16 Apr 2026 18:55:25 -0400",
+      "snippet": "President Trump announced a ceasefire deal that would suspend fighting between Israel and Hezbollah for ten days. Hezbollah has not said whether it will abide by the ceasefire. Trump also says leaders from Israel and Lebanon are expected to meet soon in hopes of reaching a broade",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "House Democrats attempt anti-corruption message to gain traction against Trump",
-      "link": "https://www.pbs.org/newshour/politics/house-democrats-attempt-anti-corruption-message-to-gain-traction-against-trump",
-      "publishedAt": "Wed, 15 Apr 2026 19:22:26 -0400",
-      "snippet": "Days after Hungarian Prime Minister Viktor Orbán was ousted by an opposition campaign with an anti-corruption message, Democrats want to try the same playbook against President Donald Trump before the midterm elections.",
+      "title": "Why the Israeli and Lebanese governments accepted a ceasefire &ndash; and will Hezbollah abide?",
+      "link": "https://www.pbs.org/newshour/show/why-the-israeli-and-lebanese-governments-accepted-a-ceasefire-and-will-hezbollah-abide",
+      "publishedAt": "Thu, 16 Apr 2026 18:50:20 -0400",
+      "snippet": "For insights on the announced ceasefire by the U.S., Israel and Lebanon, Amna Nawaz spoke with author and journalist Kim Ghattas. Her recent book, \"Black Wave,\" is about the rivalry between Saudi Arabia and Iran, and she is now a visiting professor at Dartmouth College.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "With U.S.-Iran ceasefire expiring in a week, diplomats lay groundwork for new talks",
-      "link": "https://www.pbs.org/newshour/show/with-u-s-iran-ceasefire-expiring-in-a-week-diplomats-lay-groundwork-for-new-talks",
-      "publishedAt": "Wed, 15 Apr 2026 18:55:25 -0400",
-      "snippet": "International mediators are pushing for new peace talks between the United States and Iran, and they're seeking to extend the fragile ceasefire that's set to expire next week. But nothing is set in stone, and the sides remain far apart on issues like the fate of Iran's nuclear pr",
+      "title": "UN official warns Strait of Hormuz dispute is disrupting global food supply",
+      "link": "https://www.pbs.org/newshour/show/un-official-warns-strait-of-hormuz-dispute-is-disrupting-global-food-supply",
+      "publishedAt": "Thu, 16 Apr 2026 18:45:10 -0400",
+      "snippet": "To discuss the global stakes of the impasse in the Strait of Hormuz and its impact on deepening humanitarian crises, Geoff Bennett spoke with Jorge Moreira da Silva, the executive director of the UN's Office for Project Services and head of the UN task force on the strait.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Israel's campaign in Lebanon a 'humanitarian catastrophe,' UN refugee chief warns",
-      "link": "https://www.pbs.org/newshour/show/israels-campaign-in-lebanon-a-humanitarian-catastrophe-un-refugee-chief-warns",
-      "publishedAt": "Wed, 15 Apr 2026 18:50:07 -0400",
-      "snippet": "The toll of the wider war in the Middle East has been severe in Lebanon. Israel has invaded the country's south again and is demanding that people vacate more land. The United Nations' top refugee official, Barham Salih, is there on a mission to survey the crisis and he sat down ",
+      "title": "News Wrap: Pope warns of 'tyrants' spending billions on wars",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-pope-warns-of-tyrants-spending-billions-on-wars",
+      "publishedAt": "Thu, 16 Apr 2026 18:40:24 -0400",
+      "snippet": "In our news wrap Thursday, Pope Leo is warning of a world \"ravaged by a handful of tyrants\" who spend billions on war, the Senate voted to lift a federal ban on mining upstream from Minnesota's Boundary Waters Canoe Area Wilderness and police say former Virginia Lt. Gov. Justin F",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Sexual abuse allegations spur calls for a broader reckoning in Congress",
-      "link": "https://www.pbs.org/newshour/politics/sexual-abuse-allegations-spur-calls-for-a-broader-reckoning-in-congress",
-      "publishedAt": "Wed, 15 Apr 2026 18:47:56 -0400",
-      "snippet": "Resignations came quickly this week from two congressmen accused of sexual misconduct toward staff members. Yet for many of the women of Capitol Hill, the moment of accountability was years in the making — and far from enough.",
+      "title": "How much of Project 2025 has Trump enacted?",
+      "link": "https://www.pbs.org/newshour/show/how-much-of-project-2025-has-trump-enacted",
+      "publishedAt": "Thu, 16 Apr 2026 18:35:15 -0400",
+      "snippet": "White House budget director Russ Vought has been key to implementing the Trump agenda. But before joining the administration, he was a central figure in drafting Project 2025, the controversial policy playbook by the Heritage Foundation that suggested large-scale changes a Republ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: IRS says average tax refund just under $3,500 this year",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-irs-says-average-tax-refund-just-under-3500-this-year",
-      "publishedAt": "Wed, 15 Apr 2026 18:45:43 -0400",
-      "snippet": "n our news wrap Wednesday, tax refunds are larger this year, but not nearly as big as the Trump administration had projected, the head of the IRS told a Senate hearing that his agency is working to address taxes owed but not paid and officials in Turkey say a student opened fire ",
+      "title": "Hampshire College closure highlights financial strain on small liberal arts schools",
+      "link": "https://www.pbs.org/newshour/show/hampshire-college-closure-highlights-financial-strain-on-small-liberal-arts-schools",
+      "publishedAt": "Thu, 16 Apr 2026 18:30:46 -0400",
+      "snippet": "After years of financial decline, Hampshire College, a liberal arts college in Massachusetts, has announced it will close at the end of the year. But the college is hardly alone. A new estimate projects that nearly 450 of the nation's 1,700 private, nonprofit colleges and univers",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Live Nation and Ticketmaster abused monopoly power and gouged consumers, jury finds",
-      "link": "https://www.pbs.org/newshour/show/live-nation-and-ticketmaster-abused-monopoly-power-and-gouged-consumers-jury-finds",
-      "publishedAt": "Wed, 15 Apr 2026 18:40:51 -0400",
-      "snippet": "A jury found Live Nation and its subsidiary Ticketmaster are a monopoly in violation of federal and state laws. The trial could have implications for both the company and the entertainment industry. States argued Live Nation used its control of ticketing platforms and concert ven",
+      "title": "Tracking the Trump family's business deals and profits in his 2nd term",
+      "link": "https://www.pbs.org/newshour/show/tracking-the-trump-familys-business-deals-and-profits-in-his-2nd-term",
+      "publishedAt": "Thu, 16 Apr 2026 18:25:48 -0400",
+      "snippet": "In his second administration, President Trump's family members, including his son-in-law Jared Kushner, and sons Eric and Don Jr., are expanding their business ventures, earning hundreds of millions of dollars and prompting fresh concerns about influence peddling and conflicts of",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump's DOJ targets Jan. 6 convictions, broadens Fed construction site probe",
-      "link": "https://www.pbs.org/newshour/show/trumps-doj-targets-jan-6-convictions-broadens-fed-construction-site-probe",
-      "publishedAt": "Wed, 15 Apr 2026 18:35:59 -0400",
-      "snippet": "President Trump's Department of Justice is making headlines. This week, it is releasing a report accusing the Biden administration of weaponizing the agency, moving to wipe out the convictions of Jan. 6 ringleaders and making a surprise visit to a Federal Reserve construction sit",
+      "title": "Erica Schwartz, former deputy surgeon general, nominated to be next CDC director by Trump",
+      "link": "https://www.pbs.org/newshour/politics/erica-schwartz-former-deputy-surgeon-general-nominated-to-be-next-cdc-director-by-trump",
+      "publishedAt": "Thu, 16 Apr 2026 18:22:36 -0400",
+      "snippet": "The Atlanta-based CDC, which is charged with protecting Americans from preventable health threats, has been in turmoil since Trump returned to office more than a year ago, with a succession of mostly temporary leaders.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Pope Leo's critiques of Trump policies hold more weight as a fellow American, priest says",
-      "link": "https://www.pbs.org/newshour/show/pope-leos-critiques-of-trump-policies-hold-more-weight-as-a-fellow-american-priest-says",
-      "publishedAt": "Wed, 15 Apr 2026 18:30:12 -0400",
-      "snippet": "The battle between the president and the pope continues to play out. Pope Leo has not backed down from his criticisms of the war in Iran, but he is taking a different approach during his visit to Africa. Some allies of President Trump are also piling on to defend him and the war.",
+      "title": "Dave Chappelle on investing in his Ohio town and backing its local public radio station",
+      "link": "https://www.pbs.org/newshour/show/dave-chappelle-on-investing-in-his-ohio-town-and-backing-its-local-public-radio-station",
+      "publishedAt": "Thu, 16 Apr 2026 18:20:54 -0400",
+      "snippet": "For more than 25 years, comedian Dave Chappelle has called the small village of Yellow Springs, Ohio, home. Amna Nawaz traveled there to meet with Chappelle and understand why he's invested millions of dollars into this community, and why he believes the local public media statio",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Why the spirit of volunteering is a defining part of America's identity",
-      "link": "https://www.pbs.org/newshour/show/why-the-spirit-of-volunteering-is-a-defining-part-of-americas-identity",
-      "publishedAt": "Wed, 15 Apr 2026 18:25:33 -0400",
-      "snippet": "Before the United States was founded, the idea of volunteering was well underway in the colonies. Now, Americans consistently donate more of their time than citizens of any other country. Judy Woodruff explores how the idea took root and why it's become a part of our national ide",
+      "title": "WATCH: Trump 'OK' with public Epstein survivor hearings",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-ok-with-public-epstein-survivor-hearings",
+      "publishedAt": "Thu, 16 Apr 2026 18:01:09 -0400",
+      "snippet": "\"I'm OK with it,\" he told PBS News' Liz Landers during a media availability outside the White House. \"I think we've had a lot of public hearings. I'm OK with it, but I understand that the women didn't want to go under oath.\"",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "New book explores Queen Elizabeth's relationships with 13 U.S. presidents",
-      "link": "https://www.pbs.org/newshour/show/new-book-explores-queen-elizabeths-relationships-with-13-u-s-presidents",
-      "publishedAt": "Wed, 15 Apr 2026 18:20:12 -0400",
-      "snippet": "Like countless powerful women throughout history, Queen Elizabeth II was routinely dismissed and underestimated. But during her 70-year reign, she managed the strategic relationship between the UK and the U.S., meeting with thirteen sitting presidents. Geoff Bennett spoke with Su",
+      "title": "Cuba's president says island does not wish for U.S. aggression but ready to fight if necessary",
+      "link": "https://www.pbs.org/newshour/world/cubas-president-says-island-does-not-wish-for-u-s-aggression-but-ready-to-fight-if-necessary",
+      "publishedAt": "Thu, 16 Apr 2026 17:53:01 -0400",
+      "snippet": "Earlier this week, Trump said his administration could focus on Cuba after the war in Iran ends.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What to know about new direct talks between Lebanon and Israel",
-      "link": "https://www.pbs.org/newshour/world/what-to-know-about-new-direct-talks-between-lebanon-and-israel",
-      "publishedAt": "Wed, 15 Apr 2026 18:06:06 -0400",
-      "snippet": "Lebanon and Israel's first direct talks in decades this week, spurred by the latest war between Israel and the Iran-backed Lebanese militant group Hezbollah, have been met by both high hopes and condemnation.",
+      "title": "WATCH: Trump says the pope has to understand that Iran cannot have a nuclear weapon",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-the-pope-has-to-understand-that-iran-cannot-have-a-nuclear-weapon",
+      "publishedAt": "Thu, 16 Apr 2026 16:53:50 -0400",
+      "snippet": "President Donald Trump said Thursday that he has \"to do what's right\" as he pushes back against Pope Leo XIV on Iran war.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Wall Street hits record as S&#038;P 500 continues 2-week rally, boosted by hopes for Iran war's end",
-      "link": "https://www.pbs.org/newshour/economy/wall-street-hits-record-as-sp-500-continues-2-week-rally-boosted-by-hopes-for-iran-wars-end",
-      "publishedAt": "Wed, 15 Apr 2026 17:40:17 -0400",
-      "snippet": "The S&P 500 rose 0.8% and eclipsed its prior all-time high set in January. Whether Wall Street is correct to have so much hope for peace and whether stocks should be the highest they've ever been remains to be seen.",
+      "title": "Judge allows 'national security' work to proceed at White House ballroom construction site",
+      "link": "https://www.pbs.org/newshour/politics/judge-allows-national-security-work-to-proceed-at-white-house-ballroom-construction-site",
+      "publishedAt": "Thu, 16 Apr 2026 16:52:05 -0400",
+      "snippet": "President Donald Trump railed against a federal judge's decision on Thursday that continues to block above-ground construction of a $400 million White House ballroom, allowing only below-ground work on a bunker and other \"national security facilities\" at the site.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Live Results: New Jersey special congressional election to replace Mikie Sherrill",
-      "link": "https://www.pbs.org/newshour/politics/live-results-new-jersey-special-congressional-election-to-replace-mikie-sherrill",
-      "publishedAt": "Wed, 15 Apr 2026 17:24:03 -0400",
-      "snippet": "Residents of New Jersey's 11th Congressional District will have a representative in Congress for the first time this year after a special election on Thursday.",
+      "title": "WATCH: Vought won't say how much Trump has spent on Iran war so far",
+      "link": "https://www.pbs.org/newshour/politics/watch-vought-wont-say-how-much-trump-has-spent-on-iran-war-so-far",
+      "publishedAt": "Thu, 16 Apr 2026 16:37:25 -0400",
+      "snippet": "Russell Vought, director of the Office of Management and Budget, declined to tell lawmakers on the Senate Budget Committee in a hearing Thursday how much the federal government has spent on the Iran war so far. Watch the clip in the video player above. \"We don't have that figures",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: First lady Melania Trump advocates for U.S. foster care system improvements at House roundtable",
-      "link": "https://www.pbs.org/newshour/politics/watch-first-lady-melania-trump-advocates-for-u-s-foster-care-system-improvements-at-house-roundtable",
-      "publishedAt": "Wed, 15 Apr 2026 16:59:25 -0400",
-      "snippet": "On Capitol Hill, Melania Trump said youngsters in foster care face barriers to housing, transportation and education and other challenges outside the classroom that affect their academic performance. \"We can close this gap,\" she said.",
+      "title": "WATCH: OMB chief Vought says Homeland Security is 'disintegrating' during shutdown",
+      "link": "https://www.pbs.org/newshour/politics/watch-omb-chief-vought-says-homeland-security-is-disintegrating-during-shutdown",
+      "publishedAt": "Thu, 16 Apr 2026 15:51:19 -0400",
+      "snippet": "Russell Vought, director of the Office of Management and Budget, told lawmakers in a hearing Thursday that the Department of Homeland Security is \"disintegrating\" as it remains unfunded by Congress.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH LIVE: OMB Director Vought testifies before Senate panel on Trump's 2027 budget request",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-omb-director-vought-testifies-before-senate-panel-on-trumps-2027-budget-request",
-      "publishedAt": "Wed, 15 Apr 2026 16:55:09 -0400",
-      "snippet": "Russell Vought, a key figure in the Trump administration's efforts to shrink the federal workforce, will defend the president's budget request in congressional hearings again on Thursday.",
+      "title": "WATCH: Trump attends Tax Day roundtable in Las Vegas as he touts 'no tax on tips' policy",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-trump-attends-tax-day-roundtable-in-las-vegas-as-he-touts-no-tax-on-tips-policy",
+      "publishedAt": "Thu, 16 Apr 2026 15:39:08 -0400",
+      "snippet": "President Donald Trump is betting that the tax cuts he signed into law last year will resonate with voters in Las Vegas, where he highlighted his tax breaks for tipped workers in an appeal targeted at this year's midterm elections.",
       "tier": 1
     },
     {
@@ -440,6 +440,94 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Cuban president vows defense of island if US invades",
+      "link": "https://www.dw.com/en/cuban-president-vows-defense-of-island-if-us-invades/a-76815996?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Cuba&apos;s president has vowed the Caribbean island state will defend itself if the US launches a military assault. US President Trump has repeatedly threatened to invade.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Several killed in Russian strikes across Ukraine, many more injured",
+      "link": "https://www.dw.com/en/several-killed-in-russian-strikes-across-ukraine-many-more-injured/a-76803204?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A 12-year-old was among those killed as Russian missile and drone attacks hit Ukrainian cities of Kyiv, Odesa and Dnipro.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "10-day ceasefire between Israel, Lebanon goes into effect",
+      "link": "https://www.dw.com/en/10-day-ceasefire-between-israel-lebanon-goes-into-effect/live-76802532?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The temporary ceasefire came after US President Trump spoke with Lebanese President Aoun and Israeli Prime Minister Netanyahu. Hezbollah says its commitment to the truce depends on Israel stopping attacks.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pope Leo excoriates &apos;tyrants&apos; waging war instead of peace",
+      "link": "https://www.dw.com/en/pope-leo-excoriates-tyrants-waging-war-instead-of-peace/a-76813305?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Pope Leo XIV has admonished those waging war in the name of god and slammed \"tyrants\" destroying the world and its resources. The pontiff has stepped up his criticism of senseless violence, angering US President Trump.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "The immense cost of Iran&apos;s nuclear program",
+      "link": "https://www.dw.com/en/the-immense-cost-of-iran-s-nuclear-program/a-76810402?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Iran insists that its nuclear program is for peaceful, civilian purposes, including energy production. But the figures and statistics paint a different picture.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How the Hormuz Strait crisis is squeezing India&apos;s SMEs",
+      "link": "https://www.dw.com/en/how-the-hormuz-strait-crisis-is-squeezing-india-s-smes/a-76810797?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Since the blockade of the vital shipping route, spice hub Kerala and ceramics manufacturing center Morbi are two of regional sites in India affected. Can anything be done to support small-scale traders there?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Senegal: The Goethe-Institut opens its new building in Dakar",
+      "link": "https://www.dw.com/en/senegal-the-goethe-institut-opens-its-new-building-in-dakar/a-76792644?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Goethe-Institut&apos;s new building in Dakar champions sustainable architecture, made from the earth. Star architect Francis Kere has blended local materials with contemporary design.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Anatomy of the clitoris: 3D images reveal its nerve system",
+      "link": "https://www.dw.com/en/anatomy-of-the-clitoris-3d-images-reveal-its-nerve-system/a-76795277?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "New 3D images reveal the clitoris’s complex nerve network, highlighting long‑standing gaps in medical understanding of the female body.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Top EU court rules online gamblers can sue for compensation if betting illegal in home country",
+      "link": "https://www.dw.com/en/top-eu-court-rules-online-gamblers-can-sue-for-compensation-if-betting-illegal-in-home-country/a-76807534?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The ECJ has ruled that online gamblers can seek compensation if they lost money when gambling was illegal in their home country, even if the laws have since changed. This could pave the way for others to reclaim losses.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany, Israel see growing divide after criticism of Merz",
+      "link": "https://www.dw.com/en/germany-israel-see-growing-divide-after-criticism-of-merz/a-76806148?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Israeli finance minister&apos;s sharp criticism of the German chancellor&apos;s views on Israel&apos;s settlement policy is just the latest sign of a growing estrangement. What&apos;s the current state of German-Israeli relations?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Lufthansa axes CityLine fleet early over strikes, fuel costs",
+      "link": "https://www.dw.com/en/lufthansa-axes-cityline-fleet-early-over-strikes-fuel-costs/a-76809881?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany&apos;s Lufthansa says it will retire older CityLine aircraft earlier than planned in response to strikes and rising fuel costs. As unions stage walkouts on two fronts, the Iran war has sent kerosene prices spiraling.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Rwanda ties Mozambique troop deployment to EU funding",
       "link": "https://www.dw.com/en/rwanda-ties-mozambique-troop-deployment-to-eu-funding/a-76795743?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -448,10 +536,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "US jury finds Live Nation, Ticketmaster holds harmful monopoly",
-      "link": "https://www.dw.com/en/us-jury-finds-live-nation-ticketmaster-holds-harmful-monopoly/a-76805425?maca=en-rss-en-top-1022-rdf",
+      "title": "US jury finds Live Nation, Ticketmaster hold illegal monopoly",
+      "link": "https://www.dw.com/en/us-jury-finds-live-nation-ticketmaster-hold-illegal-monopoly/a-76805425?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The verdict, will not bring immediate relief to concertgoers frustrated by high ticket prices, but could cost the company.",
+      "snippet": "The verdict will not bring immediate relief to concertgoers frustrated by high ticket prices, but could cost the company hundreds of millions of dollars.",
       "tier": 2
     },
     {
@@ -472,26 +560,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "German news: Teacher group urges action over pupil violence",
-      "link": "https://www.dw.com/en/german-news-teacher-group-urges-action-over-pupil-violence/live-76803825?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany news: Teacher group urges action over pupil violence",
+      "link": "https://www.dw.com/en/germany-news-teacher-group-urges-action-over-pupil-violence/live-76803825?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A German teachers&apos; group says decisive action is needed to counter a surge in violence in classrooms and corridors. Meanwhile, the Greens say a blanket speed limit on major highways would halp save fuel. DW has more,",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Several killed in Russian strikes across Ukraine, many more injured",
-      "link": "https://www.dw.com/en/several-killed-in-russian-strikes-across-ukraine-many-more-injured/a-76803204?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A 12-year-old was among those killed as Russian missile and drone attacks hit Ukrainian cities of Kyiv, Odesa and Dnipro.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: Pakistan delegation in Tehran to continue talks",
-      "link": "https://www.dw.com/en/iran-war-pakistan-delegation-in-tehran-to-continue-talks/live-76802532?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A high-level delegation from Pakistan is to continue talks in Tehran to push for fresh US-Iran negotiations. Follow DW for more.",
+      "snippet": "A German teachers&apos; group says decisive action is needed to counter a surge in violence in classrooms and corridors. Meanwhile, the Greens say a blanket speed limit on major highways would help save fuel.",
       "tier": 2
     },
     {
@@ -499,7 +571,7 @@
       "title": "India faces energy squeeze as US ends Iran, Russia oil waivers",
       "link": "https://www.dw.com/en/india-faces-energy-squeeze-as-us-ends-iran-russia-oil-waivers/live-76802535?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Washington&apos;s decision to let Iranian and Russian oil waivers expire threatens to tighten India&apos;s crude oil supply, as New Delhi had relied on temporary relief to sustain imports. DW has the latest.",
+      "snippet": "Washington&apos;s decision to let Iranian and Russian oil waivers expire threatens to tighten India&apos;s crude oil supply, as New Delhi had relied on temporary relief to sustain imports.",
       "tier": 2
     },
     {
@@ -515,79 +587,7 @@
       "title": "Firefighters battle huge blaze at Australian oil refinery",
       "link": "https://www.dw.com/en/firefighters-battle-huge-blaze-at-australian-oil-refinery/a-76801562?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The fire is burning out of control at the Geelong oil refinery, one of only two in Australia.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Can Trump get a better Iran deal than Obama?",
-      "link": "https://www.dw.com/en/can-trump-get-a-better-iran-deal-than-obama/a-76798388?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The 2015 Iran deal curbed Tehran&apos;s nuclear program until the US pulled out. After years of failed diplomacy and 40 days of war, talks are back on. Donald Trump has said he can strike a \"better\" deal than Barack Obama.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany, the UK warn the Iran war distracts from Ukraine and oil price rises help Russia",
-      "link": "https://www.dw.com/en/germany-the-uk-warn-the-iran-war-distracts-from-ukraine-and-oil-price-rises-help-russia/a-76797004?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany&apos;s defense minister warned that Russia \"benefits from current developments in the Middle East,\" as the Ukraine Defense Contact Group met in Berlin. He said rising oil prices were filling Moscow&apos;s \"war coffers.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Berlin hosts Sudan conference amid brutal, forgotten war",
-      "link": "https://www.dw.com/en/berlin-hosts-sudan-conference-amid-brutal-forgotten-war/a-76798246?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The war in Sudan has been raging for the past three years, and a ceasefire is nowhere in sight. Participants at a conference of donors in Berlin hope at least to ease the suffering of the people caught in the middle.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: Sudan aid conference in Berlin raises €1.3B",
-      "link": "https://www.dw.com/en/germany-sudan-aid-conference-in-berlin-raises-€1-3b/a-76786563?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The war in Sudan is entering its fourth year with international attention focused on other conflicts. The conference in Berlin is aiming to bring back some attention to help fund urgent projects.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Africa appoints veteran Afrikaner politician Roelf Meyer as US ambassador amid tense Trump ties",
-      "link": "https://www.dw.com/en/south-africa-appoints-veteran-afrikaner-politician-roelf-meyer-as-us-ambassador-amid-tense-trump-ties/a-76794872?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "South Africa has appointed a prominent Afrikaner politician, Roelf Meyer, to the ambassadorial role in Washington. This comes amid allegations from the Trump administration of a \"white genocide\" in the country.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "German health minister announces billions in cutbacks",
-      "link": "https://www.dw.com/en/german-health-minister-announces-billions-in-cutbacks/a-76796338?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The comprehensive reform package aims to plug a multibillion-euro hole in Germany&apos;s expensive health care system. Reforms include mandatory second opinions for costly surgeries and no more coverage for homeopathy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "What&apos;s behind Israeli attacks along Lebanon&apos;s Litani River?",
-      "link": "https://www.dw.com/en/what-s-behind-israeli-attacks-along-lebanon-s-litani-river/a-76783514?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Israel is pushing forward with plans to remove Lebanese homes and residents from between the Litani River and its own border, creating a buffer zone. Why is the area strategically important in the Middle East conflict?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran sees hundreds of thousands of jobs lost due to war",
-      "link": "https://www.dw.com/en/iran-sees-hundreds-of-thousands-of-jobs-lost-due-to-war/a-76794860?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After six weeks of war, job losses are growing in Iran. Destroyed industrial facilities have brought production in many sectors to a standstill, hitting Iranian workers particularly hard.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU chief urges bloc-wide push on age verification app to protect children online",
-      "link": "https://www.dw.com/en/eu-chief-urges-bloc-wide-push-on-age-verification-app-to-protect-children-online/a-76788202?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "EU chief calls for a bloc-wide push on an age verification app to protect children online. If enforced, users will have to prove their age to access legally restricted sites.",
+      "snippet": "Officials say there were no suspicious circumstances behind the fire at the Viva Energy Geelong oil refinery, one of only two in Australia. Authorities have warned of disruptions to domestic fuel supply.",
       "tier": 2
     }
   ]
