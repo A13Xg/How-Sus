@@ -8,6 +8,12 @@
  *   const [value, setValue] = useLocalStorage('my-key', defaultValue);
  *   // setValue works the same as setState — accepts either a value or updater fn
  *
+ * Cross-tab synchronisation:
+ *   This hook intentionally does NOT synchronise state across browser tabs.
+ *   HowSus is a single-tab analysis tool; cross-tab sync would add complexity
+ *   with no user-facing benefit. If cross-tab sync is needed in the future,
+ *   add a `storage` event listener that calls setStoredValue when the key changes.
+ *
  * Error handling:
  *   - Parse failures on read fall back to initialValue silently.
  *   - Write failures (e.g. private browsing quotas) are silently ignored.

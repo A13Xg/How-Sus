@@ -345,9 +345,9 @@ function DarkPatternsPanel({ darkPatterns }) {
         <li key={i} className="dark-pattern-item">
           <div className="dark-pattern-head">
             <span className="dark-pattern-label">{item.label}</span>
-            {/* Pill badge colour-coded by category */}
+            {/* Category colour coding */}
             <span className={`dark-pattern-category ${item.category}`}>
-              {DARK_PATTERN_CATEGORY_LABELS[item.category] ?? item.category}
+              {DARK_PATTERN_CATEGORY_LABELS[item.category] ?? 'Other'}
             </span>
           </div>
           {/* The actual phrase that triggered the pattern match */}

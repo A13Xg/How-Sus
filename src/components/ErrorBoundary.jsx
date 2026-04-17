@@ -48,7 +48,7 @@ export default class ErrorBoundary extends React.Component {
     // In a production environment with a backend, send these details to an
     // error tracking service (e.g. Sentry). For GitHub Pages (no backend) we
     // log to the browser console only.
-    console.error('[HowSus ErrorBoundary]', error, info?.componentStack);
+    console.error('[HowSus ErrorBoundary]', error, info.componentStack);
   }
 
   /** Reset the boundary so the user can try again without a full page reload. */
