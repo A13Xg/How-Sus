@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T12:45:31.347Z",
+  "generatedAt": "2026-04-23T01:07:11.639Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,34 +32,66 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Trump buys time for Iran deal after frantic day of diplomacy",
-      "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 22 Apr 2026 00:32:10 GMT",
-      "snippet": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
+      "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
+      "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 16:19:36 GMT",
+      "snippet": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+      "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 18:10:42 GMT",
+      "snippet": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
+      "link": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 17:04:33 GMT",
+      "snippet": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
       "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 22 Apr 2026 11:19:57 GMT",
+      "publishedAt": "Wed, 22 Apr 2026 17:48:44 GMT",
       "snippet": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria's suspected coup plotters deny treason charges",
+      "link": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 17:33:30 GMT",
+      "snippet": "Allegations of a coup plot first surfaced last year when an Independence Day parade was cancelled.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
       "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 22 Apr 2026 10:31:29 GMT",
+      "publishedAt": "Wed, 22 Apr 2026 15:00:40 GMT",
       "snippet": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Mexico officials say Teotihuacán gunman carried material related to US mass shooting",
-      "link": "https://www.bbc.com/news/articles/c393mped8zjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 22 Apr 2026 03:11:57 GMT",
-      "snippet": "The gunman visited the archaeological site repeatedly and appeared to act alone.",
+      "title": "No cartels involved - but Mexico's pyramid attack prompts new concerns",
+      "link": "https://www.bbc.com/news/articles/cre1r5gdq04o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 14:50:52 GMT",
+      "snippet": "The deadly shooting at a popular tourist site weeks before the World Cup has rocked Mexico.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US charges anti-extremism organisation over payments to informants in hate groups",
+      "link": "https://www.bbc.com/news/articles/clyrkd022ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 09:09:50 GMT",
+      "snippet": "The Southern Poverty Law Center said it would \"vigorously defend ourselves, our staff, and our work\".",
       "tier": 1
     },
     {
@@ -80,10 +112,26 @@
     },
     {
       "source": "BBC World",
+      "title": "Los Angeles becomes first major US school district to limit classroom screen time",
+      "link": "https://www.bbc.com/news/articles/c15d888ww39o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 14:22:59 GMT",
+      "snippet": "The school district, which serves about half a million students, is looking to reduce its reliance on devices after the pandemic.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
       "link": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 22 Apr 2026 04:01:50 GMT",
       "snippet": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump buys time for Iran deal after frantic day of diplomacy",
+      "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Apr 2026 00:32:10 GMT",
+      "snippet": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
       "tier": 1
     },
     {
@@ -122,7 +170,7 @@
       "source": "BBC World",
       "title": "Virginia approves redistricting measure, boosting Democrats' hopes for midterms",
       "link": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 22 Apr 2026 02:24:41 GMT",
+      "publishedAt": "Wed, 22 Apr 2026 13:49:15 GMT",
       "snippet": "The new maps approved by the state's voters could allow Democrats to flip as many as four House seats.",
       "tier": 1
     },
@@ -143,291 +191,243 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Domestic workers legally recognised in Indonesia after '22-year struggle'",
-      "link": "https://www.bbc.com/news/articles/c1mkvjkg10no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 22 Apr 2026 02:55:40 GMT",
-      "snippet": "The country is home to some 4.2 million domestic workers - of which almost 90% are women.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
-      "link": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Apr 2026 16:25:44 GMT",
-      "snippet": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
-      "link": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Apr 2026 12:28:31 GMT",
-      "snippet": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Mass trial for 486 alleged gang members begins in El Salvador",
-      "link": "https://www.bbc.com/news/videos/ce9mernj0gko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Apr 2026 17:45:39 GMT",
-      "snippet": "Footage released by the attorney general's office shows large groups of men in prison attending the trial via video link.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
-      "link": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Apr 2026 10:13:54 GMT",
-      "snippet": "This clears the way for Japan to sell weapons to more than a dozen countries.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Madonna offers reward for return of missing Coachella costume",
-      "link": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Apr 2026 10:29:05 GMT",
-      "snippet": "The items, which she says are \"part of my history\", disappeared after her slot with Sabrina Carpenter.",
+      "source": "NPR News",
+      "title": "Chemical leak at a W.Va. plant kills 2 people, sends 30 more to hospitals, officials say",
+      "link": "https://www.npr.org/2026/04/22/g-s1-118416/chemical-leak-west-virginia-institute",
+      "publishedAt": "Wed, 22 Apr 2026 20:36:50 -0400",
+      "snippet": "The leak occurred at the Catalyst Refiners plant, a silver recovery business. An emergency management official says workers were preparing to shut down at least part of the facility when the leak occurred, causing a chemical gas reaction.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Ships attacked in Strait of Hormuz. And, VA voters approve redistricting effort",
-      "link": "https://www.npr.org/2026/04/22/g-s1-118328/up-first-newsletter-iran-us-ceasefire-virginia-redistricting-aca",
-      "publishedAt": "Wed, 22 Apr 2026 07:50:18 -0400",
-      "snippet": "Two ships came under attack in the Strait of Hormuz, hours after Trump extended the ceasefire with Iran. And, Virginia voters approved a measure allowing Democrats to redraw the congressional map.",
+      "title": "Pentagon says Navy secretary is leaving, the latest departure of a top defense leader",
+      "link": "https://www.npr.org/2026/04/22/g-s1-118406/navy-secretary-john-phelan-leaving-undersecretary-hung-cao",
+      "publishedAt": "Wed, 22 Apr 2026 19:30:41 -0400",
+      "snippet": "Pentagon spokesman Sean Parnell said John Phelan, the Navy&apos;s top civilian official, was \"departing the administration, effective immediately.\" Navy Undersecretary Hung Cao will become acting secretary of the Navy.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Ships attacked in Strait of Hormuz after ceasefire extension",
-      "link": "https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates",
-      "publishedAt": "Wed, 22 Apr 2026 06:53:59 -0400",
-      "snippet": "Three vessels came under fire in the Strait of Hormuz, just hours after the U.S. and Iran failed to meet in Pakistan for talks to end the war and as President Trump indefinitely extended the ceasefire.",
+      "title": "Tesla&apos;s profits beat expectations, but Elon Musk says big costs are ahead",
+      "link": "https://www.npr.org/2026/04/22/nx-s1-5791653/tesla-earnings-first-quarter-2026",
+      "publishedAt": "Wed, 22 Apr 2026 19:23:43 -0400",
+      "snippet": "Tesla&apos;s profits were up from this time last year. But the company warned investors to prepare for expensive investments in next-generation technology like humanoid robots and AI.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "&apos;We can do better,&apos; FAA head says of work to update U.S. analog air traffic system",
-      "link": "https://www.npr.org/2026/04/22/nx-s1-5791744/faa-dot-air-traffic-control-system-revamp",
-      "publishedAt": "Wed, 22 Apr 2026 05:00:00 -0400",
-      "snippet": "The U.S. aviation system is being modernized — but FAA Administrator Bryan Bedford and other leaders say it will take more money to make the system more efficient and flexible.",
+      "title": "The tariff refund process has begun for businesses. What about customers?",
+      "link": "https://www.npr.org/2026/04/22/nx-s1-5791663/the-tariff-refund-customers",
+      "publishedAt": "Wed, 22 Apr 2026 13:32:09 -0400",
+      "snippet": "While shipping companies are pledging refunds for customers who directly paid tariff fees, the situation is much trickier for retailers.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "How the airline industry could be impacted if Spirit Airlines is liquidated",
-      "link": "https://www.npr.org/2026/04/22/nx-s1-5789050/spirit-airlines-liquidation-bankruptcy-impact",
-      "publishedAt": "Wed, 22 Apr 2026 05:00:00 -0400",
-      "snippet": "Spirit has not confirmed a liquidation, though it has filed for bankruptcy protection twice. Experts predict rising fuel costs could push the company to close its doors for good.",
+      "title": "Inside Linda McMahon&apos;s effort to dismantle the Department of Education",
+      "link": "https://www.npr.org/2026/04/22/nx-s1-5794689/from-professional-wrestling-to-the-department-of-education-inside-linda-mcmahons-effort-to-dismantle-the-department-of-education",
+      "publishedAt": "Wed, 22 Apr 2026 11:21:52 -0400",
+      "snippet": "A former pro-wrestling executive, McMahon is now the education secretary Trump tasked with abolishing the agency. New Yorker writer Zach Helfand explains how her WWE experience led her to this role.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trump administration delays rule aimed at improving disability access in schools",
-      "link": "https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools",
-      "publishedAt": "Wed, 22 Apr 2026 05:00:00 -0400",
-      "snippet": "Schools, colleges and other public institutions originally had until this week to make online content accessible to people with disabilities. Now, the Justice Department has delayed that deadline.",
+      "title": "Iranians are leaving the country just to access the internet",
+      "link": "https://www.npr.org/2026/04/22/g-s1-118339/iran-internet-access-turkey",
+      "publishedAt": "Wed, 22 Apr 2026 11:12:09 -0400",
+      "snippet": "Iran has cut off its access to the global internet. To find an internet connection, some Iranians are traveling across the border with Turkey — even just to make video calls and then go back home.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "From the Himalayas to Newt Gingrich, the &apos;tree-huggers&apos; prevail",
-      "link": "https://www.npr.org/2026/04/22/nx-s1-5787684/tree-hugger-history-earth-day",
-      "publishedAt": "Wed, 22 Apr 2026 05:00:00 -0400",
-      "snippet": "On Earth Day, we take a look back at the rocky history of \"tree-huggers.\" The term originated in the 1970s in the Himalayas and was later co-opted by American politics in the 1990s. Now, environmentalists are reclaiming the word.",
+      "title": "Gene therapy for a rare type of deafness shows lasting results",
+      "link": "https://www.npr.org/2026/04/22/nx-s1-5791478/gene-therapy-deafness-hearing",
+      "publishedAt": "Wed, 22 Apr 2026 11:00:04 -0400",
+      "snippet": "Researchers say a gene therapy allowed deaf children and adults as old as 32 to hear for the first time. The benefits have persisted for more than two years for some patients.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "With Virginia vote, Democrats gain edge over Trump&apos;s national GOP redistricting push",
-      "link": "https://www.npr.org/2026/04/22/nx-s1-5787989/redistricting-map-trump-midterms-congress",
-      "publishedAt": "Wed, 22 Apr 2026 05:00:00 -0400",
-      "snippet": "After Virginia voters weighed in on Tuesday, the redistricting set off by President Trump to help the GOP in the midterms has been countered and possibly surpassed by Democrats.",
+      "title": "Family influencers make the lifestyle look good. But kids pay the price, new book says",
+      "link": "https://www.npr.org/2026/04/22/nx-s1-5794005/like-follow-subscribe-influencer-book-review",
+      "publishedAt": "Wed, 22 Apr 2026 10:46:32 -0400",
+      "snippet": "What does it mean to monetize your offspring? To turn their childhood into content? In Like, Follow, Subscribe Fortesa Latifi explores what drives parents to become family influencers.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "RFK Jr. is on a congressional hearing blitz, after a long absence from Capitol Hill",
-      "link": "https://www.npr.org/2026/04/22/nx-s1-5792840/rfk-jr-senate-house-budget-hearings-vaccines-cdc-medicaid",
-      "publishedAt": "Wed, 22 Apr 2026 05:00:00 -0400",
-      "snippet": "Health Secretary Robert F. Kennedy Jr. caps off seven budget hearings in as many days, the first time he has testified before Congress since September.",
+      "title": "Greetings from an Islamabad park, a peaceful vantage point in an uncertain world",
+      "link": "https://www.npr.org/2026/04/22/g-s1-117423/pakistan-islamabad-park",
+      "publishedAt": "Wed, 22 Apr 2026 09:46:42 -0400",
+      "snippet": "The park, near the venue where inconclusive Iran-U.S. peace talks took place this month, provides respite to those who visit it.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Republican strategist on Trump&apos;s Cabinet turnover and how it could affect his agenda",
-      "link": "https://www.npr.org/2026/04/22/nx-s1-5793900/republican-strategist-on-trumps-cabinet-turnover-and-how-it-could-affect-his-agenda",
-      "publishedAt": "Wed, 22 Apr 2026 04:41:23 -0400",
-      "snippet": "NPR&apos;s Michel Martin asks Republican strategist Alex Conant about the turnover in President Trump&apos;s Cabinet.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Priceless 2,500-year-old golden helmet returned to Romania after Dutch museum raid",
-      "link": "https://www.npr.org/2026/04/22/nx-s1-5795403/golden-helmet-romania-recovery",
-      "publishedAt": "Wed, 22 Apr 2026 01:24:08 -0400",
-      "snippet": "The ornate Cotofenesti helmet, which was stolen in January 2025 while on loan to a Dutch museum, was recovered last month.",
+      "title": "Restrictions on obesity drug coverage force patients to pivot",
+      "link": "https://www.npr.org/2026/04/22/nx-s1-5794613/health-insurance-wegovy-zepbound",
+      "publishedAt": "Wed, 22 Apr 2026 09:25:13 -0400",
+      "snippet": "Twelve million people lost coverage for Zepbound over the last year. The same number of people lost coverage for Wegovy, according to an analysis by GoodRx, a drug discount website.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH LIVE: RFK Jr. testifies on Trump's HHS budget request before Senate committees",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-rfk-jr-testifies-on-trumps-hhs-budget-request-before-senate-committees",
-      "publishedAt": "Wed, 22 Apr 2026 08:37:49 -0400",
-      "snippet": "Sen. Bill Cassidy's roles as a lawmaker, a doctor and a political candidate will collide on Wednesday as he questions Health Secretary Robert F. Kennedy Jr. in two high-stakes Senate hearings.",
+      "title": "UK Parliament passes bill that will ban cigarette purchases for younger generations",
+      "link": "https://www.pbs.org/newshour/world/uk-parliament-passes-bill-that-will-ban-cigarette-purchases-for-younger-generations",
+      "publishedAt": "Wed, 22 Apr 2026 20:26:22 -0400",
+      "snippet": "Children born after Dec. 31, 2008 will be banned from ever buying cigarettes under the Tobacco and Vapes Bill.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Appeals court rules Texas can require public schools to display Ten Commandments in class",
-      "link": "https://www.pbs.org/newshour/politics/appeals-court-rules-texas-can-require-public-schools-to-display-ten-commandments-in-class",
-      "publishedAt": "Tue, 21 Apr 2026 20:14:16 -0400",
-      "snippet": "Texas can require the Ten Commandments to be displayed in public school classrooms, a U.S. appeals court ruled Tuesday in a victory for conservatives who have long sought to incorporate more religion into schools.",
+      "title": "Searchers find body of 1 of 6 missing crew from U.S.-registered ship hit by Typhoon Sinlaku",
+      "link": "https://www.pbs.org/newshour/world/searchers-find-body-of-1-of-6-missing-crew-from-u-s-registered-ship-hit-by-typhoon-sinlaku",
+      "publishedAt": "Wed, 22 Apr 2026 20:19:57 -0400",
+      "snippet": "U.S. Air Force divers used an underwater drone on Tuesday to search inside the overturned ship, the U.S. Coast Guard said in a news release. Divers from Japan's coast guard further examined the ship, called the Mariana, but didn't find the other five, it said.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Trump addresses NCAA Collegiate National Champions at White House",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-addresses-ncaa-collegiate-national-champions-at-white-house",
-      "publishedAt": "Tue, 21 Apr 2026 19:54:12 -0400",
-      "snippet": "President Donald Trump on Tuesday repeated his call for Congress to pass legislation that would rein in college sports at a time athletes are allowed to move freely from school to school and command salaries that put athletic departments in financial peril.",
+      "title": "Trump Media replaces Nunes as Truth Social CEO after stock plunge that wiped out billions",
+      "link": "https://www.pbs.org/newshour/politics/trump-media-replaces-nunes-as-truth-social-ceo-after-stock-plunge-that-wiped-out-billions",
+      "publishedAt": "Wed, 22 Apr 2026 20:00:09 -0400",
+      "snippet": "The Trump business behind Truth Social is replacing a former congressman and big supporter of the U.S. president as the leader of the social media platform after a stock collapse that wiped out billions in investor wealth.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Justice Department charges SPLC with fraud over paid informant program",
-      "link": "https://www.pbs.org/newshour/politics/watch-justice-department-charges-splc-with-fraud-over-paid-informant-program",
-      "publishedAt": "Tue, 21 Apr 2026 19:41:56 -0400",
-      "snippet": "The Southern Poverty Law Center was indicted Tuesday on federal fraud charges alleging it improperly raised millions of dollars to pay informants to infiltrate the Ku Klux Klan and other extremist groups, acting Attorney General Todd Blanche said.",
+      "title": "Pope Leo calls for better prison conditions during Equatorial Guinea visit at end of Africa tour",
+      "link": "https://www.pbs.org/newshour/world/pope-leo-calls-for-better-prison-conditions-during-equatorial-guinea-visit-at-end-of-africa-tour",
+      "publishedAt": "Wed, 22 Apr 2026 19:43:01 -0400",
+      "snippet": "Leo's stop, at the end of his four-nation African tour, took on added significance after it emerged that Equatorial Guinea was one of several African nations that have been paid millions of dollars in controversial deals with the Trump administration to receive migrants deported ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "South Korean police seek to arrest K-pop mogul behind BTS over alleged fraud",
-      "link": "https://www.pbs.org/newshour/world/south-korean-police-seek-to-arrest-k-pop-mogul-behind-bts-over-alleged-fraud",
-      "publishedAt": "Tue, 21 Apr 2026 19:29:32 -0400",
-      "snippet": "South Korean police said Tuesday they are seeking to arrest music mogul Bang Si-Hyuk, chairman of the agency behind K-pop supergroup BTS, as they expand an investigation into allegations that he illegally gained more than $100 million in an investor fraud scheme.",
+      "title": "4 takeaways from Health Secretary RFK Jr.'s gauntlet of congressional hearings",
+      "link": "https://www.pbs.org/newshour/politics/4-takeaways-from-health-secretary-kennedys-gauntlet-of-congressional-hearings",
+      "publishedAt": "Wed, 22 Apr 2026 19:20:33 -0400",
+      "snippet": "In his testimony to various committees in the Senate and the House over multiple days, Kennedy was tasked with defending President Donald Trump's proposed 2027 budget, which would boost defense spending while cutting more than 12% of funding from the Department of Health and Huma",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Man convicted of setting neighbor on fire during 1990 burglary is executed in Florida",
-      "link": "https://www.pbs.org/newshour/nation/man-convicted-of-setting-neighbor-on-fire-during-1990-burglary-is-executed-in-florida",
-      "publishedAt": "Tue, 21 Apr 2026 19:02:02 -0400",
-      "snippet": "Florida's fifth execution of 2026 followed a record 19 executions in the state last year. Republican Gov. Ron DeSantis oversaw more executions in a single year in 2025 than any other Florida governor since the death penalty was reinstated in 1976.",
+      "title": "Iran targets ships in Strait of Hormuz as U.S. talks remain uncertain",
+      "link": "https://www.pbs.org/newshour/show/iran-targets-ships-in-strait-of-hormuz-as-u-s-talks-remain-uncertain",
+      "publishedAt": "Wed, 22 Apr 2026 18:55:12 -0400",
+      "snippet": "Iranian forces attacked and seized at least two ships in the contested Strait of Hormuz as a standoff over when or whether to return to negotiations continued. The Trump administration said it did not consider the attacks violations of a ceasefire that President Trump extended on",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump extends Iran ceasefire as talks to end war stall",
-      "link": "https://www.pbs.org/newshour/show/trump-extends-iran-ceasefire-as-talks-to-end-war-stall",
-      "publishedAt": "Tue, 21 Apr 2026 18:55:54 -0400",
-      "snippet": "President Trump said late Tuesday he would extend the ceasefire with Iran as negotiations over the next round of talks seem to be at an impasse. Trump said Pakistani mediators asked him to extend the truce as the sides remain far apart on terms for ending the war. White House cor",
+      "title": "Hormuz standoff the 'largest supply shock' ever experienced, says global energy expert",
+      "link": "https://www.pbs.org/newshour/show/hormuz-standoff-the-largest-supply-shock-ever-experienced-says-global-energy-expert",
+      "publishedAt": "Wed, 22 Apr 2026 18:50:06 -0400",
+      "snippet": "Traffic through the Strait of Hormuz has come to a virtual standstill since the U.S. and Israel attacked Iran almost two months ago. Around 20% of the world's petrochemical production normally flows through the strait, and the ripple effects of the drastic cut grow daily. To expl",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: DOJ announces criminal charges against Southern Poverty Law Center",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-doj-announces-criminal-charges-against-southern-poverty-law-center",
-      "publishedAt": "Tue, 21 Apr 2026 18:50:47 -0400",
-      "snippet": "In our news wrap Tuesday, the Justice Department announced criminal charges against the Southern Poverty Law Center over its use of paid informants to infiltrate extremist groups, the Pentagon revealed details about its $1.5 trillion budget request and Defense Secretary Pete Hegs",
+      "title": "News Wrap: Virginia voters approve new congressional map that could help Democrats",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-virginia-voters-approve-new-congressional-map-that-could-help-democratsnews-wrap-48",
+      "publishedAt": "Wed, 22 Apr 2026 18:45:03 -0400",
+      "snippet": "In our news wrap Wednesday, Democrats are celebrating a win in Virginia, where voters approved a plan to redraw the state's congressional map in a way that could help them pick up four seats in the midterms, the Supreme Court found that an Army veteran who was injured by a suicid",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Gunman at Mexican pyramids carried materials related to 1999 Columbine massacre",
-      "link": "https://www.pbs.org/newshour/world/gunman-at-mexican-pyramids-carried-materials-related-to-1999-columbine-massacre",
-      "publishedAt": "Tue, 21 Apr 2026 18:46:29 -0400",
-      "snippet": "The gunman who opened fire on tourists at Mexico's iconic Teotihuacan pyramids carried materials that were apparently related to the 1999 shooting at Columbine High School, authorities said Tuesday, a day after the attack that killed a Canadian woman and left at least 13 people i",
+      "title": "RFK Jr. defends vaccine guidance changes and health spending cuts",
+      "link": "https://www.pbs.org/newshour/show/rfk-jr-defends-vaccine-guidance-changes-and-health-spending-cuts",
+      "publishedAt": "Wed, 22 Apr 2026 18:40:48 -0400",
+      "snippet": "Health Secretary Robert F. Kennedy Jr. was back testifying on Capitol Hill, giving members of Congress a chance to press him on some of the biggest changes he's making on spending cuts, vaccines and other public health issues. Lisa Desjardins reports.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Fed nominee Warsh questioned on independence from Trump and personal wealth",
-      "link": "https://www.pbs.org/newshour/show/fed-nominee-warsh-questioned-on-independence-from-trump-and-personal-wealthfed-fight-sot",
-      "publishedAt": "Tue, 21 Apr 2026 18:45:29 -0400",
-      "snippet": "President Trump's pick to lead the Federal Reserve, Kevin Warsh, was on Capitol Hill facing a slew of lawmaker questions on his monetary policy and independence from Trump. But the president's pressure campaign against Jerome Powell threatens to freeze Warsh's nomination. Amna Na",
+      "title": "CBP officer charged with assault over treatment of protester outside Colorado ICE facility",
+      "link": "https://www.pbs.org/newshour/nation/cbp-officer-charged-with-assault-over-treatment-of-protester-outside-colorado-ice-facility",
+      "publishedAt": "Wed, 22 Apr 2026 18:36:06 -0400",
+      "snippet": "An immigration officer has been charged with third-degree assault and criminal mischief following an investigation into how he treated a protester in Durango, Colorado, who said the officer put her in a chokehold.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Rep. Cherfilus-McCormick resigns ahead of ethics probe into use of campaign funds",
-      "link": "https://www.pbs.org/newshour/show/rep-cherfilus-mccormick-resigns-ahead-of-ethics-probe-into-use-of-campaign-funds",
-      "publishedAt": "Tue, 21 Apr 2026 18:35:11 -0400",
-      "snippet": "Another scandal-plagued member of Congress resigned on Tuesday, exactly one week after a pair of her peers did the same. Democrat Sheila Cherfilus-McCormick of Florida faced an ethics investigation into her use of campaign funds. Lisa Desjardins reports.",
+      "title": "Deaths of Americans raise questions about U.S. operations against cartels in Mexico",
+      "link": "https://www.pbs.org/newshour/show/deaths-of-americans-raise-questions-about-u-s-operations-against-cartels-in-mexico",
+      "publishedAt": "Wed, 22 Apr 2026 18:35:00 -0400",
+      "snippet": "An investigation is underway after four officials, including two Americans, were killed in a car crash in Mexico. It's being called an accident by the local government, but it happened after an operation to destroy drug labs in a mountainous area. It's been widely reported that t",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "In rare interview, top Hezbollah leader rejects disarmament, calls for Israeli withdrawal",
-      "link": "https://www.pbs.org/newshour/show/in-rare-interview-top-hezbollah-leader-rejects-disarmament-calls-for-israeli-withdrawal",
-      "publishedAt": "Tue, 21 Apr 2026 18:30:50 -0400",
-      "snippet": "Representatives from the governments of Lebanon and Israel will meet again this week in Washington for peace talks. But Hezbollah is not involved. The full disarmament of the Iran-backed group is a central part of the discussions, but in a rare interview, top Hezbollah official W",
+      "title": "Uganda sees spike in disease-related deaths after elimination of USAID",
+      "link": "https://www.pbs.org/newshour/show/uganda-sees-spike-in-disease-related-deaths-after-elimination-of-usaid",
+      "publishedAt": "Wed, 22 Apr 2026 18:30:01 -0400",
+      "snippet": "In 2025, the Trump administration dissolved the $40 billion U.S. Agency for International Development, or USAID. Days later, an exemption for \"life-saving humanitarian assistance\" was issued. But what that included was not specified and aid for health programs has been drasticall",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Apple prepares for new era after Tim Cook",
-      "link": "https://www.pbs.org/newshour/show/apple-prepares-for-new-era-after-tim-cook",
-      "publishedAt": "Tue, 21 Apr 2026 18:25:27 -0400",
-      "snippet": "Apple is entering a major transition after CEO Tim Cook announced he's stepping down following 15 years at the helm of one of the world's most influential tech companies. Cook will hand leadership to John Ternus, the company's head of hardware engineering. It comes as Apple confr",
+      "title": "Election officials sound alarm over political interference in midterms",
+      "link": "https://www.pbs.org/newshour/show/election-officials-sound-alarm-over-political-interference-in-midterms",
+      "publishedAt": "Wed, 22 Apr 2026 18:25:10 -0400",
+      "snippet": "After Democrats won an election in Virginia to redraw congressional maps in their favor, President Trump called it, without evidence, a \"rigged election\" and \"travesty of justice.\" It's the latest example of Trump casting doubt on the U.S. election process. Liz Landers reports on",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Gen Z men and women on why they're sharply divided over reproductive rights",
-      "link": "https://www.pbs.org/newshour/show/gen-z-men-and-women-on-why-theyre-sharply-divided-over-reproductive-rights",
-      "publishedAt": "Tue, 21 Apr 2026 18:20:25 -0400",
-      "snippet": "A majority of Americans think abortion should be legal in all or most cases, but there is a gap between men and women on the issue. That divide is perhaps clearest among Generation Z, those born between 1997 and 2012. This split is part of a bigger picture about how Gen Z thinks ",
+      "title": "National Park Foundation chief on protecting America's shared spaces",
+      "link": "https://www.pbs.org/newshour/show/national-park-foundation-chief-on-protecting-americas-shared-spaces",
+      "publishedAt": "Wed, 22 Apr 2026 18:20:09 -0400",
+      "snippet": "In 2025, national parks recorded more than 323 million visits, and 26 parks set attendance records. But as the parks gain popularity, the Trump administration has proposed slashing $1 billion from the National Park Service, likely eliminating thousands of jobs from an already und",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "New growth in logged forests inspires photographer's hope",
-      "link": "https://www.pbs.org/newshour/show/new-growth-in-logged-forests-inspires-photographers-hope",
-      "publishedAt": "Tue, 21 Apr 2026 18:15:11 -0400",
-      "snippet": "Scott Rickenberger is a photographer from North Bend, Washington, who shares his passion for the natural world and highlights how trees that were logged more than a century ago can be surprising sources of inspiration and hope. Julinna Wu of our journalism training program, PBS N",
+      "title": "Mexico to boost security at tourist sites ahead of World Cup after shooting at pyramids",
+      "link": "https://www.pbs.org/newshour/world/mexico-to-boost-security-at-tourist-sites-ahead-of-world-cup-after-shooting-at-pyramids",
+      "publishedAt": "Wed, 22 Apr 2026 18:06:45 -0400",
+      "snippet": "The Monday shooting, carried out by a lone gunman on top of one of the Teotihuacan pyramids — a UNESCO Heritage Site and one of Mexico's most frequented tourist attractions — killed one Canadian tourist and injured a dozen more.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "U.S. officials killed in Mexico after anti-drug operation were working for CIA, AP sources say",
-      "link": "https://www.pbs.org/newshour/world/u-s-officials-killed-in-mexico-after-anti-drug-operation-were-working-for-cia-ap-sources-say",
-      "publishedAt": "Tue, 21 Apr 2026 18:14:37 -0400",
-      "snippet": "The lack of clarity from authorities reignited a debate over the extent of U.S. involvement in Mexico's security operations as Mexican President Claudia Sheinbaum faces extreme pressure from U.S. President Donald Trump's administration to crack down on cartels.",
+      "title": "Navy Secretary John Phelan is leaving, Pentagon says, in latest departure of a top defense leader",
+      "link": "https://www.pbs.org/newshour/politics/navy-secretary-john-phelan-is-leaving-pentagon-says-in-latest-departure-of-a-top-defense-leader",
+      "publishedAt": "Wed, 22 Apr 2026 17:50:51 -0400",
+      "snippet": "In a statement posted to social media, Pentagon spokesman Sean Parnell said Phelan was \"departing the administration, effective immediately.\"",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Approval of Trump on economy falls in new AP-NORC poll, as Iran war drives up prices",
-      "link": "https://www.pbs.org/newshour/politics/approval-of-trump-on-economy-falls-in-new-ap-norc-poll-as-iran-war-drives-up-prices",
-      "publishedAt": "Tue, 21 Apr 2026 17:48:16 -0400",
-      "snippet": "The findings from The Associated Press-NORC Center for Public Affairs Research show a president who is struggling with unfulfilled promises to tame inflation and testing Americans' patience with a conflict in the Middle East that has dragged on longer than expected.",
+      "title": "WATCH: Leavitt says Trump has not set 'firm deadline' for Iranian proposal to extend ceasefire",
+      "link": "https://www.pbs.org/newshour/politics/watch-leavitt-says-trump-has-not-set-firm-deadline-for-iranian-proposal-to-extend-ceasefire",
+      "publishedAt": "Wed, 22 Apr 2026 16:55:52 -0400",
+      "snippet": "\"Ultimately, the timeline would be dictated by the commander in chief and the president of the United States,\" Leavitt said.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "LISTEN: Supreme Court seems skeptical of limiting FCC's power to fine companies",
-      "link": "https://www.pbs.org/newshour/politics/listen-supreme-court-seems-skeptical-of-limiting-fccs-power-to-fine-companies",
-      "publishedAt": "Tue, 21 Apr 2026 16:40:06 -0400",
-      "snippet": "Telecommunications giants Verizon and AT&T appealed to the Supreme Court after the Federal Communications Commission found they sold customers' location data without proper safeguards and slapped the companies with hefty penalties totaling over $100 million.",
+      "title": "Federal appeals court blocks California law requiring federal agents to wear identification",
+      "link": "https://www.pbs.org/newshour/nation/federal-appeals-court-blocks-california-law-requiring-federal-agents-to-wear-identification",
+      "publishedAt": "Wed, 22 Apr 2026 16:37:10 -0400",
+      "snippet": "California lawyers argued that the law applied equally to all law enforcement officers without discriminating against the U.S. government, and that it was important for public safety.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "A timeline of Trump's shifting statements about how long the Iran war will last",
-      "link": "https://www.pbs.org/newshour/politics/a-timeline-of-trumps-shifting-statements-about-how-long-the-iran-war-will-last",
-      "publishedAt": "Tue, 21 Apr 2026 14:52:38 -0400",
-      "snippet": "Since the U.S. and Israel launched the strikes against Iran Feb. 28, President Donald Trump has made contradictory statements about the timeline to end the war. He has repeatedly declared victory and then later threatened Iran.",
+      "title": "Supreme Court revives wounded veteran's lawsuit against a contractor over suicide bombing",
+      "link": "https://www.pbs.org/newshour/politics/supreme-court-revives-wounded-veterans-lawsuit-against-a-contractor-over-suicide-bombing",
+      "publishedAt": "Wed, 22 Apr 2026 16:28:59 -0400",
+      "snippet": "The Supreme Court on Wednesday cleared the way for a veteran wounded by a suicide bomb in Afghanistan to sue the government contractor for whom the attacker was working when he built the explosive.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Japan lifts ban on lethal weapons exports in major change of its postwar pacifist policy",
-      "link": "https://www.pbs.org/newshour/world/japan-lifts-ban-on-lethal-weapons-exports-in-major-change-of-its-postwar-pacifist-policy",
-      "publishedAt": "Tue, 21 Apr 2026 14:30:36 -0400",
-      "snippet": "The move comes as the country accelerates its military buildup in the face of growing security challenges in the region.",
+      "title": "Wildfires destroy nearly 50 homes in Georgia as blazes grow in Florida",
+      "link": "https://www.pbs.org/newshour/nation/wildfires-destroy-nearly-50-homes-in-georgia-as-blazes-grow-in-florida",
+      "publishedAt": "Wed, 22 Apr 2026 16:18:50 -0400",
+      "snippet": "Some of the biggest blazes were along Georgia's coast and between and around Jacksonville, Florida, a state that is facing one of its worst fire seasons in decades.",
       "tier": 1
     },
     {
@@ -436,6 +436,86 @@
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany&apos;s Merz: Climate protection must not hold economy back",
+      "link": "https://www.dw.com/en/germany-s-merz-climate-protection-must-not-hold-economy-back/a-76903241?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "German Chancellor Friedrich Merz said the public would not accept climate policies that lead to deindustrialization, warning that they would hinder progress and innovation.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "School&apos;s out in Iran: No phone, no internet, no classes",
+      "link": "https://www.dw.com/en/school-s-out-in-iran-no-phone-no-internet-no-classes/a-76901420?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Iran&apos;s schools are closed because of the war. Classes are being held via TV programs and the national intranet. Children without a laptop or smartphone are left out. The country is effectively cut off from the internet.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "EU proposes steps to deal with energy crisis amid Iran war",
+      "link": "https://www.dw.com/en/eu-proposes-steps-to-deal-with-energy-crisis-amid-iran-war/a-76899373?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Brussels has unveiled a toolbox to manage energy shocks, as concerns grow over fuel supplies and rising costs. It includes a push to decrease the bloc&apos;s reliance on fossil fuels.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Japan: South Korean arrested outside Yasukuni Shrine ceremony for war dead",
+      "link": "https://www.dw.com/en/japan-south-korean-arrested-outside-yasukuni-shrine-ceremony-for-war-dead/a-76900830?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Police said a South Korean national holding a banner with political messages was arrested at Tokyo&apos;s Yasukuni Shrine to Japan&apos;s war dead. Japan&apos;s prime minister did not attend proceedings, but around 120 lawmakers did.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pope Leo decries inequality in corrupt Equatorial Guinea",
+      "link": "https://www.dw.com/en/pope-leo-decries-inequality-in-corrupt-equatorial-guinea/a-76901607?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Pope Leo XIV continued his tour of Africa with a Mass in Equatorial Guinea. The pontiff called for more justice in the country as the nation&apos;s president and his family looked on.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany&apos;s finance minister wants to scrap spousal tax splitting",
+      "link": "https://www.dw.com/en/germany-s-finance-minister-wants-to-scrap-spousal-tax-splitting/a-76899406?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Highly controversial, but not well understood: German Finance Minister Lars Klingbeil wants to change the tax benefits for married couples.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nepal: Interior minister elected on anti-corruption platform steps down amid financial investigation",
+      "link": "https://www.dw.com/en/nepal-interior-minister-elected-on-anti-corruption-platform-steps-down-amid-financial-investigation/a-76897665?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Nepal&apos;s new government elected on an anti-corruption platform after youth protests toppled its predecessor has now lost two ministers in weeks. Sudan Gurung said he was quitting to ensure \"a fair investigation.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "ICC blocks ex-Philippine President Duterte release, says it can try him",
+      "link": "https://www.dw.com/en/icc-blocks-ex-philippine-president-duterte-release-says-it-can-try-him/a-76894601?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Judges ruled the court has authority to try the former Philippine leader despite the Philippines&apos; exit from the ICC.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war fuels crisis for Africa&apos;s aviation sector",
+      "link": "https://www.dw.com/en/iran-war-fuels-crisis-for-africa-s-aviation-sector/a-76874774?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Iran war is pushing up jet fuel prices, forcing African airlines to raise ticket prices, cancel flights and rethink operations to stay financially viable.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Russia to block Kazakh oil flows on key pipeline supplying Berlin",
+      "link": "https://www.dw.com/en/russia-to-block-kazakh-oil-flows-on-key-pipeline-supplying-berlin/a-76895743?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany has confirmed that Russia will block flows of Kazakh oil to a vital refinery that supplies much of Berlin&apos;s energy needs from May 1.",
       "tier": 2
     },
     {
@@ -499,95 +579,15 @@
       "title": "Germany news: Lufthansa scraps 20,000 flights",
       "link": "https://www.dw.com/en/germany-news-lufthansa-scraps-20-000-flights/live-76891766?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "As Frankfurt Airport opens a new terminal, Lufthansa has scrapped 20,000 flights due to soaring fuel prices. Meanwhile, Defense Minister Pistorius has unveiled his future strategy for Germany&apos;s armed forces. DW has more.",
+      "snippet": "As Frankfurt Airport opens a new terminal, Lufthansa has scrapped 20,000 flights due to soaring fuel prices. Meanwhile, the Economy Ministry has reduced its forecast growth down to 0.5%. DW has more.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Jet fuel crisis deepens as Lufthansa cuts 20,000 flights",
-      "link": "https://www.dw.com/en/jet-fuel-crisis-deepens-as-lufthansa-cuts-20-000-flights/a-76889141?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran war: Jet fuel crisis deepens as Lufthansa cuts flights",
+      "link": "https://www.dw.com/en/iran-war-jet-fuel-crisis-deepens-as-lufthansa-cuts-flights/a-76889141?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The impact of jet fuel shortages because of the closure of the Strait of Hormuz is starting to burn. Lufthansa has canceled 20,000 flights and experts warn more cancellations and price hikes are on the way.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "China hails countries for blocking Taiwan president&apos;s flight",
-      "link": "https://www.dw.com/en/china-hails-countries-for-blocking-taiwan-president-s-flight/a-76891296?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Taiwan&apos;s president canceled a planned trip to Eswatini after three African countries revoked permission for his plane to fly through their airspace. Beijing has denied pressuring the countries to block the flight.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Record number of immigrants reside in EU in 2025",
-      "link": "https://www.dw.com/en/record-number-of-immigrants-reside-in-eu-in-2025/a-76890285?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The foreign‑born population of the EU grew to around 64 million in 2025. Germany remains the biggest host of immigrants in absolute terms, but some smaller nations have a much higher percentage of foreign-born residents.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Digital memory at stake: Why news outlets block the Wayback Machine",
-      "link": "https://www.dw.com/en/digital-memory-at-stake-why-news-outlets-block-the-wayback-machine/a-76887853?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The \"Wayback Machine,\" custodian of digital memory, is fighting for its survival. An increasing number of media outlets are refusing to allow the Web Archive to archive their content.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: West Bengal, Tamil Nadu gear up for voting day",
-      "link": "https://www.dw.com/en/india-news-west-bengal-tamil-nadu-gear-up-for-voting-day/live-76889931?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After an intense campaign season, Tamil Nadu and West Bengal are hours away from going to the polls. Meanwhile, tributes and messages pour in on the first anniversary of the Pahalgam attack. Follow live.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Australia targets Roblox, Minecraft, Fortnite and Steam in child safety push",
-      "link": "https://www.dw.com/en/australia-targets-roblox-minecraft-fortnite-and-steam-in-child-safety-push/a-76889818?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Roblox, Minecraft, Fortnite and Steam were among the gaming services asked by authorities to explain how they are protecting children from sexual predators and radicalization.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Virginia voters approve plan that could boost Democrats&apos; seats in Congress",
-      "link": "https://www.dw.com/en/virginia-voters-approve-plan-that-could-boost-democrats-seats-in-congress/a-76889656?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The move could increase the Democrats&apos; chances of winning four currently Republican-held seats in Congress in midterm elections in November.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US in talks to send Afghan refugees to DR Congo",
-      "link": "https://www.dw.com/en/us-in-talks-to-send-afghan-refugees-to-dr-congo/a-76889628?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Afghan allies who assisted US forces now face a stark choice: resettle in the war‑torn Democratic Republic of Congo or return to Taliban‑ruled Afghanistan.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Mexican pyramid gunman had materials tied to Columbine shooting, officials say",
-      "link": "https://www.dw.com/en/mexican-pyramid-gunman-had-materials-tied-to-columbine-shooting-officials-say/a-76889302?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A 27-year-old suspect who opened fire at the Teotihuacan archaeological site possessed material related to the Columbine school shooting in the United States, Mexican authorities said.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: Trump says US extending ceasefire to give Iran more time to negotiate",
-      "link": "https://www.dw.com/en/iran-war-trump-says-us-extending-ceasefire-to-give-iran-more-time-to-negotiate/live-76874663?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "President Donald Trump said he was ​extending the Iran ​ceasefire until an Iranian ⁠proposal ​is ​submitted, ​and discussions ‌are concluded. A US ceasefire with Iran was due to expire on Wednesday evening.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Nigeria charges six over alleged Tinubu overthrow plot",
-      "link": "https://www.dw.com/en/nigeria-charges-six-over-alleged-tinubu-overthrow-plot/a-76889096?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The alleged plot comes after 16 military officers stood trial in January over a coup attempt against president Bola Tinubu.",
       "tier": 2
     }
   ]
