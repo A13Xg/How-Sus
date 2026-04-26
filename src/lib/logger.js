@@ -26,7 +26,7 @@ function _log(level, message, data) {
 
   if (level === 'ERROR') console.error('[HowSus:ERROR]', message, data ?? '');
   else if (level === 'WARN') console.warn('[HowSus:WARN]', message, data ?? '');
-  else console.log('[HowSus:' + level + ']', message, data ?? '');
+  else console.log(`[HowSus:${level}]`, message, data ?? '');
 }
 
 const logger = {

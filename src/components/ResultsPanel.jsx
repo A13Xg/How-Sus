@@ -944,9 +944,9 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
           {results.domain && (
             <p className="whois-hint">
               💡 Tip: Look up <strong>{results.domain}</strong> on{' '}
-              <a href={`https://who.is/whois/${results.domain}`} target="_blank" rel="noreferrer noopener">who.is</a>{' '}
+              <a href={`https://who.is/whois/${encodeURIComponent(results.domain)}`} target="_blank" rel="noreferrer noopener">who.is</a>{' '}
               or{' '}
-              <a href={`https://www.whois.com/whois/${results.domain}`} target="_blank" rel="noreferrer noopener">whois.com</a>{' '}
+              <a href={`https://www.whois.com/whois/${encodeURIComponent(results.domain)}`} target="_blank" rel="noreferrer noopener">whois.com</a>{' '}
               to verify domain registration age and ownership.
             </p>
           )}

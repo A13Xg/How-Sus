@@ -1247,7 +1247,7 @@ function App() {
             exit={{ opacity: 0, x: 60 }}
           >
             🎉 A new version of HowSus is available!{' '}
-            <a href="https://github.com/A13Xg/How-Sus/releases" target="_blank" rel="noreferrer">
+            <a href="https://github.com/A13Xg/How-Sus/releases" target="_blank" rel="noreferrer noopener">
               See what's new
             </a>
             <button onClick={() => setHasUpdate(false)} aria-label="Dismiss update notice">✕</button>
