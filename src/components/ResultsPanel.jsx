@@ -763,7 +763,7 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
   if (!results) return null; // guard — should not normally render without results
 
   const score = results.authenticityScore ?? results.score ?? 0;
-  // Reading time at 200 words per minute (average adult reading speed)
+  // Reading time at ~200 wpm (lower-end average adult reading speed)
   const readingTimeMins = results.wordCount ? Math.max(1, Math.round(results.wordCount / 200)) : null;
   const summaryItems = useMemo(() => ([
     { key: 'Input type', val: results.type.toUpperCase() },
