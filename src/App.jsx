@@ -1058,6 +1058,7 @@ function App() {
       if (saved) {
         const { results, input } = JSON.parse(saved);
         if (results && input) {
+          // eslint-disable-next-line react-hooks/set-state-in-effect
           setScanResults(results);
           setInputData(input);
           setScanPhase('complete');
