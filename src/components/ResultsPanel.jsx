@@ -760,21 +760,25 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
     } catch { /* ignore */ }
   }, [results, inputData, isBookmarked, bookmarkKey]);
 
+  // summaryItems must be computed before early return to satisfy rules-of-hooks
+  const summaryItems = useMemo(() => {
+    if (!results) return [];
+    const mins = results.wordCount ? Math.max(1, Math.round(results.wordCount / 200)) : null;
+    return [
+      { key: 'Input type', val: results.type.toUpperCase() },
+      results.domain      && { key: 'Domain',       val: results.domain },
+      results.wordCount   && { key: 'Words',        val: results.wordCount },
+      mins                && { key: 'Read time',    val: `~${mins} min` },
+      results.fileName    && { key: 'File',         val: results.fileName },
+      results.exifCount !== undefined && { key: 'EXIF fields', val: results.exifCount },
+      results.duplicates?.length > 0  && { key: 'Similar sources', val: `${results.duplicates.length} found`, warn: true },
+      results.crossCheck  && { key: 'Consistency', val: `${results.crossCheck.consistencyScore}%` },
+    ].filter(Boolean);
+  }, [results]);
+
   if (!results) return null; // guard — should not normally render without results
 
   const score = results.authenticityScore ?? results.score ?? 0;
-  // Reading time at ~200 wpm (lower-end average adult reading speed)
-  const readingTimeMins = results.wordCount ? Math.max(1, Math.round(results.wordCount / 200)) : null;
-  const summaryItems = useMemo(() => ([
-    { key: 'Input type', val: results.type.toUpperCase() },
-    results.domain      && { key: 'Domain',       val: results.domain },
-    results.wordCount   && { key: 'Words',        val: results.wordCount },
-    readingTimeMins     && { key: 'Read time',    val: `~${readingTimeMins} min` },
-    results.fileName    && { key: 'File',         val: results.fileName },
-    results.exifCount !== undefined && { key: 'EXIF fields', val: results.exifCount },
-    results.duplicates?.length > 0  && { key: 'Similar sources', val: `${results.duplicates.length} found`, warn: true },
-    results.crossCheck && { key: 'Consistency', val: `${results.crossCheck.consistencyScore}%` },
-  ].filter(Boolean)), [results, readingTimeMins]);
 
   return (
     <motion.section
