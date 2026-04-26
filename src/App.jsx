@@ -1049,7 +1049,7 @@ function App() {
   useEffect(() => {
     if (!settings.autoUpdateCheck) return;
     checkForUpdates().then(({ hasUpdate: newVersion }) => setHasUpdate(newVersion));
-  }, [settings.checkForUpdates]);
+  }, [settings.autoUpdateCheck]);
 
   // ── Session persistence ───────────────────────────────────────────────────
   useEffect(() => {

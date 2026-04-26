@@ -38,8 +38,10 @@ export default function SettingsPanel({ isOpen = false, settings, onUpdate, onRe
   const panelRef = useRef(null);
   const closeRef = useRef(null);
 
-  // Focus close button on open
-  useEffect(() => { setTimeout(() => closeRef.current?.focus(), 60); }, []);
+  // Focus close button whenever panel opens
+  useEffect(() => {
+    if (isOpen) setTimeout(() => closeRef.current?.focus(), 60);
+  }, [isOpen]);
 
   // Escape key closes panel
   useEffect(() => {
