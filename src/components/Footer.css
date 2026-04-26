@@ -1,6 +1,7 @@
 .footer {
   background: var(--bg-secondary);
-  border-top: 1px solid var(--border-color);
+  border-top: 1px solid transparent;
+  border-image: linear-gradient(90deg, transparent 0%, var(--accent-blue) 40%, var(--accent-purple) 60%, transparent 100%) 1;
   padding: 28px 20px;
   text-align: center;
   margin-top: auto;

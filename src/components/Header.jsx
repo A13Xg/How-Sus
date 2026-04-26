@@ -13,7 +13,7 @@ import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import './Header.css';
 
-export default function Header({ aiConfig, resolvedProvider, detectedProvider, providers, onAiConfigChange }) {
+export default function Header({ aiConfig, resolvedProvider, detectedProvider, providers, onAiConfigChange, onOpenSettings, hasUpdate }) {
   const [showModal, setShowModal] = useState(false);
   const [tempKey, setTempKey] = useState('');
   const [tempProvider, setTempProvider] = useState('auto');
@@ -99,7 +99,7 @@ export default function Header({ aiConfig, resolvedProvider, detectedProvider, p
           </div>
         </motion.div>
 
-        {/* ── API key control ───────────────────────────────────────────── */}
+        {/* ── Header actions (API key + settings) ─────────────────────── */}
         <motion.div
           className="header-actions"
           initial={{ opacity: 0, x: 30 }}
@@ -207,6 +207,21 @@ export default function Header({ aiConfig, resolvedProvider, detectedProvider, p
               )}
             </AnimatePresence>
           </div>
+
+          {/* ── Settings button ──────────────────────────────────────── */}
+          {onOpenSettings && (
+            <motion.button
+              className={`settings-btn ${hasUpdate ? 'has-update' : ''}`}
+              onClick={onOpenSettings}
+              aria-label="Open settings"
+              title="Settings"
+              whileHover={{ scale: 1.04 }}
+              whileTap={{ scale: 0.96 }}
+            >
+              {hasUpdate && <span className="update-badge" aria-label="Update available" />}
+              ⚙
+            </motion.button>
+          )}
         </motion.div>
       </div>
     </header>

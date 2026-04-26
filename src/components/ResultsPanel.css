@@ -844,3 +844,40 @@
   }
 }
 
+
+/* ── New download-btn variants ───────────────────────────────────────────── */
+.btn-download.copy {
+  background: linear-gradient(135deg, #0d9488 0%, #059669 100%);
+  border-color: #0d9488;
+}
+.btn-download.copy:hover { background: linear-gradient(135deg, #0f766e 0%, #047857 100%); }
+
+.btn-download.bookmark {
+  background: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%);
+  border-color: #6366f1;
+}
+.btn-download.bookmark.bookmarked {
+  background: linear-gradient(135deg, #7c3aed 0%, #6d28d9 100%);
+  border-color: #7c3aed;
+}
+.btn-download.bookmark:hover { filter: brightness(1.1); }
+
+.btn-download.print {
+  background: linear-gradient(135deg, #64748b 0%, #475569 100%);
+  border-color: #64748b;
+}
+.btn-download.print:hover { filter: brightness(1.1); }
+
+/* ── WHOIS hint ──────────────────────────────────────────────────────────── */
+.whois-hint {
+  margin: 12px 0 4px;
+  padding: 10px 14px;
+  background: rgba(59, 130, 246, 0.08);
+  border-left: 3px solid var(--accent-blue);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+.whois-hint a { color: var(--accent-blue); }
+.whois-hint a:hover { text-decoration: underline; }

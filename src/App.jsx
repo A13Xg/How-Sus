@@ -32,11 +32,18 @@ import InputSection from './components/InputSection';
 import VisualizationSection from './components/VisualizationSection';
 import ResultsPanel from './components/ResultsPanel';
 import Footer from './components/Footer';
+import ThemeProvider from './components/ThemeProvider';
+import SettingsPanel from './components/SettingsPanel';
+import LogPanel from './components/LogPanel';
 import './App.css';
 import { analyzeSentiment } from './lib/sentiment.js';
 import { analyzeReadability } from './lib/readability.js';
 import { detectDarkPatterns } from './lib/darkPatterns.js';
 import { useLocalStorage } from './lib/useLocalStorage.js';
+import { useSettings } from './lib/settings.js';
+import { checkForUpdates } from './lib/updateChecker.js';
+import logger from './lib/logger.js';
+import useKeyboardShortcuts from './lib/useKeyboardShortcuts.js';
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 const SUSPICIOUS_DOMAINS = ['fakenews', 'hoax', 'clickbait', 'viral', 'shocking', 'unbelievable'];
@@ -896,6 +903,7 @@ async function analyzeImage(file) {
 async function runAiAnalysis(inputData, aiConfig) {
   const apiKey = aiConfig?.apiKey?.trim();
   if (!apiKey) return null;
+  if (apiKey.length < 10) return null;
 
   const provider = resolveProvider(aiConfig?.provider || 'auto', apiKey);
   const model = aiConfig?.model?.trim() || AI_PROVIDERS[provider]?.defaultModel;
@@ -1001,6 +1009,9 @@ function App() {
   const [scanError, setScanError] = useState(null);
   const [sourceFeed, setSourceFeed] = useState(null);
   const [scanHistory, setScanHistory] = useLocalStorage('howsus-scan-history', []);
+  const [settings, updateSettings] = useSettings();
+  const [settingsOpen, setSettingsOpen] = useState(false);
+  const [hasUpdate, setHasUpdate] = useState(false);
   const scanIntervalRef = useRef(null);
 
   useEffect(() => {
@@ -1034,12 +1045,43 @@ function App() {
     };
   }, []);
 
+  // ── Update check ──────────────────────────────────────────────────────────
+  useEffect(() => {
+    if (!settings.checkForUpdates) return;
+    checkForUpdates().then(({ hasUpdate: newVersion }) => setHasUpdate(newVersion));
+  }, [settings.checkForUpdates]);
+
+  // ── Session persistence ───────────────────────────────────────────────────
+  useEffect(() => {
+    try {
+      const saved = sessionStorage.getItem('howsus-session');
+      if (saved) {
+        const { results, input } = JSON.parse(saved);
+        if (results && input) {
+          setScanResults(results);
+          setInputData(input);
+          setScanPhase('complete');
+        }
+      }
+    } catch { /* ignore */ }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  useEffect(() => {
+    if (scanResults && scanPhase === 'complete') {
+      try {
+        sessionStorage.setItem('howsus-session', JSON.stringify({ results: scanResults, input: inputData }));
+      } catch { /* ignore */ }
+    }
+  }, [scanResults, scanPhase, inputData]);
+
   // Derived convenience flag
   const isScanning = scanPhase === 'scanning';
 
   // ── Scan handler ───────────────────────────────────────────────────────────
   const handleScan = useCallback(async () => {
     if (isScanning) return;
+    logger.info(`Scan started — type: ${inputData.type}`);
 
     // ── Reset state ────────────────────────────────────────────────────────
     setScanPhase('scanning');
@@ -1095,6 +1137,7 @@ function App() {
         };
       }
     } catch (err) {
+      logger.error(`Scan failed: ${err.message}`);
       setScanError(`Analysis failed: ${err.message}`);
       setScanPhase('error');
       return;
@@ -1122,11 +1165,12 @@ function App() {
           : inputData.file?.name ?? 'Image',
       score: result.authenticityScore,
     };
-    setScanHistory((prev) => [historyEntry, ...prev.slice(0, 9)]);
+    setScanHistory((prev) => [historyEntry, ...prev.slice(0, (settings.scanHistorySize ?? 10) - 1)]);
 
+    logger.info(`Scan complete — score: ${result.authenticityScore}`);
     setScanResults(result);
     setScanPhase('complete');
-  }, [inputData, aiConfig, isScanning, sourceFeed, setScanHistory]);
+  }, [inputData, aiConfig, isScanning, sourceFeed, setScanHistory, settings.scanHistorySize]);
 
   const resolvedProvider = resolveProvider(aiConfig.provider, aiConfig.apiKey);
   const detectedProvider = detectProviderFromApiKey(aiConfig.apiKey);
@@ -1140,7 +1184,32 @@ function App() {
     setAiAnalysis(null);
     setCurrentStep('');
     setScanError(null);
+    sessionStorage.removeItem('howsus-session');
   }, []);
+
+  // ── Keyboard shortcuts ─────────────────────────────────────────────────────
+  useKeyboardShortcuts({
+    onScan: () => { if (!isScanning && inputData.value) handleScan(); },
+    onReset: handleReset,
+    onFocusUrl: () => document.getElementById('url-input')?.focus(),
+  });
+
+  // ── Export history as CSV ─────────────────────────────────────────────────
+  const handleExportHistory = useCallback(() => {
+    if (!scanHistory.length) return;
+    const header = 'id,timestamp,type,input,score';
+    const rows = scanHistory.map((h) =>
+      [h.id, h.timestamp, h.type, `"${(h.inputSummary || '').replace(/"/g, '""')}"`, h.score].join(',')
+    );
+    const csv = [header, ...rows].join('\n');
+    const blob = new Blob([csv], { type: 'text/csv' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'howsus-scan-history.csv';
+    a.click();
+    URL.revokeObjectURL(url);
+  }, [scanHistory]);
 
   // ── Memoised props to avoid unnecessary downstream re-renders ─────────────
   const vizProps = useMemo(() => ({
@@ -1153,65 +1222,100 @@ function App() {
 
   // ── Render ─────────────────────────────────────────────────────────────────
   return (
-    <div className="App">
-      <Header
-        aiConfig={aiConfig}
-        resolvedProvider={resolvedProvider}
-        detectedProvider={detectedProvider}
-        providers={AI_PROVIDERS}
-        onAiConfigChange={setAiConfig}
+    <>
+      <ThemeProvider settings={settings} />
+      <SettingsPanel
+        isOpen={settingsOpen}
+        onClose={() => setSettingsOpen(false)}
+        settings={settings}
+        onSettingsChange={updateSettings}
+        scanHistory={scanHistory}
+        onClearHistory={() => setScanHistory([])}
+        onExportHistory={handleExportHistory}
       />
+      <LogPanel />
 
-      <main className="main-content" id="main-content">
-        <InputSection
-          inputData={inputData}
-          onInputChange={setInputData}
-          onScan={handleScan}
-          onReset={handleReset}
-          scanning={isScanning}
-          scanPhase={scanPhase}
+      {/* Update banner */}
+      <AnimatePresence>
+        {hasUpdate && (
+          <motion.div
+            className="update-banner"
+            role="status"
+            initial={{ opacity: 0, x: 60 }}
+            animate={{ opacity: 1, x: 0 }}
+            exit={{ opacity: 0, x: 60 }}
+          >
+            🎉 A new version of HowSus is available!{' '}
+            <a href="https://github.com/A13Xg/How-Sus/releases" target="_blank" rel="noreferrer">
+              See what's new
+            </a>
+            <button onClick={() => setHasUpdate(false)} aria-label="Dismiss update notice">✕</button>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      <div className="App">
+        <Header
+          aiConfig={aiConfig}
+          resolvedProvider={resolvedProvider}
+          detectedProvider={detectedProvider}
+          providers={AI_PROVIDERS}
+          onAiConfigChange={setAiConfig}
+          onOpenSettings={() => setSettingsOpen(true)}
+          hasUpdate={hasUpdate}
         />
 
-        {/* Global scan error banner */}
-        <AnimatePresence>
-          {scanError && (
-            <motion.div
-              className="scan-error-banner"
-              role="alert"
-              initial={{ opacity: 0, y: -10 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0 }}
-            >
-              ⚠ {scanError}
-            </motion.div>
-          )}
-        </AnimatePresence>
+        <main className="main-content" id="main-content">
+          <InputSection
+            inputData={inputData}
+            onInputChange={setInputData}
+            onScan={handleScan}
+            onReset={handleReset}
+            scanning={isScanning}
+            scanPhase={scanPhase}
+          />
 
-        {/* Scanning visualisation — shown during and after scan */}
-        <AnimatePresence>
-          {scanPhase !== 'idle' && (
-            <VisualizationSection key="viz" {...vizProps} />
-          )}
-        </AnimatePresence>
+          {/* Global scan error banner */}
+          <AnimatePresence>
+            {scanError && (
+              <motion.div
+                className="scan-error-banner"
+                role="alert"
+                initial={{ opacity: 0, y: -10 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0 }}
+              >
+                ⚠ {scanError}
+              </motion.div>
+            )}
+          </AnimatePresence>
 
-        {/* Results panel — shown when scan is complete */}
-        <AnimatePresence>
-          {scanPhase === 'complete' && scanResults && (
-            <ResultsPanel
-              key="results"
-              results={scanResults}
-              inputData={inputData}
-              aiConfig={aiConfig}
-              confidenceScore={computeScanConfidence(scanResults, !!aiAnalysis)}
-              scanHistory={scanHistory}
-              onClearHistory={() => setScanHistory([])}
-            />
-          )}
-        </AnimatePresence>
-      </main>
+          {/* Scanning visualisation — shown during and after scan */}
+          <AnimatePresence>
+            {scanPhase !== 'idle' && (
+              <VisualizationSection key="viz" {...vizProps} />
+            )}
+          </AnimatePresence>
 
-      <Footer />
-    </div>
+          {/* Results panel — shown when scan is complete */}
+          <AnimatePresence>
+            {scanPhase === 'complete' && scanResults && (
+              <ResultsPanel
+                key="results"
+                results={scanResults}
+                inputData={inputData}
+                aiConfig={aiConfig}
+                confidenceScore={computeScanConfidence(scanResults, !!aiAnalysis)}
+                scanHistory={scanHistory}
+                onClearHistory={() => setScanHistory([])}
+              />
+            )}
+          </AnimatePresence>
+        </main>
+
+        <Footer />
+      </div>
+    </>
   );
 }
 
