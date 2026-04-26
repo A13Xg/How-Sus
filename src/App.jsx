@@ -93,6 +93,66 @@ function tierWeight(tier) {
   return tier === 1 ? 1.0 : tier === 2 ? 0.75 : 0.5;
 }
 
+/**
+ * computeScanConfidence — derives an overall "signal confidence" percentage (0-100)
+ * that reflects how much supporting evidence the scan gathered.
+ *
+ * The score is distinct from the authenticity score:
+ *  - Authenticity score  → "is this content trustworthy?"
+ *  - Signal confidence   → "how sure are we about the authenticity score?"
+ *
+ * Factors:
+ *  1. Findings breadth  — more analysis dimensions = higher confidence
+ *  2. Tier-1 sources    — wire services / public broadcasters add strong signal
+ *  3. Feed keyword hits — overlap with the curated corroboration feed
+ *  4. AI analysis       — external AI confirmation adds signal weight
+ *  5. Cross-check data  — corroborating vs conflicting ratio contributes
+ *  6. EXIF richness     — for images, more metadata = better confidence
+ *
+ * @param {object}  results - scanResults object from App state
+ * @param {boolean} hasAi   - true when an AI analysis was returned
+ * @returns {number} integer 0-100
+ */
+function computeScanConfidence(results, hasAi) {
+  if (!results) return 0;
+
+  // Baseline — every completed scan starts with some minimum signal
+  let score = 25;
+
+  // 1. Findings breadth (each finding type = one checked dimension)
+  const findingsCount = (results.findings || []).length;
+  score += Math.min(20, findingsCount * 2); // up to +20
+
+  // 2. Cross-check sub-scores
+  if (results.crossCheck) {
+    // Tier-1 corroborating sources (wire services, public broadcasters)
+    const tier1Count = (results.crossCheck.corroborating || []).filter((e) => e.tier === 1).length;
+    score += Math.min(12, tier1Count * 4); // up to +12
+
+    // Curated feed keyword overlap
+    const kwCount = results.crossCheck.matchedKeywords?.length ?? 0;
+    score += Math.min(8, kwCount * 2); // up to +8
+
+    // Corroborating/conflicting ratio bonus
+    const corrCount = results.crossCheck.corroboratingCount ?? 0;
+    const conflCount = results.crossCheck.conflictingCount ?? 0;
+    const total = corrCount + conflCount;
+    if (total > 0) {
+      score += Math.round((corrCount / total) * 10); // up to +10
+    }
+  }
+
+  // 3. AI analysis confirmation
+  if (hasAi) score += 15;
+
+  // 4. EXIF richness (image scans only)
+  if (results.type === 'image') {
+    score += Math.min(10, (results.exifCount ?? 0) > 5 ? 10 : (results.exifCount ?? 0) * 2);
+  }
+
+  return Math.max(0, Math.min(100, Math.round(score)));
+}
+
 // Scan step labels shown in VisualizationSection
 const SCAN_STEPS = [
   'Initializing scan engine…',
@@ -105,14 +165,34 @@ const SCAN_STEPS = [
   'Compiling results…',
 ];
 
+/**
+ * detectProviderFromApiKey — auto-detects the AI provider from an API key prefix.
+ *
+ * Key format heuristics:
+ *  - OpenAI keys start with "sk-" followed by alphanumerics
+ *  - Google API keys start with "AIza" followed by 20+ alphanumerics/symbols
+ *
+ * @param {string} apiKey - raw API key string (may be untrimmed)
+ * @returns {'openai'|'google'|null} detected provider, or null if unrecognised
+ */
 function detectProviderFromApiKey(apiKey) {
   const trimmed = (apiKey || '').trim();
   if (!trimmed) return null;
   if (/^sk-[A-Za-z0-9]/.test(trimmed)) return 'openai';
-  if (/^AIza[0-9A-Za-z_\-]{20,}/.test(trimmed)) return 'google';
+  if (/^AIza[0-9A-Za-z_-]{20,}/.test(trimmed)) return 'google';
   return null;
 }
 
+/**
+ * resolveProvider — returns the effective AI provider to use.
+ *
+ * If the user selected 'auto', we detect from the key and fall back to 'openai'.
+ * If the user explicitly chose a provider, that choice is respected.
+ *
+ * @param {'auto'|'openai'|'google'} preferredProvider - from aiConfig.provider
+ * @param {string}                   apiKey            - from aiConfig.apiKey
+ * @returns {'openai'|'google'} resolved provider name
+ */
 function resolveProvider(preferredProvider, apiKey) {
   const detected = detectProviderFromApiKey(apiKey);
   if (preferredProvider === 'auto') return detected || 'openai';
@@ -122,23 +202,37 @@ function resolveProvider(preferredProvider, apiKey) {
 // ─── Analysis helpers ─────────────────────────────────────────────────────────
 
 /**
- * Build the `sources` array used in scanResults.
- * In a real integration this would query fact-check APIs.
+ * buildSources — constructs the `sources` array included in scanResults.
+ *
+ * Currently returns heuristic entries based on domain and date filter inputs.
+ * In a production integration, this would be replaced with calls to fact-check
+ * APIs (e.g. Google Fact Check Tools API, ClaimBuster) and return verified
+ * citations with confidence scores.
+ *
+ * @param {string}      domain   - bare hostname (no www.)
+ * @param {boolean}     isTrusted - true if domain is in the TRUSTED_DOMAINS list
+ * @param {boolean}     hasHttps  - true if URL protocol is https:
+ * @param {string|null} dateFrom  - ISO date string for filter start (optional)
+ * @param {string|null} dateTo    - ISO date string for filter end (optional)
+ * @returns {Array<{url:string, label:string, verified:boolean|null, date:string}>}
  */
 function buildSources(domain, isTrusted, hasHttps, dateFrom, dateTo) {
   const sources = [
     {
       url: `https://${domain}`,
       label: 'Primary domain',
+      // Mark as verified only if the domain matched the trusted list
       verified: isTrusted,
       date: new Date().toISOString().split('T')[0],
     },
   ];
+  // If the user provided a date range filter, add it as a source entry for
+  // traceability — it shows in the source table so users know a filter was applied
   if (dateFrom || dateTo) {
     sources.push({
       url: 'date-filter',
       label: `Date filter: ${dateFrom || 'any'} – ${dateTo || 'now'}`,
-      verified: null,
+      verified: null,           // date filters have no verification status
       date: dateFrom || dateTo,
     });
   }
@@ -146,8 +240,14 @@ function buildSources(domain, isTrusted, hasHttps, dateFrom, dateTo) {
 }
 
 /**
- * Generate placeholder duplicate entries.
- * Replace with a real duplicate-detection API call for production.
+ * generateDuplicates — generates placeholder duplicate-detection entries.
+ *
+ * In production, replace this with a call to a real content-fingerprinting or
+ * reverse-search API (e.g. Diffbot, GDELT) to detect actual cross-platform
+ * spread of the scanned content.
+ *
+ * @param {string} domain - the scanned domain (used for deterministic seeding)
+ * @returns {Array<{url:string, source:string, matchPercentage:number, date:string}>}
  */
 function generateDuplicates(domain) {
   const labels = ['Twitter/X', 'Facebook', 'Reddit', 'Telegram', 'Instagram', 'YouTube', 'TikTok', 'Blog A', 'Forum B', 'News C'];
@@ -155,14 +255,24 @@ function generateDuplicates(domain) {
   return Array.from({ length: count }, (_, i) => ({
     url: `https://${labels[i % labels.length].toLowerCase().replace(/\W/g, '')}.example.com`,
     source: labels[i % labels.length],
+    // Similarity score in 60-90% range — indicates "similar but not identical"
     matchPercentage: Math.round(Math.random() * 30 + 60),
+    // Random spread date within the last 30 days
     date: new Date(Date.now() - Math.random() * 30 * 86_400_000).toLocaleDateString(),
   }));
 }
 
 /**
- * Generate a placeholder verification timeline.
- * Replace individual steps with real API timestamps in production.
+ * generateTimeline — generates a placeholder verification timeline.
+ *
+ * In production, replace each step with a real API timestamp:
+ *  - "First appearance": earliest date from search index for the content hash
+ *  - "Social media spread": earliest repost/share timestamp from social APIs
+ *  - "Fact-check initiated": submission timestamp from fact-check API
+ *  - "Analysis complete": current timestamp
+ *
+ * @param {string} domain - the scanned domain (used in the "First appearance" label)
+ * @returns {Array<{label:string, detail:string, time:string}>}
  */
 function generateTimeline(domain) {
   const steps = [
@@ -171,40 +281,79 @@ function generateTimeline(domain) {
     { label: 'Fact-check initiated', detail: 'Automated scan triggered' },
     { label: 'Analysis complete', detail: 'Results compiled' },
   ];
+  // Backfill timestamps evenly over the past few hours (placeholder)
   return steps.map((s, i) => ({
     ...s,
     time: new Date(Date.now() - (steps.length - i) * 3_600_000 * (Math.random() * 12 + 1)).toLocaleString(),
   }));
 }
 
+/**
+ * hashString — 32-bit FNV-like integer hash of a string.
+ *
+ * Used to generate deterministic-but-varied heuristic data (e.g. which sources
+ * appear in cross-check results) without relying on Math.random(), making the
+ * output stable for the same domain across re-renders.
+ *
+ * @param {string} value - any string
+ * @returns {number} non-negative 32-bit integer
+ */
 function hashString(value) {
   let hash = 0;
   for (let i = 0; i < value.length; i += 1) {
     hash = (hash << 5) - hash + value.charCodeAt(i);
-    hash |= 0;
+    hash |= 0; // Convert to 32-bit integer
   }
   return Math.abs(hash);
 }
 
+/**
+ * normalizeSentence — collapses internal whitespace and trims a sentence string.
+ *
+ * @param {string} sentence - raw sentence text
+ * @returns {string} cleaned sentence
+ */
 function normalizeSentence(sentence) {
   return sentence.replace(/\s+/g, ' ').trim();
 }
 
+/**
+ * tokenizeText — converts text to a lowercased list of tokens for keyword matching.
+ *
+ * Strips URLs, punctuation, and short tokens, then limits to 24 tokens to keep
+ * keyword matching O(n) regardless of input size.
+ *
+ * @param {string} value - any text input
+ * @returns {string[]} array of lowercase tokens (length ≥ 4 characters, max 24)
+ */
 function tokenizeText(value) {
   return (value || '')
     .toLowerCase()
-    .replace(/https?:\/\//g, ' ')
-    .replace(/[^a-z0-9\s]/g, ' ')
+    .replace(/https?:\/\//g, ' ')  // Remove URL schemes before tokenising
+    .replace(/[^a-z0-9\s]/g, ' ')  // Strip punctuation, keep alphanumeric + spaces
     .split(/\s+/)
-    .filter((token) => token.length >= 4)
-    .slice(0, 24);
+    .filter((token) => token.length >= 4)  // Skip very short tokens (noise)
+    .slice(0, 24);                         // Cap at 24 tokens for performance
 }
 
+/**
+ * selectFeedEntriesWithKeywords — ranks corroboration feed entries by keyword overlap.
+ *
+ * Scores each feed entry by counting how many tokenized terms from `text` appear
+ * in the entry's title or snippet. Returns the top-ranked entries (or a simple
+ * head slice if no tokens match) along with the matched keyword set.
+ *
+ * @param {object|null} feedData         - parsed corroboration-feed.json (may be null)
+ * @param {string}      text             - user input or domain string to match against
+ * @param {number}      [limit=5]        - maximum number of entries to return
+ * @returns {{ entries: Array, matchedKeywords: string[] }}
+ */
 function selectFeedEntriesWithKeywords(feedData, text, limit = 5) {
   const entries = Array.isArray(feedData?.entries) ? feedData.entries : [];
   if (!entries.length) return { entries: [], matchedKeywords: [] };
 
   const tokens = tokenizeText(text);
+  // If no usable tokens, fall back to first N entries (no ranking possible)
   if (!tokens.length) return { entries: entries.slice(0, limit), matchedKeywords: [] };
 
   const matchSet = new Set();
@@ -217,12 +366,13 @@ function selectFeedEntriesWithKeywords(feedData, text, limit = 5) {
       }
       return { entry, overlap };
     })
-    .filter((item) => item.overlap > 0)
-    .sort((a, b) => b.overlap - a.overlap)
+    .filter((item) => item.overlap > 0)      // Discard entries with zero overlap
+    .sort((a, b) => b.overlap - a.overlap)   // Best matches first
     .slice(0, limit)
     .map((item) => item.entry);
 
   return {
+    // Fall back to head slice when no overlap was found
     entries: scored.length ? scored : entries.slice(0, limit),
     matchedKeywords: [...matchSet].slice(0, 12),
   };
