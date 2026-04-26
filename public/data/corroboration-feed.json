@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T01:09:02.491Z",
+  "generatedAt": "2026-04-26T12:40:12.411Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,6 +32,14 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
+      "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Apr 2026 04:22:59 GMT",
+      "snippet": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
       "link": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 25 Apr 2026 21:34:12 GMT",
@@ -40,9 +48,17 @@
     },
     {
       "source": "BBC World",
-      "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
+      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+      "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Apr 2026 00:34:21 GMT",
+      "snippet": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Armed groups launch coordinated attacks across Mali",
       "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Apr 2026 21:13:49 GMT",
+      "publishedAt": "Sun, 26 Apr 2026 08:56:02 GMT",
       "snippet": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
       "tier": 1
     },
@@ -175,19 +191,59 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Three Kosovo Serbs jailed over deadly gun battle and monastery siege",
-      "link": "https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Apr 2026 17:20:48 GMT",
-      "snippet": "Kosovo's court sentences two men to life imprisonment and another to a 30-year term for the 2023 attack.",
+      "source": "NPR News",
+      "title": "World Press Photo Contest winners cast a lens on resilience, pain and bliss",
+      "link": "https://www.npr.org/2026/04/26/g-s1-118511/world-press-photo-contest-winners",
+      "publishedAt": "Sun, 26 Apr 2026 07:44:44 -0400",
+      "snippet": "A selection of prize honorees from the 2026 World Press Photo Contest capture the pain of the past year — but also focus on moments of strength, determination and joy.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Poisoning suspected in deaths of 18 wolves in Italian national park",
-      "link": "https://www.bbc.com/news/articles/c0mjederzwdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Apr 2026 11:47:39 GMT",
-      "snippet": "After the carcasses of 10 wolves were found last week, another eight have been found in recent days.",
+      "source": "NPR News",
+      "title": "Trump doubts shooter motivated by Iran war as peace talks on hold",
+      "link": "https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan",
+      "publishedAt": "Sun, 26 Apr 2026 07:40:10 -0400",
+      "snippet": "A shooting incident at the White House Correspondent&apos;s Dinner took focus away from the war in Iran, as Iran&apos;s foreign minister planned to return to Islamabad, the site of previous peace talks.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Kenya&apos;s Sabastian Sawe is first person to run sub-2-hour marathon to win in London",
+      "link": "https://www.npr.org/2026/04/26/nx-s1-5800057/kenya-sabastian-sawe-first-person-2-hour-marathon-london",
+      "publishedAt": "Sun, 26 Apr 2026 07:34:47 -0400",
+      "snippet": "In a huge moment in sports history, Sabastian Sawe smashed the men&apos;s world record by 65 seconds in winning the London Marathon in 1 hour, 59 minutes and 30 seconds on Sunday.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "King Charles U.S. visit comes at tense moment in transatlantic relationship",
+      "link": "https://www.npr.org/2026/04/26/nx-s1-5788696/king-queen-state-trump",
+      "publishedAt": "Sun, 26 Apr 2026 06:00:00 -0400",
+      "snippet": "King Charles and Queen Camilla arrive Monday for a four day U.S. state visit. Some hope the royal touch can heal the transatlantic rift that&apos;s emerged under Trump.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "For students labeled &apos;emotionally disturbed,&apos; separation can lead to isolation",
+      "link": "https://www.npr.org/2026/04/26/g-s1-117447/school-disability-emotional-behavioral-disorder-special-education",
+      "publishedAt": "Sun, 26 Apr 2026 05:00:00 -0400",
+      "snippet": "Every school has problem students, but some are labeled emotionally disturbed (ED) and taught separately from others.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "The Supreme Court case that could redefine your digital privacy",
+      "link": "https://www.npr.org/2026/04/26/g-s1-118359/supreme-court-geofencing-explainer-video",
+      "publishedAt": "Sun, 26 Apr 2026 05:00:00 -0400",
+      "snippet": "Police in Virginia used a technique called geofencing to tap into Google&apos;s databases to find out who was near the scene of a bank robbery. The Supreme Court will consider whether it is constitutional.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "A suspect is in custody after Trump is rushed from correspondents&apos; dinner",
+      "link": "https://www.npr.org/2026/04/25/nx-s1-5799544/trump-white-house-correspondents-dinner",
+      "publishedAt": "Sat, 25 Apr 2026 21:18:54 -0400",
+      "snippet": "President Trump and several cabinet members were safely rushed from the event in Washington, D.C. after several loud sounds were heard. The Secret Service said one person was in custody.",
       "tier": 1
     },
     {
@@ -215,67 +271,27 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Rocky Balboa statue takes up a new home inside Philly art museum",
-      "link": "https://www.npr.org/2026/04/25/g-s1-118769/rocky-balboa-statue-inside-philadelphia-art-museum",
-      "publishedAt": "Sat, 25 Apr 2026 17:26:35 -0400",
-      "snippet": "The bronze sculpture is on display inside the Philadelphia Museum of Art as part of a new exhibition on the impact and cultural importance of statues.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Roommate charged with two counts of murder in death, disappearance of two USF students",
-      "link": "https://www.npr.org/2026/04/25/nx-s1-5799496/roommate-charged-disappearance-usf-students",
-      "publishedAt": "Sat, 25 Apr 2026 17:11:56 -0400",
-      "snippet": "Authorities have filed murder charges against the roommate of a Bangladeshi doctoral student who disappeared with his girlfriend from the University of South Florida.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Pope Leo reiterates opposition to death penalty on same day U.S. approves firing squads",
-      "link": "https://www.npr.org/2026/04/25/g-s1-118767/pope-leo-trump-death-penalty",
-      "publishedAt": "Sat, 25 Apr 2026 13:51:45 -0400",
-      "snippet": "Pope Leo reiterated the Catholic Church&apos;s teaching that the death penalty is \"inadmissible,\" in a video message released hours after the Justice Department said it would allow firing squads for federal executions.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Mali hit by wave of coordinated attacks from armed groups",
-      "link": "https://www.npr.org/2026/04/25/nx-s1-5799439/mali-hit-by-wave-of-coordinated-attacks-from-armed-groups",
-      "publishedAt": "Sat, 25 Apr 2026 10:57:23 -0400",
-      "snippet": "Gunfire and explosions have rocked Mali&apos;s capital Bamako and other key cities in one of the most significant coordinated attacks in years, as armed groups, including jihadist insurgents and separatist rebels exploit worsening insecurity in the Sahel region.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Opinion: A lesson in humanity at the Boston Marathon",
-      "link": "https://www.npr.org/2026/04/25/nx-s1-5790431/opinion-a-lesson-in-humanity-at-the-boston-marathon",
-      "publishedAt": "Sat, 25 Apr 2026 08:00:00 -0400",
-      "snippet": "Two runners in this week&apos;s Boston Marathon stopped to help a racer who had collapsed just short of the finish line. NPR&apos;s Scott Simon says their generosity is its own kind of \"personal best.\"",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Justice Department makes it easier to deport those with DACA status",
-      "link": "https://www.npr.org/2026/04/25/nx-s1-5798943/justice-department-makes-it-easier-to-deport-those-with-daca-status",
-      "publishedAt": "Sat, 25 Apr 2026 06:00:00 -0400",
-      "snippet": "Three appellate immigration judges sided with Department of Homeland Security lawyers who appealed a decision from Immigration Judge Michael Pleters terminating removal proceedings for DACA recipient Catalina \"Xóchitl\" Santiago.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "The rising cost of fertilizer and fuel prices is pushing some farmers to the brink",
-      "link": "https://www.npr.org/2026/04/25/nx-s1-5795674/farmers-tariffs-iran-trump-mississippi",
-      "publishedAt": "Sat, 25 Apr 2026 05:00:00 -0400",
-      "snippet": "In the Mississippi Delta, a crucial agricultural region, farmers say their patience is wearing thin. Reeling from the effects of tariffs, they must now also navigate rising fertilizer and fuel costs.",
+      "source": "PBS Headlines",
+      "title": "WATCH: D.C. officials share updates on the White House Correspondents' Dinner shooting",
+      "link": "https://www.pbs.org/newshour/politics/watch-d-c-officials-share-updates-on-the-white-house-correspondents-dinner-shooting",
+      "publishedAt": "Sat, 25 Apr 2026 23:49:55 -0400",
+      "snippet": "The suspect in a shooting incident at Saturday's correspondents' dinner attended by President Donald Trump and other senior U.S. officials was carrying guns and knives and was believed to be acting alone, the mayor of Washington said.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump evacuated after security incident at White House correspondents dinner; no sign of injuries",
+      "title": "WATCH: Trump holds press conference after shooting at White House Correspondents' Dinner",
+      "link": "https://www.pbs.org/newshour/nation/watch-live-trump-holds-press-conference-after-shooting-at-white-house-correspondents-dinner",
+      "publishedAt": "Sat, 25 Apr 2026 21:57:45 -0400",
+      "snippet": "Trump said the suspect was armed with multiple weapons before stopped by Secret Service. One officer was shot, but he was protected by a bulletproof vest.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Trump unharmed after security incident at White House Correspondents' Dinner",
       "link": "https://www.pbs.org/newshour/politics/trump-evacuated-after-security-incident-at-white-house-correspondents-dinner-no-sign-of-injuries",
       "publishedAt": "Sat, 25 Apr 2026 20:59:07 -0400",
-      "snippet": "President Donald Trump and other top leaders of the United States were evacuated from an annual dinner of White House correspondents on Saturday night after an unspecified threat. There did not immediately appear to be any injuries.",
+      "snippet": "A man armed with guns and knives stormed the lobby outside a high-profile journalists' dinner attended by President Donald Trump and multiple senior U.S. leaders on Saturday night. The president was uninjured and was hustled away.",
       "tier": 1
     },
     {
@@ -415,27 +431,75 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Adm. William McRaven reflects on American spirit and the nation's future in new book",
-      "link": "https://www.pbs.org/newshour/show/adm-william-mcraven-reflects-on-american-spirit-and-the-nations-future-in-new-book",
-      "publishedAt": "Fri, 24 Apr 2026 18:25:15 -0400",
-      "snippet": "Retired Navy Adm. William McRaven served for nearly four decades in a highly decorated career, from Navy SEAL to commander of the Joint Special Operations Command. He is also widely known for his 2014 speech, \"Make Your Bed.\" More of his speeches are collected in \"Duty, Honor, Co",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "WATCH LIVE: Trump attends White House Correspondents' Dinner for 1st time as president",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-trump-attends-white-house-correspondents-dinner-for-1st-time-as-president",
-      "publishedAt": "Fri, 24 Apr 2026 18:24:08 -0400",
-      "snippet": "The seeming incongruity of President Donald Trump's expected attendance at an event that honors the press has brought renewed scrutiny to the annual White House Correspondents' Association dinner, a fixture on Washington's spring social calendar that is scheduled for this weekend",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Sawe smashes 2-hour mark setting record at London Marathon",
+      "link": "https://www.dw.com/en/sawe-smashes-2-hour-mark-setting-record-at-london-marathon/a-76943171?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Kenya&apos;s Sabastian Sawe has made history in London as the first man to run a marathon in under two hours. He beat the world record by more than a minute.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Mali: Fighting continues as Tuareg separatists claim Kidal",
+      "link": "https://www.dw.com/en/mali-fighting-continues-as-tuareg-separatists-claim-kidal/a-76942012?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A spate of attacks was coordinated by Tuareg separatists and jihadis with links to al-Qaeda. It&apos;s the most serious fighting to rock the Sahel nation in years.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Queer as folk: The gay scandal that shook the German Empire",
+      "link": "https://www.dw.com/en/queer-as-folk-the-gay-scandal-that-shook-the-german-empire/a-76940939?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany&apos;s last emperor, a gilded porcelain vase and a general who had a heart attack in a pink tutu: The Eulenburg Affair shook the German Empire to its core and paved the way for the downfall of the monarchy.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Modi targets TMC in Bengal rally",
+      "link": "https://www.dw.com/en/india-news-modi-targets-tmc-in-bengal-rally/live-76939808?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "PM Modi addressed rallies in West Bengal, taking jibes at the opposition party TMC ahead of the second phase of the state poll. Meanwhile, fresh clashes have erupted in Manipur. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Is Germany&apos;s pension system still secure?",
+      "link": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Chancellor Friedrich Merz has sparked controversy by describing Germany&apos;s state pension as no more than \"basic cover.\" What did he mean by that? And how does Germany compare internationally?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: Peace talks on hold, what&apos;s next?",
+      "link": "https://www.dw.com/en/iran-war-peace-talks-on-hold-what-s-next/live-76939472?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "No direct talks took place between US and Iranian negotiators in Islamabad. A ceasefire in the Iran war continues to exist, but a roadmap to lasting peace remains elusive. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Colombia highway bomb attack kills 14",
+      "link": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-14/a-76939450?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Suspected guerillas carried out a deadly explosives attack on the Pan-American Highway in southwest Colombia. The region has been gripped by violence over the past few days.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump uninjured after shooting at Correspondents&apos; Dinner",
+      "link": "https://www.dw.com/en/trump-uninjured-after-shooting-at-correspondents-dinner/live-76938867?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "President Donald Trump was evacuated after gunfire at the Washington Hilton hotel, where journalists and celebrities were gathered for the annual White House Correspondents&apos; Dinner. A suspect is in custody.",
       "tier": 2
     },
     {
@@ -520,74 +584,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Ships to head to Med for possible Hormuz role",
-      "link": "https://www.dw.com/en/germany-news-ships-to-head-to-med-for-possible-hormuz-role/live-76930770?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "German Defense Minister Pistorius has said German naval ships will deploy to the Mediterranean. Berlin has pledged support in the Strait of Hormuz, post-war. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Colombia, Venezuela hold key talks in post-Maduro visit",
       "link": "https://www.dw.com/en/colombia-venezuela-hold-key-talks-in-post-maduro-visit/a-76930133?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Colombia and Venezuela announced military cooperation to combat border \"mafias\" during President Gustavo Petro&apos;s visit to Caracas. Petro is the first leader to travel to Venezuela after Nicolas Maduro&apos;s removal.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "OpenAI apologizes for not reporting Canada mass shooter",
-      "link": "https://www.dw.com/en/openai-apologizes-for-not-reporting-canada-mass-shooter/a-76929817?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "British Colombia Premier David Eby said at the time that OpenAI had the opportunity to prevent the mass shooting.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "WHO approves first Malaria drug for babies",
-      "link": "https://www.dw.com/en/who-approves-first-malaria-drug-for-babies/a-76929581?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Children under five account for more than two-thirds of malaria deaths. A new drug offers hope for this vulnerable group.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US: Justice Department drops investigation into Fed Chair Powell",
-      "link": "https://www.dw.com/en/us-justice-department-drops-investigation-into-fed-chair-powell/a-76929212?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The closing of the investigation into Federal Reserve Chair Jerome Powell removes an obstacle to the appointment of Kevin Warsh, US President Donald Trump&apos;s pick for head of the central bank.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: Second attempt at peace talks takes shape",
-      "link": "https://www.dw.com/en/iran-war-second-attempt-at-peace-talks-takes-shape/live-76918799?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US officials Steve Witkoff and Jared Kushner are set to depart for Islamabad on Saturday with the intention of talks with Iran, the White House said. Iran&apos;s Foreign Minister Abbas Araghchi has also landed in Pakistan.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Lebanon should be part of an Iran peace deal, EU&apos;s Ursula von der Leyen says",
-      "link": "https://www.dw.com/en/lebanon-should-be-part-of-an-iran-peace-deal-eu-s-ursula-von-der-leyen-says/a-76921103?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "European Commission President Ursula von der Leyen said the past weeks had shown how \"security is indivisible.\" She said a deal with Iran should include Lebanon and respect its \"soverignty and territorial integrity.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine: Zelenskyy visits Saudi Arabia, Putin weighs G20 attendance",
-      "link": "https://www.dw.com/en/ukraine-zelenskyy-visits-saudi-arabia-putin-weighs-g20-attendance/a-76928614?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Russian President Putin \"may or not may not\" attend the G20 in Miami in December, says the Kremlin. Meanwhile, after securing an EU loan, Ukrainian President Zelenskyy continued his diplomatic offensive in Saudi Arabia.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Is the far-right AfD misusing its parliamentary questions?",
-      "link": "https://www.dw.com/en/is-the-far-right-afd-misusing-its-parliamentary-questions/a-76924310?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Alternative for Germany (AfD) has submitted thousands of official questions in state parliaments — a right of any elected party. But critics argue that their focus is meant to pressure political opponents.",
       "tier": 2
     }
   ]
