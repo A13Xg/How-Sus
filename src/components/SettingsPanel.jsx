@@ -29,11 +29,12 @@ function Toggle({ checked, onChange, id, label, disabled = false }) {
   );
 }
 
-export default function SettingsPanel({ settings, onUpdate, onReset, onClose, onClearHistory, onExportHistory, scanHistory = [] }) {
+export default function SettingsPanel({ isOpen = false, settings, onUpdate, onReset, onClose, onClearHistory, onExportHistory, scanHistory = [] }) {
   const [newTrustedDomain, setNewTrustedDomain] = useState('');
   const [newBlockedDomain, setNewBlockedDomain] = useState('');
   const [updateStatus, setUpdateStatus] = useState(null);
   const [checkingUpdate, setCheckingUpdate] = useState(false);
+  const [confirmReset, setConfirmReset] = useState(false);
   const panelRef = useRef(null);
   const closeRef = useRef(null);
 
@@ -78,6 +79,7 @@ export default function SettingsPanel({ settings, onUpdate, onReset, onClose, on
 
   return (
     <AnimatePresence>
+      {isOpen && (
       <div className="settings-overlay" aria-modal="true" role="dialog" aria-label="Settings">
         {/* Backdrop */}
         <motion.div
@@ -271,18 +273,31 @@ export default function SettingsPanel({ settings, onUpdate, onReset, onClose, on
               </div>
 
               <div className="settings-action-row">
-                <button
-                  type="button"
-                  className="btn-settings-action danger"
-                  onClick={() => { if (window.confirm('Reset all settings to defaults?')) onReset(); }}
-                >
-                  ↺ Reset All Settings
-                </button>
+                {confirmReset ? (
+                  <div className="settings-confirm-row">
+                    <span>Are you sure? This resets all settings.</span>
+                    <button type="button" className="btn-settings-action danger" onClick={() => { onReset(); setConfirmReset(false); }}>
+                      Yes, reset
+                    </button>
+                    <button type="button" className="btn-settings-action" onClick={() => setConfirmReset(false)}>
+                      Cancel
+                    </button>
+                  </div>
+                ) : (
+                  <button
+                    type="button"
+                    className="btn-settings-action danger"
+                    onClick={() => setConfirmReset(true)}
+                  >
+                    ↺ Reset All Settings
+                  </button>
+                )}
               </div>
             </section>
           </div>
         </motion.aside>
       </div>
+      )}
     </AnimatePresence>
   );
 }

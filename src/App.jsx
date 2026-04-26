@@ -1009,7 +1009,7 @@ function App() {
   const [scanError, setScanError] = useState(null);
   const [sourceFeed, setSourceFeed] = useState(null);
   const [scanHistory, setScanHistory] = useLocalStorage('howsus-scan-history', []);
-  const [settings, updateSettings] = useSettings();
+  const [settings, updateSettings, resetSettings] = useSettings();
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [hasUpdate, setHasUpdate] = useState(false);
   const scanIntervalRef = useRef(null);
@@ -1047,7 +1047,7 @@ function App() {
 
   // ── Update check ──────────────────────────────────────────────────────────
   useEffect(() => {
-    if (!settings.checkForUpdates) return;
+    if (!settings.autoUpdateCheck) return;
     checkForUpdates().then(({ hasUpdate: newVersion }) => setHasUpdate(newVersion));
   }, [settings.checkForUpdates]);
 
@@ -1228,12 +1228,13 @@ function App() {
         isOpen={settingsOpen}
         onClose={() => setSettingsOpen(false)}
         settings={settings}
-        onSettingsChange={updateSettings}
+        onUpdate={updateSettings}
+        onReset={resetSettings}
         scanHistory={scanHistory}
         onClearHistory={() => setScanHistory([])}
         onExportHistory={handleExportHistory}
       />
-      <LogPanel />
+      <LogPanel visible={settings.showLogPanel} />
 
       {/* Update banner */}
       <AnimatePresence>

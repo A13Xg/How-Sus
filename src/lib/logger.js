@@ -24,10 +24,9 @@ function _log(level, message, data) {
   _logs = [entry, ..._logs].slice(0, MAX_ENTRIES);
   _notify();
 
-  const formatted = `[HowSus:${level}] ${message}`;
-  if (level === 'ERROR') console.error(formatted, data ?? '');
-  else if (level === 'WARN') console.warn(formatted, data ?? '');
-  else console.log(formatted, data ?? '');
+  if (level === 'ERROR') console.error('[HowSus:ERROR]', message, data ?? '');
+  else if (level === 'WARN') console.warn('[HowSus:WARN]', message, data ?? '');
+  else console.log('[HowSus:' + level + ']', message, data ?? '');
 }
 
 const logger = {

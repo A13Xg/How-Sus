@@ -707,10 +707,12 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
   const [activeMetric, setActiveMetric] = useState(null);
   const [copyToast, setCopyToast] = useState(false);
   const [shareToast, setShareToast] = useState(false);
+  // Stable key for bookmark lookup based on input content
+  const bookmarkKey = `${results?.type}:${(inputData?.value || inputData?.file?.name || '').slice(0, 120)}`;
   const [isBookmarked, setIsBookmarked] = useState(() => {
     try {
       const saved = JSON.parse(localStorage.getItem('howsus-bookmarks') || '[]');
-      return saved.some((b) => b.id === results?.id);
+      return saved.some((b) => b.key === bookmarkKey);
     } catch { return false; }
   });
 
@@ -740,6 +742,7 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
     try {
       const saved = JSON.parse(localStorage.getItem('howsus-bookmarks') || '[]');
       const entry = {
+        key: bookmarkKey,
         id: Date.now(),
         timestamp: new Date().toISOString(),
         score: results?.authenticityScore,
@@ -747,7 +750,7 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
         input: (inputData?.value || inputData?.file?.name || '').slice(0, 120),
       };
       if (isBookmarked) {
-        const filtered = saved.filter((b) => b.id !== entry.id);
+        const filtered = saved.filter((b) => b.key !== bookmarkKey);
         localStorage.setItem('howsus-bookmarks', JSON.stringify(filtered));
         setIsBookmarked(false);
       } else {
@@ -755,7 +758,7 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
         setIsBookmarked(true);
       }
     } catch { /* ignore */ }
-  }, [results, inputData, isBookmarked]);
+  }, [results, inputData, isBookmarked, bookmarkKey]);
 
   if (!results) return null; // guard — should not normally render without results
 

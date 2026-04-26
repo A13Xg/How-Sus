@@ -334,3 +334,14 @@
 @media (max-width: 480px) {
   .settings-drawer { width: 100vw; }
 }
+
+/* ── Confirm reset row ───────────────────────────────────────────────────── */
+.settings-confirm-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+}
+.settings-confirm-row .btn-settings-action { padding: 6px 12px; }
