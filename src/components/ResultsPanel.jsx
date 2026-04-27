@@ -23,7 +23,7 @@
  *   scanHistory    {Array}    - previous scan entries from localStorage
  *   onClearHistory {function} - clears the scan history
  */
-import React, { useEffect, useMemo, useRef, useState } from 'react';
+import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { motion } from 'framer-motion';
 import jsPDF from 'jspdf';
 import ExpandablePanel from './ExpandablePanel';
@@ -705,6 +705,16 @@ ${aiHtml}
 export default function ResultsPanel({ results, inputData, aiConfig, confidenceScore = 0, scanHistory = [], onClearHistory }) {
   const panelRef = useRef(null);
   const [activeMetric, setActiveMetric] = useState(null);
+  const [copyToast, setCopyToast] = useState(false);
+  const [shareToast, setShareToast] = useState(false);
+  // Stable key for bookmark lookup based on input content
+  const bookmarkKey = `${results?.type}:${(inputData?.value || inputData?.file?.name || '').slice(0, 120)}`;
+  const [isBookmarked, setIsBookmarked] = useState(() => {
+    try {
+      const saved = JSON.parse(localStorage.getItem('howsus-bookmarks') || '[]');
+      return saved.some((b) => b.key === bookmarkKey);
+    } catch { return false; }
+  });
 
   useEffect(() => {
     const onKeyDown = (event) => {
@@ -714,18 +724,61 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
     return () => document.removeEventListener('keydown', onKeyDown);
   }, []);
 
+  const handleCopyResults = useCallback(() => {
+    const text = [
+      `HowSus Analysis Report`,
+      `Score: ${results?.authenticityScore ?? 0}/100`,
+      `Type: ${results?.type}`,
+      results?.domain ? `Domain: ${results.domain}` : null,
+      `Findings: ${results?.findings?.map((f) => `${f.label}: ${f.value}`).join('; ')}`,
+    ].filter(Boolean).join('\n');
+    navigator.clipboard?.writeText(text).then(() => {
+      setCopyToast(true);
+      setTimeout(() => setCopyToast(false), 2000);
+    });
+  }, [results]);
+
+  const handleBookmark = useCallback(() => {
+    try {
+      const saved = JSON.parse(localStorage.getItem('howsus-bookmarks') || '[]');
+      const entry = {
+        key: bookmarkKey,
+        id: Date.now(),
+        timestamp: new Date().toISOString(),
+        score: results?.authenticityScore,
+        type: results?.type,
+        input: (inputData?.value || inputData?.file?.name || '').slice(0, 120),
+      };
+      if (isBookmarked) {
+        const filtered = saved.filter((b) => b.key !== bookmarkKey);
+        localStorage.setItem('howsus-bookmarks', JSON.stringify(filtered));
+        setIsBookmarked(false);
+      } else {
+        localStorage.setItem('howsus-bookmarks', JSON.stringify([entry, ...saved].slice(0, 50)));
+        setIsBookmarked(true);
+      }
+    } catch { /* ignore */ }
+  }, [results, inputData, isBookmarked, bookmarkKey]);
+
+  // summaryItems must be computed before early return to satisfy rules-of-hooks
+  const summaryItems = useMemo(() => {
+    if (!results) return [];
+    const mins = results.wordCount ? Math.max(1, Math.round(results.wordCount / 200)) : null;
+    return [
+      { key: 'Input type', val: results.type.toUpperCase() },
+      results.domain      && { key: 'Domain',       val: results.domain },
+      results.wordCount   && { key: 'Words',        val: results.wordCount },
+      mins                && { key: 'Read time',    val: `~${mins} min` },
+      results.fileName    && { key: 'File',         val: results.fileName },
+      results.exifCount !== undefined && { key: 'EXIF fields', val: results.exifCount },
+      results.duplicates?.length > 0  && { key: 'Similar sources', val: `${results.duplicates.length} found`, warn: true },
+      results.crossCheck  && { key: 'Consistency', val: `${results.crossCheck.consistencyScore}%` },
+    ].filter(Boolean);
+  }, [results]);
+
   if (!results) return null; // guard — should not normally render without results
 
   const score = results.authenticityScore ?? results.score ?? 0;
-  const summaryItems = useMemo(() => ([
-    { key: 'Input type', val: results.type.toUpperCase() },
-    results.domain      && { key: 'Domain',       val: results.domain },
-    results.wordCount   && { key: 'Words',        val: results.wordCount },
-    results.fileName    && { key: 'File',         val: results.fileName },
-    results.exifCount !== undefined && { key: 'EXIF fields', val: results.exifCount },
-    results.duplicates?.length > 0  && { key: 'Similar sources', val: `${results.duplicates.length} found`, warn: true },
-    results.crossCheck && { key: 'Consistency', val: `${results.crossCheck.consistencyScore}%` },
-  ].filter(Boolean)), [results]);
 
   return (
     <motion.section
@@ -753,19 +806,57 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
           </div>
           <div className="download-btns" role="group" aria-label="Export or share report">
             <motion.button
+              className="btn-download copy"
+              onClick={handleCopyResults}
+              type="button"
+              aria-label="Copy results to clipboard"
+              whileHover={{ scale: 1.06 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              {copyToast ? '✅ Copied!' : '📋 Copy'}
+            </motion.button>
+            <motion.button
+              className={`btn-download bookmark ${isBookmarked ? 'bookmarked' : ''}`}
+              onClick={handleBookmark}
+              type="button"
+              aria-label={isBookmarked ? 'Remove bookmark' : 'Bookmark this result'}
+              whileHover={{ scale: 1.06 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              {isBookmarked ? '🔖 Saved' : '🔖 Save'}
+            </motion.button>
+            <motion.button
               className="btn-download share"
               onClick={() => {
-                const payload = { t: inputData.type, v: (inputData.value || inputData.file?.name || '').slice(0, 300) };
+                const payload = {
+                  t: inputData.type,
+                  v: (inputData.value || inputData.file?.name || '').slice(0, 300),
+                  s: score,
+                  ts: Date.now(),
+                };
                 const hash = btoa(encodeURIComponent(JSON.stringify(payload)));
                 const url = `${window.location.origin}${window.location.pathname}#share=${hash}`;
-                navigator.clipboard?.writeText(url).then(() => alert('Share link copied to clipboard!')).catch(() => prompt('Copy this link:', url));
+                navigator.clipboard?.writeText(url).then(() => {
+                  setShareToast(true);
+                  setTimeout(() => setShareToast(false), 2000);
+                }).catch(() => prompt('Copy this link:', url));
               }}
               type="button"
               aria-label="Copy shareable link"
               whileHover={{ scale: 1.06, boxShadow: '0 0 18px rgba(139,92,246,0.45)' }}
               whileTap={{ scale: 0.95 }}
             >
-              🔗 Share
+              {shareToast ? '✅ Link copied!' : '🔗 Share'}
+            </motion.button>
+            <motion.button
+              className="btn-download print"
+              onClick={() => window.print()}
+              type="button"
+              aria-label="Print report"
+              whileHover={{ scale: 1.06 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              🖨 Print
             </motion.button>
             <motion.button
               className="btn-download pdf"
@@ -850,6 +941,15 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
               />
             ))}
           </div>
+          {results.domain && (
+            <p className="whois-hint">
+              💡 Tip: Look up <strong>{results.domain}</strong> on{' '}
+              <a href={`https://who.is/whois/${encodeURIComponent(results.domain)}`} target="_blank" rel="noreferrer noopener">who.is</a>{' '}
+              or{' '}
+              <a href={`https://www.whois.com/whois/${encodeURIComponent(results.domain)}`} target="_blank" rel="noreferrer noopener">whois.com</a>{' '}
+              to verify domain registration age and ownership.
+            </p>
+          )}
         </ExpandablePanel>
 
         {/* ── Source verification (expandable) ────────────────────── */}
