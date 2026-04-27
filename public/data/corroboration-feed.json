@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T12:40:12.411Z",
+  "generatedAt": "2026-04-27T01:09:21.083Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,6 +32,14 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+      "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Apr 2026 00:06:54 GMT",
+      "snippet": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
       "link": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 26 Apr 2026 04:22:59 GMT",
@@ -48,18 +56,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
-      "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Apr 2026 00:34:21 GMT",
-      "snippet": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks.",
+      "title": "Mali defence minister killed as country hit by wave of rebel attacks",
+      "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Apr 2026 20:56:26 GMT",
+      "snippet": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Armed groups launch coordinated attacks across Mali",
-      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Apr 2026 08:56:02 GMT",
-      "snippet": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
+      "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+      "link": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Apr 2026 00:34:21 GMT",
+      "snippet": "The Israeli PM's directive comes as six people were killed by strikes in Lebanon despite a ceasefire being extended by three weeks.",
       "tier": 1
     },
     {
@@ -183,11 +191,51 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Mandelson under formal investigation by EU's anti-fraud office",
-      "link": "https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Apr 2026 16:18:19 GMT",
-      "snippet": "The EU's anti-fraud office confirms it has \"sufficient information\" to launch an investigation, but does not say if it involves fraud.",
+      "source": "NPR News",
+      "title": "A fast-growing Georgia wildfire tops 31 square miles, with evacuations possible",
+      "link": "https://www.npr.org/2026/04/26/nx-s1-5800174/georgia-wildfire-evacuations",
+      "publishedAt": "Sun, 26 Apr 2026 16:28:22 -0400",
+      "snippet": "One of two large wildfires in southeastern Georgia continues to grow and now exceeds 31 square miles.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "A chaotic White House Correspondents&apos; Dinner, as told by NPR reporters in the room",
+      "link": "https://www.npr.org/2026/04/26/nx-s1-5800105/white-house-correspondents-dinner-shooting-scene-trump",
+      "publishedAt": "Sun, 26 Apr 2026 15:52:23 -0400",
+      "snippet": "Top government officials were rushed out of the Washington Hilton after gunshots were heard at the dinner. NPR journalists describe hiding under tables and scrambling for information as the night unfolded.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "What we know about Cole Allen, suspected White House Correspondents&apos; dinner shooter",
+      "link": "https://www.npr.org/2026/04/26/g-s1-118826/cole-allen-suspected-white-house-correspondents-dinner-shooter-profile",
+      "publishedAt": "Sun, 26 Apr 2026 15:05:06 -0400",
+      "snippet": "The 31-year-old teacher and engineer from California sent an alleged message to family members saying that he wanted to target administration officials.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Photos: The aftermath of the White House Correspondents&apos; Dinner shooting",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/04/26/g-s1-118806/photos-the-aftermath-of-the-white-house-correspondents-dinner-shooting",
+      "publishedAt": "Sun, 26 Apr 2026 11:59:00 -0400",
+      "snippet": "A suspect has been arrested after firing shots at a security screening area at the Washington Hilton on Saturday night.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Details emerge of alleged shooter at White House correspondents&apos; dinner",
+      "link": "https://www.npr.org/2026/04/26/g-s1-118807/trump-white-house-correspondents-dinner",
+      "publishedAt": "Sun, 26 Apr 2026 11:20:28 -0400",
+      "snippet": "The alleged gunman has been identified as Cole Allen, according to two sources familiar with the matter.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "How China is responding to the stalling of talks between the U.S. and Iran",
+      "link": "https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran",
+      "publishedAt": "Sun, 26 Apr 2026 08:08:51 -0400",
+      "snippet": "NPR&apos;s Ayesha Rascoe speaks to Zongyuan Zoe Liu, a senior fellow at the Council on Foreign Relations, about how China views the current crisis in the Middle East",
       "tier": 1
     },
     {
@@ -223,51 +271,83 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "For students labeled &apos;emotionally disturbed,&apos; separation can lead to isolation",
-      "link": "https://www.npr.org/2026/04/26/g-s1-117447/school-disability-emotional-behavioral-disorder-special-education",
-      "publishedAt": "Sun, 26 Apr 2026 05:00:00 -0400",
-      "snippet": "Every school has problem students, but some are labeled emotionally disturbed (ED) and taught separately from others.",
+      "source": "PBS Headlines",
+      "title": "Justice Department cites Correspondents' Dinner shooting in push to drop Trump ballroom lawsuit",
+      "link": "https://www.pbs.org/newshour/nation/justice-department-cites-correspondents-dinner-shooting-in-push-to-drop-trump-ballroom-lawsuit",
+      "publishedAt": "Sun, 26 Apr 2026 18:50:12 -0400",
+      "snippet": "President Donald Trump's Justice Department is using the shooting at the White House Correspondents' Dinner on Saturday to try to pressure preservationists to drop their lawsuit over his planned $400 million ballroom on the site of the former East Wing of the White House.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "The Supreme Court case that could redefine your digital privacy",
-      "link": "https://www.npr.org/2026/04/26/g-s1-118359/supreme-court-geofencing-explainer-video",
-      "publishedAt": "Sun, 26 Apr 2026 05:00:00 -0400",
-      "snippet": "Police in Virginia used a technique called geofencing to tap into Google&apos;s databases to find out who was near the scene of a bank robbery. The Supreme Court will consider whether it is constitutional.",
+      "source": "PBS Headlines",
+      "title": "At least 2 dead after tornadoes destroy homes in northern Texas",
+      "link": "https://www.pbs.org/newshour/nation/at-least-2-dead-after-tornadoes-destroy-homes-in-northern-texas",
+      "publishedAt": "Sun, 26 Apr 2026 18:40:07 -0400",
+      "snippet": "A tornado-producing thunderstorm left at least two people dead in northern Texas and displaced at least 20 families, with many homes sustaining major damage, authorities said Sunday.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "A suspect is in custody after Trump is rushed from correspondents&apos; dinner",
-      "link": "https://www.npr.org/2026/04/25/nx-s1-5799544/trump-white-house-correspondents-dinner",
-      "publishedAt": "Sat, 25 Apr 2026 21:18:54 -0400",
-      "snippet": "President Trump and several cabinet members were safely rushed from the event in Washington, D.C. after several loud sounds were heard. The Secret Service said one person was in custody.",
+      "source": "PBS Headlines",
+      "title": "Palestinian authorities call local elections in a central Gaza community and the occupied West Bank a success",
+      "link": "https://www.pbs.org/newshour/world/palestinian-authorities-call-local-elections-in-a-central-gaza-community-and-the-occupied-west-bank-a-success",
+      "publishedAt": "Sun, 26 Apr 2026 15:59:23 -0400",
+      "snippet": "Palestinian authorities said Sunday that local elections in a single Gaza community and the Israeli-occupied West Bank were a success and called them a step toward a long-delayed presidential election in the territories and eventual statehood.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "New CEO Steve O&apos;Donnell vows to unite NASCAR and return the fun",
-      "link": "https://www.npr.org/2026/04/25/nx-s1-5799530/new-ceo-steve-odonnell-nascar",
-      "publishedAt": "Sat, 25 Apr 2026 20:32:28 -0400",
-      "snippet": "Steve O&apos;Donnell was introduced as the sanctioning body&apos;s chief executive officer at Talladega Superspeedway on Saturday and vowed to \"make some moves\" that will return the storied racing series to its roots.",
+      "source": "PBS Headlines",
+      "title": "Colombia bus bombing death toll rises to 20 during a wave of violence",
+      "link": "https://www.pbs.org/newshour/world/colombia-bus-bombing-death-toll-rises-to-20-during-a-wave-of-violence",
+      "publishedAt": "Sun, 26 Apr 2026 15:21:12 -0400",
+      "snippet": "The attack happened Saturday when an explosive device was detonated on a bus traveling along the Pan-American Highway in the municipality of Cajibio.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Dirk Kempthorne, former Idaho governor and U.S. Interior secretary, dies at 74",
-      "link": "https://www.npr.org/2026/04/25/nx-s1-5799519/dirk-kempthorne-obit",
-      "publishedAt": "Sat, 25 Apr 2026 17:49:31 -0400",
-      "snippet": "Dirk Kempthorne, a Republican, was elected mayor of Boise at age 34 and served seven years before serving one term in the U.S. Senate and then as governor until 2006.",
+      "source": "PBS Headlines",
+      "title": "Malian defense minister killed in attack as jihadi and rebel forces seized towns and military bases",
+      "link": "https://www.pbs.org/newshour/world/malian-defense-minister-killed-in-attack-as-jihadi-and-rebel-forces-seized-towns-and-military-bases",
+      "publishedAt": "Sun, 26 Apr 2026 15:14:37 -0400",
+      "snippet": "Mali's defense minister was killed in a sweeping attack by jihadis and rebels who seized several towns and military bases, authorities said Sunday.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "In a rare interview, a leader of the world&apos;s largest right-wing group talks to NPR",
-      "link": "https://www.npr.org/2026/04/25/nx-s1-5795781/india-rss-rashtriya-swayamsevak-sangh-interview-hindu-nationalist",
-      "publishedAt": "Sat, 25 Apr 2026 17:45:00 -0400",
-      "snippet": "The second-in-command of the RSS, a Hindu nationalist organization in India, rarely speaks to the Western press. Here&apos;s what he said about his group&apos;s controversial history.",
+      "source": "PBS Headlines",
+      "title": "Strikes in Ukraine and Russia kill at least 16 on Chernobyl's 40th anniversary",
+      "link": "https://www.pbs.org/newshour/world/strikes-in-ukraine-and-russia-kill-at-least-16-on-chernobyls-40th-anniversary",
+      "publishedAt": "Sun, 26 Apr 2026 14:07:41 -0400",
+      "snippet": "Strikes across Ukraine, Russian-occupied territory and Russia over the past day killed at least 16 people, authorities said, as the Chernobyl anniversary highlights nuclear risks of the Russia-Ukraine war.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "What to know about the world's largest art heist from a Boston museum",
+      "link": "https://www.pbs.org/newshour/arts/what-to-know-about-the-worlds-largest-art-heist-from-a-boston-museum",
+      "publishedAt": "Sun, 26 Apr 2026 12:55:22 -0400",
+      "snippet": "For decades, the 1990 theft of 13 artworks from the Isabella Stewart Gardner Museum — now valued at more than $500 million — has remained unsolved.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Correspondents' Dinner shooting suspect wrote about grievances against Trump and targeting administration officials",
+      "link": "https://www.pbs.org/newshour/nation/correspondents-dinner-shooting-suspect-wrote-about-grievances-against-trump-and-targeting-administration-officials",
+      "publishedAt": "Sun, 26 Apr 2026 12:32:19 -0400",
+      "snippet": "The man accused of opening fire at the White House Correspondents' Association dinner railed against Trump administration policies and referred to himself as a \"Friendly Federal Assassin\" in writings sent to family members minutes before an attack.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Trump calls for unity and bipartisan healing after another violent incident",
+      "link": "https://www.pbs.org/newshour/nation/trump-calls-for-unity-and-bipartisan-healing-after-another-violent-incident",
+      "publishedAt": "Sun, 26 Apr 2026 11:40:42 -0400",
+      "snippet": "President Donald Trump was somberly contemplative and unusually conciliatory after confronting what he saw as a third attempt on his life in less than two years.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "White House Correspondents' Dinner attack suspect is tutor and computer programmer from California",
+      "link": "https://www.pbs.org/newshour/politics/white-house-correspondents-dinner-attack-suspect-is-tutor-and-computer-programmer-from-california",
+      "publishedAt": "Sun, 26 Apr 2026 10:00:17 -0400",
+      "snippet": "Social media posts that appear to match the California man arrested Saturday in the shooting at the White House correspondents' dinner show he is a highly educated tutor and amateur video game developer.",
       "tier": 1
     },
     {
@@ -280,7 +360,7 @@
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Trump holds press conference after shooting at White House Correspondents' Dinner",
+      "title": "WATCH: Trump holds news conference after shooting at White House Correspondents' Dinner",
       "link": "https://www.pbs.org/newshour/nation/watch-live-trump-holds-press-conference-after-shooting-at-white-house-correspondents-dinner",
       "publishedAt": "Sat, 25 Apr 2026 21:57:45 -0400",
       "snippet": "Trump said the suspect was armed with multiple weapons before stopped by Secret Service. One officer was shot, but he was protected by a bulletproof vest.",
@@ -296,10 +376,10 @@
     },
     {
       "source": "PBS Headlines",
-      "title": "One police officer killed and another critically injured in Chicago hospital shooting, officials say",
-      "link": "https://www.pbs.org/newshour/nation/one-police-officer-killed-and-another-critically-injured-in-chicago-hospital-shooting-officials-say",
+      "title": "Police officer killed in Chicago hospital shooting identified, second officer in critical condition",
+      "link": "https://www.pbs.org/newshour/nation/police-officer-killed-in-chicago-hospital-shooting-identified-second-officer-in-critical-condition",
       "publishedAt": "Sat, 25 Apr 2026 18:55:51 -0400",
-      "snippet": "A police officer died and another was critically injured after a shooting at a Chicago hospital on Saturday, according to officials.",
+      "snippet": "A Chicago officer who was fatally shot by a man receiving treatment at a hospital while in police custody has been identified as 38-year-old John Bartholomew, authorities said.",
       "tier": 1
     },
     {
@@ -351,91 +431,59 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Islamic militants and separatists attack several locations in Mali's capital and other cities",
-      "link": "https://www.pbs.org/newshour/world/islamic-militants-and-separatists-attack-several-locations-in-malis-capital-and-other-cities",
-      "publishedAt": "Sat, 25 Apr 2026 13:51:27 -0400",
-      "snippet": "Islamic militants and separatists said they attacked several locations in Mali's capital, Bamako, and other cities on Saturday in one of the largest coordinated attacks in the West African country in recent years.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "ICE arrests drop nearly 12% following Minneapolis killings",
-      "link": "https://www.pbs.org/newshour/nation/ice-arrests-drop-nearly-12-following-minneapolis-killings",
-      "publishedAt": "Sat, 25 Apr 2026 13:08:56 -0400",
-      "snippet": "In the weeks that followed the January Minneapolis killings of two American citizens by immigration officers, ICE arrests across the country dropped on average by nearly 12%.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "U.S. says it's clearing Iranian mines in latest push to open the Strait of Hormuz",
-      "link": "https://www.pbs.org/newshour/world/u-s-says-its-clearing-iranian-mines-in-latest-push-to-open-the-strait-of-hormuz",
-      "publishedAt": "Sat, 25 Apr 2026 12:25:07 -0400",
-      "snippet": "Seeking out mines is one of the latest tactics announced by the Trump administration to get traffic moving again through the strait as rising energy prices and wider economic effects pose a political risk.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Palestinians vote in the first Gaza elections held in more than 20 years",
-      "link": "https://www.pbs.org/newshour/world/palestinians-vote-in-the-first-gaza-elections-held-in-more-than-20-years",
-      "publishedAt": "Sat, 25 Apr 2026 11:40:10 -0400",
-      "snippet": "Palestinians voted on Saturday in the first elections held in part of Gaza in more than two decades, while tens of thousands of Palestinians cast ballots in the Israeli-occupied West Bank.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "U.S., Iranian delegations head to Pakistan, renewing hopes for diplomatic end to war",
-      "link": "https://www.pbs.org/newshour/show/u-s-iranian-delegations-head-to-pakistan-renewing-hopes-for-diplomatic-end-to-war",
-      "publishedAt": "Fri, 24 Apr 2026 18:55:58 -0400",
-      "snippet": "An American delegation is headed to Pakistan to continue talks geared toward ending the two-month war with Iran. One of the focal points of any discussion will be the Strait of Hormuz, where vital maritime traffic remains largely frozen. While Iran's foreign minister is already i",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "News Wrap: DOJ drops criminal probe into Jerome Powell",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-doj-drops-criminal-probe-into-jerome-powell",
-      "publishedAt": "Fri, 24 Apr 2026 18:50:55 -0400",
-      "snippet": "In our news wrap Friday, the Justice Department is dropping its criminal probe into Federal Reserve Chair Jerome Powell, a federal appeals court ruled that President Trump's executive order banning asylum claims at the U.S. southern border is illegal and the FDA said it will fast",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Soldier's arrest over Polymarket bet on Maduro raid fuels insider trading concerns",
-      "link": "https://www.pbs.org/newshour/show/soldiers-arrest-over-polymarket-bet-on-maduro-raid-fuels-insider-trading-concerns",
-      "publishedAt": "Fri, 24 Apr 2026 18:45:33 -0400",
-      "snippet": "A Special Forces soldier who helped plan the capture of Venezuelan President Nicolas Maduro was indicted for allegedly using classified information about the raid to make prediction market bets. It is raising new concerns about insider trading and the need for regulation. Amna Na",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Southern Lebanon weighs losses from Israeli strikes as ceasefire hangs by a thread",
-      "link": "https://www.pbs.org/newshour/show/southern-lebanon-weighs-losses-from-israeli-strikes-as-ceasefire-hangs-by-a-thread",
-      "publishedAt": "Fri, 24 Apr 2026 18:40:28 -0400",
-      "snippet": "During a meeting in the Oval Office on Thursday, Israel and Lebanon agreed to extend their ceasefire by three weeks. But on the ground, the truce has been unravelling, with multiple violations by both Israel and Hezbollah, the Iran-backed militant group. Special correspondent Sim",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Brooks and Capehart on the partisan redistricting battle",
-      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-the-partisan-redistricting-battle",
-      "publishedAt": "Fri, 24 Apr 2026 18:35:22 -0400",
-      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including the Justice Department dropping its probe into Fed Chair Jerome Powell after admitting it lacked evidence, voters in Virginia approving a redistricting effor",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Inside Chornobyl, 40 years after the world's worst nuclear disaster",
-      "link": "https://www.pbs.org/newshour/show/inside-chernobyl-40-years-after-the-worlds-worst-nuclear-disaster",
-      "publishedAt": "Fri, 24 Apr 2026 18:30:23 -0400",
-      "snippet": "Forty years ago, the world's worst nuclear power disaster exploded into history at the Soviet Union's Chornobyl nuclear plant in what is now Ukraine. The ensuing cover-up and clean-up operation made Chornobyl a byword for dereliction and mismanagement. Special correspondent Simon",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Russia, North Korea agree &apos;long-term&apos; military cooperation",
+      "link": "https://www.dw.com/en/russia-north-korea-agree-long-term-military-cooperation/a-76945404?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russia&apos;s defense minister and the chairman of the State Duma are both visiting North Korea. One helped inaugurate a memorial to North Korean soldiers killed fighting Ukraine, the other hashed out a new defense deal.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Colombia highway bomb attack kills at least 19",
+      "link": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-at-least-19/a-76939450?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Suspected guerillas carried out a deadly explosives attack on the Pan-American Highway in southwest Colombia. The region has been gripped by violence over the past few days.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Gunman was likely targeting Trump team, says official",
+      "link": "https://www.dw.com/en/gunman-was-likely-targeting-trump-team-says-official/live-76938867?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The suspect in the attempted attack at the White House Correspondents&apos; dinner is believed to have been targeting US President Donald Trump and members of his administration. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Syria: First trial of Assad-era officials opens in Damascus",
+      "link": "https://www.dw.com/en/syria-first-trial-of-assad-era-officials-opens-in-damascus/a-76944735?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A court in Damascus is trying one official in former President Bashar Assad&apos;s government in person, and several more in absentia. Assad and his brother are among the defendants. Both are thought to have fled to Russia.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Is Germany&apos;s pension system still secure?",
+      "link": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Chancellor Friedrich Merz has sparked controversy by describing Germany&apos;s state pension as no more than \"basic cover.\" What did he mean by that? And how does Germany compare internationally?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Söder calls for compulsory military service",
+      "link": "https://www.dw.com/en/germany-news-söder-calls-for-compulsory-military-service/live-76930770?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Bavarian state premier has criticized the government&apos;s voluntary plan. Meanwhile, Chancellor Friedrich Merz condemned the shooting in Washington.",
       "tier": 2
     },
     {
@@ -451,7 +499,7 @@
       "title": "Mali: Fighting continues as Tuareg separatists claim Kidal",
       "link": "https://www.dw.com/en/mali-fighting-continues-as-tuareg-separatists-claim-kidal/a-76942012?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A spate of attacks was coordinated by Tuareg separatists and jihadis with links to al-Qaeda. It&apos;s the most serious fighting to rock the Sahel nation in years.",
+      "snippet": "A spate of attacks was coordinated by Tuareg separatists and jihadis with links to al-Qaeda. Among them, a car bomb in Bamako killed Mali&apos;s defense minister.",
       "tier": 2
     },
     {
@@ -467,15 +515,7 @@
       "title": "India news: Modi targets TMC in Bengal rally",
       "link": "https://www.dw.com/en/india-news-modi-targets-tmc-in-bengal-rally/live-76939808?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "PM Modi addressed rallies in West Bengal, taking jibes at the opposition party TMC ahead of the second phase of the state poll. Meanwhile, fresh clashes have erupted in Manipur. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Is Germany&apos;s pension system still secure?",
-      "link": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Chancellor Friedrich Merz has sparked controversy by describing Germany&apos;s state pension as no more than \"basic cover.\" What did he mean by that? And how does Germany compare internationally?",
+      "snippet": "PM Modi addressed rallies in West Bengal, taking jibes at the opposition party TMC ahead of the second phase of the state poll. Meanwhile, fresh clashes have erupted in Manipur.",
       "tier": 2
     },
     {
@@ -484,22 +524,6 @@
       "link": "https://www.dw.com/en/iran-war-peace-talks-on-hold-what-s-next/live-76939472?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "No direct talks took place between US and Iranian negotiators in Islamabad. A ceasefire in the Iran war continues to exist, but a roadmap to lasting peace remains elusive. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Colombia highway bomb attack kills 14",
-      "link": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-14/a-76939450?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Suspected guerillas carried out a deadly explosives attack on the Pan-American Highway in southwest Colombia. The region has been gripped by violence over the past few days.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump uninjured after shooting at Correspondents&apos; Dinner",
-      "link": "https://www.dw.com/en/trump-uninjured-after-shooting-at-correspondents-dinner/live-76938867?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "President Donald Trump was evacuated after gunfire at the Washington Hilton hotel, where journalists and celebrities were gathered for the annual White House Correspondents&apos; Dinner. A suspect is in custody.",
       "tier": 2
     },
     {
@@ -564,30 +588,6 @@
       "link": "https://www.dw.com/en/mali-explosions-gunfire-rock-main-military-camp-near-capital/a-76931743?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Mali&apos;s army said unidentified \"terrorist\" groups had attacked several positions in the capital and elsewhere in the country.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Japan: Raging wildfires cause mass evacuations",
-      "link": "https://www.dw.com/en/japan-raging-wildfires-cause-mass-evacuations/a-76930771?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "More than 1,000 firefighters are battling two blazes in northern Japan, with some 3,000 people urged to leave their homes. The fires come as the country&apos;s winters become increasingly dry.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Raghav Chadha, 6 other AAP MPs join BJP",
-      "link": "https://www.dw.com/en/india-news-raghav-chadha-6-other-aap-mps-join-bjp/live-76930748?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The exit of seven Aam Aadmi Party MPs has dented the party&apos;s strength in the upper house of parliament, sparking fears of political instability. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Colombia, Venezuela hold key talks in post-Maduro visit",
-      "link": "https://www.dw.com/en/colombia-venezuela-hold-key-talks-in-post-maduro-visit/a-76930133?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Colombia and Venezuela announced military cooperation to combat border \"mafias\" during President Gustavo Petro&apos;s visit to Caracas. Petro is the first leader to travel to Venezuela after Nicolas Maduro&apos;s removal.",
       "tier": 2
     }
   ]
