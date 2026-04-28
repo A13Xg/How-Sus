@@ -737,7 +737,7 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
     // Additional TLD score adjustment
     const tld = domain.split('.').pop().toLowerCase();
     if (SUSPICIOUS_TLDS.includes(tld)) score -= 10;
-    const isIp = /^\d{1,3}(\.\d{1,3}){3}$/.test(domain);
+    const isIp = /^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/.test(domain);
     if (isIp) score -= 20;
     const paramCount = [...urlObj.searchParams].length;
     if (paramCount > 5) score -= 5;
@@ -811,10 +811,10 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
         // Subdomain depth
         (() => {
           const parts = domain.split('.');
-          const depth = parts.length - 2;
+          const depth = Math.max(0, parts.length - 2);
           return {
             label: 'Subdomain depth',
-            value: depth <= 0 ? 'None (apex domain)' : `${depth} level${depth > 1 ? 's' : ''} deep`,
+            value: depth === 0 ? 'None (apex domain)' : `${depth} level${depth > 1 ? 's' : ''} deep`,
             status: depth > 2 ? 'warn' : 'good',
             explanation: 'Deeply nested subdomains (e.g. news.fake.reports.example.com) can be used to mimic trusted domains.',
           };
@@ -841,7 +841,7 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
         })(),
         // IP address as hostname check
         (() => {
-          const isIp = /^\d{1,3}(\.\d{1,3}){3}$/.test(domain);
+          const isIp = /^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/.test(domain);
           return {
             label: 'Hostname type',
             value: isIp ? 'Numeric IP address' : 'Named domain',
@@ -1262,11 +1262,11 @@ Reply in JSON only with this shape:
     if (provider === 'google') {
       const resolvedModel = model || AI_PROVIDERS.google.defaultModel;
       const encodedModel = encodeURIComponent(resolvedModel);
-      const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodedModel}:generateContent?key=${encodeURIComponent(apiKey)}`;
+      const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodedModel}:generateContent`;
       logger.debug(`Google AI request — model: ${resolvedModel}`);
       const res = await fetch(url, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'application/json', 'x-goog-api-key': apiKey },
         body: JSON.stringify({
           contents: [{ parts: [{ text: prompt }] }],
           generationConfig: {
@@ -1522,24 +1522,35 @@ function App() {
 
     // Attempt screenshot for URLs via Microlink.io (free, CORS-friendly)
     if (result.type === 'url' && inputData.value) {
-      logger.info('Fetching URL screenshot via Microlink.io\u2026');
+      // Validate URL is http/https before passing to external service
+      let safeInputUrl = null;
       try {
-        const mUrl = `https://api.microlink.io/?url=${encodeURIComponent(inputData.value)}&screenshot=true&meta=false&embed=screenshot.url`;
-        const mRes = await fetch(mUrl);
-        if (mRes.ok) {
-          const mData = await mRes.json();
-          const screenshotUrl = mData?.data?.screenshot?.url ?? null;
-          if (screenshotUrl) {
-            result = { ...result, screenshotUrl };
-            logger.info('Screenshot fetched successfully');
-          } else {
-            logger.warn('Microlink screenshot URL not in response');
-          }
-        } else {
-          logger.warn(`Microlink screenshot fetch failed: HTTP ${mRes.status}`);
+        const parsed = new URL(inputData.value.startsWith('http') ? inputData.value : `https://${inputData.value}`);
+        if (parsed.protocol === 'https:' || parsed.protocol === 'http:') {
+          safeInputUrl = parsed.href;
         }
-      } catch (screenshotErr) {
-        logger.warn(`Screenshot fetch failed: ${screenshotErr.message}`);
+      } catch { /* invalid URL — skip screenshot */ }
+
+      if (safeInputUrl) {
+        logger.info('Fetching URL screenshot via Microlink.io...');
+        try {
+          const mUrl = `https://api.microlink.io/?url=${encodeURIComponent(safeInputUrl)}&screenshot=true&meta=false&embed=screenshot.url`;
+          const mRes = await fetch(mUrl);
+          if (mRes.ok) {
+            const mData = await mRes.json();
+            const screenshotUrl = mData?.data?.screenshot?.url ?? null;
+            if (screenshotUrl) {
+              result = { ...result, screenshotUrl };
+              logger.info('Screenshot fetched successfully');
+            } else {
+              logger.warn('Microlink screenshot URL not in response');
+            }
+          } else {
+            logger.warn(`Microlink screenshot fetch failed: HTTP ${mRes.status}`);
+          }
+        } catch (screenshotErr) {
+          logger.warn(`Screenshot fetch failed: ${screenshotErr.message}`);
+        }
       }
     }
 

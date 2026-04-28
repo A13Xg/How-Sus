@@ -1234,12 +1234,14 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
             id="screenshot"
           >
             <div className="screenshot-section">
-              <img
-                src={safeUrl(results.screenshotUrl) ?? ''}
-                alt={`Screenshot of ${results.domain}`}
-                className="page-screenshot"
-                loading="lazy"
-              />
+              {safeUrl(results.screenshotUrl) && (
+                <img
+                  src={safeUrl(results.screenshotUrl)}
+                  alt={`Screenshot of ${results.domain}`}
+                  className="page-screenshot"
+                  loading="lazy"
+                />
+              )}
               <p className="screenshot-caption">
                 Screenshot captured via{' '}
                 <a href="https://microlink.io" target="_blank" rel="noreferrer noopener">Microlink.io</a>
