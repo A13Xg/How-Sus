@@ -11,7 +11,7 @@ export const DEFAULT_SETTINGS = {
   autoUpdateCheck: true,
   autoUpdateInterval: 60,
   scanHistorySize: 10,
-  showLogPanel: false,
+  showLogPanel: true,
   compactMode: false,
   highContrast: false,
   customTrustedDomains: [],
