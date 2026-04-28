@@ -45,5 +45,30 @@
       </div>
     </noscript>
     <script type="module" src="/src/main.jsx"></script>
+    <script>
+      // If the React app hasn't removed the loader within 12 seconds, show a
+      // fallback error so the user isn't stuck staring at a spinner forever.
+      var _loadTimeout = setTimeout(function () {
+        var loader = document.getElementById('root-loader');
+        if (loader && loader.parentNode) {
+          loader.innerHTML =
+            '<div style="text-align:center;padding:24px 16px">' +
+            '<div style="font-size:2rem;margin-bottom:12px">⚠</div>' +
+            '<p style="color:#f1f5f9;font-size:1rem;margin-bottom:8px">HowSus failed to load.</p>' +
+            '<p style="color:#94a3b8;font-size:0.85rem;max-width:420px">The application scripts could not be executed. ' +
+            'This usually means GitHub Pages is serving the wrong build. ' +
+            'Please try a hard-refresh (Ctrl+Shift+R on Windows/Linux, Cmd+Shift+R on Mac) ' +
+            'or <a href="https://github.com/A13Xg/How-Sus/issues" style="color:#3b82f6">open an issue</a>.</p>' +
+            '</div>';
+        }
+      }, 12000);
+      // React mounts into #root and replaces its children — the loader div goes away.
+      // Once that happens we can safely clear the timeout.
+      var _rootObserver = new MutationObserver(function () {
+        var loader = document.getElementById('root-loader');
+        if (!loader) { clearTimeout(_loadTimeout); _rootObserver.disconnect(); }
+      });
+      _rootObserver.observe(document.getElementById('root'), { childList: true, subtree: true });
+    </script>
   </body>
 </html>

@@ -1016,13 +1016,23 @@ function App() {
 
   useEffect(() => {
     let mounted = true;
+    logger.info('App ready — loading corroboration feed…');
     fetch(`${import.meta.env.BASE_URL}data/corroboration-feed.json`)
       .then((res) => (res.ok ? res.json() : null))
       .then((data) => {
-        if (mounted && data) setSourceFeed(data);
+        if (!mounted) return;
+        if (data) {
+          setSourceFeed(data);
+          logger.info(`Corroboration feed loaded (${Array.isArray(data.entries) ? data.entries.length : 0} entries)`);
+        } else {
+          logger.warn('Corroboration feed unavailable — falling back to heuristics');
+        }
       })
-      .catch(() => {
-        if (mounted) setSourceFeed(null);
+      .catch((err) => {
+        if (mounted) {
+          setSourceFeed(null);
+          logger.warn(`Corroboration feed fetch failed: ${err.message}`);
+        }
       });
 
     // Decode share link from URL hash on initial load

@@ -18,6 +18,7 @@
  *   errorMsg    {string}     — human-readable error message shown to the user
  */
 import React from 'react';
+import logger from '../lib/logger.js';
 
 export default class ErrorBoundary extends React.Component {
   constructor(props) {
@@ -45,9 +46,9 @@ export default class ErrorBoundary extends React.Component {
    * @param {React.ErrorInfo}  info  - component stack trace info
    */
   componentDidCatch(error, info) {
-    // In a production environment with a backend, send these details to an
-    // error tracking service (e.g. Sentry). For GitHub Pages (no backend) we
-    // log to the browser console only.
+    // Log to the in-app logger so the error appears in the log panel, then also
+    // emit to the browser console for DevTools visibility.
+    logger.error(`React render error: ${error?.message ?? error}`, info.componentStack);
     console.error('[HowSus ErrorBoundary]', error, info.componentStack);
   }
 

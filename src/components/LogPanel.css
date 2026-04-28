@@ -124,7 +124,7 @@
 .log-clear-btn:hover { color: #ef4444; border-color: #ef4444; }
 
 .log-list {
-  height: calc(20vh - 30px);
+  height: calc(20vh - 48px - 30px);
   overflow-y: auto;
   padding: 6px 0;
 }

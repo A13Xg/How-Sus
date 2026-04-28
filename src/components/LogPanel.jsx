@@ -97,7 +97,7 @@ export default function LogPanel({ visible = true }) {
           <motion.div
             className="log-expanded"
             initial={{ height: 0, opacity: 0 }}
-            animate={{ height: '20vh', opacity: 1 }}
+            animate={{ height: 'calc(20vh - 48px)', opacity: 1 }}
             exit={{ height: 0, opacity: 0 }}
             transition={{ duration: 0.22, ease: 'easeInOut' }}
           >
