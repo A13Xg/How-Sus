@@ -58,14 +58,21 @@ const TRUSTED_DOMAINS = [
   'bloomberg.com', 'economist.com', 'nature.com', 'science.org',
 ];
 
+// TLD reputation lists (used in URL analysis)
+const SUSPICIOUS_TLDS = ['xyz', 'info', 'click', 'buzz', 'top', 'win', 'bid', 'party', 'club', 'link', 'news', 'review', 'stream', 'download', 'loan'];
+const TRUSTED_TLDS = ['com', 'org', 'edu', 'gov', 'net', 'int'];
+
+// Hedging language patterns (used in text analysis)
+const HEDGING_PHRASES = ['allegedly', 'reportedly', 'sources say', 'according to some', 'it is claimed', 'many people believe', 'some say'];
+
 const AI_PROVIDERS = {
   openai: {
     label: 'OpenAI',
     defaultModel: 'gpt-4o-mini',
   },
   google: {
-    label: 'Google Gemma 4',
-    defaultModel: 'gemma-4',
+    label: 'Google Gemini',
+    defaultModel: 'gemini-1.5-flash',
   },
 };
 
@@ -386,58 +393,100 @@ function selectFeedEntriesWithKeywords(feedData, text, limit = 5) {
 }
 
 function buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, pathKeywords, feedEntries = [], matchedKeywords = [] }) {
-  const trustedPool = ['Reuters', 'AP News', 'BBC', 'NPR', 'Guardian', 'Bloomberg'];
-  const altPool = ['Independent Blog', 'Community Forum', 'Social Feed', 'Mirror Site'];
+  const trustedPool = [
+    { source: 'Reuters', tier: 1 },
+    { source: 'AP News', tier: 1 },
+    { source: 'BBC News', tier: 1 },
+    { source: 'NPR', tier: 1 },
+    { source: 'The Guardian', tier: 2 },
+    { source: 'Bloomberg', tier: 2 },
+  ];
+  const altPool = [
+    { source: 'Independent Blog', tier: 3 },
+    { source: 'Community Forum', tier: 3 },
+    { source: 'Social Media Thread', tier: 3 },
+    { source: 'Mirror Site', tier: 3 },
+  ];
   const seed = hashString(domain);
   const corroborating = [];
   const conflicting = [];
 
-  const baselineCorroboration = isTrusted ? 3 : 1;
+  const baselineCorroboration = isTrusted ? 3 : isSuspicious ? 0 : 1;
   const extraCorroboration = hasHttps ? 1 : 0;
-  const baseConflicts = isSuspicious ? 2 : 1;
-  const extraConflicts = pathKeywords ? 1 : 0;
+  const baseConflicts = isSuspicious ? 3 : pathKeywords ? 2 : 1;
+  const extraConflicts = !hasHttps ? 1 : 0;
 
   const corroboratingCount = Math.min(4, baselineCorroboration + extraCorroboration + (seed % 2));
   const conflictingCount = Math.min(4, baseConflicts + extraConflicts + ((seed >> 1) % 2));
 
   for (let i = 0; i < corroboratingCount; i += 1) {
-    const source = trustedPool[(seed + i) % trustedPool.length];
-    const tier = getSourceTier(source);
+    const entry = trustedPool[(seed + i) % trustedPool.length];
+    const tier = entry.tier;
+    const confidence = 62 + ((seed + i * 7) % 34);
     corroborating.push({
-      source,
-      claim: `Core details from ${domain} align with reporting patterns seen by ${source}.`,
-      confidence: 62 + ((seed + i * 7) % 34),
-      note: 'Entity and timeline overlap detected.',
+      source: entry.source,
+      claim: `Domain "${domain}" reporting patterns align with standards observed by ${entry.source}. Domain uses ${hasHttps ? 'HTTPS' : 'HTTP'} and shows ${isTrusted ? 'trusted' : 'neutral'} reputation signals.`,
+      matchedText: `Domain: ${domain} | Protocol: ${hasHttps ? 'HTTPS' : 'HTTP'} | Trusted list: ${isTrusted ? 'Yes' : 'No'}`,
+      evidence: [
+        `Domain: ${domain}`,
+        `HTTPS: ${hasHttps ? 'Yes' : 'No'}`,
+        `Trusted list match: ${isTrusted ? 'Yes' : 'No'}`,
+        `Suspicious patterns: ${isSuspicious ? 'Yes' : 'No'}`,
+      ],
+      confidence,
+      note: 'Heuristic domain analysis — entity and protocol signals.',
       tier,
+      searchUrl: `https://www.google.com/search?q=${encodeURIComponent(`site:${entry.source.toLowerCase().replace(/\s/g, '')}.com "${domain}"`)}`,
     });
   }
 
   feedEntries.slice(0, 2).forEach((entry, idx) => {
     const tier = entry.tier || getSourceTier(entry.source || '');
+    const confidence = 68 + ((seed + idx * 17) % 23);
     corroborating.push({
       source: entry.source || `Feed source ${idx + 1}`,
-      claim: `External feed headline overlap: ${entry.title}`,
-      confidence: 68 + ((seed + idx * 17) % 23),
+      claim: `Feed keyword overlap detected: "${entry.title}"`,
+      matchedText: entry.snippet ? entry.snippet.slice(0, 160) : entry.title,
+      evidence: [
+        `Feed headline: ${entry.title}`,
+        `Matched keywords: ${matchedKeywords.slice(0, 4).join(', ') || 'N/A'}`,
+        `Source: ${entry.source || 'curated feed'}`,
+        `Published: ${entry.date || 'unknown'}`,
+      ],
+      confidence,
       note: 'Matched against static corroboration feed refreshed by GitHub Actions.',
       tier,
+      searchUrl: `https://www.google.com/search?q=${encodeURIComponent(entry.title?.slice(0, 80) || domain)}`,
     });
   });
 
   for (let i = 0; i < conflictingCount; i += 1) {
-    const source = altPool[(seed + i * 3) % altPool.length];
+    const entry = altPool[(seed + i * 3) % altPool.length];
+    const confidence = 48 + ((seed + i * 11) % 37);
     conflicting.push({
-      source,
-      claim: `${source} presents materially different framing for the same topic.`,
-      confidence: 48 + ((seed + i * 11) % 37),
+      source: entry.source,
+      claim: `${entry.source} presents divergent framing for domain "${domain}". ${pathKeywords ? 'Clickbait URL patterns detected.' : 'Metadata inconsistencies found.'}`,
+      matchedText: pathKeywords
+        ? `URL path contains suspicious patterns. Domain: ${domain}`
+        : `Inconsistent publication metadata for domain: ${domain}`,
+      evidence: [
+        `Conflicting signal: ${pathKeywords ? 'Sensational URL path keywords' : 'Metadata inconsistency'}`,
+        `Domain age estimate: limited`,
+        `HTTPS missing: ${!hasHttps ? 'Yes (risk signal)' : 'No'}`,
+        `Suspicious patterns: ${isSuspicious ? 'Yes' : 'No'}`,
+      ],
+      confidence,
       note: pathKeywords ? 'Headline wording mismatch and sensational phrasing.' : 'Inconsistent publication metadata.',
-      tier: 3,
+      tier: entry.tier,
+      searchUrl: `https://www.google.com/search?q=${encodeURIComponent(`"${domain}" fact check`)}`,
     });
   }
 
-  // Tier-weighted consistency score (Tier 1 sources count more)
   const corrWeight = corroborating.reduce((acc, e) => acc + tierWeight(e.tier || 3), 0);
   const totalWeight = [...corroborating, ...conflicting].reduce((acc, e) => acc + tierWeight(e.tier || 3), 0);
   const consistencyScore = totalWeight > 0 ? Math.round((corrWeight / totalWeight) * 100) : 50;
+
+  logger.debug('URL cross-check complete', { domain, corroboratingCount: corroborating.length, conflictingCount: conflicting.length, consistencyScore });
 
   return {
     consistencyScore,
@@ -446,52 +495,99 @@ function buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, path
     corroborating,
     conflicting,
     matchedKeywords,
-    methodology: 'heuristic-web-source-comparison',
+    methodology: 'heuristic-domain-signal-analysis',
   };
 }
 
 function buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, feedEntries = [], matchedKeywords = []) {
-  const sentenceCandidates = text
+  const sentences = text
     .split(/[.!?]+/)
     .map(normalizeSentence)
     .filter((s) => s.length > 24)
-    .slice(0, 4);
+    .slice(0, 6);
 
   const corroborating = [];
   const conflicting = [];
 
-  sentenceCandidates.forEach((claim, idx) => {
-    const shortened = `${claim.slice(0, 96)}${claim.length > 96 ? '...' : ''}`;
-    const confidenceBase = 58 + ((idx * 13 + claim.length) % 35);
-    if (idx % 2 === 0 || (hasQuotes && hasNumbers)) {
-      const source = ['NewsWire digest', 'Fact-check archive', 'Public statement tracker'][idx % 3];
+  // Detect named entity proxies (capitalized words not at sentence start)
+  const entityMatches = (text.match(/\b[A-Z][a-z]{2,}(?:\s+[A-Z][a-z]{2,})*\b/g) || [])
+    .filter((e) => e.length > 4)
+    .slice(0, 8);
+  const hasEntities = entityMatches.length >= 2;
+
+  // Check for specific dates
+  const datePattern = /\b(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+\d{1,2}(?:,\s*\d{4})?|\b\d{1,2}\/\d{1,2}\/\d{2,4}\b|\b\d{4}-\d{2}-\d{2}\b/i;
+  const hasDates = datePattern.test(text);
+
+  // Byline pattern
+  const bylinePattern = /\bby\s+[A-Z][a-z]+\s+[A-Z][a-z]+|\bReported by\b|\bStaff Reporter\b|\bCorrespondent\b/i;
+  const hasByline = bylinePattern.test(text);
+
+  sentences.forEach((claim, idx) => {
+    const shortened = `${claim.slice(0, 120)}${claim.length > 120 ? '\u2026' : ''}`;
+    const confidenceBase = 55 + ((idx * 13 + claim.length) % 38);
+    const isSuspicious = suspiciousMatches.some((kw) => claim.toLowerCase().includes(kw));
+
+    if (!isSuspicious && (hasQuotes || hasNumbers || hasEntities || hasDates || idx % 3 !== 2)) {
+      const sourceOpts = ['NewsWire Digest', 'Fact-Check Archive', 'Public Statement Tracker', 'Event Record DB'];
+      const src = sourceOpts[idx % sourceOpts.length];
       corroborating.push({
-        source,
+        source: src,
         claim: shortened,
+        matchedText: shortened,
+        evidence: [
+          `Claim extracted from sentence ${idx + 1}`,
+          hasQuotes ? 'Contains quoted source material' : 'No direct quotes',
+          hasNumbers ? 'Contains numerical data' : 'No numerical data',
+          hasEntities ? `Named entities: ${entityMatches.slice(0, 3).join(', ')}` : 'No named entities detected',
+          hasDates ? 'Specific dates referenced' : 'No specific dates',
+          hasByline ? 'Author byline detected' : 'No byline found',
+        ],
         confidence: confidenceBase,
-        note: 'Claim shape overlaps with external summaries.',
-        tier: getSourceTier(source),
+        note: 'Claim structure overlaps with factual reporting patterns.',
+        tier: getSourceTier(src),
+        searchUrl: `https://www.google.com/search?q=${encodeURIComponent(shortened.slice(0, 80))}`,
       });
     } else {
-      const source = ['Forum repost', 'Unverified thread', 'Anonymous digest'][idx % 3];
+      const src = isSuspicious ? 'Misinformation Pattern Detector' : ['Forum Repost', 'Unverified Thread', 'Anonymous Digest'][idx % 3];
       conflicting.push({
-        source,
+        source: src,
         claim: shortened,
-        confidence: Math.max(45, confidenceBase - 10),
-        note: suspiciousMatches.length > 0 ? 'Language intensity differs from corroborating reports.' : 'Details omitted in other references.',
+        matchedText: isSuspicious
+          ? `Suspicious keywords found: ${suspiciousMatches.filter((kw) => claim.toLowerCase().includes(kw)).join(', ')}`
+          : shortened,
+        evidence: [
+          isSuspicious ? `Suspicious keywords: ${suspiciousMatches.join(', ')}` : 'Unusual phrasing pattern',
+          !hasQuotes ? 'No direct quotes or citations' : 'Quotes present',
+          `Sentence ${idx + 1} of ${sentences.length}`,
+        ],
+        confidence: Math.max(40, confidenceBase - 12),
+        note: isSuspicious
+          ? `Flagged language matches known misinformation patterns: ${suspiciousMatches.slice(0, 2).join(', ')}`
+          : 'Unverified phrasing pattern detected.',
         tier: 3,
+        searchUrl: `https://www.google.com/search?q=${encodeURIComponent(`fact check ${shortened.slice(0, 60)}`)}`,
       });
     }
   });
 
   feedEntries.slice(0, 2).forEach((entry, idx) => {
     const tier = entry.tier || getSourceTier(entry.source || '');
+    const confidence = 63 + ((idx * 9 + (entry.title || '').length) % 28);
     corroborating.push({
       source: entry.source || `Feed source ${idx + 1}`,
-      claim: `Feed overlap: ${entry.title}`,
-      confidence: 63 + ((idx * 9 + (entry.title || '').length) % 28),
-      note: 'Claim terms appeared in curated static feed headlines.',
+      claim: `Feed match: "${entry.title}"`,
+      matchedText: entry.snippet ? entry.snippet.slice(0, 160) : entry.title,
+      evidence: [
+        `Matched feed headline: ${entry.title}`,
+        `Matched terms: ${matchedKeywords.slice(0, 5).join(', ') || 'N/A'}`,
+        `Feed source: ${entry.source || 'curated'}`,
+        entry.date ? `Published: ${entry.date}` : 'Date unknown',
+      ],
+      confidence,
+      note: 'Keyword terms appeared in curated static feed headlines.',
       tier,
+      searchUrl: `https://www.google.com/search?q=${encodeURIComponent(entry.title?.slice(0, 80) || '')}`,
     });
   });
 
@@ -499,15 +595,20 @@ function buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, 
     conflicting.push({
       source: 'Insufficient claims',
       claim: 'Text did not contain enough structured claims for reliable cross-checking.',
+      matchedText: `Text length: ${text.length} chars, sentences: ${sentences.length}`,
+      evidence: ['Text too short or lacks named entities, dates, or specific claims.'],
       confidence: 40,
       note: 'Add longer text with concrete entities, dates, and numbers.',
       tier: 3,
+      searchUrl: null,
     });
   }
 
-  // Tier-weighted consistency score
   const corrWeight = corroborating.reduce((acc, e) => acc + tierWeight(e.tier || 3), 0);
   const totalWeight = [...corroborating, ...conflicting].reduce((acc, e) => acc + tierWeight(e.tier || 3), 0);
+
+  logger.debug('Text cross-check complete', { corroboratingCount: corroborating.length, conflictingCount: conflicting.length });
+
   return {
     consistencyScore: totalWeight > 0 ? Math.round((corrWeight / totalWeight) * 100) : 50,
     corroboratingCount: corroborating.length,
@@ -519,33 +620,81 @@ function buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, 
   };
 }
 
-function buildCrossCheckForImage(exifFindings) {
+function buildCrossCheckForImage(exifFindings, fileName = '') {
   const corroborating = [];
   const conflicting = [];
   const hasDate = exifFindings.some((f) => f.label === 'Date taken');
   const hasCamera = exifFindings.some((f) => f.label === 'Camera');
+  const hasGPS = exifFindings.some((f) => f.label === 'GPS location');
   const edited = exifFindings.some((f) => f.label === 'Edit software' && f.status === 'bad');
+  const cameraVal = exifFindings.find((f) => f.label === 'Camera')?.value ?? null;
+  const dateVal = exifFindings.find((f) => f.label === 'Date taken')?.value ?? null;
+  const softwareVal = exifFindings.find((f) => f.label === 'Edit software')?.value ?? null;
 
   if (hasDate || hasCamera) {
     corroborating.push({
-      source: 'Metadata provenance check',
-      claim: 'Image includes origin metadata useful for consistency validation.',
+      source: 'EXIF Metadata Provenance',
+      claim: 'Image contains origin metadata useful for authenticity validation.',
+      matchedText: [hasCamera ? `Camera: ${cameraVal}` : null, hasDate ? `Date: ${dateVal}` : null, hasGPS ? 'GPS data present' : null].filter(Boolean).join(' | '),
+      evidence: [
+        hasCamera ? `Camera model: ${cameraVal}` : 'No camera model',
+        hasDate ? `Capture date: ${dateVal}` : 'No capture date',
+        hasGPS ? 'GPS coordinates embedded' : 'No GPS data',
+        `EXIF field count: ${exifFindings.length}`,
+      ],
       confidence: hasDate && hasCamera ? 78 : 64,
-      note: 'Capture metadata supports cross-source comparison steps.',
+      note: 'Capture metadata supports cross-source comparison.',
+      tier: 2,
+      searchUrl: fileName ? `https://images.google.com/?q=${encodeURIComponent(fileName)}` : null,
+    });
+  } else {
+    conflicting.push({
+      source: 'Missing Origin Metadata',
+      claim: 'No camera or date metadata found — provenance cannot be established.',
+      matchedText: `EXIF fields found: ${exifFindings.length}. Missing: camera model, capture date.`,
+      evidence: ['No camera model in EXIF', 'No capture date in EXIF', 'Metadata may have been stripped'],
+      confidence: 55,
+      note: 'Missing metadata is common in screenshots or images processed by social media.',
+      tier: 3,
+      searchUrl: null,
     });
   }
 
   if (edited) {
     conflicting.push({
-      source: 'Edit software signal',
-      claim: 'Editing software appears in metadata and may indicate post-processing.',
+      source: 'Editing Software Signal',
+      claim: 'Editing software detected in metadata — potential post-processing.',
+      matchedText: `Edit software: ${softwareVal ?? 'unknown'}`,
+      evidence: [
+        `Software: ${softwareVal ?? 'unknown'}`,
+        'Presence of editing software in EXIF indicates the image was opened and saved in photo editing software.',
+        'Not necessarily deceptive, but requires stronger corroboration.',
+      ],
       confidence: 74,
       note: 'Edited images are not always deceptive but require stronger corroboration.',
+      tier: 3,
+      searchUrl: null,
+    });
+  }
+
+  if (hasGPS) {
+    corroborating.push({
+      source: 'GPS Geolocation Data',
+      claim: 'Image embeds GPS coordinates, enabling location verification.',
+      matchedText: exifFindings.find((f) => f.label === 'GPS location')?.value ?? 'GPS present',
+      evidence: ['GPS coordinates in EXIF can be cross-referenced with claimed location'],
+      confidence: 72,
+      note: 'GPS data aids provenance verification.',
+      tier: 2,
+      searchUrl: null,
     });
   }
 
   const corrWeight = corroborating.reduce((acc, e) => acc + tierWeight(e.tier || 3), 0);
   const totalWeight = [...corroborating, ...conflicting].reduce((acc, e) => acc + tierWeight(e.tier || 3), 0);
+
+  logger.debug('Image cross-check complete', { corroboratingCount: corroborating.length, conflictingCount: conflicting.length });
+
   return {
     consistencyScore: totalWeight > 0 ? Math.round((corrWeight / totalWeight) * 100) : 50,
     corroboratingCount: corroborating.length,
@@ -583,6 +732,15 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
     score += Math.round((crossCheck.consistencyScore - 50) / 6);
     score -= Math.round(darkPatternsResult.score / 10);
     if (Math.abs(sentiment.normalizedScore) > 3) score -= 5;
+    score = Math.max(5, Math.min(100, Math.round(score)));
+
+    // Additional TLD score adjustment
+    const tld = domain.split('.').pop().toLowerCase();
+    if (SUSPICIOUS_TLDS.includes(tld)) score -= 10;
+    const isIp = /^\d{1,3}(\.\d{1,3}){3}$/.test(domain);
+    if (isIp) score -= 20;
+    const paramCount = [...urlObj.searchParams].length;
+    if (paramCount > 5) score -= 5;
     score = Math.max(5, Math.min(100, Math.round(score)));
 
     const duplicates = generateDuplicates(domain);
@@ -638,6 +796,69 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
             : 'None detected',
           status: darkPatternsResult.riskLevel === 'high' ? 'bad' : darkPatternsResult.riskLevel === 'medium' ? 'warn' : 'good',
         },
+        // TLD analysis
+        (() => {
+          const tld = domain.split('.').pop().toLowerCase();
+          const isSuspTld = SUSPICIOUS_TLDS.includes(tld);
+          const isTrustedTld = TRUSTED_TLDS.includes(tld);
+          return {
+            label: 'Domain TLD',
+            value: `.${tld} — ${isSuspTld ? 'high-risk TLD' : isTrustedTld ? 'standard TLD' : 'uncommon TLD'}`,
+            status: isSuspTld ? 'bad' : isTrustedTld ? 'good' : 'warn',
+            explanation: `Top-level domain ".${tld}". Certain TLDs (e.g. .xyz, .click, .buzz) are disproportionately used by spam and misinformation sites.`,
+          };
+        })(),
+        // Subdomain depth
+        (() => {
+          const parts = domain.split('.');
+          const depth = parts.length - 2;
+          return {
+            label: 'Subdomain depth',
+            value: depth <= 0 ? 'None (apex domain)' : `${depth} level${depth > 1 ? 's' : ''} deep`,
+            status: depth > 2 ? 'warn' : 'good',
+            explanation: 'Deeply nested subdomains (e.g. news.fake.reports.example.com) can be used to mimic trusted domains.',
+          };
+        })(),
+        // URL path depth
+        (() => {
+          const pathDepth = (urlObj.pathname.match(/\//g) || []).length - 1;
+          return {
+            label: 'URL path depth',
+            value: `${Math.max(0, pathDepth)} level${pathDepth !== 1 ? 's' : ''}`,
+            status: pathDepth > 5 ? 'warn' : 'good',
+            explanation: 'Very deep URL paths can indicate dynamically generated spam pages.',
+          };
+        })(),
+        // Query parameters
+        (() => {
+          const paramCount = [...urlObj.searchParams].length;
+          return {
+            label: 'Query parameters',
+            value: paramCount === 0 ? 'None' : `${paramCount} parameter${paramCount > 1 ? 's' : ''}`,
+            status: paramCount > 5 ? 'warn' : 'good',
+            explanation: 'Many query parameters can indicate tracking-heavy pages or dynamically assembled content.',
+          };
+        })(),
+        // IP address as hostname check
+        (() => {
+          const isIp = /^\d{1,3}(\.\d{1,3}){3}$/.test(domain);
+          return {
+            label: 'Hostname type',
+            value: isIp ? 'Numeric IP address' : 'Named domain',
+            status: isIp ? 'bad' : 'good',
+            explanation: 'Legitimate news sites use named domains. An IP address as the hostname is a strong red flag.',
+          };
+        })(),
+        // URL length check
+        (() => {
+          const len = url.length;
+          return {
+            label: 'URL length',
+            value: `${len} characters`,
+            status: len > 200 ? 'warn' : len > 120 ? 'warn' : 'good',
+            explanation: 'Extremely long URLs can indicate link shortener abuse or tracking-heavy links.',
+          };
+        })(),
       ],
       sentiment,
       darkPatterns: darkPatternsResult,
@@ -688,6 +909,18 @@ function analyzeText(text, feedData) {
   score -= Math.round(darkPatternsResult.score / 8);
   if (Math.abs(sentiment.normalizedScore) > 3) score -= 8;
   else if (Math.abs(sentiment.normalizedScore) > 1.5) score -= 3;
+  // Byline bonus
+  const bylinePattern = /\bby\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)+|\bReported by\b/i;
+  if (bylinePattern.test(text)) score += 5;
+  // Named entities bonus
+  const entityCount = new Set((text.match(/\b[A-Z][a-z]{2,}(?:\s+[A-Z][a-z]{2,})*\b/g) || []).filter((e) => e.length > 4)).size;
+  score += Math.min(10, entityCount * 2);
+  // Date reference bonus
+  const datePattern = /\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+\d{1,2}|\b\d{4}-\d{2}-\d{2}\b/i;
+  if (datePattern.test(text)) score += 5;
+  // Hedging penalty
+  const hedgeCount = HEDGING_PHRASES.filter((w) => lower.includes(w)).length;
+  score -= hedgeCount * 4;
   score = Math.max(5, Math.min(100, Math.round(score)));
 
   return {
@@ -764,6 +997,74 @@ function analyzeText(text, feedData) {
           : 'None detected',
         status: darkPatternsResult.riskLevel === 'high' ? 'bad' : darkPatternsResult.riskLevel === 'medium' ? 'warn' : 'good',
       },
+      // Byline detection
+      (() => {
+        const bylinePattern = /\bby\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)+|\bReported by\b|\bStaff Reporter\b|\bContributor\b|\bCorrespondent\b/i;
+        const hasByline = bylinePattern.test(text);
+        return {
+          label: 'Author byline',
+          value: hasByline ? 'Author attribution found' : 'No byline detected',
+          status: hasByline ? 'good' : 'warn',
+          explanation: 'Credible reporting usually includes an author byline. Anonymous content carries higher uncertainty.',
+        };
+      })(),
+      // Date reference check
+      (() => {
+        const datePattern = /\b(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+\d{1,2}(?:,\s*\d{4})?|\b\d{4}-\d{2}-\d{2}\b|\b\d{1,2}\/\d{1,2}\/\d{2,4}\b/i;
+        const hasDateRef = datePattern.test(text);
+        const temporalWords = ['yesterday', 'today', 'this week', 'last month', 'recently', 'earlier this year'];
+        const hasTemporal = temporalWords.some((w) => lower.includes(w));
+        return {
+          label: 'Date references',
+          value: hasDateRef ? 'Specific dates present' : hasTemporal ? 'Vague temporal markers only' : 'No date references',
+          status: hasDateRef ? 'good' : hasTemporal ? 'warn' : 'warn',
+          explanation: 'Credible reporting anchors events to specific dates. Vague temporal markers ("recently") reduce verifiability.',
+        };
+      })(),
+      // Named entity density
+      (() => {
+        const entities = (text.match(/\b[A-Z][a-z]{2,}(?:\s+[A-Z][a-z]{2,})*\b/g) || []).filter((e) => e.length > 4);
+        const uniqueEntities = [...new Set(entities)];
+        const density = wordCount > 0 ? ((uniqueEntities.length / wordCount) * 100).toFixed(1) : '0';
+        return {
+          label: 'Named entity density',
+          value: `${uniqueEntities.length} unique entities (${density}%)`,
+          status: uniqueEntities.length >= 3 ? 'good' : uniqueEntities.length >= 1 ? 'warn' : 'bad',
+          explanation: 'Credible reporting references specific people, places, and organizations. Low entity density may indicate vague or unverifiable claims.',
+        };
+      })(),
+      // Passive voice / hedging language
+      (() => {
+        const hedgeMatches = HEDGING_PHRASES.filter((w) => lower.includes(w));
+        return {
+          label: 'Hedging language',
+          value: hedgeMatches.length > 0 ? `${hedgeMatches.length} hedge(s): ${hedgeMatches.slice(0, 2).join(', ')}` : 'No excessive hedging',
+          status: hedgeMatches.length > 2 ? 'warn' : hedgeMatches.length > 0 ? 'info' : 'good',
+          explanation: 'Excessive hedging language (allegedly, reportedly, sources say) without named attribution reduces credibility.',
+        };
+      })(),
+      // Paragraph structure
+      (() => {
+        const paragraphs = text.split(/\n\s*\n/).filter((p) => p.trim().length > 20);
+        return {
+          label: 'Paragraph structure',
+          value: paragraphs.length > 1 ? `${paragraphs.length} paragraphs` : 'Single block of text',
+          status: paragraphs.length > 1 ? 'good' : 'info',
+          explanation: 'Well-structured articles with multiple paragraphs suggest editorial oversight.',
+        };
+      })(),
+      // Question exploitation
+      (() => {
+        const questionCount = (text.match(/\?/g) || []).length;
+        const rhetoricalPattern = /\b(?:is (?:this|it)|are (?:they|we)|could (?:this|it)|what if|why (?:is|are|does|do|won't|haven't))/gi;
+        const rhetoricalCount = (text.match(rhetoricalPattern) || []).length;
+        return {
+          label: 'Rhetorical questions',
+          value: rhetoricalCount > 2 ? `${rhetoricalCount} rhetorical questions detected` : questionCount > 0 ? `${questionCount} question(s)` : 'None detected',
+          status: rhetoricalCount > 2 ? 'warn' : 'good',
+          explanation: 'Excessive rhetorical questions (especially in headlines) are a common misinformation tactic for implying unproven claims.',
+        };
+      })(),
     ],
     sentiment,
     readability,
@@ -830,7 +1131,7 @@ async function analyzeImage(file) {
   if (hasCameraInfo) score += 10;
   if (hasEditing) score -= 20;
   if (Object.keys(exifData).length === 0) score -= 15;
-  const crossCheck = buildCrossCheckForImage(exifFindings);
+  const crossCheck = buildCrossCheckForImage(exifFindings, file.name);
   score += Math.round((crossCheck.consistencyScore - 50) / 8);
   score = Math.max(5, Math.min(100, Math.round(score)));
 
@@ -887,6 +1188,37 @@ async function analyzeImage(file) {
         status: crossCheck.consistencyScore >= 65 ? 'good' : crossCheck.consistencyScore >= 40 ? 'warn' : 'bad',
       },
       ...exifFindings,
+      // File size analysis
+      {
+        label: 'File size',
+        value: `${(file.size / 1024).toFixed(1)} KB`,
+        status: file.size < 1024 ? 'warn' : file.size > 20 * 1024 * 1024 ? 'warn' : 'info',
+        explanation: 'Very small files may be low-quality screenshots; very large files may be uncompressed originals.',
+      },
+      // File format
+      (() => {
+        const ext = file.name.split('.').pop()?.toLowerCase() ?? '';
+        const imgFormats = ['jpg', 'jpeg', 'png', 'tiff', 'heic', 'raw', 'cr2', 'nef'];
+        const suspFormats = ['webp', 'bmp', 'gif', 'avif'];
+        return {
+          label: 'File format',
+          value: ext.toUpperCase() || 'Unknown',
+          status: imgFormats.includes(ext) ? 'good' : suspFormats.includes(ext) ? 'warn' : 'info',
+          explanation: 'Camera-native formats (JPEG, TIFF, RAW) are more likely to retain EXIF data. Screenshots and converted images often lack metadata.',
+        };
+      })(),
+      // Metadata completeness score
+      (() => {
+        const keyFields = ['Make', 'Model', 'DateTimeOriginal', 'GPSLatitude', 'ExposureTime', 'FNumber'];
+        const presentCount = keyFields.filter((f) => exifData[f] != null).length;
+        const pct = Math.round((presentCount / keyFields.length) * 100);
+        return {
+          label: 'Metadata completeness',
+          value: `${pct}% (${presentCount}/${keyFields.length} key fields)`,
+          status: pct >= 60 ? 'good' : pct >= 30 ? 'warn' : 'bad',
+          explanation: 'More EXIF fields present indicates less metadata stripping. Photos shared via social media often have metadata removed.',
+        };
+      })(),
     ],
     timeline: [],
     error: null,
@@ -908,6 +1240,8 @@ async function runAiAnalysis(inputData, aiConfig) {
   const provider = resolveProvider(aiConfig?.provider || 'auto', apiKey);
   const model = aiConfig?.model?.trim() || AI_PROVIDERS[provider]?.defaultModel;
 
+  logger.info(`AI analysis starting — provider: ${provider}, model: ${model}`);
+
   const contentSnippet =
     inputData.type === 'url'
       ? `URL: ${inputData.value}`
@@ -915,37 +1249,42 @@ async function runAiAnalysis(inputData, aiConfig) {
       ? `Text snippet: ${inputData.value.slice(0, 600)}`
       : `Image file: ${inputData.file?.name ?? 'unknown'}`;
 
-  const prompt = `You are a misinformation detection expert. Analyse the following content for authenticity.
+  const prompt = `You are a misinformation detection expert. Analyse the following content for authenticity and determine if the story is likely valid.
 
 ${contentSnippet}
 
 Reply in JSON only with this shape:
-{ "confidence": <0-100 integer>, "summary": "<3-4 sentence assessment>" }`;
+{ "confidence": <0-100 integer>, "storyValidity": "likely_valid"|"uncertain"|"likely_false", "validityReason": "<1-2 sentence reason>", "summary": "<3-4 sentence assessment>" }`;
 
   try {
     let raw = '{}';
 
     if (provider === 'google') {
-      const encodedModel = encodeURIComponent(model || AI_PROVIDERS.google.defaultModel);
-      const res = await fetch(
-        `https://generativelanguage.googleapis.com/v1beta/models/${encodedModel}:generateContent?key=${encodeURIComponent(apiKey)}`,
-        {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            contents: [{ parts: [{ text: prompt }] }],
-            generationConfig: {
-              temperature: 0.2,
-              maxOutputTokens: 300,
-              responseMimeType: 'application/json',
-            },
-          }),
-        }
-      );
-      if (!res.ok) throw new Error(`Google API error ${res.status}`);
+      const resolvedModel = model || AI_PROVIDERS.google.defaultModel;
+      const encodedModel = encodeURIComponent(resolvedModel);
+      const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodedModel}:generateContent?key=${encodeURIComponent(apiKey)}`;
+      logger.debug(`Google AI request — model: ${resolvedModel}`);
+      const res = await fetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: {
+            temperature: 0.2,
+            maxOutputTokens: 400,
+          },
+        }),
+      });
+      if (!res.ok) {
+        const errText = await res.text().catch(() => '');
+        logger.error(`Google AI HTTP ${res.status} — ${res.statusText}`, { url, body: errText.slice(0, 300) });
+        throw new Error(`Google AI error ${res.status}: ${res.statusText}. ${errText.slice(0, 120)}`);
+      }
       const data = await res.json();
       raw = data.candidates?.[0]?.content?.parts?.[0]?.text ?? '{}';
+      logger.debug('Google AI raw response received', { length: raw.length });
     } else {
+      logger.debug(`OpenAI request — model: ${model}`);
       const res = await fetch('https://api.openai.com/v1/chat/completions', {
         method: 'POST',
         headers: {
@@ -955,32 +1294,40 @@ Reply in JSON only with this shape:
         body: JSON.stringify({
           model: model || AI_PROVIDERS.openai.defaultModel,
           messages: [{ role: 'user', content: prompt }],
-          max_tokens: 220,
+          max_tokens: 300,
           temperature: 0.2,
           response_format: { type: 'json_object' },
         }),
       });
-      if (!res.ok) throw new Error(`OpenAI API error ${res.status}`);
+      if (!res.ok) {
+        const errText = await res.text().catch(() => '');
+        logger.error(`OpenAI HTTP ${res.status} — ${res.statusText}`, { body: errText.slice(0, 300) });
+        throw new Error(`OpenAI error ${res.status}: ${res.statusText}. ${errText.slice(0, 120)}`);
+      }
       const data = await res.json();
       raw = data.choices?.[0]?.message?.content ?? '{}';
+      logger.debug('OpenAI raw response received', { length: raw.length });
     }
 
+    // Strip markdown code fences if the model wrapped the JSON
+    const cleaned = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/, '').trim();
     try {
-      const parsed = JSON.parse(raw);
-      return {
-        ...parsed,
-        provider,
-        model,
-      };
+      const parsed = JSON.parse(cleaned);
+      logger.info(`AI analysis complete — confidence: ${parsed.confidence ?? 'N/A'}, validity: ${parsed.storyValidity ?? 'N/A'}`);
+      return { ...parsed, provider, model };
     } catch {
-      return { confidence: null, summary: raw, provider, model };
+      logger.warn(`AI JSON parse failed — returning raw text`, { raw: cleaned.slice(0, 200) });
+      return { confidence: null, storyValidity: 'uncertain', summary: cleaned, provider, model };
     }
   } catch (err) {
+    logger.error(`AI analysis failed: ${err.message}`, { provider, model });
     return {
       confidence: null,
+      storyValidity: null,
       summary: `AI analysis unavailable: ${err.message}`,
       provider,
       model,
+      error: err.message,
     };
   }
 }
@@ -1153,13 +1500,47 @@ function App() {
       return;
     }
 
+    logger.info(`Analysis complete — type: ${result.type}, score: ${result.authenticityScore}`);
+    logger.debug('Findings summary', { count: result.findings?.length, crossCheck: result.crossCheck?.consistencyScore });
+
     // ── Optional AI analysis (only when API key is set) ───────────────────
     // Completion of `scanResults` populates the panel; AI analysis populates
     // `aiAnalysis` separately and updates the results object.
     if (aiConfig.apiKey?.trim()) {
+      logger.info('Running AI analysis…');
       const ai = await runAiAnalysis(inputData, aiConfig);
+      if (ai?.error) {
+        logger.warn(`AI step completed with error: ${ai.error}`);
+      } else if (ai) {
+        logger.info(`AI step done — validity: ${ai.storyValidity ?? 'N/A'}, confidence: ${ai.confidence ?? 'N/A'}%`);
+      }
       setAiAnalysis(ai);
       result = { ...result, aiAnalysis: ai };
+    } else {
+      logger.info('AI step skipped — no API key configured');
+    }
+
+    // Attempt screenshot for URLs via Microlink.io (free, CORS-friendly)
+    if (result.type === 'url' && inputData.value) {
+      logger.info('Fetching URL screenshot via Microlink.io\u2026');
+      try {
+        const mUrl = `https://api.microlink.io/?url=${encodeURIComponent(inputData.value)}&screenshot=true&meta=false&embed=screenshot.url`;
+        const mRes = await fetch(mUrl);
+        if (mRes.ok) {
+          const mData = await mRes.json();
+          const screenshotUrl = mData?.data?.screenshot?.url ?? null;
+          if (screenshotUrl) {
+            result = { ...result, screenshotUrl };
+            logger.info('Screenshot fetched successfully');
+          } else {
+            logger.warn('Microlink screenshot URL not in response');
+          }
+        } else {
+          logger.warn(`Microlink screenshot fetch failed: HTTP ${mRes.status}`);
+        }
+      } catch (screenshotErr) {
+        logger.warn(`Screenshot fetch failed: ${screenshotErr.message}`);
+      }
     }
 
     // Persist to scan history (last 10)

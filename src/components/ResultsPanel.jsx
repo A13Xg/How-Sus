@@ -30,6 +30,22 @@ import ExpandablePanel from './ExpandablePanel';
 import AnimatedProgressBar from './AnimatedProgressBar';
 import './ResultsPanel.css';
 
+// ─── URL safety helper ────────────────────────────────────────────────────
+// Only allow http/https URLs to prevent XSS via javascript: or data: schemes.
+// Returns the URL parser's reconstructed href (not the original string) to
+// ensure the value passed to href/src attributes is untainted.
+function safeUrl(url) {
+  if (!url) return null;
+  try {
+    const parsed = new URL(url);
+    if (parsed.protocol !== 'https:' && parsed.protocol !== 'http:') return null;
+    // Return the canonicalised href from the URL object, not the raw input
+    return parsed.href;
+  } catch {
+    return null;
+  }
+}
+
 // ─── Score colour helper ───────────────────────────────────────────────────
 function scoreColor(score) {
   if (score >= 70) return '#10b981';
@@ -68,6 +84,16 @@ function MetricDetailModal({ metric, onClose }) {
           <ul className="metric-signals">
             {metric.signals.map((s, i) => <li key={i}>{s}</li>)}
           </ul>
+        )}
+        {metric.searchUrl && (
+          <a
+            href={safeUrl(metric.searchUrl)}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="metric-search-link"
+          >
+            🔍 Search this claim
+          </a>
         )}
       </motion.div>
     </div>
@@ -273,20 +299,26 @@ function metricDetailsFromDuplicate(duplicate) {
 
 function metricDetailsFromCrossCheck(entry, type, crossCheck) {
   const tierLabels = { 1: 'Tier 1 — Wire service / Public broadcaster', 2: 'Tier 2 — Major outlet', 3: 'Tier 3 — Unknown / Aggregator' };
+  const signals = [
+    `Claim: ${entry.claim}`,
+    `Confidence: ${entry.confidence}%`,
+    `Trust tier: ${tierLabels[entry.tier] || tierLabels[3]}`,
+    `Methodology: ${crossCheck?.methodology || 'N/A'}`,
+    `Note: ${entry.note || 'N/A'}`,
+  ];
+  if (entry.matchedText) signals.push(`Matched text: ${entry.matchedText}`);
+  if (entry.evidence?.length) {
+    entry.evidence.forEach((ev) => signals.push(`\u25b8 ${ev}`));
+  }
   return {
-    title: `${type === 'corroborating' ? 'Corroborating' : 'Conflicting'} source: ${entry.source}`,
+    title: `${type === 'corroborating' ? '\u2705 Corroborating' : '\u26a0 Conflicting'} \u2014 ${entry.source}`,
     value: `${entry.confidence}% confidence`,
     explanation:
       type === 'corroborating'
-        ? 'This source aligned with major claims from the scanned content.'
+        ? 'This source aligned with major claims from the scanned content based on signal analysis.'
         : 'This source diverged from major claims and may indicate contradictions or omitted context.',
-    signals: [
-      `Claim: ${entry.claim}`,
-      `Confidence: ${entry.confidence}%`,
-      `Trust tier: ${tierLabels[entry.tier] || tierLabels[3]}`,
-      `Methodology: ${crossCheck?.methodology || 'N/A'}`,
-      `Note: ${entry.note || 'N/A'}`,
-    ],
+    signals,
+    searchUrl: entry.searchUrl || null,
   };
 }
 
@@ -1096,6 +1128,11 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
                           <span>{entry.confidence}%</span>
                         </div>
                         <p>{entry.claim}</p>
+                        {entry.matchedText && (
+                          <p className="cross-check-matched-text">
+                            <span className="matched-text-label">Matched:</span> {entry.matchedText}
+                          </p>
+                        )}
                         <button
                           type="button"
                           className="metric-info-btn"
@@ -1104,6 +1141,17 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
                         >
                           Details
                         </button>
+                        {entry.searchUrl && (
+                          <a
+                            href={safeUrl(entry.searchUrl)}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="cross-check-search-link"
+                            aria-label={`Search for claim about ${entry.source}`}
+                          >
+                            🔍 Search
+                          </a>
+                        )}
                       </li>
                     ))}
                   </ul>
@@ -1123,6 +1171,11 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
                           <span>{entry.confidence}%</span>
                         </div>
                         <p>{entry.claim}</p>
+                        {entry.matchedText && (
+                          <p className="cross-check-matched-text">
+                            <span className="matched-text-label">Matched:</span> {entry.matchedText}
+                          </p>
+                        )}
                         <button
                           type="button"
                           className="metric-info-btn"
@@ -1131,6 +1184,17 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
                         >
                           Details
                         </button>
+                        {entry.searchUrl && (
+                          <a
+                            href={safeUrl(entry.searchUrl)}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="cross-check-search-link"
+                            aria-label={`Search for claim about ${entry.source}`}
+                          >
+                            🔍 Search
+                          </a>
+                        )}
                       </li>
                     ))}
                   </ul>
@@ -1159,6 +1223,50 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
                 </ul>
               </div>
             )}
+          </ExpandablePanel>
+        )}
+
+        {/* ── URL screenshot (expandable — url type only) ─────────── */}
+        {results.type === 'url' && results.screenshotUrl && (
+          <ExpandablePanel
+            title="Page Screenshot"
+            icon="🖼"
+            id="screenshot"
+          >
+            <div className="screenshot-section">
+              <img
+                src={safeUrl(results.screenshotUrl) ?? ''}
+                alt={`Screenshot of ${results.domain}`}
+                className="page-screenshot"
+                loading="lazy"
+              />
+              <p className="screenshot-caption">
+                Screenshot captured via{' '}
+                <a href="https://microlink.io" target="_blank" rel="noreferrer noopener">Microlink.io</a>
+                {' '}at scan time
+              </p>
+            </div>
+          </ExpandablePanel>
+        )}
+        {/* Screenshot fallback notice */}
+        {results.type === 'url' && !results.screenshotUrl && (
+          <ExpandablePanel
+            title="Page Screenshot"
+            icon="🖼"
+            id="screenshot-na"
+          >
+            <div className="screenshot-unavailable">
+              <p>📵 Screenshot unavailable — the Microlink.io free screenshot service could not capture this URL, or rate limit was reached.</p>
+              <p>
+                <a href={`https://www.screenshotmachine.com?url=${encodeURIComponent(results.domain ? `https://${results.domain}` : '')}`} target="_blank" rel="noreferrer noopener">
+                  Try Screenshot Machine ↗
+                </a>
+                {' '}or{' '}
+                <a href={`https://web.archive.org/web/*/${results.domain ? `https://${results.domain}` : ''}`} target="_blank" rel="noreferrer noopener">
+                  View in Wayback Machine ↗
+                </a>
+              </p>
+            </div>
           </ExpandablePanel>
         )}
 
@@ -1206,12 +1314,40 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
                       </button>
                     </div>
                   )}
+                  {results.aiAnalysis.storyValidity && (
+                    <div className="ai-validity-badge-row">
+                      <span className="summary-key">Story validity</span>
+                      <span className={`ai-validity-badge ${results.aiAnalysis.storyValidity}`}>
+                        {results.aiAnalysis.storyValidity === 'likely_valid' ? '✅ Likely Valid'
+                          : results.aiAnalysis.storyValidity === 'likely_false' ? '❌ Likely False'
+                          : '⚠ Uncertain'}
+                      </span>
+                      {results.aiAnalysis.validityReason && (
+                        <p className="ai-validity-reason">{results.aiAnalysis.validityReason}</p>
+                      )}
+                    </div>
+                  )}
                   {results.aiAnalysis.summary && <p className="ai-summary">{results.aiAnalysis.summary}</p>}
                 </>
               ) : (
                 <p className="ai-summary">{results.aiAnalysis}</p>
               )}
             </motion.div>
+          </ExpandablePanel>
+        )}
+        {/* ── AI validity section (shown when AI was run or as placeholder) ── */}
+        {!results.aiAnalysis && (
+          <ExpandablePanel
+            title="AI Story Validity"
+            icon="🤖"
+            id="ai-placeholder"
+          >
+            <div className="ai-skipped-notice">
+              <p>🔑 No AI API key configured — AI story validity check was skipped.</p>
+              <p style={{ fontSize: '0.82rem', color: 'var(--text-muted)', marginTop: 6 }}>
+                Add an OpenAI or Google Gemini API key in the header to enable AI-powered story validity analysis.
+              </p>
+            </div>
           </ExpandablePanel>
         )}
         {/* ── Scan history ─────────────────────────────────────────── */}
