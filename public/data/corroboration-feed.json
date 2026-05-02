@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T12:43:38.195Z",
+  "generatedAt": "2026-05-02T01:08:14.169Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,42 +32,66 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 22:35:07 GMT",
+      "snippet": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 02 May 2026 00:41:43 GMT",
+      "snippet": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
       "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 08:41:52 GMT",
+      "publishedAt": "Fri, 01 May 2026 13:12:10 GMT",
       "snippet": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
-      "link": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 11:05:14 GMT",
-      "snippet": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
+      "title": "Australia wants to become the first country to eliminate a cancer - can it?",
+      "link": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 19:30:36 GMT",
+      "snippet": "For the first time, Australia has recorded no new cervical cancer diganoses in women under 25.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Violence in Australian town after arrest of man over girl's murder",
-      "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 04:08:19 GMT",
-      "snippet": "Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated.",
+      "title": "Who shot a Secret Service officer at the Trump press dinner?",
+      "link": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 21:44:05 GMT",
+      "snippet": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
-      "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 05:04:08 GMT",
-      "snippet": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last year.",
+      "title": "French PM fuels row with trip to buy baguettes",
+      "link": "https://www.bbc.com/news/articles/czx2rnk9y9go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 17:59:34 GMT",
+      "snippet": "Sébastien Lecornu visited a boulangerie on Labour Day, defying unions who say 1 May must remain a mandatory rest day.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
-      "link": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 10:12:57 GMT",
-      "snippet": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
+      "title": "US court limits mail-order access to abortion pill mifepristone",
+      "link": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 23:29:05 GMT",
+      "snippet": "The court decision curbs access to the drug used in medication abortions, which is currently the most common method for the procedure in the US.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
+      "link": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 15:12:14 GMT",
+      "snippet": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
       "tier": 1
     },
     {
@@ -80,10 +104,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
-      "link": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 05:58:20 GMT",
-      "snippet": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
+      "title": "Turkish police arrest more than 500 people at May Day rallies",
+      "link": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 16:14:58 GMT",
+      "snippet": "Turkey sees significant police deployments on 1 May each year, when marches led by workers and unions are held.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli police arrest man after nun attacked in Jerusalem",
+      "link": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 17:03:11 GMT",
+      "snippet": "The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewish extremists.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+      "link": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 10:12:57 GMT",
+      "snippet": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared",
+      "link": "https://www.bbc.com/news/articles/cd6pv55y51wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 17:23:42 GMT",
+      "snippet": "The former One Direction singer has taken to Instagram to update fans as he cuts his world tour dates",
       "tier": 1
     },
     {
@@ -96,9 +144,33 @@
     },
     {
       "source": "BBC World",
+      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+      "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 05:04:08 GMT",
+      "snippet": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last year.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "link": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 05:58:20 GMT",
+      "snippet": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Violence in Australian town after arrest of man over girl's murder",
+      "link": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 01 May 2026 04:08:19 GMT",
+      "snippet": "Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
       "link": "https://www.bbc.com/news/articles/clyprzx10w2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 09:37:26 GMT",
+      "publishedAt": "Fri, 01 May 2026 14:47:46 GMT",
       "snippet": "The former leader has not responded to US accusations that he is aiming to destabilise the government.",
       "tier": 1
     },
@@ -119,75 +191,51 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Britney Spears charged in California with driving under influence",
-      "link": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 30 Apr 2026 21:46:18 GMT",
-      "snippet": "The pop star is facing one misdemeanour count of driving under the influence of any alcohol and drug.",
+      "source": "NPR News",
+      "title": "Court restricts abortion access across the US by blocking the mailing of mifepristone",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone",
+      "publishedAt": "Fri, 01 May 2026 18:40:12 -0400",
+      "snippet": "A federal appeals court has restricted access to one of the most common means of abortion in the U.S. by blocking the mailing of mifepristone.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 30 Apr 2026 18:05:26 GMT",
-      "snippet": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "source": "NPR News",
+      "title": "AI robot tech bros dogs run wild in Berlin gallery",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5795427/a-pack-of-ai-controlled-robotic-dogs-berlin",
+      "publishedAt": "Fri, 01 May 2026 17:22:45 -0400",
+      "snippet": "In Germany, robotic AI dogs with the faces of tech&apos;s most powerful men are on the loose — courtesy of American artist Beeple.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Venice Biennale jury resigns days before start of top art exhibition",
-      "link": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 30 Apr 2026 23:44:00 GMT",
-      "snippet": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
+      "source": "NPR News",
+      "title": "Iran war shakes Global economy as energy costs surge and recession fears grow",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5801826/the-global-economic-impact-of-war-from-energy-markets-to-everyday-prices",
+      "publishedAt": "Fri, 01 May 2026 17:18:48 -0400",
+      "snippet": "From energy markets to everyday prices, the fallout from the Iran war is reshaping the global economy.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Vonn still in 'survival mode' after Olympic crash",
-      "link": "https://www.bbc.com/sport/articles/cn0pd29x2ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 09:03:53 GMT",
-      "snippet": "American skiing great Lindsey Vonn says she is still \"too emotional\" to make a decision on her future career as she faces at least 18 months of recuperation.",
+      "source": "NPR News",
+      "title": "Kneecap is used to controversy. On new album &apos;Fenian,&apos; they&apos;re leaning further in",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5692750/kneecap-fenian-album-hip-hop",
+      "publishedAt": "Fri, 01 May 2026 11:30:08 -0400",
+      "snippet": "NPR&apos;s Juana Summers talks with Mo Chara and Móglaí Bap of the Irish hip-hop trio Kneecap about their new album Fenian .",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Former Chick-fil-A employee charged in $80,000 mac-and-cheese scheme",
-      "link": "https://www.bbc.com/news/articles/c87q0vlwvlpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 04:11:50 GMT",
-      "snippet": "The Texas man allegedly refunded the orders of hundreds of catering-sized mac-and-cheese trays to his personal credit cards.",
+      "source": "NPR News",
+      "title": "Several states — and the LA public schools — are setting limits on screen time",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5791657/states-schools-restricting-screen-time",
+      "publishedAt": "Fri, 01 May 2026 10:06:40 -0400",
+      "snippet": "Four states have recently passed legislation to limit teaching and assessments via screens for students. So has the United States&apos; second-largest school district.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Trainee driver crashes bus into River Seine",
-      "link": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 30 Apr 2026 15:34:09 GMT",
-      "snippet": "The driver hit a parked car and veered off the road into the river - about 12 miles south of Paris - early on Thursday.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
-      "link": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 08:12:04 GMT",
-      "snippet": "Seventeen people - including two children - were killed, according to Lebanon's health ministry.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Belgium plans to nationalise nuclear power plants",
-      "link": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 30 Apr 2026 19:50:29 GMT",
-      "snippet": "Prime Minister Bart De Wever said the move would see \"less dependence on fossil fuel imports and more control over our own supply\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump signs bill to end record shutdown over immigration enforcement",
-      "link": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 02:21:47 GMT",
-      "snippet": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
+      "source": "NPR News",
+      "title": "The expert on &apos;super aging&apos; breaks down the science — and grift — in anti-aging",
+      "link": "https://www.npr.org/2026/05/01/nx-s1-5770418/expert-super-aging-science-anti-aging",
+      "publishedAt": "Fri, 01 May 2026 09:59:51 -0400",
+      "snippet": "From peptides and protein to sleep hygiene and vaccines, what actually helps you age well? Physician Eric Topol breaks down the science — and the myths — of longevity and anti-aging.",
       "tier": 1
     },
     {
@@ -223,51 +271,155 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "How to talk to boys about looksmaxxing",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5795549/looksmaxxing-teen-boys-clavicular",
-      "publishedAt": "Fri, 01 May 2026 05:01:00 -0400",
-      "snippet": "The trend among boys and young men of optimizing their physical appearance includes dangerous practices. Experts offer advice on how to talk to their sons about body image and healthy behaviors.",
+      "source": "PBS Headlines",
+      "title": "Trump rejects Iran's latest proposal as he reviews new military options to relaunch war",
+      "link": "https://www.pbs.org/newshour/show/trump-rejects-irans-latest-proposal-as-he-reviews-new-military-options-to-relaunch-war",
+      "publishedAt": "Fri, 01 May 2026 18:55:40 -0400",
+      "snippet": "It has been 60 days since the Iran war began, which means Friday is a legal deadline for the Trump administration to seek congressional authorization. But the White House informed Congress that it didn't need approval because the war had been \"terminated\" during the current cease",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "It&apos;s Day 1 of Medicaid work requirements in Nebraska. People are worried",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5806260/trump-medicaid-work-requirements-nebraska-big-beautiful-bill-hr1-obbba",
-      "publishedAt": "Fri, 01 May 2026 05:00:00 -0400",
-      "snippet": "Starting May 1, many people covered by Medicaid in Nebraska have to prove they are working. It&apos;s a requirement most states will have to implement under President Trump&apos;s budget law, beginning in January.",
+      "source": "PBS Headlines",
+      "title": "New video of Correspondents' Dinner shooting raises questions about presidential security",
+      "link": "https://www.pbs.org/newshour/show/new-video-of-correspondents-dinner-shooting-raises-questions-about-presidential-security",
+      "publishedAt": "Fri, 01 May 2026 18:50:16 -0400",
+      "snippet": "The Justice Department has released video showing the moment an armed man stormed past security at the White House Correspondents' Dinner. The incident is raising serious questions about security surrounding the president at high-profile public events. Geoff Bennett speaks with J",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "&apos;Decimate&apos; means much more today than it did in ancient Rome",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5775464/decimate-ancient-rome-punishment-trump",
-      "publishedAt": "Fri, 01 May 2026 05:00:00 -0400",
-      "snippet": "Today, most people know the word as a synonym for \"destroy.\" But fewer realize its origins — or that it&apos;s come to mean something strikingly different than it once did.",
+      "source": "PBS Headlines",
+      "title": "News Wrap: Trump announces 25% tariffs on cars and trucks from the EU",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-trump-announces-25-tariffs-on-cars-and-trucks-from-the-eu",
+      "publishedAt": "Fri, 01 May 2026 18:45:14 -0400",
+      "snippet": "In our news wrap Friday, Trump says he's raising tariffs next week on cars and trucks from the EU, the Pentagon says it has made deals with seven major tech companies to use their AI tools, a former Miami congressman with ties to Rubio was convicted of secretly lobbying for Venez",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Nationwide May Day protests expected to pick up mantle of &apos;No Kings&apos;",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5805805/may-day-protests-boycott-schools-trump",
-      "publishedAt": "Fri, 01 May 2026 05:00:00 -0400",
-      "snippet": "The protest organizers are calling for a boycott of work, school and shopping to protest Trump administration policies and what activists describe as a billionaire takeover of government.",
+      "source": "PBS Headlines",
+      "title": "Which states to watch as the battle for Senate control heats up ahead of 2026 midterms",
+      "link": "https://www.pbs.org/newshour/show/which-states-to-watch-as-the-battle-for-senate-control-heats-up-ahead-of-2026-midterms",
+      "publishedAt": "Fri, 01 May 2026 18:40:59 -0400",
+      "snippet": "A total of 35 Senate seats will be on the ballot this November, with only 11 rated as remotely competitive by the Cook Political Report with Amy Walter. Republicans are on defense in more of those seats than Democrats, but Democrats need a longshot sweep to take control of the ch",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Passenger railroads see a sharp jump in ridership as gas prices climb",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5801525/gas-prices-rail-ridership-jumps",
-      "publishedAt": "Fri, 01 May 2026 05:00:00 -0400",
-      "snippet": "More Americans are turning to the train as gas prices reach their highest point since the war in Iran began. Brightline, the privately-run railroad in Florida, had its best month ever in March.",
+      "source": "PBS Headlines",
+      "title": "Brooks and Capehart on fallout from the White House Correspondents' Dinner shooting",
+      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-fallout-from-the-white-house-correspondents-dinner-shooting",
+      "publishedAt": "Fri, 01 May 2026 18:35:53 -0400",
+      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including fallout from the third alleged assassination attempt on Trump, another indictment of a former FBI director and a consequential Supreme Court ruling.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/05/01/nx-s1-5798791/morning-news-brief",
-      "publishedAt": "Fri, 01 May 2026 04:44:38 -0400",
-      "snippet": "Negotiations between the U.S. and Iran at a stalemate, Congress votes to end record DHS shutdown, Trump announces new nominee for surgeon general.",
+      "source": "PBS Headlines",
+      "title": "Palestinian and Israeli writers reflect on bridging divides in 'The Future is Peace'",
+      "link": "https://www.pbs.org/newshour/show/palestinian-and-israeli-writers-reflect-on-bridging-divides-in-the-future-is-peace",
+      "publishedAt": "Fri, 01 May 2026 18:30:45 -0400",
+      "snippet": "The Oct. 7 terrorist attack in Israel, and the war in Gaza that followed, have left countless families grappling with profound loss. Two men, one Israeli, the other Palestinian, tell the story of their unexpected journey toward understanding and reconciliation in a new book, \"The",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "New PBS series explores the often-overlooked history of American Muslims",
+      "link": "https://www.pbs.org/newshour/show/new-pbs-series-explores-the-often-overlooked-history-of-american-muslims",
+      "publishedAt": "Fri, 01 May 2026 18:25:25 -0400",
+      "snippet": "Starting this weekend, a new series on PBS dives into the early history of Muslims in the United States. The six-part documentary, \"American Muslims: A History Revealed,\" looks at notable figures and communities spanning more than 200 years. Geoff Bennett speaks with Asma Khalid ",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Court restricts abortion access across U.S. by blocking the mailing of mifepristone",
+      "link": "https://www.pbs.org/newshour/health/court-restricts-abortion-access-across-u-s-by-blocking-the-mailing-of-mifepristone",
+      "publishedAt": "Fri, 01 May 2026 18:17:52 -0400",
+      "snippet": "A panel of the New Orleans-based 5th U.S. Circuit Court of Appeals is requiring that the abortion pill be distributed only in-person at clinics.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Trump says a 'final proposal' to rescue Spirit Airlines is under consideration",
+      "link": "https://www.pbs.org/newshour/economy/trump-says-a-final-proposal-to-rescue-spirit-airlines-is-under-consideration",
+      "publishedAt": "Fri, 01 May 2026 17:11:25 -0400",
+      "snippet": "Speaking to reporters before departing the White House for Florida, Trump emphasized that a deal to rescue the financially strapped airline remained under review. The president did not provide details but said an announcement could come as soon as later Friday or Saturday.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Pope Leo names priest who criticized Trump's immigration crackdown as West Virginia bishop",
+      "link": "https://www.pbs.org/newshour/nation/pope-leo-names-priest-who-criticized-trumps-immigration-crackdown-as-west-virginia-bishop",
+      "publishedAt": "Fri, 01 May 2026 16:56:31 -0400",
+      "snippet": "The next bishop for West Virginia Catholics will be an El Salvador-born advocate for immigrants who has opposed U.S. President Donald Trump's immigration crackdown policies.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Trump 'not satisfied' with Iran's proposal to end the war",
+      "link": "https://www.pbs.org/newshour/world/trump-not-satisfied-with-irans-proposal-to-end-the-war",
+      "publishedAt": "Fri, 01 May 2026 16:12:18 -0400",
+      "snippet": "President Donald Trump rejected Iran's latest proposal to end the war between the countries, saying Friday he still was not satisfied while blaming Iran's \"fractured\" leadership.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Trump says deadline for Congress to approve Iran war doesn't apply, claiming hostilities have 'terminated'",
+      "link": "https://www.pbs.org/newshour/politics/trump-says-deadline-for-congress-to-approve-iran-war-doesnt-apply-claiming-hostilities-have-terminated",
+      "publishedAt": "Fri, 01 May 2026 15:45:05 -0400",
+      "snippet": "Yet President Donald Trump also made it clear in a letter to Congress that the war may be far from over.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "WATCH: Trump says he raised tariffs on autos from EU to 25%",
+      "link": "https://www.pbs.org/newshour/world/watch-trump-says-he-raised-tariffs-on-autos-from-eu-to-25",
+      "publishedAt": "Fri, 01 May 2026 15:28:34 -0400",
+      "snippet": "Trump said in a social media post that the EU \"is not complying with our fully agreed to Trade Deal,\" though he did not flesh out his objections in the post.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "WATCH: Correspondents' dinner shooting suspect seen running through security in surveillance footage",
+      "link": "https://www.pbs.org/newshour/politics/watch-correspondents-dinner-shooting-suspect-seen-running-through-security-in-surveillance-footage",
+      "publishedAt": "Fri, 01 May 2026 13:21:56 -0400",
+      "snippet": "Federal prosecutors released a video Thursday showing the moment authorities say a man armed with guns and knives tried to storm the White House Correspondents' Association dinner and attempt to kill President Donald Trump.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Former congressman David Rivera convicted in case on secret Venezuela lobbying",
+      "link": "https://www.pbs.org/newshour/politics/former-congressman-david-rivera-convicted-in-case-on-secret-venezuela-lobbying",
+      "publishedAt": "Fri, 01 May 2026 12:12:36 -0400",
+      "snippet": "Jurors found Rivera and an associate guilty on all counts, including failing to register as a foreign agent with the Justice Department and conspiracy to commit money laundering as part of their work for former President Nicolás Maduro's government.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "What to know about May Day as workers face rising costs due to Iran war",
+      "link": "https://www.pbs.org/newshour/economy/what-to-know-about-may-day-as-workers-face-rising-costs-due-to-iran-war",
+      "publishedAt": "Fri, 01 May 2026 11:56:59 -0400",
+      "snippet": "Activists worldwide gathered for May Day rallies and street protests Friday, calling for peace, higher wages and better working conditions as many workers grapple with rising energy costs and shrinking purchasing power tied to the Iran war.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Man jailed after being charged with attempted murder in stabbings of Jewish men in London",
+      "link": "https://www.pbs.org/newshour/world/man-jailed-after-being-charged-with-attempted-murder-in-stabbings-of-jewish-men-in-london",
+      "publishedAt": "Fri, 01 May 2026 10:55:01 -0400",
+      "snippet": "A 45-year-old man was charged Friday with attempted murder in the stabbings of two Jewish men in London, the latest in a string of attacks that have sparked fear and anger in Britain's Jewish community.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Profit for the biggest U.S. oil companies declined in 1st quarter &ndash; but only on paper",
+      "link": "https://www.pbs.org/newshour/economy/profit-for-the-biggest-u-s-oil-companies-declined-in-1st-quarter-but-only-on-paper",
+      "publishedAt": "Fri, 01 May 2026 10:28:36 -0400",
+      "snippet": "With energy prices depressed at the start of the year, Exxon Mobil and Chevron had arranged hedges to offset volatility, a standard practice in the industry.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "4 takeaways from Hegseth's hearings on historic defense budget request, Iran war",
+      "link": "https://www.pbs.org/newshour/politics/4-takeaways-from-hegseths-hearings-on-historic-defense-budget-request-iran-war",
+      "publishedAt": "Fri, 01 May 2026 10:15:25 -0400",
+      "snippet": "Defense Secretary Pete Hegseth appeared before Congress at a pair of hourslong hearings this week for the first time since the Trump administration went to war against Iran, with the Pentagon chief facing tough questions from skeptical Democrats.",
       "tier": 1
     },
     {
@@ -279,163 +431,75 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Oil prices surge again as Trump weighs options to end Iran war and Hegseth faces lawmakers",
-      "link": "https://www.pbs.org/newshour/show/oil-prices-surge-again-as-trump-weighs-options-to-end-iran-war-and-hegseth-faces-lawmakers",
-      "publishedAt": "Thu, 30 Apr 2026 18:50:24 -0400",
-      "snippet": "On Thursday, the top U.S. commander in the Middle East briefed Trump on potential military options and the ongoing blockade of the Persian Gulf while talks to end the war with Iran remain at a standstill. Meanwhile, Defense Secretary Hegseth faced more grilling from lawmakers as ",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "News Wrap: Gov. Janet Mills drops out of U.S. Senate race in Maine",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-gov-janet-mills-drops-out-of-u-s-senate-race-in-maine",
-      "publishedAt": "Thu, 30 Apr 2026 18:45:15 -0400",
-      "snippet": "In our news wrap Thursday, Maine Gov. Mills dropped her Senate bid, Camp Mystic in Texas dropped its summer reopening plans, the Secret Service provided new details about the White House Correspondents' Dinner shooting, King Charles and Queen Camilla wrapped up their state visit ",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Rising fuel costs put budget airlines under pressure as Spirit faces bankruptcy",
-      "link": "https://www.pbs.org/newshour/show/rising-fuel-costs-put-budget-airlines-under-pressure-as-spirit-faces-bankruptcy",
-      "publishedAt": "Thu, 30 Apr 2026 18:40:53 -0400",
-      "snippet": "As the war with Iran sends jet fuel prices soaring, several U.S. budget airlines are asking the federal government for a $2.5 billion lifeline. The appeal comes as Spirit Airlines faces potential bankruptcy and is negotiating separately for a $500 million government bailout. Reut",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Germany builds up its military to prepare for a potential future without U.S. support",
-      "link": "https://www.pbs.org/newshour/show/germany-builds-up-its-military-to-prepare-for-a-potential-future-without-u-s-support",
-      "publishedAt": "Thu, 30 Apr 2026 18:35:59 -0400",
-      "snippet": "Despite Trump's repeated threats to withdraw the United States from NATO, Germany's top military officer claims relations with American military leaders are as strong as ever, but he also says that the threat from Russia means Germany's push to strengthen its own armed forces is ",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Fired immigration judge gives inside look at Trump's deportation agenda",
-      "link": "https://www.pbs.org/newshour/show/fired-immigration-judge-gives-inside-look-at-trumps-deportation-agenda",
-      "publishedAt": "Thu, 30 Apr 2026 18:30:13 -0400",
-      "snippet": "Since returning to office, Trump has made sweeping changes to the legal immigration system, including speeding up deportations and tamping down on asylum seekers. The Justice Department has also fired more than 100 sitting immigration judges and is now advertising to hire so-call",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "How new SNAP restrictions on sugary foods and drinks are affecting Texas residents",
-      "link": "https://www.pbs.org/newshour/show/how-new-snap-restrictions-on-sugary-foods-and-drinks-are-affecting-texas-residents",
-      "publishedAt": "Thu, 30 Apr 2026 18:25:10 -0400",
-      "snippet": "This year, 22 states are changing what people who rely on SNAP for food assistance can buy with their benefits. The new rules are meant to cut out sugary foods and drinks, a central focus of the \"Make America Healthy Again\" movement. But advocates fear they could cut down on what",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump signs Homeland Security funding bill, ending record shutdown",
-      "link": "https://www.pbs.org/newshour/politics/trump-signs-homeland-security-funding-bill-ending-record-shutdown",
-      "publishedAt": "Thu, 30 Apr 2026 18:23:49 -0400",
-      "snippet": "DHS has been without routine funds since Feb. 14, causing hardship for workers, though much of Trump's immigration agenda that is central to the dispute is being funded separately.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Gold medal skier Lindsey Vonn opens up about her devastating crash and recovery",
-      "link": "https://www.pbs.org/newshour/show/gold-medal-skier-lindsey-vonn-opens-up-about-her-devastating-crash-and-recovery",
-      "publishedAt": "Thu, 30 Apr 2026 18:20:13 -0400",
-      "snippet": "When she retired in 2019, Lindsey Vonn was already considered one of the greatest U.S. skiers of all time. In 2024, at the age of 40, Vonn returned to the slopes and went on to become the oldest World Cup winner in history. In February, the world watched as her Olympic run in Ita",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "1st direct U.S.-Venezuela commercial flight in 7 years lands in Caracas",
-      "link": "https://www.pbs.org/newshour/world/1st-direct-u-s-venezuela-commercial-flight-in-7-years-lands-in-caracas",
-      "publishedAt": "Thu, 30 Apr 2026 18:18:35 -0400",
-      "snippet": "The resumption of a nonstop commercial flight between the two countries comes months after the U.S. capture of then President Nicolás Maduro in a stunning nighttime raid on his residence in Caracas in early January.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Senate bans members and staff from betting in prediction markets",
-      "link": "https://www.pbs.org/newshour/politics/senate-bans-members-and-staff-from-betting-in-prediction-markets",
-      "publishedAt": "Thu, 30 Apr 2026 18:18:32 -0400",
-      "snippet": "Prediction markets, including the betting platform Polymarket and its chief rival Kalshi, have come under scrutiny as the business has expanded.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Britney Spears charged with driving under the influence of alcohol and drugs",
-      "link": "https://www.pbs.org/newshour/nation/britney-spears-charged-with-driving-under-the-influence-of-alcohol-and-drugs",
-      "publishedAt": "Thu, 30 Apr 2026 17:51:18 -0400",
-      "snippet": "Spears, who has since entered substance abuse treatment, was arrested March 4 after she was pulled over for driving her black BMW fast and erratically on U.S. 101 near her home, the California Highway Patrol said.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Weekly U.S. jobless claims fall to 189,000, lowest in more than five decades",
-      "link": "https://www.pbs.org/newshour/economy/weekly-u-s-jobless-claims-fall-to-189000-lowest-in-more-than-five-decades",
-      "publishedAt": "Thu, 30 Apr 2026 17:33:40 -0400",
-      "snippet": "The number of Americans filing for unemployment benefits tumbled to their lowest level more than 50 years last week despite a number of economic headwinds including the war in Iran.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump says he's lifting certain tariffs on Scotch whisky after royal visit",
-      "link": "https://www.pbs.org/newshour/world/trump-says-hes-lifting-certain-tariffs-on-scotch-whisky-after-royal-visit",
-      "publishedAt": "Thu, 30 Apr 2026 17:13:21 -0400",
-      "snippet": "\"The King and Queen got me to do something that nobody else was able to do, without hardly even asking!\" President Donald Trump posted on social media.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump pulls Casey Means' stalled surgeon general nomination, picks Nicole Saphier instead",
-      "link": "https://www.pbs.org/newshour/politics/trump-pulls-casey-means-stalled-surgeon-general-nomination-picks-nicole-saphier-instead",
-      "publishedAt": "Thu, 30 Apr 2026 16:00:31 -0400",
-      "snippet": "President Donald Trump said Thursday he's nominating former Fox News Channel contributor and radiologist Dr. Nicole Saphier for surgeon general after Dr. Casey Means' path forward stalled in the Senate over questions about her experience and her stance on vaccines.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "U.S. economy grew 2% from January-March, but Iran war clouds outlook",
-      "link": "https://www.pbs.org/newshour/economy/u-s-economy-grew-2-from-january-march-but-iran-war-clouds-outlook",
-      "publishedAt": "Thu, 30 Apr 2026 14:34:46 -0400",
-      "snippet": "\"This is a split-screen economy.\"",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "House approves bill to fund Homeland Security and end the record shutdown",
-      "link": "https://www.pbs.org/newshour/politics/house-approves-bill-to-fund-homeland-security-and-end-the-record-shutdown",
-      "publishedAt": "Thu, 30 Apr 2026 13:46:12 -0400",
-      "snippet": "After weeks of delay, the House voted Thursday to fund much of the Department of Homeland Security, but not its immigration enforcement operations, and sent the bipartisan package to President Donald Trump to sign, ending the longest agency shutdown in history.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Key inflation gauge jumps to highest level in 3 years as Iran war spikes gas prices",
-      "link": "https://www.pbs.org/newshour/economy/key-inflation-gauge-jumps-to-highest-level-in-3-years-as-iran-war-spikes-gas-prices",
-      "publishedAt": "Thu, 30 Apr 2026 12:22:47 -0400",
-      "snippet": "A key inflation measure jumped in March as gas prices soared, the latest sign that the Iran war is pushing up the cost of living and delaying any interest rate cuts by the Federal Reserve.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Iran's supreme leader vows to protect nuclear and missile capabilities",
-      "link": "https://www.pbs.org/newshour/world/irans-supreme-leader-vows-to-protect-nuclear-and-missile-capabilities",
-      "publishedAt": "Thu, 30 Apr 2026 12:00:23 -0400",
-      "snippet": "Iran's supreme leader vowed Thursday in a defiant tone to protect the Islamic Republic's nuclear and missile capabilities, which U.S. President Donald Trump has sought to curtail through airstrikes and as part of a wider deal to cement the war's shaky ceasefire.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Louisiana congressional primaries suspended after Supreme Court ruling, state officials say",
-      "link": "https://www.pbs.org/newshour/politics/louisiana-congressional-primaries-suspended-after-supreme-court-ruling-state-officials-say",
-      "publishedAt": "Thu, 30 Apr 2026 11:32:07 -0400",
-      "snippet": "Early voting had been scheduled to begin Saturday in advance of the May 16 primary.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Can Iran withstand the US naval blockade?",
+      "link": "https://www.dw.com/en/can-iran-withstand-the-us-naval-blockade/a-77014627?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Trump administration is trying to force Iran into concessions by cutting off its oil exports. Will it prevail?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine plans army pay hikes, phased discharge — Zelenskyy",
+      "link": "https://www.dw.com/en/ukraine-plans-army-pay-hikes-phased-discharge-zelenskyy/a-77014629?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Ukrainian President Volodymyr Zelenskyy announced reforms to boost morale and address military complaints about exhaustion and uneven workloads on the frontline.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump to raise tariffs on cars, trucks from EU to 25%",
+      "link": "https://www.dw.com/en/trump-to-raise-tariffs-on-cars-trucks-from-eu-to-25/a-77014772?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "President Donald Trump said he&apos;s raising tariffs on cars and trucks from the European Union to 25%, claiming the bloc was not complying with its trade agreement with the US.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: Lufthansa apologizes for lost Oscar statuette",
+      "link": "https://www.dw.com/en/germany-lufthansa-apologizes-for-lost-oscar-statuette/a-77014459?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Lusthansa said it would conduct \"an internal review\" to find out how the Oscar statuette belonging to Russian director Pavel Talankin went missing in Frankfurt.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "May Day marked by protests, celebrations, arrests",
+      "link": "https://www.dw.com/en/may-day-marked-by-protests-celebrations-arrests/a-77013669?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Labor Day comes as rising energy costs and shrinking purchasing triggered by the Iran war has hurt workers around the world.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pentagon inks deals with AI giants, but not Anthropic",
+      "link": "https://www.dw.com/en/pentagon-inks-deals-with-ai-giants-but-not-anthropic/a-77012715?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The pacts enable OpenAI, Google and SpaceX to bring top-tier artificial intelligence (AI) models onto the US military’s secure classified networks.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany needs no tips from Donald Trump, says Merz&apos;s deputy",
+      "link": "https://www.dw.com/en/germany-needs-no-tips-from-donald-trump-says-merz-s-deputy/a-77013396?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany&apos;s vice chancellor says US President Donald Trump has made a mess of the Iran war and that his focus should be on ending it. As fuel prices soar, Lars Klingbeil said Trump bears responsibility for the fallout.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Is Myanmar&apos;s military winning the civil war?",
+      "link": "https://www.dw.com/en/is-myanmar-s-military-winning-the-civil-war/a-77009903?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "After five years of war, armed resistance groups still challenge Myanmar&apos;s military across much of the country. But the generals are now stemming losses and reclaiming some territory.",
       "tier": 2
     },
     {
@@ -459,7 +523,7 @@
       "title": "Germany news: Greens and CDU agree Baden-Württemberg deal",
       "link": "https://www.dw.com/en/germany-news-greens-and-cdu-agree-baden-württemberg-deal/live-77008112?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The state of Baden-Württemberg&apos;s Greens and conservatives have forged a coalition deal after weeks of talks. Meanwhile, unions are staging May Day rallies to demand better work conditions and a wealth tax. DW has more.",
+      "snippet": "The state of Baden-Württemberg&apos;s Greens and conservatives have forged a coalition deal after weeks of talks. Meanwhile, unions are staging May Day rallies to demand better work conditions and a wealth tax.",
       "tier": 2
     },
     {
@@ -475,7 +539,7 @@
       "title": "India news: Commercial LPG prices hiked, new cylinder rules take effect",
       "link": "https://www.dw.com/en/india-news-commercial-lpg-prices-hiked-new-cylinder-rules-take-effect/live-77007624?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "India has increased the prices of LPG used by the restraunt and hotel industry. It is the third such monthly hike since the Iran war upended global suppply. DW has the latest.",
+      "snippet": "India has increased the prices of LPG used by the restraunt and hotel industry. It is the third such monthly hike since the Iran war upended global suppply.",
       "tier": 2
     },
     {
@@ -488,10 +552,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran war: Truce stops clock on Congress approval, says Trump&apos;s White House",
-      "link": "https://www.dw.com/en/iran-war-truce-stops-clock-on-congress-approval-says-trump-s-white-house/live-77007473?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran delivers fresh talks proposal to Pakistani mediators",
+      "link": "https://www.dw.com/en/iran-delivers-fresh-talks-proposal-to-pakistani-mediators/live-77007473?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Under war powers legislation, US President Trump has until a Friday deadline to end the Iran war or seek approval from Congress. But the White House says the ceasefire has already \"terminated\" the conflict. Follow DW.",
+      "snippet": "Iran has delivered a new proposal for negotiations with the US to Pakistani mediators, state news agency IRNA said. However, US President Donald Trump said he&apos;s not satisfied with Iran&apos;s new proposal. DW has more.",
       "tier": 2
     },
     {
@@ -504,7 +568,7 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Gender investment gap — Are women catching up with men?",
+      "title": "Gender investment gap: Are women catching up with men?",
       "link": "https://www.dw.com/en/gender-investment-gap-are-women-catching-up-with-men/a-76862702?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Online brokers are tapping into the potential of female investors. Tailor-made products and branding campaigns are on the rise. Will this help bridge the gap between women and men when it comes to investing?",
@@ -524,70 +588,6 @@
       "link": "https://www.dw.com/en/us-prosecutors-release-new-footage-of-trump-shooting-suspect/a-77006783?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The Justice Department has released unseen footage in an attempt to show that the secret service agent injured in the attack was not shot by friendly fire.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Kosovo to hold snap elections in June",
-      "link": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Kosovo will soon hold its third parliamentary election in a year and a half. Prime Minister Albin Kurti was able to form a government in February, but now there&apos;s a political deadlock over who shoud be elected president.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US: Trump signs DHS funding bill, ending partial shutdown",
-      "link": "https://www.dw.com/en/us-trump-signs-dhs-funding-bill-ending-partial-shutdown/a-77005913?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The legislation ends a partial government shutdown and restores funding to key government agencies. But Republicans are unhappy that ICE and Border Patrol have been excluded.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How Serbia&apos;s government dominates the country&apos;s media",
-      "link": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Since Serbia&apos;s ruling SNS party came to power, it has tightened its grip on the media. With an election expected soon, experts fear that authorities will try to eliminate the last pockets of independent reporting.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Saudi Arabia&apos;s public fund to withdraw LIV Golf funding",
-      "link": "https://www.dw.com/en/saudi-arabia-s-public-fund-to-withdraw-liv-golf-funding/a-77005158?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Public Investment Fund cites \"current macro dynamics\" as it slashes funding for breakaway golf tour. LIV isn&apos;t the only casualty of changing Saudi \"investment priorities\" amid economic turmoil and war in the Middle East.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK raises terror threat level following antisemitic attack",
-      "link": "https://www.dw.com/en/uk-raises-terror-threat-level-following-antisemitic-attack/a-77005386?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Joint Terrorism Analysis Center raised the terror threat level to severe, which indicates that there&apos;s a high likelihood of an attack in the next six months.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UAE oil exit from OPEC signals focus on domestic priorities",
-      "link": "https://www.dw.com/en/uae-oil-exit-from-opec-signals-focus-on-domestic-priorities/a-76998152?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Abu Dhabi&apos;s exit from OPEC signals a geopolitical shift and a pointed message to Saudi Arabia. What are the ripple effects on ties with Riyadh, the US, and Israel in the short and long term?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran&apos;s Vafaei playing for more than snooker glory",
-      "link": "https://www.dw.com/en/iran-s-vafaei-playing-for-more-than-snooker-glory/a-76998832?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After years lost to visa battles, Hossein Vafaei is finally delivering on his early promise as a snooker prodigy. He&apos;s hoping to inspire people back home amid the turmoil in Iran.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Study busts myth: German &apos;spring fatigue&apos; doesn&apos;t exist",
-      "link": "https://www.dw.com/en/study-busts-myth-german-spring-fatigue-doesn-t-exist/a-76985131?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Do we really feel more tired in spring? Researchers in Switzerland say, \"there&apos;s no such thing as spring fatigue.\" But it is a deep cultural phenomenon in German-speaking countries.",
       "tier": 2
     }
   ]
