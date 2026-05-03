@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T01:15:11.935Z",
+  "generatedAt": "2026-05-03T12:40:25.515Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,42 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
-      "link": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 02 May 2026 23:13:55 GMT",
-      "snippet": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
+      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+      "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 08:41:23 GMT",
+      "snippet": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+      "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 12:05:59 GMT",
+      "snippet": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigeria summons South African envoy over attacks on its nationals",
+      "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 10:16:01 GMT",
+      "snippet": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Huge crowd attends free Shakira Copacabana beach concert",
+      "link": "https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 07:56:47 GMT",
+      "snippet": "Shakira's appearance followed shows by Lady Gaga and Madonna, who have also performed on Copacabana beach in previous years.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Man charged with murder and sexual assault of 5-year-old Australian girl",
+      "link": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 05:52:09 GMT",
+      "snippet": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
       "tier": 1
     },
     {
@@ -64,10 +96,10 @@
     },
     {
       "source": "BBC World",
-      "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
-      "link": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 02 May 2026 14:18:14 GMT",
-      "snippet": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal.",
+      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
+      "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 02 May 2026 05:02:14 GMT",
+      "snippet": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
       "tier": 1
     },
     {
@@ -88,10 +120,10 @@
     },
     {
       "source": "BBC World",
-      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
-      "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 02 May 2026 05:02:14 GMT",
-      "snippet": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
+      "title": "US Supreme Court asked to restore abortion pill access",
+      "link": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 02 May 2026 21:06:31 GMT",
+      "snippet": "A lower court has limited mail-order access to the abortion pill mifepristone, which the drug's maker says will cause \"irreparable harm\".",
       "tier": 1
     },
     {
@@ -100,14 +132,6 @@
       "link": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 02 May 2026 04:57:02 GMT",
       "snippet": "The new measures come on top of a US blockade of oil to Cuba that has caused widespread blackouts and fuel shortages.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US Supreme Court asked to restore abortion pill access",
-      "link": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 02 May 2026 21:06:31 GMT",
-      "snippet": "A lower court has limited mail-order access to the abortion pill mifepristone, which the drug's maker says will cause \"irreparable harm\".",
       "tier": 1
     },
     {
@@ -167,27 +191,27 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
-      "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 12:42:29 GMT",
-      "snippet": "The airline said the Academy Award was safely in its care in Frankfurt and was arranging its return.",
+      "source": "NPR News",
+      "title": "He recorded his quest for tariff refunds. It shows why billions may never get repaid",
+      "link": "https://www.npr.org/2026/05/03/nx-s1-5805045/tariff-refunds-small-business",
+      "publishedAt": "Sun, 03 May 2026 06:00:00 -0400",
+      "snippet": "After the Supreme Court struck down most of President Trump&apos;s tariffs, Richard Brown began lining up the paperwork he needed to get his refund. Experts say many businesses may never get their money back.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Turkish police arrest more than 500 people at May Day rallies",
-      "link": "https://www.bbc.com/news/articles/cwy2x7rq3nqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 16:14:58 GMT",
-      "snippet": "Turkey sees significant police deployments on 1 May each year, when marches led by workers and unions are held.",
+      "source": "NPR News",
+      "title": "Why this tribe is buying up hundreds of acres of farmland — and flooding it",
+      "link": "https://www.npr.org/2026/05/03/nx-s1-5806062/washington-tribe-restore-wetlands-fish",
+      "publishedAt": "Sun, 03 May 2026 05:00:00 -0400",
+      "snippet": "The Stillaguamish Tribe in Washington state has been buying land in its traditional territory and removing levees. The goal is to turn farmland into wetlands with the hopes of restoring Chinook salmon.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Israeli police arrest man after nun attacked in Jerusalem",
-      "link": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 17:03:11 GMT",
-      "snippet": "The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewish extremists.",
+      "source": "NPR News",
+      "title": "How algorithms wreaked havoc with these workers&apos; schedules and cut their pay",
+      "link": "https://www.npr.org/2026/05/03/nx-s1-5786926/jobs-labor-productivity-languageline-unionize",
+      "publishedAt": "Sun, 03 May 2026 05:00:00 -0400",
+      "snippet": "Hourly workers across a number of industries have long been grappling with unstable schedules and pay as their employers use software to slash labor costs and maximize productivity.",
       "tier": 1
     },
     {
@@ -244,30 +268,6 @@
       "link": "https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance",
       "publishedAt": "Sat, 02 May 2026 15:48:30 -0400",
       "snippet": "Eswatini remains the only African nation without tariff-free access to China&apos;s market due to its ties with Taiwan.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Banksy confirms new statue installed in central London is his work",
-      "link": "https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london",
-      "publishedAt": "Sat, 02 May 2026 13:25:40 -0400",
-      "snippet": "The statue in Waterloo Place, which appeared early Wednesday, depicts a man proudly hoisting a flag— but the flag is blinding him.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Imprisoned Iranian Nobel Peace Prize winner in critical condition",
-      "link": "https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition",
-      "publishedAt": "Sat, 02 May 2026 11:57:43 -0400",
-      "snippet": "Narges Mohammadi, an Iranian activist and 2023 Nobel Peace Prize laureate, was hospitalized after collapsing in prison. Her family says her condition has deteriorated since a March heart attack.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Opinion: The everyday tragedy of gun violence",
-      "link": "https://www.npr.org/2026/05/02/nx-s1-5798789/opinion-the-everyday-tragedy-of-gun-violence",
-      "publishedAt": "Sat, 02 May 2026 08:00:00 -0400",
-      "snippet": "The White House Correspondents Association Dinner was one of several incidents of gun violence in the U.S. last week. Others ended in injuries and fatalities.",
       "tier": 1
     },
     {
@@ -440,10 +440,74 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Why Russia’s Northern Sea Route remains a risky bet for global shipping",
-      "link": "https://www.dw.com/en/why-russia-s-northern-sea-route-remains-a-risky-bet-for-global-shipping/a-76987400?maca=en-rss-en-top-1022-rdf",
+      "title": "Ukrainian drones hit Russia&apos;s Primorsk oil terminal",
+      "link": "https://www.dw.com/en/ukrainian-drones-hit-russia-s-primorsk-oil-terminal/a-77023217?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Russia wants its Northern Sea Route to become an important artery of global trade. However, the arctic shortcut between Europe and Asia is fraught with both political and environmental hurdles.",
+      "snippet": "Ukrainian President Volodymyr Zelenskyy said Kyiv also hit two of Russia&apos;s shadow fleet tankers near the Black Sea port of Novorossiysk. Two sides have continued to fire hundreds of drones at each other on a daily basis.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Philippines&apos; Mayon volcano spews ash — Pictures",
+      "link": "https://www.dw.com/en/philippines-mayon-volcano-spews-ash-pictures/a-77022712?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The most active volcano in the Philippines is erupting, sending lava down its slope and covering surrounding villages in ash.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Majority thinks coalition government doomed — survey",
+      "link": "https://www.dw.com/en/germany-news-majority-thinks-coalition-government-doomed-survey/live-77022566?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "More than half of people in Germany believe the coalition government will collapse before its term is up. The head of a leading economic think tank says US tariffs could trigger a German recession. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Millions sway as free Shakira concert lights up Copacabana",
+      "link": "https://www.dw.com/en/millions-sway-as-free-shakira-concert-lights-up-copacabana/a-77022547?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Colombian superstar delivers one of the biggest shows of her career, as fans flock from Brazil and beyond for her \"Women No Longer Cry\" world tour.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump says cutting US troops in Germany &apos;a lot further&apos;",
+      "link": "https://www.dw.com/en/trump-says-cutting-us-troops-in-germany-a-lot-further/a-77022292?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany&apos;s defense minister has said Europe needs to take more responsibility for its own security. Top Republicans warn reducing troop numbers sends the \"wrong signal\" to Russian President Vladimir Putin.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Where Germany&apos;s economy still excels",
+      "link": "https://www.dw.com/en/where-germany-s-economy-still-excels/a-77020320?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "German industry is being lapped in key sectors like solar panels, semiconductors and even cars — but the country&apos;s midsize businesses suggest the economy isn&apos;t losing its edge.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "North Korea rejects US cybercrime claims as &apos;absurd slander&apos;",
+      "link": "https://www.dw.com/en/north-korea-rejects-us-cybercrime-claims-as-absurd-slander/a-77021832?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Pyongyang refutes allegations of hacking and crypto theft, even as a UN panel estimated billions stolen by North Korea-linked cyberattacks.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: Trump says reviewing new Tehran proposal with doubt",
+      "link": "https://www.dw.com/en/iran-war-trump-says-reviewing-new-tehran-proposal-with-doubt/live-77021634?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US President Donald Trump has said he \"can&apos;t imagine\" the proposal is acceptable. Tehran said the \"ball is in the US&apos; court\" to choose whether to pursue diplomacy or confrontation. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why Russia&apos;s Northern Sea Route is a risky bet for global trade",
+      "link": "https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risky-bet-for-global-trade/a-76987400?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russia wants its Northern Sea Route to become an important artery of global trade. However, the Arctic shortcut between Europe and Asia is fraught with both political and environmental hurdles.",
       "tier": 2
     },
     {
@@ -524,70 +588,6 @@
       "link": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Kosovo will soon hold its third parliamentary election in a year and a half. Prime Minister Albin Kurti was able to form a government in February, but now there&apos;s political deadlock over who should be elected president.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Humpback whale Timmy released in North Sea but risk remains",
-      "link": "https://www.dw.com/en/humpback-whale-timmy-released-in-north-sea-but-risk-remains/a-77016789?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After weeks of drama, the stranded humpback whale is back in his natural habitat, but still not out of harm&apos;s way.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "The significance of US military bases in Germany",
-      "link": "https://www.dw.com/en/the-significance-of-us-military-bases-in-germany/a-77015428?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "President Trump is planning to cut US troop numbers in Germany. How many US bases are there in the country and what&apos;s their strategic importance?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Spirit Airlines says they are going out of business",
-      "link": "https://www.dw.com/en/spirit-airlines-says-they-are-going-out-of-business/a-77016867?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "All flights by the troubled US carrier Spirit Airlines have been cancelled, with the company saying it was ending operations \"immediately\" after talks on a government bailout faltered.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "New Oscars rules exclude AI performers, require scripts written by human",
-      "link": "https://www.dw.com/en/new-oscars-rules-exclude-ai-performers-require-scripts-written-by-human/a-77016539?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "AI performers will not qualify for Oscars under new Academy rules that also overhaul the international film category and acting nominations.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Can Iran withstand the US naval blockade?",
-      "link": "https://www.dw.com/en/can-iran-withstand-the-us-naval-blockade/a-77014627?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Trump administration is trying to force Iran into concessions by cutting off its oil exports. Will it prevail?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine plans army pay hikes, phased discharge — Zelenskyy",
-      "link": "https://www.dw.com/en/ukraine-plans-army-pay-hikes-phased-discharge-zelenskyy/a-77014629?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Ukrainian President Volodymyr Zelenskyy announced reforms to boost morale and address military complaints about exhaustion and uneven workloads on the frontline.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump to raise tariffs on cars, trucks from EU to 25%",
-      "link": "https://www.dw.com/en/trump-to-raise-tariffs-on-cars-trucks-from-eu-to-25/a-77014772?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "President Donald Trump said he&apos;s raising tariffs on cars and trucks from the European Union to 25%, claiming the bloc was not complying with its trade agreement with the US.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: Lufthansa apologizes for lost Oscar statuette",
-      "link": "https://www.dw.com/en/germany-lufthansa-apologizes-for-lost-oscar-statuette/a-77014459?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Lufthansa said it would conduct \"an internal review\" to find out how the Oscar statuette belonging to Russian director Pavel Talankin went missing in Frankfurt.",
       "tier": 2
     }
   ]
