@@ -228,7 +228,7 @@ function SourceRow({ source, index, onDetails }) {
     >
       <td className="source-label">
         {source.url && source.url !== 'text-analysis' ? (
-          <a href={safeUrl(`https://${source.url}`) || '#'} target="_blank" rel="noopener noreferrer" className="source-link">
+          <a href={safeUrl(`https://${source.url}`) ?? `https://${source.url}`} target="_blank" rel="noopener noreferrer" className="source-link">
             {source.label}
           </a>
         ) : source.label}
@@ -1630,7 +1630,9 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
                   </span>
                 </li>
               ))}
-              {!results.skippedFeatures.some((f) => f.name === 'AI Analysis') && !results.aiAnalysis && (
+              {!results.skippedFeatures.some((f) =>
+                f.name === 'AI Analysis' || f.name?.toLowerCase().includes('ai')
+              ) && !results.aiAnalysis && (
                 <li className="skipped-feature-item skipped">
                   <span className="skipped-feature-icon" aria-hidden="true">⊘</span>
                   <span className="skipped-feature-body">

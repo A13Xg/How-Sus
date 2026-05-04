@@ -85,7 +85,6 @@ const AI_PROVIDERS = {
   openai: {
     label: 'OpenAI',
     defaultModel: 'gpt-4o-mini',
-    endpoint: 'https://api.openai.com/v1/chat/completions',
     models: [
       { id: '', label: 'Auto (gpt-4o-mini)' },
       { id: 'gpt-4o-mini', label: 'GPT-4o mini — fast, affordable' },
@@ -97,7 +96,6 @@ const AI_PROVIDERS = {
   google: {
     label: 'Google Gemini',
     defaultModel: 'gemini-1.5-flash',
-    endpoint: 'https://generativelanguage.googleapis.com/v1beta/models',
     models: [
       { id: '', label: 'Auto (gemini-1.5-flash)' },
       { id: 'gemini-1.5-flash', label: 'Gemini 1.5 Flash — fast' },
