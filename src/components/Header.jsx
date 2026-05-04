@@ -11,6 +11,7 @@
  */
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import EnvironmentBadge from './EnvironmentBadge';
 import './Header.css';
 
 export default function Header({ aiConfig, resolvedProvider, detectedProvider, providers, onAiConfigChange, onOpenSettings, hasUpdate }) {
@@ -107,6 +108,7 @@ export default function Header({ aiConfig, resolvedProvider, detectedProvider, p
           transition={{ duration: 0.5 }}
         >
           <div className="api-key-area">
+            <EnvironmentBadge />
             <motion.button
               ref={btnRef}
               className={`api-key-btn ${aiConfig.apiKey ? 'has-key' : ''}`}

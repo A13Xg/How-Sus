@@ -22,7 +22,7 @@ import './InputSection.css';
 
 const TABS = [
   { id: 'url',   label: '🔗 URL',   placeholder: 'https://example.com/news-article' },
-  { id: 'text',  label: '📝 Text',  placeholder: 'Paste an article, post, or any text to analyse for authenticity…' },
+  { id: 'text',  label: '📝 Text',  placeholder: 'Paste an article, post, or any text to analyze for authenticity…' },
   { id: 'image', label: '🖼 Image', placeholder: '' },
 ];
 
@@ -40,7 +40,7 @@ function validate(inputData) {
   }
   if (inputData.type === 'text') {
     const v = inputData.value.trim();
-    if (!v) return 'Please paste some text to analyse.';
+    if (!v) return 'Please paste some text to analyze.';
     if (v.length < 10) return 'Text is too short — please provide at least 10 characters.';
     return null;
   }
@@ -300,7 +300,7 @@ export default function InputSection({ inputData, onInputChange, onScan, onReset
               <span className="scan-spinner" aria-hidden="true">
                 <span className="spinner-ring" /> Scanning…
               </span>
-            ) : '🔍 Analyse'}
+            ) : '🔍 Analyze'}
           </motion.button>
         </div>
       </div>

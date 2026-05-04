@@ -41,6 +41,42 @@ const logger = {
     cb([..._logs]);
     return () => _subscribers.delete(cb);
   },
+
+  /** Log entry/exit of a named operation with timing. */
+  group: async (name, fn) => {
+    const start = performance.now();
+    _log('DEBUG', `[group:start] ${name}`);
+    try {
+      const result = await fn();
+      _log('DEBUG', `[group:end] ${name}`, { durationMs: (performance.now() - start).toFixed(1) });
+      return result;
+    } catch (err) {
+      _log('ERROR', `[group:error] ${name}`, { durationMs: (performance.now() - start).toFixed(1), error: err?.message, stack: err?.stack });
+      throw err;
+    }
+  },
+
+  /** Start a named performance timer. */
+  time: (label) => {
+    if (typeof performance !== 'undefined') {
+      performance.mark(`howsus:${label}:start`);
+    }
+    _log('DEBUG', `[timer:start] ${label}`);
+  },
+
+  /** End a named performance timer and log the duration. */
+  timeEnd: (label) => {
+    let durationMs = null;
+    try {
+      if (typeof performance !== 'undefined') {
+        performance.mark(`howsus:${label}:end`);
+        performance.measure(`howsus:${label}`, `howsus:${label}:start`, `howsus:${label}:end`);
+        const entries = performance.getEntriesByName(`howsus:${label}`);
+        if (entries.length) durationMs = entries[entries.length - 1].duration.toFixed(1);
+      }
+    } catch (err) { _log('DEBUG', `[timer:end:error] ${label}`, { error: err?.message }); }
+    _log('DEBUG', `[timer:end] ${label}`, durationMs != null ? { durationMs } : undefined);
+  },
 };
 
 export { LOG_LEVELS };
