@@ -973,7 +973,6 @@ function analyzeText(text, feedData) {
   // Hedging penalty
   const hedgeCount = HEDGING_PHRASES.filter((w) => lower.includes(w)).length;
   score -= hedgeCount * 4;
-  score = Math.max(5, Math.min(100, Math.round(score)));
 
   // Named entity recognition (capitalized word sequences)
   const namedEntities = (text.match(/\b[A-Z][a-z]+ (?:[A-Z][a-z]+ )*[A-Z][a-z]+/g) || []);
