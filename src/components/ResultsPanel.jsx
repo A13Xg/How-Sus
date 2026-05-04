@@ -1226,6 +1226,50 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
             badge={results.exifCount}
             id="exif"
           >
+            {/* ── New image analysis summary fields ── */}
+            <div className="image-analysis-summary">
+              {results.imageDimensions && (
+                <div className="image-analysis-row">
+                  <span className="image-analysis-label">📐 Dimensions</span>
+                  <span className="image-analysis-value">{results.imageDimensions}</span>
+                </div>
+              )}
+              {results.fileHash && (
+                <div className="image-analysis-row">
+                  <span className="image-analysis-label">🔑 SHA-256</span>
+                  <span className="image-analysis-value image-analysis-mono">{results.fileHash}</span>
+                </div>
+              )}
+              {results.imageAnalysis.mimeSniff && (
+                <div className="image-analysis-row">
+                  <span className="image-analysis-label">🔍 File type (magic bytes)</span>
+                  <span className={`image-analysis-value ${results.imageAnalysis.mimeSniff.mimeMatchesExt ? '' : 'image-analysis-warn'}`}>
+                    {results.imageAnalysis.mimeSniff.detectedMime}
+                    {!results.imageAnalysis.mimeSniff.mimeMatchesExt && (
+                      <span className="image-analysis-badge-bad"> ⚠ MISMATCH</span>
+                    )}
+                  </span>
+                </div>
+              )}
+              {results.imageAnalysis.colorAnalysis && results.imageAnalysis.colorAnalysis.avgSaturation > 0 && (
+                <div className="image-analysis-row">
+                  <span className="image-analysis-label">🎨 Avg saturation</span>
+                  <span className={`image-analysis-value ${results.imageAnalysis.colorAnalysis.overSaturated ? 'image-analysis-warn' : ''}`}>
+                    {results.imageAnalysis.colorAnalysis.avgSaturation}%
+                    {results.imageAnalysis.colorAnalysis.overSaturated && <span className="image-analysis-badge-bad"> ⚠ over-saturated</span>}
+                    {results.imageAnalysis.colorAnalysis.hasAlpha && <span className="image-analysis-badge-warn"> α alpha channel</span>}
+                  </span>
+                </div>
+              )}
+              {results.imageAnalysis.steganographyIndicators?.anomalousFileSize && (
+                <div className="image-analysis-row">
+                  <span className="image-analysis-label">🕵 Stego indicator</span>
+                  <span className="image-analysis-value image-analysis-warn">
+                    Anomalous size: {results.imageAnalysis.compressionRatio} bytes/px
+                  </span>
+                </div>
+              )}
+            </div>
             <ExifDetails exifData={results.exifData} />
             {results.imageAnalysis.reverseSearchMatches?.length > 0 && (
               <div className="reverse-search">

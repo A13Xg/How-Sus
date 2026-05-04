@@ -496,6 +496,61 @@
 
 .reverse-search li { margin-bottom: 4px; }
 
+/* Image analysis summary (new fields above EXIF grid) */
+.image-analysis-summary {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 12px;
+  padding: 10px 12px;
+  background: var(--bg-secondary);
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--accent-blue);
+}
+
+.image-analysis-row {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  font-size: 0.82rem;
+}
+
+.image-analysis-label {
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  min-width: 170px;
+  flex-shrink: 0;
+}
+
+.image-analysis-value {
+  color: var(--text-secondary);
+  word-break: break-all;
+}
+
+.image-analysis-mono {
+  font-family: var(--font-mono, monospace);
+  font-size: 0.75rem;
+  letter-spacing: 0.2px;
+}
+
+.image-analysis-warn {
+  color: var(--accent-orange, #e0860a);
+}
+
+.image-analysis-badge-bad {
+  font-size: 0.72rem;
+  color: var(--bad-color, #d9534f);
+  font-weight: 600;
+  margin-left: 4px;
+}
+
+.image-analysis-badge-warn {
+  font-size: 0.72rem;
+  color: var(--accent-orange, #e0860a);
+  font-weight: 600;
+  margin-left: 4px;
+}
+
 /* AI analysis */
 .ai-content {
   display: flex;

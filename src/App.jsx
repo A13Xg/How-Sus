@@ -1234,13 +1234,31 @@ function analyzeText(text, feedData) {
   };
 }
 
-/** Analyze an image file (EXIF extraction) and return a scanResults-shaped object. */
+/** Analyze an image file and return a scanResults-shaped object.
+ *
+ * Analysis capabilities:
+ *  1. EXIF metadata extraction (camera, date, GPS, software)
+ *  2. File hash fingerprinting (SHA-256)
+ *  3. MIME type sniffing (magic bytes vs extension mismatch)
+ *  4. Canvas-based resolution analysis (actual pixel dimensions)
+ *  5. Color channel saturation analysis (over-saturation = AI generation signal)
+ *  6. Compression ratio analysis (file size vs resolution)
+ *  7. Metadata cross-validation (EXIF date vs file lastModified)
+ *  8. GPS coordinate validation (range check)
+ *  9. Alpha channel detection (compositing signal)
+ * 10. Aspect ratio analysis (unusual ratios flag cropping)
+ * 11. Steganography indicators (anomalous file size for dimensions)
+ * 12. Expanded editing software detection
+ *
+ * @param {File} file - the uploaded image file
+ * @returns {Promise<object>} scanResults-shaped object
+ */
 async function analyzeImage(file) {
   let exifData = {};
   const exifFindings = [];
 
+  // ─── 1. EXIF Extraction ──────────────────────────────────────────────────
   try {
-    // Dynamic import for lazy-loading — exifr is only pulled in when needed
     const exifr = await import('exifr');
     const parsed = await exifr.default.parse(file, true);
     if (parsed) {
@@ -1251,6 +1269,13 @@ async function analyzeImage(file) {
           label: 'Date taken',
           value: new Date(captureDate).toLocaleDateString(),
           status: 'info',
+          excerpt: `EXIF DateTimeOriginal: ${captureDate}`,
+          dataPath: [
+            `File: ${file.name}`,
+            `EXIF field: DateTimeOriginal / CreateDate`,
+            `Value: ${captureDate}`,
+            `Formatted: ${new Date(captureDate).toLocaleDateString()}`,
+          ],
         });
       }
       if (parsed.Make || parsed.Model) {
@@ -1258,32 +1283,215 @@ async function analyzeImage(file) {
           label: 'Camera',
           value: `${parsed.Make || ''} ${parsed.Model || ''}`.trim(),
           status: 'info',
+          excerpt: `Camera: Make="${parsed.Make || 'N/A'}", Model="${parsed.Model || 'N/A'}"`,
+          dataPath: [
+            `File: ${file.name}`,
+            `EXIF Make: ${parsed.Make || 'not present'}`,
+            `EXIF Model: ${parsed.Model || 'not present'}`,
+            `Combined: ${`${parsed.Make || ''} ${parsed.Model || ''}`.trim()}`,
+          ],
         });
       }
       if (parsed.GPSLatitude != null) {
+        const lat = parsed.GPSLatitude;
+        const lon = parsed.GPSLongitude;
+        const validGps = lat >= -90 && lat <= 90 && lon >= -180 && lon <= 180;
         exifFindings.push({
           label: 'GPS location',
-          value: `${parsed.GPSLatitude.toFixed(4)}, ${parsed.GPSLongitude?.toFixed(4) ?? '?'}`,
-          status: 'warn',
+          value: `${lat.toFixed(4)}, ${lon?.toFixed(4) ?? '?'} ${validGps ? '' : '(invalid range)'}`,
+          status: validGps ? 'warn' : 'bad',
+          excerpt: `GPS coordinates: Lat ${lat.toFixed(6)}, Lon ${lon?.toFixed(6) ?? 'N/A'}`,
+          dataPath: [
+            `File: ${file.name}`,
+            `EXIF GPSLatitude: ${lat}`,
+            `EXIF GPSLongitude: ${lon ?? 'not present'}`,
+            `Valid range check: Lat [-90, 90]=${validGps ? 'PASS' : 'FAIL'}, Lon [-180, 180]=${validGps ? 'PASS' : 'FAIL'}`,
+            validGps
+              ? `Location present — may reveal photographer's position`
+              : `GPS values outside valid range — possible metadata corruption`,
+          ],
         });
       }
+
+      // Expanded software detection
       if (parsed.Software) {
-        const editingTools = ['photoshop', 'gimp', 'lightroom', 'affinity'];
+        const editingTools = [
+          'photoshop', 'gimp', 'lightroom', 'affinity', 'snapseed',
+          'facetune', 'meitu', 'pixelmator', 'canva', 'fotor',
+          'capture one', 'darktable', 'rawtherapee', 'luminar',
+          'photodirector', 'picsart', 'corel', 'paintshop',
+          'imagemagick', 'sharp', 'libvips', 'paint.net',
+        ];
         const isEdited = editingTools.some((t) => parsed.Software.toLowerCase().includes(t));
+        const isAiGenerated = ['midjourney', 'stable diffusion', 'dall-e', 'firefly', 'imagen',
+          'generative', 'ai-generated', 'openai'].some((t) => parsed.Software.toLowerCase().includes(t));
         exifFindings.push({
           label: 'Edit software',
-          value: parsed.Software,
-          status: isEdited ? 'bad' : 'info',
+          value: isAiGenerated ? `AI-generated: ${parsed.Software}` : parsed.Software,
+          status: isAiGenerated ? 'bad' : isEdited ? 'bad' : 'info',
+          excerpt: `Software tag: "${parsed.Software}"`,
+          dataPath: [
+            `File: ${file.name}`,
+            `EXIF Software field: "${parsed.Software}"`,
+            `Checked against ${editingTools.length} known editing tools: ${isEdited ? 'MATCH — editing detected' : 'no match'}`,
+            `Checked against AI generation tools: ${isAiGenerated ? 'MATCH — AI generation detected' : 'no match'}`,
+            `Score impact: ${isAiGenerated ? '-25 points (AI generation)' : isEdited ? '-20 points (editing detected)' : 'none'}`,
+          ],
         });
       }
     }
   } catch (err) {
     logger.warn('EXIF extraction failed', { fileName: file?.name, error: err?.message });
-    exifFindings.push({ label: 'EXIF', value: 'Could not extract metadata', status: 'warn' });
+    exifFindings.push({ label: 'EXIF', value: 'Could not extract metadata', status: 'warn',
+      excerpt: 'EXIF extraction failed — library error or incompatible format',
+      dataPath: [`File: ${file.name}`, `exifr.parse() threw: ${err?.message || 'unknown error'}`] });
   }
 
+  // ─── 2. File Hash Fingerprint (SHA-256 via Web Crypto API) ───────────────
+  let fileHash = null;
+  try {
+    const buffer = await file.arrayBuffer();
+    const hashBuffer = await crypto.subtle.digest('SHA-256', buffer);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    fileHash = hashArray.map((b) => b.toString(16).padStart(2, '0')).join('');
+    logger.debug('Image SHA-256 computed', { fileName: file.name, hash: fileHash.slice(0, 16) + '...' });
+  } catch (err) {
+    logger.warn('SHA-256 fingerprint failed', { fileName: file?.name, error: err?.message });
+    fileHash = null;
+  }
+
+  // ─── 3. MIME Type Sniffing (magic bytes) ────────────────────────────────
+  let detectedMime = null;
+  let mimeMatchesExt = true;
+  try {
+    const header = await file.slice(0, 16).arrayBuffer();
+    const bytes = new Uint8Array(header);
+    const hex = Array.from(bytes).map((b) => b.toString(16).padStart(2, '0')).join('');
+    const sig = hex.toUpperCase();
+
+    if (sig.startsWith('FFD8FF')) detectedMime = 'image/jpeg';
+    else if (sig.startsWith('89504E47')) detectedMime = 'image/png';
+    else if (sig.startsWith('47494638')) detectedMime = 'image/gif';
+    else if (sig.startsWith('52494646')) detectedMime = 'image/webp';
+    else if (sig.startsWith('49492A00') || sig.startsWith('4D4D002A')) detectedMime = 'image/tiff';
+    else if (sig.startsWith('424D')) detectedMime = 'image/bmp';
+    else if (sig.startsWith('000000') && (sig.substring(8, 16) === '66747970')) detectedMime = 'image/heic';
+    else detectedMime = file.type || 'unknown';
+
+    const extMimeMap = {
+      jpg: 'image/jpeg', jpeg: 'image/jpeg', png: 'image/png',
+      gif: 'image/gif', webp: 'image/webp', tiff: 'image/tiff',
+      tif: 'image/tiff', bmp: 'image/bmp', heic: 'image/heic',
+      heif: 'image/heic',
+    };
+    const ext = file.name.split('.').pop()?.toLowerCase() ?? '';
+    const expectedMime = extMimeMap[ext];
+    mimeMatchesExt = !expectedMime || detectedMime === expectedMime || detectedMime === 'unknown';
+  } catch (err) {
+    logger.warn('MIME sniffing failed', { fileName: file?.name, error: err?.message });
+    detectedMime = file.type || 'unknown';
+    mimeMatchesExt = true;
+  }
+
+  // ─── 4-5-9-10-11. Canvas Analysis (dimensions, colors, aspect ratio, alpha) ──
+  let imgWidth = 0;
+  let imgHeight = 0;
+  let hasAlpha = false;
+  let avgSaturation = 0;
+  let compressionRatio = 0;
+  let aspectRatioSuspicious = false;
+  let overSaturated = false;
+  let anomalousFileSize = false;
+
+  await new Promise((resolve) => {
+    try {
+      const img = new Image();
+      const objUrl = URL.createObjectURL(file);
+      img.onload = () => {
+        try {
+          imgWidth = img.naturalWidth;
+          imgHeight = img.naturalHeight;
+
+          const ratio = imgWidth / Math.max(imgHeight, 1);
+          const commonRatios = [1, 4/3, 16/9, 3/2, 2/3, 9/16, 16/10, 5/4, 5/3, 21/9];
+          const nearCommon = commonRatios.some((r) => Math.abs(ratio - r) < 0.05 || Math.abs(ratio - (1/r)) < 0.05);
+          aspectRatioSuspicious = !nearCommon && (ratio < 0.1 || ratio > 10);
+
+          try {
+            const canvas = document.createElement('canvas');
+            const SAMPLE_SIZE = 80;
+            canvas.width = SAMPLE_SIZE;
+            canvas.height = SAMPLE_SIZE;
+            const ctx = canvas.getContext('2d');
+            ctx.drawImage(img, 0, 0, SAMPLE_SIZE, SAMPLE_SIZE);
+            const imageData = ctx.getImageData(0, 0, SAMPLE_SIZE, SAMPLE_SIZE);
+            const data = imageData.data;
+
+            let alphaSum = 0;
+            let satSum = 0;
+            let sampleCount = 0;
+            for (let i = 0; i < data.length; i += 16) {
+              const r = data[i], g = data[i + 1], b = data[i + 2], a = data[i + 3];
+              if (a < 250) alphaSum++;
+              sampleCount++;
+              const max = Math.max(r, g, b) / 255;
+              const min = Math.min(r, g, b) / 255;
+              const l = (max + min) / 2;
+              const sat = max === min ? 0 : l < 0.5 ? (max - min) / (max + min) : (max - min) / (2 - max - min);
+              satSum += sat;
+            }
+            hasAlpha = (alphaSum / sampleCount) > 0.05;
+            avgSaturation = Math.round((satSum / sampleCount) * 100);
+            overSaturated = avgSaturation > 75;
+
+            const pixelCount = imgWidth * imgHeight;
+            compressionRatio = pixelCount > 0 ? file.size / pixelCount : 0;
+            const imgExt = file.name.split('.').pop()?.toLowerCase() ?? '';
+            anomalousFileSize = (imgExt === 'png' && compressionRatio > 4) || (imgExt === 'jpg' && compressionRatio > 2);
+          } catch {
+            // Canvas operations can fail in some environments — not critical
+          }
+        } catch {
+          // Ignore dimension errors
+        }
+        URL.revokeObjectURL(objUrl);
+        resolve();
+      };
+      img.onerror = () => {
+        URL.revokeObjectURL(objUrl);
+        resolve();
+      };
+      img.src = objUrl;
+    } catch {
+      resolve();
+    }
+  });
+
+  // ─── 6. Metadata cross-validation: EXIF date vs file lastModified ────────
+  const captureDate = exifData.DateTimeOriginal || exifData.CreateDate;
+  const fileModDate = file.lastModified ? new Date(file.lastModified) : null;
+  let datesMismatch = false;
+  let dateMismatchDetail = null;
+  if (captureDate && fileModDate) {
+    const exifTime = new Date(captureDate).getTime();
+    const modTime = fileModDate.getTime();
+    const diffDays = (modTime - exifTime) / 86_400_000;
+    if (diffDays < -1) {
+      datesMismatch = true;
+      dateMismatchDetail = `File last modified ${Math.abs(Math.round(diffDays))} days before EXIF capture date`;
+    }
+  }
+
+  // ─── 12. Metadata stripping detection ────────────────────────────────────
+  const criticalExifFields = ['Make', 'Model', 'DateTimeOriginal', 'GPSLatitude', 'Software', 'ExifIFD'];
+  const presentCritical = criticalExifFields.filter((f) => exifData[f] != null).length;
+  const likelyStripped = Object.keys(exifData).length === 0;
+  const partiallyStripped = !likelyStripped && presentCritical <= 1;
+
+  // ─── Score Computation ───────────────────────────────────────────────────
   const hasEditing = exifFindings.some((f) => f.label === 'Edit software' && f.status === 'bad');
-  const hasGPS = exifFindings.some((f) => f.label === 'GPS location');
+  const isAiGenerated = exifFindings.some((f) => f.label === 'Edit software' && f.value?.startsWith('AI-generated'));
+  const hasGPS = exifFindings.some((f) => f.label === 'GPS location' && f.status !== 'bad');
   const hasCameraInfo = exifFindings.some((f) => f.label === 'Camera');
   const hasDate = exifFindings.some((f) => f.label === 'Date taken');
 
@@ -1291,16 +1499,39 @@ async function analyzeImage(file) {
   if (hasDate) score += 10;
   if (hasCameraInfo) score += 10;
   if (hasEditing) score -= 20;
-  if (Object.keys(exifData).length === 0) score -= 15;
+  if (isAiGenerated) score -= 25;
+  if (likelyStripped) score -= 15;
+  if (partiallyStripped) score -= 8;
+  if (!mimeMatchesExt) score -= 20;
+  if (overSaturated) score -= 8;
+  if (anomalousFileSize) score -= 10;
+  if (datesMismatch) score -= 12;
+  if (hasAlpha) score -= 5;
+  if (aspectRatioSuspicious) score -= 8;
+  if (hasGPS) score += 5;
+
   const crossCheck = buildCrossCheckForImage(exifFindings, file.name);
   score += Math.round((crossCheck.consistencyScore - 50) / 8);
   score = Math.max(5, Math.min(100, Math.round(score)));
+
+  const ext = file.name.split('.').pop()?.toLowerCase() ?? '';
+  const imgFormats = ['jpg', 'jpeg', 'png', 'tiff', 'heic', 'raw', 'cr2', 'nef'];
+  const suspFormats = ['webp', 'bmp', 'gif', 'avif'];
+  const keyFields = ['Make', 'Model', 'DateTimeOriginal', 'GPSLatitude', 'ExposureTime', 'FNumber'];
+  const presentCount = keyFields.filter((f) => exifData[f] != null).length;
+  const metadataPct = Math.round((presentCount / keyFields.length) * 100);
 
   return {
     authenticityScore: score,
     type: 'image',
     fileName: file.name,
     fileSize: `${(file.size / 1024).toFixed(1)} KB`,
+    fileHash: fileHash ? `SHA-256: ${fileHash.slice(0, 16)}…` : null,
+    fileHashFull: fileHash,
+    imageDimensions: imgWidth && imgHeight ? `${imgWidth} × ${imgHeight} px` : null,
+    detectedMime,
+    mimeMatchesExt,
+    avgSaturation,
     exifData,
     exifCount: Object.keys(exifData).length,
     sources: [
@@ -1310,10 +1541,15 @@ async function analyzeImage(file) {
         verified: Object.keys(exifData).length > 0,
         date: new Date().toISOString().split('T')[0],
       },
+      ...(fileHash ? [{
+        url: 'image-hash',
+        label: `SHA-256 fingerprint: ${fileHash.slice(0, 16)}…`,
+        verified: true,
+        date: new Date().toISOString().split('T')[0],
+      }] : []),
     ],
     duplicates: [],
     crossCheck,
-    // Spec-compliant imageAnalysis sub-object
     imageAnalysis: {
       metadata: {
         camera: exifFindings.find((f) => f.label === 'Camera')?.value ?? null,
@@ -1321,92 +1557,196 @@ async function analyzeImage(file) {
         gps: exifFindings.find((f) => f.label === 'GPS location')?.value ?? null,
         software: exifFindings.find((f) => f.label === 'Edit software')?.value ?? null,
       },
-      // Placeholder — integrate a reverse image search API here
+      dimensions: imgWidth && imgHeight ? { width: imgWidth, height: imgHeight } : null,
+      colorAnalysis: { avgSaturation, overSaturated, hasAlpha },
+      mimeSniff: { detectedMime, declaredMime: file.type, mimeMatchesExt },
+      compressionRatio: compressionRatio.toFixed(4),
+      steganographyIndicators: { anomalousFileSize, compressionRatio: compressionRatio.toFixed(4) },
       reverseSearchMatches: [],
     },
     aiAnalysis: null,
     findings: [
-      { label: 'File name', value: file.name, status: 'info' },
-      { label: 'File size', value: `${(file.size / 1024).toFixed(1)} KB`, status: 'info' },
+      { label: 'File name', value: file.name, status: 'info',
+        excerpt: `File: ${file.name}`, dataPath: [`Input file name: ${file.name}`] },
+      { label: 'File size', value: `${(file.size / 1024).toFixed(1)} KB`,
+        status: file.size < 1024 ? 'warn' : file.size > 20 * 1024 * 1024 ? 'warn' : 'info',
+        explanation: 'Very small files may be low-quality screenshots; very large files may be uncompressed originals.',
+        excerpt: `File size: ${(file.size / 1024).toFixed(1)} KB (${file.size} bytes)`,
+        dataPath: [
+          `Raw size: ${file.size} bytes`,
+          `Converted: ${(file.size / 1024).toFixed(1)} KB`,
+          file.size < 1024 ? 'WARNING: Very small — may be a low-resolution screenshot' :
+            file.size > 20 * 1024 * 1024 ? 'WARNING: Very large — uncompressed or RAW format' : 'Size within normal range',
+        ],
+      },
+      ...(imgWidth && imgHeight ? [{
+        label: 'Image dimensions',
+        value: `${imgWidth} × ${imgHeight} px`,
+        status: 'info',
+        excerpt: `Canvas-measured: ${imgWidth}px wide × ${imgHeight}px tall`,
+        dataPath: [
+          `Loaded image onto HTML Canvas element`,
+          `naturalWidth: ${imgWidth}px, naturalHeight: ${imgHeight}px`,
+          `Aspect ratio: ${(imgWidth / imgHeight).toFixed(3)} (${imgWidth}:${imgHeight})`,
+          aspectRatioSuspicious ? 'WARNING: Unusual aspect ratio detected — possible heavy cropping' : 'Aspect ratio within normal range',
+        ],
+      }] : []),
+      {
+        label: 'File type verification',
+        value: mimeMatchesExt
+          ? `${ext.toUpperCase() || 'unknown'} — type matches`
+          : `MISMATCH: declared ${ext.toUpperCase()}, detected ${detectedMime}`,
+        status: mimeMatchesExt ? 'good' : 'bad',
+        explanation: 'File magic bytes are compared against the file extension. A mismatch can indicate a disguised file format.',
+        excerpt: `Extension: .${ext} | Magic bytes indicate: ${detectedMime} | Match: ${mimeMatchesExt ? 'YES' : 'NO — MISMATCH'}`,
+        dataPath: [
+          `File: ${file.name}, extension: .${ext}`,
+          `Read first 16 bytes (magic bytes): ${detectedMime}`,
+          `Expected MIME for .${ext}: ${file.type || 'unknown'}`,
+          mimeMatchesExt ? 'Extension matches magic bytes — consistent' : 'MISMATCH: Extension does not match file content — suspicious',
+          mimeMatchesExt ? 'No score impact' : 'Score impact: -20 points',
+        ],
+      },
       {
         label: 'EXIF metadata',
         value: `${Object.keys(exifData).length} fields found`,
         status: Object.keys(exifData).length > 0 ? 'good' : 'warn',
         excerpt: Object.keys(exifData).length > 0
-          ? `EXIF fields: ${Object.keys(exifData).slice(0, 8).join(', ')}${Object.keys(exifData).length > 8 ? '...' : ''}`
+          ? `Present fields: ${Object.keys(exifData).slice(0, 8).join(', ')}${Object.keys(exifData).length > 8 ? '…' : ''}`
           : 'No EXIF metadata present in this file',
         dataPath: [
-          `File: ${file.name} (${(file.size / 1024).toFixed(1)} KB)`,
-          `Attempted EXIF extraction using exifr library`,
-          `Result: ${Object.keys(exifData).length} metadata fields found`,
-          Object.keys(exifData).length === 0 ? 'Missing EXIF likely indicates: screenshot, social media download, or deliberate stripping' : `Key fields present: ${Object.keys(exifData).slice(0, 5).join(', ')}`,
+          `Loaded exifr library and parsed: ${file.name}`,
+          `Total EXIF fields found: ${Object.keys(exifData).length}`,
+          Object.keys(exifData).length === 0 ? 'Likely causes: screenshot, social media download, or deliberate metadata stripping' : `Sample fields: ${Object.keys(exifData).slice(0, 5).join(', ')}`,
+          Object.keys(exifData).length === 0 ? 'Score impact: -15 points' : 'No score deduction',
         ],
       },
       {
         label: 'Edit software detected',
-        value: hasEditing ? 'Yes (editing software in EXIF)' : 'No signs of editing',
-        status: hasEditing ? 'bad' : 'good',
-        excerpt: hasEditing
-          ? `Editing software: ${exifFindings.find((f) => f.label === 'Edit software')?.value ?? 'detected'}`
-          : 'No photo editing software detected in EXIF metadata',
+        value: hasEditing ? (isAiGenerated ? 'AI generation detected' : 'Yes (editing software in EXIF)') : 'No signs of editing',
+        status: isAiGenerated ? 'bad' : hasEditing ? 'bad' : 'good',
+        excerpt: exifFindings.find((f) => f.label === 'Edit software')?.excerpt || 'No Software EXIF tag found',
         dataPath: [
-          `File: ${file.name}`,
-          `Checked EXIF "Software" field for known editing tools (Photoshop, GIMP, Lightroom, Affinity)`,
-          hasEditing ? `MATCH: ${exifFindings.find((f) => f.label === 'Edit software')?.value ?? 'editing software'} detected` : 'No editing software signature found',
-          `Score impact: ${hasEditing ? '-20 points' : 'none'}`,
+          ...( exifFindings.find((f) => f.label === 'Edit software')?.dataPath || ['No Software field in EXIF'] ),
         ],
       },
       {
         label: 'GPS coordinates',
         value: hasGPS ? 'Location data present' : 'No GPS data',
         status: hasGPS ? 'warn' : 'info',
-        excerpt: hasGPS
-          ? `GPS: ${exifFindings.find((f) => f.label === 'GPS location')?.value ?? 'coordinates present'}`
-          : 'No GPS coordinates in EXIF metadata',
+        excerpt: exifFindings.find((f) => f.label === 'GPS location')?.excerpt || 'No GPS EXIF fields found',
+        dataPath: exifFindings.find((f) => f.label === 'GPS location')?.dataPath || ['No GPS data in EXIF metadata'],
+      },
+      {
+        label: 'Metadata completeness',
+        value: `${metadataPct}% (${presentCount}/${keyFields.length} key fields)`,
+        status: metadataPct >= 60 ? 'good' : metadataPct >= 30 ? 'warn' : 'bad',
+        explanation: 'More EXIF fields present indicates less metadata stripping. Photos shared via social media often have metadata removed.',
+        excerpt: `Checked ${keyFields.length} key EXIF fields: ${keyFields.filter((f) => exifData[f] != null).join(', ') || 'none present'}`,
         dataPath: [
-          `File: ${file.name}`,
-          `Checked EXIF for GPSLatitude and GPSLongitude fields`,
-          hasGPS ? `GPS data found: ${exifFindings.find((f) => f.label === 'GPS location')?.value ?? 'present'}` : 'No GPS fields in EXIF',
-          'GPS presence enables location verification but also raises privacy concerns',
+          `Checked ${keyFields.length} critical EXIF fields: ${keyFields.join(', ')}`,
+          `Present: ${keyFields.filter((f) => exifData[f] != null).join(', ') || 'none'}`,
+          `Missing: ${keyFields.filter((f) => exifData[f] == null).join(', ') || 'none'}`,
+          `Completeness: ${metadataPct}% — ${likelyStripped ? 'likely stripped (social media / screenshot)' : partiallyStripped ? 'partially stripped' : 'good metadata coverage'}`,
+        ],
+      },
+      {
+        label: 'File format',
+        value: ext.toUpperCase() || 'Unknown',
+        status: imgFormats.includes(ext) ? 'good' : suspFormats.includes(ext) ? 'warn' : 'info',
+        explanation: 'Camera-native formats (JPEG, TIFF, RAW) are more likely to retain EXIF data.',
+        excerpt: `Extension: .${ext} — ${imgFormats.includes(ext) ? 'camera-native format' : suspFormats.includes(ext) ? 'derived/converted format' : 'uncommon format'}`,
+        dataPath: [
+          `File extension: .${ext}`,
+          `Camera-native formats (retain EXIF): ${imgFormats.join(', ')}`,
+          `Derived/converted formats (often lose EXIF): ${suspFormats.join(', ')}`,
+          `Classification: ${imgFormats.includes(ext) ? 'NATIVE — likely retains EXIF' : suspFormats.includes(ext) ? 'DERIVED — may have stripped EXIF' : 'UNKNOWN'}`,
         ],
       },
       {
         label: 'Cross-source consistency',
         value: `${crossCheck.consistencyScore}% (${crossCheck.corroboratingCount} corroborating / ${crossCheck.conflictingCount} conflicting)`,
         status: crossCheck.consistencyScore >= 65 ? 'good' : crossCheck.consistencyScore >= 40 ? 'warn' : 'bad',
+        excerpt: `${crossCheck.corroboratingCount} signals corroborate authenticity, ${crossCheck.conflictingCount} signals conflict`,
+        dataPath: [
+          `Built cross-check from EXIF metadata signals`,
+          `Corroborating signals: ${crossCheck.corroboratingCount}`,
+          `Conflicting signals: ${crossCheck.conflictingCount}`,
+          `Consistency score: ${crossCheck.consistencyScore}%`,
+        ],
       },
-      ...exifFindings,
-      // File size analysis
-      {
-        label: 'File size',
-        value: `${(file.size / 1024).toFixed(1)} KB`,
-        status: file.size < 1024 ? 'warn' : file.size > 20 * 1024 * 1024 ? 'warn' : 'info',
-        explanation: 'Very small files may be low-quality screenshots; very large files may be uncompressed originals.',
-      },
-      // File format
-      (() => {
-        const ext = file.name.split('.').pop()?.toLowerCase() ?? '';
-        const imgFormats = ['jpg', 'jpeg', 'png', 'tiff', 'heic', 'raw', 'cr2', 'nef'];
-        const suspFormats = ['webp', 'bmp', 'gif', 'avif'];
-        return {
-          label: 'File format',
-          value: ext.toUpperCase() || 'Unknown',
-          status: imgFormats.includes(ext) ? 'good' : suspFormats.includes(ext) ? 'warn' : 'info',
-          explanation: 'Camera-native formats (JPEG, TIFF, RAW) are more likely to retain EXIF data. Screenshots and converted images often lack metadata.',
-        };
-      })(),
-      // Metadata completeness score
-      (() => {
-        const keyFields = ['Make', 'Model', 'DateTimeOriginal', 'GPSLatitude', 'ExposureTime', 'FNumber'];
-        const presentCount = keyFields.filter((f) => exifData[f] != null).length;
-        const pct = Math.round((presentCount / keyFields.length) * 100);
-        return {
-          label: 'Metadata completeness',
-          value: `${pct}% (${presentCount}/${keyFields.length} key fields)`,
-          status: pct >= 60 ? 'good' : pct >= 30 ? 'warn' : 'bad',
-          explanation: 'More EXIF fields present indicates less metadata stripping. Photos shared via social media often have metadata removed.',
-        };
-      })(),
+      ...(avgSaturation > 0 ? [{
+        label: 'Color saturation',
+        value: `${avgSaturation}% avg — ${overSaturated ? 'Over-saturated (AI/filter signal)' : 'Normal range'}`,
+        status: overSaturated ? 'warn' : 'good',
+        explanation: 'Extremely high average saturation can indicate AI-generated images or heavy filter use.',
+        excerpt: `Canvas pixel analysis: average HSL saturation = ${avgSaturation}%`,
+        dataPath: [
+          `Loaded image into 80×80 canvas for pixel sampling`,
+          `Sampled every 4th pixel, converted RGB → HSL saturation`,
+          `Average saturation: ${avgSaturation}%`,
+          `Threshold for over-saturation: >75%`,
+          overSaturated ? 'WARNING: Over-saturated — common in AI-generated or heavily filtered images' : 'Normal saturation range',
+          overSaturated ? 'Score impact: -8 points' : 'No score impact',
+        ],
+      }] : []),
+      ...(hasAlpha ? [{
+        label: 'Alpha channel',
+        value: 'Transparency/alpha channel detected',
+        status: 'warn',
+        explanation: 'Images with active alpha channels (transparency) may be composites or overlays.',
+        excerpt: 'Canvas pixel analysis detected pixels with alpha < 250 in more than 5% of sampled pixels',
+        dataPath: [
+          'Scanned sampled pixels for alpha channel usage',
+          'Found >5% of pixels with partial transparency',
+          'Indicates possible compositing, overlay, or removal of background',
+          'Score impact: -5 points',
+        ],
+      }] : []),
+      ...(fileHash ? [{
+        label: 'File fingerprint (SHA-256)',
+        value: `${fileHash.slice(0, 16)}…`,
+        status: 'info',
+        explanation: 'A cryptographic hash uniquely identifies this exact file. Can be used to cross-reference with known image databases.',
+        excerpt: `SHA-256: ${fileHash}`,
+        dataPath: [
+          `Read file as ArrayBuffer: ${file.name}`,
+          `Applied Web Crypto API SHA-256 digest`,
+          `Full hash: ${fileHash}`,
+          'This hash uniquely identifies this exact file content (any modification would change the hash)',
+        ],
+      }] : []),
+      ...(datesMismatch ? [{
+        label: 'Date inconsistency',
+        value: dateMismatchDetail,
+        status: 'bad',
+        explanation: 'The EXIF capture date and the file modification date are inconsistent, suggesting metadata manipulation.',
+        excerpt: `EXIF capture date: ${new Date(captureDate).toLocaleDateString()} | File last modified: ${fileModDate?.toLocaleDateString()}`,
+        dataPath: [
+          `EXIF DateTimeOriginal: ${captureDate}`,
+          `File.lastModified: ${fileModDate?.toISOString()}`,
+          `Difference: file modified ${Math.abs(Math.round((fileModDate - new Date(captureDate)) / 86_400_000))} days before EXIF date`,
+          'This is inconsistent — EXIF date should not be AFTER file modification date',
+          'Possible explanation: EXIF date was edited, or metadata was injected from another file',
+          'Score impact: -12 points',
+        ],
+      }] : []),
+      ...(anomalousFileSize ? [{
+        label: 'Steganography indicator',
+        value: `Anomalous file size for format/dimensions (${compressionRatio.toFixed(2)} bytes/px)`,
+        status: 'warn',
+        explanation: 'Unusually large file size relative to image dimensions can indicate hidden data embedded in the file.',
+        excerpt: `File: ${(file.size / 1024).toFixed(1)} KB for ${imgWidth}×${imgHeight}px (${compressionRatio.toFixed(2)} bytes/pixel)`,
+        dataPath: [
+          `Image dimensions: ${imgWidth} × ${imgHeight} = ${imgWidth * imgHeight} total pixels`,
+          `File size: ${file.size} bytes`,
+          `Bytes per pixel: ${compressionRatio.toFixed(4)}`,
+          `For .${ext}: threshold >4 bytes/px for PNG, >2 bytes/px for JPEG`,
+          'This ratio is higher than expected — possible hidden data (steganography)',
+          'Score impact: -10 points',
+        ],
+      }] : []),
+      ...exifFindings.filter((f) => !['Camera', 'Date taken', 'GPS location', 'Edit software', 'EXIF'].includes(f.label)),
     ],
     timeline: [],
     error: null,
