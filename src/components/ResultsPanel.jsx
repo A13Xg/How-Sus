@@ -79,11 +79,25 @@ function MetricDetailModal({ metric, onClose }) {
           <button type="button" className="metric-close" onClick={onClose} aria-label="Close metric details">✕</button>
         </div>
         {metric.value && <p className="metric-current"><strong>Current value:</strong> {metric.value}</p>}
-        <p className="metric-body">{metric.explanation}</p>
+        {metric.explanation && <p className="metric-body">{metric.explanation}</p>}
         {metric.signals?.length > 0 && (
           <ul className="metric-signals">
             {metric.signals.map((s, i) => <li key={i}>{s}</li>)}
           </ul>
+        )}
+        {metric.excerpt && (
+          <div className="metric-excerpt-section">
+            <p className="metric-section-label">📍 Evidence / Matched Content</p>
+            <blockquote className="metric-excerpt">{metric.excerpt}</blockquote>
+          </div>
+        )}
+        {metric.dataPath?.length > 0 && (
+          <div className="metric-datapath-section">
+            <p className="metric-section-label">🔗 How this was determined</p>
+            <ol className="metric-datapath">
+              {metric.dataPath.map((step, i) => <li key={i}>{step}</li>)}
+            </ol>
+          </div>
         )}
         {metric.searchUrl && (
           <a

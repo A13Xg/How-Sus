@@ -1,0 +1,142 @@
+/* EnvironmentBadge — runtime environment indicator with feature availability tooltip */
+
+.env-badge-wrapper {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.env-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 8px 3px 6px;
+  border-radius: 12px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  cursor: default;
+}
+
+.env-badge--static {
+  background: rgba(245, 158, 11, 0.15);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  color: #f59e0b;
+}
+
+.env-badge--local {
+  background: rgba(16, 185, 129, 0.12);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  color: #10b981;
+}
+
+.env-badge__dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+  animation: env-pulse 2.5s ease-in-out infinite;
+}
+
+@keyframes env-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+.env-badge__label {
+  text-transform: uppercase;
+}
+
+.env-badge__help {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: rgba(148, 163, 184, 0.2);
+  border: 1px solid rgba(148, 163, 184, 0.35);
+  color: #94a3b8;
+  font-size: 0.6rem;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  line-height: 1;
+  transition: background 0.15s, color 0.15s;
+}
+
+.env-badge__help:hover,
+.env-badge__help:focus {
+  background: rgba(59, 130, 246, 0.25);
+  color: #3b82f6;
+  outline: none;
+}
+
+/* Tooltip */
+.env-tooltip {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  z-index: 1000;
+  min-width: 280px;
+  max-width: 340px;
+  background: #1e293b;
+  border: 1px solid rgba(100, 116, 139, 0.35);
+  border-radius: 10px;
+  padding: 12px 14px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.45);
+  color: #e2e8f0;
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+
+.env-tooltip__title {
+  margin: 0 0 6px;
+  font-size: 0.8rem;
+  color: #94a3b8;
+}
+
+.env-tooltip__desc {
+  margin: 0 0 10px;
+  color: #cbd5e1;
+  font-size: 0.77rem;
+}
+
+.env-tooltip__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.env-tooltip__item {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  font-size: 0.75rem;
+}
+
+.env-tooltip__item--unavailable { color: #fca5a5; }
+.env-tooltip__item--available { color: #86efac; }
+
+.env-tooltip__status {
+  flex-shrink: 0;
+  font-weight: 700;
+  font-size: 0.7rem;
+  margin-top: 1px;
+}
+
+.env-tooltip__reason {
+  color: #94a3b8;
+  font-weight: 400;
+}
+
+.env-tooltip__offline {
+  margin: 8px 0 0;
+  padding-top: 8px;
+  border-top: 1px solid rgba(100, 116, 139, 0.25);
+  color: #f59e0b;
+  font-size: 0.75rem;
+}

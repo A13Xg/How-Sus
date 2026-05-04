@@ -51,15 +51,30 @@ const SUSPICIOUS_KEYWORDS = [
   "shocking", "unbelievable", "you won't believe",
   "mainstream media won't tell", "they don't want you to know",
   "wake up", "share before deleted", "going viral",
+  "breaking:", "urgent:", "developing:", "just in:", "exclusive:",
+  "world exclusive", "bombshell", "explosive", "smoking gun", "leaked",
+  "cover-up", "deep state", "false flag", "crisis actor", "plandemic",
+  "sheep", "sheeple", "normies", "the globalists", "new world order",
+  "microchips", "5g causes", "they're lying", "truth bomb",
+  "share this now", "before it's too late", "time is running out",
+  "doctors don't want you to know", "big pharma doesn't want",
+  "suppressed information", "banned video",
 ];
 const TRUSTED_DOMAINS = [
   'reuters.com', 'apnews.com', 'bbc.com', 'bbc.co.uk', 'npr.org',
   'nytimes.com', 'theguardian.com', 'washingtonpost.com', 'wsj.com',
   'bloomberg.com', 'economist.com', 'nature.com', 'science.org',
+  'cnn.com', 'abc.net.au', 'cbsnews.com', 'nbcnews.com', 'abcnews.go.com',
+  'politifact.com', 'snopes.com', 'factcheck.org', 'fullfact.org',
+  'usatoday.com', 'latimes.com', 'chicagotribune.com', 'bostonglobe.com',
+  'newsweek.com', 'time.com', 'theatlantic.com', 'newyorker.com',
+  'foreignpolicy.com', 'foreignaffairs.com',
+  'who.int', 'cdc.gov', 'nih.gov', 'fda.gov', 'gov.uk', 'europa.eu',
+  'stanford.edu', 'harvard.edu', 'mit.edu', 'oxford.ac.uk', 'cambridge.org',
 ];
 
 // TLD reputation lists (used in URL analysis)
-const SUSPICIOUS_TLDS = ['xyz', 'info', 'click', 'buzz', 'top', 'win', 'bid', 'party', 'club', 'link', 'news', 'review', 'stream', 'download', 'loan'];
+const SUSPICIOUS_TLDS = ['xyz', 'info', 'click', 'buzz', 'top', 'win', 'bid', 'party', 'club', 'link', 'news', 'review', 'stream', 'download', 'loan', 'tk', 'ml', 'ga', 'cf', 'gq', 'pw', 'cc', 'biz', 'mobi'];
 const TRUSTED_TLDS = ['com', 'org', 'edu', 'gov', 'net', 'int'];
 
 // Hedging language patterns (used in text analysis)
@@ -90,6 +105,14 @@ const DOMAIN_TIERS = {
   'nytimes.com': 2, 'theguardian.com': 2, 'washingtonpost.com': 2,
   'wsj.com': 2, 'bloomberg.com': 2, 'economist.com': 2,
   'nature.com': 1, 'science.org': 1,
+  'cnn.com': 2, 'cbsnews.com': 2, 'nbcnews.com': 2, 'abcnews.go.com': 2,
+  'abc.net.au': 1,
+  'politifact.com': 1, 'snopes.com': 1, 'factcheck.org': 1, 'fullfact.org': 1,
+  'usatoday.com': 2, 'latimes.com': 2, 'chicagotribune.com': 2,
+  'newsweek.com': 2, 'time.com': 2, 'theatlantic.com': 2, 'newyorker.com': 2,
+  'foreignpolicy.com': 2, 'foreignaffairs.com': 2,
+  'who.int': 1, 'cdc.gov': 1, 'nih.gov': 1,
+  'stanford.edu': 1, 'harvard.edu': 1, 'mit.edu': 1,
 };
 
 function getSourceTier(sourceOrDomain) {
@@ -334,11 +357,11 @@ function normalizeSentence(sentence) {
 /**
  * tokenizeText — converts text to a lowercased list of tokens for keyword matching.
  *
- * Strips URLs, punctuation, and short tokens, then limits to 24 tokens to keep
+ * Strips URLs, punctuation, and short tokens, then limits to 48 tokens to keep
  * keyword matching O(n) regardless of input size.
  *
  * @param {string} value - any text input
- * @returns {string[]} array of lowercase tokens (length ≥ 4 characters, max 24)
+ * @returns {string[]} array of lowercase tokens (length ≥ 3 characters, max 48)
  */
 function tokenizeText(value) {
   return (value || '')
@@ -346,8 +369,8 @@ function tokenizeText(value) {
     .replace(/https?:\/\//g, ' ')  // Remove URL schemes before tokenising
     .replace(/[^a-z0-9\s]/g, ' ')  // Strip punctuation, keep alphanumeric + spaces
     .split(/\s+/)
-    .filter((token) => token.length >= 4)  // Skip very short tokens (noise)
-    .slice(0, 24);                         // Cap at 24 tokens for performance
+    .filter((token) => token.length >= 3)  // Skip very short tokens (noise)
+    .slice(0, 48);                         // Cap at 48 tokens for performance
 }
 
 /**
@@ -359,10 +382,10 @@ function tokenizeText(value) {
  *
  * @param {object|null} feedData         - parsed corroboration-feed.json (may be null)
  * @param {string}      text             - user input or domain string to match against
- * @param {number}      [limit=5]        - maximum number of entries to return
+ * @param {number}      [limit=8]        - maximum number of entries to return
  * @returns {{ entries: Array, matchedKeywords: string[] }}
  */
-function selectFeedEntriesWithKeywords(feedData, text, limit = 5) {
+function selectFeedEntriesWithKeywords(feedData, text, limit = 8) {
   const entries = Array.isArray(feedData?.entries) ? feedData.entries : [];
   if (!entries.length) return { entries: [], matchedKeywords: [] };
 
@@ -394,12 +417,18 @@ function selectFeedEntriesWithKeywords(feedData, text, limit = 5) {
 
 function buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, pathKeywords, feedEntries = [], matchedKeywords = [] }) {
   const trustedPool = [
-    { source: 'Reuters', tier: 1 },
-    { source: 'AP News', tier: 1 },
-    { source: 'BBC News', tier: 1 },
-    { source: 'NPR', tier: 1 },
-    { source: 'The Guardian', tier: 2 },
-    { source: 'Bloomberg', tier: 2 },
+    { source: 'Reuters', tier: 1, url: 'reuters.com' },
+    { source: 'AP News', tier: 1, url: 'apnews.com' },
+    { source: 'BBC News', tier: 1, url: 'bbc.com' },
+    { source: 'NPR', tier: 1, url: 'npr.org' },
+    { source: 'PBS NewsHour', tier: 1, url: 'pbs.org' },
+    { source: 'PolitiFact', tier: 1, url: 'politifact.com' },
+    { source: 'Snopes', tier: 1, url: 'snopes.com' },
+    { source: 'FactCheck.org', tier: 1, url: 'factcheck.org' },
+    { source: 'The Guardian', tier: 2, url: 'theguardian.com' },
+    { source: 'Bloomberg', tier: 2, url: 'bloomberg.com' },
+    { source: 'Associated Press', tier: 1, url: 'apnews.com' },
+    { source: 'Deutsche Welle', tier: 2, url: 'dw.com' },
   ];
   const altPool = [
     { source: 'Independent Blog', tier: 3 },
@@ -706,7 +735,7 @@ function buildCrossCheckForImage(exifFindings, fileName = '') {
   };
 }
 
-/** Analyse a URL and return a scanResults-shaped object. */
+/** Analyze a URL and return a scanResults-shaped object. */
 function analyzeUrl(url, dateFrom, dateTo, feedData) {
   try {
     const urlObj = new URL(url.startsWith('http') ? url : `https://${url}`);
@@ -719,7 +748,7 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
     );
     const domainAgeDays = Math.floor(Math.random() * 3000) + 100;
 
-    const { entries: feedEntries, matchedKeywords } = selectFeedEntriesWithKeywords(feedData, `${domain} ${url}`, 5);
+    const { entries: feedEntries, matchedKeywords } = selectFeedEntriesWithKeywords(feedData, `${domain} ${url}`, 8);
     const crossCheck = buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, pathKeywords, feedEntries, matchedKeywords });
     const urlPathText = urlObj.pathname.replace(/[-_/]/g, ' ');
     const sentiment = analyzeSentiment(`${domain} ${urlPathText}`);
@@ -763,11 +792,27 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
           label: 'Domain reputation',
           value: isTrusted ? 'Trusted source' : isSuspicious ? 'Suspicious domain' : 'Unknown source',
           status: isTrusted ? 'good' : isSuspicious ? 'bad' : 'warn',
+          excerpt: `Domain: ${domain}`,
+          dataPath: [
+            `Input URL: ${url}`,
+            `Extracted domain: ${domain}`,
+            `Checked against ${TRUSTED_DOMAINS.length} trusted domains: ${isTrusted ? 'MATCH FOUND' : 'no match'}`,
+            `Checked against ${SUSPICIOUS_DOMAINS.length} suspicious patterns: ${isSuspicious ? 'MATCH FOUND' : 'no match'}`,
+            `Verdict: ${isTrusted ? 'Trusted' : isSuspicious ? 'Suspicious' : 'Unknown'}`,
+          ],
+          searchUrl: `https://www.google.com/search?q=${encodeURIComponent(`"${domain}" reliability fact check`)}`,
         },
         {
           label: 'HTTPS',
           value: hasHttps ? 'Secure connection' : 'Not secure (HTTP)',
           status: hasHttps ? 'good' : 'bad',
+          excerpt: `Protocol: ${urlObj.protocol}`,
+          dataPath: [
+            `Input URL: ${url}`,
+            `Parsed protocol: ${urlObj.protocol}`,
+            `HTTPS required for secure communication: ${hasHttps ? 'YES — secure' : 'NO — plaintext HTTP'}`,
+            `Score impact: ${hasHttps ? 'none' : '-10 points'}`,
+          ],
         },
         {
           label: 'Domain age (est.)',
@@ -778,6 +823,13 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
           label: 'URL patterns',
           value: pathKeywords ? 'Clickbait patterns detected' : 'No suspicious patterns',
           status: pathKeywords ? 'bad' : 'good',
+          excerpt: pathKeywords ? url : 'No suspicious patterns found',
+          dataPath: [
+            `Input URL: ${url}`,
+            `Scanned URL path for ${SUSPICIOUS_KEYWORDS.length} suspicious keyword patterns`,
+            pathKeywords ? `MATCH: Suspicious pattern found in URL path` : 'No matches found',
+            `Score impact: ${pathKeywords ? '-15 points' : 'none'}`,
+          ],
         },
         {
           label: 'Cross-source consistency',
@@ -865,7 +917,8 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
       timeline: generateTimeline(domain),
       error: null,
     };
-  } catch {
+  } catch (err) {
+    logger.warn('URL analysis failed', { url, error: err?.message });
     return {
       authenticityScore: 0,
       type: 'url',
@@ -881,7 +934,7 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
   }
 }
 
-/** Analyse plain text and return a scanResults-shaped object. */
+/** Analyze plain text and return a scanResults-shaped object. */
 function analyzeText(text, feedData) {
   const lower = text.toLowerCase();
   const words = text.trim().split(/\s+/);
@@ -892,7 +945,7 @@ function analyzeText(text, feedData) {
   const exclamCount = (text.match(/!/g) || []).length;
   const hasQuotes = /[""][^""]+[""]/.test(text) || /"[^"]+"/.test(text);
   const hasNumbers = /\d/.test(text);
-  const { entries: feedEntries, matchedKeywords } = selectFeedEntriesWithKeywords(feedData, text, 5);
+  const { entries: feedEntries, matchedKeywords } = selectFeedEntriesWithKeywords(feedData, text, 8);
   const crossCheck = buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, feedEntries, matchedKeywords);
   const sentiment = analyzeSentiment(text);
   const readability = analyzeReadability(text);
@@ -923,6 +976,32 @@ function analyzeText(text, feedData) {
   score -= hedgeCount * 4;
   score = Math.max(5, Math.min(100, Math.round(score)));
 
+  // Named entity recognition (capitalized word sequences)
+  const namedEntities = (text.match(/\b[A-Z][a-z]+ (?:[A-Z][a-z]+ )*[A-Z][a-z]+/g) || []);
+  const uniqueEntitiesNER = [...new Set(namedEntities)];
+
+  // Date references
+  const dateRefs = text.match(/\b(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2},?\s+\d{4}/gi) || [];
+  const hasDateRefs = dateRefs.length > 0;
+
+  // Quote attribution
+  const quoteAttrib = text.match(/[""][^""]{10,}[""][\s,]+(?:said|according to|stated|wrote|reported|confirmed|noted)/gi) || [];
+  const hasQuoteAttribution = quoteAttrib.length > 0;
+
+  // Statistical claims
+  const statClaims = text.match(/\b\d+(?:\.\d+)?(?:\s*%|\s+percent|\s+million|\s+billion|\s+thousand)/gi) || [];
+  const hasStatistics = statClaims.length > 0;
+
+  // Source attribution
+  const sourceAttribs = text.match(/\baccording to\b|\bsources say\b|\bsources close to\b|\bconfirmed by\b|\breported by\b/gi) || [];
+
+  if (hasDateRefs) score += Math.min(10, dateRefs.length * 5);
+  if (hasQuoteAttribution) score += 8;
+  if (hasStatistics) score += 5;
+  if (uniqueEntitiesNER.length > 3) score += 8;
+  if (sourceAttribs.length > 2) score += 5;
+  score = Math.max(5, Math.min(100, Math.round(score)));
+
   return {
     authenticityScore: score,
     type: 'text',
@@ -949,11 +1028,21 @@ function analyzeText(text, feedData) {
       },
       {
         label: 'Suspicious keywords',
-        value:
-          suspiciousMatches.length > 0
-            ? `${suspiciousMatches.length} found: ${suspiciousMatches.join(', ')}`
-            : 'None detected',
-        status: suspiciousMatches.length === 0 ? 'good' : suspiciousMatches.length < 2 ? 'warn' : 'bad',
+        value: suspiciousMatches.length > 0
+          ? `${suspiciousMatches.length} detected: ${suspiciousMatches.slice(0, 3).join(', ')}`
+          : 'None detected',
+        status: suspiciousMatches.length > 2 ? 'bad' : suspiciousMatches.length > 0 ? 'warn' : 'good',
+        excerpt: suspiciousMatches.length > 0
+          ? suspiciousMatches.map((k) => {
+              const idx = lower.indexOf(k);
+              return `"...${text.slice(Math.max(0, idx - 20), Math.min(text.length, idx + k.length + 20))}..."`;
+            }).slice(0, 3).join(' | ')
+          : 'No suspicious keywords detected in text',
+        dataPath: [
+          `Scanned ${wordCount} words against ${SUSPICIOUS_KEYWORDS.length} suspicious keyword patterns`,
+          `Matched keywords: ${suspiciousMatches.join(', ') || 'none'}`,
+          `Score impact: -${suspiciousMatches.length * 8} points`,
+        ],
       },
       {
         label: 'Capitalization',
@@ -1065,6 +1154,78 @@ function analyzeText(text, feedData) {
           explanation: 'Excessive rhetorical questions (especially in headlines) are a common misinformation tactic for implying unproven claims.',
         };
       })(),
+      // Named entity recognition
+      (() => {
+        return {
+          label: 'Named entity recognition',
+          value: uniqueEntitiesNER.length > 0
+            ? `${uniqueEntitiesNER.length} named entities found`
+            : 'No named entities detected',
+          status: uniqueEntitiesNER.length > 3 ? 'good' : uniqueEntitiesNER.length > 0 ? 'warn' : 'bad',
+          excerpt: uniqueEntitiesNER.length > 0
+            ? uniqueEntitiesNER.slice(0, 5).join(', ')
+            : 'No multi-word proper nouns detected',
+          dataPath: [
+            `Scanned text for capitalized word sequences (e.g., "Joe Biden", "United Nations")`,
+            `Found ${namedEntities.length} matches, ${uniqueEntitiesNER.length} unique`,
+            `Score impact: ${uniqueEntitiesNER.length > 3 ? '+8 points' : 'none'}`,
+          ],
+          explanation: 'Named entities (specific people, places, organizations) indicate factual grounding. Vague claims without entities are harder to verify.',
+        };
+      })(),
+      // Quote attribution
+      (() => {
+        return {
+          label: 'Quote attribution',
+          value: hasQuoteAttribution ? `${quoteAttrib.length} attributed quote(s) found` : 'No attributed quotes',
+          status: hasQuoteAttribution ? 'good' : 'warn',
+          excerpt: hasQuoteAttribution
+            ? quoteAttrib[0].slice(0, 120)
+            : 'No quotes with attribution (said/stated/reported) found',
+          dataPath: [
+            `Scanned for quoted text followed by attribution verbs (said, stated, reported, etc.)`,
+            `Found ${quoteAttrib.length} attributed quote(s)`,
+            `Score impact: ${hasQuoteAttribution ? '+8 points' : 'none'}`,
+          ],
+          explanation: 'Attributed quotes indicate primary source reporting and journalistic standards.',
+        };
+      })(),
+      // Statistical claims
+      (() => {
+        return {
+          label: 'Statistical claims',
+          value: hasStatistics ? `${statClaims.length} statistic(s) found` : 'No statistics detected',
+          status: hasStatistics ? 'good' : 'info',
+          excerpt: hasStatistics
+            ? statClaims.slice(0, 3).join(' | ')
+            : 'No numeric percentage, million, or billion references found',
+          dataPath: [
+            `Scanned for numeric claims with units (%, million, billion, thousand)`,
+            `Found: ${statClaims.slice(0, 5).join(', ') || 'none'}`,
+            `Score impact: ${hasStatistics ? '+5 points' : 'none'}`,
+          ],
+          explanation: 'Verifiable statistical claims are a hallmark of evidence-based reporting.',
+        };
+      })(),
+      // Source attribution
+      (() => {
+        return {
+          label: 'Source attribution',
+          value: sourceAttribs.length > 0
+            ? `${sourceAttribs.length} attribution phrase(s)`
+            : 'No source attribution found',
+          status: sourceAttribs.length > 2 ? 'good' : sourceAttribs.length > 0 ? 'warn' : 'bad',
+          excerpt: sourceAttribs.length > 0
+            ? sourceAttribs.slice(0, 3).join(' | ')
+            : 'No "according to", "confirmed by", or "reported by" phrases found',
+          dataPath: [
+            `Scanned for attribution phrases: "according to", "sources say", "confirmed by", "reported by"`,
+            `Found ${sourceAttribs.length} instance(s)`,
+            `Score impact: ${sourceAttribs.length > 2 ? '+5 points' : 'none'}`,
+          ],
+          explanation: 'Source attribution phrases indicate the journalist is citing verifiable sources rather than making unsourced claims.',
+        };
+      })(),
     ],
     sentiment,
     readability,
@@ -1074,7 +1235,7 @@ function analyzeText(text, feedData) {
   };
 }
 
-/** Analyse an image file (EXIF extraction) and return a scanResults-shaped object. */
+/** Analyze an image file (EXIF extraction) and return a scanResults-shaped object. */
 async function analyzeImage(file) {
   let exifData = {};
   const exifFindings = [];
@@ -1117,7 +1278,8 @@ async function analyzeImage(file) {
         });
       }
     }
-  } catch {
+  } catch (err) {
+    logger.warn('EXIF extraction failed', { fileName: file?.name, error: err?.message });
     exifFindings.push({ label: 'EXIF', value: 'Could not extract metadata', status: 'warn' });
   }
 
@@ -1171,16 +1333,43 @@ async function analyzeImage(file) {
         label: 'EXIF metadata',
         value: `${Object.keys(exifData).length} fields found`,
         status: Object.keys(exifData).length > 0 ? 'good' : 'warn',
+        excerpt: Object.keys(exifData).length > 0
+          ? `EXIF fields: ${Object.keys(exifData).slice(0, 8).join(', ')}${Object.keys(exifData).length > 8 ? '...' : ''}`
+          : 'No EXIF metadata present in this file',
+        dataPath: [
+          `File: ${file.name} (${(file.size / 1024).toFixed(1)} KB)`,
+          `Attempted EXIF extraction using exifr library`,
+          `Result: ${Object.keys(exifData).length} metadata fields found`,
+          Object.keys(exifData).length === 0 ? 'Missing EXIF likely indicates: screenshot, social media download, or deliberate stripping' : `Key fields present: ${Object.keys(exifData).slice(0, 5).join(', ')}`,
+        ],
       },
       {
         label: 'Edit software detected',
         value: hasEditing ? 'Yes (editing software in EXIF)' : 'No signs of editing',
         status: hasEditing ? 'bad' : 'good',
+        excerpt: hasEditing
+          ? `Editing software: ${exifFindings.find((f) => f.label === 'Edit software')?.value ?? 'detected'}`
+          : 'No photo editing software detected in EXIF metadata',
+        dataPath: [
+          `File: ${file.name}`,
+          `Checked EXIF "Software" field for known editing tools (Photoshop, GIMP, Lightroom, Affinity)`,
+          hasEditing ? `MATCH: ${exifFindings.find((f) => f.label === 'Edit software')?.value ?? 'editing software'} detected` : 'No editing software signature found',
+          `Score impact: ${hasEditing ? '-20 points' : 'none'}`,
+        ],
       },
       {
         label: 'GPS coordinates',
         value: hasGPS ? 'Location data present' : 'No GPS data',
         status: hasGPS ? 'warn' : 'info',
+        excerpt: hasGPS
+          ? `GPS: ${exifFindings.find((f) => f.label === 'GPS location')?.value ?? 'coordinates present'}`
+          : 'No GPS coordinates in EXIF metadata',
+        dataPath: [
+          `File: ${file.name}`,
+          `Checked EXIF for GPSLatitude and GPSLongitude fields`,
+          hasGPS ? `GPS data found: ${exifFindings.find((f) => f.label === 'GPS location')?.value ?? 'present'}` : 'No GPS fields in EXIF',
+          'GPS presence enables location verification but also raises privacy concerns',
+        ],
       },
       {
         label: 'Cross-source consistency',
@@ -1249,7 +1438,7 @@ async function runAiAnalysis(inputData, aiConfig) {
       ? `Text snippet: ${inputData.value.slice(0, 600)}`
       : `Image file: ${inputData.file?.name ?? 'unknown'}`;
 
-  const prompt = `You are a misinformation detection expert. Analyse the following content for authenticity and determine if the story is likely valid.
+  const prompt = `You are a misinformation detection expert. Analyze the following content for authenticity and determine if the story is likely valid.
 
 ${contentSnippet}
 
@@ -1315,8 +1504,8 @@ Reply in JSON only with this shape:
       const parsed = JSON.parse(cleaned);
       logger.info(`AI analysis complete — confidence: ${parsed.confidence ?? 'N/A'}, validity: ${parsed.storyValidity ?? 'N/A'}`);
       return { ...parsed, provider, model };
-    } catch {
-      logger.warn(`AI JSON parse failed — returning raw text`, { raw: cleaned.slice(0, 200) });
+    } catch (parseErr) {
+      logger.warn('AI JSON parse failed — returning raw text', { raw: cleaned.slice(0, 200), error: parseErr?.message });
       return { confidence: null, storyValidity: 'uncertain', summary: cleaned, provider, model };
     }
   } catch (err) {
@@ -1393,8 +1582,8 @@ function App() {
         // Remove hash so the page can be refreshed cleanly
         history.replaceState(null, '', window.location.pathname + window.location.search);
       }
-    } catch {
-      // Malformed or stale share link — ignore silently
+    } catch (err) {
+      logger.warn('Malformed or stale share link — ignoring', { error: err?.message });
     }
 
     return () => {
@@ -1421,14 +1610,14 @@ function App() {
           setScanPhase('complete');
         }
       }
-    } catch { /* ignore */ }
+    } catch (err) { logger.debug('Session restore failed', { error: err?.message }); }
   }, []);
 
   useEffect(() => {
     if (scanResults && scanPhase === 'complete') {
       try {
         sessionStorage.setItem('howsus-session', JSON.stringify({ results: scanResults, input: inputData }));
-      } catch { /* ignore */ }
+      } catch (err) { logger.debug('Session persist failed', { error: err?.message }); }
     }
   }, [scanResults, scanPhase, inputData]);
 
@@ -1529,7 +1718,7 @@ function App() {
         if (parsed.protocol === 'https:' || parsed.protocol === 'http:') {
           safeInputUrl = parsed.href;
         }
-      } catch { /* invalid URL — skip screenshot */ }
+      } catch (err) { logger.debug('Invalid URL — skipping screenshot', { error: err?.message }); }
 
       if (safeInputUrl) {
         logger.info('Fetching URL screenshot via Microlink.io...');
