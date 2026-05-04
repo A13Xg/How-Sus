@@ -44,6 +44,7 @@ import { useSettings } from './lib/settings.js';
 import { checkForUpdates } from './lib/updateChecker.js';
 import logger from './lib/logger.js';
 import useKeyboardShortcuts from './lib/useKeyboardShortcuts.js';
+import { analyzeFormality } from './lib/formalityAnalyzer.js';
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 const SUSPICIOUS_DOMAINS = ['fakenews', 'hoax', 'clickbait', 'viral', 'shocking', 'unbelievable'];
@@ -734,6 +735,103 @@ function buildCrossCheckForImage(exifFindings, fileName = '') {
   };
 }
 
+/**
+ * computeSourceFreshness — evaluates how fresh the matched feed entries are.
+ *
+ * Returns a freshness score 0-100 where:
+ * - 100 = all matched sources are < 1 day old
+ * - 50  = sources are 1-30 days old
+ * - 0   = all sources are >90 days old or no date available
+ *
+ * @param {Array} feedEntries - matched corroboration feed entries
+ * @returns {{ score: number, label: string, newestDate: string|null, oldestDate: string|null }}
+ */
+function computeSourceFreshness(feedEntries) {
+  if (!feedEntries || feedEntries.length === 0) {
+    return { score: 0, label: 'No sources', newestDate: null, oldestDate: null };
+  }
+
+  const now = Date.now();
+  const daysOld = feedEntries
+    .map((e) => {
+      if (!e.date) return null;
+      try {
+        const t = new Date(e.date).getTime();
+        if (isNaN(t)) return null;
+        return Math.max(0, (now - t) / 86_400_000);
+      } catch { return null; }
+    })
+    .filter((d) => d !== null);
+
+  if (daysOld.length === 0) return { score: 30, label: 'Unknown date', newestDate: null, oldestDate: null };
+
+  const avgDays = daysOld.reduce((a, b) => a + b, 0) / daysOld.length;
+
+  // Score: 100 for <1 day, linear decay to 0 at 90 days
+  const score = Math.max(0, Math.round(100 - (avgDays / 90) * 100));
+  const label =
+    avgDays < 1 ? 'Very fresh (< 1 day)' :
+    avgDays < 7 ? 'Recent (< 1 week)' :
+    avgDays < 30 ? 'Moderate (< 1 month)' :
+    avgDays < 90 ? 'Aging (< 3 months)' :
+    'Stale (> 3 months)';
+
+  const dateEntries = feedEntries.filter((e) => e.date).map((e) => e.date).sort();
+  return {
+    score,
+    label,
+    newestDate: dateEntries[0] || null,
+    oldestDate: dateEntries[dateEntries.length - 1] || null,
+    avgDaysOld: Math.round(avgDays),
+  };
+}
+
+/**
+ * computeClaimDensity — measures how many verifiable claims exist per 100 words.
+ *
+ * Verifiable claims include:
+ * - Specific numbers/statistics
+ * - Named people or organizations
+ * - Dates
+ * - Quoted statements
+ * - Attributed sources
+ *
+ * Higher claim density = more specific, verifiable content (positive signal).
+ *
+ * @param {string} text - article text
+ * @returns {{ density: number, label: string, claimsFound: number, wordCount: number }}
+ */
+function computeClaimDensity(text) {
+  if (!text || text.trim().length < 20) return { density: 0, label: 'No content', claimsFound: 0, wordCount: 0 };
+
+  const wordCount = text.trim().split(/\s+/).length;
+
+  const patterns = [
+    /\b\d+(?:\.\d+)?(?:\s*%|\s+percent)/gi,                                                      // Percentages
+    /\$\s*\d+(?:,\d{3})*(?:\.\d+)?(?:\s*(?:million|billion|thousand))?/gi,                       // Dollar amounts
+    /\b\d+(?:,\d{3})*(?:\s*(?:million|billion|thousand))\b/gi,                                   // Large numbers
+    /\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+)+\b/g,                                                      // Named entities
+    /[""][^""]{15,}[""]|"[^"]{15,}"/g,                                                          // Quotations
+    /\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+\d{4}/gi, // Dates
+    /\baccording to\s+[A-Z]/g,                                                                   // Attribution
+  ];
+
+  let total = 0;
+  for (const p of patterns) {
+    total += (text.match(p) || []).length;
+  }
+
+  const density = wordCount > 0 ? Math.round((total / wordCount) * 100) : 0;
+
+  const label =
+    density >= 15 ? 'High (very specific, verifiable)' :
+    density >= 8 ? 'Medium (some verifiable claims)' :
+    density >= 3 ? 'Low (few verifiable claims)' :
+    'Very low (mostly assertions)';
+
+  return { density, label, claimsFound: total, wordCount };
+}
+
 /** Analyze a URL and return a scanResults-shaped object. */
 function analyzeUrl(url, dateFrom, dateTo, feedData) {
   try {
@@ -752,6 +850,8 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
     const urlPathText = urlObj.pathname.replace(/[-_/]/g, ' ');
     const sentiment = analyzeSentiment(`${domain} ${urlPathText}`);
     const darkPatternsResult = detectDarkPatterns(`${url} ${urlPathText}`);
+    const formalityResult = analyzeFormality(`${domain} ${urlPathText}`);
+    const sourceFreshness = computeSourceFreshness(feedEntries);
 
     let score = isTrusted ? 90 : isSuspicious ? 20 : Math.max(30, Math.min(85, 60 + domainAgeDays / 100));
     if (!hasHttps) score -= 10;
@@ -910,6 +1010,37 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
             explanation: 'Extremely long URLs can indicate link shortener abuse or tracking-heavy links.',
           };
         })(),
+        // Language formality
+        {
+          label: 'Language formality',
+          value: `${formalityResult.label} (${formalityResult.score}/100)`,
+          status: formalityResult.score >= 55 ? 'good' : formalityResult.score >= 35 ? 'warn' : 'bad',
+          explanation: 'Formal language patterns correlate with professional journalism. Highly informal text may indicate opinion or low-credibility content.',
+          excerpt: formalityResult.details.slice(0, 3).join(' | ') || 'No notable formality markers found',
+          dataPath: [
+            `Analyzed URL path text for formality markers`,
+            `Informal markers found: ${formalityResult.informalCount}`,
+            `Formal markers found: ${formalityResult.formalCount}`,
+            `Formality score: ${formalityResult.score}/100`,
+            `Classification: ${formalityResult.label}`,
+          ],
+        },
+        // Source freshness
+        {
+          label: 'Source freshness',
+          value: sourceFreshness.label,
+          status: sourceFreshness.score >= 60 ? 'good' : sourceFreshness.score >= 30 ? 'warn' : 'info',
+          explanation: 'How recently the corroborating sources were published. Fresh sources provide stronger context.',
+          excerpt: sourceFreshness.newestDate
+            ? `Most recent matched source: ${sourceFreshness.newestDate} | Oldest: ${sourceFreshness.oldestDate}`
+            : 'No dated sources found',
+          dataPath: [
+            `Evaluated ${feedEntries?.length || 0} matched corroboration feed entries`,
+            `Average age: ${sourceFreshness.avgDaysOld ?? 'unknown'} days`,
+            `Freshness score: ${sourceFreshness.score}/100`,
+            `Label: ${sourceFreshness.label}`,
+          ],
+        },
       ],
       sentiment,
       darkPatterns: darkPatternsResult,
@@ -949,6 +1080,9 @@ function analyzeText(text, feedData) {
   const sentiment = analyzeSentiment(text);
   const readability = analyzeReadability(text);
   const darkPatternsResult = detectDarkPatterns(text);
+  const formalityResult = analyzeFormality(text);
+  const sourceFreshness = computeSourceFreshness(feedEntries);
+  const claimDensity = computeClaimDensity(text);
 
   let score = 70;
   score -= suspiciousMatches.length * 8;
@@ -1225,6 +1359,51 @@ function analyzeText(text, feedData) {
           explanation: 'Source attribution phrases indicate the journalist is citing verifiable sources rather than making unsourced claims.',
         };
       })(),
+      // Language formality
+      {
+        label: 'Language formality',
+        value: `${formalityResult.label} (${formalityResult.score}/100)`,
+        status: formalityResult.score >= 55 ? 'good' : formalityResult.score >= 35 ? 'warn' : 'bad',
+        explanation: 'Formal language patterns correlate with professional journalism. Highly informal text may indicate opinion or low-credibility content.',
+        excerpt: formalityResult.details.slice(0, 3).join(' | ') || 'No notable formality markers found',
+        dataPath: [
+          `Analyzed ${wordCount} words for formality markers`,
+          `Informal markers found: ${formalityResult.informalCount}`,
+          `Formal markers found: ${formalityResult.formalCount}`,
+          `Formality score: ${formalityResult.score}/100`,
+          `Classification: ${formalityResult.label}`,
+        ],
+      },
+      // Source freshness
+      {
+        label: 'Source freshness',
+        value: sourceFreshness.label,
+        status: sourceFreshness.score >= 60 ? 'good' : sourceFreshness.score >= 30 ? 'warn' : 'info',
+        explanation: 'How recently the corroborating sources were published. Fresh sources provide stronger context.',
+        excerpt: sourceFreshness.newestDate
+          ? `Most recent matched source: ${sourceFreshness.newestDate} | Oldest: ${sourceFreshness.oldestDate}`
+          : 'No dated sources found',
+        dataPath: [
+          `Evaluated ${feedEntries?.length || 0} matched corroboration feed entries`,
+          `Average age: ${sourceFreshness.avgDaysOld ?? 'unknown'} days`,
+          `Freshness score: ${sourceFreshness.score}/100`,
+          `Label: ${sourceFreshness.label}`,
+        ],
+      },
+      // Claim density
+      {
+        label: 'Claim density',
+        value: `${claimDensity.label} (${claimDensity.density} per 100 words)`,
+        status: claimDensity.density >= 8 ? 'good' : claimDensity.density >= 3 ? 'warn' : 'info',
+        explanation: 'Measures verifiable claims (statistics, named entities, dates, quotes, attributions) per 100 words. Higher density = more specific, fact-checkable content.',
+        excerpt: `${claimDensity.claimsFound} verifiable claim markers found in ${claimDensity.wordCount} words`,
+        dataPath: [
+          `Analyzed ${claimDensity.wordCount} words for verifiable claim markers`,
+          `Claims found: ${claimDensity.claimsFound} (percentages, dollar amounts, named entities, dates, quotes, attributions)`,
+          `Density: ${claimDensity.density} per 100 words`,
+          `Classification: ${claimDensity.label}`,
+        ],
+      },
     ],
     sentiment,
     readability,
