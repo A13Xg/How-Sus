@@ -74,7 +74,7 @@ const logger = {
         const entries = performance.getEntriesByName(`howsus:${label}`);
         if (entries.length) durationMs = entries[entries.length - 1].duration.toFixed(1);
       }
-    } catch { /* perf API unavailable */ }
+    } catch (err) { _log('DEBUG', `[timer:end:error] ${label}`, { error: err?.message }); }
     _log('DEBUG', `[timer:end] ${label}`, durationMs != null ? { durationMs } : undefined);
   },
 };

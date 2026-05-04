@@ -13,8 +13,7 @@ import './EnvironmentBadge.css';
 function detectEnvironment() {
   const isLocalhost = typeof window !== 'undefined' &&
     (window.location.hostname === 'localhost' ||
-     window.location.hostname === '127.0.0.1' ||
-     window.location.hostname === '0.0.0.0');
+     window.location.hostname === '127.0.0.1');
 
   const isGitHubPages = typeof window !== 'undefined' &&
     window.location.hostname.endsWith('.github.io');
@@ -85,7 +84,6 @@ export default function EnvironmentBadge() {
           onMouseLeave={() => setShowTooltip(false)}
           onFocus={() => setShowTooltip(true)}
           onBlur={() => setShowTooltip(false)}
-          onClick={() => setShowTooltip(v => !v)}
         >
           ?
         </button>

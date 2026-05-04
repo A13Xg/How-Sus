@@ -427,7 +427,6 @@ function buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, path
     { source: 'FactCheck.org', tier: 1, url: 'factcheck.org' },
     { source: 'The Guardian', tier: 2, url: 'theguardian.com' },
     { source: 'Bloomberg', tier: 2, url: 'bloomberg.com' },
-    { source: 'Associated Press', tier: 1, url: 'apnews.com' },
     { source: 'Deutsche Welle', tier: 2, url: 'dw.com' },
   ];
   const altPool = [
@@ -1035,8 +1034,9 @@ function analyzeText(text, feedData) {
         excerpt: suspiciousMatches.length > 0
           ? suspiciousMatches.map((k) => {
               const idx = lower.indexOf(k);
+              if (idx === -1) return '';
               return `"...${text.slice(Math.max(0, idx - 20), Math.min(text.length, idx + k.length + 20))}..."`;
-            }).slice(0, 3).join(' | ')
+            }).filter(Boolean).slice(0, 3).join(' | ')
           : 'No suspicious keywords detected in text',
         dataPath: [
           `Scanned ${wordCount} words against ${SUSPICIOUS_KEYWORDS.length} suspicious keyword patterns`,
