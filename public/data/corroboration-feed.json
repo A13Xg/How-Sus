@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T12:40:25.515Z",
+  "generatedAt": "2026-05-04T01:12:46.668Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,17 +32,33 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-      "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 08:41:23 GMT",
-      "snippet": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+      "title": "Iran says US has responded to its latest peace proposal",
+      "link": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 21:28:09 GMT",
+      "snippet": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+      "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 02 May 2026 23:19:27 GMT",
+      "snippet": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 22:13:36 GMT",
+      "snippet": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
       "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 12:05:59 GMT",
+      "publishedAt": "Sun, 03 May 2026 13:43:20 GMT",
       "snippet": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
       "tier": 1
     },
@@ -56,26 +72,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Huge crowd attends free Shakira Copacabana beach concert",
-      "link": "https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 07:56:47 GMT",
-      "snippet": "Shakira's appearance followed shows by Lady Gaga and Madonna, who have also performed on Copacabana beach in previous years.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Man charged with murder and sexual assault of 5-year-old Australian girl",
-      "link": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 05:52:09 GMT",
-      "snippet": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 02 May 2026 23:19:27 GMT",
-      "snippet": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+      "title": "Police officer lowered into crocodile-infested river to recover human remains",
+      "link": "https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 15:47:59 GMT",
+      "snippet": "Police suspect the human remains belong to a businessman swept away by floodwater last week.",
       "tier": 1
     },
     {
@@ -88,10 +88,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Concern for jailed Iranian Nobel laureate as family say health deteriorating",
+      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+      "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 08:41:23 GMT",
+      "snippet": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Concern for jailed Iranian Nobel laureate as brother fears she is dying",
       "link": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 02 May 2026 17:55:06 GMT",
-      "snippet": "On Friday her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
+      "publishedAt": "Sun, 03 May 2026 14:44:04 GMT",
+      "snippet": "Her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Two US service members reported missing in Morocco, officials say",
+      "link": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 17:27:21 GMT",
+      "snippet": "A search and rescue operation is underway for the service members, who are believed to have been involved in an accident, according to authorities.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Man charged with murder of 5-year-old Australian girl",
+      "link": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 05:52:09 GMT",
+      "snippet": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
       "tier": 1
     },
     {
@@ -146,7 +170,7 @@
       "source": "BBC World",
       "title": "Who shot a Secret Service officer at the Trump press dinner?",
       "link": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 21:44:05 GMT",
+      "publishedAt": "Sun, 03 May 2026 17:29:13 GMT",
       "snippet": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
       "tier": 1
     },
@@ -167,27 +191,35 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
-      "link": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 02 May 2026 17:01:47 GMT",
-      "snippet": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
+      "source": "NPR News",
+      "title": "Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says",
+      "link": "https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean",
+      "publishedAt": "Sun, 03 May 2026 19:30:14 -0400",
+      "snippet": "Hantaviruses are usually spread by exposure to urine, saliva or feces from infected rodents, such as rats or mice. Hantavirus infections are rare but can cause deadly respiratory infections.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
-      "link": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 15:12:14 GMT",
-      "snippet": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
+      "source": "NPR News",
+      "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
+      "link": "https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war",
+      "publishedAt": "Sun, 03 May 2026 18:24:37 -0400",
+      "snippet": "U.S. gas prices were nearly $3 an average prior to the start of the war in Iran.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
-      "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 01 May 2026 13:12:10 GMT",
-      "snippet": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
+      "source": "NPR News",
+      "title": "Pellet found in Secret Service agent&apos;s vest links suspect to WHCD attack, Pirro says",
+      "link": "https://www.npr.org/2026/05/03/nx-s1-5809482/correspondents-dinner-shooter-bullet-vest-secret-service",
+      "publishedAt": "Sun, 03 May 2026 17:09:20 -0400",
+      "snippet": "The pellet \"definitively\" links the suspect, Cole Tomas Allen, to the attack, U.S. Attorney Jeanine Pirro told CNN on Sunday.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "&apos;I just want to see her again&apos; says son of imprisoned Myanmar ex-leader Aung San Suu Kyi",
+      "link": "https://www.npr.org/2026/05/03/nx-s1-5808875/aung-san-suu-kyi-myanmar-son-house-arrest",
+      "publishedAt": "Sun, 03 May 2026 08:07:07 -0400",
+      "snippet": "On Thursday, authorities in Myanmar claimed they had transferred Nobel laureate Aung San Suu Kyi from prison to house arrest. Her son Kim Aris spoke to NPR about his doubts about the regime&apos;s account.",
       "tier": 1
     },
     {
@@ -239,35 +271,75 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Iran submits 14-point response to U.S. proposal to end war",
-      "link": "https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal",
-      "publishedAt": "Sat, 02 May 2026 19:35:01 -0400",
-      "snippet": "Iran has presented a 14-point response to the U.S. proposal to end the war, according to Iranian state media.",
+      "source": "PBS Headlines",
+      "title": "1,500 beagles will find new homes after release from research facility",
+      "link": "https://www.pbs.org/newshour/nation/1500-beagles-will-find-new-homes-after-release-from-research-facility",
+      "publishedAt": "Sun, 03 May 2026 18:38:07 -0400",
+      "snippet": "The first beagles removed from a Wisconsin dog breeding and research facility that was the site of recent protests seemed to know right away that they were safe.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Timmy the stranded whale rescued after weekslong effort",
-      "link": "https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort",
-      "publishedAt": "Sat, 02 May 2026 16:51:24 -0400",
-      "snippet": "Timmy captured the hearts of whale lovers across the globe who rooted for a happy ending for the humpback.",
+      "source": "PBS Headlines",
+      "title": "Three dead in suspected hantavirus outbreak aboard cruise ship in the Atlantic Ocean, WHO says",
+      "link": "https://www.pbs.org/newshour/world/three-dead-in-suspected-hantavirus-outbreak-aboard-cruise-ship-in-the-atlantic-ocean-who-says",
+      "publishedAt": "Sun, 03 May 2026 16:46:13 -0400",
+      "snippet": "A suspected outbreak of the rare hantavirus infection on a cruise ship in the Atlantic Ocean killed three people and sickened at least three others, the World Health Organization and South Africa's Department of Health said Sunday.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Academy announces major overhaul to rules",
-      "link": "https://www.npr.org/2026/05/02/nx-s1-5808894/oscars-2027-99th-academy-awards-rule-changes",
-      "publishedAt": "Sat, 02 May 2026 16:34:59 -0400",
-      "snippet": "The new rules focus on areas such as AI protections for writers and actors and expanded eligibility for international films.",
+      "source": "PBS Headlines",
+      "title": "Former Malian minister and junta critic abducted from home by armed men, family tells AP",
+      "link": "https://www.pbs.org/newshour/world/former-malian-minister-and-junta-critic-abducted-from-home-by-armed-men-family-tells-ap",
+      "publishedAt": "Sun, 03 May 2026 16:35:53 -0400",
+      "snippet": "A former Malian minister and critic of the ruling junta was abducted from his home by armed, hooded men, one of his family members told The Associated Press Sunday.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Taiwan&apos;s Lai lands in Eswatini in a trip delayed by lack of overflight clearance",
-      "link": "https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance",
-      "publishedAt": "Sat, 02 May 2026 15:48:30 -0400",
-      "snippet": "Eswatini remains the only African nation without tariff-free access to China&apos;s market due to its ties with Taiwan.",
+      "source": "PBS Headlines",
+      "title": "Secret Service agent hit by buckshot from the gun of man charged in correspondents' dinner attack, prosecutor says",
+      "link": "https://www.pbs.org/newshour/nation/secret-service-agent-hit-by-buckshot-from-the-gun-of-man-charged-in-correspondents-dinner-attack-prosecutor-says",
+      "publishedAt": "Sun, 03 May 2026 14:57:30 -0400",
+      "snippet": "Authorities have determined that buckshot from the gun of the man charged with trying to storm the White House Correspondents' Association dinner in an attempt to kill President Donald Trump struck a Secret Service agent, according to the federal prosecutor overseeing the investi",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "What Florida's extreme drought means for the upcoming hurricane season",
+      "link": "https://www.pbs.org/newshour/science/what-floridas-extreme-drought-means-for-the-upcoming-hurricane-season",
+      "publishedAt": "Sun, 03 May 2026 13:53:55 -0400",
+      "snippet": "Florida is experiencing one of its worst droughts in decades, but Gov. Ron DeSantis says there could be a silver lining: a less active hurricane season. Does dry weather correlate with fewer hurricanes? PolitiFact says not typically.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Amtrak may make it easier to bring guns on its trains",
+      "link": "https://www.pbs.org/newshour/nation/amtrak-may-make-it-easier-to-bring-guns-on-its-trains",
+      "publishedAt": "Sun, 03 May 2026 13:34:58 -0400",
+      "snippet": "Amtrak is considering allowing people to store guns in lockboxes on most of its trains, which critics say would weaken security measures that instead should be strengthened in light of the shooting at last weekend's White House Correspondents' Association dinner.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Trump says U.S. will help 'guide' stranded ships from Strait of Hormuz starting Monday",
+      "link": "https://www.pbs.org/newshour/world/trump-says-u-s-will-help-guide-stranded-ships-from-strait-of-hormuz-starting-monday",
+      "publishedAt": "Sun, 03 May 2026 12:46:20 -0400",
+      "snippet": "U.S. President Donald Trump announced a project that will start on Monday to help stranded ships leave the Strait of Hormuz, which Iran has effectively closed, but offered few details.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Austrian police arrest suspect in supermarket baby food poisoning case",
+      "link": "https://www.pbs.org/newshour/world/austrian-police-arrest-suspect-in-supermarket-baby-food-poisoning-case",
+      "publishedAt": "Sun, 03 May 2026 12:02:19 -0400",
+      "snippet": "Police in eastern Austria say a 39-year-old suspect has been arrested after rat poison turned up in some HiPP baby food jars on supermarket shelves in central Europe.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Two U.S. service members missing in Morocco following annual military exercises",
+      "link": "https://www.pbs.org/newshour/world/two-u-s-service-members-missing-in-morocco-following-annual-military-exercises",
+      "publishedAt": "Sun, 03 May 2026 11:49:46 -0400",
+      "snippet": "Two U.S. service members are missing in southwestern Morocco after taking part in annual multinational military exercises in the North African country, the United States Africa Command (AFRICOM) said Sunday.",
       "tier": 1
     },
     {
@@ -359,83 +431,35 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Trump rejects Iran's latest proposal as he reviews new military options to relaunch war",
-      "link": "https://www.pbs.org/newshour/show/trump-rejects-irans-latest-proposal-as-he-reviews-new-military-options-to-relaunch-war",
-      "publishedAt": "Fri, 01 May 2026 18:55:40 -0400",
-      "snippet": "It has been 60 days since the Iran war began, which means Friday is a legal deadline for the Trump administration to seek congressional authorization. But the White House informed Congress that it didn't need approval because the war had been \"terminated\" during the current cease",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "New video of Correspondents' Dinner shooting raises questions about presidential security",
-      "link": "https://www.pbs.org/newshour/show/new-video-of-correspondents-dinner-shooting-raises-questions-about-presidential-security",
-      "publishedAt": "Fri, 01 May 2026 18:50:16 -0400",
-      "snippet": "The Justice Department has released video showing the moment an armed man stormed past security at the White House Correspondents' Dinner. The incident is raising serious questions about security surrounding the president at high-profile public events. Geoff Bennett speaks with J",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "News Wrap: Trump announces 25% tariffs on cars and trucks from the EU",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-trump-announces-25-tariffs-on-cars-and-trucks-from-the-eu",
-      "publishedAt": "Fri, 01 May 2026 18:45:14 -0400",
-      "snippet": "In our news wrap Friday, Trump says he's raising tariffs next week on cars and trucks from the EU, the Pentagon says it has made deals with seven major tech companies to use their AI tools, a former Miami congressman with ties to Rubio was convicted of secretly lobbying for Venez",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Which states to watch as the battle for Senate control heats up ahead of 2026 midterms",
-      "link": "https://www.pbs.org/newshour/show/which-states-to-watch-as-the-battle-for-senate-control-heats-up-ahead-of-2026-midterms",
-      "publishedAt": "Fri, 01 May 2026 18:40:59 -0400",
-      "snippet": "A total of 35 Senate seats will be on the ballot this November, with only 11 rated as remotely competitive by the Cook Political Report with Amy Walter. Republicans are on defense in more of those seats than Democrats, but Democrats need a longshot sweep to take control of the ch",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Brooks and Capehart on fallout from the White House Correspondents' Dinner shooting",
-      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-fallout-from-the-white-house-correspondents-dinner-shooting",
-      "publishedAt": "Fri, 01 May 2026 18:35:53 -0400",
-      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including fallout from the third alleged assassination attempt on Trump, another indictment of a former FBI director and a consequential Supreme Court ruling.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Palestinian and Israeli writers reflect on bridging divides in 'The Future is Peace'",
-      "link": "https://www.pbs.org/newshour/show/palestinian-and-israeli-writers-reflect-on-bridging-divides-in-the-future-is-peace",
-      "publishedAt": "Fri, 01 May 2026 18:30:45 -0400",
-      "snippet": "The Oct. 7 terrorist attack in Israel, and the war in Gaza that followed, have left countless families grappling with profound loss. Two men, one Israeli, the other Palestinian, tell the story of their unexpected journey toward understanding and reconciliation in a new book, \"The",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "New PBS series explores the often-overlooked history of American Muslims",
-      "link": "https://www.pbs.org/newshour/show/new-pbs-series-explores-the-often-overlooked-history-of-american-muslims",
-      "publishedAt": "Fri, 01 May 2026 18:25:25 -0400",
-      "snippet": "Starting this weekend, a new series on PBS dives into the early history of Muslims in the United States. The six-part documentary, \"American Muslims: A History Revealed,\" looks at notable figures and communities spanning more than 200 years. Geoff Bennett speaks with Asma Khalid ",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Court restricts abortion access across U.S. by blocking the mailing of mifepristone",
-      "link": "https://www.pbs.org/newshour/health/court-restricts-abortion-access-across-u-s-by-blocking-the-mailing-of-mifepristone",
-      "publishedAt": "Fri, 01 May 2026 18:17:52 -0400",
-      "snippet": "A panel of the New Orleans-based 5th U.S. Circuit Court of Appeals is requiring that the abortion pill be distributed only in-person at clinics.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump says a 'final proposal' to rescue Spirit Airlines is under consideration",
-      "link": "https://www.pbs.org/newshour/economy/trump-says-a-final-proposal-to-rescue-spirit-airlines-is-under-consideration",
-      "publishedAt": "Fri, 01 May 2026 17:11:25 -0400",
-      "snippet": "Speaking to reporters before departing the White House for Florida, Trump emphasized that a deal to rescue the financially strapped airline remained under review. The president did not provide details but said an announcement could come as soon as later Friday or Saturday.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Merz &apos;not giving up&apos; on Germany&apos;s relationship with US",
+      "link": "https://www.dw.com/en/merz-not-giving-up-on-germany-s-relationship-with-us/a-77026062?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The German chancellor said there was \"no connection\" between disagreements over the Iran war and the pullout of US troops from Germany. He insisted he shared Trump&apos;s goal of ensuring Iran never obtains a nuclear weapon.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nigeria summons South Africa envoy over xenophobic incidents",
+      "link": "https://www.dw.com/en/nigeria-summons-south-africa-envoy-over-xenophobic-incidents/a-77023858?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Nigeria joins other international voices warning against rising anti-migrant sentiment targeting Africans in South Africa.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How Serbia&apos;s government dominates the country&apos;s media",
+      "link": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Since Serbia&apos;s ruling SNS party came to power in 2012, it has tightened its grip on the media. With an election expected soon, experts fear authorities will try to eliminate the last pockets of independent reporting.",
       "tier": 2
     },
     {
@@ -459,7 +483,7 @@
       "title": "Germany news: Majority thinks coalition government doomed — survey",
       "link": "https://www.dw.com/en/germany-news-majority-thinks-coalition-government-doomed-survey/live-77022566?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "More than half of people in Germany believe the coalition government will collapse before its term is up. The head of a leading economic think tank says US tariffs could trigger a German recession. DW has more.",
+      "snippet": "More than half of people in Germany believe the coalition government will collapse before its term is up. The head of a leading economic think tank says US tariffs could trigger a German recession.",
       "tier": 2
     },
     {
@@ -496,16 +520,16 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran war: Trump says reviewing new Tehran proposal with doubt",
-      "link": "https://www.dw.com/en/iran-war-trump-says-reviewing-new-tehran-proposal-with-doubt/live-77021634?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran war: Trump says US to &apos;guide ships safely&apos; out of Hormuz",
+      "link": "https://www.dw.com/en/iran-war-trump-says-us-to-guide-ships-safely-out-of-hormuz/live-77021634?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "US President Donald Trump has said he \"can&apos;t imagine\" the proposal is acceptable. Tehran said the \"ball is in the US&apos; court\" to choose whether to pursue diplomacy or confrontation. DW has more.",
+      "snippet": "The US president did not elaborate on whether the plan was agreed upon with Iran, which has maintained de facto control over the strait. Tehran warned any interference in Hormuz would be a ceasefire violation. Follw DW.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Why Russia&apos;s Northern Sea Route is a risky bet for global trade",
-      "link": "https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risky-bet-for-global-trade/a-76987400?maca=en-rss-en-top-1022-rdf",
+      "title": "Why Russia&apos;s Northern Sea Route is a risk for global trade",
+      "link": "https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risk-for-global-trade/a-76987400?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Russia wants its Northern Sea Route to become an important artery of global trade. However, the Arctic shortcut between Europe and Asia is fraught with both political and environmental hurdles.",
       "tier": 2
@@ -564,30 +588,6 @@
       "link": "https://www.dw.com/en/iran-jailed-nobel-winner-narges-mohammadi-hospitalized/a-77017010?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Iranian activist Narges Mohammadi is in hospital after suffering a \"cardiac crisis\" in prison, her family says. Mohammadi won the 2023 Nobel Peace Prize for her advocacy of women&apos;s rights and freedom.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How the Iran war is hurting travelers, airline industry",
-      "link": "https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Europeans may have to reconsider their summer travel plans, as a jet fuel shortage triggered by the blockade of the Strait of Hormuz could lead airlines to set higher ticket prices.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US to withdraw thousands of troops from Germany",
-      "link": "https://www.dw.com/en/us-to-withdraw-thousands-of-troops-from-germany/a-77016071?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The decision to cut US troops comes amid rising tensions after German Chancellor Friedrich Merz said the US was being \"humiliated\" by Iran&apos;s leadership.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Kosovo to hold snap elections in June",
-      "link": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Kosovo will soon hold its third parliamentary election in a year and a half. Prime Minister Albin Kurti was able to form a government in February, but now there&apos;s political deadlock over who should be elected president.",
       "tier": 2
     }
   ]
