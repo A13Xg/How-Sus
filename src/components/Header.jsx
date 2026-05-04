@@ -19,8 +19,15 @@ export default function Header({ aiConfig, resolvedProvider, detectedProvider, p
   const [tempKey, setTempKey] = useState('');
   const [tempProvider, setTempProvider] = useState('auto');
   const [tempModel, setTempModel] = useState('');
+  const [useCustomModel, setUseCustomModel] = useState(false);
   const inputRef = useRef(null);
   const btnRef = useRef(null);
+
+  // Derive model list for the currently selected provider
+  const providerKey = tempProvider === 'auto'
+    ? (tempKey.startsWith('AIza') ? 'google' : 'openai')
+    : tempProvider;
+  const modelList = providers[providerKey]?.models || [];
 
   const providerLabel = useMemo(() => {
     if (!aiConfig.apiKey) return 'AI Key';
@@ -36,6 +43,7 @@ export default function Header({ aiConfig, resolvedProvider, detectedProvider, p
       setTempKey(aiConfig.apiKey || '');
       setTempProvider(aiConfig.provider || 'auto');
       setTempModel(aiConfig.model || '');
+      setUseCustomModel(false);
       setTimeout(() => inputRef.current?.focus(), 50);
     }
   }, [showModal, aiConfig]);
@@ -64,6 +72,7 @@ export default function Header({ aiConfig, resolvedProvider, detectedProvider, p
     setTempKey('');
     setTempProvider('auto');
     setTempModel('');
+    setUseCustomModel(false);
     setShowModal(false);
     btnRef.current?.focus();
   };
@@ -148,12 +157,16 @@ export default function Header({ aiConfig, resolvedProvider, detectedProvider, p
                     id="provider-select"
                     className="api-provider-select"
                     value={tempProvider}
-                    onChange={(e) => setTempProvider(e.target.value)}
+                    onChange={(e) => {
+                      setTempProvider(e.target.value);
+                      setTempModel(''); // reset model when provider changes
+                      setUseCustomModel(false);
+                    }}
                     aria-label="AI provider"
                   >
                     <option value="auto">Auto-detect from key</option>
                     <option value="openai">OpenAI</option>
-                    <option value="google">Google Gemma 4</option>
+                    <option value="google">Google Gemini</option>
                   </select>
 
                   <input
@@ -172,16 +185,49 @@ export default function Header({ aiConfig, resolvedProvider, detectedProvider, p
                     }}
                   />
 
-                  <label className="api-field-label" htmlFor="model-input">Model (optional override)</label>
-                  <input
-                    id="model-input"
-                    type="text"
-                    value={tempModel}
-                    onChange={(e) => setTempModel(e.target.value)}
-                    placeholder={tempProvider === 'google' ? 'gemma-4' : 'gpt-4o-mini'}
-                    className="api-key-input"
-                    aria-label="AI model override"
-                  />
+                  <label className="api-field-label" htmlFor="model-select">Model</label>
+                  {!useCustomModel ? (
+                    <select
+                      id="model-select"
+                      className="api-provider-select"
+                      value={tempModel}
+                      onChange={(e) => {
+                        if (e.target.value === '__custom__') {
+                          setUseCustomModel(true);
+                          setTempModel('');
+                        } else {
+                          setTempModel(e.target.value);
+                        }
+                      }}
+                      aria-label="AI model selection"
+                    >
+                      {modelList.map((m) => (
+                        <option key={m.id} value={m.id}>{m.label}</option>
+                      ))}
+                      <option value="__custom__">Custom model ID…</option>
+                    </select>
+                  ) : (
+                    <div className="custom-model-row">
+                      <input
+                        id="model-input"
+                        type="text"
+                        value={tempModel}
+                        onChange={(e) => setTempModel(e.target.value)}
+                        placeholder={providerKey === 'google' ? 'gemini-1.5-flash' : 'gpt-4o-mini'}
+                        className="api-key-input"
+                        aria-label="Custom AI model ID"
+                      />
+                      <button
+                        type="button"
+                        className="btn-cancel"
+                        onClick={() => { setUseCustomModel(false); setTempModel(''); }}
+                        aria-label="Back to model list"
+                        title="Back to preset list"
+                      >
+                        ←
+                      </button>
+                    </div>
+                  )}
 
                   <div className="api-key-actions">
                     <button className="btn-save" onClick={handleSave} type="button">
@@ -202,8 +248,9 @@ export default function Header({ aiConfig, resolvedProvider, detectedProvider, p
                     </button>
                   </div>
                   <p className="api-key-note" id="api-key-note">
-                    Auto-detect uses key prefix: sk- for OpenAI, AIza for Google. You can override provider manually.
+                    Auto-detect uses key prefix: <code>sk-</code> → OpenAI, <code>AIza</code> → Google Gemini.
                     Active provider: {resolvedProvider || 'none'}{detectedProvider ? ` (detected: ${detectedProvider})` : ''}.
+                    {aiConfig.model ? ` Model: ${aiConfig.model}.` : ' Using default model for provider.'}
                   </p>
                 </motion.div>
               )}

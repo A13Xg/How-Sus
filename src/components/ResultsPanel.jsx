@@ -99,7 +99,24 @@ function MetricDetailModal({ metric, onClose }) {
             </ol>
           </div>
         )}
-        {metric.searchUrl && (
+        {metric.searchUrls?.length > 0 ? (
+          <div className="metric-search-links">
+            <p className="metric-section-label">🔗 Search this claim</p>
+            <div className="metric-search-link-row">
+              {metric.searchUrls.filter((l) => l?.url).map((link, i) => (
+                <a
+                  key={i}
+                  href={safeUrl(link.url)}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="metric-search-link"
+                >
+                  🔍 {link.label || 'Search'}
+                </a>
+              ))}
+            </div>
+          </div>
+        ) : metric.searchUrl && (
           <a
             href={safeUrl(metric.searchUrl)}
             target="_blank"
@@ -210,7 +227,11 @@ function SourceRow({ source, index, onDetails }) {
       transition={{ delay: index * 0.07 }}
     >
       <td className="source-label">
-        {source.label}
+        {source.url && source.url !== 'text-analysis' ? (
+          <a href={safeUrl(`https://${source.url}`) || '#'} target="_blank" rel="noopener noreferrer" className="source-link">
+            {source.label}
+          </a>
+        ) : source.label}
         <button type="button" className="metric-info-btn source-info-btn" onClick={onDetails} aria-label={`Explain source ${source.label}`}>
           Details
         </button>
@@ -302,12 +323,22 @@ function metricDetailsFromDuplicate(duplicate) {
   return {
     title: `Duplicate similarity: ${duplicate.source ?? duplicate.url}`,
     value: `${pct}%`,
-    explanation: 'Similarity score is a heuristic match estimate for repeated content traces across channels.',
+    explanation: `Similarity score is a heuristic match estimate for repeated content traces across platforms. ${
+      pct >= 80 ? 'Very high similarity (≥80%) — likely the same content shared or copied.' :
+      pct >= 65 ? 'Moderate-high similarity — content appears closely related.' :
+      'Moderate similarity — some overlap detected.'
+    }`,
     signals: [
       `Similarity: ${pct}%`,
-      `Source: ${duplicate.source ?? duplicate.url}`,
-      `Observed date: ${duplicate.date || 'N/A'}`,
-    ],
+      `Platform: ${duplicate.source ?? duplicate.url}`,
+      duplicate.postType ? `Post type: ${duplicate.postType}` : null,
+      duplicate.category ? `Category: ${duplicate.category}` : null,
+      duplicate.engagementLabel ? `Engagement: ${duplicate.engagementLabel}${duplicate.engagementDetail ? ` (${duplicate.engagementDetail})` : ''}` : null,
+      duplicate.matchReason ? `Match reason: ${duplicate.matchReason}` : null,
+      `Observed: ${duplicate.date || 'N/A'}${duplicate.daysAgo ? ` (${duplicate.daysAgo} days ago)` : ''}`,
+      duplicate.context ? `Context: ${duplicate.context}` : null,
+    ].filter(Boolean),
+    searchUrl: duplicate.searchUrl || null,
   };
 }
 
@@ -1080,7 +1111,6 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
           </ExpandablePanel>
         )}
 
-        {/* ── Duplicate detection (expandable) ────────────────────── */}
         {results.duplicates?.length > 0 && (
           <ExpandablePanel
             title="Duplicate Detection"
@@ -1088,9 +1118,13 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
             badge={results.duplicates.length}
             id="duplicates"
           >
+            <p className="dup-note-header">
+              ⚠ These are <strong>heuristic similarity estimates</strong>. Platform spread detection is simulated — real cross-platform tracking requires server-side APIs.
+            </p>
             <div className="dup-list">
               {results.duplicates.map((d, i) => {
                 const pct = d.matchPercentage ?? d.similarity ?? 0;
+                const barColor = pct >= 80 ? '#ef4444' : pct >= 65 ? '#f59e0b' : '#10b981';
                 return (
                   <motion.div
                     key={i}
@@ -1099,16 +1133,44 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ delay: i * 0.06 }}
                   >
-                    <span className="dup-source">{d.source ?? d.url}</span>
+                    <div className="dup-header-row">
+                      <span className="dup-source">
+                        {d.searchUrl ? (
+                          <a href={safeUrl(d.searchUrl)} target="_blank" rel="noopener noreferrer" className="dup-source-link">
+                            {d.source ?? d.url}
+                          </a>
+                        ) : (d.source ?? d.url)}
+                        {d.postType && (
+                          <span className="dup-post-type">
+                            {d.postType}
+                          </span>
+                        )}
+                      </span>
+                      {d.engagement && (
+                        <span className={`dup-engagement dup-engagement--${d.engagement}`} title={d.engagementDetail}>
+                          {d.engagementLabel || d.engagement}
+                        </span>
+                      )}
+                    </div>
                     <AnimatedProgressBar
                       value={pct}
-                      color={pct >= 80 ? '#ef4444' : pct >= 65 ? '#f59e0b' : '#10b981'}
+                      color={barColor}
                       size="sm"
                       glowing={false}
                       label={`${d.source ?? d.url}: ${pct}% similarity`}
                     />
-                    <span className="dup-pct">{pct}%</span>
-                    <span className="dup-date">{d.date}</span>
+                    <div className="dup-meta-row">
+                      <span className="dup-pct" style={{ color: barColor }}>{pct}%</span>
+                      <span className="dup-date">{d.date}{d.daysAgo ? ` (${d.daysAgo}d ago)` : ''}</span>
+                    </div>
+                    {d.matchReason && (
+                      <p className="dup-match-reason">
+                        <span className="dup-match-reason-label">Match reason:</span> {d.matchReason}
+                      </p>
+                    )}
+                    {d.context && (
+                      <p className="dup-context">{d.context}</p>
+                    )}
                     <button
                       type="button"
                       className="metric-info-btn dup-info-btn"
@@ -1204,7 +1266,22 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
                         >
                           Details
                         </button>
-                        {entry.searchUrl && (
+                        {entry.searchUrls?.length > 0 ? (
+                          <div className="cross-check-search-links">
+                            {entry.searchUrls.filter((l) => l?.url).map((link, li) => (
+                              <a
+                                key={li}
+                                href={safeUrl(link.url)}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="cross-check-search-link"
+                                aria-label={`${link.label || 'Search'} for ${entry.source}`}
+                              >
+                                🔍 {link.label || 'Search'}
+                              </a>
+                            ))}
+                          </div>
+                        ) : entry.searchUrl && (
                           <a
                             href={safeUrl(entry.searchUrl)}
                             target="_blank"
@@ -1247,7 +1324,22 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
                         >
                           Details
                         </button>
-                        {entry.searchUrl && (
+                        {entry.searchUrls?.length > 0 ? (
+                          <div className="cross-check-search-links">
+                            {entry.searchUrls.filter((l) => l?.url).map((link, li) => (
+                              <a
+                                key={li}
+                                href={safeUrl(link.url)}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="cross-check-search-link"
+                                aria-label={`${link.label || 'Search'} for ${entry.source}`}
+                              >
+                                🔍 {link.label || 'Search'}
+                              </a>
+                            ))}
+                          </div>
+                        ) : entry.searchUrl && (
                           <a
                             href={safeUrl(entry.searchUrl)}
                             target="_blank"
@@ -1516,6 +1608,38 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
             id="readability"
           >
             <ReadabilityPanel readability={results.readability} />
+          </ExpandablePanel>
+        )}
+
+        {/* ── Skipped features ─────────────────────────────────────── */}
+        {results.skippedFeatures?.length > 0 && (
+          <ExpandablePanel
+            title="Skipped / Unavailable Features"
+            icon="⊘"
+            id="skipped-features"
+          >
+            <ul className="skipped-features-list" aria-label="Skipped features">
+              {results.skippedFeatures.map((f, i) => (
+                <li key={i} className={`skipped-feature-item ${f.na ? 'na' : f.skipped ? 'skipped' : 'available'}`}>
+                  <span className="skipped-feature-icon" aria-hidden="true">
+                    {f.na ? '—' : f.skipped ? '⊘' : '✓'}
+                  </span>
+                  <span className="skipped-feature-body">
+                    <strong>{f.name}</strong>
+                    <span className="skipped-feature-reason">{f.reason}</span>
+                  </span>
+                </li>
+              ))}
+              {!results.skippedFeatures.some((f) => f.name === 'AI Analysis') && !results.aiAnalysis && (
+                <li className="skipped-feature-item skipped">
+                  <span className="skipped-feature-icon" aria-hidden="true">⊘</span>
+                  <span className="skipped-feature-body">
+                    <strong>AI Analysis</strong>
+                    <span className="skipped-feature-reason">No API key configured — add an OpenAI or Google Gemini key to enable AI story-validity analysis.</span>
+                  </span>
+                </li>
+              )}
+            </ul>
           </ExpandablePanel>
         )}
 

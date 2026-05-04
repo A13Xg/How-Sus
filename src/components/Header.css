@@ -272,3 +272,8 @@
   0%, 100% { opacity: 1; }
   50% { opacity: 0.5; }
 }
+
+/* Custom model row */
+.custom-model-row { display: flex; gap: 6px; align-items: center; }
+.custom-model-row .api-key-input { flex: 1; }
+.custom-model-row .btn-cancel { padding: 8px 12px; font-size: 0.9rem; }

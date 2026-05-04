@@ -28,14 +28,14 @@ const NetworkGraph = lazy(() => import('./NetworkGraph'));
 const TimelineGraph = lazy(() => import('./TimelineGraph'));
 
 const SCAN_STEPS = [
-  { id: 'init',      label: 'Engine Init',     icon: '⚙'  },
-  { id: 'meta',      label: 'Metadata',        icon: '📋' },
-  { id: 'domain',    label: 'Domain Check',    icon: '🌐' },
-  { id: 'content',   label: 'Content Scan',    icon: '🔎' },
-  { id: 'duplicate', label: 'Dupe Detection',  icon: '🔁' },
-  { id: 'timeline',  label: 'Timeline',        icon: '📅' },
-  { id: 'ai',        label: 'AI Analysis',     icon: '🤖' },
-  { id: 'compile',   label: 'Compiling',       icon: '✅' },
+  { id: 'init',      label: 'Engine Init',                    icon: '⚙',  detail: 'Loading analysis modules…'            },
+  { id: 'meta',      label: 'Metadata',                       icon: '📋', detail: 'Fetching source metadata & headers…'  },
+  { id: 'domain',    label: 'Domain Check',                   icon: '🌐', detail: 'TLD · HTTPS · age heuristic…'         },
+  { id: 'content',   label: 'Content Scan',                   icon: '🔎', detail: 'Keywords · sentiment · dark patterns…' },
+  { id: 'duplicate', label: 'Dupe Detection',                 icon: '🔁', detail: 'Platform spread · similarity scoring…' },
+  { id: 'timeline',  label: 'Timeline',                       icon: '📅', detail: 'Source freshness · verification timeline…' },
+  { id: 'ai',        label: 'AI Analysis',                    icon: '🤖', detail: 'Story validity · confidence scoring…'  },
+  { id: 'compile',   label: 'Compiling',                      icon: '✅', detail: 'Computing authenticity score…'         },
 ];
 
 /** Skeleton block for loading placeholders */
@@ -60,7 +60,7 @@ function SubCardSkeleton({ rows = 4 }) {
   );
 }
 
-export default function VisualizationSection({ scanPhase, progress, currentStep, inputType, results }) {
+export default function VisualizationSection({ scanPhase, progress, currentStep, inputType, results, hasAiKey = false }) {
   const completedSteps = Math.floor((progress / 100) * SCAN_STEPS.length);
   const isScanning = scanPhase === 'scanning';
   const isComplete = scanPhase === 'complete';
@@ -120,13 +120,17 @@ export default function VisualizationSection({ scanPhase, progress, currentStep,
         {/* ── Step grid ────────────────────────────────────────────── */}
         <div className="steps-grid" role="list" aria-label="Scan steps">
           {SCAN_STEPS.map((step, i) => {
+            const isAiStep = step.id === 'ai';
+            const aiSkipped = isAiStep && !hasAiKey && isComplete;
             const state = i < completedSteps ? 'done' : i === completedSteps ? 'active' : 'pending';
+            const displayState = aiSkipped ? 'skipped' : state;
             return (
               <motion.div
                 key={step.id}
-                className={`step-item ${state}`}
+                className={`step-item ${displayState}`}
                 role="listitem"
-                aria-label={`${step.label}: ${state}`}
+                aria-label={`${step.label}: ${aiSkipped ? 'skipped (no AI key)' : state}`}
+                title={aiSkipped ? 'AI Analysis skipped — no API key configured' : step.detail}
                 initial={{ opacity: 0, scale: 0.85 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ delay: i * 0.055 }}
@@ -134,7 +138,7 @@ export default function VisualizationSection({ scanPhase, progress, currentStep,
                 <span className="step-icon" aria-hidden="true">{step.icon}</span>
                 <span className="step-label">{step.label}</span>
                 <span className="step-status" aria-hidden="true">
-                  {state === 'done' ? '✓' : state === 'active' ? '…' : ''}
+                  {aiSkipped ? '⊘' : state === 'done' ? '✓' : state === 'active' ? '…' : ''}
                 </span>
               </motion.div>
             );

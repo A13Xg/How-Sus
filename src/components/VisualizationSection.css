@@ -131,6 +131,21 @@
   opacity: 0.4;
 }
 
+.step-item.skipped {
+  border-color: var(--text-muted);
+  background: rgba(100,116,139,0.08);
+  opacity: 0.6;
+}
+
+.step-item.skipped .step-label {
+  color: var(--text-muted);
+  text-decoration: line-through;
+}
+
+.step-item.skipped .step-status {
+  color: var(--text-muted);
+}
+
 .step-icon {
   font-size: 0.9rem;
 }
