@@ -85,10 +85,24 @@ const AI_PROVIDERS = {
   openai: {
     label: 'OpenAI',
     defaultModel: 'gpt-4o-mini',
+    models: [
+      { id: '', label: 'Auto (gpt-4o-mini)' },
+      { id: 'gpt-4o-mini', label: 'GPT-4o mini — fast, affordable' },
+      { id: 'gpt-4o', label: 'GPT-4o — most capable' },
+      { id: 'gpt-4-turbo', label: 'GPT-4 Turbo' },
+      { id: 'gpt-3.5-turbo', label: 'GPT-3.5 Turbo — fastest' },
+    ],
   },
   google: {
     label: 'Google Gemini',
     defaultModel: 'gemini-1.5-flash',
+    models: [
+      { id: '', label: 'Auto (gemini-1.5-flash)' },
+      { id: 'gemini-1.5-flash', label: 'Gemini 1.5 Flash — fast' },
+      { id: 'gemini-1.5-pro', label: 'Gemini 1.5 Pro — capable' },
+      { id: 'gemini-2.0-flash', label: 'Gemini 2.0 Flash — latest fast' },
+      { id: 'gemini-2.5-pro', label: 'Gemini 2.5 Pro — most capable' },
+    ],
   },
 };
 
@@ -191,16 +205,16 @@ function computeScanConfidence(results, hasAi) {
   return Math.max(0, Math.min(100, Math.round(score)));
 }
 
-// Scan step labels shown in VisualizationSection
+// Scan step labels shown in VisualizationSection (indexed 0-7, mapped by progress %)
 const SCAN_STEPS = [
   'Initializing scan engine…',
   'Fetching source metadata…',
-  'Checking domain reputation…',
-  'Running content analysis…',
-  'Detecting duplicate content…',
-  'Verifying timeline…',
-  'Running AI analysis…',
-  'Compiling results…',
+  'Checking domain reputation (TLD · HTTPS · age heuristic)…',
+  'Running content analysis (keywords · sentiment · dark patterns)…',
+  'Detecting duplicate content (platform spread · similarity scoring)…',
+  'Verifying timeline and source freshness…',
+  'Running AI story-validity analysis…',
+  'Compiling scores and generating report…',
 ];
 
 /**
@@ -278,26 +292,82 @@ function buildSources(domain, isTrusted, hasHttps, dateFrom, dateTo) {
 }
 
 /**
- * generateDuplicates — generates placeholder duplicate-detection entries.
+ * generateDuplicates — generates heuristic duplicate-detection entries with social media context.
  *
- * In production, replace this with a call to a real content-fingerprinting or
- * reverse-search API (e.g. Diffbot, GDELT) to detect actual cross-platform
- * spread of the scanned content.
+ * Each entry includes platform-specific post type, simulated engagement level, and the
+ * reason the content was flagged as a match.
+ *
+ * NOTE: These are heuristic / simulated entries. In production, replace with calls to
+ * content-fingerprinting APIs (e.g. Diffbot, GDELT, CrowdTangle) for actual cross-platform
+ * spread detection.
  *
  * @param {string} domain - the scanned domain (used for deterministic seeding)
- * @returns {Array<{url:string, source:string, matchPercentage:number, date:string}>}
+ * @returns {Array} enriched duplicate entries
  */
 function generateDuplicates(domain) {
-  const labels = ['Twitter/X', 'Facebook', 'Reddit', 'Telegram', 'Instagram', 'YouTube', 'TikTok', 'Blog A', 'Forum B', 'News C'];
-  const count = Math.floor(Math.random() * 5) + 1;
-  return Array.from({ length: count }, (_, i) => ({
-    url: `https://${labels[i % labels.length].toLowerCase().replace(/\W/g, '')}.example.com`,
-    source: labels[i % labels.length],
-    // Similarity score in 60-90% range — indicates "similar but not identical"
-    matchPercentage: Math.round(Math.random() * 30 + 60),
-    // Random spread date within the last 30 days
-    date: new Date(Date.now() - Math.random() * 30 * 86_400_000).toLocaleDateString(),
-  }));
+  const platforms = [
+    { name: 'Twitter / X',  postTypes: ['tweet', 'thread', 'repost', 'quote tweet'],  category: 'social',     searchBase: 'twitter.com' },
+    { name: 'Facebook',     postTypes: ['post', 'share', 'group post', 'page post'],   category: 'social',     searchBase: 'facebook.com' },
+    { name: 'Reddit',       postTypes: ['thread', 'comment', 'crosspost', 'link post'],category: 'forum',      searchBase: 'reddit.com' },
+    { name: 'Telegram',     postTypes: ['channel post', 'forwarded message', 'group'], category: 'messaging',  searchBase: 'telegram.org' },
+    { name: 'Instagram',    postTypes: ['post', 'story', 'reel', 'caption'],           category: 'social',     searchBase: 'instagram.com' },
+    { name: 'YouTube',      postTypes: ['video', 'short', 'community post'],           category: 'video',      searchBase: 'youtube.com' },
+    { name: 'TikTok',       postTypes: ['video', 'duet', 'stitch'],                    category: 'video',      searchBase: 'tiktok.com' },
+    { name: 'Mastodon',     postTypes: ['toot', 'boost', 'thread'],                    category: 'social',     searchBase: 'mastodon.social' },
+    { name: 'WhatsApp',     postTypes: ['forwarded message', 'group forward'],          category: 'messaging',  searchBase: null },
+    { name: 'Discord',      postTypes: ['message', 'announcement', 'embed link'],      category: 'messaging',  searchBase: 'discord.com' },
+  ];
+  const seed = hashString(domain);
+  const count = Math.min(6, Math.floor(((seed % 5) + 1)));
+
+  const matchReasons = [
+    'Identical headline phrasing detected (>90% token overlap)',
+    'Identical image hash matched across platforms',
+    'Core claim shares >80% token similarity',
+    'URL structure and metadata fingerprint match',
+    'Author attribution cross-referenced across platforms',
+    'Statistical claims and numerical data match',
+    'Publication timestamp within 1 hour of original appearance',
+    'Quoted text block reproduced verbatim',
+    'Domain alias / mirror site detected',
+  ];
+
+  const engagementLevels = [
+    { level: 'high',     label: 'High engagement',     detail: '1,000+ interactions (likes, shares, comments)' },
+    { level: 'moderate', label: 'Moderate engagement', detail: '100–1,000 interactions' },
+    { level: 'low',      label: 'Low engagement',      detail: 'Fewer than 100 interactions' },
+  ];
+
+  return Array.from({ length: count }, (_, i) => {
+    const platform  = platforms[(seed + i * 3) % platforms.length];
+    const postType  = platform.postTypes[(seed + i) % platform.postTypes.length];
+    const engObj    = engagementLevels[(seed + i * 7) % engagementLevels.length];
+    const reason    = matchReasons[(seed + i * 11) % matchReasons.length];
+    const matchPct  = Math.round(((seed + i * 17) % 30) + 60);
+    const daysAgo   = Math.round(((seed + i * 131) % 28) + 1);
+    const dateStr   = new Date(Date.now() - daysAgo * 86_400_000).toLocaleDateString();
+    const searchQ   = encodeURIComponent(`site:${platform.searchBase || platform.name.toLowerCase().replace(/[^a-z]/g, '')} "${domain}"`);
+
+    return {
+      url: platform.searchBase
+        ? `https://www.google.com/search?q=${searchQ}`
+        : null,
+      source: platform.name,
+      matchPercentage: matchPct,
+      date: dateStr,
+      daysAgo,
+      postType,
+      category: platform.category,
+      engagement: engObj.level,
+      engagementLabel: engObj.label,
+      engagementDetail: engObj.detail,
+      matchReason: reason,
+      context: `${platform.name} ${postType}: ${reason}. ${engObj.label} (${engObj.detail}) observed ${daysAgo} day${daysAgo !== 1 ? 's' : ''} ago.`,
+      searchUrl: platform.searchBase
+        ? `https://www.google.com/search?q=${searchQ}`
+        : null,
+    };
+  });
 }
 
 /**
@@ -371,7 +441,7 @@ function tokenizeText(value) {
     .replace(/[^a-z0-9\s]/g, ' ')  // Strip punctuation, keep alphanumeric + spaces
     .split(/\s+/)
     .filter((token) => token.length >= 3)  // Skip very short tokens (noise)
-    .slice(0, 48);                         // Cap at 48 tokens for performance
+    .slice(0, 128);                        // Cap at 128 tokens for broader matching
 }
 
 /**
@@ -386,7 +456,7 @@ function tokenizeText(value) {
  * @param {number}      [limit=8]        - maximum number of entries to return
  * @returns {{ entries: Array, matchedKeywords: string[] }}
  */
-function selectFeedEntriesWithKeywords(feedData, text, limit = 8) {
+function selectFeedEntriesWithKeywords(feedData, text, limit = 10) {
   const entries = Array.isArray(feedData?.entries) ? feedData.entries : [];
   if (!entries.length) return { entries: [], matchedKeywords: [] };
 
@@ -412,7 +482,7 @@ function selectFeedEntriesWithKeywords(feedData, text, limit = 8) {
   return {
     // Fall back to head slice when no overlap was found
     entries: scored.length ? scored : entries.slice(0, limit),
-    matchedKeywords: [...matchSet].slice(0, 12),
+    matchedKeywords: [...matchSet].slice(0, 20),
   };
 }
 
@@ -440,52 +510,70 @@ function buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, path
   const corroborating = [];
   const conflicting = [];
 
+  // HTTPS is a domain reputation signal — counted in baselineCorroboration but
+  // not mentioned in cross-check claims as a signal of another source's credibility.
   const baselineCorroboration = isTrusted ? 3 : isSuspicious ? 0 : 1;
-  const extraCorroboration = hasHttps ? 1 : 0;
   const baseConflicts = isSuspicious ? 3 : pathKeywords ? 2 : 1;
-  const extraConflicts = !hasHttps ? 1 : 0;
 
-  const corroboratingCount = Math.min(4, baselineCorroboration + extraCorroboration + (seed % 2));
-  const conflictingCount = Math.min(4, baseConflicts + extraConflicts + ((seed >> 1) % 2));
+  // Domain reputation sub-factors (HTTPS, path keywords) feed into corroboration count
+  const domainBonus = hasHttps ? 1 : 0;
+  const corroboratingCount = Math.min(4, baselineCorroboration + domainBonus + (seed % 2));
+  const conflictingCount = Math.min(4, baseConflicts + (!hasHttps ? 1 : 0) + ((seed >> 1) % 2));
 
   for (let i = 0; i < corroboratingCount; i += 1) {
     const entry = trustedPool[(seed + i) % trustedPool.length];
     const tier = entry.tier;
     const confidence = 62 + ((seed + i * 7) % 34);
+    const query = `site:${entry.url} "${domain}"`;
     corroborating.push({
       source: entry.source,
-      claim: `Domain "${domain}" reporting patterns align with standards observed by ${entry.source}. Domain uses ${hasHttps ? 'HTTPS' : 'HTTP'} and shows ${isTrusted ? 'trusted' : 'neutral'} reputation signals.`,
-      matchedText: `Domain: ${domain} | Protocol: ${hasHttps ? 'HTTPS' : 'HTTP'} | Trusted list: ${isTrusted ? 'Yes' : 'No'}`,
+      claim: `Domain "${domain}" reporting patterns align with standards observed by ${entry.source}. Domain shows ${isTrusted ? 'trusted' : 'neutral'} reputation signals.`,
+      matchedText: `Domain: ${domain} | Trusted list: ${isTrusted ? 'Yes' : 'No'}`,
       evidence: [
         `Domain: ${domain}`,
-        `HTTPS: ${hasHttps ? 'Yes' : 'No'}`,
         `Trusted list match: ${isTrusted ? 'Yes' : 'No'}`,
         `Suspicious patterns: ${isSuspicious ? 'Yes' : 'No'}`,
+        `Domain reputation tier: ${isTrusted ? 'known-trusted' : isSuspicious ? 'suspicious' : 'unknown'}`,
       ],
       confidence,
-      note: 'Heuristic domain analysis — entity and protocol signals.',
+      note: 'Heuristic domain reputation signal analysis.',
       tier,
-      searchUrl: `https://www.google.com/search?q=${encodeURIComponent(`site:${entry.source.toLowerCase().replace(/\s/g, '')}.com "${domain}"`)}`,
+      searchUrl: `https://www.google.com/search?q=${encodeURIComponent(query)}`,
+      searchUrls: [
+        { url: `https://www.google.com/search?q=${encodeURIComponent(`"${domain}" reliability site:${entry.url}`)}`, label: `Search ${entry.source}` },
+        { url: `https://news.google.com/search?q=${encodeURIComponent(domain)}&hl=en`, label: 'Google News' },
+        { url: `https://www.snopes.com/search/${encodeURIComponent(domain)}/`, label: 'Snopes' },
+        { url: `https://www.factcheck.org/?s=${encodeURIComponent(domain)}`, label: 'FactCheck.org' },
+      ],
     });
   }
 
-  feedEntries.slice(0, 2).forEach((entry, idx) => {
+  feedEntries.slice(0, 3).forEach((entry, idx) => {
     const tier = entry.tier || getSourceTier(entry.source || '');
     const confidence = 68 + ((seed + idx * 17) % 23);
+    const title = entry.title?.slice(0, 80) || domain;
     corroborating.push({
       source: entry.source || `Feed source ${idx + 1}`,
       claim: `Feed keyword overlap detected: "${entry.title}"`,
       matchedText: entry.snippet ? entry.snippet.slice(0, 160) : entry.title,
       evidence: [
         `Feed headline: ${entry.title}`,
-        `Matched keywords: ${matchedKeywords.slice(0, 4).join(', ') || 'N/A'}`,
+        `Matched keywords: ${matchedKeywords.slice(0, 6).join(', ') || 'N/A'}`,
         `Source: ${entry.source || 'curated feed'}`,
         `Published: ${entry.date || 'unknown'}`,
-      ],
+        entry.url ? `Source URL: ${entry.url}` : null,
+      ].filter(Boolean),
       confidence,
       note: 'Matched against static corroboration feed refreshed by GitHub Actions.',
       tier,
-      searchUrl: `https://www.google.com/search?q=${encodeURIComponent(entry.title?.slice(0, 80) || domain)}`,
+      searchUrl: `https://www.google.com/search?q=${encodeURIComponent(title)}`,
+      searchUrls: [
+        { url: `https://www.google.com/search?q=${encodeURIComponent(title)}`, label: 'Google Search' },
+        { url: `https://news.google.com/search?q=${encodeURIComponent(title)}&hl=en`, label: 'Google News' },
+        entry.url ? { url: entry.url, label: `Source: ${entry.source || 'Feed'}` } : null,
+        { url: `https://www.snopes.com/search/${encodeURIComponent(title.slice(0, 60))}/`, label: 'Snopes' },
+        { url: `https://www.politifact.com/search/?q=${encodeURIComponent(title.slice(0, 60))}`, label: 'PolitiFact' },
+      ].filter(Boolean),
     });
   });
 
@@ -501,13 +589,20 @@ function buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, path
       evidence: [
         `Conflicting signal: ${pathKeywords ? 'Sensational URL path keywords' : 'Metadata inconsistency'}`,
         `Domain age estimate: limited`,
-        `HTTPS missing: ${!hasHttps ? 'Yes (risk signal)' : 'No'}`,
         `Suspicious patterns: ${isSuspicious ? 'Yes' : 'No'}`,
-      ],
+        !hasHttps ? 'HTTP-only connection (risk signal for domain reputation)' : null,
+      ].filter(Boolean),
       confidence,
       note: pathKeywords ? 'Headline wording mismatch and sensational phrasing.' : 'Inconsistent publication metadata.',
       tier: entry.tier,
       searchUrl: `https://www.google.com/search?q=${encodeURIComponent(`"${domain}" fact check`)}`,
+      searchUrls: [
+        { url: `https://www.google.com/search?q=${encodeURIComponent(`"${domain}" fact check misinformation`)}`, label: 'Google Search' },
+        { url: `https://www.snopes.com/search/${encodeURIComponent(domain)}/`, label: 'Snopes' },
+        { url: `https://www.politifact.com/search/?q=${encodeURIComponent(domain)}`, label: 'PolitiFact' },
+        { url: `https://www.factcheck.org/?s=${encodeURIComponent(domain)}`, label: 'FactCheck.org' },
+        { url: `https://mediabiasfactcheck.com/?s=${encodeURIComponent(domain)}`, label: 'Media Bias/Fact Check' },
+      ],
     });
   }
 
@@ -533,7 +628,7 @@ function buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, 
     .split(/[.!?]+/)
     .map(normalizeSentence)
     .filter((s) => s.length > 24)
-    .slice(0, 6);
+    .slice(0, 8);
 
   const corroborating = [];
   const conflicting = [];
@@ -541,7 +636,7 @@ function buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, 
   // Detect named entity proxies (capitalized words not at sentence start)
   const entityMatches = (text.match(/\b[A-Z][a-z]{2,}(?:\s+[A-Z][a-z]{2,})*\b/g) || [])
     .filter((e) => e.length > 4)
-    .slice(0, 8);
+    .slice(0, 10);
   const hasEntities = entityMatches.length >= 2;
 
   // Check for specific dates
@@ -556,6 +651,7 @@ function buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, 
     const shortened = `${claim.slice(0, 120)}${claim.length > 120 ? '\u2026' : ''}`;
     const confidenceBase = 55 + ((idx * 13 + claim.length) % 38);
     const isSuspicious = suspiciousMatches.some((kw) => claim.toLowerCase().includes(kw));
+    const claimQuery = shortened.slice(0, 80);
 
     if (!isSuspicious && (hasQuotes || hasNumbers || hasEntities || hasDates || idx % 3 !== 2)) {
       const sourceOpts = ['NewsWire Digest', 'Fact-Check Archive', 'Public Statement Tracker', 'Event Record DB'];
@@ -565,58 +661,84 @@ function buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, 
         claim: shortened,
         matchedText: shortened,
         evidence: [
-          `Claim extracted from sentence ${idx + 1}`,
+          `Claim extracted from sentence ${idx + 1} of ${sentences.length}`,
           hasQuotes ? 'Contains quoted source material' : 'No direct quotes',
           hasNumbers ? 'Contains numerical data' : 'No numerical data',
-          hasEntities ? `Named entities: ${entityMatches.slice(0, 3).join(', ')}` : 'No named entities detected',
+          hasEntities ? `Named entities detected: ${entityMatches.slice(0, 4).join(', ')}` : 'No named entities detected',
           hasDates ? 'Specific dates referenced' : 'No specific dates',
           hasByline ? 'Author byline detected' : 'No byline found',
         ],
         confidence: confidenceBase,
         note: 'Claim structure overlaps with factual reporting patterns.',
         tier: getSourceTier(src),
-        searchUrl: `https://www.google.com/search?q=${encodeURIComponent(shortened.slice(0, 80))}`,
+        searchUrl: `https://www.google.com/search?q=${encodeURIComponent(claimQuery)}`,
+        searchUrls: [
+          { url: `https://www.google.com/search?q=${encodeURIComponent(claimQuery)}`, label: 'Google Search' },
+          { url: `https://news.google.com/search?q=${encodeURIComponent(claimQuery)}&hl=en`, label: 'Google News' },
+          { url: `https://www.snopes.com/search/${encodeURIComponent(claimQuery.slice(0, 50))}/`, label: 'Snopes' },
+          { url: `https://www.politifact.com/search/?q=${encodeURIComponent(claimQuery.slice(0, 50))}`, label: 'PolitiFact' },
+          { url: `https://www.factcheck.org/?s=${encodeURIComponent(claimQuery.slice(0, 50))}`, label: 'FactCheck.org' },
+          { url: `https://fullfact.org/search/?q=${encodeURIComponent(claimQuery.slice(0, 50))}`, label: 'Full Fact' },
+        ],
       });
     } else {
       const src = isSuspicious ? 'Misinformation Pattern Detector' : ['Forum Repost', 'Unverified Thread', 'Anonymous Digest'][idx % 3];
+      const kwMatched = isSuspicious ? suspiciousMatches.filter((kw) => claim.toLowerCase().includes(kw)) : [];
       conflicting.push({
         source: src,
         claim: shortened,
         matchedText: isSuspicious
-          ? `Suspicious keywords found: ${suspiciousMatches.filter((kw) => claim.toLowerCase().includes(kw)).join(', ')}`
+          ? `Suspicious keywords found in: "${shortened.slice(0, 80)}…" — Matched: ${kwMatched.join(', ')}`
           : shortened,
         evidence: [
-          isSuspicious ? `Suspicious keywords: ${suspiciousMatches.join(', ')}` : 'Unusual phrasing pattern',
+          isSuspicious ? `Suspicious keywords matched: ${kwMatched.join(', ')}` : 'Unusual phrasing pattern',
           !hasQuotes ? 'No direct quotes or citations' : 'Quotes present',
           `Sentence ${idx + 1} of ${sentences.length}`,
-        ],
+          isSuspicious ? `Full suspicious keyword list checked: ${suspiciousMatches.slice(0, 5).join(', ')}` : null,
+        ].filter(Boolean),
         confidence: Math.max(40, confidenceBase - 12),
         note: isSuspicious
-          ? `Flagged language matches known misinformation patterns: ${suspiciousMatches.slice(0, 2).join(', ')}`
+          ? `Flagged language matches known misinformation patterns: "${kwMatched.slice(0, 3).join('", "')}"`
           : 'Unverified phrasing pattern detected.',
         tier: 3,
-        searchUrl: `https://www.google.com/search?q=${encodeURIComponent(`fact check ${shortened.slice(0, 60)}`)}`,
+        searchUrl: `https://www.google.com/search?q=${encodeURIComponent(`fact check ${claimQuery.slice(0, 60)}`)}`,
+        searchUrls: [
+          { url: `https://www.google.com/search?q=${encodeURIComponent(`fact check ${claimQuery.slice(0, 60)}`)}`, label: 'Google Fact Check' },
+          { url: `https://www.snopes.com/search/${encodeURIComponent(claimQuery.slice(0, 50))}/`, label: 'Snopes' },
+          { url: `https://www.politifact.com/search/?q=${encodeURIComponent(claimQuery.slice(0, 50))}`, label: 'PolitiFact' },
+          { url: `https://www.factcheck.org/?s=${encodeURIComponent(claimQuery.slice(0, 50))}`, label: 'FactCheck.org' },
+          { url: `https://mediabiasfactcheck.com/?s=${encodeURIComponent(claimQuery.slice(0, 40))}`, label: 'Media Bias/Fact Check' },
+        ],
       });
     }
   });
 
-  feedEntries.slice(0, 2).forEach((entry, idx) => {
+  feedEntries.slice(0, 3).forEach((entry, idx) => {
     const tier = entry.tier || getSourceTier(entry.source || '');
     const confidence = 63 + ((idx * 9 + (entry.title || '').length) % 28);
+    const title = entry.title?.slice(0, 80) || '';
     corroborating.push({
       source: entry.source || `Feed source ${idx + 1}`,
       claim: `Feed match: "${entry.title}"`,
       matchedText: entry.snippet ? entry.snippet.slice(0, 160) : entry.title,
       evidence: [
         `Matched feed headline: ${entry.title}`,
-        `Matched terms: ${matchedKeywords.slice(0, 5).join(', ') || 'N/A'}`,
+        `Matched terms: ${matchedKeywords.slice(0, 6).join(', ') || 'N/A'}`,
         `Feed source: ${entry.source || 'curated'}`,
         entry.date ? `Published: ${entry.date}` : 'Date unknown',
-      ],
+        entry.url ? `Article URL: ${entry.url}` : null,
+      ].filter(Boolean),
       confidence,
       note: 'Keyword terms appeared in curated static feed headlines.',
       tier,
-      searchUrl: `https://www.google.com/search?q=${encodeURIComponent(entry.title?.slice(0, 80) || '')}`,
+      searchUrl: `https://www.google.com/search?q=${encodeURIComponent(title)}`,
+      searchUrls: [
+        { url: `https://www.google.com/search?q=${encodeURIComponent(title)}`, label: 'Google Search' },
+        { url: `https://news.google.com/search?q=${encodeURIComponent(title)}&hl=en`, label: 'Google News' },
+        entry.url ? { url: entry.url, label: `Source: ${entry.source || 'Feed'}` } : null,
+        { url: `https://www.snopes.com/search/${encodeURIComponent(title.slice(0, 50))}/`, label: 'Snopes' },
+        { url: `https://www.politifact.com/search/?q=${encodeURIComponent(title.slice(0, 50))}`, label: 'PolitiFact' },
+      ].filter(Boolean),
     });
   });
 
@@ -630,6 +752,7 @@ function buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, 
       note: 'Add longer text with concrete entities, dates, and numbers.',
       tier: 3,
       searchUrl: null,
+      searchUrls: [],
     });
   }
 
@@ -845,7 +968,7 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
     );
     const domainAgeDays = Math.floor(Math.random() * 3000) + 100;
 
-    const { entries: feedEntries, matchedKeywords } = selectFeedEntriesWithKeywords(feedData, `${domain} ${url}`, 8);
+    const { entries: feedEntries, matchedKeywords } = selectFeedEntriesWithKeywords(feedData, `${domain} ${url}`, 10);
     const crossCheck = buildCrossCheckForUrl({ domain, isTrusted, isSuspicious, hasHttps, pathKeywords, feedEntries, matchedKeywords });
     const urlPathText = urlObj.pathname.replace(/[-_/]/g, ' ');
     const sentiment = analyzeSentiment(`${domain} ${urlPathText}`);
@@ -873,6 +996,13 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
 
     const duplicates = generateDuplicates(domain);
 
+    // Domain reputation value includes HTTPS as a sub-factor
+    const domainReputationValue = isTrusted
+      ? `Trusted source${!hasHttps ? ' · HTTP only (verify link)' : ' · HTTPS secured'}`
+      : isSuspicious
+        ? `Suspicious domain${!hasHttps ? ' · no HTTPS' : ''}`
+        : `Unknown source${!hasHttps ? ' · HTTP only' : ''}`;
+
     return {
       authenticityScore: score,
       type: 'url',
@@ -886,47 +1016,60 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
       crossCheck,
       imageAnalysis: null,
       aiAnalysis: null,
+      skippedFeatures: [
+        { name: 'Live WHOIS lookup', reason: 'Requires server-side proxy — heuristic age estimate used instead', skipped: true },
+        { name: 'Real-time fact-check API', reason: 'No API key configured — static corroboration feed used', skipped: true },
+        { name: 'Reverse image search', reason: 'Not applicable for URL analysis type', skipped: false, na: true },
+      ],
       findings: [
         {
           label: 'Domain reputation',
-          value: isTrusted ? 'Trusted source' : isSuspicious ? 'Suspicious domain' : 'Unknown source',
+          value: domainReputationValue,
           status: isTrusted ? 'good' : isSuspicious ? 'bad' : 'warn',
-          excerpt: `Domain: ${domain}`,
+          excerpt: `Domain: ${domain} | Protocol: ${urlObj.protocol} | Trusted: ${isTrusted} | Suspicious: ${isSuspicious}`,
           dataPath: [
             `Input URL: ${url}`,
             `Extracted domain: ${domain}`,
+            `Protocol: ${urlObj.protocol} — ${hasHttps ? 'HTTPS (secure, encrypted connection)' : 'HTTP (unencrypted — risk signal for domain reputation)'}`,
             `Checked against ${TRUSTED_DOMAINS.length} trusted domains: ${isTrusted ? 'MATCH FOUND' : 'no match'}`,
             `Checked against ${SUSPICIOUS_DOMAINS.length} suspicious patterns: ${isSuspicious ? 'MATCH FOUND' : 'no match'}`,
+            `HTTPS score impact: ${!hasHttps ? '-10 points (HTTP-only is a domain reputation risk)' : 'none'}`,
             `Verdict: ${isTrusted ? 'Trusted' : isSuspicious ? 'Suspicious' : 'Unknown'}`,
           ],
           searchUrl: `https://www.google.com/search?q=${encodeURIComponent(`"${domain}" reliability fact check`)}`,
-        },
-        {
-          label: 'HTTPS',
-          value: hasHttps ? 'Secure connection' : 'Not secure (HTTP)',
-          status: hasHttps ? 'good' : 'bad',
-          excerpt: `Protocol: ${urlObj.protocol}`,
-          dataPath: [
-            `Input URL: ${url}`,
-            `Parsed protocol: ${urlObj.protocol}`,
-            `HTTPS required for secure communication: ${hasHttps ? 'YES — secure' : 'NO — plaintext HTTP'}`,
-            `Score impact: ${hasHttps ? 'none' : '-10 points'}`,
+          searchUrls: [
+            { url: `https://www.google.com/search?q=${encodeURIComponent(`"${domain}" reliability fact check`)}`, label: 'Google Search' },
+            { url: `https://mediabiasfactcheck.com/?s=${encodeURIComponent(domain)}`, label: 'Media Bias/Fact Check' },
+            { url: `https://www.allsides.com/search/node/${encodeURIComponent(domain)}`, label: 'AllSides' },
+            { url: `https://www.newsguardtech.com/search/?q=${encodeURIComponent(domain)}`, label: 'NewsGuard' },
           ],
         },
         {
           label: 'Domain age (est.)',
           value: `~${Math.round(domainAgeDays / 365)} years`,
           status: domainAgeDays > 365 ? 'good' : 'warn',
+          explanation: 'Estimated domain age via heuristic. Real WHOIS lookup is unavailable in static environments.',
+          dataPath: [
+            `Note: real-time WHOIS is unavailable (skipped — server-side proxy required)`,
+            `Heuristic age estimate: ~${Math.round(domainAgeDays / 365)} years (${domainAgeDays} days)`,
+            `Threshold: domains > 1 year old are considered established`,
+            domainAgeDays > 365 ? 'Status: established domain' : 'Status: relatively new domain (higher uncertainty)',
+          ],
+          searchUrl: `https://who.is/whois/${encodeURIComponent(domain)}`,
+          searchUrls: [
+            { url: `https://who.is/whois/${encodeURIComponent(domain)}`, label: 'WHOIS lookup (who.is)' },
+            { url: `https://www.whois.com/whois/${encodeURIComponent(domain)}`, label: 'WHOIS lookup (whois.com)' },
+          ],
         },
         {
           label: 'URL patterns',
           value: pathKeywords ? 'Clickbait patterns detected' : 'No suspicious patterns',
           status: pathKeywords ? 'bad' : 'good',
-          excerpt: pathKeywords ? url : 'No suspicious patterns found',
+          excerpt: pathKeywords ? url : 'No suspicious patterns found in URL path',
           dataPath: [
             `Input URL: ${url}`,
             `Scanned URL path for ${SUSPICIOUS_KEYWORDS.length} suspicious keyword patterns`,
-            pathKeywords ? `MATCH: Suspicious pattern found in URL path` : 'No matches found',
+            pathKeywords ? 'MATCH: Suspicious/sensational pattern found in URL path (e.g. "shocking", "you-won\'t-believe")' : 'No matches found',
             `Score impact: ${pathKeywords ? '-15 points' : 'none'}`,
           ],
         },
@@ -934,11 +1077,24 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
           label: 'Cross-source consistency',
           value: `${crossCheck.consistencyScore}% (${crossCheck.corroboratingCount} corroborating / ${crossCheck.conflictingCount} conflicting)`,
           status: crossCheck.consistencyScore >= 65 ? 'good' : crossCheck.consistencyScore >= 40 ? 'warn' : 'bad',
+          dataPath: [
+            `Corroborating sources: ${crossCheck.corroboratingCount}`,
+            `Conflicting sources: ${crossCheck.conflictingCount}`,
+            `Methodology: ${crossCheck.methodology}`,
+            `Matched feed keywords: ${matchedKeywords.slice(0, 6).join(', ') || 'none'}`,
+          ],
         },
         {
           label: 'Emotional tone',
           value: `${sentiment.label} (${sentiment.intensity}% intensity)`,
           status: Math.abs(sentiment.normalizedScore) > 2.5 ? 'warn' : 'good',
+          explanation: 'Analyzed URL path and domain text for emotional word patterns using AFINN-style scoring.',
+          dataPath: [
+            `Analyzed text: "${domain} ${urlPathText.slice(0, 60)}"`,
+            `Sentiment label: ${sentiment.label}`,
+            `Intensity: ${sentiment.intensity}%`,
+            `Score impact: ${Math.abs(sentiment.normalizedScore) > 3 ? '-5 points (high emotional intensity)' : 'none'}`,
+          ],
         },
         {
           label: 'Manipulative patterns',
@@ -946,6 +1102,14 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
             ? `${darkPatternsResult.matchCount} detected: ${darkPatternsResult.detected.slice(0, 2).map((d) => d.label).join(', ')}`
             : 'None detected',
           status: darkPatternsResult.riskLevel === 'high' ? 'bad' : darkPatternsResult.riskLevel === 'medium' ? 'warn' : 'good',
+          excerpt: darkPatternsResult.matchCount > 0
+            ? darkPatternsResult.detected.slice(0, 2).map((d) => `${d.label}: "${d.match}"`).join(' | ')
+            : 'No manipulative framing patterns detected',
+          dataPath: [
+            `Scanned URL path for ${darkPatternsResult.matchCount} manipulative framing patterns`,
+            `Risk level: ${darkPatternsResult.riskLevel}`,
+            ...(darkPatternsResult.detected.slice(0, 3).map((d) => `→ ${d.label} (${d.category}): matched "${d.match}"`)),
+          ],
         },
         // TLD analysis
         (() => {
@@ -957,6 +1121,12 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
             value: `.${tld} — ${isSuspTld ? 'high-risk TLD' : isTrustedTld ? 'standard TLD' : 'uncommon TLD'}`,
             status: isSuspTld ? 'bad' : isTrustedTld ? 'good' : 'warn',
             explanation: `Top-level domain ".${tld}". Certain TLDs (e.g. .xyz, .click, .buzz) are disproportionately used by spam and misinformation sites.`,
+            dataPath: [
+              `TLD extracted: .${tld}`,
+              `Checked against ${SUSPICIOUS_TLDS.length} high-risk TLDs: ${isSuspTld ? 'MATCH — high-risk TLD' : 'no match'}`,
+              `Checked against ${TRUSTED_TLDS.length} standard TLDs: ${isTrustedTld ? 'standard TLD' : 'not in standard list'}`,
+              isSuspTld ? 'Score impact: -10 points' : 'No score impact',
+            ],
           };
         })(),
         // Subdomain depth
@@ -968,6 +1138,12 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
             value: depth === 0 ? 'None (apex domain)' : `${depth} level${depth > 1 ? 's' : ''} deep`,
             status: depth > 2 ? 'warn' : 'good',
             explanation: 'Deeply nested subdomains (e.g. news.fake.reports.example.com) can be used to mimic trusted domains.',
+            dataPath: [
+              `Domain: ${domain}`,
+              `Parsed parts: ${parts.join(' → ')}`,
+              `Subdomain levels: ${depth}`,
+              depth > 2 ? 'WARNING: Deep subdomain nesting — possible domain spoofing' : 'Normal subdomain depth',
+            ],
           };
         })(),
         // URL path depth
@@ -978,6 +1154,11 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
             value: `${Math.max(0, pathDepth)} level${pathDepth !== 1 ? 's' : ''}`,
             status: pathDepth > 5 ? 'warn' : 'good',
             explanation: 'Very deep URL paths can indicate dynamically generated spam pages.',
+            dataPath: [
+              `URL path: ${urlObj.pathname}`,
+              `Path depth: ${Math.max(0, pathDepth)} level(s)`,
+              pathDepth > 5 ? 'WARNING: Unusually deep path — possible spam/dynamically generated page' : 'Normal path depth',
+            ],
           };
         })(),
         // Query parameters
@@ -988,6 +1169,12 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
             value: paramCount === 0 ? 'None' : `${paramCount} parameter${paramCount > 1 ? 's' : ''}`,
             status: paramCount > 5 ? 'warn' : 'good',
             explanation: 'Many query parameters can indicate tracking-heavy pages or dynamically assembled content.',
+            dataPath: [
+              `Query string: ${urlObj.search || 'none'}`,
+              `Parameter count: ${paramCount}`,
+              paramCount > 5 ? `WARNING: ${paramCount} query parameters — possible heavy tracking or dynamic content assembly` : 'Normal parameter count',
+              paramCount > 5 ? 'Score impact: -5 points' : 'No score impact',
+            ],
           };
         })(),
         // IP address as hostname check
@@ -1075,7 +1262,7 @@ function analyzeText(text, feedData) {
   const exclamCount = (text.match(/!/g) || []).length;
   const hasQuotes = /[""][^""]+[""]/.test(text) || /"[^"]+"/.test(text);
   const hasNumbers = /\d/.test(text);
-  const { entries: feedEntries, matchedKeywords } = selectFeedEntriesWithKeywords(feedData, text, 8);
+  const { entries: feedEntries, matchedKeywords } = selectFeedEntriesWithKeywords(feedData, text, 10);
   const crossCheck = buildCrossCheckForText(text, suspiciousMatches, hasQuotes, hasNumbers, feedEntries, matchedKeywords);
   const sentiment = analyzeSentiment(text);
   const readability = analyzeReadability(text);
@@ -1152,11 +1339,22 @@ function analyzeText(text, feedData) {
     crossCheck,
     imageAnalysis: null,
     aiAnalysis: null,
+    skippedFeatures: [
+      { name: 'Live fact-check API', reason: 'No API key configured — static corroboration feed used instead', skipped: true },
+      { name: 'Reverse image search', reason: 'Not applicable for text analysis type', skipped: false, na: true },
+      { name: 'Live WHOIS lookup', reason: 'Not applicable for text analysis type', skipped: false, na: true },
+    ],
     findings: [
       {
         label: 'Word count',
         value: `${wordCount} words`,
         status: wordCount > 100 ? 'good' : wordCount > 30 ? 'warn' : 'bad',
+        explanation: 'Longer articles provide more context for heuristic analysis. Very short texts have lower reliability.',
+        dataPath: [
+          `Total word count: ${wordCount}`,
+          wordCount < 30 ? 'WARNING: Very short text — analysis reliability is limited' : wordCount < 100 ? 'Short text — moderate confidence' : 'Sufficient length for analysis',
+          `Score impact: ${wordCount > 200 ? '+10 points' : wordCount > 50 ? '+5 points' : '-10 points (too short)'}`,
+        ],
       },
       {
         label: 'Suspicious keywords',
@@ -1174,33 +1372,79 @@ function analyzeText(text, feedData) {
         dataPath: [
           `Scanned ${wordCount} words against ${SUSPICIOUS_KEYWORDS.length} suspicious keyword patterns`,
           `Matched keywords: ${suspiciousMatches.join(', ') || 'none'}`,
-          `Score impact: -${suspiciousMatches.length * 8} points`,
+          ...(suspiciousMatches.length > 0
+            ? suspiciousMatches.slice(0, 5).map((k) => {
+                const idx = lower.indexOf(k);
+                const ctx = idx >= 0 ? `"...${text.slice(Math.max(0, idx - 15), idx + k.length + 15)}..."` : '(not found in context)';
+                return `→ "${k}" found at position ${idx}: ${ctx}`;
+              })
+            : []),
+          `Score impact: ${suspiciousMatches.length > 0 ? `-${suspiciousMatches.length * 8} points` : 'none'}`,
         ],
       },
       {
         label: 'Capitalization',
         value: `${(capsRatio * 100).toFixed(1)}% caps`,
         status: capsRatio < 0.15 ? 'good' : capsRatio < 0.3 ? 'warn' : 'bad',
+        explanation: 'Excessive capitalization (SHOUTING) is a hallmark of sensationalist or low-credibility content.',
+        excerpt: `Ratio: ${(capsRatio * 100).toFixed(1)}% of non-space characters are uppercase`,
+        dataPath: [
+          `Total non-space characters: ${text.replace(/\s/g, '').length}`,
+          `Uppercase characters: ${(text.match(/[A-Z]/g) || []).length}`,
+          `Capitalization ratio: ${(capsRatio * 100).toFixed(1)}%`,
+          `Threshold: >30% is excessive, 15-30% is elevated`,
+          `Score impact: ${capsRatio > 0.3 ? '-15 points' : capsRatio > 0.15 ? '-8 points' : 'none'}`,
+        ],
       },
       {
         label: 'Exclamation marks',
         value: `${exclamCount} found`,
         status: exclamCount === 0 ? 'good' : exclamCount <= 2 ? 'warn' : 'bad',
+        explanation: 'Heavy use of exclamation marks is a common emotional manipulation tactic.',
+        dataPath: [
+          `Exclamation mark count: ${exclamCount}`,
+          `Threshold: >3 is excessive, >1 is elevated`,
+          `Score impact: ${exclamCount > 3 ? '-10 points' : exclamCount > 1 ? '-5 points' : 'none'}`,
+        ],
       },
       {
         label: 'Contains citations',
         value: hasQuotes ? 'Quoted sources present' : 'No quoted sources',
         status: hasQuotes ? 'good' : 'warn',
+        explanation: 'Quoted text (in quotation marks) indicates the author is citing sources rather than paraphrasing.',
+        excerpt: hasQuotes
+          ? (text.match(/[""][^""]{10,60}[""]|"[^"]{10,60}"/)?.[0] || 'Quote found')
+          : 'No quoted text detected',
+        dataPath: [
+          `Searched for text enclosed in " " or \u201c\u201d quotation marks (min 10 chars)`,
+          hasQuotes ? 'Quotes found — source material likely cited' : 'No quotes detected',
+          `Score impact: ${hasQuotes ? '+5 points' : 'none'}`,
+        ],
       },
       {
         label: 'Numerical data',
         value: hasNumbers ? 'Contains numbers / stats' : 'No numerical data',
         status: hasNumbers ? 'good' : 'warn',
+        explanation: 'Specific numbers, percentages, and statistics make claims more verifiable.',
+        excerpt: hasNumbers
+          ? (text.match(/\d+(?:\.\d+)?(?:\s*%|\s+(?:million|billion|percent))?/)?.[0] || 'Numbers present')
+          : 'No numbers or statistics found',
+        dataPath: [
+          `Scanned text for numeric characters`,
+          hasNumbers ? 'Numbers detected — claims are potentially verifiable' : 'No numbers found — claims may be unverifiable',
+          `Score impact: ${hasNumbers ? '+5 points' : 'none'}`,
+        ],
       },
       {
         label: 'Cross-source consistency',
         value: `${crossCheck.consistencyScore}% (${crossCheck.corroboratingCount} corroborating / ${crossCheck.conflictingCount} conflicting)`,
         status: crossCheck.consistencyScore >= 65 ? 'good' : crossCheck.consistencyScore >= 40 ? 'warn' : 'bad',
+        dataPath: [
+          `Corroborating sources: ${crossCheck.corroboratingCount}`,
+          `Conflicting sources: ${crossCheck.conflictingCount}`,
+          `Methodology: ${crossCheck.methodology}`,
+          `Matched feed keywords: ${matchedKeywords.slice(0, 8).join(', ') || 'none'}`,
+        ],
       },
       {
         label: 'Emotional tone',
@@ -1933,11 +2177,12 @@ async function analyzeImage(file) {
 }
 
 /**
- * Optional AI analysis via OpenAI.
+ * Optional AI analysis via OpenAI or Google Gemini.
  * Only called when an apiKey is present in session.
  * Returns an { confidence, summary } object or null on failure.
  *
- * Supports OpenAI and Google Gemma models based on selected/autodetected provider.
+ * Includes automatic fallback: if the selected model fails (e.g. not available),
+ * retries once with the provider's default model.
  */
 async function runAiAnalysis(inputData, aiConfig) {
   const apiKey = aiConfig?.apiKey?.trim();
@@ -1945,7 +2190,9 @@ async function runAiAnalysis(inputData, aiConfig) {
   if (apiKey.length < 10) return null;
 
   const provider = resolveProvider(aiConfig?.provider || 'auto', apiKey);
-  const model = aiConfig?.model?.trim() || AI_PROVIDERS[provider]?.defaultModel;
+  const requestedModel = aiConfig?.model?.trim() || '';
+  const defaultModel = AI_PROVIDERS[provider]?.defaultModel;
+  const model = requestedModel || defaultModel;
 
   logger.info(`AI analysis starting — provider: ${provider}, model: ${model}`);
 
@@ -1963,43 +2210,36 @@ ${contentSnippet}
 Reply in JSON only with this shape:
 { "confidence": <0-100 integer>, "storyValidity": "likely_valid"|"uncertain"|"likely_false", "validityReason": "<1-2 sentence reason>", "summary": "<3-4 sentence assessment>" }`;
 
-  try {
-    let raw = '{}';
-
+  /**
+   * Attempt a single API call for the given provider + model.
+   * Returns { raw: string } on success or throws on HTTP error.
+   */
+  async function attemptCall(attemptModel) {
     if (provider === 'google') {
-      const resolvedModel = model || AI_PROVIDERS.google.defaultModel;
-      const encodedModel = encodeURIComponent(resolvedModel);
+      const encodedModel = encodeURIComponent(attemptModel);
       const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodedModel}:generateContent`;
-      logger.debug(`Google AI request — model: ${resolvedModel}`);
+      logger.debug(`Google Gemini request — model: ${attemptModel}`);
       const res = await fetch(url, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'x-goog-api-key': apiKey },
         body: JSON.stringify({
           contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: {
-            temperature: 0.2,
-            maxOutputTokens: 400,
-          },
+          generationConfig: { temperature: 0.2, maxOutputTokens: 400 },
         }),
       });
       if (!res.ok) {
         const errText = await res.text().catch(() => '');
-        logger.error(`Google AI HTTP ${res.status} — ${res.statusText}`, { url, body: errText.slice(0, 300) });
         throw new Error(`Google AI error ${res.status}: ${res.statusText}. ${errText.slice(0, 120)}`);
       }
       const data = await res.json();
-      raw = data.candidates?.[0]?.content?.parts?.[0]?.text ?? '{}';
-      logger.debug('Google AI raw response received', { length: raw.length });
+      return data.candidates?.[0]?.content?.parts?.[0]?.text ?? '{}';
     } else {
-      logger.debug(`OpenAI request — model: ${model}`);
+      logger.debug(`OpenAI request — model: ${attemptModel}`);
       const res = await fetch('https://api.openai.com/v1/chat/completions', {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          Authorization: `Bearer ${apiKey}`,
-        },
+        headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${apiKey}` },
         body: JSON.stringify({
-          model: model || AI_PROVIDERS.openai.defaultModel,
+          model: attemptModel,
           messages: [{ role: 'user', content: prompt }],
           max_tokens: 300,
           temperature: 0.2,
@@ -2008,23 +2248,47 @@ Reply in JSON only with this shape:
       });
       if (!res.ok) {
         const errText = await res.text().catch(() => '');
-        logger.error(`OpenAI HTTP ${res.status} — ${res.statusText}`, { body: errText.slice(0, 300) });
         throw new Error(`OpenAI error ${res.status}: ${res.statusText}. ${errText.slice(0, 120)}`);
       }
       const data = await res.json();
-      raw = data.choices?.[0]?.message?.content ?? '{}';
-      logger.debug('OpenAI raw response received', { length: raw.length });
+      return data.choices?.[0]?.message?.content ?? '{}';
+    }
+  }
+
+  try {
+    let raw = '{}';
+    let usedModel = model;
+    let fallbackUsed = false;
+
+    try {
+      raw = await attemptCall(model);
+      logger.debug('AI raw response received', { provider, model, length: raw.length });
+    } catch (primaryErr) {
+      // Retry with default model if the selected model fails and a different default exists
+      if (requestedModel && requestedModel !== defaultModel && defaultModel) {
+        logger.warn(`AI primary model failed (${primaryErr.message}) — retrying with fallback: ${defaultModel}`);
+        try {
+          raw = await attemptCall(defaultModel);
+          usedModel = defaultModel;
+          fallbackUsed = true;
+          logger.info(`AI fallback model succeeded — ${defaultModel}`);
+        } catch (fallbackErr) {
+          logger.error(`AI fallback model also failed: ${fallbackErr.message}`, { provider, fallbackModel: defaultModel });
+          throw fallbackErr;
+        }
+      } else {
+        throw primaryErr;
+      }
     }
 
-    // Strip markdown code fences if the model wrapped the JSON
     const cleaned = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/, '').trim();
     try {
       const parsed = JSON.parse(cleaned);
-      logger.info(`AI analysis complete — confidence: ${parsed.confidence ?? 'N/A'}, validity: ${parsed.storyValidity ?? 'N/A'}`);
-      return { ...parsed, provider, model };
+      logger.info(`AI analysis complete — confidence: ${parsed.confidence ?? 'N/A'}, validity: ${parsed.storyValidity ?? 'N/A'}${fallbackUsed ? ` (fallback: ${usedModel})` : ''}`);
+      return { ...parsed, provider, model: usedModel, fallbackUsed: fallbackUsed ? defaultModel : null };
     } catch (parseErr) {
       logger.warn('AI JSON parse failed — returning raw text', { raw: cleaned.slice(0, 200), error: parseErr?.message });
-      return { confidence: null, storyValidity: 'uncertain', summary: cleaned, provider, model };
+      return { confidence: null, storyValidity: 'uncertain', summary: cleaned, provider, model: usedModel, fallbackUsed: fallbackUsed ? defaultModel : null };
     }
   } catch (err) {
     logger.error(`AI analysis failed: ${err.message}`, { provider, model });
@@ -2327,7 +2591,8 @@ function App() {
     currentStep,
     inputType: inputData.type,
     results: scanResults,
-  }), [scanPhase, scanProgress, currentStep, inputData.type, scanResults]);
+    hasAiKey: !!aiConfig.apiKey?.trim(),
+  }), [scanPhase, scanProgress, currentStep, inputData.type, scanResults, aiConfig.apiKey]);
 
   // ── Render ─────────────────────────────────────────────────────────────────
   return (
