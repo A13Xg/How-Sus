@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T12:58:45.594Z",
+  "generatedAt": "2026-05-05T01:07:12.073Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,82 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+      "link": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 23:42:27 GMT",
+      "snippet": "Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protection.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+      "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 21:33:17 GMT",
+      "snippet": "A 33-year-old German citizen was detained following the incident, the authorities say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+      "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 22:18:41 GMT",
+      "snippet": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
+      "link": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 16:27:32 GMT",
+      "snippet": "The ex-New York mayor 'remains in critical but stable condition', according to his spokesman.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
       "link": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 04 May 2026 09:49:05 GMT",
-      "snippet": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
+      "publishedAt": "Mon, 04 May 2026 19:09:14 GMT",
+      "snippet": "Russia has declared a unilateral ceasefire to cover the event and threatened a massive strike on central Kyiv if it were disrupted.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-      "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 04 May 2026 09:29:37 GMT",
-      "snippet": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation.",
+      "title": "Britney Spears pleads guilty to reckless driving after arrest",
+      "link": "https://www.bbc.com/news/articles/ce9p09e5vnro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 17:11:56 GMT",
+      "snippet": "The 44-year-old will avoid jail time after her arrest in California earlier this year.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
-      "link": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 04 May 2026 08:43:06 GMT",
-      "snippet": "The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman.",
+      "title": "Three Russian diplomats expelled from Austria over spying accusations",
+      "link": "https://www.bbc.com/news/articles/c5yrwny111xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 16:58:56 GMT",
+      "snippet": "They gathered information using a \"forest of antennas\" installed on top of diplomatic buildings, the foreign minister says.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Robots move in as waste firms struggle to find staff",
+      "link": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 23:43:28 GMT",
+      "snippet": "Humanoid robots are being added to the automation of waste sorting.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Mali junta leader names himself defence minister after predecessor killed",
+      "link": "https://www.bbc.com/news/articles/c8r8jr7x8mlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 18:31:38 GMT",
+      "snippet": "Former Defence Minister Sadio Camara was killed in a massive offensive by combined jihadist and separatist forces.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Spain seizes record amount of cocaine in Atlantic Ocean, authorities say",
+      "link": "https://www.bbc.com/news/articles/cp8pn8py5gro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 18:08:55 GMT",
+      "snippet": "The Civil Guard found between 30,000 and 45,000kg of the drug on a freighter headed to Libya.",
       "tier": 1
     },
     {
@@ -64,18 +120,42 @@
     },
     {
       "source": "BBC World",
-      "title": "European leaders converge on Armenia as Russia looks on",
-      "link": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 23:19:05 GMT",
-      "snippet": "Two European summits are being held in a country long considered Russia's closest ally in the region.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Antisemitism 'allowed to come into the open' says Bondi victim's daughter",
       "link": "https://www.bbc.com/news/articles/c1m2rk209mzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 04 May 2026 04:12:04 GMT",
       "snippet": "Sheina Gutnick was the first person to give evidence at the royal commission investigating the attack.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "GameStop makes $55.5bn takeover offer for eBay",
+      "link": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 15:12:39 GMT",
+      "snippet": "GameStop's boss Ryan Cohen says he sees potential to make eBay a much bigger rival to Amazon.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "New alliance shakes up Nigerian political landscape",
+      "link": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 15:47:31 GMT",
+      "snippet": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Three dead after monster truck crashes into crowd",
+      "link": "https://www.bbc.com/news/articles/czx2d54wwr4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 04 May 2026 07:45:13 GMT",
+      "snippet": "At least 38 people were injured when the vehicle ploughed into the crowd at a show in Colombia.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "European leaders converge on Armenia as Russia looks on",
+      "link": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 23:19:05 GMT",
+      "snippet": "Two European summits are being held in a country long considered Russia's closest ally in the region.",
       "tier": 1
     },
     {
@@ -88,18 +168,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-      "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 13:43:20 GMT",
-      "snippet": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "New alliances shakes up Nigerian political landscape",
-      "link": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 04 May 2026 12:39:31 GMT",
-      "snippet": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
+      "title": "Amsterdam bans public adverts for meat and fossil fuels",
+      "link": "https://www.bbc.com/news/articles/c9wejdekpwyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 03 May 2026 23:07:44 GMT",
+      "snippet": "Local politicians say the move is in line with the Dutch capital's environmental targets.",
       "tier": 1
     },
     {
@@ -112,82 +184,66 @@
     },
     {
       "source": "BBC World",
-      "title": "Amsterdam bans public adverts for meat and fossil fuels",
-      "link": "https://www.bbc.com/news/articles/c9wejdekpwyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 23:07:44 GMT",
-      "snippet": "Local politicians say the move is in line with the Dutch capital's environmental targets.",
+      "title": "The looks turning heads on the Met Gala carpet",
+      "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 05 May 2026 00:02:18 GMT",
+      "snippet": "The theme for 2026 Met Gala fundraiser is \"Costume Art\", exploring fashion as an embodied art form.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-      "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 08:41:23 GMT",
-      "snippet": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+      "source": "NPR News",
+      "title": "See the looks from the 2026 Met Gala red carpet",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/05/04/nx-s1-5803014/met-gala-red-carpet",
+      "publishedAt": "Mon, 04 May 2026 19:09:08 -0400",
+      "snippet": "Extravagantly dressed celebrities and designers made their way up the famous Met staircase Monday evening. The fundraiser is one of the fashion industry&apos;s biggest nights.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 02 May 2026 23:19:27 GMT",
-      "snippet": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+      "source": "NPR News",
+      "title": "Hotels have a big World Cup problem: Bookings are running far below projections",
+      "link": "https://www.npr.org/2026/05/04/nx-s1-5810626/world-cup-hotels-tourism-bookings-visitors",
+      "publishedAt": "Mon, 04 May 2026 17:56:29 -0400",
+      "snippet": "Nearly 80% of hotels surveyed by a body representing the industry reported bookings were running below projections — a worrisome sign with only weeks to go before the World Cup.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Concern for jailed Iranian Nobel laureate as brother fears she is dying",
-      "link": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 14:44:04 GMT",
-      "snippet": "Her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
+      "source": "NPR News",
+      "title": "Modi&apos;s party takes control of India&apos;s West Bengal in key state election",
+      "link": "https://www.npr.org/2026/05/04/g-s1-120053/modis-party-takes-control-of-indias-west-bengal-in-key-state-election",
+      "publishedAt": "Mon, 04 May 2026 16:18:30 -0400",
+      "snippet": "The outcome is expected to strengthen Modi&apos;s political position midway through his third term.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 02 May 2026 23:17:17 GMT",
-      "snippet": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
+      "source": "NPR News",
+      "title": "Here are the 2026 Pulitzer Prize winners",
+      "link": "https://www.npr.org/2026/05/04/nx-s1-5803483/pulitzer-prize-winners-2026",
+      "publishedAt": "Mon, 04 May 2026 16:00:16 -0400",
+      "snippet": "Award winners include authors Daniel Kraus, Jill Lepore and Yiyun Li, opinion writer M. Gessen and staffers and contributors at The Washington Post , Reuters and AP.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Two US service members reported missing in Morocco, officials say",
-      "link": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 17:27:21 GMT",
-      "snippet": "A search and rescue operation is underway for the service members, who are believed to have been involved in an accident, according to authorities.",
+      "source": "NPR News",
+      "title": "A United jet struck a light pole and a truck near Newark airport, police say",
+      "link": "https://www.npr.org/2026/05/04/nx-s1-5810477/united-jet-strikes-truck-newark-airport",
+      "publishedAt": "Mon, 04 May 2026 14:09:20 -0400",
+      "snippet": "New Jersey State Police say a United Airlines passenger jet struck a light pole and damaged a truck as it was coming in for a landing at Newark Liberty International Airport on Sunday.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Man charged with murder of 5-year-old Australian girl",
-      "link": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 03 May 2026 05:52:09 GMT",
-      "snippet": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
+      "source": "NPR News",
+      "title": "Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change",
+      "link": "https://www.npr.org/2026/05/04/nx-s1-5810510/supreme-court-mifepristone-appeals-telehealth",
+      "publishedAt": "Mon, 04 May 2026 12:15:13 -0400",
+      "snippet": "The Supreme Court says rules that allow patients to get the abortion pill mifepristone through the mail can stay the same for at least a week.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
-      "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 04 May 2026 11:44:36 GMT",
-      "snippet": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
-      "link": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 02 May 2026 05:02:14 GMT",
-      "snippet": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 02 May 2026 16:51:18 GMT",
-      "snippet": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+      "source": "NPR News",
+      "title": "The U.S. fights to reopen the Strait of Hormuz as UAE says it&apos;s attacked by Iran",
+      "link": "https://www.npr.org/2026/05/04/nx-s1-5810508/iran-war-updates",
+      "publishedAt": "Mon, 04 May 2026 12:08:35 -0400",
+      "snippet": "The U.S. military said it battled Iranian forces and sank six small boats as it moved to reopen the Strait of Hormuz, while the United Arab Emirates said Iran fired missiles and drones its way.",
       "tier": 1
     },
     {
@@ -215,219 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Here&apos;s how medication abortion works with just one drug that&apos;s still fully available",
-      "link": "https://www.npr.org/2026/05/04/g-s1-119947/telehealth-abortion-mifepristone-misoprostol",
-      "publishedAt": "Mon, 04 May 2026 07:38:48 -0400",
-      "snippet": "A federal appeals court ruling restricts telemedicine access to the abortion drug mifepristone for the whole country, at least temporarily. But another drug that remains available is safe and effective at ending early pregnancy.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "At the 2026 Met Gala, &apos;Fashion is Art.&apos; Here&apos;s what to expect",
-      "link": "https://www.npr.org/2026/05/04/nx-s1-5803011/met-gala-2026-preview-costume-art",
-      "publishedAt": "Mon, 04 May 2026 07:00:00 -0400",
-      "snippet": "On the first Monday of every May, the rich, famous and well-dressed gather in New York City for the Met Gala fundraiser. Ivy Buck offers a lookahead - covering this year&apos;s theme, where to watch, who&apos;s coming, and more.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Trump administration falls behind on wildfire prevention with risky fire season ahead",
-      "link": "https://www.npr.org/2026/05/04/nx-s1-5801475/forest-service-wildfire-prevention-vegetation-burns",
-      "publishedAt": "Mon, 04 May 2026 05:30:00 -0400",
-      "snippet": "Many of the nation&apos;s overgrown forests are at high risk of burning. Under the Trump administration, work to reduce flammable vegetation fell by more than a million acres compared to previous years.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "In many states, election-denying candidates are running to control voting",
-      "link": "https://www.npr.org/2026/05/04/nx-s1-5803149/election-denial-2026-candidates",
-      "publishedAt": "Mon, 04 May 2026 05:00:00 -0400",
-      "snippet": "In 23 states, including five presidential swing states, candidates who have denied election results are running for offices that have a direct role in certifying future elections, a new report finds.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "After Republicans blocked Indiana redistricting, millions poured in to defeat them",
-      "link": "https://www.npr.org/2026/05/04/nx-s1-5788979/trump-indiana-primary-redistricting-retribution-midterm-election",
-      "publishedAt": "Mon, 04 May 2026 05:00:00 -0400",
-      "snippet": "President Trump has thrown his support behind challengers to Republican state senators who opposed his redistricting push.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "The oldest millennials are 45! This tool helps plan for longevity",
-      "link": "https://www.npr.org/2026/05/04/nx-s1-5787940/tool-survey-helps-plan-aging-longevity-retirement",
-      "publishedAt": "Mon, 04 May 2026 05:00:00 -0400",
-      "snippet": "The oldest millennials are turning 45 this year. The oldest Gen Xers are now 60. So how prepared will they be to thrive in the decades ahead? A new tool helps people assess beyond just savings.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Bill aims to stop &apos;claim sharks&apos; from targeting disabled vets after NPR investigation",
-      "link": "https://www.npr.org/2026/05/04/nx-s1-5719493/veterans-disabilities-claims-congress-legislation",
-      "publishedAt": "Mon, 04 May 2026 05:00:00 -0400",
-      "snippet": "The bipartisan bill would block companies from using auto-dialers to harvest private information about disabled veterans. The firms charge vets for a service lawmakers say is supposed to be free.",
+      "source": "PBS Headlines",
+      "title": "Driver plows car into people in shopping area in Germany, killing 2",
+      "link": "https://www.pbs.org/newshour/world/driver-plows-car-into-people-in-shopping-area-in-germany-killing-2",
+      "publishedAt": "Mon, 04 May 2026 19:43:15 -0400",
+      "snippet": "An additional three people were seriously injured in what officials believe was a deliberate rampage, Leipzig Mayor Burkhard Jung said.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "1,500 beagles will find new homes after release from research facility",
-      "link": "https://www.pbs.org/newshour/nation/1500-beagles-will-find-new-homes-after-release-from-research-facility",
-      "publishedAt": "Sun, 03 May 2026 18:38:07 -0400",
-      "snippet": "The first beagles removed from a Wisconsin dog breeding and research facility that was the site of recent protests seemed to know right away that they were safe.",
+      "title": "2nd sloth transferred from troubled Sloth World has died, Central Florida Zoo says",
+      "link": "https://www.pbs.org/newshour/nation/2nd-sloth-transferred-from-troubled-sloth-world-has-died-central-florida-zoo-says",
+      "publishedAt": "Mon, 04 May 2026 19:12:05 -0400",
+      "snippet": "A second sloth taken to a central Florida zoo for rehabilitation has died out of a group given up by a yet-to-open tourist attraction facing scrutiny for the deaths of more than 30 other sloths imported from Guyana and Peru.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Three dead in suspected hantavirus outbreak aboard cruise ship in the Atlantic Ocean, WHO says",
-      "link": "https://www.pbs.org/newshour/world/three-dead-in-suspected-hantavirus-outbreak-aboard-cruise-ship-in-the-atlantic-ocean-who-says",
-      "publishedAt": "Sun, 03 May 2026 16:46:13 -0400",
-      "snippet": "A suspected outbreak of the rare hantavirus infection on a cruise ship in the Atlantic Ocean killed three people and sickened at least three others, the World Health Organization and South Africa's Department of Health said Sunday.",
+      "title": "U.S. and Iran truce tested over the Strait of Hormuz, threatening to reignite conflict",
+      "link": "https://www.pbs.org/newshour/show/u-s-and-iran-truce-tested-over-the-strait-of-hormuz-threatening-to-reignite-conflict",
+      "publishedAt": "Mon, 04 May 2026 18:55:21 -0400",
+      "snippet": "The tenuous truce between the U.S. and Iran was tested Monday, as American ships clearing a lane in the Strait of Hormuz came under fire and sank Iranian boats. Iran also fired drones and missiles at a key oil terminal in the United Arab Emirates, spooking markets and raising con",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Former Malian minister and junta critic abducted from home by armed men, family tells AP",
-      "link": "https://www.pbs.org/newshour/world/former-malian-minister-and-junta-critic-abducted-from-home-by-armed-men-family-tells-ap",
-      "publishedAt": "Sun, 03 May 2026 16:35:53 -0400",
-      "snippet": "A former Malian minister and critic of the ruling junta was abducted from his home by armed, hooded men, one of his family members told The Associated Press Sunday.",
+      "title": "Analyzing the U.S. effort to reopen the Strait of Hormuz amid tensions",
+      "link": "https://www.pbs.org/newshour/show/analyzing-the-u-s-effort-to-reopen-the-strait-of-hormuz-amid-tensions",
+      "publishedAt": "Mon, 04 May 2026 18:50:57 -0400",
+      "snippet": "The U.S. military remains poised to resume the war as tensions rose on Monday with President Trump threatening that if Iran fires on U.S. vessels, \"they will be blown off the face of the earth.\" Ian Ralby, president of Auxilium Worldwide, and Ret. Admiral Andrew Loiselle, who has",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Secret Service agent hit by buckshot from the gun of man charged in correspondents' dinner attack, prosecutor says",
-      "link": "https://www.pbs.org/newshour/nation/secret-service-agent-hit-by-buckshot-from-the-gun-of-man-charged-in-correspondents-dinner-attack-prosecutor-says",
-      "publishedAt": "Sun, 03 May 2026 14:57:30 -0400",
-      "snippet": "Authorities have determined that buckshot from the gun of the man charged with trying to storm the White House Correspondents' Association dinner in an attempt to kill President Donald Trump struck a Secret Service agent, according to the federal prosecutor overseeing the investi",
+      "title": "News Wrap: Rudy Giuliani recovers from pneumonia at a Florida hospital",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-rudy-giuliani-recovers-from-pneumonia-at-a-florida-hospital",
+      "publishedAt": "Mon, 04 May 2026 18:45:32 -0400",
+      "snippet": "In our news wrap Monday, former New York city mayor Rudy Giuliani is recovering from pneumonia at a Florida hospital, three people died from a suspected outbreak of hantavirus on a cruise ship, authorities search for suspects in a mass shooting that left at least 23 people injure",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What Florida's extreme drought means for the upcoming hurricane season",
-      "link": "https://www.pbs.org/newshour/science/what-floridas-extreme-drought-means-for-the-upcoming-hurricane-season",
-      "publishedAt": "Sun, 03 May 2026 13:53:55 -0400",
-      "snippet": "Florida is experiencing one of its worst droughts in decades, but Gov. Ron DeSantis says there could be a silver lining: a less active hurricane season. Does dry weather correlate with fewer hurricanes? PolitiFact says not typically.",
+      "title": "Secret Service agent fires on man with a gun close to the White House",
+      "link": "https://www.pbs.org/newshour/show/secret-service-agent-fires-on-man-with-a-gun-close-to-the-white-house",
+      "publishedAt": "Mon, 04 May 2026 18:43:58 -0400",
+      "snippet": "For the second time in as many weeks, a U.S. Secret Service agent fired a gun at an armed suspect in Washington D.C., less than a mile from the White House. The agency said an agent returned fire at a man carrying a gun. A bystander, a juvenile, was also injured. White House corr",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Amtrak may make it easier to bring guns on its trains",
-      "link": "https://www.pbs.org/newshour/nation/amtrak-may-make-it-easier-to-bring-guns-on-its-trains",
-      "publishedAt": "Sun, 03 May 2026 13:34:58 -0400",
-      "snippet": "Amtrak is considering allowing people to store guns in lockboxes on most of its trains, which critics say would weaken security measures that instead should be strengthened in light of the shooting at last weekend's White House Correspondents' Association dinner.",
+      "title": "Why the Trump administration is paying nearly $2 billion to abandon wind farms",
+      "link": "https://www.pbs.org/newshour/show/why-the-trump-administration-is-paying-nearly-a-billion-dollars-to-abandon-wind-farms",
+      "publishedAt": "Mon, 04 May 2026 18:42:39 -0400",
+      "snippet": "Lawmakers from both parties are raising concerns about the Trump administration's spending decisions. In the latest example, the administration said it will pay nearly $1 billion to energy companies to abandon plans to build two wind farms off the U.S. coast. Liz Landers joins Am",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump says U.S. will help 'guide' stranded ships from Strait of Hormuz starting Monday",
-      "link": "https://www.pbs.org/newshour/world/trump-says-u-s-will-help-guide-stranded-ships-from-strait-of-hormuz-starting-monday",
-      "publishedAt": "Sun, 03 May 2026 12:46:20 -0400",
-      "snippet": "U.S. President Donald Trump announced a project that will start on Monday to help stranded ships leave the Strait of Hormuz, which Iran has effectively closed, but offered few details.",
+      "title": "What the Supreme Court ruling means for abortion access and what comes next",
+      "link": "https://www.pbs.org/newshour/show/what-the-supreme-court-ruling-means-for-abortion-access-and-what-comes-next",
+      "publishedAt": "Mon, 04 May 2026 18:40:21 -0400",
+      "snippet": "The Supreme Court on Monday temporarily allowed continued nationwide access to abortion medication that's often distributed by mail. The court issued a one-week stay on a lower court's ruling that would have led to sweeping changes in how Mifepristone, one of the two drugs common",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Austrian police arrest suspect in supermarket baby food poisoning case",
-      "link": "https://www.pbs.org/newshour/world/austrian-police-arrest-suspect-in-supermarket-baby-food-poisoning-case",
-      "publishedAt": "Sun, 03 May 2026 12:02:19 -0400",
-      "snippet": "Police in eastern Austria say a 39-year-old suspect has been arrested after rat poison turned up in some HiPP baby food jars on supermarket shelves in central Europe.",
+      "title": "How the collapse of Spirit Airlines is impacting travelers and the wider aviation industry",
+      "link": "https://www.pbs.org/newshour/show/how-the-collapse-of-spirit-airlines-is-impacting-travelers-and-the-wider-aviation-industry",
+      "publishedAt": "Mon, 04 May 2026 18:35:13 -0400",
+      "snippet": "Spirit Airlines has officially shut down. The low-cost airline went out of business this weekend after 34 years. It's left members of the flying public in a tricky bind and the larger industry with some serious questions. Stephanie Sy has our look at how we got here and what come",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Two U.S. service members missing in Morocco following annual military exercises",
-      "link": "https://www.pbs.org/newshour/world/two-u-s-service-members-missing-in-morocco-following-annual-military-exercises",
-      "publishedAt": "Sun, 03 May 2026 11:49:46 -0400",
-      "snippet": "Two U.S. service members are missing in southwestern Morocco after taking part in annual multinational military exercises in the North African country, the United States Africa Command (AFRICOM) said Sunday.",
+      "title": "U.S. Forest Service cuts raise concerns on protecting public lands and fighting wildfires",
+      "link": "https://www.pbs.org/newshour/show/u-s-forest-service-cuts-raise-concerns-on-protecting-public-lands-and-fighting-wildfires",
+      "publishedAt": "Mon, 04 May 2026 18:25:58 -0400",
+      "snippet": "Sweeping changes are coming for the U.S. Forest Service, which manages roughly a third of America's public land. The agency announced a dramatic overhaul of cuts, closures and consolidation. That's on top of the Trump administration's latest budget request that seeks to slash bil",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump says he is reviewing new Iranian proposal to end war",
-      "link": "https://www.pbs.org/newshour/world/trump-says-he-is-reviewing-new-iranian-proposal-to-end-war",
-      "publishedAt": "Sat, 02 May 2026 19:00:00 -0400",
-      "snippet": "President Donald Trump said on Saturday that he was reviewing a new Iranian proposal to end the war.",
+      "title": "Former federal workers speak out about being fired and why they're now running for office",
+      "link": "https://www.pbs.org/newshour/show/former-federal-workers-speak-out-about-being-fired-and-why-theyre-now-running-for-office",
+      "publishedAt": "Mon, 04 May 2026 18:20:41 -0400",
+      "snippet": "More than three dozen former federal workers who quit or lost their jobs last year, in the wake of cuts from the Department of Government Efficiency, or DOGE, are now running for political office. Most, but not all, are Democrats who say the assault on public service led them to ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "State redistricting battles intensify following U.S. Supreme Court ruling on Voting Rights Act",
-      "link": "https://www.pbs.org/newshour/politics/state-redistricting-battles-intensify-following-u-s-supreme-court-ruling-on-voting-rights-act",
-      "publishedAt": "Sat, 02 May 2026 18:43:24 -0400",
-      "snippet": "A Supreme Court decision striking down a majority Black congressional district in Louisiana has amplified an already intense national redistricting battle. Here's a look at how some states are responding.",
+      "title": "Tamara Keith and Amy Walter on redrawing congressional maps and testing Trump's power",
+      "link": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-redrawing-congressional-maps-and-testing-trumps-power",
+      "publishedAt": "Mon, 04 May 2026 18:15:36 -0400",
+      "snippet": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including the 2026 elections, the Supreme Court's abortion pill ruling and the push by some states to redraw their congressional maps.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "After Spirit Airlines shutdown, how passengers can get home and get refunds",
-      "link": "https://www.pbs.org/newshour/economy/after-spirit-airlines-shutdown-how-passengers-can-get-home-and-get-refunds",
-      "publishedAt": "Sat, 02 May 2026 18:12:55 -0400",
-      "snippet": "If you've been snagged in Spirit Airlines' now-defunct flight schedule, here are some things to know on how to get home, and get whole.",
+      "title": "How to watch the 'Costume Art' Met Gala red carpet",
+      "link": "https://www.pbs.org/newshour/arts/how-to-watch-the-costume-art-met-gala-red-carpet",
+      "publishedAt": "Mon, 04 May 2026 17:51:54 -0400",
+      "snippet": "Didn't snag one of the pricey tickets or a spot on the ultra-exclusive guest list? The red carpet spectacle is available for all to watch online.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Expensive tickets for early World Cup games still on general sale",
-      "link": "https://www.pbs.org/newshour/world/expensive-tickets-for-early-world-cup-games-still-on-general-sale",
-      "publishedAt": "Sat, 02 May 2026 17:11:27 -0400",
-      "snippet": "Tickets for most of the World Cup group games remain on general sale with just over a month to go until the tournament kicks off on June 11. But prices are exorbitantly high.",
+      "title": "Astronomers believe they've detected an atmosphere around a tiny, icy world beyond Pluto",
+      "link": "https://www.pbs.org/newshour/science/astronomers-believe-theyve-detected-an-atmosphere-around-a-tiny-icy-world-beyond-pluto",
+      "publishedAt": "Mon, 04 May 2026 17:32:09 -0400",
+      "snippet": "Just 300 miles or so across, this mini Pluto is thought to be the solar system's smallest object.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Iranian Nobel Peace Prize laureate Narges Mohammadi hospitalized after health crisis in prison",
-      "link": "https://www.pbs.org/newshour/world/iranian-nobel-peace-prize-laureate-narges-mohammadi-hospitalized-after-health-crisis-in-prison",
-      "publishedAt": "Sat, 02 May 2026 16:18:25 -0400",
-      "snippet": "Iran's imprisoned Nobel Peace Prize laureate Narges Mohammadi has been urgently transferred from prison to a hospital in northwestern Iran after a \"catastrophic deterioration\" of her health, her foundation said Friday.",
+      "title": "Daniel Kraus' 'Angel Down' and Bess Wohl's 'Liberation' are among Pulitzer winners in the arts",
+      "link": "https://www.pbs.org/newshour/arts/daniel-kraus-angel-down-and-bess-wohls-liberation-are-among-pulitzer-winners-in-the-arts",
+      "publishedAt": "Mon, 04 May 2026 17:03:09 -0400",
+      "snippet": "Pulitzer Prize officials awarded the fiction prize to an author with a long history in fantasy, horror and young adult novels.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Diet soda's mixed science and how to kick the habit",
-      "link": "https://www.pbs.org/newshour/health/diet-sodas-mixed-science-and-how-to-kick-the-habit",
-      "publishedAt": "Sat, 02 May 2026 16:02:06 -0400",
-      "snippet": "The research on diet sodas has about as much clarity as a glass of Diet Coke. Here's a quick guide by PolitiFact to navigating the low-calorie beverage menu — and weaning yourself off sweet, fizzy sodas, if you're ready.",
+      "title": "Blake Lively and Justin Baldoni settle lawsuit over 'It Ends With Us' dispute",
+      "link": "https://www.pbs.org/newshour/nation/blake-lively-and-justin-baldoni-settle-lawsuit-over-it-ends-with-us-dispute",
+      "publishedAt": "Mon, 04 May 2026 16:53:13 -0400",
+      "snippet": "The two sides settled their legal dispute Monday ahead of a planned trial over Lively's claims that Baldoni conspired with publicists to preemptively destroy her reputation after she privately accused him of sexually harassing her on the movie set.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Mexican governor and mayor step down after U.S. drug trafficking indictments",
-      "link": "https://www.pbs.org/newshour/world/mexican-governor-and-mayor-step-down-after-u-s-drug-trafficking-indictments",
-      "publishedAt": "Sat, 02 May 2026 15:19:40 -0400",
-      "snippet": "Two members of Mexican President Claudia Sheinbaum's party in the northwestern Sinaloa state said they would temporarily step down from their posts after the United States charged them and eight other politicians and security officers with drug trafficking.",
+      "title": "Washington Post, AP, Reuters and Minnesota Star Tribune among Pulitzer winners for 2025 work",
+      "link": "https://www.pbs.org/newshour/nation/washington-post-ap-reuters-and-minnesota-star-tribune-among-pulitzer-winners-for-2025-work",
+      "publishedAt": "Mon, 04 May 2026 16:39:59 -0400",
+      "snippet": "The Post's coverage illuminated the fast-moving, sometimes opaque particulars of President Donald Trump's drive to reshape the national government, and judges credited the Post with detailing what the changes meant for individual Americans.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump's new surgeon general nominee has both praised and criticized his administration",
-      "link": "https://www.pbs.org/newshour/nation/trumps-new-surgeon-general-nominee-has-both-praised-and-criticized-his-administration",
-      "publishedAt": "Sat, 02 May 2026 14:24:48 -0400",
-      "snippet": "Dr. Nicole Saphier is President Donald Trump's latest pick for the vacant role of U.S. surgeon general, a nomination that ended the embattled campaign of his previous candidate, Dr. Casey Means.",
+      "title": "Officers shot man who opened fire near Washington Monument, Secret Service says",
+      "link": "https://www.pbs.org/newshour/nation/law-enforcement-shot-a-person-near-washington-monument-secret-service-says",
+      "publishedAt": "Mon, 04 May 2026 16:31:01 -0400",
+      "snippet": "A man spotted carrying a gun in the vicinity of the White House by plainclothes officers and agents was shot by law enforcement Monday after he opened fire on them near the Washington Monument, the Secret Service said.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Spirit Airlines goes out of business after 34 years, ceases operations immediately",
-      "link": "https://www.pbs.org/newshour/economy/spirit-airlines-goes-out-of-business-after-34-years-ceases-operations-immediately",
-      "publishedAt": "Sat, 02 May 2026 13:23:30 -0400",
-      "snippet": "Spirit Airlines, an impish upstart that shook the industry with its irreverent ads and deep discount fares, announced Saturday that it has gone out of business after 34 years.",
+      "title": "Fewer AAPI adults experienced hate incidents in past year but racism concerns linger, poll finds",
+      "link": "https://www.pbs.org/newshour/nation/fewer-aapi-adults-experienced-hate-incidents-in-past-year-but-racism-concerns-linger-poll-finds",
+      "publishedAt": "Mon, 04 May 2026 16:25:02 -0400",
+      "snippet": "Fewer Asian American and Pacific Islander adults are reporting overt anti-Asian attacks than during the height of the COVID-19 pandemic, a new AP-NORC/AAPI Data poll finds, but many still worry about racial discrimination.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What to know about a mifepristone maker asking the Supreme Court to restore access to the pill by mail",
-      "link": "https://www.pbs.org/newshour/health/what-to-know-about-a-mifepristone-maker-asking-the-supreme-court-to-restore-access-to-the-pill-by-mail",
-      "publishedAt": "Sat, 02 May 2026 12:14:04 -0400",
-      "snippet": "A maker of the widely used abortion pill mifepristone asked the Supreme Court on Saturday to block an appellate court ruling that cut off mail-order access to the drug just a day earlier. Here's what to know.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "U.S. to withdraw 5,000 troops from Germany in next 6 to12 months",
-      "link": "https://www.pbs.org/newshour/world/u-s-to-withdraw-5000-troops-from-germany-in-next-6-to12-months",
-      "publishedAt": "Sat, 02 May 2026 11:36:36 -0400",
-      "snippet": "The United States will withdraw about 5,000 troops from Germany in the next six to 12 months, the Pentagon said Friday, fulfilling President Trump's threat as he clashes with the German leader over the U.S. war with Iran.",
+      "title": "Who is Howard Lutnick and what's his connection to Jeffrey Epstein?",
+      "link": "https://www.pbs.org/newshour/politics/who-is-howard-lutnick-and-whats-his-connection-to-jeffrey-epstein",
+      "publishedAt": "Mon, 04 May 2026 16:00:26 -0400",
+      "snippet": "The extent of Lutnick's relationship with Epstein came under heavy scrutiny after he gave contradictory statements about his ties to the disgraced financier.",
       "tier": 1
     },
     {
@@ -440,10 +440,106 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Person shot near Washington Monument, US Secret Service says",
+      "link": "https://www.dw.com/en/person-shot-near-washington-monument-us-secret-service-says/a-77045301?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The White House was briefly locked down on Monday after the US Secret Service said an individual was shot by law enforcement near the Washington Monument.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in same breath",
+      "link": "https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "President Putin has unilaterally declared a two-day truce amid commemorations of the end of World War II in Moscow. Ukraine&apos;s President Zelenskyy proposed his own truce starting a couple of days earlier.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Leipzig: 2 killed after car drives into crowd",
+      "link": "https://www.dw.com/en/leipzig-2-killed-after-car-drives-into-crowd/a-77043222?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The driver was a 33-year-old German national who has now been detained. The incident occurred on Grimmaische Street in the heart of Leipzig.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Dubai&apos;s image as a financial hub faces its biggest test yet",
+      "link": "https://www.dw.com/en/dubai-s-image-as-a-financial-hub-faces-its-biggest-test-yet/a-76959753?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Amid the smoldering Iran war, wealthy elites are quietly shifting capital and other assets out of Dubai and heading to Singapore and Switzerland. Just how resilient is the emirate&apos;s safe-haven reputation?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pushback in Nigeria over ex-Boko Haram fighter reintegration",
+      "link": "https://www.dw.com/en/pushback-in-nigeria-over-ex-boko-haram-fighter-reintegration/a-77031419?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Nigeria is set to reintegrate more than 700 former Boko Haram fighters into society under a government deradicalization program. Authorities say this is key to ending the insurgency — but communities are skeptical.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why Saudi Arabia is withdrawing from sport",
+      "link": "https://www.dw.com/en/why-saudi-arabia-is-withdrawing-from-sport/a-77032858?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "There are few major sports left that are not supported by investment from Saudi Arabia. But with the kingdom pulling out of golf and canceling planned events and contracts elsewhere, is the Saudi sports era over?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nigeria evacuating 130 citizens from South Africa after anti-migrant protests turn violent",
+      "link": "https://www.dw.com/en/nigeria-evacuating-130-citizens-from-south-africa-after-anti-migrant-protests-turn-violent/a-77041438?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As reports of xenophobic attacks in South Africa continue, Nigeria said it would repatriate its citizens who want to leave.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How child soldiers in Sudan become influencers on TikTok",
+      "link": "https://www.dw.com/en/how-child-soldiers-in-sudan-become-influencers-on-tiktok/a-77033265?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Some Sudanese child soldiers have social media accounts are celebrated by millions of followers. Psychologists and other experts warn this is a dangerous trend.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Modi claims victory in West Bengal election",
+      "link": "https://www.dw.com/en/india-news-modi-claims-victory-in-west-bengal-election/live-77026483?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Prime Minister Narendra Modi&apos;s Hindu nationalist BJP party is poised to govern the state for the first time ever. Modi hopes to make inroads into other opposition strongholds too.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Decoding China: Beijing courts Europe amid US dysfunction",
+      "link": "https://www.dw.com/en/decoding-china-beijing-courts-europe-amid-us-dysfunction/a-77038349?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "China is hoping to secure new allies for a future multipolar world order as the partnership between the US and the European powers slides into a crisis.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "North Korea ramps up executions over foreign media, says NGO",
+      "link": "https://www.dw.com/en/north-korea-ramps-up-executions-over-foreign-media-says-ngo/a-77037627?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Many children of North Korean elites are \"addicted to smuggled South Korean pop culture and American action movies,\" an expert told DW. Under Kim Jong Un, watching this content could put one&apos;s life at risk.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Georg Baselitz, artist renowned for his upside-down paintings, dies",
+      "link": "https://www.dw.com/en/georg-baselitz-artist-renowned-for-his-upside-down-paintings-dies/a-77037122?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "He was thrown out of art school at the age of 18 because of his love for Picasso. The German artist who never lost his rebellious streak has died at the age of 88.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "EPC summit: Europe has &apos;gotten the message&apos; from Trump",
       "link": "https://www.dw.com/en/epc-summit-europe-has-gotten-the-message-from-trump/live-77030273?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "NATO Secretary-General Mark Rutte said at the opening of the EPC summit in Armenia that Europe has \"heard\" Washington&apos;s frustration over its conflict with Iran and are \"stepping up.\" DW has the latest.",
+      "snippet": "NATO Secretary-General Mark Rutte said at the opening of the EPC summit in Armenia that Europe has \"heard\" Washington&apos;s frustration over its conflict with Iran and are \"stepping up.\"",
       "tier": 2
     },
     {
@@ -472,26 +568,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran war: US to escort ships through the Strait of Hormuz",
-      "link": "https://www.dw.com/en/iran-war-us-to-escort-ships-through-the-strait-of-hormuz/live-77026618?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump has announced the \"Project Freedom\" operation to \"help free up\" ships stuck in the Strait of Hormuz. Iran says that amounts to a truce violation. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "US transfers crew of seized Iranian ship to Pakistan",
       "link": "https://www.dw.com/en/us-transfers-crew-of-seized-iranian-ship-to-pakistan/a-77028457?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Pakistan&apos;s Foreign Ministry said that the \"confidence-building measure\" was supported by both sides.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: State polls test Modi&apos;s political might",
-      "link": "https://www.dw.com/en/india-news-state-polls-test-modi-s-political-might/live-77026483?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Vote counting begins in West Bengal, Tamil Nadu, Kerala, Assam and Puducherry as Prime Minister Narendra Modi&apos;s Hindu nationalist party hopes to make inroads into opposition strongholds. Follow live.",
       "tier": 2
     },
     {
@@ -508,86 +588,6 @@
       "link": "https://www.dw.com/en/ex-new-york-mayor-giuliani-in-hospital-condition-critical/a-77026193?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Rudy Giuliani was dubbed \"America’s mayor\" for leading New York City through the aftermath of the 9/11 terror attacks in 2001. But his reputation took a deep dive amid his support for Trump in recent years.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Suspected Hantavirus outbreak on Atlantic cruise ship kills 3, WHO says",
-      "link": "https://www.dw.com/en/suspected-hantavirus-outbreak-on-atlantic-cruise-ship-kills-3-who-says/a-77026143?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The virus usually spreads by contact with the urine or feces of infected rodents like rats and mice. It can cause a severe and sometimes deadly lung infection.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Merz &apos;not giving up&apos; on Germany&apos;s relationship with US",
-      "link": "https://www.dw.com/en/merz-not-giving-up-on-germany-s-relationship-with-us/a-77026062?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The German chancellor said there was \"no connection\" between disagreements over the Iran war and the pullout of US troops from Germany. He insisted he shared Trump&apos;s goal of ensuring Iran never obtains a nuclear weapon.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Nigeria summons South Africa envoy over xenophobic incidents",
-      "link": "https://www.dw.com/en/nigeria-summons-south-africa-envoy-over-xenophobic-incidents/a-77023858?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Nigeria joins other international voices warning against rising anti-migrant sentiment targeting Africans in South Africa.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How Serbia&apos;s government dominates the country&apos;s media",
-      "link": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Since Serbia&apos;s ruling SNS party came to power in 2012, it has tightened its grip on the media. With an election expected soon, experts fear authorities will try to eliminate the last pockets of independent reporting.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukrainian drones hit Russia&apos;s Primorsk oil terminal",
-      "link": "https://www.dw.com/en/ukrainian-drones-hit-russia-s-primorsk-oil-terminal/a-77023217?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ukrainian President Volodymyr Zelenskyy said Kyiv also hit two of Russia&apos;s shadow fleet tankers near the Black Sea port of Novorossiysk. Two sides have continued to fire hundreds of drones at each other on a daily basis.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Philippines&apos; Mayon volcano spews ash — Pictures",
-      "link": "https://www.dw.com/en/philippines-mayon-volcano-spews-ash-pictures/a-77022712?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The most active volcano in the Philippines is erupting, sending lava down its slope and covering surrounding villages in ash.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Majority thinks coalition government doomed — survey",
-      "link": "https://www.dw.com/en/germany-news-majority-thinks-coalition-government-doomed-survey/live-77022566?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "More than half of people in Germany believe the coalition government will collapse before its term is up. The head of a leading economic think tank says US tariffs could trigger a German recession.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Millions sway as free Shakira concert lights up Copacabana",
-      "link": "https://www.dw.com/en/millions-sway-as-free-shakira-concert-lights-up-copacabana/a-77022547?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Colombian superstar delivers one of the biggest shows of her career, as fans flock from Brazil and beyond for her \"Women No Longer Cry\" world tour.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump says cutting US troops in Germany &apos;a lot further&apos;",
-      "link": "https://www.dw.com/en/trump-says-cutting-us-troops-in-germany-a-lot-further/a-77022292?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany&apos;s defense minister has said Europe needs to take more responsibility for its own security. Top Republicans warn reducing troop numbers sends the \"wrong signal\" to Russian President Vladimir Putin.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Where Germany&apos;s economy still excels",
-      "link": "https://www.dw.com/en/where-germany-s-economy-still-excels/a-77020320?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "German industry is being lapped in key sectors like solar panels, semiconductors and even cars — but the country&apos;s midsize businesses suggest the economy isn&apos;t losing its edge.",
       "tier": 2
     }
   ]
