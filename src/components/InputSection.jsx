@@ -1,10 +1,12 @@
 /**
- * InputSection - Tabbed input panel for URL / Text / Image analysis.
+ * InputSection - Tabbed input panel for URL / Text / Image / Code / File analysis.
  *
  * Features:
  *  - Framer Motion tab indicator animation
  *  - Inline animated validation error messages
  *  - Drag-and-drop image upload with preview
+ *  - Code tab with language detection badges
+ *  - File tab for file inspection
  *  - Optional date range filter
  *  - Full ARIA labelling and keyboard navigation
  *
@@ -18,12 +20,21 @@
  */
 import React, { useRef, useState, useCallback, useId } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { detectLanguage } from '../lib/codeAnalyzer.js';
 import './InputSection.css';
 
 const TABS = [
   { id: 'url',   label: '🔗 URL',   placeholder: 'https://example.com/news-article' },
   { id: 'text',  label: '📝 Text',  placeholder: 'Paste an article, post, or any text to analyze for authenticity…' },
   { id: 'image', label: '🖼 Image', placeholder: '' },
+  { id: 'code',  label: '💻 Code',  placeholder: 'Paste a Bash, Python, or PowerShell snippet to analyze for suspicious patterns…' },
+  { id: 'file',  label: '📂 File',  placeholder: '' },
+];
+
+const LANG_BADGES = [
+  { id: 'bash',        label: 'Bash/sh',    color: '#f59e0b' },
+  { id: 'python',      label: 'Python',     color: '#3b82f6' },
+  { id: 'powershell',  label: 'PowerShell', color: '#8b5cf6' },
 ];
 
 /** Validate input and return an error string, or null if valid. */
@@ -48,14 +59,27 @@ function validate(inputData) {
     if (!inputData.file) return 'Please select or drop an image file.';
     return null;
   }
+  if (inputData.type === 'code') {
+    const v = inputData.value.trim();
+    if (!v) return 'Please paste a code snippet to analyze.';
+    if (v.length < 5) return 'Snippet is too short — please provide at least a few characters.';
+    return null;
+  }
+  if (inputData.type === 'file') {
+    if (!inputData.file) return 'Please select or drop a file to inspect.';
+    return null;
+  }
   return null;
 }
 
 export default function InputSection({ inputData, onInputChange, onScan, onReset, scanning, scanPhase }) {
   const fileInputRef = useRef(null);
+  const anyFileInputRef = useRef(null);
   const [validationError, setValidationError] = useState(null);
   const [dragOver, setDragOver] = useState(false);
   const tabGroupId = useId();
+
+  const detectedLang = inputData.type === 'code' ? detectLanguage(inputData.value || '') : 'unknown';
 
   const handleTabChange = useCallback((type) => {
     if (scanning) return;
@@ -69,6 +93,12 @@ export default function InputSection({ inputData, onInputChange, onScan, onReset
       setValidationError('Only image files are supported (JPEG, PNG, WebP, TIFF).');
       return;
     }
+    setValidationError(null);
+    onInputChange({ ...inputData, file, value: file.name });
+  }, [inputData, onInputChange]);
+
+  const handleAnyFileChange = useCallback((file) => {
+    if (!file) return;
     setValidationError(null);
     onInputChange({ ...inputData, file, value: file.name });
   }, [inputData, onInputChange]);
@@ -207,6 +237,79 @@ export default function InputSection({ inputData, onInputChange, onScan, onReset
                   autoComplete="url"
                   spellCheck={false}
                 />
+              ) : inputData.type === 'file' ? (
+                <div
+                  className={`file-drop ${inputData.file ? 'has-file' : ''} ${dragOver ? 'drag-active' : ''}`}
+                  onClick={() => anyFileInputRef.current?.click()}
+                  onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') anyFileInputRef.current?.click(); }}
+                  onDragOver={(e) => { e.preventDefault(); setDragOver(true); }}
+                  onDragLeave={() => setDragOver(false)}
+                  onDrop={(e) => {
+                    e.preventDefault();
+                    setDragOver(false);
+                    handleAnyFileChange(e.dataTransfer.files[0]);
+                  }}
+                  role="button"
+                  tabIndex={0}
+                  aria-label={inputData.file ? `Selected file: ${inputData.file.name}. Click to change.` : 'Click or drag any file here for inspection'}
+                >
+                  {inputData.file ? (
+                    <>
+                      <div className="file-preview-icon" aria-hidden="true">📂</div>
+                      <p className="file-name">{inputData.file.name}</p>
+                      <p className="file-size">{(inputData.file.size / 1024).toFixed(1)} KB</p>
+                      <p className="file-change-hint">Click to change</p>
+                    </>
+                  ) : (
+                    <>
+                      <div className="file-drop-icon" aria-hidden="true">⬆</div>
+                      <p>Drop any file here or <span>click to browse</span></p>
+                      <p className="file-hint">EXE, DLL, ZIP, PDF, scripts, documents — any file type</p>
+                    </>
+                  )}
+                  <input
+                    ref={anyFileInputRef}
+                    type="file"
+                    onChange={(e) => handleAnyFileChange(e.target.files[0])}
+                    style={{ display: 'none' }}
+                    aria-hidden="true"
+                  />
+                </div>
+              ) : inputData.type === 'code' ? (
+                <>
+                  {/* Language detection badges */}
+                  <div className="lang-badges" aria-label="Detected language">
+                    {LANG_BADGES.map((b) => (
+                      <span
+                        key={b.id}
+                        className={`lang-badge ${detectedLang === b.id ? 'lang-badge--active' : ''}`}
+                        style={detectedLang === b.id ? { borderColor: b.color, color: b.color } : {}}
+                        aria-label={`${b.label}${detectedLang === b.id ? ' (detected)' : ''}`}
+                      >
+                        {b.label}
+                        {detectedLang === b.id && <span className="lang-badge-dot" aria-hidden="true" style={{ background: b.color }} />}
+                      </span>
+                    ))}
+                    {detectedLang === 'unknown' && (
+                      <span className="lang-badge lang-badge--unknown">Auto-detect</span>
+                    )}
+                  </div>
+                  <textarea
+                    className={`text-input textarea-input code-input ${validationError ? 'input-error' : ''}`}
+                    value={inputData.value}
+                    onChange={(e) => {
+                      setValidationError(null);
+                      onInputChange({ ...inputData, value: e.target.value });
+                    }}
+                    placeholder={activeTab?.placeholder}
+                    disabled={scanning}
+                    rows={8}
+                    aria-label="Code snippet to analyse"
+                    aria-invalid={!!validationError}
+                    aria-describedby={validationError ? 'input-error-msg' : undefined}
+                    spellCheck={false}
+                  />
+                </>
               ) : (
                 <textarea
                   className={`text-input textarea-input ${validationError ? 'input-error' : ''}`}
@@ -244,7 +347,8 @@ export default function InputSection({ inputData, onInputChange, onScan, onReset
             )}
           </AnimatePresence>
 
-          {/* ── Date range filter ─────────────────────────────────────── */}
+          {/* ── Date range filter (URL/text only) ────────────────────── */}
+          {inputData.type !== 'code' && inputData.type !== 'file' && (
           <div className="date-range-row" role="group" aria-label="Optional date range filter">
             <span className="date-label" aria-hidden="true">📅 Date range <span className="optional-tag">(optional)</span></span>
             <div className="date-inputs">
@@ -271,6 +375,7 @@ export default function InputSection({ inputData, onInputChange, onScan, onReset
               />
             </div>
           </div>
+          )}
         </div>
 
         {/* ── Footer actions ───────────────────────────────────────────── */}

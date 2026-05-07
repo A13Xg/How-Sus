@@ -318,3 +318,57 @@
 @keyframes spin {
   to { transform: rotate(360deg); }
 }
+
+/* ── Language detection badges (Code tab) ─────────────────────────────── */
+.lang-badges {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+
+.lang-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border: 1px solid var(--border-color);
+  color: var(--text-muted);
+  background: transparent;
+  transition: all 0.2s;
+}
+
+.lang-badge--active {
+  font-weight: 700;
+}
+
+.lang-badge--unknown {
+  border-style: dashed;
+  opacity: 0.5;
+}
+
+.lang-badge-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+
+/* ── Code textarea ──────────────────────────────────────────────────────── */
+.code-input {
+  font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Consolas', 'Monaco', monospace;
+  font-size: 0.82rem;
+  line-height: 1.6;
+  tab-size: 2;
+}
+
+/* ── Footer CSS caps ────────────────────────────────────────────────────── */
+.footer-caps {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  opacity: 0.7;
+  margin-top: 4px;
+}

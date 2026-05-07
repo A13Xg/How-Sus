@@ -105,7 +105,7 @@ export default function Header({ aiConfig, resolvedProvider, detectedProvider, p
           </div>
           <div className="logo-text">
             <h1>How<span className="accent">Sus</span></h1>
-            <p>News &amp; Media Authenticity Analyzer</p>
+            <p>Security &amp; Authenticity Analyzer</p>
           </div>
         </motion.div>
 
