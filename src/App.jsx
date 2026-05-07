@@ -1114,6 +1114,40 @@ function buildWebSecurityFindings(urlObj, domain, hasHttps) {
     });
   }
 
+  // ── 10. Typosquatting / domain permutation detection ────────────────────
+  const popularDomains = ['google', 'paypal', 'apple', 'amazon', 'microsoft', 'netflix', 'facebook',
+    'instagram', 'twitter', 'youtube', 'linkedin', 'github', 'dropbox', 'icloud', 'outlook'];
+  const domainBase = domain.split('.')[0].toLowerCase();
+  function levenshtein(a, b) {
+    const m = a.length, n = b.length;
+    const dp = Array.from({ length: m + 1 }, (_, i) => [i, ...Array(n).fill(0)]);
+    for (let j = 0; j <= n; j++) dp[0][j] = j;
+    for (let i = 1; i <= m; i++) for (let j = 1; j <= n; j++) {
+      dp[i][j] = a[i-1] === b[j-1] ? dp[i-1][j-1] : 1 + Math.min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1]);
+    }
+    return dp[m][n];
+  }
+  for (const pop of popularDomains) {
+    if (domainBase === pop) break;
+    const dist = levenshtein(domainBase, pop);
+    if (dist === 1 || (dist === 2 && pop.length > 5)) {
+      findings.push({
+        label: 'Typosquatting / domain permutation',
+        value: `"${domainBase}" is 1-2 characters away from "${pop}"`,
+        status: 'bad',
+        section: 'Web Security',
+        explanation: `Typosquatting registers domains nearly identical to popular sites. "${domainBase}" closely resembles "${pop}" and may be an impersonation.`,
+        dataPath: [
+          `Domain: ${domain}`,
+          `Similar to: ${pop}.com (edit distance: ${dist})`,
+          'Typosquatters rely on users mistyping URLs',
+          'Do NOT enter credentials on this page',
+        ],
+      });
+      break;
+    }
+  }
+
   return findings;
 }
 
@@ -1812,6 +1846,103 @@ function analyzeText(text, feedData) {
           `Classification: ${claimDensity.label}`,
         ],
       },
+      // ─── Link extractor ────────────────────────────────────────────────
+      ...((() => {
+        const extractedLinks = (text.match(/https?:\/\/[^\s"'<>)]{6,}/g) || []).slice(0, 20);
+        const suspiciousLinks = extractedLinks.filter((u) => {
+          try {
+            const h = new URL(u).hostname;
+            return SHORT_URL_DOMAINS.some((d) => h === d || h.endsWith('.' + d))
+              || /\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/.test(h)
+              || BULLETPROOF_TLDS.some((t) => h.endsWith(t));
+          } catch { return false; }
+        });
+        if (extractedLinks.length === 0) return [];
+        return [{
+          label: `Links in text (${extractedLinks.length})`,
+          value: suspiciousLinks.length > 0
+            ? `${extractedLinks.length} found — ${suspiciousLinks.length} suspicious`
+            : `${extractedLinks.length} link${extractedLinks.length > 1 ? 's' : ''} found`,
+          status: suspiciousLinks.length > 0 ? 'warn' : 'info',
+          explanation: 'URLs embedded in text may link to malicious or misleading destinations.',
+          dataPath: extractedLinks.slice(0, 10).map((u) => {
+            const isSusp = suspiciousLinks.includes(u);
+            return `${isSusp ? '⚠ ' : '→ '}${u.slice(0, 120)}`;
+          }),
+        }];
+      })()),
+      // ─── Encoding / obfuscation detector ──────────────────────────────
+      ...((() => {
+        const findings2 = [];
+        const b64Matches = text.match(/[A-Za-z0-9+/]{40,}={0,2}/g) || [];
+        if (b64Matches.length > 0) {
+          findings2.push({
+            label: 'Base64-encoded data',
+            value: `${b64Matches.length} block${b64Matches.length > 1 ? 's' : ''} detected`,
+            status: 'warn',
+            explanation: 'Long base64 strings may encode hidden payloads, scripts, or links.',
+            dataPath: b64Matches.slice(0, 3).map((s) => `→ ${s.slice(0, 80)}…`),
+          });
+        }
+        const hexMatches = text.match(/\\x[0-9a-fA-F]{2}(?:\\x[0-9a-fA-F]{2}){4,}/g) || [];
+        if (hexMatches.length > 0) {
+          findings2.push({
+            label: 'Hex escape sequences',
+            value: `${hexMatches.length} sequence${hexMatches.length > 1 ? 's' : ''} detected`,
+            status: 'warn',
+            explanation: 'Hex-escaped character sequences are commonly used to obfuscate malicious strings.',
+            dataPath: hexMatches.slice(0, 3).map((s) => `→ ${s.slice(0, 80)}`),
+          });
+        }
+        const zwChars = (text.match(/[\u200b\u200c\u200d\u200e\u200f\u202a-\u202e\ufeff]/g) || []).length;
+        if (zwChars > 0) {
+          findings2.push({
+            label: 'Zero-width / invisible characters',
+            value: `${zwChars} found`,
+            status: 'bad',
+            explanation: 'Zero-width and invisible Unicode characters can be used for steganography, tracking, or to bypass filters.',
+            dataPath: [`Found ${zwChars} invisible Unicode character(s)`, 'Common in social media copypasta, text watermarking, and payload delivery'],
+          });
+        }
+        return findings2;
+      })()),
+      // ─── Email header auto-detection ────────────────────────────────
+      ...((() => {
+        const emailHeaderRe = /^(?:From|To|Subject|Date|Received|MIME-Version|Content-Type|Message-ID|X-[A-Za-z-]+)\s*:/im;
+        if (!emailHeaderRe.test(text)) return [];
+        const findings2 = [];
+        const spfMatch = text.match(/spf=(pass|fail|softfail|neutral|none)/i);
+        const dkimMatch = text.match(/dkim=(pass|fail|none)/i);
+        const dmarcMatch = text.match(/dmarc=(pass|fail|none)/i);
+        const spf = spfMatch?.[1]?.toLowerCase();
+        const dkim = dkimMatch?.[1]?.toLowerCase();
+        const dmarc = dmarcMatch?.[1]?.toLowerCase();
+        const authStatus = spf === 'pass' && dkim === 'pass' ? 'good'
+          : (spf === 'fail' || dkim === 'fail' || dmarc === 'fail') ? 'bad' : 'warn';
+        findings2.push({
+          label: 'Email headers detected',
+          value: `SPF: ${spf ?? 'not found'} | DKIM: ${dkim ?? 'not found'} | DMARC: ${dmarc ?? 'not found'}`,
+          status: authStatus,
+          explanation: 'This text looks like email headers. SPF/DKIM/DMARC authentication results indicate whether the email was legitimately sent from the stated domain.',
+          dataPath: [
+            'Email header format detected in pasted text',
+            `SPF result: ${spf ?? 'not present'} — ${spf === 'pass' ? 'sender is authorized' : spf === 'fail' ? 'sender is NOT authorized — possible spoofing' : 'indeterminate'}`,
+            `DKIM result: ${dkim ?? 'not present'} — ${dkim === 'pass' ? 'signature valid' : dkim === 'fail' ? 'signature invalid — tampering or spoofing' : 'not signed'}`,
+            `DMARC result: ${dmarc ?? 'not present'} — ${dmarc === 'pass' ? 'policy satisfied' : dmarc === 'fail' ? 'policy violated' : 'no policy'}`,
+          ],
+        });
+        const receivedHops = (text.match(/^Received:/gim) || []).length;
+        if (receivedHops > 0) {
+          findings2.push({
+            label: 'Mail relay hops',
+            value: `${receivedHops} hop${receivedHops > 1 ? 's' : ''}`,
+            status: receivedHops > 5 ? 'warn' : 'info',
+            explanation: 'Each Received header is a relay hop. Unusually many hops may indicate routing through unusual servers.',
+            dataPath: [`${receivedHops} Received headers found`, receivedHops > 5 ? 'Unusually high hop count' : 'Normal hop count'],
+          });
+        }
+        return findings2;
+      })()),
     ],
     sentiment,
     readability,
@@ -2281,6 +2412,61 @@ async function analyzeImage(file) {
           ],
         });
       }
+
+      // Extended EXIF fields
+      if (parsed.FNumber != null) {
+        exifFindings.push({ label: 'Aperture (f-stop)', value: `f/${parsed.FNumber}`, status: 'info',
+          excerpt: `EXIF FNumber: ${parsed.FNumber}`, dataPath: [`EXIF FNumber: ${parsed.FNumber}`] });
+      }
+      if (parsed.ExposureTime != null) {
+        const exp = parsed.ExposureTime < 1 ? `1/${Math.round(1 / parsed.ExposureTime)}s` : `${parsed.ExposureTime}s`;
+        exifFindings.push({ label: 'Exposure time', value: exp, status: 'info',
+          excerpt: `EXIF ExposureTime: ${parsed.ExposureTime}`, dataPath: [`EXIF ExposureTime: ${parsed.ExposureTime}`] });
+      }
+      if (parsed.ISO != null) {
+        exifFindings.push({ label: 'ISO', value: String(parsed.ISO), status: 'info',
+          excerpt: `EXIF ISO: ${parsed.ISO}`, dataPath: [`EXIF ISO speed: ${parsed.ISO}`] });
+      }
+      if (parsed.FocalLength != null) {
+        exifFindings.push({ label: 'Focal length', value: `${parsed.FocalLength}mm`, status: 'info',
+          excerpt: `EXIF FocalLength: ${parsed.FocalLength}`, dataPath: [`EXIF FocalLength: ${parsed.FocalLength}mm`] });
+      }
+      if (parsed.Flash != null) {
+        exifFindings.push({ label: 'Flash', value: String(parsed.Flash), status: 'info',
+          excerpt: `EXIF Flash: ${parsed.Flash}`, dataPath: [`EXIF Flash value: ${parsed.Flash}`] });
+      }
+      if (parsed.WhiteBalance != null) {
+        exifFindings.push({ label: 'White balance', value: parsed.WhiteBalance === 0 ? 'Auto' : 'Manual', status: 'info',
+          excerpt: `EXIF WhiteBalance: ${parsed.WhiteBalance}`, dataPath: [`EXIF WhiteBalance: ${parsed.WhiteBalance}`] });
+      }
+      if (parsed.Orientation != null) {
+        const orientMap = { 1:'Normal', 2:'Mirrored', 3:'Rotated 180°', 4:'Mirrored vertical', 6:'Rotated 90° CW', 8:'Rotated 90° CCW' };
+        exifFindings.push({ label: 'Orientation', value: orientMap[parsed.Orientation] ?? `${parsed.Orientation}`, status: 'info',
+          excerpt: `EXIF Orientation: ${parsed.Orientation}`, dataPath: [`EXIF Orientation: ${parsed.Orientation} (${orientMap[parsed.Orientation] ?? 'unknown'})`] });
+      }
+      if (parsed.Copyright) {
+        exifFindings.push({ label: 'Copyright', value: parsed.Copyright, status: 'info',
+          excerpt: `EXIF Copyright: "${parsed.Copyright}"`, dataPath: [`EXIF Copyright field: "${parsed.Copyright}"`] });
+      }
+      if (parsed.Artist) {
+        exifFindings.push({ label: 'Artist / Author', value: parsed.Artist, status: 'info',
+          excerpt: `EXIF Artist: "${parsed.Artist}"`, dataPath: [`EXIF Artist field: "${parsed.Artist}"`] });
+      }
+      // UserComment / XPComment can contain hidden encoded data
+      const userComment = parsed.UserComment || parsed.XPComment;
+      if (userComment && typeof userComment === 'string' && userComment.trim()) {
+        const hasBase64 = /^[A-Za-z0-9+/]{20,}={0,2}$/.test(userComment.trim());
+        exifFindings.push({
+          label: 'User comment in EXIF',
+          value: userComment.slice(0, 80) + (userComment.length > 80 ? '…' : ''),
+          status: hasBase64 ? 'warn' : 'info',
+          excerpt: `EXIF UserComment: "${userComment.slice(0, 120)}"`,
+          dataPath: [
+            `EXIF UserComment / XPComment: "${userComment.slice(0, 120)}"`,
+            hasBase64 ? 'WARNING: Value looks like base64-encoded data — potential hidden payload' : 'Plain text comment',
+          ],
+        });
+      }
     }
   } catch (err) {
     logger.warn('EXIF extraction failed', { fileName: file?.name, error: err?.message });
@@ -2390,6 +2576,49 @@ async function analyzeImage(file) {
             compressionRatio = pixelCount > 0 ? file.size / pixelCount : 0;
             const imgExt = file.name.split('.').pop()?.toLowerCase() ?? '';
             anomalousFileSize = (imgExt === 'png' && compressionRatio > 4) || (imgExt === 'jpg' && compressionRatio > 2);
+
+            // LSB steganography detection — sample a larger region for bit-plane entropy
+            try {
+              const LSB_SIZE = 128;
+              const lsbCanvas = document.createElement('canvas');
+              lsbCanvas.width = LSB_SIZE;
+              lsbCanvas.height = LSB_SIZE;
+              const lsbCtx = lsbCanvas.getContext('2d');
+              lsbCtx.drawImage(img, 0, 0, LSB_SIZE, LSB_SIZE);
+              const lsbData = lsbCtx.getImageData(0, 0, LSB_SIZE, LSB_SIZE).data;
+              // Collect red-channel LSBs
+              const lsbBits = [];
+              for (let i = 0; i < lsbData.length; i += 4) lsbBits.push(lsbData[i] & 1);
+              const ones = lsbBits.reduce((s, b) => s + b, 0);
+              const p = ones / lsbBits.length;
+              // Shannon entropy of the LSB bit plane (max = 1 bit for balanced 0/1)
+              const lsbEntropy = p > 0 && p < 1 ? -(p * Math.log2(p) + (1 - p) * Math.log2(1 - p)) : 0;
+              // Histograms: count distinct RGB values in 4x4 blocks
+              const colorCounts = new Map();
+              for (let i = 0; i < lsbData.length; i += 16) {
+                const key = `${lsbData[i]},${lsbData[i+1]},${lsbData[i+2]}`;
+                colorCounts.set(key, (colorCounts.get(key) ?? 0) + 1);
+              }
+              const colorVariance = colorCounts.size / (lsbBits.length / 4);
+              // High LSB entropy (~1.0) + high color variance = possible LSB steganography
+              if (lsbEntropy > 0.95 && colorVariance > 0.7) {
+                canvasFindings.push({
+                  label: 'LSB steganography signal',
+                  value: `LSB entropy ${lsbEntropy.toFixed(3)}, color variance ${colorVariance.toFixed(3)}`,
+                  status: 'warn',
+                  excerpt: 'LSB bit-plane entropy near-maximum — possible hidden payload',
+                  dataPath: [
+                    `LSB entropy of red channel: ${lsbEntropy.toFixed(4)} (max = 1.0)`,
+                    `Color variance score: ${colorVariance.toFixed(4)}`,
+                    'High LSB entropy indicates the least-significant bits may carry hidden data',
+                    'Common tool: steghide, OpenStego, SilentEye',
+                    'Cannot confirm without steganographic key — treat as suspicious signal',
+                  ],
+                });
+              }
+            } catch {
+              // LSB analysis is best-effort
+            }
           } catch {
             // Canvas operations can fail in some environments — not critical
           }
@@ -3167,6 +3396,25 @@ function App() {
           onOpenSettings={() => setSettingsOpen(true)}
           hasUpdate={hasUpdate}
         />
+
+        {/* ── Capability cards hero section ────────────────────────────── */}
+        {!scanResults && !isScanning && (
+          <section className="capability-hero" aria-label="Analysis capabilities">
+            {[
+              { icon: '🔗', title: 'URL Security', desc: 'HTTPS, typosquatting, phishing brand check, bulletproof TLDs' },
+              { icon: '📝', title: 'Text Analysis', desc: 'Sentiment, dark patterns, email headers, link extraction' },
+              { icon: '💻', title: 'Code Safety',  desc: 'Static analysis for Bash, Python & PowerShell malware patterns' },
+              { icon: '🖼️', title: 'Image Forensics', desc: 'EXIF metadata, LSB steganography, AI-generation signals' },
+              { icon: '📁', title: 'File Inspection', desc: 'Magic bytes, entropy analysis, embedded URLs & strings' },
+            ].map(({ icon, title, desc }) => (
+              <div key={title} className="capability-card">
+                <span className="capability-icon">{icon}</span>
+                <strong className="capability-title">{title}</strong>
+                <p className="capability-desc">{desc}</p>
+              </div>
+            ))}
+          </section>
+        )}
 
         <main className="main-content" id="main-content">
           <InputSection

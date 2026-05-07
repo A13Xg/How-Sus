@@ -140,7 +140,10 @@ function ScoreGauge({ score, onDetails }) {
 
   return (
     <div className="score-gauge" aria-label={`Authenticity score: ${score} out of 100 — ${scoreLabel(score)}`}>
-      <svg width="140" height="140" viewBox="0 0 140 140" aria-hidden="true">
+      <svg
+        width="140" height="140" viewBox="0 0 140 140" aria-hidden="true"
+        className={score < 30 ? 'score-gauge-critical' : ''}
+      >
         {/* Track */}
         <circle cx="70" cy="70" r={R} fill="none" stroke="#1e2d4a" strokeWidth="12" />
         {/* Animated arc */}
@@ -194,16 +197,17 @@ const STATUS_ICON  = { good: '✓', bad: '✗', warn: '⚠', info: 'ℹ' };
 function FindingRow({ finding, index, onDetails }) {
   const color = STATUS_COLOR[finding.status] || '#94a3b8';
   const icon  = STATUS_ICON[finding.status]  || '•';
+  const isCritical = finding.status === 'bad';
   return (
     <motion.div
-      className="finding-row"
+      className={`finding-row${isCritical ? ' finding-row--critical' : ''}`}
       initial={{ opacity: 0, x: -15 }}
       animate={{ opacity: 1, x: 0 }}
       transition={{ delay: index * 0.055 }}
       role="row"
     >
       <span className="finding-status" style={{ color }} aria-label={finding.status} role="cell">
-        {icon}
+        {isCritical ? '🚨' : icon}
       </span>
       <span className="finding-label" role="cell">
         {finding.label}
@@ -1044,6 +1048,35 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
 
         <div className="section-divider" />
 
+        {/* ── Risk score breakdown chart (CSS-only bars) ────────────── */}
+        {results.findings?.length > 0 && (() => {
+          const bad  = results.findings.filter((f) => f.status === 'bad').length;
+          const warn = results.findings.filter((f) => f.status === 'warn').length;
+          const good = results.findings.filter((f) => f.status === 'good').length;
+          const info = results.findings.filter((f) => f.status === 'info').length;
+          const total = results.findings.length;
+          const bars = [
+            { label: 'Critical', count: bad,  pct: Math.round(bad / total * 100),  color: '#ef4444' },
+            { label: 'Warning',  count: warn, pct: Math.round(warn / total * 100), color: '#f59e0b' },
+            { label: 'Good',     count: good, pct: Math.round(good / total * 100), color: '#10b981' },
+            { label: 'Info',     count: info, pct: Math.round(info / total * 100), color: '#3b82f6' },
+          ].filter((b) => b.count > 0);
+          return (
+            <div className="risk-breakdown" aria-label="Risk score breakdown">
+              <p className="risk-breakdown-title">Risk Breakdown <span className="risk-breakdown-total">({total} signals)</span></p>
+              {bars.map((b) => (
+                <div key={b.label} className="risk-bar-row">
+                  <span className="risk-bar-label">{b.label}</span>
+                  <div className="risk-bar-track" role="progressbar" aria-valuenow={b.pct} aria-valuemin={0} aria-valuemax={100} aria-label={`${b.label}: ${b.count}`}>
+                    <div className="risk-bar-fill" style={{ width: `${b.pct}%`, background: b.color }} />
+                  </div>
+                  <span className="risk-bar-count" style={{ color: b.color }}>{b.count}</span>
+                </div>
+              ))}
+            </div>
+          );
+        })()}
+
         {/* ── Error banner ─────────────────────────────────────────── */}
         {results.error && (
           <div className="error-msg" role="alert">⚠ {results.error}</div>
@@ -1057,6 +1090,17 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
           defaultOpen
           id="findings"
         >
+          {/* Critical issues summary box */}
+          {results.findings?.filter((f) => f.status === 'bad').length > 0 && (
+            <div className="critical-issues-box" role="alert" aria-live="polite">
+              <span className="critical-issues-title">⚠ CRITICAL ISSUES DETECTED</span>
+              <ul className="critical-issues-list">
+                {results.findings.filter((f) => f.status === 'bad').map((f, i) => (
+                  <li key={i}><strong>{f.label}:</strong> {f.value}</li>
+                ))}
+              </ul>
+            </div>
+          )}
           <div className="findings-section" role="table" aria-label="Detailed findings">
             {results.findings?.map((f, i) => (
               <FindingRow
