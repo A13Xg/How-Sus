@@ -459,8 +459,12 @@ function analyzePowerShell(code) {
 function analyzeGeneric(code) {
   const findings = [];
 
+  // Early bounds check: skip expensive regex on very large snippets by capping the
+  // search to the first 32 KB of the input where obfuscation payloads usually appear.
+  const searchable = code.length > 32768 ? code.slice(0, 32768) : code;
+
   // Require surrounding whitespace or quotes/brackets to avoid matching identifiers
-  if (/(?:^|['"`\s(=])[A-Za-z0-9+/]{40,}={0,2}(?:['"`\s),;]|$)/m.test(code)) {
+  if (/(?:^|['"`\s(=])[A-Za-z0-9+/]{40,}={0,2}(?:['"`\s),;]|$)/m.test(searchable)) {
     findings.push(finding(
       'Long base64-like string detected',
       'Base64 pattern found in snippet',
@@ -470,7 +474,7 @@ function analyzeGeneric(code) {
     ));
   }
 
-  if (/\\x[0-9a-fA-F]{2}/.test(code)) {
+  if (/\\x[0-9a-fA-F]{2}/.test(searchable)) {
     findings.push(finding(
       'Hex-escaped bytes (\\xNN)',
       '\\xNN pattern detected',
@@ -480,7 +484,7 @@ function analyzeGeneric(code) {
     ));
   }
 
-  if (/\\u[0-9a-fA-F]{4}/.test(code)) {
+  if (/\\u[0-9a-fA-F]{4}/.test(searchable)) {
     findings.push(finding(
       'Unicode escape sequences (\\uNNNN)',
       '\\uNNNN pattern detected',
@@ -491,7 +495,7 @@ function analyzeGeneric(code) {
   }
 
   // Zero-width characters (invisible text injection)
-  if (/[\u200B-\u200D\uFEFF\u2060\u180E]/.test(code)) {
+  if (/[\u200B-\u200D\uFEFF\u2060\u180E]/.test(searchable)) {
     findings.push(finding(
       'Zero-width / invisible characters detected',
       'Unicode zero-width characters present',

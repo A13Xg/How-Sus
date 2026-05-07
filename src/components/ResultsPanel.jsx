@@ -1062,6 +1062,9 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
             { label: 'Good',     count: good, color: '#10b981' },
             { label: 'Info',     count: info, color: '#3b82f6' },
           ].filter((b) => b.count > 0);
+          // Guard: if no bars pass the filter total > 0 is guaranteed by the outer
+          // check (results.findings.length > 0), but defend against total === 0 anyway.
+          if (!allBars.length || total === 0) return null;
           let allocated = 0;
           const bars = allBars.map((b, i) => {
             const pct = i === allBars.length - 1

@@ -18,7 +18,7 @@
  *   scanning     {boolean}  - true while scan is running
  *   scanPhase    {string}   - 'idle'|'scanning'|'complete'|'error'
  */
-import React, { useRef, useState, useCallback, useId } from 'react';
+import React, { useRef, useState, useCallback, useId, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { detectLanguage } from '../lib/codeAnalyzer.js';
 import './InputSection.css';
@@ -79,7 +79,11 @@ export default function InputSection({ inputData, onInputChange, onScan, onReset
   const [dragOver, setDragOver] = useState(false);
   const tabGroupId = useId();
 
-  const detectedLang = inputData.type === 'code' ? detectLanguage(inputData.value || '') : 'unknown';
+  // Memoize language detection — detectLanguage scans the full snippet so avoid re-running on every render
+  const detectedLang = useMemo(
+    () => (inputData.type === 'code' ? detectLanguage(inputData.value || '') : 'unknown'),
+    [inputData.type, inputData.value],
+  );
 
   const handleTabChange = useCallback((type) => {
     if (scanning) return;

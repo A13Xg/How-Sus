@@ -49,6 +49,13 @@ import { analyzeCode } from './lib/codeAnalyzer.js';
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 const SUSPICIOUS_DOMAINS = ['fakenews', 'hoax', 'clickbait', 'viral', 'shocking', 'unbelievable'];
+
+/**
+ * Maximum bytes scanned for string extraction during file analysis.
+ * 128 KB keeps the loop fast for typical files while still catching embedded
+ * strings in the header / import table region of executables.
+ */
+const FILE_STRING_SCAN_LIMIT = 131072; // 128 KB
 const SUSPICIOUS_KEYWORDS = [
   "shocking", "unbelievable", "you won't believe",
   "mainstream media won't tell", "they don't want you to know",
@@ -1913,6 +1920,7 @@ function analyzeText(text, feedData) {
             dataPath: hexMatches.slice(0, 3).map((s) => `→ ${s.slice(0, 80)}`),
           });
         }
+        // eslint-disable-next-line no-misleading-character-class -- intentional range covering directional control chars
         const zwChars = (text.match(/[\u200b\u200c\u200d\u200e\u200f\u202a-\u202e\ufeff]/g) || []).length;
         if (zwChars > 0) {
           findings2.push({
@@ -2091,6 +2099,7 @@ async function analyzeFile(file) {
   try {
     fileBytes = new Uint8Array(await file.arrayBuffer());
     const hashBuf = await crypto.subtle.digest('SHA-256', fileBytes);
+    // crypto.subtle.digest returns an ArrayBuffer; wrap it once in Uint8Array to iterate bytes.
     sha256 = Array.from(new Uint8Array(hashBuf)).map((b) => b.toString(16).padStart(2, '0')).join('');
     timeline.push({ label: 'SHA-256 computed', detail: sha256.slice(0, 16) + '…', time: new Date().toISOString() });
   } catch {
@@ -2210,7 +2219,7 @@ async function analyzeFile(file) {
   const strings = [];
   if (fileBytes) {
     let current = '';
-    for (let i = 0; i < Math.min(fileBytes.length, 131072); i++) {
+    for (let i = 0; i < Math.min(fileBytes.length, FILE_STRING_SCAN_LIMIT); i++) {
       const c = fileBytes[i];
       if (c >= 32 && c < 127) {
         current += String.fromCharCode(c);
@@ -2549,6 +2558,8 @@ async function analyzeImage(file) {
   let aspectRatioSuspicious = false;
   let overSaturated = false;
   let anomalousFileSize = false;
+  // Findings produced inside the canvas block (e.g. LSB steganography signal)
+  const canvasFindings = [];
 
   await new Promise((resolve) => {
     try {
@@ -2937,6 +2948,7 @@ async function analyzeImage(file) {
         ],
       }] : []),
       ...exifFindings.filter((f) => !['Camera', 'Date taken', 'GPS location', 'Edit software', 'EXIF'].includes(f.label)),
+      ...canvasFindings,
     ],
     timeline: [],
     error: null,
@@ -2997,7 +3009,7 @@ Reply in JSON only with this shape:
       if (!res.ok) {
         const errText = await res.text().catch(() => '');
         let hint = '';
-        if (res.status === 404) hint = ` Model "${attemptModel}" not found — try gemini-2.0-flash or gemini-1.5-flash.`;
+        if (res.status === 404) hint = ` Model "${attemptModel}" not found — try gemini-1.5-flash (stable) or gemini-2.0-flash.`;
         if (res.status === 403) hint = ` API key may lack permissions or Generative Language API is not enabled in your Google Cloud project.`;
         if (res.status === 429) hint = ` Rate limit exceeded — wait a moment and retry.`;
         if (res.status === 400 && errText.includes('API_KEY_INVALID')) hint = ` Invalid API key — check your key starts with "AIza".`;
