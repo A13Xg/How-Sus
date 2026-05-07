@@ -6,6 +6,12 @@
  * Returns a structured findings object for display in the UI.
  */
 
+/**
+ * Maximum bytes of a code snippet scanned by the obfuscation detector.
+ * 32 KB covers typical payloads while keeping pattern matching O(1) in practice.
+ */
+const CODE_OBFUSCATION_SCAN_LIMIT = 32768; // 32 KB
+
 // ─── Language detection ───────────────────────────────────────────────────────
 
 const BASH_SIGNALS = [
@@ -461,7 +467,7 @@ function analyzeGeneric(code) {
 
   // Early bounds check: skip expensive regex on very large snippets by capping the
   // search to the first 32 KB of the input where obfuscation payloads usually appear.
-  const searchable = code.length > 32768 ? code.slice(0, 32768) : code;
+  const searchable = code.length > CODE_OBFUSCATION_SCAN_LIMIT ? code.slice(0, CODE_OBFUSCATION_SCAN_LIMIT) : code;
 
   // Require surrounding whitespace or quotes/brackets to avoid matching identifiers
   if (/(?:^|['"`\s(=])[A-Za-z0-9+/]{40,}={0,2}(?:['"`\s),;]|$)/m.test(searchable)) {
