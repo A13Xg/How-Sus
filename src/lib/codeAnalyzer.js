@@ -69,6 +69,27 @@ function finding(label, match, explanation, why, severity) {
   return { label, match, explanation, why, severity, score: SEVERITY_SCORE[severity] ?? 10 };
 }
 
+/**
+ * Build a line-offset map from a code string so we can resolve character
+ * indices → line numbers in O(1) after a single O(n) pass.
+ * @param {string} code
+ * @returns {(index: number) => number} lineOf — 1-based line number for char index
+ */
+function buildLineMap(code) {
+  const offsets = [0]; // offsets[i] = char index of first char of line i+1
+  for (let i = 0; i < code.length; i++) {
+    if (code[i] === '\n') offsets.push(i + 1);
+  }
+  return function lineOf(index) {
+    let lo = 0, hi = offsets.length - 1;
+    while (lo < hi) {
+      const mid = (lo + hi + 1) >> 1;
+      if (offsets[mid] <= index) lo = mid; else hi = mid - 1;
+    }
+    return lo + 1;
+  };
+}
+
 // ─── Bash / sh analysis ───────────────────────────────────────────────────────
 
 /**
@@ -78,6 +99,7 @@ function finding(label, match, explanation, why, severity) {
 function analyzeBash(code) {
   const findings = [];
   const lines = code.split('\n');
+  const lineOf = buildLineMap(code);
 
   const checks = [
     {
@@ -178,7 +200,7 @@ function analyzeBash(code) {
     let m;
     const re = new RegExp(check.re.source, check.re.flags);
     while ((m = re.exec(code)) !== null) {
-      const lineNo = code.substring(0, m.index).split('\n').length;
+      const lineNo = lineOf(m.index);
       matches.push(`Line ${lineNo}: \`${m[0].trim().slice(0, 80)}\``);
       if (matches.length >= 3) break;
     }
@@ -207,6 +229,7 @@ function analyzeBash(code) {
  */
 function analyzePython(code) {
   const findings = [];
+  const lineOf = buildLineMap(code);
 
   const checks = [
     {
@@ -300,7 +323,7 @@ function analyzePython(code) {
     const matches = [];
     let m;
     while ((m = re.exec(code)) !== null) {
-      const lineNo = code.substring(0, m.index).split('\n').length;
+      const lineNo = lineOf(m.index);
       matches.push(`Line ${lineNo}: \`${m[0].trim().slice(0, 80)}\``);
       if (matches.length >= 3) break;
     }
@@ -320,6 +343,7 @@ function analyzePython(code) {
  */
 function analyzePowerShell(code) {
   const findings = [];
+  const lineOf = buildLineMap(code);
 
   const checks = [
     {
@@ -413,7 +437,7 @@ function analyzePowerShell(code) {
     const matches = [];
     let m;
     while ((m = re.exec(code)) !== null) {
-      const lineNo = code.substring(0, m.index).split('\n').length;
+      const lineNo = lineOf(m.index);
       matches.push(`Line ${lineNo}: \`${m[0].trim().slice(0, 80)}\``);
       if (matches.length >= 3) break;
     }
@@ -435,11 +459,12 @@ function analyzePowerShell(code) {
 function analyzeGeneric(code) {
   const findings = [];
 
-  if (/(?:[A-Za-z0-9+/]{20,}={0,2})/.test(code)) {
+  // Require surrounding whitespace or quotes/brackets to avoid matching identifiers
+  if (/(?:^|['"`\s(=])[A-Za-z0-9+/]{40,}={0,2}(?:['"`\s),;]|$)/m.test(code)) {
     findings.push(finding(
       'Long base64-like string detected',
       'Base64 pattern found in snippet',
-      'A long base64-encoded string is present in the code.',
+      'A long base64-encoded string (40+ chars) is present in the code.',
       'Frequently used to hide URLs, shellcode, or command strings from inspection.',
       'medium',
     ));

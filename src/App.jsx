@@ -965,7 +965,33 @@ const SHORT_URL_DOMAINS = ['t.co', 'bit.ly', 'tinyurl.com', 'goo.gl', 'ow.ly', '
   'qr.io', 'cutt.ly', 'is.gd', 'v.gd', 'rb.gy', 'short.io', 'tiny.cc', 'shorturl.at', 'snip.ly'];
 const PHISHING_BRANDS   = ['paypal', 'apple', 'microsoft', 'amazon', 'google', 'netflix', 'facebook',
   'instagram', 'twitter', 'wellsfargo', 'bankofamerica', 'chase', 'citibank', 'ebay', 'dropbox'];
+const PHISHING_LEGITIMATE_DOMAINS = new Set([
+  'paypal.com', 'apple.com', 'microsoft.com', 'amazon.com', 'google.com',
+  'netflix.com', 'facebook.com', 'instagram.com', 'twitter.com', 'x.com',
+  'wellsfargo.com', 'bankofamerica.com', 'chase.com', 'citibank.com', 'ebay.com', 'dropbox.com',
+]);
 const BULLETPROOF_TLDS  = ['ru', 'cn', 'pw', 'tk', 'ml', 'ga', 'cf', 'gq'];
+
+// Levenshtein edit distance — module-scope so it's not re-created on every URL analysis.
+// Implements early exit when the accumulated minimum exceeds maxDist to avoid O(m*n) work.
+function levenshtein(a, b, maxDist = 2) {
+  const m = a.length, n = b.length;
+  if (Math.abs(m - n) > maxDist) return maxDist + 1;
+  const prev = Array.from({ length: n + 1 }, (_, j) => j);
+  const curr = new Array(n + 1);
+  for (let i = 1; i <= m; i++) {
+    curr[0] = i;
+    let rowMin = i;
+    for (let j = 1; j <= n; j++) {
+      const cost = a[i - 1] === b[j - 1] ? 0 : 1;
+      curr[j] = Math.min(prev[j] + 1, curr[j - 1] + 1, prev[j - 1] + cost);
+      if (curr[j] < rowMin) rowMin = curr[j];
+    }
+    if (rowMin > maxDist) return maxDist + 1;
+    prev.splice(0, n + 1, ...curr);
+  }
+  return curr[n];
+}
 
 /**
  * Build heuristic web-security findings for a URL without any live network
@@ -1025,7 +1051,9 @@ function buildWebSecurityFindings(urlObj, domain, hasHttps) {
   }
 
   // ── 4. Phishing brand impersonation ──────────────────────────────────────
-  const matchedBrand = PHISHING_BRANDS.find((b) => domain.includes(b) && !domain.endsWith(`.${b}.com`) && !['paypal.com','apple.com','microsoft.com','amazon.com','google.com','netflix.com','facebook.com','instagram.com','twitter.com','x.com'].includes(domain));
+  const matchedBrand = PHISHING_BRANDS.find(
+    (b) => domain.includes(b) && !PHISHING_LEGITIMATE_DOMAINS.has(domain),
+  );
   if (matchedBrand) {
     findings.push({
       label: 'Brand impersonation risk',
@@ -1115,19 +1143,10 @@ function buildWebSecurityFindings(urlObj, domain, hasHttps) {
   }
 
   // ── 10. Typosquatting / domain permutation detection ────────────────────
-  const popularDomains = ['google', 'paypal', 'apple', 'amazon', 'microsoft', 'netflix', 'facebook',
+  const TYPOSQUAT_TARGETS = ['google', 'paypal', 'apple', 'amazon', 'microsoft', 'netflix', 'facebook',
     'instagram', 'twitter', 'youtube', 'linkedin', 'github', 'dropbox', 'icloud', 'outlook'];
   const domainBase = domain.split('.')[0].toLowerCase();
-  function levenshtein(a, b) {
-    const m = a.length, n = b.length;
-    const dp = Array.from({ length: m + 1 }, (_, i) => [i, ...Array(n).fill(0)]);
-    for (let j = 0; j <= n; j++) dp[0][j] = j;
-    for (let i = 1; i <= m; i++) for (let j = 1; j <= n; j++) {
-      dp[i][j] = a[i-1] === b[j-1] ? dp[i-1][j-1] : 1 + Math.min(dp[i-1][j], dp[i][j-1], dp[i-1][j-1]);
-    }
-    return dp[m][n];
-  }
-  for (const pop of popularDomains) {
+  for (const pop of TYPOSQUAT_TARGETS) {
     if (domainBase === pop) break;
     const dist = levenshtein(domainBase, pop);
     if (dist === 1 || (dist === 2 && pop.length > 5)) {
@@ -2191,7 +2210,7 @@ async function analyzeFile(file) {
   const strings = [];
   if (fileBytes) {
     let current = '';
-    for (let i = 0; i < Math.min(fileBytes.length, 512000); i++) {
+    for (let i = 0; i < Math.min(fileBytes.length, 131072); i++) {
       const c = fileBytes[i];
       if (c >= 32 && c < 127) {
         current += String.fromCharCode(c);

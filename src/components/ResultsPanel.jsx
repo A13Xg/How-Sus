@@ -1055,12 +1055,21 @@ export default function ResultsPanel({ results, inputData, aiConfig, confidenceS
           const good = results.findings.filter((f) => f.status === 'good').length;
           const info = results.findings.filter((f) => f.status === 'info').length;
           const total = results.findings.length;
-          const bars = [
-            { label: 'Critical', count: bad,  pct: Math.round(bad / total * 100),  color: '#ef4444' },
-            { label: 'Warning',  count: warn, pct: Math.round(warn / total * 100), color: '#f59e0b' },
-            { label: 'Good',     count: good, pct: Math.round(good / total * 100), color: '#10b981' },
-            { label: 'Info',     count: info, pct: Math.round(info / total * 100), color: '#3b82f6' },
+          // Use floor + assign remainder to last bar to avoid rounding drift
+          const allBars = [
+            { label: 'Critical', count: bad,  color: '#ef4444' },
+            { label: 'Warning',  count: warn, color: '#f59e0b' },
+            { label: 'Good',     count: good, color: '#10b981' },
+            { label: 'Info',     count: info, color: '#3b82f6' },
           ].filter((b) => b.count > 0);
+          let allocated = 0;
+          const bars = allBars.map((b, i) => {
+            const pct = i === allBars.length - 1
+              ? 100 - allocated
+              : Math.floor(b.count / total * 100);
+            allocated += pct;
+            return { ...b, pct };
+          });
           return (
             <div className="risk-breakdown" aria-label="Risk score breakdown">
               <p className="risk-breakdown-title">Risk Breakdown <span className="risk-breakdown-total">({total} signals)</span></p>
