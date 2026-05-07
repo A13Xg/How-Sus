@@ -1,6 +1,6 @@
-# HowSus — News & Media Authenticity Analyzer
+# HowSus — Security & Authenticity Analyzer
 
-> A fully client-side, browser-based tool to analyze the authenticity of news articles, URLs, and images. Runs entirely on GitHub Pages with no backend or server required.
+> A fully client-side, browser-based tool to analyze the authenticity and security of URLs, text, code snippets, images, and files. Runs entirely on GitHub Pages with no backend or server required.
 
 [![GitHub Pages](https://img.shields.io/badge/Live%20App-GitHub%20Pages-blue)](https://a13xg.github.io/How-Sus/)
 [![License](https://img.shields.io/github/license/A13Xg/How-Sus)](LICENSE)
@@ -9,14 +9,16 @@
 
 ## What It Does
 
-HowSus analyzes news content using multiple heuristic engines running entirely in your browser:
+HowSus analyzes content using multiple heuristic engines running entirely in your browser:
 
-- **URL Analysis** — domain reputation, HTTPS verification, TLD risk assessment, subdomain depth, URL patterns, query parameter analysis
-- **Text Analysis** — suspicious keyword detection, caps ratio, sentiment scoring, readability, dark patterns, named entities, claim density, language formality, source attribution
-- **Image Analysis** — 12-point forensic pipeline: EXIF extraction, SHA-256 fingerprinting, MIME type sniffing, canvas pixel analysis, color saturation, compression ratio, date cross-validation, GPS validation, alpha channel detection, steganography indicators, editing software fingerprint, metadata completeness
+- **URL Security** — HTTPS/TLS check, short URL detection, phishing brand impersonation, typosquatting (Levenshtein edit distance), IP-only hosting, bulletproof TLD detection, notification abuse patterns, security header notes
+- **Text Analysis** — suspicious keyword detection, caps ratio, sentiment scoring, readability, dark patterns, named entities, claim density, formality, email header analysis (SPF/DKIM/DMARC), link extraction, encoding/obfuscation detector (base64, hex, zero-width chars)
+- **Code Analysis** — static analysis for Bash/sh, Python, and PowerShell: 40+ suspicious patterns including reverse shells, credential theft, privilege escalation, obfuscation, C2 patterns, and more
+- **Image Forensics** — 12+ point pipeline: EXIF extraction (aperture, ISO, GPS, copyright, artist, user comment), SHA-256 fingerprint, MIME sniffing, LSB steganography detection, AI-generation signals, saturation analysis, metadata date cross-validation
+- **File Inspection** — magic byte detection, entropy analysis, SHA-256 hash, string extraction (embedded URLs, emails), suspicious filename patterns, archive detection
 - **AI Analysis** — optional, using your own OpenAI or Google Gemini API key (processed in your browser, not stored)
-- **Cross-Source Verification** — tier-weighted corroboration system with 28+ trusted sources
-- **Transparent Results** — every finding shows the exact text excerpt that triggered it and a full data-path trace
+- **Risk Score Breakdown** — visual bar chart showing critical/warning/good/info signal distribution
+- **Transparent Results** — every finding shows the exact evidence and full data-path trace; critical findings highlighted with red borders
 
 ---
 
@@ -24,23 +26,24 @@ HowSus analyzes news content using multiple heuristic engines running entirely i
 
 | Feature | Description |
 |---------|-------------|
-| 🌐 URL Analysis | Domain reputation (43 trusted domains), HTTPS, TLD risk, URL patterns, query params |
-| 📝 Text Analysis | 39 suspicious keywords, CAPS detection, sentiment (AFINN-165), readability (Flesch-Kincaid), dark patterns, named entity recognition, claim density, formality scoring |
-| 🖼 Image Analysis | 12-point forensic pipeline — EXIF, SHA-256, MIME sniff, canvas analysis, saturation, steganography |
-| 🤖 AI Analysis | OpenAI (GPT-4o-mini) and Google Gemini integration — optional, browser-only |
-| 🔍 Cross-Source Consistency | Tier-weighted (Tier 1: wire services, Tier 2: major outlets) with 12+ sources |
-| 📊 Source Freshness | Scores how recently corroborating sources were published |
-| ✍️ Claim Density | Measures verifiable claims per 100 words (journalism quality indicator) |
-| 📐 Language Formality | Formal vs. informal language analysis (professional journalism indicator) |
-| 🎯 Signal Confidence | Overall evidence quality score based on findings breadth, tier-1 sources, AI confirmation |
-| 🔎 Transparent Data Path | Click any finding to see the exact evidence and step-by-step determination |
+| 🔗 URL Security | HTTPS, typosquatting, phishing brands, IP hosting, bulletproof TLDs, short URL detection |
+| 📝 Text Analysis | 39 suspicious keywords, CAPS, sentiment, readability, dark patterns, named entities, claim density |
+| 💻 Code Analysis | Bash/Python/PowerShell static analysis — 40+ patterns, reverse shells, C2, obfuscation |
+| 🖼 Image Forensics | 12+ point pipeline: EXIF, SHA-256, MIME sniff, canvas LSB steganography, saturation |
+| 📁 File Inspection | Magic bytes, entropy, string extraction, suspicious filename patterns |
+| 🤖 AI Analysis | OpenAI (GPT-4o-mini) and Google Gemini 2.x integration — optional, browser-only |
+| 📊 Risk Breakdown | CSS-only bar chart: critical/warning/good/info signal distribution |
+| 🚨 Red Flag Highlighting | Critical findings show red borders, 🚨 icon, summary box, and pulsing gauge |
+| 📧 Email Header Analysis | Paste raw email headers for SPF/DKIM/DMARC authentication check |
+| 🔤 Encoding Detector | Detects base64 blocks, hex escapes, zero-width/invisible Unicode chars |
+| 🔍 Typosquatting Detector | Levenshtein distance check against 15 popular brands |
+| 🔎 Transparent Data Path | Click any finding to see step-by-step determination |
 | ⚠️ Dark Patterns | 6-category manipulative framing detector |
 | 💬 Sentiment Analysis | AFINN-165 scoring with word-level highlighting |
-| 📖 Readability | Flesch Reading Ease + grade level (text analysis) |
+| 📖 Readability | Flesch Reading Ease + grade level |
 | 🕰 Scan History | Last 10 scans in localStorage |
 | 📤 PDF & HTML Export | Full report download with data paths |
 | 🔗 Share Link | Base64-encoded URL hash for sharing scans |
-| 🌐 Environment Indicator | Shows which features are unavailable in static/GitHub Pages environment |
 
 ---
 
@@ -91,16 +94,19 @@ HowSus is a fully static single-page application. No backend, no server — all 
 │  │  analyzeUrl()        │  │   ResultsPanel       │ │
 │  │  analyzeText()       │  │   InputSection       │ │
 │  │  analyzeImage()      │  │   VisualizationSection│ │
-│  └──────────┬──────────┘  │   NetworkGraph       │ │
-│             │              │   TimelineGraph      │ │
-│  ┌──────────▼──────────┐  └──────────────────────┘ │
-│  │   Analysis Libraries │                           │
-│  │  sentiment.js        │  ┌──────────────────────┐ │
-│  │  readability.js      │  │   External (optional) │ │
-│  │  darkPatterns.js     │  │  OpenAI API           │ │
-│  │  formalityAnalyzer.js│  │  Google Gemini API    │ │
-│  │  logger.js           │  │  Microlink.io         │ │
+│  │  analyzeCodeSnippet()│  │   NetworkGraph       │ │
+│  │  analyzeFile()       │  │   TimelineGraph      │ │
 │  └──────────┬──────────┘  └──────────────────────┘ │
+│             │                                       │
+│  ┌──────────▼──────────┐  ┌──────────────────────┐ │
+│  │   Analysis Libraries │  │   External (optional) │ │
+│  │  sentiment.js        │  │  OpenAI API           │ │
+│  │  readability.js      │  │  Google Gemini API    │ │
+│  │  darkPatterns.js     │  │  Microlink.io         │ │
+│  │  formalityAnalyzer.js│  └──────────────────────┘ │
+│  │  codeAnalyzer.js     │                           │
+│  │  logger.js           │                           │
+│  └──────────┬──────────┘                            │
 │             │                                       │
 │  ┌──────────▼──────────┐                            │
 │  │   Static Data        │                            │

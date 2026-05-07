@@ -45,9 +45,17 @@ import { checkForUpdates } from './lib/updateChecker.js';
 import logger from './lib/logger.js';
 import useKeyboardShortcuts from './lib/useKeyboardShortcuts.js';
 import { analyzeFormality } from './lib/formalityAnalyzer.js';
+import { analyzeCode } from './lib/codeAnalyzer.js';
 
 // ─── Constants ────────────────────────────────────────────────────────────────
 const SUSPICIOUS_DOMAINS = ['fakenews', 'hoax', 'clickbait', 'viral', 'shocking', 'unbelievable'];
+
+/**
+ * Maximum bytes scanned for string extraction during file analysis.
+ * 128 KB keeps the loop fast for typical files while still catching embedded
+ * strings in the header / import table region of executables.
+ */
+const FILE_STRING_SCAN_LIMIT = 131072; // 128 KB
 const SUSPICIOUS_KEYWORDS = [
   "shocking", "unbelievable", "you won't believe",
   "mainstream media won't tell", "they don't want you to know",
@@ -95,13 +103,15 @@ const AI_PROVIDERS = {
   },
   google: {
     label: 'Google Gemini',
-    defaultModel: 'gemini-1.5-flash',
+    defaultModel: 'gemini-2.0-flash',
     models: [
-      { id: '', label: 'Auto (gemini-1.5-flash)' },
-      { id: 'gemini-1.5-flash', label: 'Gemini 1.5 Flash — fast' },
-      { id: 'gemini-1.5-pro', label: 'Gemini 1.5 Pro — capable' },
-      { id: 'gemini-2.0-flash', label: 'Gemini 2.0 Flash — latest fast' },
-      { id: 'gemini-2.5-pro', label: 'Gemini 2.5 Pro — most capable' },
+      { id: '', label: 'Auto (gemini-2.0-flash)' },
+      { id: 'gemini-2.0-flash', label: 'Gemini 2.0 Flash — stable, fast (recommended)' },
+      { id: 'gemini-2.0-flash-lite', label: 'Gemini 2.0 Flash Lite — lightest' },
+      { id: 'gemini-2.5-flash-preview-05-20', label: 'Gemini 2.5 Flash Preview — cutting edge' },
+      { id: 'gemini-2.5-pro-preview-05-06', label: 'Gemini 2.5 Pro Preview — most capable' },
+      { id: 'gemini-1.5-flash', label: 'Gemini 1.5 Flash — legacy' },
+      { id: 'gemini-1.5-pro', label: 'Gemini 1.5 Pro — legacy' },
     ],
   },
 };
@@ -211,8 +221,10 @@ const SCAN_STEPS = [
   'Fetching source metadata…',
   'Checking domain reputation (TLD · HTTPS · age heuristic)…',
   'Running content analysis (keywords · sentiment · dark patterns)…',
+  'Checking security headers and permissions…',
   'Detecting duplicate content (platform spread · similarity scoring)…',
   'Verifying timeline and source freshness…',
+  'Analyzing content safety signals…',
   'Running AI story-validity analysis…',
   'Compiling scores and generating report…',
 ];
@@ -955,6 +967,216 @@ function computeClaimDensity(text) {
   return { density, label, claimsFound: total, wordCount };
 }
 
+// ─── Short URL & known phishing domains ──────────────────────────────────────
+const SHORT_URL_DOMAINS = ['t.co', 'bit.ly', 'tinyurl.com', 'goo.gl', 'ow.ly', 'buff.ly', 'dlvr.it',
+  'qr.io', 'cutt.ly', 'is.gd', 'v.gd', 'rb.gy', 'short.io', 'tiny.cc', 'shorturl.at', 'snip.ly'];
+const PHISHING_BRANDS   = ['paypal', 'apple', 'microsoft', 'amazon', 'google', 'netflix', 'facebook',
+  'instagram', 'twitter', 'wellsfargo', 'bankofamerica', 'chase', 'citibank', 'ebay', 'dropbox'];
+const PHISHING_LEGITIMATE_DOMAINS = new Set([
+  'paypal.com', 'apple.com', 'microsoft.com', 'amazon.com', 'google.com',
+  'netflix.com', 'facebook.com', 'instagram.com', 'twitter.com', 'x.com',
+  'wellsfargo.com', 'bankofamerica.com', 'chase.com', 'citibank.com', 'ebay.com', 'dropbox.com',
+]);
+const BULLETPROOF_TLDS  = ['ru', 'cn', 'pw', 'tk', 'ml', 'ga', 'cf', 'gq'];
+
+// Levenshtein edit distance — module-scope so it's not re-created on every URL analysis.
+// Implements early exit when the accumulated minimum exceeds maxDist to avoid O(m*n) work.
+function levenshtein(a, b, maxDist = 2) {
+  const m = a.length, n = b.length;
+  if (Math.abs(m - n) > maxDist) return maxDist + 1;
+  const prev = Array.from({ length: n + 1 }, (_, j) => j);
+  const curr = new Array(n + 1);
+  for (let i = 1; i <= m; i++) {
+    curr[0] = i;
+    let rowMin = i;
+    for (let j = 1; j <= n; j++) {
+      const cost = a[i - 1] === b[j - 1] ? 0 : 1;
+      curr[j] = Math.min(prev[j] + 1, curr[j - 1] + 1, prev[j - 1] + cost);
+      if (curr[j] < rowMin) rowMin = curr[j];
+    }
+    if (rowMin > maxDist) return maxDist + 1;
+    prev.splice(0, n + 1, ...curr);
+  }
+  return curr[n];
+}
+
+/**
+ * Build heuristic web-security findings for a URL without any live network
+ * fetch. All checks are derived statically from the URL structure and domain.
+ *
+ * @param {URL} urlObj - parsed URL object
+ * @param {string} domain - hostname without www.
+ * @param {boolean} hasHttps
+ * @returns {Array<object>} findings
+ */
+function buildWebSecurityFindings(urlObj, domain, hasHttps) {
+  const findings = [];
+  const path     = urlObj.pathname.toLowerCase();
+  const fullUrl  = urlObj.href;
+  const tld      = domain.split('.').pop().toLowerCase();
+
+  // ── 1. HTTPS / TLS ────────────────────────────────────────────────────────
+  findings.push({
+    label: 'Transport security (HTTPS)',
+    value: hasHttps ? 'HTTPS — encrypted' : 'HTTP — unencrypted (no TLS)',
+    status: hasHttps ? 'good' : 'bad',
+    section: 'Web Security',
+    explanation: 'HTTPS encrypts the connection between the browser and the server. HTTP sends data in plain text.',
+    dataPath: [
+      `Protocol: ${urlObj.protocol}`,
+      hasHttps ? 'TLS encryption present — data in transit is protected' : 'WARNING: No encryption — data sent in plain text, susceptible to MITM attacks',
+    ],
+  });
+
+  // ── 2. Mixed content warning ──────────────────────────────────────────────
+  if (hasHttps && /http:\/\//i.test(fullUrl.replace(/^https?:\/\//, ''))) {
+    findings.push({
+      label: 'Potential mixed content',
+      value: 'HTTP sub-resources may be present on HTTPS page',
+      status: 'warn',
+      section: 'Web Security',
+      explanation: 'An HTTPS page loading HTTP sub-resources (images, scripts) exposes those resources to interception.',
+      dataPath: ['HTTP references detected in URL path or parameters alongside HTTPS protocol'],
+    });
+  }
+
+  // ── 3. Short URL / redirect detection ────────────────────────────────────
+  const isShortUrl = SHORT_URL_DOMAINS.some((sd) => domain.endsWith(sd) || domain === sd);
+  if (isShortUrl) {
+    findings.push({
+      label: 'Short URL / redirect service',
+      value: `Domain "${domain}" is a known URL shortener`,
+      status: 'warn',
+      section: 'Web Security',
+      explanation: 'Short URLs obscure the final destination, which can be used for phishing or malware distribution.',
+      dataPath: [
+        `Domain "${domain}" matched known short-URL service list`,
+        'Final destination cannot be verified without following the redirect',
+        'Treat short links from unknown senders with caution',
+      ],
+    });
+  }
+
+  // ── 4. Phishing brand impersonation ──────────────────────────────────────
+  const matchedBrand = PHISHING_BRANDS.find(
+    (b) => domain.includes(b) && !PHISHING_LEGITIMATE_DOMAINS.has(domain),
+  );
+  if (matchedBrand) {
+    findings.push({
+      label: 'Brand impersonation risk',
+      value: `Domain contains "${matchedBrand}" but is not the official domain`,
+      status: 'bad',
+      section: 'Web Security',
+      explanation: 'Phishing sites frequently include a trusted brand name in a non-official domain to mislead users.',
+      dataPath: [
+        `Domain: ${domain}`,
+        `Matched brand: "${matchedBrand}"`,
+        `Domain is NOT the official ${matchedBrand} domain`,
+        'High risk of phishing / credential harvesting',
+      ],
+    });
+  }
+
+  // ── 5. PWA / service worker patterns ─────────────────────────────────────
+  const hasSW  = /service[-_]?worker|sw\.js/i.test(path);
+  const hasPWA = /manifest\.(?:json|webmanifest)/i.test(path);
+  if (hasSW || hasPWA) {
+    findings.push({
+      label: 'PWA / service worker patterns',
+      value: hasSW ? 'Service worker path detected' : 'Web App Manifest path detected',
+      status: 'info',
+      section: 'Web Security',
+      explanation: 'Progressive Web App files allow offline caching and push notifications. Not inherently malicious but worth noting.',
+      dataPath: [`Path contains: ${path.slice(0, 80)}`],
+    });
+  }
+
+  // ── 6. Notification / alert bait patterns ────────────────────────────────
+  if (/notif|alert|push[-_]sub|subscribe/i.test(path + fullUrl)) {
+    findings.push({
+      label: 'Notification / alert patterns',
+      value: 'URL contains notification subscription patterns',
+      status: 'warn',
+      section: 'Web Security',
+      explanation: 'Aggressive notification prompts are used by scam sites to push spam or malware download alerts.',
+      dataPath: [`Matched pattern in URL: ${path.slice(0, 80)}`],
+    });
+  }
+
+  // ── 7. Bulletproof / high-risk TLD ───────────────────────────────────────
+  if (BULLETPROOF_TLDS.includes(tld) && !hasHttps) {
+    findings.push({
+      label: 'High-risk TLD + no HTTPS',
+      value: `.${tld} without HTTPS — bulletproof hosting pattern`,
+      status: 'bad',
+      section: 'Web Security',
+      explanation: `The TLD .${tld} combined with lack of HTTPS is a common pattern for bulletproof hosting, scam, or malware sites.`,
+      dataPath: [
+        `TLD: .${tld} (in high-risk list)`,
+        `HTTPS: not present`,
+        'Combination matches bulletproof hosting heuristic',
+      ],
+    });
+  }
+
+  // ── 8. Permission-Policy header notes ────────────────────────────────────
+  findings.push({
+    label: 'Permission-Policy headers (static note)',
+    value: 'Cannot verify server headers client-side — check manually',
+    status: 'info',
+    section: 'Web Security',
+    explanation: 'Permission-Policy headers restrict browser APIs (camera, microphone, geolocation, payment). They cannot be checked from client-side JavaScript due to CORS. Use securityheaders.com to verify.',
+    dataPath: [
+      'Verification requires server-side check or external tool',
+      'Recommendation: check https://securityheaders.com for this domain',
+      'Key headers to verify: Permission-Policy, Content-Security-Policy, X-Frame-Options, HSTS',
+    ],
+    searchUrls: [
+      { url: `https://securityheaders.com/?q=${encodeURIComponent(urlObj.origin)}&followRedirects=on`, label: 'SecurityHeaders.com scan' },
+    ],
+  });
+
+  // ── 9. IP address direct hosting ─────────────────────────────────────────
+  const isIp = /^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/.test(domain);
+  if (isIp) {
+    findings.push({
+      label: 'IP address hosting (no domain)',
+      value: `Hosted on raw IP: ${domain}`,
+      status: 'bad',
+      section: 'Web Security',
+      explanation: 'Legitimate content is rarely hosted directly on IP addresses. This is a strong indicator of malicious or temporary infrastructure.',
+      dataPath: [`Domain field is a raw IP address: ${domain}`, 'No TLS certificate possible for raw IPs (usually)', 'High risk — phishing, C2, or temporary malware hosting'],
+    });
+  }
+
+  // ── 10. Typosquatting / domain permutation detection ────────────────────
+  const TYPOSQUAT_TARGETS = ['google', 'paypal', 'apple', 'amazon', 'microsoft', 'netflix', 'facebook',
+    'instagram', 'twitter', 'youtube', 'linkedin', 'github', 'dropbox', 'icloud', 'outlook'];
+  const domainBase = domain.split('.')[0].toLowerCase();
+  for (const pop of TYPOSQUAT_TARGETS) {
+    if (domainBase === pop) break;
+    const dist = levenshtein(domainBase, pop);
+    if (dist === 1 || (dist === 2 && pop.length > 5)) {
+      findings.push({
+        label: 'Typosquatting / domain permutation',
+        value: `"${domainBase}" is 1-2 characters away from "${pop}"`,
+        status: 'bad',
+        section: 'Web Security',
+        explanation: `Typosquatting registers domains nearly identical to popular sites. "${domainBase}" closely resembles "${pop}" and may be an impersonation.`,
+        dataPath: [
+          `Domain: ${domain}`,
+          `Similar to: ${pop}.com (edit distance: ${dist})`,
+          'Typosquatters rely on users mistyping URLs',
+          'Do NOT enter credentials on this page',
+        ],
+      });
+      break;
+    }
+  }
+
+  return findings;
+}
+
 /** Analyze a URL and return a scanResults-shaped object. */
 function analyzeUrl(url, dateFrom, dateTo, feedData) {
   try {
@@ -1228,6 +1450,8 @@ function analyzeUrl(url, dateFrom, dateTo, feedData) {
             `Label: ${sourceFreshness.label}`,
           ],
         },
+        // ── Web Security checks (heuristic, no live fetch) ──────────────────────
+        ...buildWebSecurityFindings(urlObj, domain, hasHttps),
       ],
       sentiment,
       darkPatterns: darkPatternsResult,
@@ -1648,6 +1872,104 @@ function analyzeText(text, feedData) {
           `Classification: ${claimDensity.label}`,
         ],
       },
+      // ─── Link extractor ────────────────────────────────────────────────
+      ...((() => {
+        const extractedLinks = (text.match(/https?:\/\/[^\s"'<>)]{6,}/g) || []).slice(0, 20);
+        const suspiciousLinks = extractedLinks.filter((u) => {
+          try {
+            const h = new URL(u).hostname;
+            return SHORT_URL_DOMAINS.some((d) => h === d || h.endsWith('.' + d))
+              || /\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/.test(h)
+              || BULLETPROOF_TLDS.some((t) => h.endsWith(t));
+          } catch { return false; }
+        });
+        if (extractedLinks.length === 0) return [];
+        return [{
+          label: `Links in text (${extractedLinks.length})`,
+          value: suspiciousLinks.length > 0
+            ? `${extractedLinks.length} found — ${suspiciousLinks.length} suspicious`
+            : `${extractedLinks.length} link${extractedLinks.length > 1 ? 's' : ''} found`,
+          status: suspiciousLinks.length > 0 ? 'warn' : 'info',
+          explanation: 'URLs embedded in text may link to malicious or misleading destinations.',
+          dataPath: extractedLinks.slice(0, 10).map((u) => {
+            const isSusp = suspiciousLinks.includes(u);
+            return `${isSusp ? '⚠ ' : '→ '}${u.slice(0, 120)}`;
+          }),
+        }];
+      })()),
+      // ─── Encoding / obfuscation detector ──────────────────────────────
+      ...((() => {
+        const findings2 = [];
+        const b64Matches = text.match(/[A-Za-z0-9+/]{40,}={0,2}/g) || [];
+        if (b64Matches.length > 0) {
+          findings2.push({
+            label: 'Base64-encoded data',
+            value: `${b64Matches.length} block${b64Matches.length > 1 ? 's' : ''} detected`,
+            status: 'warn',
+            explanation: 'Long base64 strings may encode hidden payloads, scripts, or links.',
+            dataPath: b64Matches.slice(0, 3).map((s) => `→ ${s.slice(0, 80)}…`),
+          });
+        }
+        const hexMatches = text.match(/\\x[0-9a-fA-F]{2}(?:\\x[0-9a-fA-F]{2}){4,}/g) || [];
+        if (hexMatches.length > 0) {
+          findings2.push({
+            label: 'Hex escape sequences',
+            value: `${hexMatches.length} sequence${hexMatches.length > 1 ? 's' : ''} detected`,
+            status: 'warn',
+            explanation: 'Hex-escaped character sequences are commonly used to obfuscate malicious strings.',
+            dataPath: hexMatches.slice(0, 3).map((s) => `→ ${s.slice(0, 80)}`),
+          });
+        }
+        // eslint-disable-next-line no-misleading-character-class -- intentional range covering directional control chars
+        const zwChars = (text.match(/[\u200b\u200c\u200d\u200e\u200f\u202a-\u202e\ufeff]/g) || []).length;
+        if (zwChars > 0) {
+          findings2.push({
+            label: 'Zero-width / invisible characters',
+            value: `${zwChars} found`,
+            status: 'bad',
+            explanation: 'Zero-width and invisible Unicode characters can be used for steganography, tracking, or to bypass filters.',
+            dataPath: [`Found ${zwChars} invisible Unicode character(s)`, 'Common in social media copypasta, text watermarking, and payload delivery'],
+          });
+        }
+        return findings2;
+      })()),
+      // ─── Email header auto-detection ────────────────────────────────
+      ...((() => {
+        const emailHeaderRe = /^(?:From|To|Subject|Date|Received|MIME-Version|Content-Type|Message-ID|X-[A-Za-z-]+)\s*:/im;
+        if (!emailHeaderRe.test(text)) return [];
+        const findings2 = [];
+        const spfMatch = text.match(/spf=(pass|fail|softfail|neutral|none)/i);
+        const dkimMatch = text.match(/dkim=(pass|fail|none)/i);
+        const dmarcMatch = text.match(/dmarc=(pass|fail|none)/i);
+        const spf = spfMatch?.[1]?.toLowerCase();
+        const dkim = dkimMatch?.[1]?.toLowerCase();
+        const dmarc = dmarcMatch?.[1]?.toLowerCase();
+        const authStatus = spf === 'pass' && dkim === 'pass' ? 'good'
+          : (spf === 'fail' || dkim === 'fail' || dmarc === 'fail') ? 'bad' : 'warn';
+        findings2.push({
+          label: 'Email headers detected',
+          value: `SPF: ${spf ?? 'not found'} | DKIM: ${dkim ?? 'not found'} | DMARC: ${dmarc ?? 'not found'}`,
+          status: authStatus,
+          explanation: 'This text looks like email headers. SPF/DKIM/DMARC authentication results indicate whether the email was legitimately sent from the stated domain.',
+          dataPath: [
+            'Email header format detected in pasted text',
+            `SPF result: ${spf ?? 'not present'} — ${spf === 'pass' ? 'sender is authorized' : spf === 'fail' ? 'sender is NOT authorized — possible spoofing' : 'indeterminate'}`,
+            `DKIM result: ${dkim ?? 'not present'} — ${dkim === 'pass' ? 'signature valid' : dkim === 'fail' ? 'signature invalid — tampering or spoofing' : 'not signed'}`,
+            `DMARC result: ${dmarc ?? 'not present'} — ${dmarc === 'pass' ? 'policy satisfied' : dmarc === 'fail' ? 'policy violated' : 'no policy'}`,
+          ],
+        });
+        const receivedHops = (text.match(/^Received:/gim) || []).length;
+        if (receivedHops > 0) {
+          findings2.push({
+            label: 'Mail relay hops',
+            value: `${receivedHops} hop${receivedHops > 1 ? 's' : ''}`,
+            status: receivedHops > 5 ? 'warn' : 'info',
+            explanation: 'Each Received header is a relay hop. Unusually many hops may indicate routing through unusual servers.',
+            dataPath: [`${receivedHops} Received headers found`, receivedHops > 5 ? 'Unusually high hop count' : 'Normal hop count'],
+          });
+        }
+        return findings2;
+      })()),
     ],
     sentiment,
     readability,
@@ -1657,7 +1979,363 @@ function analyzeText(text, feedData) {
   };
 }
 
-/** Analyze an image file and return a scanResults-shaped object.
+/**
+ * Analyze a code snippet and return a scanResults-shaped object.
+ *
+ * Uses the codeAnalyzer library for static pattern detection.
+ * Supports Bash/sh, Python, and PowerShell.
+ *
+ * @param {string} code - the raw code string
+ * @returns {object} scanResults-shaped object
+ */
+function analyzeCodeSnippet(code) {
+  const result = analyzeCode(code);
+  const { language, riskLevel, riskScore, findings: codeFindings, commandBreakdown } = result;
+
+  const RISK_COLORS = { none: 'good', low: 'info', medium: 'warn', high: 'bad', critical: 'bad' };
+  const RISK_EMOJIS = { none: '✅', low: '🔵', medium: '⚠️', high: '🚨', critical: '🚨' };
+
+  const score = Math.max(5, 100 - riskScore);
+
+  const langLabel = { bash: 'Bash/sh', python: 'Python', powershell: 'PowerShell', unknown: 'Unknown' }[language] ?? language;
+
+  const findings = [
+    {
+      label: 'Detected language',
+      value: langLabel,
+      status: language === 'unknown' ? 'warn' : 'info',
+      excerpt: `Language detection based on syntax patterns`,
+      dataPath: [`Input snippet length: ${code.length} chars`, `Detected: ${langLabel}`],
+    },
+    {
+      label: 'Risk level',
+      value: `${RISK_EMOJIS[riskLevel] ?? ''} ${riskLevel.toUpperCase()} (score: ${riskScore}/100)`,
+      status: RISK_COLORS[riskLevel] ?? 'info',
+      excerpt: `Aggregated risk from ${codeFindings.length} pattern checks`,
+      dataPath: [
+        `Total risk score: ${riskScore}`,
+        `Risk level: ${riskLevel}`,
+        `Findings: ${codeFindings.length}`,
+      ],
+    },
+    ...codeFindings.map((f) => ({
+      label: f.label,
+      value: `[${f.severity.toUpperCase()}] ${f.explanation}`,
+      status: f.severity === 'critical' || f.severity === 'high' ? 'bad' : f.severity === 'medium' ? 'warn' : 'info',
+      excerpt: f.match,
+      dataPath: [
+        `Pattern: ${f.label}`,
+        `Severity: ${f.severity}`,
+        `Explanation: ${f.explanation}`,
+        `Why suspicious: ${f.why}`,
+        `Match: ${f.match}`,
+      ],
+    })),
+  ];
+
+  return {
+    authenticityScore: score,
+    type: 'code',
+    language,
+    langLabel,
+    riskLevel,
+    riskScore,
+    commandBreakdown,
+    sources: [],
+    duplicates: [],
+    crossCheck: null,
+    imageAnalysis: null,
+    aiAnalysis: null,
+    skippedFeatures: [
+      { name: 'Dynamic execution analysis', reason: 'Code is never executed — static analysis only', skipped: true },
+      { name: 'Sandbox detonation', reason: 'Requires backend — not available client-side', skipped: true },
+    ],
+    findings,
+    timeline: [
+      { label: 'Snippet received', detail: `${code.length} characters`, time: new Date().toISOString() },
+      { label: 'Language detection', detail: langLabel, time: new Date().toISOString() },
+      { label: 'Pattern analysis complete', detail: `${codeFindings.length} pattern(s) checked`, time: new Date().toISOString() },
+    ],
+  };
+}
+
+// ─── Magic byte signatures ────────────────────────────────────────────────────
+const MAGIC_SIGNATURES = [
+  { sig: '4D5A',         mime: 'application/x-dosexec',  label: 'Windows PE Executable (EXE/DLL)', executable: true },
+  { sig: '7F454C46',     mime: 'application/x-elf',      label: 'ELF Executable (Linux/Unix)',      executable: true },
+  { sig: 'CAFEBABE',     mime: 'application/x-java',     label: 'Java Class File',                  executable: true },
+  { sig: 'FEEDFACE',     mime: 'application/x-macho',    label: 'Mach-O Executable (macOS)',        executable: true },
+  { sig: 'CEFAEDFE',     mime: 'application/x-macho',    label: 'Mach-O Executable (macOS)',        executable: true },
+  { sig: '504B0304',     mime: 'application/zip',        label: 'ZIP Archive',                      archive: true },
+  { sig: '526172211A07', mime: 'application/x-rar',      label: 'RAR Archive',                      archive: true },
+  { sig: '377ABCAF271C', mime: 'application/x-7z',       label: '7-Zip Archive',                    archive: true },
+  { sig: '1F8B08',       mime: 'application/gzip',       label: 'GZip Archive',                     archive: true },
+  { sig: '25504446',     mime: 'application/pdf',        label: 'PDF Document',                     doc: true },
+  { sig: 'D0CF11E0A1B11AE1', mime: 'application/msword', label: 'MS Office Document (legacy)',      doc: true },
+  { sig: 'FFD8FF',       mime: 'image/jpeg',             label: 'JPEG Image',                       image: true },
+  { sig: '89504E47',     mime: 'image/png',              label: 'PNG Image',                        image: true },
+  { sig: '47494638',     mime: 'image/gif',              label: 'GIF Image',                        image: true },
+  { sig: '52494646',     mime: 'image/webp',             label: 'WebP Image',                       image: true },
+  { sig: '49492A00',     mime: 'image/tiff',             label: 'TIFF Image',                       image: true },
+  { sig: '424D',         mime: 'image/bmp',              label: 'BMP Image',                        image: true },
+  { sig: '1A45DFA3',     mime: 'video/webm',             label: 'WebM Video',                       media: true },
+  { sig: '000000',       mime: 'video/mp4',              label: 'MP4 Video (possible)',              media: true },
+  { sig: '23212F',       mime: 'text/x-shellscript',     label: 'Shell Script (shebang)',            script: true },
+];
+
+/**
+ * Analyze any file for security-relevant metadata, magic bytes, entropy, and strings.
+ *
+ * @param {File} file
+ * @returns {Promise<object>} scanResults-shaped object
+ */
+async function analyzeFile(file) {
+  const findings = [];
+  const timeline = [{ label: 'File received', detail: file.name, time: new Date().toISOString() }];
+
+  // ─── 1. SHA-256 + MD5-like fingerprint (using SubtleCrypto) ──────────────
+  let sha256 = null;
+  let fileBytes = null;
+  try {
+    fileBytes = new Uint8Array(await file.arrayBuffer());
+    const hashBuf = await crypto.subtle.digest('SHA-256', fileBytes);
+    // crypto.subtle.digest returns an ArrayBuffer; wrap it once in Uint8Array to iterate bytes.
+    sha256 = Array.from(new Uint8Array(hashBuf)).map((b) => b.toString(16).padStart(2, '0')).join('');
+    timeline.push({ label: 'SHA-256 computed', detail: sha256.slice(0, 16) + '…', time: new Date().toISOString() });
+  } catch {
+    // hash unavailable
+  }
+
+  // ─── 2. Magic bytes detection ─────────────────────────────────────────────
+  let detectedType = null;
+  let isExecutable = false;
+  let isArchive   = false;
+  let isDocument  = false;
+  let isScript    = false;
+  let isImage     = false;
+  if (fileBytes && fileBytes.length >= 8) {
+    const hexHead = Array.from(fileBytes.slice(0, 16)).map((b) => b.toString(16).padStart(2, '0').toUpperCase()).join('');
+    for (const sig of MAGIC_SIGNATURES) {
+      if (hexHead.startsWith(sig.sig.toUpperCase())) {
+        detectedType  = sig;
+        isExecutable  = !!sig.executable;
+        isArchive     = !!sig.archive;
+        isDocument    = !!sig.doc;
+        isScript      = !!sig.script;
+        isImage       = !!sig.image;
+        break;
+      }
+    }
+    // Check shebang (for scripts)
+    if (!detectedType && fileBytes[0] === 0x23 && fileBytes[1] === 0x21) {
+      detectedType = MAGIC_SIGNATURES.find((s) => s.sig === '23212F') ?? { label: 'Script (shebang)', script: true };
+      isScript = true;
+    }
+  }
+
+  const ext = file.name.split('.').pop()?.toLowerCase() ?? '';
+  const declaredMime = file.type || 'unknown';
+  const magicLabel = detectedType?.label ?? 'Unknown / unrecognised format';
+
+  findings.push({
+    label: 'Magic bytes (file signature)',
+    value: magicLabel,
+    status: detectedType ? 'info' : 'warn',
+    explanation: 'The first bytes of the file identify its true format regardless of the declared file name or MIME type.',
+    dataPath: [
+      `File: ${file.name} (.${ext})`,
+      `Declared MIME: ${declaredMime}`,
+      `Detected by magic bytes: ${magicLabel}`,
+      fileBytes ? `First 8 bytes hex: ${Array.from(fileBytes.slice(0, 8)).map((b) => b.toString(16).padStart(2, '0')).join(' ')}` : 'bytes unavailable',
+    ],
+  });
+
+  // Extension vs magic mismatch
+  const extMimeMap = { exe: 'PE', dll: 'PE', elf: 'ELF', pdf: 'PDF', zip: 'ZIP', rar: 'RAR', '7z': '7-Zip', jpg: 'JPEG', jpeg: 'JPEG', png: 'PNG' };
+  const expectedLabel = extMimeMap[ext];
+  const magicMatchesExt = !expectedLabel || (detectedType?.label?.toUpperCase().includes(expectedLabel) ?? false);
+  if (!magicMatchesExt && detectedType) {
+    findings.push({
+      label: 'File type mismatch',
+      value: `Extension .${ext} but magic bytes indicate ${detectedType.label}`,
+      status: 'bad',
+      explanation: 'The file extension does not match the actual file format — a common trick to disguise malicious files.',
+      dataPath: [
+        `Extension: .${ext} suggests ${expectedLabel}`,
+        `Actual format from magic bytes: ${detectedType.label}`,
+        'MISMATCH — potential disguised malicious file',
+      ],
+    });
+  }
+
+  // ─── 3. Entropy calculation ───────────────────────────────────────────────
+  let entropy = 0;
+  if (fileBytes && fileBytes.length > 0) {
+    const freq = new Array(256).fill(0);
+    const sampleLen = Math.min(fileBytes.length, 65536);
+    for (let i = 0; i < sampleLen; i++) freq[fileBytes[i]]++;
+    for (let i = 0; i < 256; i++) {
+      const p = freq[i] / sampleLen;
+      if (p > 0) entropy -= p * Math.log2(p);
+    }
+    entropy = Math.round(entropy * 100) / 100;
+  }
+
+  const highEntropy = entropy > 7.0;
+  findings.push({
+    label: 'File entropy',
+    value: `${entropy} bits/byte — ${highEntropy ? 'High (likely encrypted or packed)' : entropy > 5.5 ? 'Medium (compressed)' : 'Low (plaintext/structured)'}`,
+    status: highEntropy ? 'bad' : entropy > 5.5 ? 'warn' : 'good',
+    explanation: 'Shannon entropy measures randomness. High entropy (>7.0) indicates encryption, packing, or obfuscation.',
+    dataPath: [
+      `Calculated over first ${Math.min(fileBytes?.length ?? 0, 65536)} bytes`,
+      `Entropy: ${entropy} bits/byte`,
+      `Threshold for encrypted/packed: >7.0`,
+      highEntropy ? 'HIGH entropy — file may be encrypted, packed, or obfuscated' : 'Normal entropy range',
+    ],
+  });
+
+  // ─── 4. Executable warning ────────────────────────────────────────────────
+  if (isExecutable) {
+    findings.push({
+      label: '⚠ Executable file detected',
+      value: `${detectedType.label} — NOT an image or document`,
+      status: 'bad',
+      explanation: 'This file is an executable binary. Running untrusted executables is extremely dangerous.',
+      dataPath: [
+        `Magic bytes confirm: ${detectedType.label}`,
+        'Executable files can install malware, ransomware, or backdoors when run',
+        'Full malware analysis requires backend sandbox execution — not performed in browser',
+        'Recommendation: submit to VirusTotal before running',
+      ],
+      searchUrls: [
+        sha256 ? { url: `https://www.virustotal.com/gui/file/${sha256}`, label: 'VirusTotal hash lookup' } : null,
+        { url: 'https://www.virustotal.com/', label: 'VirusTotal file upload' },
+      ].filter(Boolean),
+    });
+  }
+
+  // ─── 5. String extraction ─────────────────────────────────────────────────
+  const strings = [];
+  if (fileBytes) {
+    let current = '';
+    for (let i = 0; i < Math.min(fileBytes.length, FILE_STRING_SCAN_LIMIT); i++) {
+      const c = fileBytes[i];
+      if (c >= 32 && c < 127) {
+        current += String.fromCharCode(c);
+      } else {
+        if (current.length >= 4) strings.push(current);
+        current = '';
+      }
+    }
+    if (current.length >= 4) strings.push(current);
+  }
+
+  const urls = strings.filter((s) => /https?:\/\/[^\s"'<>]{6,}/.test(s)).slice(0, 20);
+  const emails = strings.filter((s) => /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-z]{2,}/.test(s)).slice(0, 10);
+
+  if (urls.length > 0) {
+    findings.push({
+      label: `URLs extracted from file (${urls.length})`,
+      value: urls.slice(0, 3).join(' | '),
+      status: 'warn',
+      explanation: 'URLs extracted from printable strings in the file. Embedded URLs in executables/documents may indicate C2 connections or downloads.',
+      dataPath: urls.slice(0, 10).map((u) => `→ ${u.slice(0, 120)}`),
+    });
+  }
+
+  if (emails.length > 0) {
+    findings.push({
+      label: `Email addresses found (${emails.length})`,
+      value: emails.slice(0, 3).join(' | '),
+      status: 'info',
+      explanation: 'Email addresses embedded in the file — may belong to the author, target, or attacker.',
+      dataPath: emails.slice(0, 8).map((e) => `→ ${e.slice(0, 80)}`),
+    });
+  }
+
+  // ─── 6. Suspicious filename patterns ──────────────────────────────────────
+  const suspFilenamePatterns = [
+    { re: /\.(exe|dll|bat|cmd|ps1|vbs|js)\.pdf$/i, reason: 'Double extension hiding executable type' },
+    { re: /\.(pdf|docx|xlsx)\.(exe|dll|bat|cmd)$/i, reason: 'Document extension hiding executable' },
+    { re: /^[a-f0-9]{32,64}$/i, reason: 'Hash-like filename (often used by malware droppers)' },
+    { re: /update|installer|setup|crack|keygen|patch/i, reason: 'Common malware filename pattern' },
+  ];
+  for (const { re, reason } of suspFilenamePatterns) {
+    if (re.test(file.name)) {
+      findings.push({
+        label: 'Suspicious filename pattern',
+        value: `"${file.name}" — ${reason}`,
+        status: 'bad',
+        explanation: reason,
+        dataPath: [`Filename: ${file.name}`, `Matched pattern: ${re.toString()}`, reason],
+      });
+      break;
+    }
+  }
+
+  // ─── 7. Archive note ─────────────────────────────────────────────────────
+  if (isArchive) {
+    findings.push({
+      label: 'Archive file',
+      value: `${detectedType?.label ?? 'Archive'} — contents cannot be inspected in-browser`,
+      status: 'warn',
+      explanation: 'Archive files can contain multiple files including executables. Contents cannot be safely inspected client-side.',
+      dataPath: [
+        'Browser security prevents opening archive contents',
+        'Submit to VirusTotal or use a sandboxed environment to inspect',
+        isExecutable ? 'Archive contains executable headers — high risk' : 'No executable header detected in outer archive',
+      ],
+    });
+  }
+
+  // ─── 8. Risk scoring ──────────────────────────────────────────────────────
+  let riskScore = 0;
+  if (isExecutable) riskScore += 40;
+  if (highEntropy)  riskScore += 20;
+  if (!magicMatchesExt && detectedType) riskScore += 25;
+  const suspNameMatch = suspFilenamePatterns.some(({ re }) => re.test(file.name));
+  if (suspNameMatch) riskScore += 15;
+
+  const authenticityScore = Math.max(5, 100 - riskScore);
+
+  timeline.push({ label: 'Analysis complete', detail: `Risk score: ${riskScore}/100`, time: new Date().toISOString() });
+
+  return {
+    authenticityScore,
+    type: 'file',
+    fileName: file.name,
+    fileSize: `${(file.size / 1024).toFixed(1)} KB`,
+    fileHash: sha256 ? `SHA-256: ${sha256.slice(0, 16)}…` : null,
+    fileHashFull: sha256,
+    detectedType: detectedType?.label ?? 'unknown',
+    isExecutable,
+    isArchive,
+    isDocument,
+    isScript,
+    isImage,
+    fileEntropy: entropy,
+    extractedUrls: urls,
+    extractedEmails: emails,
+    extractedStrings: strings.slice(0, 100),
+    sources: [],
+    duplicates: [],
+    crossCheck: null,
+    imageAnalysis: null,
+    aiAnalysis: null,
+    skippedFeatures: [
+      { name: 'Cloud virus/malware scan', reason: 'Backend submission not yet available — client-side static analysis only', skipped: true },
+      { name: 'CA signature verification', reason: 'Requires server-side tooling (signtool, codesign, openssl) — not available in browser', skipped: true },
+      { name: 'Dynamic execution analysis', reason: 'File is never executed — static analysis only', skipped: true },
+    ],
+    findings,
+    timeline,
+    error: null,
+  };
+}
+
+/**
+ * Analyze an image file and return a scanResults-shaped object.
  *
  * Analysis capabilities:
  *  1. EXIF metadata extraction (camera, date, GPS, software)
@@ -1762,6 +2440,61 @@ async function analyzeImage(file) {
           ],
         });
       }
+
+      // Extended EXIF fields
+      if (parsed.FNumber != null) {
+        exifFindings.push({ label: 'Aperture (f-stop)', value: `f/${parsed.FNumber}`, status: 'info',
+          excerpt: `EXIF FNumber: ${parsed.FNumber}`, dataPath: [`EXIF FNumber: ${parsed.FNumber}`] });
+      }
+      if (parsed.ExposureTime != null) {
+        const exp = parsed.ExposureTime < 1 ? `1/${Math.round(1 / parsed.ExposureTime)}s` : `${parsed.ExposureTime}s`;
+        exifFindings.push({ label: 'Exposure time', value: exp, status: 'info',
+          excerpt: `EXIF ExposureTime: ${parsed.ExposureTime}`, dataPath: [`EXIF ExposureTime: ${parsed.ExposureTime}`] });
+      }
+      if (parsed.ISO != null) {
+        exifFindings.push({ label: 'ISO', value: String(parsed.ISO), status: 'info',
+          excerpt: `EXIF ISO: ${parsed.ISO}`, dataPath: [`EXIF ISO speed: ${parsed.ISO}`] });
+      }
+      if (parsed.FocalLength != null) {
+        exifFindings.push({ label: 'Focal length', value: `${parsed.FocalLength}mm`, status: 'info',
+          excerpt: `EXIF FocalLength: ${parsed.FocalLength}`, dataPath: [`EXIF FocalLength: ${parsed.FocalLength}mm`] });
+      }
+      if (parsed.Flash != null) {
+        exifFindings.push({ label: 'Flash', value: String(parsed.Flash), status: 'info',
+          excerpt: `EXIF Flash: ${parsed.Flash}`, dataPath: [`EXIF Flash value: ${parsed.Flash}`] });
+      }
+      if (parsed.WhiteBalance != null) {
+        exifFindings.push({ label: 'White balance', value: parsed.WhiteBalance === 0 ? 'Auto' : 'Manual', status: 'info',
+          excerpt: `EXIF WhiteBalance: ${parsed.WhiteBalance}`, dataPath: [`EXIF WhiteBalance: ${parsed.WhiteBalance}`] });
+      }
+      if (parsed.Orientation != null) {
+        const orientMap = { 1:'Normal', 2:'Mirrored', 3:'Rotated 180°', 4:'Mirrored vertical', 6:'Rotated 90° CW', 8:'Rotated 90° CCW' };
+        exifFindings.push({ label: 'Orientation', value: orientMap[parsed.Orientation] ?? `${parsed.Orientation}`, status: 'info',
+          excerpt: `EXIF Orientation: ${parsed.Orientation}`, dataPath: [`EXIF Orientation: ${parsed.Orientation} (${orientMap[parsed.Orientation] ?? 'unknown'})`] });
+      }
+      if (parsed.Copyright) {
+        exifFindings.push({ label: 'Copyright', value: parsed.Copyright, status: 'info',
+          excerpt: `EXIF Copyright: "${parsed.Copyright}"`, dataPath: [`EXIF Copyright field: "${parsed.Copyright}"`] });
+      }
+      if (parsed.Artist) {
+        exifFindings.push({ label: 'Artist / Author', value: parsed.Artist, status: 'info',
+          excerpt: `EXIF Artist: "${parsed.Artist}"`, dataPath: [`EXIF Artist field: "${parsed.Artist}"`] });
+      }
+      // UserComment / XPComment can contain hidden encoded data
+      const userComment = parsed.UserComment || parsed.XPComment;
+      if (userComment && typeof userComment === 'string' && userComment.trim()) {
+        const hasBase64 = /^[A-Za-z0-9+/]{20,}={0,2}$/.test(userComment.trim());
+        exifFindings.push({
+          label: 'User comment in EXIF',
+          value: userComment.slice(0, 80) + (userComment.length > 80 ? '…' : ''),
+          status: hasBase64 ? 'warn' : 'info',
+          excerpt: `EXIF UserComment: "${userComment.slice(0, 120)}"`,
+          dataPath: [
+            `EXIF UserComment / XPComment: "${userComment.slice(0, 120)}"`,
+            hasBase64 ? 'WARNING: Value looks like base64-encoded data — potential hidden payload' : 'Plain text comment',
+          ],
+        });
+      }
     }
   } catch (err) {
     logger.warn('EXIF extraction failed', { fileName: file?.name, error: err?.message });
@@ -1825,6 +2558,8 @@ async function analyzeImage(file) {
   let aspectRatioSuspicious = false;
   let overSaturated = false;
   let anomalousFileSize = false;
+  // Findings produced inside the canvas block (e.g. LSB steganography signal)
+  const canvasFindings = [];
 
   await new Promise((resolve) => {
     try {
@@ -1871,6 +2606,49 @@ async function analyzeImage(file) {
             compressionRatio = pixelCount > 0 ? file.size / pixelCount : 0;
             const imgExt = file.name.split('.').pop()?.toLowerCase() ?? '';
             anomalousFileSize = (imgExt === 'png' && compressionRatio > 4) || (imgExt === 'jpg' && compressionRatio > 2);
+
+            // LSB steganography detection — sample a larger region for bit-plane entropy
+            try {
+              const LSB_SIZE = 128;
+              const lsbCanvas = document.createElement('canvas');
+              lsbCanvas.width = LSB_SIZE;
+              lsbCanvas.height = LSB_SIZE;
+              const lsbCtx = lsbCanvas.getContext('2d');
+              lsbCtx.drawImage(img, 0, 0, LSB_SIZE, LSB_SIZE);
+              const lsbData = lsbCtx.getImageData(0, 0, LSB_SIZE, LSB_SIZE).data;
+              // Collect red-channel LSBs
+              const lsbBits = [];
+              for (let i = 0; i < lsbData.length; i += 4) lsbBits.push(lsbData[i] & 1);
+              const ones = lsbBits.reduce((s, b) => s + b, 0);
+              const p = ones / lsbBits.length;
+              // Shannon entropy of the LSB bit plane (max = 1 bit for balanced 0/1)
+              const lsbEntropy = p > 0 && p < 1 ? -(p * Math.log2(p) + (1 - p) * Math.log2(1 - p)) : 0;
+              // Histograms: count distinct RGB values in 4x4 blocks
+              const colorCounts = new Map();
+              for (let i = 0; i < lsbData.length; i += 16) {
+                const key = `${lsbData[i]},${lsbData[i+1]},${lsbData[i+2]}`;
+                colorCounts.set(key, (colorCounts.get(key) ?? 0) + 1);
+              }
+              const colorVariance = colorCounts.size / (lsbBits.length / 4);
+              // High LSB entropy (~1.0) + high color variance = possible LSB steganography
+              if (lsbEntropy > 0.95 && colorVariance > 0.7) {
+                canvasFindings.push({
+                  label: 'LSB steganography signal',
+                  value: `LSB entropy ${lsbEntropy.toFixed(3)}, color variance ${colorVariance.toFixed(3)}`,
+                  status: 'warn',
+                  excerpt: 'LSB bit-plane entropy near-maximum — possible hidden payload',
+                  dataPath: [
+                    `LSB entropy of red channel: ${lsbEntropy.toFixed(4)} (max = 1.0)`,
+                    `Color variance score: ${colorVariance.toFixed(4)}`,
+                    'High LSB entropy indicates the least-significant bits may carry hidden data',
+                    'Common tool: steghide, OpenStego, SilentEye',
+                    'Cannot confirm without steganographic key — treat as suspicious signal',
+                  ],
+                });
+              }
+            } catch {
+              // LSB analysis is best-effort
+            }
           } catch {
             // Canvas operations can fail in some environments — not critical
           }
@@ -2170,6 +2948,7 @@ async function analyzeImage(file) {
         ],
       }] : []),
       ...exifFindings.filter((f) => !['Camera', 'Date taken', 'GPS location', 'Edit software', 'EXIF'].includes(f.label)),
+      ...canvasFindings,
     ],
     timeline: [],
     error: null,
@@ -2229,7 +3008,12 @@ Reply in JSON only with this shape:
       });
       if (!res.ok) {
         const errText = await res.text().catch(() => '');
-        throw new Error(`Google AI error ${res.status}: ${res.statusText}. ${errText.slice(0, 120)}`);
+        let hint = '';
+        if (res.status === 404) hint = ` Model "${attemptModel}" not found — try gemini-1.5-flash (stable) or gemini-2.0-flash.`;
+        if (res.status === 403) hint = ` API key may lack permissions or Generative Language API is not enabled in your Google Cloud project.`;
+        if (res.status === 429) hint = ` Rate limit exceeded — wait a moment and retry.`;
+        if (res.status === 400 && errText.includes('API_KEY_INVALID')) hint = ` Invalid API key — check your key starts with "AIza".`;
+        throw new Error(`Google AI error ${res.status}: ${res.statusText}.${hint} ${errText.slice(0, 120)}`);
       }
       const data = await res.json();
       return data.candidates?.[0]?.content?.parts?.[0]?.text ?? '{}';
@@ -2450,6 +3234,10 @@ function App() {
         result = analyzeText(inputData.value, sourceFeed);
       } else if (inputData.type === 'image' && inputData.file) {
         result = await analyzeImage(inputData.file);
+      } else if (inputData.type === 'code') {
+        result = analyzeCodeSnippet(inputData.value);
+      } else if (inputData.type === 'file' && inputData.file) {
+        result = await analyzeFile(inputData.file);
       } else {
         result = {
           authenticityScore: 0,
@@ -2639,6 +3427,25 @@ function App() {
           onOpenSettings={() => setSettingsOpen(true)}
           hasUpdate={hasUpdate}
         />
+
+        {/* ── Capability cards hero section ────────────────────────────── */}
+        {!scanResults && !isScanning && (
+          <section className="capability-hero" aria-label="Analysis capabilities">
+            {[
+              { icon: '🔗', title: 'URL Security', desc: 'HTTPS, typosquatting, phishing brand check, bulletproof TLDs' },
+              { icon: '📝', title: 'Text Analysis', desc: 'Sentiment, dark patterns, email headers, link extraction' },
+              { icon: '💻', title: 'Code Safety',  desc: 'Static analysis for Bash, Python & PowerShell malware patterns' },
+              { icon: '🖼️', title: 'Image Forensics', desc: 'EXIF metadata, LSB steganography, AI-generation signals' },
+              { icon: '📁', title: 'File Inspection', desc: 'Magic bytes, entropy analysis, embedded URLs & strings' },
+            ].map(({ icon, title, desc }) => (
+              <div key={title} className="capability-card">
+                <span className="capability-icon">{icon}</span>
+                <strong className="capability-title">{title}</strong>
+                <p className="capability-desc">{desc}</p>
+              </div>
+            ))}
+          </section>
+        )}
 
         <main className="main-content" id="main-content">
           <InputSection

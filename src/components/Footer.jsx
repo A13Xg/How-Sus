@@ -30,7 +30,7 @@ export default function Footer() {
         <p className="footer-main">
           <span className="footer-logo">HowSus</span>
           <span className="footer-sep" aria-hidden="true">·</span>
-          News &amp; Media Authenticity Analyzer
+          Security &amp; Authenticity Analyzer
         </p>
 
         {/* Links */}
@@ -53,6 +53,11 @@ export default function Footer() {
         {/* About */}
         <p className="footer-sub">
           Fully client-side · No data leaves your browser · Results are heuristic estimates only
+        </p>
+
+        {/* Capabilities */}
+        <p className="footer-caps">
+          URL Security · Text Analysis · Code Safety · Image Forensics · File Inspection
         </p>
 
         {/* Disclaimer */}
