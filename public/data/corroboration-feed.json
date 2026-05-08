@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T01:12:46.037Z",
+  "generatedAt": "2026-05-08T12:53:02.198Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,122 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
-      "link": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 17:55:08 GMT",
-      "snippet": "Ther World Health Organization says it is not in the same situation as with Covid-19 because hantavirus spreads differently.",
+      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 05:57:08 GMT",
+      "snippet": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
-      "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 18:13:11 GMT",
-      "snippet": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
+      "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+      "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 08:43:55 GMT",
+      "snippet": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
-      "link": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 16:00:05 GMT",
-      "snippet": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
+      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+      "link": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 11:42:35 GMT",
+      "snippet": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
+      "link": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 11:14:17 GMT",
+      "snippet": "The Star Wars actor apologised and deleted the post, which contained an AI image of the president in a shallow grave.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Cyber attack disrupts swath of US universities and schools nationwide",
+      "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 12:27:02 GMT",
+      "snippet": "A hacking group breached the academic software Canvas, used by thousands of schools and universities acrosst the US",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Three dead after volcano erupts on Indonesian island",
+      "link": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 11:54:14 GMT",
+      "snippet": "Officials had previously issued warnings on climbing the active volcano due to safety concerns.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa president faces call to resign after court ruling",
+      "link": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 12:11:28 GMT",
+      "snippet": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Third British national has suspected hantavirus infection, UK government says",
+      "link": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 06:03:23 GMT",
+      "snippet": "The patient is on the remote Atlantic island of Tristan da Cunha, which was visited by the cruise ship in April.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US jet fuel could be used in Europe to ease possible shortages",
+      "link": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 10:56:52 GMT",
+      "snippet": "An international air body suggests wider acceptance of US-grade jet fuel could help to head off any supply problems.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Anti-war protests rock Japan as PM pushes for stronger defence",
+      "link": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 07 May 2026 22:15:51 GMT",
+      "snippet": "Japan's largest anti-war protests in decades highlight a population divided over changes to its pacifist constitution.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Rebel Wilson accused of 'complete revision of history' as defamation case closes",
+      "link": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 06:33:35 GMT",
+      "snippet": "The Bridesmaids star claims an actress retracted a complaint about sexual harassment by a producer.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump and Lula's private Oval Office meeting signals lingering strain - and effort to avoid tension",
+      "link": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 03:45:06 GMT",
+      "snippet": "The US and Brazilian presidents did not appear together publicly, but traded compliments after their talks.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
+      "link": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 05:07:55 GMT",
+      "snippet": "A third woman who also returned to Australia from Syria was charged with joining a terrorist organisation.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopian woman's joy at rare quintuplets after 12 years trying for a baby",
+      "link": "https://www.bbc.com/news/articles/c893y34zlv0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 06:48:20 GMT",
+      "snippet": "The woman, 35, says she was praying for a baby and was \"overjoyed\" to be \"blessed with five at once\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "World Cup fans in China and India face broadcast uncertainty",
+      "link": "https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 04:10:45 GMT",
+      "snippet": "Broadcasters in the two countries have yet to reach deals with Fifa, just weeks before the tournament is due to start.",
       "tier": 1
     },
     {
@@ -64,10 +160,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
-      "link": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 23:49:32 GMT",
-      "snippet": "A third woman who also returned to Australia from Syria was charged with joining a terrorist organisation.",
+      "title": "US to revoke passports of parents with child support debt",
+      "link": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 02:57:48 GMT",
+      "snippet": "Parents who have outstanding debt of more than $2,500 (€1,844) in child support payments could be impacted.",
       "tier": 1
     },
     {
@@ -80,6 +176,14 @@
     },
     {
       "source": "BBC World",
+      "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+      "link": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 07 May 2026 18:13:11 GMT",
+      "snippet": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Rwandan singer dies as he was being released from prison",
       "link": "https://www.bbc.com/news/articles/cevpxn0ddp9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 07 May 2026 16:12:50 GMT",
@@ -87,187 +191,83 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Five killed in huge fire at packed Mexico fairground",
-      "link": "https://www.bbc.com/news/articles/cq6py38q81ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 21:08:35 GMT",
-      "snippet": "The blaze in the south-eastern city of Villahermosa erupted during a concert reportedly attended by some 135,000 people.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US judge releases Jeffrey Epstein's purported suicide note",
-      "link": "https://www.bbc.com/news/articles/cd7pd0rqwreo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 11:14:59 GMT",
-      "snippet": "Epstein's former cellmate claims he found the note, which has not been verified by the BBC.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "China announces suspended death sentences for former defence ministers",
-      "link": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 12:24:55 GMT",
-      "snippet": "The announcement follows recent ousting of several top officials in China's military.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'I wouldn't pay it' - Trump on USA ticket price",
-      "link": "https://www.bbc.com/sport/football/articles/cdxpq70grzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 18:53:49 GMT",
-      "snippet": "US President Donald Trump says he \"wouldn't pay it either\" when asked about the potential ticket price to watch his country play Paraguay in their 2026 World Cup opener.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Valverde cut head when he 'accidentally hit table' in Tchouameni row",
-      "link": "https://www.bbc.com/sport/football/articles/c98r4218l73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 21:40:26 GMT",
-      "snippet": "Federico Valverde went to hospital after a dressing room row with Real Madrid team-mate Aurelien Tchouameni which left him with a head injury after he \"accidentally hit a table\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "South Africa condemns 'fake videos' of alleged xenophobic attacks",
-      "link": "https://www.bbc.com/news/articles/cx21g3vl63zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 13:25:14 GMT",
-      "snippet": "As claims of xenophobia in South Africa mount, Ghana calls on the African Union to send a fact-finding mission.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Disturbances and 127 arrests mar Paris party after PSG Champions League victory",
-      "link": "https://www.bbc.com/news/articles/czj2egv8elro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 12:19:53 GMT",
-      "snippet": "Fans took to the streets to celebrate the Paris team's qualification for the final, but celebrations were marred by disturbances.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Superdry co-founder James Holder jailed for rape",
-      "link": "https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 15:44:25 GMT",
-      "snippet": "James Holder's victim told her attacker he took her \"choice, dignity and body\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "German tourist wins payout after losing sun lounger race",
-      "link": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 00:41:21 GMT",
-      "snippet": "The man sued his tour operator for allowing people to reserve sun loungers with towels despite a hotel ban on the practice.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "DR Congo president hints at extending his term and delaying polls",
-      "link": "https://www.bbc.com/news/articles/c202dkkk70po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 10:06:39 GMT",
-      "snippet": "\"If the people want me to have a third term, I will accept,\" Tshisekedi says, with him due to step down in 2028.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
-      "link": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 03:20:25 GMT",
-      "snippet": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Top BJP leader's aide shot dead in violence after Indian state election",
-      "link": "https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 08:03:55 GMT",
-      "snippet": "Chandranath Rath was personal assistant to Suvendu Adhikari, front runner to become West Bengal's new chief minister.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Massive Alaska megatsunami was second largest ever recorded",
-      "link": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 06 May 2026 12:00:25 GMT",
-      "snippet": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+      "source": "NPR News",
+      "title": "U.S. intercepts Iranian attacks on 3 ships. And, what to know about hantavirus",
+      "link": "https://www.npr.org/2026/05/08/g-s1-121064/up-first-newsletter-iran-us-tennessee-congressional-maps-hantavirus-tariffs",
+      "publishedAt": "Fri, 08 May 2026 07:26:37 -0400",
+      "snippet": "The U.S. says it intercepted Iranian attacks yesterday targeting three Navy ships. And, what to know about the hantavirus outbreak that started on a cruise ship.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trade court strikes down a second round of Trump tariffs",
-      "link": "https://www.npr.org/2026/05/07/nx-s1-5815343/trade-court-strikes-down-10-percent-tariffs",
-      "publishedAt": "Thu, 07 May 2026 18:35:31 -0400",
-      "snippet": "The Court of International Trade has struck down a second round of global tariffs ordered by President Trump, after his earlier import taxes were outlawed by the U.S. Supreme Court.",
+      "title": "UAE reports drone and missile attack as Iran war ceasefire is challenged",
+      "link": "https://www.npr.org/2026/05/08/g-s1-121061/uae-reports-drone-and-missile-attack",
+      "publishedAt": "Fri, 08 May 2026 06:44:36 -0400",
+      "snippet": "The Iran war&apos;s shaky ceasefire was further strained on Friday as the United Arab Emirates responded to a missile and drone strikes.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S. military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz",
-      "link": "https://www.npr.org/2026/05/07/g-s1-120978/u-s-military-intercepted-iran-attacks-navy-ships-hormuz",
-      "publishedAt": "Thu, 07 May 2026 18:32:47 -0400",
-      "snippet": "The U.S. military also says that it \"targeted Iranian military facilities responsible for attacking U.S. forces.\" The exchange occurred Thursday as U.S. Navy destroyers transited the Strait of Hormuz, U.S. Central Command said in a social media post.",
+      "title": "Military drills on the edge: U.S. and allies test capabilities near Asia&apos;s flash points",
+      "link": "https://www.npr.org/2026/05/08/g-s1-120681/drills-us-allies-test-capabilities-asia-flash-points",
+      "publishedAt": "Fri, 08 May 2026 06:30:00 -0400",
+      "snippet": "From drone boats to long-range missiles, the U.S. and its allies tested new military tactics in the Philippines, sharpening deterrence as tensions with China intensify.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update",
-      "link": "https://www.npr.org/2026/05/07/nx-s1-5814761/hantavirus-likely-not-the-next-covid",
-      "publishedAt": "Thu, 07 May 2026 16:43:27 -0400",
-      "snippet": "The outbreak began in early April on a cruise ship. Now health authorities around the world are working to contain it. Here&apos;s what infectious disease experts have to say.",
+      "title": "Prices are up, but Mother&apos;s Day still means brunch",
+      "link": "https://www.npr.org/2026/05/08/nx-s1-5813684/prices-mothers-day-brunch-restaurants-flowers",
+      "publishedAt": "Fri, 08 May 2026 05:30:00 -0400",
+      "snippet": "It&apos;s the biggest day for America&apos;s restaurants, and one of the biggest for flower sales. Despite anxieties over rising gas prices, people are ready to splurge to celebrate.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "She helps families in need. As gas and grocery prices rise, she needs help, too",
-      "link": "https://www.npr.org/2026/05/07/nx-s1-5813500/gasoline-grocery-prices-increase-people-struggling",
-      "publishedAt": "Thu, 07 May 2026 16:34:41 -0400",
-      "snippet": "She has spent decades helping others struggling to make ends meet. Now the rising cost of gas and groceries has left Dalene Basden feeling the strain herself.",
+      "title": "Spain readies for evacuations as a hantavirus-hit cruise ship heads for Canary Islands",
+      "link": "https://www.npr.org/2026/05/08/g-s1-121055/spain-readies-for-evacuations",
+      "publishedAt": "Fri, 08 May 2026 05:29:59 -0400",
+      "snippet": "Spanish authorities are preparing to receive more than 140 passengers and crew members on board a hantavirus-stricken cruise ship headed for the Canary Islands.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "With legal briefs in, Supreme Court weighs telehealth access for the abortion pill",
-      "link": "https://www.npr.org/2026/05/07/nx-s1-5815294/abortion-pill-mifepristone-supreme-court-telemedicine",
-      "publishedAt": "Thu, 07 May 2026 16:33:54 -0400",
-      "snippet": "After an appeals court tried to end telemedicine access to mifepristone, one of the two pills used in a medication abortion, the Supreme Court stepped in. Here&apos;s what&apos;s happened and what&apos;s to come.",
+      "title": "What video got Kash Patel in the headlines this week? The quiz knows",
+      "link": "https://www.npr.org/2026/05/08/g-s1-120810/met-gala-fbi-lord-flies-banksy-gamestop",
+      "publishedAt": "Fri, 08 May 2026 05:01:00 -0400",
+      "snippet": "Plus: The Met Gala, GameStop, Canada and Banksy (again!).",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "A Trump council recommends overhauling FEMA. Here are 3 key changes",
-      "link": "https://www.npr.org/2026/05/07/nx-s1-5803121/trump-fema-reform-wildfire-flood-hurricane",
-      "publishedAt": "Thu, 07 May 2026 15:32:39 -0400",
-      "snippet": "A group of emergency experts wants the Trump administration to raise the bar for federal help after disasters, and also make it easier for survivors to get money quickly.",
+      "title": "European countries emerge as NATO leaders as U.S. role recedes",
+      "link": "https://www.npr.org/2026/05/08/nx-s1-5810515/us-war-trump-nato-iran-europe-canada-germany",
+      "publishedAt": "Fri, 08 May 2026 05:00:00 -0400",
+      "snippet": "President Trump&apos;s decision to leave NATO in the dark before launching strikes on Iran has inflamed tensions and is putting new urgency on rethinking the alliance.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "DHS blames funding lapse for shutdown of internal detention oversight",
-      "link": "https://www.npr.org/2026/05/07/g-s1-120834/trump-immigration-detention-ombudsman-shutdown",
-      "publishedAt": "Thu, 07 May 2026 15:05:16 -0400",
-      "snippet": "The office investigates detainee deaths and access to medical care, among other issues. It&apos;s being wound down, even as the number of detention deaths and length of detention stays has grown.",
+      "title": "With Spirit in liquidation, here&apos;s what happens next to its planes",
+      "link": "https://www.npr.org/2026/05/08/nx-s1-5812851/spirit-liquidation-next-step-planes",
+      "publishedAt": "Fri, 08 May 2026 05:00:00 -0400",
+      "snippet": "When Spirit Airlines stopped flying last weekend, it left more than 90 planes scattered across the country. Many will go back to the companies that own them, while Spirit tries to monetize the rest.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "A judge unsealed Epstein&apos;s purported 2019 suicide note. More documents could follow",
-      "link": "https://www.npr.org/2026/05/07/nx-s1-5814808/jeffrey-epstein-suicide-note",
-      "publishedAt": "Thu, 07 May 2026 14:56:15 -0400",
-      "snippet": "At the request of the New York Times , a judge unsealed a goodbye note that Jeffrey Epstein&apos;s former cellmate says he found after the convicted sex offender&apos;s first suicide attempt in July 2019.",
+      "title": "Trump&apos;s Truth Social lays bare narrow obsessions of an extremely online president",
+      "link": "https://www.npr.org/2026/05/08/nx-s1-5749358/trump-truth-social-online-posts-iran-white-house-ballroom",
+      "publishedAt": "Fri, 08 May 2026 05:00:00 -0400",
+      "snippet": "The bulk of the president&apos;s social media posts don&apos;t make news. But taken together they show what&apos;s on his mind as he leads the nation through war and domestic turmoil.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Tennessee Republicans pass a map to break up the state&apos;s lone Democratic House seat",
-      "link": "https://www.npr.org/2026/05/07/nx-s1-5815023/tennessee-redistricting-map-passage",
-      "publishedAt": "Thu, 07 May 2026 14:54:21 -0400",
-      "snippet": "Tennessee Republicans&apos; map would crack Shelby County — home to majority-Black Memphis — into three different districts, in an effort to eliminate the state&apos;s lone remaining Democratic-held seat.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Rubio visits Vatican amid escalating tensions between Trump and Pope Leo",
-      "link": "https://www.npr.org/2026/05/07/g-s1-120813/rubio-visits-vatican-amid-escalating-tensions-between-trump-and-pope-leo",
-      "publishedAt": "Thu, 07 May 2026 12:18:21 -0400",
-      "snippet": "Secretary of State Marco Rubio traveled to Rome in an effort to preserve a crucial relationship between Washington and the Holy See.",
+      "title": "David Attenborough celebrates his 100th birthday",
+      "link": "https://www.npr.org/2026/05/08/nx-s1-5802305/david-attenborough-celebrates-his-100th-birthday",
+      "publishedAt": "Fri, 08 May 2026 05:00:00 -0400",
+      "snippet": "He was born before the Great Depression, came of age in WWII, and is still making wildlife documentaries. Brits call David Attenborough a national hero, as he celebrates his 100th birthday.",
       "tier": 1
     },
     {
@@ -440,146 +440,106 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "US says it struck targets in Iran after attack on warships",
-      "link": "https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-top-1022-rdf",
+      "title": "Fertilizer shortages: What Africa&apos;s options during the Hormuz crisis?",
+      "link": "https://www.dw.com/en/fertilizer-shortages-what-africa-s-options-during-the-hormuz-crisis/a-77094073?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The US military said it targeted Iranian military facilities after Iran attacked three US destroyers transiting the Strait of Hormuz. President Donald Trump called the US strikes against Iran a \"love tap.\"",
+      "snippet": "The ongoing blockade of the Strait of Hormuz is affecting African nations particularly badly. But there are potential solutions for mitigating the drastic effects on the continent in the short, medium, and long term.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Trump gives EU until July 4 to implement trade deal",
-      "link": "https://www.dw.com/en/trump-gives-eu-until-july-4-to-implement-trade-deal/a-77087158?maca=en-rss-en-top-1022-rdf",
+      "title": "Pioneer in the fight against AIDS: Botswana&apos;s ex-President Festus Mogae died",
+      "link": "https://www.dw.com/en/pioneer-in-the-fight-against-aids-botswana-s-ex-president-festus-mogae-died/a-77095797?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Trump has threatened to impose higher tariffs on the bloc if it doesn&apos;t implement the trade deal agreed last year by his deadline.",
+      "snippet": "The former President of the Republic of Botswana, Festus Mogae, has died. The democrat was considered the architect of the Southern African country&apos;s economic rise and a pioneer in the fight against AIDS.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "War and peace: key themes of Pope Leo&apos;s first year in office",
+      "title": "Why Russia has scaled back May 9 Victory Parade",
+      "link": "https://www.dw.com/en/why-russia-has-scaled-back-may-9-victory-parade/a-77085264?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "This year&apos;s May 9 military parades in Moscow will be much more modest and have been canceled altogether in other parts of Russia. The Kremlin has blamed Ukraine.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: AfD benefits from discontent with Merz&apos;s government",
+      "link": "https://www.dw.com/en/germany-afd-benefits-from-discontent-with-merz-s-government/a-77094216?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Never before has a German government been this unpopular after only one year in office as that of Chancellor Friedrich Merz. The far-right AfD is capitalizing on this.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Exports jump higher than expected",
+      "link": "https://www.dw.com/en/germany-news-exports-jump-higher-than-expected/live-77092745?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Exports from Germany had risen at a time when many feared they would be in retreat because of punishing US tariffs. Meanwhile, one of Germany&apos;s biggest banks is set to cut jobs to fend off a takeover. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Hostage situation unfolds at German bank",
+      "link": "https://www.dw.com/en/hostage-situation-unfolds-at-german-bank/a-77092718?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Armed suspects have taken bank employees hostage after intercepting a cash transport at a small bank in a German town. Police have sealed off the area as special forces respond.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine, Russia trade attacks despite &apos;ceasefire&apos;",
+      "link": "https://www.dw.com/en/ukraine-russia-trade-attacks-despite-ceasefire/live-77091251?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russia had declared a unilateral ceasefire for World War II commemorations, but Ukraine said Moscow has not held off. Both sides reported new strikes. A Victory Day parade in Moscow will be more subdued this year.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "South Africa Constitutional Court orders Parliament to revisit Ramaphosa impeachment proceedings",
+      "link": "https://www.dw.com/en/south-africa-constitutional-court-orders-parliament-to-revisit-ramaphosa-impeachment-proceedings/a-77090630?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Cyril Ramaphosa&apos;s presidency is on the line, as lawmakers will now have to reconsider whether there are grounds to impeach him over the scandal dubbed \"Farmgate.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "China: Calls for death penalty after teen gets life sentence",
+      "link": "https://www.dw.com/en/china-calls-for-death-penalty-after-teen-gets-life-sentence/a-77090636?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A 14-year-old in China&apos;s Yunnan province has been convicted of intentional homicide and rape, and sentenced to life in prison. The victim&apos;s family argue he deserves the death penalty.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Indonesia volcano eruption kills 3 hikers, several missing",
+      "link": "https://www.dw.com/en/indonesia-volcano-eruption-kills-3-hikers-several-missing/a-77090871?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Rescuers are rushing to find missing hikers, three of whom have been declared dead after a volcanic eruption in eastern Indonesia.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "ASEAN leaders meet to discuss plans to ease Iran war impacts",
+      "link": "https://www.dw.com/en/asean-leaders-meet-to-discuss-plans-to-ease-iran-war-impacts/a-77090790?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Southeast Asian leaders are meeting in the Philippines, with the economic fallout from the Iran war the main focus. Disputes in the South China Sea and border clashes between Thailand and Cambodia are also on the agenda.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Tamil Nadu government takes shape after impasse",
+      "link": "https://www.dw.com/en/india-news-tamil-nadu-government-takes-shape-after-impasse/live-77089882?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Actor-politician Joseph Vijay&apos;s TVK party appears poised to form the next Tamil Nadu government after garnering support from other parties, ending days of political uncertainty. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "War and peace: Key themes of Pope Leo&apos;s first year in office",
       "link": "https://www.dw.com/en/war-and-peace-key-themes-of-pope-leo-s-first-year-in-office/a-77082601?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "One year after his election, Pope Leo XIV is regarded as an important counterweight to US President Trump. His intended direction for the Catholic Church remains unclear.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Vilseck, Germany: A town on edge over US troop withdrawal",
-      "link": "https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "If US President Donald Trump is serious, 5,000 US soldiers could be withdrawn from Germany. This would include the Stryker Brigade in Vilseck. The town is in shock.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Africa: A timeline of recurring waves of xenophobic violence",
-      "link": "https://www.dw.com/en/south-africa-a-timeline-of-recurring-waves-of-xenophobic-violence/a-77077874?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "For nearly two decades, South Africa has suffered recurring bouts of xenophobic attacks. From deadly riots in 2008 to the rise of Operation Dudula, thousand of foreign nationals have been displaced time and again.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "World Cup &apos;prices will drop&apos; but too late for traveling fans",
-      "link": "https://www.dw.com/en/world-cup-prices-will-drop-but-too-late-for-traveling-fans/a-77064560?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Among many firsts at World Cup 2026, FIFA has tried its hand at dynamic pricing and acting as a secondary seller. The tactic has seen a ticket listed for over $2 million but many games seem undersold. What&apos;s going on?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Australia: 3 women with IS links arrested on return home",
-      "link": "https://www.dw.com/en/australia-3-women-with-is-links-arrested-on-return-home/a-77079473?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The women flew back to Australia from Syria after years in a refugee camp. Children were also among the returnees.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Austria: Police report 3 dead in shooting in Linz, say no further danger to public",
-      "link": "https://www.dw.com/en/austria-police-report-3-dead-in-shooting-in-linz-say-no-further-danger-to-public/a-77081505?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Police in Austria report that three people have died after gunfire was heard in the city. Local media reported a large police presence in the north of the city. Police also said there was no ongoing threat to the public.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Is Russian oil becoming a lifeline for Southeast Asia?",
-      "link": "https://www.dw.com/en/is-russian-oil-becoming-a-lifeline-for-southeast-asia/a-77079277?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "With oil, gas and fertilizer imports squeezed by the Iran war, Southeast Asian governments are brushing off EU pressure and treating Russian energy as a tool of economic survival.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Marco Rubio meets Pope Leo at the Vatican",
-      "link": "https://www.dw.com/en/marco-rubio-meets-pope-leo-at-the-vatican/a-77073372?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The visit by the US secretary of state to the Vatican comes as President Donald Trump continues to disparage the Catholic leader over criticism of the Iran war.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Eurovision 2026: Politics collide with a blockbuster show",
-      "link": "https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Controversy over Israel&apos;s participation and boycotts unprecedented in scale are already weighing on the Eurovision Song Contest before it even kicks off in Vienna.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Hantavirus: WHO assesses public health risk as low",
-      "link": "https://www.dw.com/en/hantavirus-who-assesses-public-health-risk-as-low/live-77063670?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The WHO said it expects more cases to emerge given the long incubation period. But its doctors said the virus was very different to COVID and did not pose the same threat. Follow DW for the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "&apos;The threat is real.&apos; Why the EU is treating Chinese solar tech like a security threat.",
-      "link": "https://www.dw.com/en/the-threat-is-real-why-the-eu-is-treating-chinese-solar-tech-like-a-security-threat/a-77066865?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Europe&apos;s solar boom is powered by Chinese technology. But experts warn Chinese-made tech could threaten the continent&apos;s safety and even create blackouts. Now, Brussels is moving to reduce its dependence.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Coalition at odds over pay rises for MPs",
-      "link": "https://www.dw.com/en/germany-news-coalition-at-odds-over-pay-rises-for-mps/live-77073798?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "German conservatives want to hold on to automatic pay increases for lawmakers, while the center-left thinks they should skip it this year in light of the economic situation. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU reaches tentative deal on simpler AI rules, plans ban on &apos;nudifier&apos; apps",
-      "link": "https://www.dw.com/en/eu-reaches-tentative-deal-on-simpler-ai-rules-plans-ban-on-nudifier-apps/a-77073411?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In a provisional deal, the European Union has agreed on a ban on the use of AI for creating pornographic deepfakes and sexualized imagery. It has also agreed on amending certain rules within the EU&apos;s AI Act.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "&apos;Dark patterns&apos;: Investigating online manipulation",
-      "link": "https://www.dw.com/en/dark-patterns-investigating-online-manipulation/a-77072137?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ireland&apos;s media regulator is investigating Facebook and Instagram on suspicion that so-called dark patterns are used to manipulate users.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK votes in key local and regional elections",
-      "link": "https://www.dw.com/en/uk-votes-in-key-local-and-regional-elections/a-77073410?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Prime Minister Keir Starmer&apos;s Labour Party is expected to face major losses, perhaps spelling the end of his premiership. Reform, the Greens, Plaid Cymru and the SNP are all hoping to make gains.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "One year after India-Pakistan conflict, rival narratives persist",
-      "link": "https://www.dw.com/en/one-year-after-india-pakistan-conflict-rival-narratives-persist/live-77073167?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "On the anniversary of the India-Pakistan conflict, New Delhi and Islamabad remain divided over blame and Trump&apos;s role. Meanwhile, Modi said Operation Sindoor showcased India&apos;s resolve against terrorism. DW has more.",
       "tier": 2
     },
     {
@@ -588,6 +548,46 @@
       "link": "https://www.dw.com/en/celebrated-broadcaster-and-naturalist-david-attenborough-turns-100/a-76880848?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The still-sprightly centenarian has been knighted twice, nominated for the 2022 Nobel Peace Prize, and is perhaps the world&apos;s most recognizable nature lover.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Shakira teases official 2026 FIFA World Cup song",
+      "link": "https://www.dw.com/en/shakira-teases-official-2026-fifa-world-cup-song/a-77088590?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Colombian star unveils a clip of her singing the official World Cup 2026 song \"Dai Dai\" featuring Afrobeats artist Burna Boy.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US court deals fresh blow to Trump&apos;s 10% global tariff policy",
+      "link": "https://www.dw.com/en/us-court-deals-fresh-blow-to-trump-s-10-global-tariff-policy/a-77088575?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A US federal court said President Donald Trump overstepped his authority when he invoked a section of a 1974 trade law to enact the 10% global tariff policy.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Zelenskyy warns Russia&apos;s friends against attending parade",
+      "link": "https://www.dw.com/en/zelenskyy-warns-russia-s-friends-against-attending-parade/a-77087963?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Zelenskyy said he did \"not recommend\" that representatives of states allied with Russia attend the May 9 parade. Russian authorities also said they were concerned about possible Ukrainian attacks.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US says it struck targets in Iran after attack on warships",
+      "link": "https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US military said it targeted Iranian military facilities after Iran attacked three US destroyers transiting the Strait of Hormuz. President Donald Trump called the US strikes against Iran a \"love tap.\" Follow DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump gives EU until July 4 to implement trade deal",
+      "link": "https://www.dw.com/en/trump-gives-eu-until-july-4-to-implement-trade-deal/a-77087158?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Trump has threatened to impose higher tariffs on the bloc if it doesn&apos;t implement the trade deal agreed last year by his deadline.",
       "tier": 2
     }
   ]
