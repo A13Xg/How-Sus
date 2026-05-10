@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T01:17:32.421Z",
+  "generatedAt": "2026-05-10T12:43:14.989Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,18 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Lebanon says Israeli strikes killed 39",
-      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 21:23:14 GMT",
-      "snippet": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+      "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
+      "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 10:57:22 GMT",
+      "snippet": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+      "link": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 10:45:13 GMT",
+      "snippet": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
       "tier": 1
     },
     {
@@ -48,10 +56,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Tenerife medics poised for arrival of virus-hit cruise ship",
-      "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 10 May 2026 01:08:51 GMT",
-      "snippet": "BBC's Sarah Rainsford reports from the port in Tenerife where the MV Hondius is soon to dock, after a deadly hantavirus outbreak.",
+      "title": "Lebanon says Israeli strikes killed 39",
+      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 21:23:14 GMT",
+      "snippet": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel deports two activists detained on board Gaza flotilla",
+      "link": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 11:55:09 GMT",
+      "snippet": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
+      "link": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 03:09:45 GMT",
+      "snippet": "The Venerable Pallegama Hemarathana Thero holds one of the most revered positions in the Buddhist world.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Suspected boat explosion injures 11 in Miami",
+      "link": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 03:24:44 GMT",
+      "snippet": "Officials are investigating what caused the explosion at a popular marina in southern Florida.",
       "tier": 1
     },
     {
@@ -60,14 +92,6 @@
       "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 09 May 2026 14:36:21 GMT",
       "snippet": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran accuses US of 'reckless military adventure'",
-      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 06:13:30 GMT",
-      "snippet": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
       "tier": 1
     },
     {
@@ -112,6 +136,14 @@
     },
     {
       "source": "BBC World",
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 06:13:30 GMT",
+      "snippet": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "International cyber attack disrupts swathe of universities and schools",
       "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 09 May 2026 01:17:55 GMT",
@@ -136,58 +168,98 @@
     },
     {
       "source": "BBC World",
-      "title": "Greece examines mystery naval drone found in Ionian Sea",
-      "link": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 17:53:25 GMT",
-      "snippet": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
+      "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
+      "link": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 17:25:53 GMT",
+      "snippet": "The BBC's Russia editor reports from a Red Square with none of the military hardware which the Kremlin normally showcases to project power internationally.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Three dead after volcano erupts on Indonesian island",
-      "link": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 11:54:14 GMT",
-      "snippet": "Officials had previously issued warnings on climbing the active volcano due to safety concerns.",
+      "title": "Another year, another controversy for Eurovision - but fans are sticking by it",
+      "link": "https://www.bbc.com/news/articles/cqxp4959nwro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 23:03:37 GMT",
+      "snippet": "Fans are grappling with how to react to the withdrawal of Spain, Ireland and others over Israel's participation.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
-      "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 22:04:55 GMT",
-      "snippet": "The US has published transcripts, video clips and audio recordings about unidentified flying objects.",
+      "title": "Why Canada is seeing its biggest military recruitment surge in 30 years",
+      "link": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 23:00:55 GMT",
+      "snippet": "The country has seen its biggest military recruitment surge in 30 years, a major turnaround after years of falling behind on defence capabilities.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
-      "link": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 11:14:17 GMT",
-      "snippet": "The Star Wars actor apologised and deleted the post, which contained an AI image of the president in a shallow grave.",
+      "source": "NPR News",
+      "title": "Keir Starmer&apos;s party lost big in U.K. local elections. Here&apos;s what comes next.",
+      "link": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green",
+      "publishedAt": "Sun, 10 May 2026 08:27:36 -0400",
+      "snippet": "U.K. Prime Minister Keir Starmer&apos;s Labour party suffered major losses in local elections held across Britain last week. So far, Starmer has rejected calls for his resignation.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-      "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 08:43:55 GMT",
-      "snippet": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
+      "source": "NPR News",
+      "title": "Temple Israel rebuilds after terror attack",
+      "link": "https://www.npr.org/2026/05/10/nx-s1-5810635/temple-israel-rebuilds-after-terror-attack",
+      "publishedAt": "Sun, 10 May 2026 08:12:10 -0400",
+      "snippet": "Two months ago, a gunman drove through the preschool at Temple Israel, the largest synagogue in Michigan. Every child and teacher survived, but the community is still displaced and navigating the trauma of the attack.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "South Africa president faces call to resign after court ruling",
-      "link": "https://www.bbc.com/news/articles/cy4287vpvl7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 13:35:56 GMT",
-      "snippet": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
+      "source": "NPR News",
+      "title": "Happy Mother&apos;s Day to the kindest mom. P.S. Your kindness annoyed me when I was a kid",
+      "link": "https://www.npr.org/2026/05/10/g-s1-121099/mothers-day-mother-kindness-strangers",
+      "publishedAt": "Sun, 10 May 2026 07:40:42 -0400",
+      "snippet": "She and her siblings had to make tea for and share food with every visitor. That did not make her happy. Today she has a different perspective. So she finally asked her mom: What made you so kind?",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "US jet fuel could be used in Europe to ease possible shortages",
-      "link": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 14:42:13 GMT",
-      "snippet": "An international air body suggests wider acceptance of US-grade jet fuel could help to head off any supply problems.",
+      "source": "NPR News",
+      "title": "Of course we look for ourselves in art — but if we stop there, we&apos;re missing out",
+      "link": "https://www.npr.org/2026/05/10/nx-s1-5813510/lord-of-the-flies-netflix",
+      "publishedAt": "Sun, 10 May 2026 07:00:00 -0400",
+      "snippet": "As I watched the new series, I only cared about Piggy — the thoughtful, smart kid stranded on an island with other boys. That made me think about what we look for in art.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "How a pill approved 25 years ago transformed cancer treatment",
+      "link": "https://www.npr.org/2026/05/10/nx-s1-5779279/gleevec-leukemia-cancer-treatment",
+      "publishedAt": "Sun, 10 May 2026 07:00:00 -0400",
+      "snippet": "When the Food and Drug Administration approved Gleevec to treat a form of leukemia in 2001, it ushered in a new era in cancer care.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Cape Verde: Tiny nation, massive World Cup dream",
+      "link": "https://www.npr.org/2026/05/10/nx-s1-5796264/cape-verde-tiny-nation-massive-world-cup-dream",
+      "publishedAt": "Sun, 10 May 2026 06:00:00 -0400",
+      "snippet": "In Cape Verde, a small island nation off West Africa, World Cup qualification is transforming dreams on and off the pitch.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Iran ceasefire tested as cargo ship catches fire after being hit off Qatar&apos;s coast",
+      "link": "https://www.npr.org/2026/05/10/nx-s1-5817437/iran-cargo-ship-hit-off-qatar",
+      "publishedAt": "Sun, 10 May 2026 05:10:23 -0400",
+      "snippet": "A cargo ship caught fire Sunday after being hit by an unknown projectile off Qatar&apos;s coast, the British military said.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Gas, groceries and getting by: How voters in one Ohio district see affordability",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/05/10/g-s1-121112/ohio-voters-affordability-2026-midsterms-video",
+      "publishedAt": "Sun, 10 May 2026 05:00:00 -0400",
+      "snippet": "Ohio voters headed to the polls last week for primary elections, and in competitive districts like the one where Toledo is primarily located, the message was clear: affordability is a top priority.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Protests and boycotts rock prestigious Venice Biennale",
+      "link": "https://www.npr.org/2026/05/09/nx-s1-5817005/protests-and-boycotts-rock-prestigious-venice-biennale",
+      "publishedAt": "Sat, 09 May 2026 21:41:40 -0400",
+      "snippet": "The 61st edition of the international art event launched on Saturday in an atmosphere marked by geopolitical strife.",
       "tier": 1
     },
     {
@@ -196,78 +268,6 @@
       "link": "https://www.npr.org/2026/05/09/nx-s1-5804693/prevention-wildfires-firefighters-vegetation-wildland-fire-service",
       "publishedAt": "Sat, 09 May 2026 15:03:44 -0400",
       "snippet": "Brian Fennessy, new head of the U.S. Wildland Fire Service, says his agency is &apos;trying to bring on additional aircraft and bring them on early,&apos; and dismisses criticism of prevention methods.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at age 84",
-      "link": "https://www.npr.org/2026/05/09/g-s1-121311/bobby-cox-atlanta-braves-dies",
-      "publishedAt": "Sat, 09 May 2026 14:41:07 -0400",
-      "snippet": "The Braves announced Cox&apos;s death on Saturday. He managed the team to prominence during the 1990s and the team&apos;s only championship in 1995, before retiring after the 2010 season.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "CDC says threat of widespread outbreak of hantavirus remains low",
-      "link": "https://www.npr.org/2026/05/09/g-s1-121307/cdc-says-threat-of-widespread-outbreak-of-hantavirus-remains-low",
-      "publishedAt": "Sat, 09 May 2026 13:41:22 -0400",
-      "snippet": "As hantavirus has dominated headlines, sparking fears of another debilitating pandemic, the CDC stressed that the risk of sweeping contagion was small.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Frontier Airlines plane strikes and kills pedestrian",
-      "link": "https://www.npr.org/2026/05/09/g-s1-121305/frontier-airlines-plane-strikes-and-kills-pedestrian",
-      "publishedAt": "Sat, 09 May 2026 11:04:01 -0400",
-      "snippet": "Denver International Airport said the person had jumped a fence and dashed into the aircraft&apos;s path minutes before being struck.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "An expert on Iranian politics reviews the status of negotiations to end the war on Iran",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5814972/an-expert-on-iranian-politics-review-the-status-of-negotiations-to-end-the-war-on-iran",
-      "publishedAt": "Sat, 09 May 2026 07:43:02 -0400",
-      "snippet": "NPR&apos;s Elissa Nadworny talks to Mehrzad Boroujerdi of the Missouri University of Science and Technology about the status of the Trump Administration&apos;s negotiations to end the war on Iran.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Why saying hello to strangers can be good for you",
-      "link": "https://www.npr.org/2026/05/09/g-s1-119761/hello-greeting-strangers-benefit-social-ties",
-      "publishedAt": "Sat, 09 May 2026 07:20:44 -0400",
-      "snippet": "A study establishes that \"social ties\" — a fancy way of saying being nice to other, even those you don&apos;t know — has benefits. A teacher asked her students to test the thesis in real life.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "They graduate to six figure salaries, and grueling work",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5789051/merchant-marine-sealift-jobs",
-      "publishedAt": "Sat, 09 May 2026 06:00:00 -0400",
-      "snippet": "Cadets from the nation&apos;s Merchant Marine academies are finding lots of demand and great salaries because of a shortage of licensed mariners.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5812908/trump-midterms-redistricting-election",
-      "publishedAt": "Sat, 09 May 2026 06:00:00 -0400",
-      "snippet": "The Supreme Court weakened minority voting rights and prompted Republicans in four states to move to redistrict as part of Trump&apos;s push. A court nullified Democratic redistricting in Virginia.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Soccer was once considered niche in the U.S. Then came the 1994 World Cup",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5795791/2026-history-soccer-fifa-world-cup-fans",
-      "publishedAt": "Sat, 09 May 2026 06:00:00 -0400",
-      "snippet": "Soccer — or football as it&apos;s known around the globe — was far from mainstream in the U.S. leading up to the 1994 World Cup. But in the end, the tournament was considered a resounding success. How exactly did that happen?",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Moscow marks Victory Day with a Red Square parade under tight security",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5816876/russia-victory-day",
-      "publishedAt": "Sat, 09 May 2026 05:24:45 -0400",
-      "snippet": "Security was tight in Moscow as Putin and several foreign leaders attended the parade, even as a U.S.-brokered three-day ceasefire eased concerns about possible Ukrainian attempts to disrupt the festivities.",
       "tier": 1
     },
     {
@@ -440,18 +440,82 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Putin says he thinks Ukraine war is &apos;coming to an end&apos;",
-      "link": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-top-1022-rdf",
+      "title": "&apos;No comment&apos; after Schröder named by Putin for Ukraine talks",
+      "link": "https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The Russian president made the remarks as Moscow and Kyiv observe a three-day ceasefire in their four-year conflict.",
+      "snippet": "Russian President Vladimir Putin suggested that the former German chancellor serve as a mediator in Russia-Ukraine peace talks.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Hantavirus: WHO chief reassures Tenerife residents as Spain prepares for cruise ship&apos;s arrival",
-      "link": "https://www.dw.com/en/hantavirus-who-chief-reassures-tenerife-residents-as-spain-prepares-for-cruise-ship-s-arrival/live-77063670?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran war: Ceasefire tested by ship fire, drone attack",
+      "link": "https://www.dw.com/en/iran-war-ceasefire-tested-by-ship-fire-drone-attack/live-77102104?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The WHO chief has reassured Tenerife residents, as Spanish authorities prepare to receive the MV Hondius, the cruise ship at the center of the hantavirus outbreak.",
+      "snippet": "Kuwait detected several drones ​in its airspace and a ship was struck off Qatar as the ceasefire between the US and Iran is tested. Follow DW for more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Berlin: Fighting the city&apos;s young far-right scene",
+      "link": "https://www.dw.com/en/berlin-fighting-the-city-s-young-far-right-scene/a-77098275?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A recent police raid on Germany&apos;s neo-Nazi scene has revealed how alarmingly young some of its members are. But those targeted by this hatred are fighting back.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "The weaponization of shipping channels",
+      "link": "https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The crisis around the Strait of Hormuz focused attention on other maritime chokepoints. Experts warn that waterways like the Taiwan Strait or the Strait of Malacca are increasingly being used as geopolitical leverage.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Data centers: Tech boom with downsides",
+      "link": "https://www.dw.com/en/data-centers-tech-boom-with-downsides/a-77106191?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Data centers are energy-intensive engines of growth, the backbone and hub of digitalization. Thousands of them are being built all around the world. The Iran war has shown how vulnerable societies are as a result.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pakistan: Car bomb attack at checkpoint kills 15",
+      "link": "https://www.dw.com/en/pakistan-car-bomb-attack-at-checkpoint-kills-15/a-77108185?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The attack occurred in Bannu district of Khyber Pakhtunkhwa province, where militants drove an explosives‑laden vehicle into a police checkpoint.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Antisemitism in Germany, and the CDU&apos;s search for answers",
+      "link": "https://www.dw.com/en/antisemitism-in-germany-and-the-cdu-s-search-for-answers/a-77096960?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "German Chancellor Friedrich Merz&apos;s CDU party has been struggling to find the right words on how it intends to protect Jewish life in the capital. A recent declaration does not go far beyond calling for \"a clear stance.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Brazil judge suspends law that reduces Bolsonaro&apos;s jail term",
+      "link": "https://www.dw.com/en/brazil-judge-suspends-law-that-reduces-bolsonaro-s-jail-term/a-77107420?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Brazil&apos;s top court prohibited the implementation of legislation that would drastically cut former President Jair Bolsonaro&apos;s prison term.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Greek minister says mystery drone from a &apos;foreign state&apos;",
+      "link": "https://www.dw.com/en/greek-minister-says-mystery-drone-from-a-foreign-state/a-77107116?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A Greek military source said the flying robot, found this week off the island of Lefkada, may have been Ukrainian. Kyiv has admitted using drones to target Russian oil tankers in the Mediterranean.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Putin says he thinks Ukraine war is &apos;coming to an end&apos;",
+      "link": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Russian president made the remarks as Moscow and Kyiv observe a three-day ceasefire in their four-year conflict.",
       "tier": 2
     },
     {
@@ -488,10 +552,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Surf&apos;s up again in Munich!",
-      "link": "https://www.dw.com/en/germany-news-surf-s-up-again-in-munich/live-77103139?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany news: Berlin advances Tomahawk, submarine deals",
+      "link": "https://www.dw.com/en/germany-news-berlin-advances-tomahawk-submarine-deals/live-77103139?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The Bavarian capital Munich has long been an unlikely travel hotspot for surfers, and the Eisbach wave is open once again. Meanwhile, Germany is about to use all the resources it should have for 2026. DW has the latest.",
+      "snippet": "Germany is reviving its bid for US Tomahawk missiles, according to the Financial Times. Meanwhile, Vice Chancellor Lars Klingbeil is in Canada to strengthen ties, including a possible submarine deal. DW has the latest.",
       "tier": 2
     },
     {
@@ -524,70 +588,6 @@
       "link": "https://www.dw.com/en/germany-s-sugar-tax-sparks-nanny-state-debate/a-77083208?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Friedrich Merz&apos;s government has agreed to introduce a sugar levy on soft drinks as part of its health care reforms. Critics have called it disproportionate interference, but dozens of countries already have such a levy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Journalist found dead in Colombia&apos;s conflict zone",
-      "link": "https://www.dw.com/en/journalist-found-dead-in-colombia-s-conflict-zone/a-77102110?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Mateo Perez, a 25-year-old Colombian reporter, reportedly went missing on May 5 after being detained by guerrilla members at a roadblock.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Mexico to shorten school year due to World Cup, summer heat",
-      "link": "https://www.dw.com/en/mexico-to-shorten-school-year-due-to-world-cup-summer-heat/a-77101994?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Mexican authorities announced a decision to end the academic year earlier than planned because of the World Cup and a heat wave. But the decision sparked backlash from parents&apos; groups and teachers.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: US expecting Tehran&apos;s response to proposed deal",
-      "link": "https://www.dw.com/en/iran-war-us-expecting-tehran-s-response-to-proposed-deal/live-77102104?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "President Donald Trump said Washington was expecting an answer from Tehran over a proposed deal to set up talks to end the war by Friday night Eastern time. Follow live.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Canvas education platform back online after cyberattack",
-      "link": "https://www.dw.com/en/canvas-education-platform-back-online-after-cyberattack/a-77101219?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The hacker group ShinyHunters had sought to extort universities before the cyberattack on the Canvas education platform took place.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pakistan: Drop in Gulf remittances puts families on edge",
-      "link": "https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "For millions of households, money sent by Pakistani workers in the Gulf offers a lifeline, helping their families cover basic needs such as food and education.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump announces 3-day ceasefire between Ukraine and Russia",
-      "link": "https://www.dw.com/en/trump-announces-3-day-ceasefire-between-ukraine-and-russia/live-77091251?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US president said both sides had agreed to halt fighting from May 9 to 11 and to exchange 1,000 prisoners each. Both Ukraine and Russia confirmed the ceasefire and prisoner exchange. Follow DW for more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US: Pentagon releases trove of classified UFO files",
-      "link": "https://www.dw.com/en/us-pentagon-releases-trove-of-classified-ufo-files/a-77100163?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump hailed his government&apos;s move to release over a 100 UFO-related documents as \"complete and maximum transparency.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How real is a coup threat against Russia&apos;s president?",
-      "link": "https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Increased security around Vladimir Putin and a scaling back of public appearances have given rise to suspicions of a coup or assassination attempt. Yet some observers remain skeptical.",
       "tier": 2
     }
   ]
