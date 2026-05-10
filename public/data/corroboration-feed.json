@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T12:43:05.068Z",
+  "generatedAt": "2026-05-10T01:17:32.421Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,34 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Putin denounces Nato at scaled back Victory Day parade",
-      "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 12:18:58 GMT",
-      "snippet": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
+      "title": "Lebanon says Israeli strikes killed 39",
+      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 21:23:14 GMT",
+      "snippet": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+      "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 00:46:07 GMT",
+      "snippet": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Tenerife medics poised for arrival of virus-hit cruise ship",
+      "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 01:08:51 GMT",
+      "snippet": "BBC's Sarah Rainsford reports from the port in Tenerife where the MV Hondius is soon to dock, after a deadly hantavirus outbreak.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
+      "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 14:36:21 GMT",
+      "snippet": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
       "tier": 1
     },
     {
@@ -48,26 +72,42 @@
     },
     {
       "source": "BBC World",
-      "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
-      "link": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 00:15:58 GMT",
-      "snippet": "Some on the Spanish island worry the imminent arrival of the MV Hondius could pose a health risk.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
-      "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 22:04:55 GMT",
-      "snippet": "The US has published transcripts, video clips and audio recordings about unidentified flying objects.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Hungary's new PM to be sworn in during 'regime change' party",
+      "title": "I will serve - not rule over Hungary, says new PM",
       "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 09:13:23 GMT",
+      "publishedAt": "Sat, 09 May 2026 15:12:04 GMT",
       "snippet": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran demands guarantees for World Cup participation",
+      "link": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 18:44:01 GMT",
+      "snippet": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canada.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Greece conducts controlled blast of mystery naval drone explosives",
+      "link": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 18:00:46 GMT",
+      "snippet": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Mexican parents criticise ending school year a month early for World Cup",
+      "link": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 19:40:55 GMT",
+      "snippet": "The federal government faces widespread anger for saying the school year could end on 5 June to accommodate the football tournament.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Person killed after being hit by plane on runway at Denver airport",
+      "link": "https://www.bbc.com/news/articles/c5y95782wyko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 17:28:59 GMT",
+      "snippet": "The unidentified individual had jumped a perimeter fence two minutes before being struck by the airliner.",
       "tier": 1
     },
     {
@@ -80,6 +120,22 @@
     },
     {
       "source": "BBC World",
+      "title": "Japanese council votes to remove unconscious mayor",
+      "link": "https://www.bbc.com/news/articles/clypw9w907zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 12:12:19 GMT",
+      "snippet": "Kikuo Hatakeyama, 72, has served as the mayor of Hachirogata in north-east Japan since 2008, but fell ill in February.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
+      "link": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 09 May 2026 14:03:11 GMT",
+      "snippet": "The Ministry of Defence says the ship will prepare to join an international mission to safeguard shipping, but only when fighting in the region ends.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Greece examines mystery naval drone found in Ionian Sea",
       "link": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 08 May 2026 17:53:25 GMT",
@@ -88,18 +144,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Australian by-election a litmus test for right-wing One Nation Party",
-      "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 09:33:27 GMT",
-      "snippet": "Victory for the populist party in Farrer, New South Wales, would see One Nation's first MP elected to Australia's national parliament.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Three dead after volcano erupts on Indonesian island",
       "link": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 08 May 2026 11:54:14 GMT",
       "snippet": "Officials had previously issued warnings on climbing the active volcano due to safety concerns.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon",
+      "link": "https://www.bbc.com/news/articles/c1m2epkey44o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 08 May 2026 22:04:55 GMT",
+      "snippet": "The US has published transcripts, video clips and audio recordings about unidentified flying objects.",
       "tier": 1
     },
     {
@@ -135,59 +191,35 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Rebel Wilson accused of 'complete revision of history' as defamation case closes",
-      "link": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 06:33:35 GMT",
-      "snippet": "The Bridesmaids star claims an actress retracted a complaint about sexual harassment by a producer.",
+      "source": "NPR News",
+      "title": "&apos;We&apos;re dry:&apos; The new U.S. Wildland Fire Service prepares for extreme fire season",
+      "link": "https://www.npr.org/2026/05/09/nx-s1-5804693/prevention-wildfires-firefighters-vegetation-wildland-fire-service",
+      "publishedAt": "Sat, 09 May 2026 15:03:44 -0400",
+      "snippet": "Brian Fennessy, new head of the U.S. Wildland Fire Service, says his agency is &apos;trying to bring on additional aircraft and bring them on early,&apos; and dismisses criticism of prevention methods.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Two Islamic-State linked Australian women charged with crimes against humanity",
-      "link": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 05:07:55 GMT",
-      "snippet": "A third woman who also returned to Australia from Syria was charged with joining a terrorist organisation.",
+      "source": "NPR News",
+      "title": "Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at age 84",
+      "link": "https://www.npr.org/2026/05/09/g-s1-121311/bobby-cox-atlanta-braves-dies",
+      "publishedAt": "Sat, 09 May 2026 14:41:07 -0400",
+      "snippet": "The Braves announced Cox&apos;s death on Saturday. He managed the team to prominence during the 1990s and the team&apos;s only championship in 1995, before retiring after the 2010 season.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Ethiopian woman's joy at rare quintuplets after 12 years trying for a baby",
-      "link": "https://www.bbc.com/news/articles/c893y34zlv0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 06:48:20 GMT",
-      "snippet": "The woman, 35, says she was praying for a baby and was \"overjoyed\" to be \"blessed with five at once\".",
+      "source": "NPR News",
+      "title": "CDC says threat of widespread outbreak of hantavirus remains low",
+      "link": "https://www.npr.org/2026/05/09/g-s1-121307/cdc-says-threat-of-widespread-outbreak-of-hantavirus-remains-low",
+      "publishedAt": "Sat, 09 May 2026 13:41:22 -0400",
+      "snippet": "As hantavirus has dominated headlines, sparking fears of another debilitating pandemic, the CDC stressed that the risk of sweeping contagion was small.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "World Cup fans in China and India face broadcast uncertainty",
-      "link": "https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 04:10:45 GMT",
-      "snippet": "Broadcasters in the two countries have yet to reach deals with Fifa, just weeks before the tournament is due to start.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
-      "link": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 07 May 2026 23:11:35 GMT",
-      "snippet": "Trump's deadline to the European Union came as a trade court ruled his global tariff policy violated US law.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US to revoke passports of parents with child support debt",
-      "link": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 02:57:48 GMT",
-      "snippet": "Parents who have outstanding debt of more than $2,500 (€1,844) in child support payments could be impacted.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Return of IS-linked families sparks debate in terror-traumatised Australia",
-      "link": "https://www.bbc.com/news/articles/cedplx04ew0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 08 May 2026 19:21:12 GMT",
-      "snippet": "Most Australians do not want the women and children to come home, but advocates say they're in danger.",
+      "source": "NPR News",
+      "title": "Frontier Airlines plane strikes and kills pedestrian",
+      "link": "https://www.npr.org/2026/05/09/g-s1-121305/frontier-airlines-plane-strikes-and-kills-pedestrian",
+      "publishedAt": "Sat, 09 May 2026 11:04:01 -0400",
+      "snippet": "Denver International Airport said the person had jumped a fence and dashed into the aircraft&apos;s path minutes before being struck.",
       "tier": 1
     },
     {
@@ -208,6 +240,14 @@
     },
     {
       "source": "NPR News",
+      "title": "They graduate to six figure salaries, and grueling work",
+      "link": "https://www.npr.org/2026/05/09/nx-s1-5789051/merchant-marine-sealift-jobs",
+      "publishedAt": "Sat, 09 May 2026 06:00:00 -0400",
+      "snippet": "Cadets from the nation&apos;s Merchant Marine academies are finding lots of demand and great salaries because of a shortage of licensed mariners.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
       "title": "Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia",
       "link": "https://www.npr.org/2026/05/09/nx-s1-5812908/trump-midterms-redistricting-election",
       "publishedAt": "Sat, 09 May 2026 06:00:00 -0400",
@@ -216,18 +256,10 @@
     },
     {
       "source": "NPR News",
-      "title": "How the 1994 World Cup kicked off America&apos;s love affair with soccer",
+      "title": "Soccer was once considered niche in the U.S. Then came the 1994 World Cup",
       "link": "https://www.npr.org/2026/05/09/nx-s1-5795791/2026-history-soccer-fifa-world-cup-fans",
       "publishedAt": "Sat, 09 May 2026 06:00:00 -0400",
       "snippet": "Soccer — or football as it&apos;s known around the globe — was far from mainstream in the U.S. leading up to the 1994 World Cup. But in the end, the tournament was considered a resounding success. How exactly did that happen?",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "They graduate to six figure salaries, and grueling work",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5789051/merchant-marine-sealift-jobs",
-      "publishedAt": "Sat, 09 May 2026 06:00:00 -0400",
-      "snippet": "Cadets from the nation&apos;s Merchant Marine academies are finding lots of demand and great salaries because of a shortage of licensed mariners.",
       "tier": 1
     },
     {
@@ -239,35 +271,75 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "What is a radical? It&apos;s the question of M.I.A.&apos;s vexing career",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5814978/mia-politics-cudi-tour-conspiracy-theories",
-      "publishedAt": "Sat, 09 May 2026 05:00:00 -0400",
-      "snippet": "Fans who danced to \"Paper Planes\" might hardly recognize the conspiracy-touting artist before them today — but in a certain way, she&apos;s the same button-pusher as ever.",
+      "source": "PBS Headlines",
+      "title": "Moscow holds scaled-back Victory Day Parade under heavy security",
+      "link": "https://www.pbs.org/newshour/world/moscow-holds-scaled-back-victory-day-parade-under-heavy-security",
+      "publishedAt": "Sat, 09 May 2026 18:40:43 -0400",
+      "snippet": "Russian President Vladimir Putin on Saturday voiced confidence in a victory in Ukraine as he oversaw a military parade on Red Square commemorating the defeat of Nazi Germany in World War II.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "National mood is against Republicans, but redistricting could help prop them up",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5816246/redistricting-trump-republicans-midterms",
-      "publishedAt": "Sat, 09 May 2026 05:00:00 -0400",
-      "snippet": "The national political landscape looks bad for President Trump and Republicans, but recent wins in the redistricting fight could soften the blow they might have suffered without them.",
+      "source": "PBS Headlines",
+      "title": "Surfers in war-torn Gaza find rare moments of joy in the waves",
+      "link": "https://www.pbs.org/newshour/world/surfers-in-war-torn-gaza-find-rare-moments-of-joy-in-the-waves",
+      "publishedAt": "Sat, 09 May 2026 16:42:28 -0400",
+      "snippet": "Despite the dire humanitarian crisis across the Gaza Strip, where a fragile ceasefire remains in place, a handful of Palestinian surfers are finding joy — and relief — riding the waves of the territory's Mediterranean coastal waters.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "ABC argues Trump administration is trying to chill free speech",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5816844/abc-trump-administration-free-speech",
-      "publishedAt": "Sat, 09 May 2026 00:37:43 -0400",
-      "snippet": "In a filing, ABC accuses the Trump administration of trying to chill its constitutionally protected free speech. The point of contention: \"The View,\" and whether it&apos;s subject to equal time rules.",
+      "source": "PBS Headlines",
+      "title": "Fragile Iran ceasefire appears to hold as Iran warns the U.S. against attacks on its oil tankers and other ships",
+      "link": "https://www.pbs.org/newshour/world/fragile-iran-ceasefire-appears-to-hold-as-iran-warns-the-u-s-against-attacks-on-its-oil-tankers-and-other-ships",
+      "publishedAt": "Sat, 09 May 2026 16:07:45 -0400",
+      "snippet": "Iran's Revolutionary Guard navy on Saturday warned that any attack on Iranian oil tankers or commercial vessels would be met with a \"heavy assault\" on one of the U.S. bases in the region and enemy ships, even as a tenuous ceasefire appeared to be holding.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire",
-      "publishedAt": "Sat, 09 May 2026 00:04:26 -0400",
-      "snippet": "President Volodymyr Zelenskyy and Yuri Ushakov, President Vladimir Putin&apos;s foreign affairs adviser, both confirmed the agreement for a three-day ceasefire and an exchange of prisoners.",
+      "source": "PBS Headlines",
+      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak",
+      "link": "https://www.pbs.org/newshour/health/medical-epidemiologist-explains-what-to-know-about-the-cruise-ship-hantavirus-outbreak",
+      "publishedAt": "Sat, 09 May 2026 15:21:00 -0400",
+      "snippet": "A medical epidemiologist explains what you need to know about the hantavirus virus and how the outbreak is playing out.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Bobby Cox, longtime Braves manager and Hall of Famer, dies at 84",
+      "link": "https://www.pbs.org/newshour/nation/bobby-cox-longtime-braves-manager-and-hall-of-famer-dies-at-84",
+      "publishedAt": "Sat, 09 May 2026 14:41:34 -0400",
+      "snippet": "Bobby Cox, the folksy manager of the Atlanta Braves whose teams ruled the National League during the 1990s and gave the city its first major title as well as World Series trips that fell short, died Saturday. He was 84.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Israeli drone strikes kill 4 near Beirut as southern airstrikes kill at least 13",
+      "link": "https://www.pbs.org/newshour/world/israeli-drone-strikes-kill-4-near-beirut-as-southern-airstrikes-kill-at-least-13",
+      "publishedAt": "Sat, 09 May 2026 14:12:53 -0400",
+      "snippet": "The three drone strikes south of Beirut marked another escalation since a ceasefire between Israel and Hezbollah went into effect on April 17.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Rescuers find 1 body after volcano eruption in Indonesia as search continues for 2 more",
+      "link": "https://www.pbs.org/newshour/world/rescuers-find-1-body-after-volcano-eruption-in-indonesia-as-search-continues-for-2-more",
+      "publishedAt": "Sat, 09 May 2026 12:48:06 -0400",
+      "snippet": "Rescuers on Saturday recovered the body of an Indonesian woman who was caught in a volcanic eruption at Mount Dukono a day earlier, as search operations continued to find the bodies of two Singaporeans, officials said.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Pedestrian killed after being struck by Frontier Airlines plane taking off in Denver",
+      "link": "https://www.pbs.org/newshour/nation/pedestrian-killed-after-being-struck-by-frontier-airlines-plane-taking-off-in-denver",
+      "publishedAt": "Sat, 09 May 2026 12:28:59 -0400",
+      "snippet": "A Frontier Airlines plane hit and killed a pedestrian on the runway of the Denver International Airport during takeoff, airport authorities said, sparking an engine fire and forcing passengers to evacuate.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "The latest congressional redistricting changes and what to know",
+      "link": "https://www.pbs.org/newshour/politics/the-latest-congressional-redistricting-changes-and-what-to-know",
+      "publishedAt": "Sat, 09 May 2026 11:35:16 -0400",
+      "snippet": "The remaking of the U.S. political map accelerated this week in courts and legislatures. Here's a look at where things stand.",
       "tier": 1
     },
     {
@@ -359,83 +431,59 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Trump is lifting restrictions on hunting in national parks and other areas",
-      "link": "https://www.pbs.org/newshour/politics/trump-is-lifting-restrictions-on-hunting-in-national-parks-and-other-areas",
-      "publishedAt": "Fri, 08 May 2026 17:31:24 -0400",
-      "snippet": "President Donald Trump's administration is quietly pushing national park, refuge and wilderness area managers to dramatically scale back hunting restrictions, raising questions about visitor safety and the impact on wildlife.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "White House Correspondents' Dinner suspect seeks recusal of top DOJ officials",
-      "link": "https://www.pbs.org/newshour/politics/white-house-correspondents-dinner-suspect-seeks-recusal-of-top-doj-officials",
-      "publishedAt": "Fri, 08 May 2026 16:44:12 -0400",
-      "snippet": "A man charged with attacking the White House Correspondents' Association dinner is seeking to disqualify top Justice Department officials from direct involvement in prosecuting him because they could be considered victims or witnesses in the case, creating a potential conflict of",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "What we don't know about the hantavirus outbreak on the cruise ship",
-      "link": "https://www.pbs.org/newshour/health/what-we-dont-know-about-the-hantavirus-outbreak-on-the-cruise-ship",
-      "publishedAt": "Fri, 08 May 2026 16:35:00 -0400",
-      "snippet": "Authorities and the cruise operator have been providing updates, but some key information is still lacking.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "A state-by-state guide to the redistricting fight",
-      "link": "https://www.pbs.org/newshour/politics/a-state-by-state-guide-to-the-redistricting-fight",
-      "publishedAt": "Fri, 08 May 2026 16:18:46 -0400",
-      "snippet": "Republicans have opened up an advantage in a national redistricting battle among states after a pair of court rulings that weakened federal Voting Rights Act protections for minorities and invalidated a key Democratic redistricting effort.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Alabama lawmakers pass plan for new U.S. House primary if courts allow different districts",
-      "link": "https://www.pbs.org/newshour/politics/alabama-lawmakers-pass-plan-for-new-u-s-house-primary-if-courts-allow-different-districts",
-      "publishedAt": "Fri, 08 May 2026 15:36:51 -0400",
-      "snippet": "Demonstrators outside the Alabama Statehouse on Friday shouted \"fight for democracy\" and \"down with white supremacy.\"",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire, prisoner swap",
-      "link": "https://www.pbs.org/newshour/world/trump-says-russia-and-ukraine-have-agreed-to-his-request-for-a-3-day-ceasefire-prisoner-swap",
-      "publishedAt": "Fri, 08 May 2026 15:07:25 -0400",
-      "snippet": "President Donald Trump announced on social media that the ceasefire would run Saturday through Monday. Saturday is Victory Day in Russia, a holiday that commemorates its victory over Nazi Germany 81 years ago in World War II.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump drives across Lincoln Memorial Reflecting Pool to inspect blue coating he's adding",
-      "link": "https://www.pbs.org/newshour/politics/trump-drives-across-lincoln-memorial-reflecting-pool-to-inspect-blue-coating-hes-adding",
-      "publishedAt": "Fri, 08 May 2026 13:42:11 -0400",
-      "snippet": "President Donald Trump on Thursday went on an unannounced trip to the Lincoln Memorial to see the Reflecting Pool after he had it coated in a color he calls \"American flag blue.\"",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Judge finds Trump's DOGE-led cancellation of humanities grants unconstitutional",
-      "link": "https://www.pbs.org/newshour/politics/judge-finds-trumps-doge-led-cancellation-of-humanities-grants-unconstitutional",
-      "publishedAt": "Fri, 08 May 2026 13:06:36 -0400",
-      "snippet": "The Trump administration's cancellation of more than $100 million in humanities grants to scholars, writers, research groups and other organizations was unconstitutional, and the Department of Government Efficiency had no authority to end the funding, a federal judge ruled on Thu",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Happy birthday, David Attenborough. The man behind the excited but hushed voice of nature programs turns 100",
-      "link": "https://www.pbs.org/newshour/world/happy-birthay-david-attenborough-the-man-behind-the-excited-but-hushed-voice-of-nature-programs-turns-100",
-      "publishedAt": "Fri, 08 May 2026 12:45:14 -0400",
-      "snippet": "The BBC is hosting a party at the Royal Albert Hall, and cinemas are playing his nature films - but despite the accolades, Attenborough prefers the animals to be the stars.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Putin says he thinks Ukraine war is &apos;coming to an end&apos;",
+      "link": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Russian president made the remarks as Moscow and Kyiv observe a three-day ceasefire in their four-year conflict.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Hantavirus: WHO chief reassures Tenerife residents as Spain prepares for cruise ship&apos;s arrival",
+      "link": "https://www.dw.com/en/hantavirus-who-chief-reassures-tenerife-residents-as-spain-prepares-for-cruise-ship-s-arrival/live-77063670?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The WHO chief has reassured Tenerife residents, as Spanish authorities prepare to receive the MV Hondius, the cruise ship at the center of the hantavirus outbreak.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Hungary: Peter Magyar sworn in as prime minister",
+      "link": "https://www.dw.com/en/hungary-peter-magyar-sworn-in-as-prime-minister/a-77104888?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Peter Magyar vowed to implement wide-ranging reforms after winning a landslide election last month, ending Viktor Orban&apos;s 16 years in power.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Australian far-right party wins first lower house seat",
+      "link": "https://www.dw.com/en/australian-far-right-party-wins-first-lower-house-seat/a-77104689?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The far-right populist One Nation party has won its first seat in Australia&apos;s House of Representatives.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Tariffs or not? How EU is dealing with US &apos;dealmaking&apos;",
+      "link": "https://www.dw.com/en/tariffs-or-not-how-eu-is-dealing-with-us-dealmaking/a-77100109?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Earlier this week, President Trump threatened European car makers with 25% tariffs before walking it back later in the week. How is the EU dealing with this unpredictability?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "New film portrays Thomas and Erika Mann — with an oddly twisted premise",
+      "link": "https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Premiering at Cannes and starring Sandra Hüller, Pawel Pawlikowski&apos;s \"Fatherland\" is set during the Cold War — a complex period for the prominent anti-Nazi intellectuals.",
       "tier": 2
     },
     {
@@ -459,7 +507,7 @@
       "title": "India news: Suvendu Adhikari takes oath as West Bengal&apos;s first BJP chief minister",
       "link": "https://www.dw.com/en/india-news-suvendu-adhikari-takes-oath-as-west-bengal-s-first-bjp-chief-minister/live-77102224?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Prime Minister Narendra Modi attended the swearing-in ceremony of Adhikari. Meanwhile, in Tamil Nadu, Vijay is still grappling with the numbers to claim power. DW has the latest.",
+      "snippet": "Prime Minister Narendra Modi attended the swearing-in ceremony of Adhikari. Meanwhile, in Tamil Nadu, Joseph Vijay&apos;s road to power has been cleared after his party secured outside support. DW has the latest.",
       "tier": 2
     },
     {
@@ -540,54 +588,6 @@
       "link": "https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Increased security around Vladimir Putin and a scaling back of public appearances have given rise to suspicions of a coup or assassination attempt. Yet some observers remain skeptical.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Hantavirus: Spain readies to receive cruise ship",
-      "link": "https://www.dw.com/en/hantavirus-spain-readies-to-receive-cruise-ship/live-77063670?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Spanish authorities are readying to receive the cruise ship at the center of the hantavirus outbreak. The WHO has confirmed six hantavirus cases linked to the ship so far.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Christians decry persecution in India&apos;s heartland",
-      "link": "https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "With Christians in India increasingly targeted by Hindu vigilantes, victims say police often side with the attackers.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "New film portrays Thomas and Erika Mann — with an oddly twisted premise",
-      "link": "https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Premiering at Cannes and starring Sandra Hüller, Pawel Pawlikowski&apos;s \"Fatherland\" is set during the Cold War — a complex period for the prominent anti-Nazi intellectuals.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UAE charts its own course across the Middle East and Africa",
-      "link": "https://www.dw.com/en/uae-charts-its-own-course-across-the-middle-east-and-africa/a-77095790?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Close relations with Israel and the United States have placed the United Arab Emirates in Iran&apos;s crosshairs as Abu Dhabi pursues a more independent foreign policy than many Gulf countries, including Saudi Arabia.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Hungary: New govt intent on initiating swift systemic change",
-      "link": "https://www.dw.com/en/hungary-new-govt-intent-on-initiating-swift-systemic-change/a-77095598?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Peter Magyar and his government are determined to push ahead with change at full throttle. But even before the cabinet is sworn in, there has been a \"resignation.\" And questions remain about Magyar&apos;s Ukraine policy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fertilizer shortages: What are Africa&apos;s options during the Hormuz crisis?",
-      "link": "https://www.dw.com/en/fertilizer-shortages-what-are-africa-s-options-during-the-hormuz-crisis/a-77094073?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The ongoing blockade of the Strait of Hormuz is affecting African nations particularly badly. But there are potential solutions for mitigating the drastic effects on the continent in the short, medium and long term.",
       "tier": 2
     }
   ]
