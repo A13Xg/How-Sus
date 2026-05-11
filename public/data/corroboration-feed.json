@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T01:18:01.666Z",
+  "generatedAt": "2026-05-11T13:23:41.704Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,34 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "US and French nationals test positive for hantavirus after leaving ship",
+      "link": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 11 May 2026 13:13:22 GMT",
+      "snippet": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
       "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 10 May 2026 20:57:22 GMT",
-      "snippet": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+      "publishedAt": "Mon, 11 May 2026 01:55:13 GMT",
+      "snippet": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "link": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 11 May 2026 10:00:31 GMT",
+      "snippet": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Philippine VP Sara Duterte impeached for a second time",
+      "link": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 11 May 2026 09:28:53 GMT",
+      "snippet": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
       "tier": 1
     },
     {
@@ -50,24 +74,24 @@
       "source": "BBC World",
       "title": "French national shows symptoms on return from hantavirus-hit ship",
       "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 10 May 2026 19:43:57 GMT",
+      "publishedAt": "Mon, 11 May 2026 03:29:58 GMT",
       "snippet": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Ailing Iran Nobel laureate given bail and hospital transfer",
+      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
       "link": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 11 May 2026 00:40:45 GMT",
+      "publishedAt": "Mon, 11 May 2026 10:16:50 GMT",
       "snippet": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
-      "link": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 11 May 2026 01:06:58 GMT",
-      "snippet": "Thaksin seems incapable of taking a back seat. This time, it really could be different.",
+      "title": "Police find body believed to be of fugitive Australian shooter",
+      "link": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 11 May 2026 09:44:29 GMT",
+      "snippet": "A body found in New South Wales is thought to be that of a man wanted over a triple murder.",
       "tier": 1
     },
     {
@@ -76,6 +100,46 @@
       "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 10 May 2026 21:01:17 GMT",
       "snippet": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
+      "link": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 11 May 2026 09:01:41 GMT",
+      "snippet": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+      "link": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 11 May 2026 03:41:34 GMT",
+      "snippet": "Thaksin seems incapable of taking a back seat. This time, it really could be different.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Modi urges Indians to work from home and limit foreign travel as Iran war continues",
+      "link": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 11 May 2026 07:13:41 GMT",
+      "snippet": "He said the austerity measures would reduce India's fuel use and help save foreign exchange.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+      "link": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 11 May 2026 02:48:53 GMT",
+      "snippet": "The pop star's legal team alleges a photograph of her face was used on Samsung television boxes without permission.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
+      "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 14:37:16 GMT",
+      "snippet": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
       "tier": 1
     },
     {
@@ -127,147 +191,83 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
-      "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 10 May 2026 14:37:16 GMT",
-      "snippet": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "I will serve - not rule over Hungary, says new PM",
-      "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 15:12:04 GMT",
-      "snippet": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran demands guarantees for World Cup participation",
-      "link": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 18:44:01 GMT",
-      "snippet": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canada.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Greece conducts controlled blast of mystery naval drone explosives",
-      "link": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 18:00:46 GMT",
-      "snippet": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Mexican parents criticise ending school year a month early for World Cup",
-      "link": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 19:40:55 GMT",
-      "snippet": "The federal government faces widespread anger for saying the school year could end on 5 June to accommodate the football tournament.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Person killed after being hit by plane on runway at Denver airport",
-      "link": "https://www.bbc.com/news/articles/c5y95782wyko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 17:28:59 GMT",
-      "snippet": "The unidentified individual had jumped a perimeter fence two minutes before being struck by the airliner.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Why Eurovision's fallout over Israel may change the competition forever",
-      "link": "https://www.bbc.com/news/articles/cgkpgm6vk48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 10 May 2026 23:33:57 GMT",
-      "snippet": "With Eurovision facing its biggest boycott in 70 years, questions are growing over the competition's future.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak",
-      "link": "https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 10 May 2026 20:05:53 GMT",
-      "snippet": "The BBC reports from the city of Ushuaia, where experts have been sent to investigate the origins of the outbreak.",
+      "source": "NPR News",
+      "title": "Trump rejects Iran&apos;s ceasefire proposal response. And, Congress to tackle ICE funding",
+      "link": "https://www.npr.org/2026/05/11/g-s1-121375/up-first-newsletter-trump-iran-congress-ice-cbp-hantavirus",
+      "publishedAt": "Mon, 11 May 2026 07:31:31 -0400",
+      "snippet": "Trump rejected Iran&apos;s response to a U.S. peace proposal, calling it \"totally unacceptable.\" And, Congressional Republicans are trying to push for three years of funding for immigration enforcement.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Israeli settlers force Palestinian family to exhume and rebury their father",
-      "link": "https://www.npr.org/2026/05/10/nx-s1-5817496/israeli-settlers-palestinian-exhume-grave-west-bank-jenin",
-      "publishedAt": "Sun, 10 May 2026 19:26:27 -0400",
-      "snippet": "The relatives of Hussein Asasa described to NPR how they were forced to exhume and rebury their father when Israeli settlers interfered with his grave.",
+      "title": "Oregon&apos;s most unexpected gubernatorial candidate? A pencil with a point",
+      "link": "https://www.npr.org/2026/05/11/nx-s1-5781255/oregon-reading-education-governor-pencil",
+      "publishedAt": "Mon, 11 May 2026 07:14:01 -0400",
+      "snippet": "Oregon&apos;s public schools rank last in fourth-grade reading, according to an analysis of national testing. As a wake-up call for elected leaders, Pencil is running for governor as a write-in candidate.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trump rejects Iran&apos;s latest response to U.S. ceasefire proposal",
-      "link": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal",
-      "publishedAt": "Sun, 10 May 2026 18:18:22 -0400",
-      "snippet": "Iran delivered its response to Pakistani mediators on Sunday, according to the state-run Islamic Republic News Agency.",
+      "title": "As ranks of uninsured grow, charity care can be hard to come by at many hospitals",
+      "link": "https://www.npr.org/2026/05/11/nx-s1-5813781/charity-care-hospitals-medical-bills-uninsured",
+      "publishedAt": "Mon, 11 May 2026 05:03:00 -0400",
+      "snippet": "An investigation of hospital data and charity care programs shows most Minnesota hospitals provide little financial aid to patients and often make assistance difficult to get.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "A chocolate laboratory in Italy will be good for chocolate eaters — and farmers",
-      "link": "https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine",
-      "publishedAt": "Sun, 10 May 2026 10:07:06 -0400",
-      "snippet": "The chocolate biz is raising the bar with a lab to assess cacao beans from around the world. (Talk about a sweet gig!) Consumers and farmers stand to benefit from the \"Standard of Excellence\" program.",
+      "title": "Nobel laureate Narges Mohammadi transferred to a Tehran hospital, her foundation says",
+      "link": "https://www.npr.org/2026/05/11/g-s1-121365/nobel-laureate-mohammadi-transferred-to-a-tehran-hospital",
+      "publishedAt": "Mon, 11 May 2026 05:00:52 -0400",
+      "snippet": "Nobel Peace laureate and activist Narges Mohammadi has been transferred to a Tehran hospital more than a week after collapsing in prison, her foundation said Sunday.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Keir Starmer&apos;s party lost big in U.K. local elections. Here&apos;s what comes next",
-      "link": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green",
-      "publishedAt": "Sun, 10 May 2026 08:27:36 -0400",
-      "snippet": "U.K. Prime Minister Keir Starmer&apos;s Labour party suffered major losses in local elections held across Britain last week. So far, Starmer has rejected calls for his resignation.",
+      "title": "How do you cut your food bill? NPR wants to hear your tips",
+      "link": "https://www.npr.org/2026/05/11/nx-s1-5816326/food-money-restaurants-bill-grocery-shopping-saving-budgeting",
+      "publishedAt": "Mon, 11 May 2026 05:00:00 -0400",
+      "snippet": "With rising food costs, NPR wants to hear your tips and hacks for reducing your bill.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Temple Israel rebuilds after terror attack",
-      "link": "https://www.npr.org/2026/05/10/nx-s1-5810635/temple-israel-rebuilds-after-terror-attack",
-      "publishedAt": "Sun, 10 May 2026 08:12:10 -0400",
-      "snippet": "Two months ago, a gunman drove through the preschool at Temple Israel, the largest synagogue in Michigan. Every child and teacher survived, but the community is still displaced and navigating the trauma of the attack.",
+      "title": "It&apos;s not shameful, it&apos;s savvy: The shoppers redefining how to save money on groceries",
+      "link": "https://www.npr.org/2026/05/11/nx-s1-5716202/discount-groceries-aldi-food-affordability",
+      "publishedAt": "Mon, 11 May 2026 05:00:00 -0400",
+      "snippet": "Many facing economic pressures and frustrations have begun shopping at budget grocery stores and warehouse clubs in lieu of traditional supermarkets, with priorities shifting in pursuit of good deals.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Happy Mother&apos;s Day to the kindest mom. P.S. Your kindness annoyed me when I was a kid",
-      "link": "https://www.npr.org/2026/05/10/g-s1-121099/mothers-day-mother-kindness-strangers",
-      "publishedAt": "Sun, 10 May 2026 07:40:42 -0400",
-      "snippet": "She and her siblings had to make tea for and share food with every visitor. That did not make her happy. Today she has a different perspective. So she finally asked her mom: What made you so kind?",
+      "title": "Marketers say NAD+ pills and infusions can boost longevity. What&apos;s the evidence?",
+      "link": "https://www.npr.org/2026/05/11/nx-s1-5813664/nad-infusions-supplements-longevity-science",
+      "publishedAt": "Mon, 11 May 2026 05:00:00 -0400",
+      "snippet": "Wellness and longevity influencers are pushing a compound called NAD+. There&apos;s scientific interest in its potential, but researchers say the marketing claims have gotten ahead of the science.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Of course we look for ourselves in art — but if we stop there, we&apos;re missing out",
-      "link": "https://www.npr.org/2026/05/10/nx-s1-5813510/lord-of-the-flies-netflix",
-      "publishedAt": "Sun, 10 May 2026 07:00:00 -0400",
-      "snippet": "As I watched the new series, I only cared about Piggy — the thoughtful, smart kid stranded on an island with other boys. That made me think about what we look for in art.",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/05/11/nx-s1-5813454/morning-news-brief",
+      "publishedAt": "Mon, 11 May 2026 04:43:07 -0400",
+      "snippet": "Trump says Iran&apos;s response to the U.S. ceasefire proposal is \"totally unacceptable,\" Trump heads to China amid Iran war, Congress returns after week-long break.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "How a pill approved 25 years ago transformed cancer treatment",
-      "link": "https://www.npr.org/2026/05/10/nx-s1-5779279/gleevec-leukemia-cancer-treatment",
-      "publishedAt": "Sun, 10 May 2026 07:00:00 -0400",
-      "snippet": "When the Food and Drug Administration approved Gleevec to treat a form of leukemia in 2001, it ushered in a new era in cancer care.",
+      "title": "Remains of US soldier who went missing in Morocco have been recovered",
+      "link": "https://www.npr.org/2026/05/11/g-s1-121363/remains-of-missing-us-soldier",
+      "publishedAt": "Mon, 11 May 2026 02:17:02 -0400",
+      "snippet": "The remains of a U.S. soldier who went missing during military drills in Morocco were recovered in the Atlantic Ocean, the army said. Military teams are searching for a second missing soldier.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Cape Verde: Tiny nation, massive World Cup dream",
-      "link": "https://www.npr.org/2026/05/10/nx-s1-5796264/cape-verde-tiny-nation-massive-world-cup-dream",
-      "publishedAt": "Sun, 10 May 2026 06:00:00 -0400",
-      "snippet": "In Cape Verde, a small island nation off West Africa, World Cup qualification is transforming dreams on and off the pitch.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Iran ceasefire tested as cargo ship catches fire after being hit off Qatar&apos;s coast",
-      "link": "https://www.npr.org/2026/05/10/nx-s1-5817437/iran-cargo-ship-hit-off-qatar",
-      "publishedAt": "Sun, 10 May 2026 05:10:23 -0400",
-      "snippet": "A cargo ship caught fire Sunday after being hit by an unknown projectile off Qatar&apos;s coast, the British military said.",
+      "title": "U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus",
+      "link": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+      "publishedAt": "Sun, 10 May 2026 21:42:24 -0400",
+      "snippet": "One of the 17 Americans tested \"mildly\" positive for the virus during the U.S. return flight. A French woman has also tested positive — she was was among five French passengers repatriated to Paris.",
       "tier": 1
     },
     {
@@ -440,6 +440,110 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "What will happen to Iran&apos;s nuclear material?",
+      "link": "https://www.dw.com/en/what-will-happen-to-iran-s-nuclear-material/a-77122353?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Iran is believed to have over 440 kilos (970 pounds) of enriched uranium, which could be turned into weapons-grade nuclear material. Despite Trump&apos;s pledge to get the \"nuclear dust,\" Tehran has kept it out of US reach.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Philippine lawmakers move to impeach VP Sara Duterte",
+      "link": "https://www.dw.com/en/philippine-lawmakers-move-to-impeach-vp-sara-duterte/a-77119058?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Lawmakers in the Philippines have voted for proceedings to impeach Vice President Sara Duterte. A Senate trial could remove her from office and block any 2028 presidential run.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "UK Prime Minister Keir Starmer &apos;not walking away&apos; after local election mauling",
+      "link": "https://www.dw.com/en/uk-prime-minister-keir-starmer-not-walking-away-after-local-election-mauling/a-77116149?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Keir Starmer has said he takes \"responsibility\" for Labour&apos;s poor election performance, but also for putting matters right again. \"I know I have my doubters and I know I need to prove them wrong, and I will,\" he said.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Endemic, epidemic, pandemic: What&apos;s the difference?",
+      "link": "https://www.dw.com/en/endemic-epidemic-pandemic-what-s-the-difference/a-60295060?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Andes hantavirus outbreak shows how easily disease labels are misunderstood — and why they describe patterns of spread, not how dangerous a virus is.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Hantavirus: Evacuated passengers begin returning home",
+      "link": "https://www.dw.com/en/hantavirus-evacuated-passengers-begin-returning-home/live-77063670?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Passengers on the ill-fated cruise from several European countries, including Germany, are returning home and will be screened by health authorities. One French woman developed symptoms on the return flight. Follow DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nazi-looted artwork surfaces with Dutch collaborator&apos;s heirs",
+      "link": "https://www.dw.com/en/nazi-looted-artwork-surfaces-with-dutch-collaborator-s-heirs/a-77115569?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A Nazi-looted painting from a famed Dutch collection has surfaced in the home of decendents of a senior Nazi collaborator. The painting’s wherabouts became known after a relative discovered the truth.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Somali piracy adds new strain to global shipping and trade routes",
+      "link": "https://www.dw.com/en/somali-piracy-adds-new-strain-to-global-shipping-and-trade-routes/a-77047750?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As ships reroute around Africa to avoid Middle East conflict zones, piracy off Somalia is back. The resurgence is driving up insurance, transit times and security costs, putting new pressure on global supply chains.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Cut fuel use, gold buys and foreign trips, says Modi, as no end in sight to Iran war",
+      "link": "https://www.dw.com/en/india-news-cut-fuel-use-gold-buys-and-foreign-trips-says-modi-as-no-end-in-sight-to-iran-war/live-77113618?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Prime Minister Narendra Modi is asking Indians to work from home more and make a series of changes in their consumption habits, including cutting down on foreign trips and buying gold jewelry.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany&apos;s businesses frustrated by economic decline",
+      "link": "https://www.dw.com/en/germany-s-businesses-frustrated-by-economic-decline/a-77097307?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "No one had higher hopes for Friedrich Merz&apos;s chancellorship than the German business community. Now, however, early euphoria has given way to bitter disappointment.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why is Hollywood missing from Cannes?",
+      "link": "https://www.dw.com/en/why-is-hollywood-missing-from-cannes/a-77056586?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "There are no US blockbusters premiering at the Cannes Film Festival this year. So who&apos;s snubbing who?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Defense minister Pistorius arrives in Kyiv",
+      "link": "https://www.dw.com/en/germany-news-defense-minister-pistorius-arrives-in-kyiv/live-77114178?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Pistorius plans to discuss building a new weapons system with Ukraine in the unannounced visit. Meanwhile in Stuttgart, five pro-Palestinian activists face trial over attacking an Israeli defense company site. Follow DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Former Thai Prime Minister Thaksin let out of prison early",
+      "link": "https://www.dw.com/en/former-thai-prime-minister-thaksin-let-out-of-prison-early/a-77113447?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Thailand&apos;s influential former prime minister Thaksin Shinawatra will be required to wear an electronic monitor during his four-month probation period.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iranian Nobel winner Mohammadi moved to Tehran hospital",
+      "link": "https://www.dw.com/en/iranian-nobel-winner-mohammadi-moved-to-tehran-hospital/a-77113033?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Human rights activist and Nobel Peace Prize laureate Narges Mohammadi has been released on bail and transferred to Tehran, her foundation said, amid alarm about her health.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Iran war: Trump rejects proposal to end conflict",
       "link": "https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -480,114 +584,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Africa summit in Kenya: France seeks new partners",
-      "link": "https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-top-1022-rdf",
+      "title": "France turns to Africa for strategic partnerships",
+      "link": "https://www.dw.com/en/france-turns-to-africa-for-strategic-partnerships/a-77098131?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Following a withdrawal from the Sahel region, France is seeking to expand its geostrategic influence in Africa by seeking allies. The first Africa Summit, to be held May 11–12 in Kenya, is intended to mark a fresh start.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Hantavirus: Passengers leave Tenerife on evacuation flights",
-      "link": "https://www.dw.com/en/hantavirus-passengers-leave-tenerife-on-evacuation-flights/live-77063670?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Spain, France, Germany, the UK, the US and the Netherlands have sent planes to evacuate passengers from the hantavirus-hit cruise ship, which is anchored off Tenerife. Follow DW.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "&apos;No comment&apos; after Schröder named by Putin for Ukraine talks",
-      "link": "https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Russian President Vladimir Putin suggested that the former German chancellor serve as a mediator in Russia-Ukraine peace talks.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Berlin: Fighting the city&apos;s young far-right scene",
-      "link": "https://www.dw.com/en/berlin-fighting-the-city-s-young-far-right-scene/a-77098275?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A recent police raid on Germany&apos;s neo-Nazi scene has revealed how alarmingly young some of its members are. But those targeted by this hatred are fighting back.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "The weaponization of shipping channels",
-      "link": "https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The crisis around the Strait of Hormuz focused attention on other maritime chokepoints. Experts warn that waterways like the Taiwan Strait or the Strait of Malacca are increasingly being used as geopolitical leverage.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Data centers: Tech boom with downsides",
-      "link": "https://www.dw.com/en/data-centers-tech-boom-with-downsides/a-77106191?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Data centers are energy-intensive engines of growth, the backbone and hub of digitalization. Thousands of them are being built all around the world. The Iran war has shown how vulnerable societies are as a result.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pakistan: Car bomb attack at checkpoint kills 15",
-      "link": "https://www.dw.com/en/pakistan-car-bomb-attack-at-checkpoint-kills-15/a-77108185?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The attack occurred in Bannu district of Khyber Pakhtunkhwa province, where militants drove an explosives‑laden vehicle into a police checkpoint.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Antisemitism in Germany, and the CDU&apos;s search for answers",
-      "link": "https://www.dw.com/en/antisemitism-in-germany-and-the-cdu-s-search-for-answers/a-77096960?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "German Chancellor Friedrich Merz&apos;s CDU party has been struggling to find the right words on how it intends to protect Jewish life in the capital. A recent declaration does not go far beyond calling for \"a clear stance.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Brazil judge suspends law that reduces Bolsonaro&apos;s jail term",
-      "link": "https://www.dw.com/en/brazil-judge-suspends-law-that-reduces-bolsonaro-s-jail-term/a-77107420?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Brazil&apos;s top court prohibited the implementation of legislation that would drastically cut former President Jair Bolsonaro&apos;s prison term.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Greek minister says mystery drone from a &apos;foreign state&apos;",
-      "link": "https://www.dw.com/en/greek-minister-says-mystery-drone-from-a-foreign-state/a-77107116?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A Greek military source said the flying robot, found this week off the island of Lefkada, may have been Ukrainian. Kyiv has admitted using drones to target Russian oil tankers in the Mediterranean.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Putin says he thinks Ukraine war is &apos;coming to an end&apos;",
-      "link": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Russian president made the remarks as Moscow and Kyiv observe a three-day ceasefire in their four-year conflict.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Hungary: Peter Magyar sworn in as prime minister",
-      "link": "https://www.dw.com/en/hungary-peter-magyar-sworn-in-as-prime-minister/a-77104888?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Peter Magyar vowed to implement wide-ranging reforms after winning a landslide election last month, ending Viktor Orban&apos;s 16 years in power.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Australian far-right party wins first lower house seat",
-      "link": "https://www.dw.com/en/australian-far-right-party-wins-first-lower-house-seat/a-77104689?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The far-right populist One Nation party has won its first seat in Australia&apos;s House of Representatives.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Tariffs or not? How EU is dealing with US &apos;dealmaking&apos;",
-      "link": "https://www.dw.com/en/tariffs-or-not-how-eu-is-dealing-with-us-dealmaking/a-77100109?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Earlier this week, President Trump threatened European car makers with 25% tariffs before walking it back later in the week. How is the EU dealing with this unpredictability?",
+      "snippet": "Following a withdrawal from the Sahel region, France is seeking to expand its geostrategic influence in Africa by seeking new allies. The first Africa Summit in Kenya is intended to mark a fresh start.",
       "tier": 2
     }
   ]
