@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T12:43:14.989Z",
+  "generatedAt": "2026-05-11T01:18:01.666Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,82 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
-      "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 10 May 2026 10:57:22 GMT",
-      "snippet": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
+      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+      "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 20:57:22 GMT",
+      "snippet": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "link": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 10 May 2026 10:45:13 GMT",
-      "snippet": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
+      "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+      "link": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 19:56:45 GMT",
+      "snippet": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "French national shows symptoms on return from hantavirus-hit ship",
+      "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 19:43:57 GMT",
+      "snippet": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ailing Iran Nobel laureate given bail and hospital transfer",
+      "link": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 11 May 2026 00:40:45 GMT",
+      "snippet": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+      "link": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 11 May 2026 01:06:58 GMT",
+      "snippet": "Thaksin seems incapable of taking a back seat. This time, it really could be different.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+      "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 21:01:17 GMT",
+      "snippet": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Dress made from 500 loaves stuns African film awards",
+      "link": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 14:29:45 GMT",
+      "snippet": "Celebrities, filmmakers and creators put up a performance at Africa's biggest night of film and fashion.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
       "link": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 10 May 2026 00:46:07 GMT",
+      "publishedAt": "Sun, 10 May 2026 13:56:43 GMT",
       "snippet": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Suspected boat explosion injures 11 in Miami",
+      "link": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 03:24:44 GMT",
+      "snippet": "Officials are investigating what caused the incident at a popular marina in southern Florida.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+      "link": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 15:02:51 GMT",
+      "snippet": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
       "tier": 1
     },
     {
@@ -64,14 +120,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Israel deports two activists detained on board Gaza flotilla",
-      "link": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 10 May 2026 11:55:09 GMT",
-      "snippet": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
       "link": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 10 May 2026 03:09:45 GMT",
@@ -80,17 +128,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Suspected boat explosion injures 11 in Miami",
-      "link": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 10 May 2026 03:24:44 GMT",
-      "snippet": "Officials are investigating what caused the explosion at a popular marina in southern Florida.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Australia's right-wing One Nation party scores historic parliamentary win",
       "link": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 14:36:21 GMT",
+      "publishedAt": "Sun, 10 May 2026 14:37:16 GMT",
       "snippet": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
       "tier": 1
     },
@@ -136,63 +176,47 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran accuses US of 'reckless military adventure'",
-      "link": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 06:13:30 GMT",
-      "snippet": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+      "title": "Why Eurovision's fallout over Israel may change the competition forever",
+      "link": "https://www.bbc.com/news/articles/cgkpgm6vk48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 23:33:57 GMT",
+      "snippet": "With Eurovision facing its biggest boycott in 70 years, questions are growing over the competition's future.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "International cyber attack disrupts swathe of universities and schools",
-      "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 01:17:55 GMT",
-      "snippet": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Japanese council votes to remove unconscious mayor",
-      "link": "https://www.bbc.com/news/articles/clypw9w907zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 12:12:19 GMT",
-      "snippet": "Kikuo Hatakeyama, 72, has served as the mayor of Hachirogata in north-east Japan since 2008, but fell ill in February.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
-      "link": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 14:03:11 GMT",
-      "snippet": "The Ministry of Defence says the ship will prepare to join an international mission to safeguard shipping, but only when fighting in the region ends.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
-      "link": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 17:25:53 GMT",
-      "snippet": "The BBC's Russia editor reports from a Red Square with none of the military hardware which the Kremlin normally showcases to project power internationally.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Another year, another controversy for Eurovision - but fans are sticking by it",
-      "link": "https://www.bbc.com/news/articles/cqxp4959nwro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 23:03:37 GMT",
-      "snippet": "Fans are grappling with how to react to the withdrawal of Spain, Ireland and others over Israel's participation.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Why Canada is seeing its biggest military recruitment surge in 30 years",
-      "link": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 09 May 2026 23:00:55 GMT",
-      "snippet": "The country has seen its biggest military recruitment surge in 30 years, a major turnaround after years of falling behind on defence capabilities.",
+      "title": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak",
+      "link": "https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 10 May 2026 20:05:53 GMT",
+      "snippet": "The BBC reports from the city of Ushuaia, where experts have been sent to investigate the origins of the outbreak.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Keir Starmer&apos;s party lost big in U.K. local elections. Here&apos;s what comes next.",
+      "title": "Israeli settlers force Palestinian family to exhume and rebury their father",
+      "link": "https://www.npr.org/2026/05/10/nx-s1-5817496/israeli-settlers-palestinian-exhume-grave-west-bank-jenin",
+      "publishedAt": "Sun, 10 May 2026 19:26:27 -0400",
+      "snippet": "The relatives of Hussein Asasa described to NPR how they were forced to exhume and rebury their father when Israeli settlers interfered with his grave.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump rejects Iran&apos;s latest response to U.S. ceasefire proposal",
+      "link": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal",
+      "publishedAt": "Sun, 10 May 2026 18:18:22 -0400",
+      "snippet": "Iran delivered its response to Pakistani mediators on Sunday, according to the state-run Islamic Republic News Agency.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "A chocolate laboratory in Italy will be good for chocolate eaters — and farmers",
+      "link": "https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine",
+      "publishedAt": "Sun, 10 May 2026 10:07:06 -0400",
+      "snippet": "The chocolate biz is raising the bar with a lab to assess cacao beans from around the world. (Talk about a sweet gig!) Consumers and farmers stand to benefit from the \"Standard of Excellence\" program.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Keir Starmer&apos;s party lost big in U.K. local elections. Here&apos;s what comes next",
       "link": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green",
       "publishedAt": "Sun, 10 May 2026 08:27:36 -0400",
       "snippet": "U.K. Prime Minister Keir Starmer&apos;s Labour party suffered major losses in local elections held across Britain last week. So far, Starmer has rejected calls for his resignation.",
@@ -247,27 +271,75 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Gas, groceries and getting by: How voters in one Ohio district see affordability",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/05/10/g-s1-121112/ohio-voters-affordability-2026-midsterms-video",
-      "publishedAt": "Sun, 10 May 2026 05:00:00 -0400",
-      "snippet": "Ohio voters headed to the polls last week for primary elections, and in competitive districts like the one where Toledo is primarily located, the message was clear: affordability is a top priority.",
+      "source": "PBS Headlines",
+      "title": "Remains recovered of U.S. soldier who went missing during military exercises in Morocco",
+      "link": "https://www.pbs.org/newshour/world/remains-recovered-of-u-s-soldier-who-went-missing-during-military-exercises-in-morocco",
+      "publishedAt": "Sun, 10 May 2026 18:53:44 -0400",
+      "snippet": "The remains of a U.S. soldier who went missing during military exercises in Morocco a week ago were recovered in the Atlantic Ocean, the army said Sunday.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Protests and boycotts rock prestigious Venice Biennale",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5817005/protests-and-boycotts-rock-prestigious-venice-biennale",
-      "publishedAt": "Sat, 09 May 2026 21:41:40 -0400",
-      "snippet": "The 61st edition of the international art event launched on Saturday in an atmosphere marked by geopolitical strife.",
+      "source": "PBS Headlines",
+      "title": "Nobel laureate Narges Mohammadi moved to Tehran hospital, her foundation says",
+      "link": "https://www.pbs.org/newshour/world/nobel-laureate-narges-mohammadi-moved-to-tehran-hospital-her-foundation-says",
+      "publishedAt": "Sun, 10 May 2026 16:52:02 -0400",
+      "snippet": "Nobel Peace laureate and activist Narges Mohammadi has been transferred to a Tehran hospital more than a week after collapsing in prison, her foundation said Sunday.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "&apos;We&apos;re dry:&apos; The new U.S. Wildland Fire Service prepares for extreme fire season",
-      "link": "https://www.npr.org/2026/05/09/nx-s1-5804693/prevention-wildfires-firefighters-vegetation-wildland-fire-service",
-      "publishedAt": "Sat, 09 May 2026 15:03:44 -0400",
-      "snippet": "Brian Fennessy, new head of the U.S. Wildland Fire Service, says his agency is &apos;trying to bring on additional aircraft and bring them on early,&apos; and dismisses criticism of prevention methods.",
+      "source": "PBS Headlines",
+      "title": "Washington Wizards win NBA draft lottery, earn No. 1 pick on June 23",
+      "link": "https://www.pbs.org/newshour/nation/washington-wizards-win-nba-draft-lottery-earn-no-1-pick-on-june-23",
+      "publishedAt": "Sun, 10 May 2026 15:59:27 -0400",
+      "snippet": "The Washington Wizards won the draft lottery Sunday, earning the No. 1 pick in next month's draft.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Two activists detained over leading an aid flotilla to Gaza are deported by Israel",
+      "link": "https://www.pbs.org/newshour/world/two-activists-detained-over-leading-an-aid-flotilla-to-gaza-are-deported-by-israel",
+      "publishedAt": "Sun, 10 May 2026 15:28:36 -0400",
+      "snippet": "Israel deported two activists on Sunday after being detained for slightly over a week for leading an aid flotilla attempting to break the Israeli naval blockade of the Gaza Strip.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Indonesian police arrest 321 foreigners in online gambling crackdown",
+      "link": "https://www.pbs.org/newshour/world/indonesian-police-arrest-321-foreigners-in-online-gambling-crackdown",
+      "publishedAt": "Sun, 10 May 2026 14:03:55 -0400",
+      "snippet": "More than 300 foreign nationals were arrested in a raid on an alleged online gambling operation in the Indonesian capital of Jakarta, police said Saturday.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Russia and Ukraine accuse each other of violating U.S.-brokered three-day ceasefire",
+      "link": "https://www.pbs.org/newshour/world/russia-and-ukraine-accuse-each-other-of-violating-u-s-brokered-three-day-ceasefire",
+      "publishedAt": "Sun, 10 May 2026 13:11:26 -0400",
+      "snippet": "Russia and Ukraine swapped accusations of breaking a U.S.-brokered ceasefire on Sunday, with both sides claiming to have suffered casualties in drone and artillery strikes over the past 24 hours.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Passengers evacuate MV Hondius cruise ship following hantavirus outbreak",
+      "link": "https://www.pbs.org/newshour/world/passengers-evacuate-mv-hondius-cruise-ship-following-hantavirus-outbreak",
+      "publishedAt": "Sun, 10 May 2026 13:03:05 -0400",
+      "snippet": "Passengers evacuated from the hantavirus-hit cruise ship began flying home Sunday aboard military and government planes after the vessel anchored in the Canary Islands.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Trump calls Iran's response to ceasefire proposal 'unacceptable'",
+      "link": "https://www.pbs.org/newshour/world/trump-calls-irans-response-to-ceasefire-proposal-unacceptable",
+      "publishedAt": "Sun, 10 May 2026 12:13:05 -0400",
+      "snippet": "Iran sent its response to the latest U.S. proposal to end the Iran war via Pakistani mediators on Sunday, but U.S. President Donald Trump quickly rejected it in a social media post as \"TOTALLY UNACCEPTABLE!\"",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Death toll rises to 14 in Pakistan suicide attack as Pakistani Taliban breakaway group claims responsibility",
+      "link": "https://www.pbs.org/newshour/world/death-toll-rises-to-14-in-pakistan-suicide-attack-as-pakistani-taliban-breakaway-group-claims-responsibility",
+      "publishedAt": "Sun, 10 May 2026 11:27:17 -0400",
+      "snippet": "A suicide bomber and several gunmen detonated an explosives-laden vehicle near the post in Bannu, a district in Khyber Pakhtunkhwa province bordering Afghanistan, late Saturday, said senior police official Sajjad Khan.",
       "tier": 1
     },
     {
@@ -331,7 +403,7 @@
       "title": "Pedestrian killed after being struck by Frontier Airlines plane taking off in Denver",
       "link": "https://www.pbs.org/newshour/nation/pedestrian-killed-after-being-struck-by-frontier-airlines-plane-taking-off-in-denver",
       "publishedAt": "Sat, 09 May 2026 12:28:59 -0400",
-      "snippet": "A Frontier Airlines plane hit and killed a pedestrian on the runway of the Denver International Airport during takeoff, airport authorities said, sparking an engine fire and forcing passengers to evacuate.",
+      "snippet": "A person who jumped a fence and was on a runway at Denver International Airport was struck and killed by a Frontier Airlines plane during takeoff, airport authorities said.",
       "tier": 1
     },
     {
@@ -359,78 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "News Wrap: Pentagon releases 'never-before-seen' UFO files on its website",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-pentagon-releases-never-before-seen-ufo-files-on-its-website",
-      "publishedAt": "Fri, 08 May 2026 18:45:53 -0400",
-      "snippet": "In our news wrap Friday, the Pentagon began releasing new files on UFOs, health authorities in the Canary Islands are preparing for the arrival of the cruise ship with a hantavirus outbreak, a jury convicted four men of conspiracy in the assassination of Haiti's president in 2021",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Virginia's Supreme Court tosses voter-approved redistricting plan in blow to Democrats",
-      "link": "https://www.pbs.org/newshour/show/virginias-supreme-court-tosses-voter-approved-redistricting-plan-in-blow-to-democrats",
-      "publishedAt": "Fri, 08 May 2026 18:40:27 -0400",
-      "snippet": "Virginia's Supreme Court has struck down a voter-approved plan to redraw the state's congressional maps to benefit Democrats. It was a major setback for Democrats, as both parties wage a war of mid-decade redistricting. David Wasserman of the Cook Political Report with Amy Walter",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Why FDA Commissioner Makary is on the ropes after months of turmoil",
-      "link": "https://www.pbs.org/newshour/show/why-fda-commissioner-makary-is-on-the-ropes-after-months-of-turmoil",
-      "publishedAt": "Fri, 08 May 2026 18:35:24 -0400",
-      "snippet": "Multiple outlets are reporting that Trump is set to fire Food and Drug Administration Commissioner Marty Makary. The news comes after a tumultuous tenure since his installment as FDA head last year. Stephanie Sy speaks with Liz Whyte, health policy reporter at the Wall Street Jou",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "New U.S. counterterror strategy focuses on drug cartels but omits right-wing extremism",
-      "link": "https://www.pbs.org/newshour/show/new-u-s-counterterror-strategy-focuses-on-drug-cartels-but-omits-right-wing-extremism",
-      "publishedAt": "Fri, 08 May 2026 18:30:32 -0400",
-      "snippet": "American counterterrorism officials are meeting Friday with officials from other allied nations to coordinate efforts against what the U.S. calls \"deadly threats from terror groups and non-state actors.\" But the recently released U.S. strategy to fight terrorism contains some unu",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Brooks and Marcus on Virginia's major shakeup in the national redistricting battle",
-      "link": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-virginias-major-shakeup-in-the-national-redistricting-battle",
-      "publishedAt": "Fri, 08 May 2026 18:25:37 -0400",
-      "snippet": "David Brooks of The Atlantic and Ruth Marcus of The New Yorker join Amna Nawaz to discuss the week in politics, including the Virginia Supreme Court's decision to strike down a voter-approved congressional map and developments in the war with Iran.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Cyberattack on Canvas platform highlights vulnerabilities and risks for schools",
-      "link": "https://www.pbs.org/newshour/show/cyberattack-on-canvas-platform-highlights-vulnerabilities-and-risks-for-schools",
-      "publishedAt": "Fri, 08 May 2026 18:20:27 -0400",
-      "snippet": "The online education platform Canvas is mostly back online Friday after a cyberattack left students and teachers at thousands of schools and universities scrambling. The attack has raised many questions about the vulnerability of schools, the dependence on such platforms and othe",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "What Russia's low&#8209;key Victory Day celebrations reveal about Putin and the war in Ukraine",
-      "link": "https://www.pbs.org/newshour/world/what-russias-low%e2%80%91key-victory-day-celebrations-reveal-about-putin-and-the-war-in-ukraine",
-      "publishedAt": "Fri, 08 May 2026 18:03:17 -0400",
-      "snippet": "Rumblings of unhappiness with some of the Kremlin's wartime policies have put the spotlight on Vladimir Putin, who is due to make a speech on Saturday to mark Victory Day, commemorating victory over Nazi Germany 81 years ago.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Prosecutors aim to strip U.S. citizenship from diplomat-turned-spy",
-      "link": "https://www.pbs.org/newshour/politics/prosecutors-aim-to-strip-u-s-citizenship-from-diplomat-turned-cuban-spy",
-      "publishedAt": "Fri, 08 May 2026 17:49:08 -0400",
-      "snippet": "The Trump administration moved this week to denaturalize 11 other people accused of crimes, including child sexual abuse and providing material support to terrorists.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "U.S. fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
-      "link": "https://www.pbs.org/newshour/world/u-s-fires-on-and-disables-2-more-iranian-tankers-as-tensions-rise-in-the-strait-of-hormuz",
-      "publishedAt": "Fri, 08 May 2026 17:39:12 -0400",
-      "snippet": "The attacks cast more doubt on a tenuous month-old ceasefire that the United States has insisted is still in effect.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,18 +440,66 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "&apos;No comment&apos; after Schröder named by Putin for Ukraine talks",
-      "link": "https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran war: Trump rejects proposal to end conflict",
+      "link": "https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Russian President Vladimir Putin suggested that the former German chancellor serve as a mediator in Russia-Ukraine peace talks.",
+      "snippet": "Donald Trump has called Iran&apos;s plan \"totally unacceptable.\" The fragile ceasefire had been tested earlier in the day by Iranian strikes across the Gulf. DW has more.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran war: Ceasefire tested by ship fire, drone attack",
-      "link": "https://www.dw.com/en/iran-war-ceasefire-tested-by-ship-fire-drone-attack/live-77102104?maca=en-rss-en-top-1022-rdf",
+      "title": "Syria: Court charges Bashar Assad&apos;s cousin Atef Najib with war crimes amid 2011 uprising",
+      "link": "https://www.dw.com/en/syria-court-charges-bashar-assad-s-cousin-atef-najib-with-war-crimes-amid-2011-uprising/a-77111373?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Kuwait detected several drones ​in its airspace and a ship was struck off Qatar as the ceasefire between the US and Iran is tested. Follow DW for more.",
+      "snippet": "Syria&apos;s judiciary has charged Atef Najib with acts \"amounting to war crimes\" as Bashar Assad&apos;s cousin is accused of orchestrating a crackdown on 2011 protests that subsequently degenerated into a decade of civil war.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Could German ex-leader really negotiate Ukraine peace?",
+      "link": "https://www.dw.com/en/could-german-ex-leader-really-negotiate-ukraine-peace/a-77111372?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Former German chancellor Gerhard Schröder is a controversial — and some critics would even say, unserious — choice as a negotiator on the Ukraine war. He&apos;s long been criticized for being too close to Russia.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: &apos;Ulm 5&apos; on trial after attack on Israeli arms firm",
+      "link": "https://www.dw.com/en/germany-ulm-5-on-trial-after-attack-on-israeli-arms-firm/a-77038804?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Five activists have gone on trial in Germany following a break-in at the Israeli arms company Elbit Systems in Ulm. Their lawyers intend to argue they were trying to obstruct a genocide.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "RSF urges Niger to ditch &apos;abusive&apos; French media ban",
+      "link": "https://www.dw.com/en/rsf-urges-niger-to-ditch-abusive-french-media-ban/a-77110893?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Media watchdog Reporters Without Borders has called on Niger&apos;s Russian-backed military government to lift its sudden suspension of nine French media outlets. This coincides with major instability in neighboring Mali.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Africa summit in Kenya: France seeks new partners",
+      "link": "https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Following a withdrawal from the Sahel region, France is seeking to expand its geostrategic influence in Africa by seeking allies. The first Africa Summit, to be held May 11–12 in Kenya, is intended to mark a fresh start.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Hantavirus: Passengers leave Tenerife on evacuation flights",
+      "link": "https://www.dw.com/en/hantavirus-passengers-leave-tenerife-on-evacuation-flights/live-77063670?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Spain, France, Germany, the UK, the US and the Netherlands have sent planes to evacuate passengers from the hantavirus-hit cruise ship, which is anchored off Tenerife. Follow DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "&apos;No comment&apos; after Schröder named by Putin for Ukraine talks",
+      "link": "https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russian President Vladimir Putin suggested that the former German chancellor serve as a mediator in Russia-Ukraine peace talks.",
       "tier": 2
     },
     {
@@ -540,54 +588,6 @@
       "link": "https://www.dw.com/en/tariffs-or-not-how-eu-is-dealing-with-us-dealmaking/a-77100109?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Earlier this week, President Trump threatened European car makers with 25% tariffs before walking it back later in the week. How is the EU dealing with this unpredictability?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "New film portrays Thomas and Erika Mann — with an oddly twisted premise",
-      "link": "https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Premiering at Cannes and starring Sandra Hüller, Pawel Pawlikowski&apos;s \"Fatherland\" is set during the Cold War — a complex period for the prominent anti-Nazi intellectuals.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Berlin advances Tomahawk, submarine deals",
-      "link": "https://www.dw.com/en/germany-news-berlin-advances-tomahawk-submarine-deals/live-77103139?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany is reviving its bid for US Tomahawk missiles, according to the Financial Times. Meanwhile, Vice Chancellor Lars Klingbeil is in Canada to strengthen ties, including a possible submarine deal. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Putin oversees scaled-back Victory Day parade on Red Square",
-      "link": "https://www.dw.com/en/putin-oversees-scaled-back-victory-day-parade-on-red-square/a-77103146?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Vladimir Putin has praised Russian troops fighting in Ukraine in a speech at Moscow&apos;s May 9 parade. The threat of Ukrainian attacks means tanks, missiles and other heavy weapons are absent from this year&apos;s event.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Suvendu Adhikari takes oath as West Bengal&apos;s first BJP chief minister",
-      "link": "https://www.dw.com/en/india-news-suvendu-adhikari-takes-oath-as-west-bengal-s-first-bjp-chief-minister/live-77102224?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Prime Minister Narendra Modi attended the swearing-in ceremony of Adhikari. Meanwhile, in Tamil Nadu, Joseph Vijay&apos;s road to power has been cleared after his party secured outside support. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Eurovision 2026: Politics collide with a blockbuster show",
-      "link": "https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Controversy over Israel&apos;s participation and boycotts unprecedented in scale are already weighing on the Eurovision Song Contest before it even kicks off in Vienna.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s sugar tax sparks &apos;nanny state&apos; debate",
-      "link": "https://www.dw.com/en/germany-s-sugar-tax-sparks-nanny-state-debate/a-77083208?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Friedrich Merz&apos;s government has agreed to introduce a sugar levy on soft drinks as part of its health care reforms. Critics have called it disproportionate interference, but dozens of countries already have such a levy.",
       "tier": 2
     }
   ]
