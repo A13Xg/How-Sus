@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T01:17:26.328Z",
+  "generatedAt": "2026-05-13T13:09:30.176Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,18 +32,90 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "No sign of larger hantavirus outbreak, says UN health agency",
-      "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 17:55:12 GMT",
-      "snippet": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
+      "title": "What to know as Trump visits Xi in China",
+      "link": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 13:01:51 GMT",
+      "snippet": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Trump says Iran ceasefire is on 'massive life support'",
-      "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 00:59:12 GMT",
-      "snippet": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+      "title": "More than 1,000 passengers held on cruise after gastrointestinal illness outbreak",
+      "link": "https://www.bbc.com/news/articles/cn5pe4yel1ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 12:53:05 GMT",
+      "snippet": "The ship, which set sail from Belfast on Friday, is at port in Bordeaux after 49 people fell ill from gastrointestinal illness.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Climbers clear path to Everest summit past giant chunk of ice",
+      "link": "https://www.bbc.com/news/articles/c3w2np14g92o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 11:57:37 GMT",
+      "snippet": "Nearly 1,000 climbers will attempt to scale the peak in coming weeks and this has raised safety concerns.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Shrinking Milka chocolate bar tricked consumers, says German court",
+      "link": "https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 11:29:53 GMT",
+      "snippet": "A court in Bremen has found the manufacturer of the classic Alpine Milk chocolate bar guilty of \"shrinkflation\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Gaza sisters win prize for turning rubble into reusable bricks",
+      "link": "https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 11:44:48 GMT",
+      "snippet": "Displaced teenagers Farah and Tala wanted to 'turn destruction into something useful'.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigerian film star Alexx Ekubo dies aged 40",
+      "link": "https://www.bbc.com/news/articles/c74d1j2ew0yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 10:47:55 GMT",
+      "snippet": "The actor was recognised for his contributions to entertainment as well as his humanitarian efforts.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
+      "link": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 11:05:47 GMT",
+      "snippet": "The voluntary recall follows an incident on 20 April where an empty Waymo car entered a flooded road in San Antonio, Texas.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
+      "link": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 08:24:28 GMT",
+      "snippet": "The foreign minister says the \"distressed\" Ghanaians registered with the embassy in Pretoria to be evacuated.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Air India crisis deepens ahead of final Ahmedabad crash report",
+      "link": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 12 May 2026 22:15:50 GMT",
+      "snippet": "Air India faces a leadership vacuum and mounting financial losses as it struggles to recover from the crash.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Jason Collins, NBA's first openly gay player, dies aged 47",
+      "link": "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 00:40:54 GMT",
+      "snippet": "Collins shared late last year that he had been diagnosed with an aggressive form of brain cancer.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
+      "link": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 01:59:53 GMT",
+      "snippet": "That pricetag is nearly seven times higher than Trump's initial estimate, found an independent budget office.",
       "tier": 1
     },
     {
@@ -64,10 +136,18 @@
     },
     {
       "source": "BBC World",
-      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-      "link": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 18:36:58 GMT",
-      "snippet": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
+      "title": "Thief jailed after stealing unreleased Beyoncé music from car",
+      "link": "https://www.bbc.com/news/articles/cx213vnvxvwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 00:01:04 GMT",
+      "snippet": "The man smashed into a car and stole luggage containing hard drives with the singer's tracks.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "No sign of larger hantavirus outbreak, says UN health agency",
+      "link": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 12 May 2026 17:55:12 GMT",
+      "snippet": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
       "tier": 1
     },
     {
@@ -111,163 +191,83 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "EU needs to delay social media access for children - von der Leyen",
-      "link": "https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 11:00:34 GMT",
-      "snippet": "She told an EU summit that an expert panel was due to come up with steps on how to protect minors online by July.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Mexico cancels plans to end school year early for World Cup",
-      "link": "https://www.bbc.com/news/articles/cy02w7nzdg1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 10:52:14 GMT",
-      "snippet": "Parents were angry at a proposal to end classes on 5 June instead of 15 July due to the tournament and expected extreme heat.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Snack giant switches to black and white packaging as Iran war hits ink supplies",
-      "link": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 07:46:47 GMT",
-      "snippet": "The effective closure of the Strait of Hormuz has severely disrupted global supplies of energy and petrochemicals.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Canvas hack: Company pays criminals to delete students' stolen data",
-      "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 10:31:23 GMT",
-      "snippet": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Texas accuses Netflix of spying on users, including children",
-      "link": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 10:01:54 GMT",
-      "snippet": "The lawsuit comes amid increased scrutiny over platform features like auto-play that deliver endless content to users.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
-      "link": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 11:13:54 GMT",
-      "snippet": "In a first since these meetings started in the 1970s, this move reflects a change in France's thinking.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Pakistan struck a rehab centre and killed 269 Afghans. Their families want to know why",
-      "link": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 07:31:14 GMT",
-      "snippet": "There are calls to investigate the 16 March airstrike - which the UN says likely killed more - as a war crime.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "How the Trump-Xi summit could set superpower relations for many years to come",
-      "link": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 20:11:11 GMT",
-      "snippet": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ex-Philippine leader Duterte's drug war enforcer escapes ICC arrest",
-      "link": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 04:37:03 GMT",
-      "snippet": "Senator Ronald \"Bato\" Dela Rosa, a former national police chief, has sought refuge in the senate.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'Britain at the heart of Europe': How Starmer's plans are going down in the EU",
-      "link": "https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 11 May 2026 17:15:52 GMT",
-      "snippet": "Sir Keir Starmer pledged to rebuild the UK's relationship with Europe in a defiant speech on Monday.",
+      "source": "NPR News",
+      "title": "War in Iran costs $29 billion so far. And, students are finally improving in math",
+      "link": "https://www.npr.org/2026/05/13/g-s1-121812/up-first-newsletter-war-iran-marty-makary-student-education-scorecard-trump-pardons",
+      "publishedAt": "Wed, 13 May 2026 07:03:01 -0400",
+      "snippet": "Pentagon officials told Congress they estimate the war in Iran has cost $29 billion so far. And, a new Education Scorecard shows U.S. students are improving in math.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Jason Collins, NBA&apos;s first openly gay player, dies at 47 of brain tumor",
-      "link": "https://www.npr.org/2026/05/12/g-s1-121763/jason-collins-nba-dies",
-      "publishedAt": "Tue, 12 May 2026 20:17:45 -0400",
-      "snippet": "Jason Collins, the NBA&apos;s first openly gay player who went on to become a pioneer for inclusion and an ambassador for the league, has died after an eight-month battle with an aggressive form of a brain tumor, his family announced Tuesday.",
+      "title": "Putin hails Russia&apos;s test launch of a new ballistic missile",
+      "link": "https://www.npr.org/2026/05/13/g-s1-121801/russias-new-ballistic-missile",
+      "publishedAt": "Wed, 13 May 2026 06:20:42 -0400",
+      "snippet": "Russia test-fired a new intercontinental ballistic missile as part of efforts to modernize its nuclear forces. The nuclear-armed Sarmat missile would enter combat service at the end of the year.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "OpenAI&apos;s Sam Altman takes the stand to fend off Elon Musk&apos;s accusations he &apos;stole a charity&apos;",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5811730/openai-sam-altman-testimony-elon-musk-trial",
-      "publishedAt": "Tue, 12 May 2026 17:58:07 -0400",
-      "snippet": "The trial pits two of tech&apos;s most famous personalities against each other and could lead to seismic changes for the maker of ChatGPT.",
+      "title": "Japanese snack packages turning black-and-white as Iran war depletes ink supply",
+      "link": "https://www.npr.org/2026/05/13/nx-s1-5820671/japanese-snack-packages-black-and-white",
+      "publishedAt": "Wed, 13 May 2026 06:13:46 -0400",
+      "snippet": "The packaging on some snacks is turning black-and-white, as the war in Iran disrupts the supply of an ingredient used in colored ink. Calbee&apos;s chips originally came in a bright-orange bag.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Omaha&apos;s U.S. House race will test candidates&apos; ability to reach beyond party lines",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5815289/omaha-and-centrist-politics",
-      "publishedAt": "Tue, 12 May 2026 17:35:49 -0400",
-      "snippet": "Omaha, Neb., is home to a toss-up Congressional race this year. Voters have shown a willingness to vote for moderate candidates from both parties, but has the definition of a moderate now changed?",
+      "title": "Some Minneapolis donors have moved on. The immigrants waiting for help haven&apos;t",
+      "link": "https://www.npr.org/2026/05/13/nx-s1-5813701/minneapolis-donors-moved-on-immigrants-waiting-for-help-havent",
+      "publishedAt": "Wed, 13 May 2026 06:10:00 -0400",
+      "snippet": "During Operation Metro Surge, mutual aid efforts raised millions of dollars. But with most agents gone and increasing fatigue from the community, funds are drying up and people are moving on. Immigrants are not.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "About 7 million kids live in a home with a loaded and unlocked gun, a study finds",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5818460/gun-safe-storage-children-suicide-homicide",
-      "publishedAt": "Tue, 12 May 2026 17:18:56 -0400",
-      "snippet": "The new study in JAMA Network Open also finds that more parents leave their guns loaded and unlocked when they have teenagers, despite the fact that suicide risk goes up for this age group.",
+      "title": "An intimate look at one military family&apos;s life on pause as the Iran war continues",
+      "link": "https://www.npr.org/2026/05/13/nx-s1-5818466/iran-war-family-military",
+      "publishedAt": "Wed, 13 May 2026 05:01:00 -0400",
+      "snippet": "Military life has always involved some degree of uncertainty. But for many families, the fear and unknowns that come with the Iran war are new territory.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "How Americans see China now",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5761387/how-americans-see-china-now",
-      "publishedAt": "Tue, 12 May 2026 17:18:16 -0400",
-      "snippet": "As President Trump heads to China this week, a new NPR-Chicago Council-Ipsos poll finds most Americans think U.S. tariffs have hurt both economies, and that the Iran war is bad for America.",
+      "title": "How the Trump administration has undermined the fight against public corruption",
+      "link": "https://www.npr.org/2026/05/13/g-s1-121485/trump-pardons-public-corruption-justice",
+      "publishedAt": "Wed, 13 May 2026 05:00:00 -0400",
+      "snippet": "At least 15 former elected officials and co-conspirators with corruption offenses have been pardoned by President Trump in the last year, undermining the fight against public corruption.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The SPLC survived firebombs and death threats. Will it survive Trump 2.0?",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5797490/splc-doj-extremism-trump",
-      "publishedAt": "Tue, 12 May 2026 16:29:17 -0400",
-      "snippet": "The Southern Poverty Law Center is facing a serious threat from the Justice Department — and comes at a time when several former and current SPLC employees say the group is already deeply vulnerable.",
+      "title": "Short flights are popular. Will they last?",
+      "link": "https://www.npr.org/2026/05/13/nx-s1-5781256/short-flights-days-numbered",
+      "publishedAt": "Wed, 13 May 2026 05:00:00 -0400",
+      "snippet": "Some flights are less than 100 miles, and they&apos;re the backbone of the U.S. air system, linking small towns and big cities. But short routes were in decline even before jet fuel costs spiked.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "FDA commissioner resigns after tumultuous tenure",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5819722/fda-commissioner-makary-resigns",
-      "publishedAt": "Tue, 12 May 2026 15:35:04 -0400",
-      "snippet": "The resignation ends Dr. Marty Makary&apos;s management of the Food and Drug Administration, which was marked by turmoil and controversy.",
+      "title": "Is the U.S. slipping into &apos;Competitive Authoritarianism?&apos;",
+      "link": "https://www.npr.org/2026/05/13/nx-s1-5816313/word-of-week-competitive-authoritarianism",
+      "publishedAt": "Wed, 13 May 2026 05:00:00 -0400",
+      "snippet": "What form of government do we have in America now? Some scholars say it is no longer liberal democracy, but \"competitive authoritarianism.\" NPR&apos;s Frank Langfitt explains the term and its origin.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Alabama splits U.S. House primaries after court ruling; S.C. redistricting stalls",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5819600/alabama-congressional-redistricting-special-election",
-      "publishedAt": "Tue, 12 May 2026 15:24:05 -0400",
-      "snippet": "Alabama will hold a special primary election for four of its seven congressional districts, after the Supreme Court cleared the way — and as redistricting ripples through the South.",
+      "title": "French hantavirus patient is critically ill as outbreak grows to 11",
+      "link": "https://www.npr.org/2026/05/13/nx-s1-5820639/french-hantavirus-patient-critically-ill",
+      "publishedAt": "Wed, 13 May 2026 03:31:20 -0400",
+      "snippet": "A French woman infected in the deadly hantavirus outbreak on a cruise ship is critically ill and being treated with an artificial lung. The outbreak has now reached 11 total reported cases, 9 of which have been confirmed.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Israel&apos;s government is expected to collapse over ultra-Orthodox military draft",
-      "link": "https://www.npr.org/2026/05/12/g-s1-121631/israel-military-ultra-orthodox-netanyahu-coalition",
-      "publishedAt": "Tue, 12 May 2026 14:43:28 -0400",
-      "snippet": "An ultra-Orthodox Jewish party in Israeli Prime Minister Benjamin Netanyahu&apos;s coalition has called for parliament to be dissolved, threatening to bring down the government.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Transportation Secretary Duffy filmed a reality show, funded by firms he regulates",
-      "link": "https://www.npr.org/2026/05/12/nx-s1-5818190/sean-duffy-road-trip-reality-show-sponsors",
-      "publishedAt": "Tue, 12 May 2026 12:11:38 -0400",
-      "snippet": "Secretary Duffy, his wife and nine kids took a \"Great American Road Trip\" to celebrate America&apos;s 250th. They say no taxpayers funded the project. But a nonprofit with transport-related sponsors did.",
+      "title": "$4.8M settlement reached over Louisiana traffic stop death, AP sources say",
+      "link": "https://www.npr.org/2026/05/13/g-s1-121782/settlement-louisiana-death",
+      "publishedAt": "Wed, 13 May 2026 03:09:41 -0400",
+      "snippet": "Louisiana officials have agreed to a tentative $4.8 million settlement with the family of Ronald Greene, a Black motorist who died during a violent roadside arrest carried out by five white officers.",
       "tier": 1
     },
     {
@@ -440,6 +440,118 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Gunshots heard at Philippine Senate as ICC arrest expected",
+      "link": "https://www.dw.com/en/gunshots-heard-at-philippine-senate-as-icc-arrest-expected/a-77148502?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Gunshots have been reported inside the Philippine Senate as armed troops entered the building. The chaos comes as one senator faces imminent arrest over an ICC warrant.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump arrives in China ahead of summit with Xi Jinping",
+      "link": "https://www.dw.com/en/trump-arrives-in-china-ahead-of-summit-with-xi-jinping/live-77140304?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "President Donald Trump is expected to address the Iran war, trade and Taiwan in talks with China&apos;s Xi Jinping. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Fake TikTok fans and the history of &apos;unethical&apos; music marketing",
+      "link": "https://www.dw.com/en/fake-tiktok-fans-and-the-history-of-unethical-music-marketing/a-77091563?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Do indie darlings like Sombr and Geese owe their success to TikTok \"trend simulations\"? The question has sent shockwaves through their fan base. Yet manipulated charts are as old as the music business itself.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Cem Özdemir, first German state premier with Turkish roots",
+      "link": "https://www.dw.com/en/cem-özdemir-first-german-state-premier-with-turkish-roots/a-76252684?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Cem Özdemir is the first leader of a German federal state to have Turkish roots. His Green Party won elections in the wealthy southwestern region of Baden-Württemberg.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ceasefire in sight? What&apos;s next for Russia&apos;s war in Ukraine",
+      "link": "https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Four years since Russia&apos;s full-scale invasion of Ukraine, is the end finally in sight? DW spoke to US political experts about why they think US home elections could bring about a ceasefire.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: Oil stocks being used up at record pace, IEA warns",
+      "link": "https://www.dw.com/en/iran-war-oil-stocks-being-used-up-at-record-pace-iea-warns/live-77141937?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The International Energy Agency warned of \"rapidly shrinking buffers.\" Meanwhile, Iranian Foreign Minister Araghchi is en route to Delhi for a BRICS gathering which is set to be dominated by the conflict. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Carmakers paint bleak picture on jobs",
+      "link": "https://www.dw.com/en/germany-news-carmakers-paint-bleak-picture-on-jobs/live-77142074?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "German automakers say there is a strong likelihood of huge job losses over the next decade. Meanwhile, Germany&apos;s football fans are wondering whether former national keeper Manuel Neuer is set to return. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "China’s new rules give the West a new headache",
+      "link": "https://www.dw.com/en/china-s-new-rules-give-the-west-a-new-headache/a-77075741?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Beijing now has strong new powers to punish firms for pulling manufacturing out of China. Multinationals are increasingly caught in a web of coercion and complex rules as they try to operate across the US, EU and China.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Satellites add a new layer to global poverty data",
+      "link": "https://www.dw.com/en/satellites-add-a-new-layer-to-global-poverty-data/a-77130563?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A new study using satellite data finds that 58% of the global population has been assigned to the wrong tier in the UN&apos;s Human Development Index. That can have real-world consequences for how aid reaches people.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India&apos;s Modi cuts size of convoy in austerity move — reports",
+      "link": "https://www.dw.com/en/india-s-modi-cuts-size-of-convoy-in-austerity-move-reports/live-77140937?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Prime Minister Narendra Modi has reportedly reduced the number of vehicles in his official convoy. The reports come as Modi is making an austerity appeal to Indians. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Is caring about the climate unmanly?",
+      "link": "https://www.dw.com/en/is-caring-about-the-climate-unmanly/a-76779473?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The answer is complex — and says a lot about how masculinity works in the modern world.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nauru moves to change its name in break from colonial past",
+      "link": "https://www.dw.com/en/nauru-moves-to-change-its-name-in-break-from-colonial-past/a-77140283?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The parliament of Nauru has agreed to change the South Pacific microstate&apos;s name to \"Naoero\". A referendum will now take place on the constitutional change.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Argentina sees vast protests against Milei&apos;s university cuts",
+      "link": "https://www.dw.com/en/argentina-sees-vast-protests-against-milei-s-university-cuts/a-77139842?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Organizers estimated that some 600,000 students, university staff, union members and opposition supporters attended the protest in Buenos Aires alone.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "OpenAI boss Sam Altman says Musk wanted control of company",
+      "link": "https://www.dw.com/en/openai-boss-sam-altman-says-musk-wanted-control-of-company/a-77139248?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Sam Altman testified in trial that could determine the future of OpenAI, the company behind ChatGPT.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Canvas owner secures student data in deal with hacking group",
       "link": "https://www.dw.com/en/canvas-owner-secures-student-data-in-deal-with-hacking-group/a-77138028?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -459,7 +571,7 @@
       "title": "EU invites Taliban members to discuss Afghan migrant returns",
       "link": "https://www.dw.com/en/eu-invites-taliban-members-to-discuss-afghan-migrant-returns/a-77134268?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The European Commission has invited officials from Afghanitan&apos;s Taliban to discuss the returns of certain migrants. It&apos;s controversial on humanitarian grounds, and because Brussels doesn&apos;t recognize Taliban authority.",
+      "snippet": "The European Commission has invited officials from Afghanistan&apos;s Taliban to discuss the returns of certain migrants. It&apos;s controversial on humanitarian grounds, and because Brussels doesn&apos;t recognize Taliban authority.",
       "tier": 2
     },
     {
@@ -472,122 +584,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "As super &apos;El Nino&apos; looms, wildfires are set to heat up",
-      "link": "https://www.dw.com/en/as-super-el-nino-looms-wildfires-are-set-to-heat-up/a-77137100?maca=en-rss-en-top-1022-rdf",
+      "title": "Hotter 2026 and El Nino could trigger extreme fires",
+      "link": "https://www.dw.com/en/hotter-2026-and-el-nino-could-trigger-extreme-fires/a-77137100?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "More than 150 million hectares — over twice the size of Texas — burned globally in the first months of 2026. With a high chance of a supercharged El Nino, the second half of the year could be even worse.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Nigeria airstrike kills 100 at market, Amnesty says",
-      "link": "https://www.dw.com/en/nigeria-airstrike-kills-100-at-market-amnesty-says/a-77135993?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Amnesty International is calling for an investigation, saying the strike was the latest deadly attack to kill civilians. The military denies that civilians were harmed.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "2026 Rainbow Map delivers mixed picture on LGBTQ+ rights",
-      "link": "https://www.dw.com/en/2026-rainbow-map-delivers-mixed-picture-on-lgbtq-rights/a-77133454?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "ILGA Europe has released its annual ranking of LGBTQ+ rights across Europe and Central Asia, with Spain taking the top spot for the first time. But behind the numbers, activists warn of a growing backlash against LGBTQ+.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bundesliga: Kathleen Krüger appointed Hamburg&apos;s head of sport",
-      "link": "https://www.dw.com/en/bundesliga-kathleen-krüger-appointed-hamburg-s-head-of-sport/a-77135968?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Hamburg have appointed Kathleen Krüger as the club&apos;s new board member responsible for sport. She becomes the first woman to fill such a role at a Bundesliga club on a permanent basis.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump-Xi summit: High stakes for the US, China and the world",
-      "link": "https://www.dw.com/en/trump-xi-summit-high-stakes-for-the-us-china-and-the-world/a-77134255?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump is hoping for a foreign policy win at the upcoming summit with China&apos;s Xi Jinping. The Iran war, trade deals and Taiwan are expected to be high on the agenda during Trump&apos;s visit to Beijing.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Thailand scraps Cambodia naval pact amid sinking ties",
-      "link": "https://www.dw.com/en/thailand-scraps-cambodia-naval-pact-amid-sinking-ties/a-77132501?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Bangkok&apos;s decision to end MoU 44, a long-stalled maritime agreement with Cambodia, is a win for Thai nationalists. This comes as Cambodia struggles to garner international support amid controversy over scam centers.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Sport helping displaced Lebanese living in stadium to cope",
-      "link": "https://www.dw.com/en/sport-helping-displaced-lebanese-living-in-stadium-to-cope/a-77080170?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "More than a million people have been forced to flee their homes in southern Lebanon due to fighting between Israeli forces and Hezbollah. As many shelter in Beirut stadiums, sport is sometimes a welcome distraction.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "&apos;Work not over,&apos; says WHO after hantavirus evacuation",
-      "link": "https://www.dw.com/en/work-not-over-says-who-after-hantavirus-evacuation/a-77130594?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Extensive testing, contact tracing, and quarantine procedures are still needed to contain the outbreak, WHO says. However, it has stressed that the current outbreak is vastly different to the COVID-19 pandemic.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Merz booed as he advocates economic reform",
-      "link": "https://www.dw.com/en/germany-news-merz-booed-as-he-advocates-economic-reform/live-77129138?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Chancellor Friedrich Merz says Germany must buckle down to ensure economic renewal, amid geopolitical turmoil. Meanwhile, inflation is up again with energy prices a key driver pushing up costs. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK: Keir Starmer tells Cabinet he will continue in place, as four junior ministers quit",
-      "link": "https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-four-junior-ministers-quit/a-77129695?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "British Prime Minister Keir Starmer has met with his Cabinet amid continued pressure after election losses. A set piece speech yesterday failed to calm the waters, and four junior ministers resigned on Tuesday.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Young hijab-wearing German beauty contestant takes on the AfD",
-      "link": "https://www.dw.com/en/young-hijab-wearing-german-beauty-contestant-takes-on-the-afd/a-77114886?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As a Miss Germany contestant, Büsra Sayed wore a hijab on stage. This had never happened before — and the AfD didn&apos;t like it. Her response went viral.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India: New Tamil Nadu Chief Minister Vijay cracks down on state-run TASMAC liquor shops",
-      "link": "https://www.dw.com/en/india-new-tamil-nadu-chief-minister-vijay-cracks-down-on-state-run-tasmac-liquor-shops/a-77128244?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In his first major decision since becoming the chief minister of Tamil Nadu, Vijay has ordered 717 state-run TASMAC liquor stores near religious places and schools to shut down.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "What now for the role of high representative in Bosnia?",
-      "link": "https://www.dw.com/en/what-now-for-the-role-of-high-representative-in-bosnia/a-77128190?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Christian Schmidt&apos;s departure as high representative in Bosnia and Herzegovina doesn&apos;t look like a routine diplomatic handover. It seems to indicate that international powers want something different from the role.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine: Russia breaks ceasefire overnight, Zelenskyy says",
-      "link": "https://www.dw.com/en/ukraine-russia-breaks-ceasefire-overnight-zelenskyy-says/a-77128198?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ukrainian President Zelenskyy has said that Moscow launched some 200 drone strikes in a single night, bringing an end to a temporary truce. Moscow meanwhile said it intercepted 27 Ukrainian drones overnight.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU negotiators agree new rules on vital medicines",
-      "link": "https://www.dw.com/en/eu-negotiators-agree-new-rules-on-vital-medicines/a-77126715?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A new agreement aims to tackle the drug shortages that have plagued the bloc. Among other things, it would make it easier to use public funds to support the production of essential medicines.",
       "tier": 2
     }
   ]
