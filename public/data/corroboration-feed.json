@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T01:18:30.001Z",
+  "generatedAt": "2026-05-14T13:02:51.013Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -40,6 +40,30 @@
     },
     {
       "source": "BBC World",
+      "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
+      "link": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 11:44:22 GMT",
+      "snippet": "Former Power Minister Saleh Mamman was convicted last week - but the authorities do not know his whereabouts.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Latvian PM resigns after row over stray Ukrainian drones",
+      "link": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 10:53:56 GMT",
+      "snippet": "Drones bound for Russia crashed down in Latvia last week, prompting a political fallout.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+      "link": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 12:08:12 GMT",
+      "snippet": "A girl, 12, is among the dead after Russia launched attacks across Ukraine overnight, officials say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
       "link": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 14 May 2026 00:38:56 GMT",
@@ -48,34 +72,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
-      "link": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 13:37:53 GMT",
-      "snippet": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
-      "link": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 14:16:08 GMT",
-      "snippet": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "What to know as Trump visits Xi in China",
-      "link": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 13:01:51 GMT",
-      "snippet": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Gunshots fired in Philippine Senate where lawmaker wanted by ICC is holed up",
-      "link": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 15:35:15 GMT",
-      "snippet": "Senator Ronald dela Rosa, a former police chief, enforced former President Rodrigo Duterte's deadly drug war.",
+      "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
+      "link": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 05:09:04 GMT",
+      "snippet": "Rebel fighters and Rwandan troops are accused of committing atrocities after capturing the DR Congo city of Uvira in December.",
       "tier": 1
     },
     {
@@ -88,18 +88,42 @@
     },
     {
       "source": "BBC World",
-      "title": "Epstein abused me while under house arrest, survivor tells US lawmakers",
-      "link": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 13:46:15 GMT",
-      "snippet": "Roza was among several victims who gave testimony to Democratic lawmakers on Tuesday.",
+      "title": "Cuba has run out of diesel and oil, energy minister says",
+      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 09:06:23 GMT",
+      "snippet": "The minister says the situation in Cuba is \"extremely tense\", as a US-led blockade of oil to the country causes widespread power cuts.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Deadly Russian drone attacks on Ukraine resume after ceasefire expires",
-      "link": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 16:39:28 GMT",
-      "snippet": "Six people have been killed after Zelensky warned of \"more waves\" of Russian strikes through Wednesday.",
+      "title": "Gunshots fired in Philippine Senate where lawmaker wanted by ICC is holed up",
+      "link": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 15:35:15 GMT",
+      "snippet": "Senator Ronald dela Rosa, a former police chief, enforced former President Rodrigo Duterte's deadly drug war.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
+      "link": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 14:16:08 GMT",
+      "snippet": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+      "link": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 13:37:53 GMT",
+      "snippet": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Epstein abused me while under house arrest, survivor tells US lawmakers",
+      "link": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 13 May 2026 13:46:15 GMT",
+      "snippet": "Roza was among several victims who gave testimony to Democratic lawmakers on Tuesday.",
       "tier": 1
     },
     {
@@ -120,6 +144,14 @@
     },
     {
       "source": "BBC World",
+      "title": "What to know as Trump visits Xi in China",
+      "link": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 09:05:31 GMT",
+      "snippet": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Climbers clear path to Everest summit past giant chunk of ice",
       "link": "https://www.bbc.com/news/articles/c3w2np14g92o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 13 May 2026 11:57:37 GMT",
@@ -128,9 +160,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Nigerian film star Alexx Ekubo dies aged 40",
+      "title": "Nigerian film star Alexx Ekubo dies from cancer aged 40",
       "link": "https://www.bbc.com/news/articles/c74d1j2ew0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 10:47:55 GMT",
+      "publishedAt": "Thu, 14 May 2026 06:25:29 GMT",
       "snippet": "The actor was recognised for his contributions to entertainment as well as his humanitarian efforts.",
       "tier": 1
     },
@@ -159,115 +191,83 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Jason Collins, NBA's first openly gay player, dies aged 47",
-      "link": "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 00:40:54 GMT",
-      "snippet": "Collins shared late last year that he had been diagnosed with an aggressive form of brain cancer.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
-      "link": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 13 May 2026 01:59:53 GMT",
-      "snippet": "That pricetag is nearly seven times higher than Trump's initial estimate, found an independent budget office.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-      "link": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 20:00:05 GMT",
-      "snippet": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
-      "link": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 12 May 2026 16:19:24 GMT",
-      "snippet": "Andriy Yermak was named by Ukraine's two anti-corruption agencies as a suspect in a money-laundering scheme.",
+      "source": "NPR News",
+      "title": "As Trump visits Beijing, an LA-area mayor admits to acting as an agent for China",
+      "link": "https://www.npr.org/2026/05/14/nx-s1-5819933/china-trump-trip-la-agent-mayor-arcardia",
+      "publishedAt": "Thu, 14 May 2026 08:06:17 -0400",
+      "snippet": "Eileen Wang, now the former mayor of the City of Arcadia, agreed to plead guilty to one felony charge that she acted as an illegal foreign agent of China.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Denise Powell wins Democratic primary for Nebraska&apos;s 2nd congressional district",
-      "link": "https://www.npr.org/2026/05/13/g-s1-121987/denise-powell-democrat-wins-nebraska-second-congressional-district",
-      "publishedAt": "Wed, 13 May 2026 20:59:31 -0400",
-      "snippet": "Political organizer Denise Powell has defeated State Sen. John Cavanaugh to win the Democratic primary in the closely watched race for Nebraska&apos;s second congressional district.",
+      "title": "Trump tries to make deals in China. And, Senate confirms Kevin Warsh as Fed leader",
+      "link": "https://www.npr.org/2026/05/14/g-s1-122014/up-first-newsletter-china-taiwan-trump-law-firms-kevin-warsh-denise-powell-nebraska",
+      "publishedAt": "Thu, 14 May 2026 07:32:21 -0400",
+      "snippet": "President Trump is vying to make deals with China during his visit with President Xi Jinping. And, the Senate confirmed Kevin Warsh as the next leader of the Federal Reserve.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Remains of 2nd U.S. soldier who went missing in Morocco have been recovered",
-      "link": "https://www.npr.org/2026/05/13/g-s1-121985/missing-american-soldier-morocco-remains-recovered",
-      "publishedAt": "Wed, 13 May 2026 20:43:45 -0400",
-      "snippet": "Spc. Mariyah Symone Collington, 19, of Taveres, Florida, is the second U.S. soldier who fell off a cliff during a recreational hike in Morocco. The remains of 1st Lt. Kendrick Lamont Key Jr. were recovered last week.",
+      "title": "China&apos;s leader warns Trump that differences over Taiwan could lead to a clash",
+      "link": "https://www.npr.org/2026/05/14/nx-s1-5822168/trump-xi-summit",
+      "publishedAt": "Thu, 14 May 2026 07:02:00 -0400",
+      "snippet": "At the summit, the Chinese leader placed Taiwan, a key point of friction between the U.S. and China, at the center, calling it \"the most important issue\" between the two countries.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Foreign ticket holders from World Cup teams&apos; countries won&apos;t have to pay bonds to enter U.S.",
-      "link": "https://www.npr.org/2026/05/13/g-s1-121912/foreign-ticket-holders-world-cup-bonds",
-      "publishedAt": "Wed, 13 May 2026 16:24:12 -0400",
-      "snippet": "The Trump administration is suspending a requirement that visitors from countries that have qualified for the World Cup and bought tickets for the tournament pay as much as $15,000 in bonds to enter the U.S.",
+      "title": "A brain-controlled system may help listeners with hearing loss cut through the noise",
+      "link": "https://www.npr.org/2026/05/14/nx-s1-5821161/brain-controlled-hearing-aids-cocktail-party-effect",
+      "publishedAt": "Thu, 14 May 2026 07:00:00 -0400",
+      "snippet": "A hearing system that monitors brain waves could help people with hearing loss communicate in noisy environments.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Senate confirms Kevin Warsh as next chair of the Federal Reserve",
-      "link": "https://www.npr.org/2026/05/13/nx-s1-5816235/kevin-warsh-federal-reserve-chair-jerome-powell",
-      "publishedAt": "Wed, 13 May 2026 15:00:31 -0400",
-      "snippet": "Warsh has argued there&apos;s room for the central bank to lower interest rates, but that could be challenging at a time of rising inflation.",
+      "title": "The MAHA movement is coming to school cafeterias. Here&apos;s what that means for kids",
+      "link": "https://www.npr.org/2026/05/14/nx-s1-5688946/school-lunches-dietary-guidelines-maha",
+      "publishedAt": "Thu, 14 May 2026 05:00:00 -0400",
+      "snippet": "U.S. school districts worry it could get even more expensive to prepare a meal under new federal dietary guidelines, as they also contend with cuts to programs that helped them buy local food.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Neanderthals may have drilled out a cavity 59,000 years ago",
-      "link": "https://www.npr.org/2026/05/13/nx-s1-5815047/neanderthal-tooth-dentistry-cavity-drill",
-      "publishedAt": "Wed, 13 May 2026 14:30:06 -0400",
-      "snippet": "Scientists dug up a Paleolithic tooth that shows signs that these hominins may have been capable of executing a precise dental procedure.",
+      "title": "Voters are caught in the middle as the redistricting battle intensifies",
+      "link": "https://www.npr.org/2026/05/14/nx-s1-5818507/redistricting-voters-louisiana-alabama-virginia",
+      "publishedAt": "Thu, 14 May 2026 05:00:00 -0400",
+      "snippet": "Much of the focus of the ongoing redistricting war has been on which political party will come out on top. But it&apos;s voters who will pay a cost, say voting experts and voting rights advocates.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Greetings from Seville, where springtime means caracoles",
-      "link": "https://www.npr.org/2026/05/13/g-s1-121409/seville-spain-snails-caracoles",
-      "publishedAt": "Wed, 13 May 2026 13:16:10 -0400",
-      "snippet": "Spring is snail season in Seville. Caracoles in southern Spain differ from the well-known French escargot — they&apos;re smaller and eaten directly from the shell. And everyone has a favorite tapas bar that serves them.",
+      "title": "Ex-DOJ official goes public with blistering criticism of his former bosses",
+      "link": "https://www.npr.org/2026/05/14/nx-s1-5802959/doj-trump-doj-todd-blanche-jan-6-capitol-riot",
+      "publishedAt": "Thu, 14 May 2026 05:00:00 -0400",
+      "snippet": "Until recently, Jonathan Gross was a Trump political appointee at the Department of Justice and worked on its \"Weaponization Working Group.\" He has now become a vocal critic of the department.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Alex Murdaugh will get a new murder trial. Here&apos;s a timeline of his case",
-      "link": "https://www.npr.org/2026/05/13/nx-s1-5719271/alex-murdaugh-murder-timeline-trial",
-      "publishedAt": "Wed, 13 May 2026 10:27:21 -0400",
-      "snippet": "Alex Murdaugh — the disgraced former lawyer serving a life term for the murders of his wife and son — will get a new trial in South Carolina, the state Supreme Court said on Wednesday.",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/05/14/nx-s1-5820685/morning-news-brief",
+      "publishedAt": "Thu, 14 May 2026 04:47:35 -0400",
+      "snippet": "President Trump met with Chinese President Xi Jingping for summit during first day in the country, what Asia thinks of Trump&apos;s visit, appeals court hears arguments from law firms targeted by Trump.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Gunfire breaks out in Philippine Senate as police try to arrest senator",
-      "link": "https://www.npr.org/2026/05/13/g-s1-121827/gunfire-breaks-out-in-philippine-senate-as-police-try-to-arrest-senator",
-      "publishedAt": "Wed, 13 May 2026 09:47:28 -0400",
-      "snippet": "Witnesses say a burst of gunfire has rung out in the Philippine Senate where authorities have tried to arrest a senator who is wanted by the ICC.",
+      "title": "How Asia is reacting to Trump&apos;s summit in China",
+      "link": "https://www.npr.org/2026/05/14/nx-s1-5821091/how-asia-is-reacting-to-trumps-summit-in-china",
+      "publishedAt": "Thu, 14 May 2026 04:46:10 -0400",
+      "snippet": "President Trump is in Beijing for his big summit with Chinese leaders. How Asia is reacting to the summit.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "War in Iran costs $29 billion so far. And, students are finally improving in math",
-      "link": "https://www.npr.org/2026/05/13/g-s1-121812/up-first-newsletter-war-iran-marty-makary-student-education-scorecard-trump-pardons",
-      "publishedAt": "Wed, 13 May 2026 07:03:01 -0400",
-      "snippet": "Pentagon officials told Congress they estimate the war in Iran has cost $29 billion so far. And, a new Education Scorecard shows U.S. students are improving in math.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Putin hails Russia&apos;s test launch of a new ballistic missile",
-      "link": "https://www.npr.org/2026/05/13/g-s1-121801/russias-new-ballistic-missile",
-      "publishedAt": "Wed, 13 May 2026 06:20:42 -0400",
-      "snippet": "Russia test-fired a new intercontinental ballistic missile as part of efforts to modernize its nuclear forces. The nuclear-armed Sarmat missile would enter combat service at the end of the year.",
+      "title": "UAE denies Netanyahu secretly visited the country during the Iran war",
+      "link": "https://www.npr.org/2026/05/14/nx-s1-5822156/uae-netanyahu-visit",
+      "publishedAt": "Thu, 14 May 2026 03:16:55 -0400",
+      "snippet": "Israeli Prime Minister Benjamin Netanyahu quietly visited the United Arab Emirates during the Israeli-U.S. war with Iran, his office said Wednesday. The UAE later denied any secret visit had occurred.",
       "tier": 1
     },
     {
@@ -440,6 +440,94 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Japan: Saving elderly people from &apos;lonely deaths&apos;",
+      "link": "https://www.dw.com/en/japan-saving-elderly-people-from-lonely-deaths/a-77160864?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As Japanese society changes, many elderly people find themselves isolated and facing a \"lonely death.\" Government agencies and private groups are working hard to give them a new lease on life.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Who is Mario Draghi, this year&apos;s Charlemagne Prize winner?",
+      "link": "https://www.dw.com/en/who-is-mario-draghi-this-year-s-charlemagne-prize-winner/a-77115925?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Charlemagne Prize honors those who advance European unity. This year&apos;s winner is Italy&apos;s Mario Draghi, a former European Central Bank chief and a key architect of European stability during a time of economic crisis.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Latvia: Prime Minister Evika Silina resigns over handling of drone incidents after coalition ally&apos;s withdrawal",
+      "link": "https://www.dw.com/en/latvia-prime-minister-evika-silina-resigns-over-handling-of-drone-incidents-after-coalition-ally-s-withdrawal/a-77159518?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Evika Silina says she is resigning her post, following the defense minister&apos;s resignation and the coalition government&apos;s collapse amid controversy over Ukrainian drones aimed at Russia that landed in the Baltic country.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Merkel urges patience for Merz&apos;s coalition",
+      "link": "https://www.dw.com/en/germany-news-merkel-urges-patience-for-merz-s-coalition/live-77157896?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Former Chancellor Angela Merkel says she thinks people need to have patience with the coalition government, amid widespread dissatisfaction. Meanwhile, Germany&apos;s men are celebrating Father&apos;s Day. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war tensions, oil shocks dominate BRICS talks in India",
+      "link": "https://www.dw.com/en/iran-war-tensions-oil-shocks-dominate-brics-talks-in-india/a-77158355?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The BRICS bloc faces major challenges as foreign ministers meet in India, bringing Iran and the UAE face-to-face. The conflict in the Gulf and disruptions to oil supplies dominate the agenda.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Honda reports first loss since 1957 as it waters down EV strategy, but shares rise on 2026 forecasts",
+      "link": "https://www.dw.com/en/honda-reports-first-loss-since-1957-as-it-waters-down-ev-strategy-but-shares-rise-on-2026-forecasts/a-77158590?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Japanese carmaker pursued an aggressive switch towards electric vehicles that it&apos;s now trying to walk back. Despite posting its first loss since 1957, its share price spiked on more buoyant predictions for 2026.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "China goes electric, but can it get off coal?",
+      "link": "https://www.dw.com/en/china-goes-electric-but-can-it-get-off-coal/a-77147566?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The world&apos;s clean energy superpower also emits the most CO2. But coal-fired power may have peaked as China electrifies its economy with ever more renewables.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine court orders arrest of Zelenskyy ally Andriy Yermak",
+      "link": "https://www.dw.com/en/ukraine-court-orders-arrest-of-zelenskyy-ally-andriy-yermak/a-77156977?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Andriy Yermak resigned in November 2025, after investigators raided his home in a sweeping corruption probe.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "&apos;Regime change&apos;: Hungary&apos;s Magyar exposes Orban&apos;s decadence",
+      "link": "https://www.dw.com/en/regime-change-hungary-s-magyar-exposes-orban-s-decadence/a-77153692?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Prime Minister Peter Magyar has taken power and laid bare his predecessor&apos;s luxurious lifestyle. Many Hungarians are keen to see Magyar chart a new political course.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "China warns Trump over Taiwan question at high-stakes summit",
+      "link": "https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Chinese state media reported that Xi Jinping raised the question of Taiwan during his meeting with Donald Trump. The pair held talks for about two hours. Follow live.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US drops bond requirement for FIFA World Cup ticket holders",
+      "link": "https://www.dw.com/en/us-drops-bond-requirement-for-fifa-world-cup-ticket-holders/a-77155757?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Fans from five African World Cup qualifying nations with valid tickets are exempt from paying a hefty bond. But fans from several other countries still face major hurdles to seeing their teams play in the United States.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Trump&apos;s Federal Reserve chair nominee confirmed by Senate",
       "link": "https://www.dw.com/en/trump-s-federal-reserve-chair-nominee-confirmed-by-senate/a-77154907?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -496,98 +584,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Trump arrives in China ahead of summit with Xi Jinping",
-      "link": "https://www.dw.com/en/trump-arrives-in-china-ahead-of-summit-with-xi-jinping/live-77140304?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "During high-stakes talks with China&apos;s leader, US President Donald Trump is expected to address the Iran war, trade and Taiwan. Trump posted while en route that he wants China to \"open up\" to US business. Follow DW.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Israeli-Palestinian conflict: Allegations of sexual abuse",
       "link": "https://www.dw.com/en/israeli-palestinian-conflict-allegations-of-sexual-abuse/a-77132994?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The issue of systemic sexual abuses as part of the Israeli-Palestinian conflict is back in the spotlight following new testimonies. Both Israel and Hamas deny the claims.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Indians growing anxious as Modi asks them to cut on fuel",
-      "link": "https://www.dw.com/en/indians-growing-anxious-as-modi-asks-them-to-cut-on-fuel/a-77146787?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "With energy prices rising, Prime Minister Narendra Modi has urged Indians to embrace voluntary austerity to protect the economy from the fallout of the war in Iran. But residents say they are already at their limit.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fake TikTok fans and pop music&apos;s &apos;unethical&apos; marketing",
-      "link": "https://www.dw.com/en/fake-tiktok-fans-and-pop-music-s-unethical-marketing/a-77091563?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Do indie darlings like Sombr and Geese owe their success to TikTok \"trend simulations\"? The question has sent shockwaves through their fan base. Yet manipulated charts are as old as the music business itself.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Cem Özdemir, first German state premier with Turkish roots",
-      "link": "https://www.dw.com/en/cem-özdemir-first-german-state-premier-with-turkish-roots/a-76252684?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Cem Özdemir is the first leader of a German federal state to have Turkish roots. His Green Party won elections in the wealthy southwestern region of Baden-Württemberg.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ceasefire in sight? What&apos;s next for Russia&apos;s war in Ukraine",
-      "link": "https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Four years since Russia&apos;s full-scale invasion of Ukraine, is the end finally in sight? DW spoke to US political experts about why they think US home elections could bring about a ceasefire.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: Oil stocks being used up at record pace, IEA warns",
-      "link": "https://www.dw.com/en/iran-war-oil-stocks-being-used-up-at-record-pace-iea-warns/live-77141937?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The International Energy Agency warned of \"rapidly shrinking buffers.\" Meanwhile, Iranian Foreign Minister Araghchi is en route to Delhi for a BRICS gathering which is set to be dominated by the conflict. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Carmakers paint bleak picture on jobs",
-      "link": "https://www.dw.com/en/germany-news-carmakers-paint-bleak-picture-on-jobs/live-77142074?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "German automakers say there is a strong likelihood of huge job losses over the next decade. Meanwhile, Germany&apos;s football fans are wondering whether former national keeper Manuel Neuer is set to return.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "China’s new rules give the West a new headache",
-      "link": "https://www.dw.com/en/china-s-new-rules-give-the-west-a-new-headache/a-77075741?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Beijing now has strong new powers to punish firms for pulling manufacturing out of China. Multinationals are increasingly caught in a web of coercion and complex rules as they try to operate across the US, EU and China.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Satellites add a new layer to global poverty data",
-      "link": "https://www.dw.com/en/satellites-add-a-new-layer-to-global-poverty-data/a-77130563?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A new study using satellite data finds that 58% of the global population has been assigned to the wrong tier in the UN&apos;s Human Development Index. That can have real-world consequences for how aid reaches people.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India&apos;s Modi cuts size of convoy in austerity move — reports",
-      "link": "https://www.dw.com/en/india-s-modi-cuts-size-of-convoy-in-austerity-move-reports/live-77140937?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Prime Minister Narendra Modi has reportedly reduced the number of vehicles in his official convoy. The reports come as Modi is making an austerity appeal to Indians.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Is caring about the climate unmanly?",
-      "link": "https://www.dw.com/en/is-caring-about-the-climate-unmanly/a-76779473?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The answer is complex — and says a lot about how masculinity works in the modern world.",
       "tier": 2
     }
   ]
