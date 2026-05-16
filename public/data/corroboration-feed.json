@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T13:02:58.893Z",
+  "generatedAt": "2026-05-16T01:11:12.456Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,146 +32,106 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 21:28:25 GMT",
+      "snippet": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
       "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 13:00:24 GMT",
+      "publishedAt": "Fri, 15 May 2026 21:50:14 GMT",
       "snippet": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "CIA chief visits Cuba as energy crisis worsens",
-      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 02:40:50 GMT",
-      "snippet": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+      "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+      "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 21:17:05 GMT",
+      "snippet": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
-      "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 10:28:28 GMT",
-      "snippet": "Africa's top health agency says around 246 cases have been reported.",
+      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+      "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 23:59:07 GMT",
+      "snippet": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
+      "link": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 12:53:57 GMT",
+      "snippet": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
+      "link": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 14:26:27 GMT",
+      "snippet": "The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
+      "link": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 19:10:59 GMT",
+      "snippet": "It marks the third time a New York jury has considered the case against the 74-year-old disgraced film mogul.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel says it has killed Hamas commander in Gaza air strike",
+      "link": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 19:38:38 GMT",
+      "snippet": "Izz ad-Din al-Haddad, described as \"one of the architects of the October 7 massacre\", was killed in Gaza City, Israel says.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Five Italians die during cave scuba dive in Maldives",
       "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 07:38:17 GMT",
+      "publishedAt": "Fri, 15 May 2026 21:33:38 GMT",
       "snippet": "Four of the Italians were part of a team from the University of Genoa.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
-      "link": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 12:33:56 GMT",
-      "snippet": "Prosecutors in Nantes say the shooting was drug-related, but the victim's aunt says he was not involved.",
+      "title": "New York Times defends journalist after Israel threatens to sue",
+      "link": "https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 16:30:31 GMT",
+      "snippet": "Israel's prime minister says he has ordered legal action over an article which alleged Israeli security officials raped Palestinian detainees.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Australia court doubles payout for trans woman in landmark discrimination case",
-      "link": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 10:06:59 GMT",
-      "snippet": "Roxanne Tickle has been awarded AU$40,000 in damages for being kicked off the Giggle for Girls app.",
+      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
+      "link": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 17:53:23 GMT",
+      "snippet": "Africa's top health agency says around 246 cases have been reported - a case has also been reported in Uganda.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "India's Adanis agree to pay $18m to settle civil fraud case in the US",
-      "link": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 06:41:19 GMT",
-      "snippet": "The US securities regulator had accused the Adanis of paying bribes and misleading investors, which they denied.",
+      "title": "CIA chief visits Cuba as energy crisis worsens",
+      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 17:47:19 GMT",
+      "snippet": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "US Supreme Court restores abortion pill access for now",
-      "link": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 22:46:28 GMT",
-      "snippet": "Abortion pills are the most common method of terminating pregnancies in the US.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'Pretty miraculous' - 11 rescued after pilot ditches plane in Atlantic",
-      "link": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 18:38:42 GMT",
-      "snippet": "The survivors spent about five hours on a life raft before being rescued by the US Air Force off Florida's coast.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'Floating armoury' ship reportedly seized by Iran",
-      "link": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 13:33:20 GMT",
-      "snippet": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Warning of record global temperatures as chance of very strong El Niño grows",
-      "link": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 13:56:57 GMT",
-      "snippet": "As El Niño develops this year, scientists are increasingly confident it could be one of the strongest on record with global consequences, as Simon King explains.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Giant new dinosaur identified from fossils in Thailand",
-      "link": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 17:28:56 GMT",
-      "snippet": "The nagatitan is the largest dinosaur found in South-East Asia and weighs as much as nine elephants.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Latvian PM resigns after row over stray Ukrainian drones",
-      "link": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 10:53:56 GMT",
-      "snippet": "Drones bound for Russia crashed down in Latvia last week, prompting a political fallout.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-      "link": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 13:16:32 GMT",
-      "snippet": "Two children are among at least 16 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "War criminal Ratko Mladić's jail release request denied",
-      "link": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 17:45:39 GMT",
-      "snippet": "A UN judge admits the 84-year-old is \"in the final stages of his life\", but says prison conditions in The Hague ensure his maximum comfort.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
-      "link": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 11:44:22 GMT",
-      "snippet": "Former Power Minister Saleh Mamman was convicted last week - but the authorities do not know his whereabouts.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
-      "link": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 05:09:04 GMT",
-      "snippet": "Rebel fighters and Rwandan troops are accused of committing atrocities after capturing the DR Congo city of Uvira in December.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
-      "link": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 00:38:56 GMT",
-      "snippet": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
+      "title": "What China critics in Maga movement make of Trump's Beijing trip",
+      "link": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 19:52:54 GMT",
+      "snippet": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
       "tier": 1
     },
     {
@@ -191,6 +151,102 @@
       "tier": 1
     },
     {
+      "source": "BBC World",
+      "title": "Why is Ireland not taking part in this year's Eurovision?",
+      "link": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 11:41:41 GMT",
+      "snippet": "Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US hotel owners expected a World Cup boom - so far it hasn't happened",
+      "link": "https://www.bbc.com/news/articles/cn0p2532xn4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 05:01:55 GMT",
+      "snippet": "An industry body survey found hotels in World Cup host cities see the tournament as a \"non-event\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: What did we learn from Trump's visit to China?",
+      "link": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 15 May 2026 13:25:23 GMT",
+      "snippet": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Warning of record global temperatures",
+      "link": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 15:29:02 GMT",
+      "snippet": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
+      "link": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 14 May 2026 20:17:03 GMT",
+      "snippet": "A moped had been used in the deadly stray-bullet shooting of a 7-month-old in Brooklyn last month, officials said.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Supreme Court is death knell for Virginia&apos;s Democratic-friendly congressional maps",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5823911/supreme-court-virginia-redistricting",
+      "publishedAt": "Fri, 15 May 2026 18:58:42 -0400",
+      "snippet": "The new map was drawn by Democrats and approved by Virginia voters, but the state Supreme Court declared the referendum null and void because lawmakers failed to follow the proper procedures to get the issue on the ballot.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Colorado&apos;s Democratic governor will let Trump ally Tina Peters out of prison early",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5690286/tina-peters-polis-commutation-trump",
+      "publishedAt": "Fri, 15 May 2026 16:45:00 -0400",
+      "snippet": "Gov. Jared Polis&apos; controversial commutation follows a pressure campaign by the Trump administration to free Tina Peters, an ex-county official who was convicted of tampering with election equipment.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Hantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5819872/hantavirus-quarantine",
+      "publishedAt": "Fri, 15 May 2026 15:28:03 -0400",
+      "snippet": "The hantavirus outbreak on a cruise ship has potentially exposed passengers to a deadly disease. Most returning Americans are now housed in Nebraska. Some may be cleared to quarantine at home.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Shakira returns to official World Cup song duty, this time with Burna Boy",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5823435/world-cup-official-song-shakira-burna-boy",
+      "publishedAt": "Fri, 15 May 2026 15:22:21 -0400",
+      "snippet": "FIFA&apos;s official 2026 World Cup song is \"Dai Dai\" from Shakira and Burna Boy. There are a number of factors that shape which songs define a tournament — and endure beyond it.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "The Trump administration is planning a prayer event on the National Mall. All but one of the speakers is Christian",
+      "link": "https://www.npr.org/2026/05/15/g-s1-122276/the-trump-administration-is-planning-a-prayer-event-on-the-national-mall-all-but-one-of-the-speakers-is-christian",
+      "publishedAt": "Fri, 15 May 2026 14:07:32 -0400",
+      "snippet": "The event comes as a new survey finds that many Americans aren&apos;t comfortable mixing religion and politics.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Harvey Weinstein&apos;s third sex crimes trial in New York ends in mistrial",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5823745/harvey-weinstein-trial-hung-jury-mistrial-2026",
+      "publishedAt": "Fri, 15 May 2026 14:02:34 -0400",
+      "snippet": "It was the second time in a year a jury was unable to reach a verdict on a rape charge brought by Jessica Mann.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Can the NFL&apos;s Rooney Rule survive the DEI backlash?",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5823441/rooney-rule-dei-diverse-slates-discrimination",
+      "publishedAt": "Fri, 15 May 2026 11:08:27 -0400",
+      "snippet": "Florida&apos;s attorney general says the NFL&apos;s Rooney Rule, which requires teams to interview minority candidates for top jobs, is discriminatory. Trump&apos;s EEOC has challenged such policies elsewhere.",
+      "tier": 1
+    },
+    {
       "source": "NPR News",
       "title": "SCOTUS upholds abortion pill telehealth access. And, Trump returns from China visit",
       "link": "https://www.npr.org/2026/05/15/g-s1-122218/up-first-newsletter-mifepristone-trump-china-keir-starmer-new-york-salmon-river-students",
@@ -200,234 +256,178 @@
     },
     {
       "source": "NPR News",
+      "title": "Key takeaways from Trump&apos;s China trip",
+      "link": "https://www.npr.org/2026/05/15/nx-s1-5822512/trump-china-xi-summit-takeaways",
+      "publishedAt": "Fri, 15 May 2026 07:00:16 -0400",
+      "snippet": "President Trump returns to the U.S. after wrapping up his whirlwind trip to China.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
       "title": "Death toll in attack on Kyiv apartment building now stands at 24",
       "link": "https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24",
       "publishedAt": "Fri, 15 May 2026 05:28:02 -0400",
-      "snippet": "Ukrainian President Volodymyr Zelenskyy said Friday that a Russian missile attack on a Kyiv apartment building the previous day killed 24 people, including three children.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Which Trump cabinet member has a new reality show? The quiz knows",
-      "link": "https://www.npr.org/2026/05/15/g-s1-121837/shakira-warsh-hantavirus-duffy-israel-iran-news-quiz",
-      "publishedAt": "Fri, 15 May 2026 05:01:00 -0400",
-      "snippet": "This week, in Warshington, D.C., the Senate confirmed Kevin Warsh as the next chair of the Federal Reserve and we wrote a quiz question about his name. Enjoy that, and the other nine, too.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "After redistricting, what does representation mean to Tennessee voters?",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5822329/memphis-gerrymandering-representation-voting-rights",
-      "publishedAt": "Fri, 15 May 2026 05:00:00 -0400",
-      "snippet": "What does representation look like for Tennessee voters who were split into three new congressional districts last week? NPR traveled from Memphis into the Nashville suburbs to ask.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Gen Z homeowners? Yes, more in their 20s are managing to buy despite the odds",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5791499/gen-z-homeownership-increase",
-      "publishedAt": "Fri, 15 May 2026 05:00:00 -0400",
-      "snippet": "Gen Z homeowners now outpace millennials at the same age. They&apos;re more likely to be single and less likely to use help from parents.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5820702/morning-news-brief",
-      "publishedAt": "Fri, 15 May 2026 04:45:53 -0400",
-      "snippet": "Trump returns to U.S. after trip to China, Supreme Court decides to maintain abortion pill access, U.K. prime minister faces challenges from his own party.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Son reflects with his mother about growing up with autism",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5817609/son-reflects-with-his-mother-about-growing-up-with-autism",
-      "publishedAt": "Fri, 15 May 2026 04:44:46 -0400",
-      "snippet": "Jhovana Figueroa was diagnosed with autism when he was a toddler. For StoryCorps, Figueroa and his mom talk about his childhood and their hopes for the future.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "CIA Director John Ratcliffe met with Raul Castro&apos;s grandson in Havana, US and Cuban officials say",
-      "link": "https://www.npr.org/2026/05/15/nx-s1-5823340/cia-director-john-ratcliffe-met-with-raul-castros-grandson-in-havana-us-and-cuban-officials-say",
-      "publishedAt": "Fri, 15 May 2026 01:50:02 -0400",
-      "snippet": "CIA Director John Ratcliffe met with Cuban officials including Raúl Castro&apos;s grandson during a high-level visit to the island Thursday, Cuban and U.S. officials said.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Pope decries rise of AI-directed warfare, saying it leads to a spiral of annihilation",
-      "link": "https://www.npr.org/2026/05/15/g-s1-122205/pope-decries-rise-of-ai-directed-warfare",
-      "publishedAt": "Fri, 15 May 2026 01:33:59 -0400",
-      "snippet": "Pope Leo XIV denounced how investments in artificial intelligence and high-tech weaponry were leading the world into a \"spiral of annihilation,\" as he called for peace in the Middle East and Ukraine.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Tensions flare near Strait of Hormuz as a ship is seized and another is sunk",
-      "link": "https://www.npr.org/2026/05/15/g-s1-122203/tensions-flare-near-strait-of-hormuz",
-      "publishedAt": "Fri, 15 May 2026 01:11:32 -0400",
-      "snippet": "Tensions are escalating again near the Strait of Hormuz after a ship anchored off the United Arab Emirates was seized and taken toward Iran and another was attacked and sank near the coast of Oman.",
+      "snippet": "Ukrainian President Volodymyr Zelenskyy led an official day of mourning in Kyiv a day after a Russian cruise missile flattened an apartment building. It was one of the deadliest attacks on the capital in the 4-year-old war.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "China offers Trump grand welcome, but issues warning on Taiwan",
-      "link": "https://www.pbs.org/newshour/show/china-offers-trump-grand-welcome-but-issues-warning-on-taiwan",
-      "publishedAt": "Thu, 14 May 2026 18:55:16 -0400",
-      "snippet": "Chinese leader Xi Jinping hosted President Trump and offered the U.S. a \"new vision\" of relations more focused on trade and collaboration than on confrontation. Trump in turn, offered a future in which he and Xi were \"united and together.\" But China's president also had a stark w",
+      "title": "Supreme Court rejects bid to restore Virginia congressional map favoring Democrats",
+      "link": "https://www.pbs.org/newshour/politics/supreme-court-rejects-bid-to-restore-virginia-congressional-map-favoring-democrats",
+      "publishedAt": "Fri, 15 May 2026 18:59:14 -0400",
+      "snippet": "In recent days, the justices have sided with Republicans in Alabama and Louisiana who hope to redo their congressional maps to produce more GOP-leaning seats following the court's voting rights decision.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "U.S.-China diplomatic reset faces unresolved 'contradictions,' expert warns",
-      "link": "https://www.pbs.org/newshour/show/u-s-china-diplomatic-reset-faces-unresolved-contradictions-expert-warns",
-      "publishedAt": "Thu, 14 May 2026 18:50:28 -0400",
-      "snippet": "Following the high-level talks between President Trump and Xi Jinping in Beijing, Nick Schifrin discussed a potential shift in the relationship between the U.S. and China with Orville Schell of the Center on U.S.-China Relations.",
+      "title": "Trump and Xi pledge 'strategic stability' but key questions remain unanswered",
+      "link": "https://www.pbs.org/newshour/show/trump-and-xi-pledge-strategic-stability-but-key-questions-remain-unanswered",
+      "publishedAt": "Fri, 15 May 2026 18:55:25 -0400",
+      "snippet": "President Trump is returning to Washington after a summit with Chinese leader Xi Jinping. The two sides announced they would launch a board of trade and investment, but beyond that, there are few specifics. Nick Schifrin reports from Beijing on the pageantry and the policy.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Analysts break down Trump-Xi meeting and calls for stability and cooperation",
-      "link": "https://www.pbs.org/newshour/show/analysts-break-down-trump-xi-meeting-and-calls-for-stability-and-cooperation",
-      "publishedAt": "Thu, 14 May 2026 18:45:22 -0400",
-      "snippet": "For perspective on President Trump's trip and the broader U.S.-China relationship, Geoff Bennett spoke with Myron Brilliant and Liza Tobin. Brilliant is at the DGA Group and is the former executive vice president of the U.S. Chamber of Commerce. Tobin is a former intelligence off",
+      "title": "Trump's 'elaborate' praise of Xi at China summit made U.S. look weak, ex-ambassador says",
+      "link": "https://www.pbs.org/newshour/show/trumps-elaborate-praise-of-xi-at-china-summit-made-u-s-look-weak-ex-ambassador-says",
+      "publishedAt": "Fri, 15 May 2026 18:50:21 -0400",
+      "snippet": "For perspective on the summit between President Trump and Chinese leader Xi Jinping, Amna Nawaz spoke with Nicholas Burns. He served as U.S. ambassador to China during the Biden administration and is now at Harvard University.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Senate votes to withhold their own pay during future shutdowns",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-senate-votes-to-withhold-their-own-pay-during-future-shutdowns",
-      "publishedAt": "Thu, 14 May 2026 18:40:05 -0400",
-      "snippet": "In our news wrap Thursday, the Senate voted to withhold their own pay during future government shutdowns, the CDC says 41 people are currently being monitored for hantavirus in the U.S., rare protests have broken out in Cuba over fuel shortages and crippling blackouts and soul le",
+      "title": "Live Results: Louisiana midterm state and congressional primaries",
+      "link": "https://www.pbs.org/newshour/politics/live-results-louisiana-midterm-state-and-congressional-primaries",
+      "publishedAt": "Fri, 15 May 2026 18:45:19 -0400",
+      "snippet": "Louisiana voters will participate in a revamped and stripped-down state primary Saturday and decide the political fate of an embattled Republican U.S. senator targeted for defeat by President Donald Trump.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Supreme Court extends access to mifepristone, for now",
-      "link": "https://www.pbs.org/newshour/show/supreme-court-extends-access-to-mifepristone-for-now",
-      "publishedAt": "Thu, 14 May 2026 18:37:15 -0400",
-      "snippet": "The Supreme Court again extended access to mifepristone, for now. Thursday, justices extended a pause on a lower court ruling that would have blocked telehealth prescriptions and mail distribution of the abortion pill. Amna Nawaz discussed what this means for people seeking the m",
+      "title": "News Wrap: Colorado Gov. Polis commuting sentence of Tina Peters",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-colorado-gov-polis-commuting-sentence-of-tina-peters",
+      "publishedAt": "Fri, 15 May 2026 18:45:04 -0400",
+      "snippet": "In our news wrap Friday, Colorado Gov. Jared Polis is commuting the prison sentence of 2020 election denier Tina Peters, the Justice Department announced the arrest of an Iraqi national accused of plotting at least 18 terror attacks in retaliation for the war in Iran and Africa's",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How reality TV stars seeking office are changing politics",
-      "link": "https://www.pbs.org/newshour/show/how-reality-tv-stars-seeking-office-are-changing-politics",
-      "publishedAt": "Thu, 14 May 2026 18:35:04 -0400",
-      "snippet": "Transportation Secretary Sean Duffy, his wife and their children filmed a reality show that is set to be released in the lead-up to the nation's 250th anniversary. It is a return to form for the Duffys, who first met filming for MTV in the 1990s. Now, a new batch of reality TV st",
+      "title": "Jerome Powell's impact and legacy at the Federal Reserve",
+      "link": "https://www.pbs.org/newshour/show/jerome-powells-impact-and-legacy-at-the-federal-reserve",
+      "publishedAt": "Fri, 15 May 2026 18:40:49 -0400",
+      "snippet": "Jerome Powell's eight-year role leading the Federal Reserve is over. His term will be remembered as one of the most turbulent and politically charged in the central bank's history. William Brangham discussed Powell's impact and legacy with Jason Furman.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Florida's controversial 'Alligator Alcatraz' expected to close",
-      "link": "https://www.pbs.org/newshour/show/floridas-controversial-alligator-alcatraz-expected-to-close",
-      "publishedAt": "Thu, 14 May 2026 18:30:57 -0400",
-      "snippet": "The controversial \"Alligator Alcatraz\" camp for detained migrants in Florida is expected to close. White House correspondent Liz Landers reports on the Trump administration's immigration policies amid recent developments.",
+      "title": "Primary challenge to Louisiana Sen. Cassidy tests Trump's grip on GOP",
+      "link": "https://www.pbs.org/newshour/show/primary-challenge-to-louisiana-sen-cassidy-tests-trumps-grip-on-gop",
+      "publishedAt": "Fri, 15 May 2026 18:35:41 -0400",
+      "snippet": "Louisiana primary voters could boot a sitting U.S. senator for the first time in nearly 100 years. Backing the insurgency against Sen. Bill Cassidy is President Donald Trump. The pair have been at political odds since Cassidy voted to convict Trump in his second impeachment trial",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Bellevue Literary Review celebrates 25 years of stories on illness and recovery",
-      "link": "https://www.pbs.org/newshour/show/bellevue-literary-review-celebrates-25-years-of-stories-on-illness-and-recovery",
-      "publishedAt": "Thu, 14 May 2026 18:25:49 -0400",
-      "snippet": "Three doctors, two poets and a fiction writer walk into a windowless hospital conference room. Not the start of a joke, but of a prestigious journal, \"Bellevue Literary Review\", now celebrating its 25th anniversary. Senior arts correspondent Jeffrey Brown reports for our ongoing ",
+      "title": "Trump administration prepares to seek Ra&uacute;l Castro indictment as it pressures Cuba, AP sources say",
+      "link": "https://www.pbs.org/newshour/world/trump-administration-prepares-to-seek-raul-castro-indictment-as-it-pressures-cuba-ap-sources-say",
+      "publishedAt": "Fri, 15 May 2026 18:33:58 -0400",
+      "snippet": "The Justice Department is preparing to seek an indictment against former Cuban President Raúl Castro, three people familiar with the matter told The Associated Press on Friday, as President Donald Trump threatens possible military action against the communist-run island.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
-      "link": "https://www.pbs.org/newshour/nation/supreme-court-preserves-access-to-widely-used-abortion-pill-while-lawsuit-plays-out",
-      "publishedAt": "Thu, 14 May 2026 18:08:48 -0400",
-      "snippet": "The court's order allows women seeking abortions to continue obtaining the drug, mifepristone, at pharmacies or through the mail, without an in-person visit to a doctor. Access is likely to remain uninterrupted at least until into next year as the case plays out, including a pote",
+      "title": "Brooks and Capehart on Trump's trip to China",
+      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-trip-to-china",
+      "publishedAt": "Fri, 15 May 2026 18:30:32 -0400",
+      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including President Trump's trip to China, Congress rejecting a war powers resolution on the Iran war and Trump's comments on Americans' financial situation.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Cuban government says CIA Director John Ratcliffe met with officials in Havana",
-      "link": "https://www.pbs.org/newshour/world/cuban-government-says-cia-director-john-ratcliffe-met-with-officials-in-havana",
-      "publishedAt": "Thu, 14 May 2026 17:28:14 -0400",
-      "snippet": "According to official reports, the meeting served as a platform for Cuba to present evidence asserting that the nation poses no threat to U.S. national security.",
+      "title": "How to recognize and block AI-powered scam attempts",
+      "link": "https://www.pbs.org/newshour/show/how-to-recognize-and-block-ai-powered-scam-attempts",
+      "publishedAt": "Fri, 15 May 2026 18:25:20 -0400",
+      "snippet": "If it feels like it's getting harder and harder to avoid being scammed, that's because it is. In the age of artificial intelligence, scammers are using voice cloning that can sound very real, and seniors are often the target. Paul Solman reports on the problem and what you can do",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Lebanon and Israel kick off new negotiations amid fighting with Hezbollah",
-      "link": "https://www.pbs.org/newshour/world/lebanon-and-israel-kick-off-new-negotiations-amid-fighting-with-hezbollah",
-      "publishedAt": "Thu, 14 May 2026 17:17:20 -0400",
-      "snippet": "The Trump administration has been pushing for a breakthrough between the two neighbors that have been officially in a state of war since Israel was created in 1948.",
+      "title": "Colorado Gov. Polis commutes ex-election clerk Tina Peters' sentence after Trump pressure",
+      "link": "https://www.pbs.org/newshour/politics/colorado-gov-polis-commutes-ex-election-clerk-tina-peters-sentence-after-trump-pressure",
+      "publishedAt": "Fri, 15 May 2026 18:19:27 -0400",
+      "snippet": "Trump has championed the case of Peters, a 70-year-old former county clerk who was sentenced to nine years behind bars after being convicted in a scheme to make a copy of her county's election computer system. She gets released June 1.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Louisiana senate passes new U.S. House map that would eliminate majority-Black district",
-      "link": "https://www.pbs.org/newshour/politics/louisiana-senate-passes-new-u-s-house-map-that-would-eliminate-majority-black-district",
-      "publishedAt": "Thu, 14 May 2026 17:01:19 -0400",
-      "snippet": "The new U.S. House districts, which still need House approval, would be used for primary elections poised to be postponed from Saturday until November. This as South Carolina's governor pushed for congressional redistricting and could call lawmakers into a special session.",
+      "title": "Uganda confirms Ebola case in man from neighboring Congo who died in Ugandan capital",
+      "link": "https://www.pbs.org/newshour/health/uganda-confirms-ebola-case-in-man-from-neighboring-congo-who-died-in-ugandan-capital",
+      "publishedAt": "Fri, 15 May 2026 16:53:37 -0400",
+      "snippet": "Uganda on Friday reported one Ebola case involving a Congolese man admitted to a hospital in Kampala three days before he died. Officials said the case was \"imported\" from Congo, and that Uganda has not yet confirmed any local cases.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Oklahoma judge allows former death row prisoner to be released on bond while awaiting retrial",
-      "link": "https://www.pbs.org/newshour/world/oklahoma-judge-allows-former-death-row-prisoner-to-be-released-on-bond-while-awaiting-retrial",
-      "publishedAt": "Thu, 14 May 2026 16:19:45 -0400",
-      "snippet": "The decision clears the way for Richard Glossip, 63, to leave a lockup for the first time since his arrest nearly 30 years ago over a 1997 killing that put him on the brink of execution three separate times. The U.S. Supreme Court threw out his conviction last year.",
+      "title": "Who is Tova Noel, a former prison guard testifying in the Epstein investigation",
+      "link": "https://www.pbs.org/newshour/politics/who-is-tova-noel-a-former-prison-guard-testifying-in-the-epstein-investigation",
+      "publishedAt": "Fri, 15 May 2026 16:41:13 -0400",
+      "snippet": "Noel is one of two prison guards who were working on Aug. 9, 2019, the night before the financier was found dead in his cell.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Cuba's eastern province belted by major blackout after power grid collapse",
-      "link": "https://www.pbs.org/newshour/world/cubas-eastern-province-belted-by-major-blackout-after-power-grid-collapse",
-      "publishedAt": "Thu, 14 May 2026 16:07:34 -0400",
-      "snippet": "The state-run Electric Union said the collapse had stripped power from all eastern provinces from Guantánamo to Ciego de Ávila, and that crews were working to restore power, but it did not give an estimate for how long it would take.",
+      "title": "Judge declares mistrial in Harvey Weinstein's New York rape retrial after jury deadlocks",
+      "link": "https://www.pbs.org/newshour/nation/judge-declares-mistrial-in-harvey-weinsteins-new-york-rape-retrial-after-jury-deadlocks",
+      "publishedAt": "Fri, 15 May 2026 16:11:18 -0400",
+      "snippet": "The majority-male Manhattan jury had been weighing whether Weinstein raped Jessica Mann, a hairstylist and actor. Weinstein's lawyers argued that the encounter was consensual.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "FBI Director Kash Patel took 'VIP snorkel' at a Pearl Harbor memorial, emails show",
-      "link": "https://www.pbs.org/newshour/politics/fbi-director-kash-patel-took-vip-snorkel-at-a-pearl-harbor-memorial-emails-show",
-      "publishedAt": "Thu, 14 May 2026 15:12:29 -0400",
-      "snippet": "With few exceptions, snorkeling and diving are off-limits around the USS Arizona. The battleship is now a military cemetery reachable only by boat. It has stood as one of the nation's most hallowed sites since Japan bombed and sank the ship in 1941. A Navy spokesperson confirms t",
+      "title": "Israel and Lebanon agree to 45-day extension of ceasefire, U.S. State Department says",
+      "link": "https://www.pbs.org/newshour/world/israel-and-lebanon-agree-to-45-day-extension-of-ceasefire-u-s-state-department-says",
+      "publishedAt": "Fri, 15 May 2026 14:58:04 -0400",
+      "snippet": "A shaky truce between Israel and the Hezbollah militant group in Lebanon had been due to end on Sunday.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Ultranationalist Jews recite racist slogans during march into Jerusalem's Old City",
-      "link": "https://www.pbs.org/newshour/world/ultranationalist-jews-recite-racist-slogans-during-march-into-jerusalems-old-city",
-      "publishedAt": "Thu, 14 May 2026 14:58:31 -0400",
-      "snippet": "Normally a bustling marketplace for Palestinian residents of east Jerusalem, the area was devoid of Palestinians, many of whom had barricaded themselves inside their homes and closed their shops for the day. The procession often leads to violent confrontations between ultranation",
+      "title": "Tensions flare near Strait of Hormuz as one ship is seized and another is sunk",
+      "link": "https://www.pbs.org/newshour/world/tensions-flare-near-strait-of-hormuz-as-one-ship-is-seized-and-another-is-sunk",
+      "publishedAt": "Fri, 15 May 2026 14:31:02 -0400",
+      "snippet": "It wasn't immediately clear who was behind these incidents, but they happened as a senior Iranian official reiterated his country's claim of control over the waterway and another said it had a right to seize oil tankers connected to the U.S.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Xi tells Trump U.S. and China could clash over Taiwan",
-      "link": "https://www.pbs.org/newshour/world/xi-tells-trump-u-s-and-china-could-clash-over-taiwan",
-      "publishedAt": "Thu, 14 May 2026 14:31:12 -0400",
-      "snippet": "The exchange at a highly anticipated summit in Beijing underscored just how far apart Trump and Xi still are on thorny issues, including the war in Iran, trade disputes and Washington's relations with Taiwan, which is self-ruled but which China claims as part of its territory.",
+      "title": "6 passengers from hantavirus-hit cruise ship arrive in Australia for 3-week quarantine",
+      "link": "https://www.pbs.org/newshour/world/6-passengers-from-hantavirus-hit-cruise-ship-arrive-in-australia-for-3-week-quarantine",
+      "publishedAt": "Fri, 15 May 2026 13:57:43 -0400",
+      "snippet": "Australian Health Minister Mark Butler said the government would implement one of world's strongest quarantine responses to the outbreak.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Flotilla heads for Gaza after Israel intercepted last convoy",
-      "link": "https://www.pbs.org/newshour/world/flotilla-heads-for-gaza-after-israel-intercepted-last-convoy",
-      "publishedAt": "Thu, 14 May 2026 13:57:20 -0400",
-      "snippet": "More than 50 vessels departed from Marmaris on Thursday in what organizers call the final leg of their journey to Gaza. On April 30, Israeli forces intercepted a previous flotilla near Crete, initially detaining about 175 activists and transferring two to Israel for questioning.",
+      "title": "Takeaways from Fed chair Jerome Powell's legacy",
+      "link": "https://www.pbs.org/newshour/economy/takeaways-from-fed-chair-jerome-powells-legacy",
+      "publishedAt": "Fri, 15 May 2026 13:18:18 -0400",
+      "snippet": "Federal Reserve Chair, Jerome Powell is stepping down after eight years. Here are key takeaways from his tenure.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "World Cup final halftime show to feature Madonna, Shakira and BTS",
-      "link": "https://www.pbs.org/newshour/arts/world-cup-final-halftime-show-to-feature-madonna-shakira-and-bts",
-      "publishedAt": "Thu, 14 May 2026 13:23:46 -0400",
-      "snippet": "The governing body said the show would support the FIFA Global Citizen Education Fund, which is raising $100 million to help children access education and soccer. It will be curated by Coldplay's Chris Martin.",
+      "title": "North America's largest commuter rail system faces a potential shutdown",
+      "link": "https://www.pbs.org/newshour/nation/north-americas-largest-commuter-rail-system-faces-a-potential-shutdown",
+      "publishedAt": "Fri, 15 May 2026 12:46:15 -0400",
+      "snippet": "North America's largest commuter rail system is facing a potential shutdown as a deadline nears to reach a deal with unionized workers to avert a strike.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "U.S. Border Patrol head announces resignation in latest leadership shakeup",
-      "link": "https://www.pbs.org/newshour/nation/u-s-border-patrol-head-announces-his-resignation-on-fox-news",
-      "publishedAt": "Thu, 14 May 2026 13:08:32 -0400",
-      "snippet": "Michael Banks of the U.S. Border Patrol told Fox News on Thursday that his resignation was effective immediately, saying \"it's just time.\"",
+      "title": "What to know about new Ebola outbreak that has killed 65 people in Congo",
+      "link": "https://www.pbs.org/newshour/health/what-to-know-about-new-ebola-outbreak-that-has-killed-65-people-in-congo",
+      "publishedAt": "Fri, 15 May 2026 12:25:32 -0400",
+      "snippet": "Africa's top public health body has confirmed a new Ebola outbreak in Congo's Ituri province, the 17th since the disease first emerged in the country in 1976.",
       "tier": 1
     },
     {
@@ -440,26 +440,90 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Middle East: Israel, Lebanon agree to extend truce, US says",
+      "link": "https://www.dw.com/en/middle-east-israel-lebanon-agree-to-extend-truce-us-says/live-77167235?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US says Israeli and Lebanese delegations have agreed to extend a ceasefire for 45 days. The truce has reduced the volume of fighting, but violations are commonplace, particularly in southern Lebanon. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Chancellor Merz says he wouldn&apos;t advise his kids to go to the US",
+      "link": "https://www.dw.com/en/germany-news-chancellor-merz-says-he-wouldn-t-advise-his-kids-to-go-to-the-us/live-77168830?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Chancellor Friedrich Merz said he wouldn&apos;t currently advise young Germans like his children to move to the US to study or work. He cited \"the social climate that has suddenly developed.\" DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Islamic feminism more widespread in Bosnia and Herzegovina",
+      "link": "https://www.dw.com/en/islamic-feminism-more-widespread-in-bosnia-and-herzegovina/a-77163017?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Many Bosnian Muslim women want to attend mosque on Fridays and to play a greater role in decision-making. Slowly the official structures of the Islamic Community are changing.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine: Dozens of European countries sign up to special tribunal plan to prosecute Russia",
+      "link": "https://www.dw.com/en/ukraine-dozens-of-european-countries-sign-up-to-special-tribunal-plan-to-prosecute-russia/a-77174512?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "At talks in Moldova, more than 30 countries have said they will join a future special tribunal for Ukraine prosecuting Russia over its invasion. How the body will force Russians to stand trial is not clear.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Andreas Rettig: &apos;You can&apos;t separate sports and politics&apos;",
+      "link": "https://www.dw.com/en/andreas-rettig-you-can-t-separate-sports-and-politics/a-77171724?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The World Cup in the USA, Canada and Mexico is sparking discussions beyond the realm of football. DFB Director Andreas Rettig discusses the Germany team and the geopolitical situation in an interview with DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pakistan faces pressure over mediator role in Iran war",
+      "link": "https://www.dw.com/en/pakistan-faces-pressure-over-mediator-role-in-iran-war/a-77174786?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "With Pakistan stepping in the middle of a major geopolitical conflict, Islamabad is forced to balance between Washington, Tehran, Beijing and key Gulf allies. A recent US media report places it under even more scrutiny.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "UK politics: How Starmer survives as Farage waits in wings",
+      "link": "https://www.dw.com/en/uk-politics-how-starmer-survives-as-farage-waits-in-wings/a-77170215?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "High profile resignations, a prime minister on the edge and populists on the up — UK politics is far from dull. DW explains what&apos;s going on in Keir Starmer&apos;s Labour party and with Nigel Farage. And what may be next.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US-China summit exposes Trump&apos;s limits on Iran war, Taiwan",
+      "link": "https://www.dw.com/en/us-china-summit-exposes-trump-s-limits-on-iran-war-taiwan/a-77171942?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Donald Trump hopes to have China help him end the war in Iran, but this goal seemed far from guaranteed as he wrapped up his two-day visit to Beijing. Xi Jinping, in turn, took the chance to warn the US over Taiwan.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Uganda at a crossroads as Museveni begins new term",
+      "link": "https://www.dw.com/en/uganda-at-a-crossroads-as-museveni-begins-new-term/a-77152718?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Unemployment and poverty pose major challenges for President Museveni&apos;s seventh term, while his age and long rule prompt questions about Uganda&apos;s future beyond his leadership.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Israeli-Palestinian conflict: Allegations of sexual abuse",
+      "link": "https://www.dw.com/en/israeli-palestinian-conflict-allegations-of-sexual-abuse/a-77132994?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The issue of systemic sexual abuses as part of the Israeli-Palestinian conflict is back in the spotlight following new testimonies. Both Israel and Hamas deny the claims.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Iconic German musician Udo Lindenberg turns 80",
       "link": "https://www.dw.com/en/iconic-german-musician-udo-lindenberg-turns-80/a-77149458?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "From a historic East German concert to a hit with rapper Apache 207, Udo Lindenberg has shaped German rock music like few others. Even at 80, the \"Panikrocker\" is still reinventing himself.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Economic slowdown expected in 2nd quarter",
-      "link": "https://www.dw.com/en/germany-news-economic-slowdown-expected-in-2nd-quarter/live-77168830?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The German government expects the economy to take a significant hit from the fallout of the Iran war. Even if the conflict were to end, it said the impact on energy prices will likely be felt for some time. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Middle East: Palestinians mark Nakba anniversary",
-      "link": "https://www.dw.com/en/middle-east-palestinians-mark-nakba-anniversary/live-77167235?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Palestinians have marked the Nakba anniversary as ceasefire conditions in the Gaza war deepen parallels with past displacement. Meanwhile, Israel has urged people in several Lebanese villages to leave. DW has more.",
       "tier": 2
     },
     {
@@ -472,8 +536,8 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "World Cup market in India and China: &apos;FIFA got greedy&apos;",
-      "link": "https://www.dw.com/en/world-cup-market-in-india-and-china-fifa-got-greedy/a-77131796?maca=en-rss-en-top-1022-rdf",
+      "title": "&apos;FIFA got greedy&apos; ― Why football fans in India may not be able to watch World Cup games on TV this year",
+      "link": "https://www.dw.com/en/fifa-got-greedy-―-why-football-fans-in-india-may-not-be-able-to-watch-world-cup-games-on-tv-this-year/a-77131796?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The 2026 World Cup is weeks away, but one of the most populated countries in the world doesn&apos;t have a broadcasting deal. Why?",
       "tier": 2
@@ -488,10 +552,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Ebola outbreak confirmed in DR Congo: African health agency",
-      "link": "https://www.dw.com/en/ebola-outbreak-confirmed-in-dr-congo-african-health-agency/a-77166606?maca=en-rss-en-top-1022-rdf",
+      "title": "Ebola outbreak confirmed in DR Congo, Uganda: African health agency",
+      "link": "https://www.dw.com/en/ebola-outbreak-confirmed-in-dr-congo-uganda-african-health-agency/a-77166606?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A new outbreak of the highly infectious Ebola virus has killed dozens of people in a remote part of Congo, according to health authorities. It comes as the country battles several armed groups.",
+      "snippet": "A new outbreak of the infectious Ebola virus has killed dozens of people in a remote part of Congo, according to the Africa CDC health authority. Neighboring Uganda later said one person had died in an \"imported\" case.",
       "tier": 2
     },
     {
@@ -504,10 +568,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Trump departs Beijing after whirlwind China visit",
-      "link": "https://www.dw.com/en/trump-departs-beijing-after-whirlwind-china-visit/live-77140304?maca=en-rss-en-top-1022-rdf",
+      "title": "Trump says no change in Taiwan policy as China visit wraps",
+      "link": "https://www.dw.com/en/trump-says-no-change-in-taiwan-policy-as-china-visit-wraps/live-77140304?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "US President Donald Trump is headed home to Washington after spending two days with China&apos;s Xi Jinping in Beijing. Both leaders struck a cordial tone despite deep differences on Iran and Taiwan.",
+      "snippet": "US President Donald Trump is headed home to Washington after spending two days with China&apos;s Xi Jinping in Beijing. Both leaders struck a cordial tone, but no concrete agreements were announced.",
       "tier": 2
     },
     {
@@ -523,71 +587,7 @@
       "title": "Dead whale spotted off the coast of Denmark",
       "link": "https://www.dw.com/en/dead-whale-spotted-off-the-coast-of-denmark/a-77163823?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "It was not immediately clear if the whale was Timmy, the humpback whale that captivated Germany for weeks while getting stranded multiple times off the German coast.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Foreign student fee hikes in France trigger backlash",
-      "link": "https://www.dw.com/en/foreign-student-fee-hikes-in-france-trigger-backlash/a-77146306?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A French government plan to charge students from outside the European Union 16 times more than previously has stoked discontent. But how does this compare to the rest of Europe, both inside the EU and out?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran says Chinese ships passed through Hormuz overnight",
-      "link": "https://www.dw.com/en/iran-says-chinese-ships-passed-through-hormuz-overnight/a-77163709?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Chinese-flagged vessels were among over 30 ships that crossed the waterway, according to Iran&apos;s revolutionary guard. The statement comes as Trump tries to rally Beijing against Tehran during a state visit.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Will Ukraine corruption scandal reach Volodymyr Zelenskyy?",
-      "link": "https://www.dw.com/en/will-ukraine-corruption-scandal-reach-volodymyr-zelenskyy/a-77161926?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A drawn-out corruption affair in Ukraine has widened, with authorities now taking action against Andriy Yermak, former head of the presidential office. Will the scandal reach all the way to President Volodymyr Zelenskyy?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Cuba&apos;s power grid &apos;critical&apos; as US blocks fuel shipments",
-      "link": "https://www.dw.com/en/cuba-s-power-grid-critical-as-us-blocks-fuel-shipments/a-77162028?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Protests flared in Havana amid widespread power outages. Cuba&apos;s energy minister says fuel has \"run out\" as a four-month US oil blockade chokes off energy supplies.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK: Health Secretary Wes Streeting resigns, likely in bid to topple PM Keir Starmer",
-      "link": "https://www.dw.com/en/uk-health-secretary-wes-streeting-resigns-likely-in-bid-to-topple-pm-keir-starmer/a-77161937?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Two Labour Party politicians have positioned themselves to challenge Prime Minister Keir Starmer for the leadership. Health Secretary Wes Streeting resigned, and Angela Rayner said her tax affairs were back in order.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Lab-grown Tyrannosaurus leather: More chicken than dinosaur?",
-      "link": "https://www.dw.com/en/lab-grown-tyrannosaurus-leather-more-chicken-than-dinosaur/a-77118050?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A handbag is promoted as the \"world&apos;s first T. rex leather product.\" But scientists are questioning its authenticity.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "German intelligence offices snub US-based Palantir software",
-      "link": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany&apos;s domestic intelligence agency has reportedly chosen a data analysis system from France, instead of US-based Palantir. Civil society has welcomed the move, but says more must be done.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Who is Mario Draghi, this year&apos;s Charlemagne Prize winner?",
-      "link": "https://www.dw.com/en/who-is-mario-draghi-this-year-s-charlemagne-prize-winner/a-77115925?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Charlemagne Prize honors those who advance European unity. This year&apos;s winner is Italy&apos;s Mario Draghi, a former European Central Bank chief and a key architect of European stability during a time of economic crisis.",
+      "snippet": "It was not immediately clear if the whale was Timmy, the humpback whale that captivated Germany for weeks while getting stranded multiple times off the German coast. Danish officials said they would test a tissue sample.",
       "tier": 2
     }
   ]
