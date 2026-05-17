@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T01:19:46.119Z",
+  "generatedAt": "2026-05-17T12:42:50.093Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,6 +32,30 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+      "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 17 May 2026 09:26:53 GMT",
+      "snippet": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+      "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 17 May 2026 11:28:02 GMT",
+      "snippet": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Man drives car into pedestrians in Italy, injuring eight",
+      "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 17 May 2026 08:33:37 GMT",
+      "snippet": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Hezbollah drone strike videos show evolving tactics against Israel",
       "link": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 16 May 2026 23:10:19 GMT",
@@ -44,22 +68,6 @@
       "link": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 16 May 2026 17:01:53 GMT",
       "snippet": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Man drives car into pedestrians in Italy, injuring eight",
-      "link": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 16 May 2026 20:36:17 GMT",
-      "snippet": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
-      "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 16 May 2026 11:44:54 GMT",
-      "snippet": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
       "tier": 1
     },
     {
@@ -80,10 +88,18 @@
     },
     {
       "source": "BBC World",
-      "title": "US planning to charge ex-Cuban leader Raúl Castro",
-      "link": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 16 May 2026 01:37:27 GMT",
-      "snippet": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
+      "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
+      "link": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 17 May 2026 03:23:08 GMT",
+      "snippet": "Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Canadian from hantavirus-hit cruise ship tests positive",
+      "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 17 May 2026 12:07:54 GMT",
+      "snippet": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
       "tier": 1
     },
     {
@@ -96,10 +112,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Canadian from hantavirus-hit cruise ship tests positive",
-      "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 16 May 2026 20:36:53 GMT",
-      "snippet": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
+      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+      "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 16 May 2026 11:44:54 GMT",
+      "snippet": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US planning to charge ex-Cuban leader Raúl Castro",
+      "link": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 16 May 2026 01:37:27 GMT",
+      "snippet": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
       "tier": 1
     },
     {
@@ -128,6 +152,38 @@
     },
     {
       "source": "BBC World",
+      "title": "Foreign tourists are falling out of love with Goa - here's why",
+      "link": "https://www.bbc.com/news/articles/cy827p9lg03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 16 May 2026 23:08:06 GMT",
+      "snippet": "Foreign visitors to Goa have nearly halved from their pre-Covid peak even as domestic tourism is booming.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Secret police and propaganda: The Chinese agents spying on expats in US",
+      "link": "https://www.bbc.com/news/articles/cm2p8z261ylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 16 May 2026 23:15:30 GMT",
+      "snippet": "Experts say two espionage cases in the US highlight China's attempts to peddle influence globally over the past decade.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'Look Mum, one point': Why does the UK keep getting Eurovision wrong?",
+      "link": "https://www.bbc.com/news/articles/cy72e81dp28o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 17 May 2026 02:13:36 GMT",
+      "snippet": "After four years of flops, the BBC has to think hard about how it approaches Eurovision in 2027.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "The girl group who've sold out venues and toured the world - without releasing a record",
+      "link": "https://www.bbc.com/news/articles/cz721w33ve1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 16 May 2026 23:14:03 GMT",
+      "snippet": "The all-female supergroup has sold out venues across the UK and Ireland, toured stadiums with Ed Sheeran, and built a global following - all without releasing a debut record.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "What China critics in Maga movement make of Trump's Beijing trip",
       "link": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 15 May 2026 19:52:54 GMT",
@@ -135,59 +191,59 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "What is a 'safe death'? Mentally ill woman asks for assisted dying in Canada",
-      "link": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 23:04:41 GMT",
-      "snippet": "Canada has twice delayed access to medically assisted dying for those with mental illness. Claire Brosseau says she cannot wait any longer and wants the courts to decide.",
+      "source": "NPR News",
+      "title": "Executions nearly doubled in the U.S. last year, and soared abroad",
+      "link": "https://www.npr.org/2026/05/17/nx-s1-5824521/executions-amnesty-international-report",
+      "publishedAt": "Sun, 17 May 2026 08:01:00 -0400",
+      "snippet": "The number of people killed in state-sanctioned executions worldwide rose to a 44-year high in 2025, according to a new report from Amnesty International.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "From misfit to rap sensation: A 'Reble' storms into Indian hip-hop",
-      "link": "https://www.bbc.com/news/articles/c4g0z40xwx7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 23:31:52 GMT",
-      "snippet": "Reble has emerged as one of hip-hop’s most distinctive new voices, channelling defiance into a sound rooted in India’s northeast.",
+      "source": "NPR News",
+      "title": "One clinic tracks the heavy toll Trump&apos;s immigration crackdown takes on mental health",
+      "link": "https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children",
+      "publishedAt": "Sun, 17 May 2026 07:00:00 -0400",
+      "snippet": "Zocalo Health, a clinic in Los Angeles, screens all its patients for depression, anxiety and suicidal thoughts. It documented a marked increase in those conditions since ICE enforcement actions began.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Alleged murder of Aboriginal girl highlights Australia's deep inequalities",
-      "link": "https://www.bbc.com/news/articles/cq6p57mnz9lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 20:37:39 GMT",
-      "snippet": "Her death has sparked outrage across Australia and intense debate about disparities in society.",
+      "source": "NPR News",
+      "title": "The foreign fighters who helped topple Assad — and why China worries about them",
+      "link": "https://www.npr.org/2026/05/17/g-s1-113270/uyghurs-china-syria-war-fighters-rebels-bashar-al-assad",
+      "publishedAt": "Sun, 17 May 2026 05:02:00 -0400",
+      "snippet": "Thousands of Uyghurs became key fighters against Syria&apos;s Assad regime. For the first time, they agreed to be interviewed. NPR spent weeks with some of them to understand why they fled China for Syria.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
-      "link": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 05:01:37 GMT",
-      "snippet": "\"Patriotic\" UK anti-immigration social media accounts have been traced to Sri Lanka and Vietnam.",
+      "source": "NPR News",
+      "title": "How a CEO and Trump donor is weaponizing tariffs against his rivals",
+      "link": "https://www.npr.org/2026/05/17/nx-s1-5726366/ceo-trump-donor-quartz-kitchen-countertop-tariffs",
+      "publishedAt": "Sun, 17 May 2026 05:00:00 -0400",
+      "snippet": "Cambria CEO Marty Davis has successfully asked the U.S. government to put tariffs on quartz. His business competitors are crying foul.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Why is Ireland not taking part in this year's Eurovision?",
-      "link": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 11:41:41 GMT",
-      "snippet": "Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.",
+      "source": "NPR News",
+      "title": "New burn bans and Trump&apos;s battle with immigration and DEI are impacting forest fires",
+      "link": "https://www.npr.org/2026/05/17/nx-s1-5777660/forest-service-wildfire-safety-prevention-trump-administration",
+      "publishedAt": "Sun, 17 May 2026 05:00:00 -0400",
+      "snippet": "Firefighters say setting fires on purpose is one of the best ways to protect against massive wildfires later. But the Trump administration is banning or stalling preventative burning across the U.S.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Watch: What did we learn from Trump's visit to China?",
-      "link": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 15 May 2026 13:25:23 GMT",
-      "snippet": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+      "source": "NPR News",
+      "title": "New York Magazine reviewing work of writer facing plagiarism allegations",
+      "link": "https://www.npr.org/2026/05/17/nx-s1-5824503/new-york-magazine-review-ross-barkan",
+      "publishedAt": "Sun, 17 May 2026 00:23:48 -0400",
+      "snippet": "The high-profile writer, who has written a forthcoming book about New York Mayor Zohran Mamdani, is being investigated by the magazine after being called out for copying the work of other writers.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Warning of record global temperatures",
-      "link": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 14 May 2026 15:29:02 GMT",
-      "snippet": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "source": "NPR News",
+      "title": "Louisiana senator who voted to convict Trump loses Republican primary",
+      "link": "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump",
+      "publishedAt": "Sat, 16 May 2026 23:02:34 -0400",
+      "snippet": "Sen. Bill Cassidy is one of few remaining Republican senators who voted to convict President Trump after the Jan. 6 attack on the Capitol. Trump endorsed his opponent, Rep. Julia Letlow.",
       "tier": 1
     },
     {
@@ -208,66 +264,10 @@
     },
     {
       "source": "NPR News",
-      "title": "A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo",
-      "link": "https://www.npr.org/2026/05/16/g-s1-122494/a-new-ebola-outbreak-has-already-killed-87-people",
+      "title": "World Health Organization declares Ebola outbreak in Congo a global health emergency",
+      "link": "https://www.npr.org/2026/05/16/g-s1-122494/new-ebola-outbreak-drc-who-global-emergency",
       "publishedAt": "Sat, 16 May 2026 14:37:36 -0400",
       "snippet": "Health officials are working to contain a new Ebola outbreak in the DRC of a virus strain with no known vaccine.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "North America poised for light display of aurora borealis",
-      "link": "https://www.npr.org/2026/05/16/g-s1-122492/north-america-poised-for-light-display-of-aurora-borealis",
-      "publishedAt": "Sat, 16 May 2026 14:07:59 -0400",
-      "snippet": "The splashy nighttime phenomenon will be best observed on Saturday and Sunday nights",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Timmy the humpback whale found dead off Danish coast",
-      "link": "https://www.npr.org/2026/05/16/g-s1-122490/timmy-humpback-whale-dead-stranded-rescue-denmark",
-      "publishedAt": "Sat, 16 May 2026 11:12:44 -0400",
-      "snippet": "A humpback whale found dead this week off a Danish island has been identified as the animal released two weeks ago in a spectacular and controversial rescue effort after repeatedly becoming stranded off Germany&apos;s Baltic Sea coast, Danish authorities said Saturday.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "This Republican voted to convict Trump. Now he&apos;s up for reelection. Can he survive?",
-      "link": "https://www.npr.org/2026/05/16/g-s1-122486/louisiana-senate-cassidy-trump",
-      "publishedAt": "Sat, 16 May 2026 08:38:33 -0400",
-      "snippet": "Louisiana Sen. Bill Cassidy was one of seven Republican senators who voted to convict President Trump. Now he&apos;s running for reelection in a race that will test Trump&apos;s hold on the GOP.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Elephants eat their crops. Farmers strike back. It&apos;s a war that&apos;s only getting worse",
-      "link": "https://www.npr.org/2026/05/16/g-s1-121654/elephants-farmers-crops-sri-lanka",
-      "publishedAt": "Sat, 16 May 2026 07:19:25 -0400",
-      "snippet": "In Sri Lanka, the islanders revere elephants. But for farmers, there&apos;s rising tension that&apos;s leading to more fatal encounters — for both humans and hungry pachyderms.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "The townspeople of Vilseck, Germany, worry that Trump may pull out 5,000 U.S. troops",
-      "link": "https://www.npr.org/2026/05/16/nx-s1-5815881/trump-germany-withdrawal-nato-us-troops-vilseck",
-      "publishedAt": "Sat, 16 May 2026 06:00:00 -0400",
-      "snippet": "President Trump&apos;s troop withdrawal threat rattles residents of a small Bavarian town reliant on U.S. military personnel and their families for both income and friendships built over decades.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Colleges got more rural students to apply. The challenge is getting them to attend",
-      "link": "https://www.npr.org/2026/05/16/nx-s1-5797420/selective-colleges-woo-rural-students",
-      "publishedAt": "Sat, 16 May 2026 05:00:00 -0400",
-      "snippet": "Some of the nation&apos;s most selective institutions are slowly increasing their rural enrollment with the help of millions of dollars from a rural alumnus of the University of Chicago.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "This Republican voted to convict Trump. Now he&apos;s up for reelection. Can he survive?",
-      "link": "https://www.npr.org/2026/05/16/nx-s1-5808979/louisiana-senate-cassidy-trump",
-      "publishedAt": "Sat, 16 May 2026 05:00:00 -0400",
-      "snippet": "Louisiana Sen. Bill Cassidy was one of seven Republican senators who voted to convict President Trump. Now he&apos;s running for reelection in a race that will test Trump&apos;s hold on the GOP.",
       "tier": 1
     },
     {
@@ -419,7 +419,7 @@
       "title": "Live Results: Louisiana midterm state and congressional primaries",
       "link": "https://www.pbs.org/newshour/politics/live-results-louisiana-midterm-state-and-congressional-primaries",
       "publishedAt": "Fri, 15 May 2026 18:45:19 -0400",
-      "snippet": "Louisiana voters will participate in a revamped and stripped-down state primary Saturday and decide the political fate of an embattled Republican U.S. senator targeted for defeat by President Donald Trump.",
+      "snippet": "Sen. Bill Cassidy was decisively defeated in Saturday's Republican primary in Louisiana, U.S. Rep. Julia Letlow and state Treasurer John Fleming have advanced to a runoff in Louisiana's Republican Senate primary.",
       "tier": 1
     },
     {
@@ -436,6 +436,86 @@
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukrainian drones hit Russia in massive overnight attack",
+      "link": "https://www.dw.com/en/ukrainian-drones-hit-russia-in-massive-overnight-attack/a-77188685?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ukraine has launched almost 600 drones at Russia in one of its largest overnight attacks amid Moscow&apos;s invasion. The region around the Russian capital was one of those targeted.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Two Nepali climbers break own Everest records",
+      "link": "https://www.dw.com/en/two-nepali-climbers-break-own-everest-records/a-77186761?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Two veteran Nepali climbers, a man and a woman, have each set new records for ascents of the world&apos;s highest mountain. The 492 Everest climbing permits issued by Nepal for the 2026 spring season represent another high.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "German transport minister promotes green hydrogen in Japan",
+      "link": "https://www.dw.com/en/german-transport-minister-promotes-green-hydrogen-in-japan/a-77182456?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "During a recent visit to Japan, Germany&apos;s transport minister Patrick Schnieder toured hydrogen projects aimed at bringing the fuel into the mainstream.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "North Korean women&apos;s football team makes rare visit to South",
+      "link": "https://www.dw.com/en/north-korean-women-s-football-team-makes-rare-visit-to-south/a-77186062?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A North Korean women&apos;s football club has become the country&apos;s first group of athletes in eight years to visit the South.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Dead humpback whale off Denmark is &apos;Timmy&apos;",
+      "link": "https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany&apos;s Baltic coast. It comes two weeks after a contentious rescue operation.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: UNICEF says child well-being ranking &apos;alarming&apos;",
+      "link": "https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A new study ranks Germany near the bottom in child well-being and education. Meanwhile, authorities say a dead humpback spotted off Denmark is the same creature that spent weeks beached off Germany&apos;s coast. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: CNG gas price hiked in Delhi NCR amid Iran war fallout",
+      "link": "https://www.dw.com/en/india-news-cng-gas-price-hiked-in-delhi-ncr-amid-iran-war-fallout/live-77178271?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The price of CNG has increased in Delhi and the surrounding region for the second time in two days, as India grapples with the economic impact of the Iran war. Meanwhile, Modi is set to arrive in Sweden. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "WHO declares international emergency over Ebola outbreak",
+      "link": "https://www.dw.com/en/who-declares-international-emergency-over-ebola-outbreak/a-77184899?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The World Health Organization said the Ebola outbreak could be much larger than what is currently being detected and reported. It warned of health risks to other countries.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Venezuela deports Maduro ally Alex Saab to US",
+      "link": "https://www.dw.com/en/venezuela-deports-maduro-ally-alex-saab-to-us/a-77184876?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Alex Saab fell out of favor with the new administration that took power since Maduro’s ouster and capture by US forces in January.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Rwandan genocide suspect Felicien Kabuga dies in custody",
+      "link": "https://www.dw.com/en/rwandan-genocide-suspect-felicien-kabuga-dies-in-custody/a-77184740?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Rwanda&apos;s Felicien Kabuga was once one of the world&apos;s most-wanted fugitives. He was accused of encouraging and bankrolling the 1994 genocide.",
       "tier": 2
     },
     {
@@ -472,14 +552,6 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Dead humpback whale off Denmark is &apos;Timmy,&apos; who spent weeks stranded in Baltic Sea",
-      "link": "https://www.dw.com/en/germany-news-dead-humpback-whale-off-denmark-is-timmy-who-spent-weeks-stranded-in-baltic-sea/live-77178633?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany&apos;s Baltic coast. Meanwhile, it&apos;s relegation decision day in the Bundesliga. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Thailand: Bangkok rail crossing collision kills at least 8",
       "link": "https://www.dw.com/en/thailand-bangkok-rail-crossing-collision-kills-at-least-8/a-77181604?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -496,10 +568,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Middle East updates: Big crowds at Nakba Day rally in London",
-      "link": "https://www.dw.com/en/middle-east-updates-big-crowds-at-nakba-day-rally-in-london/live-77179563?maca=en-rss-en-top-1022-rdf",
+      "title": "Middle East: Drone strike sparks fire at UAE nuclear plant",
+      "link": "https://www.dw.com/en/middle-east-drone-strike-sparks-fire-at-uae-nuclear-plant/live-77179563?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Big crowds have gathered in London to mark Nakba Day. Meanwhile, Iran&apos;s state TV reports that European countries are discussing the safe transit of ships through the Strait of Hormuz.",
+      "snippet": "No party has claimed responsibility for the strike on the Barakah nuclear power plant, but Iran has repeatedly launched attacks on the UAE since the start of the war. Follow DW for more.",
       "tier": 2
     },
     {
@@ -516,78 +588,6 @@
       "link": "https://www.dw.com/en/from-collection-to-connection-how-museums-are-redefining-themselves/a-77095911?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Gone are the days when museums were just places to see art and artifacts. On International Museum Day, DW looks at how museums are becoming unique spaces of community engagement and participation.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US: New York&apos;s Long Island railway workers go on strike",
-      "link": "https://www.dw.com/en/us-new-york-s-long-island-railway-workers-go-on-strike/a-77178863?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Nearly 300,000 passengers rely on the LIRR daily to travel between New York City, its boroughs and suburban Long Island.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Taiwan urges Trump to advance arms deal after China summit",
-      "link": "https://www.dw.com/en/taiwan-urges-trump-to-advance-arms-deal-after-china-summit/a-77178649?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Taiwan reminded the US of its commitment to provide it with arms after the US president warned the democratic, self-governing island against formally declaring independence in the wake of his summit with China&apos;s Xi.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "China, US, Israel compete in fast-growing laser weapons race",
-      "link": "https://www.dw.com/en/china-us-israel-compete-in-fast-growing-laser-weapons-race/a-77174766?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "More Gulf states are turning to laser weapons to combat drones in the Iran war. Israel even loaned the UAE theirs. But do they actually work?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Andreas Rettig: &apos;You can&apos;t separate sports and politics&apos;",
-      "link": "https://www.dw.com/en/andreas-rettig-you-can-t-separate-sports-and-politics/a-77171724?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The World Cup in the USA, Canada and Mexico is sparking discussions beyond the realm of football. DFB Director Andreas Rettig discusses the Germany team and the geopolitical situation in an interview with DW.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Australia: Man dies after shark attack off holiday island",
-      "link": "https://www.dw.com/en/australia-man-dies-after-shark-attack-off-holiday-island/a-77178365?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A 38-year-old man has died after being bitten by a shark in waters off Rottnest Island in Western Australia. It is the second shark death in the country this year amid a rise in attacks.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: PM Modi visits the Netherlands at start of Europe tour",
-      "link": "https://www.dw.com/en/india-news-pm-modi-visits-the-netherlands-at-start-of-europe-tour/live-77178271?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Modi is looking to deepen India&apos;s trade agreements with its European partners and diversify beyond China-centric supply chains. Meanwhile, Indian farmers are once again clashing with the police.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump says IS second in command killed in Nigeria",
-      "link": "https://www.dw.com/en/trump-says-is-second-in-command-killed-in-nigeria/a-77178187?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump said Abu-Bilal al-Minuki, a high-ranking member of the \"Islamic State,\" was killed in a joint mission between US and Nigerian forces.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US stops Poland troop deployment after Germany pullout order",
-      "link": "https://www.dw.com/en/us-stops-poland-troop-deployment-after-germany-pullout-order/a-77177920?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Both Democratic and Republican lawmakers in the US have criticized the Trump administration&apos;s plans to cancel a troop deployment to Poland. It came after Trump ordered the pullout of 5,000 troops from Germany.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Middle East: Israel, Lebanon agree to extend truce, US says",
-      "link": "https://www.dw.com/en/middle-east-israel-lebanon-agree-to-extend-truce-us-says/live-77167235?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US says Israeli and Lebanese delegations have agreed to extend a ceasefire for 45 days. The truce has reduced the volume of fighting, but violations are commonplace, particularly in southern Lebanon.",
       "tier": 2
     }
   ]
