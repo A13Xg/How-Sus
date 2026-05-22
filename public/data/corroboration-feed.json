@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T13:31:43.434Z",
+  "generatedAt": "2026-05-22T01:22:02.894Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,50 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
-      "link": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 11:22:18 GMT",
-      "snippet": "It comes after the US charged Cuba's ex-leader with murder, the latest move putting pressure on the regime.",
+      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+      "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 00:10:44 GMT",
+      "snippet": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+      "link": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 21 May 2026 20:12:25 GMT",
+      "snippet": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran steps up claim to control Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 21 May 2026 14:37:29 GMT",
+      "snippet": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
+      "link": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 00:21:24 GMT",
+      "snippet": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely condemned.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Pair arrested after boys abandoned by road in Portugal",
+      "link": "https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 21 May 2026 18:32:30 GMT",
+      "snippet": "The children were carrying backpacks with food and water but no identity documents when they were found by a driver.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
       "link": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 13:07:02 GMT",
+      "publishedAt": "Thu, 21 May 2026 15:58:46 GMT",
       "snippet": "The companies were found guilty by a French court over an air disaster which killed 228 people.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Gaza flotilla activists set for deportation from Israel as backlash grows",
-      "link": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 13:08:42 GMT",
-      "snippet": "Activists have begun to leave Israel after international outrage over their treatment as detainees.",
       "tier": 1
     },
     {
@@ -64,23 +88,39 @@
     },
     {
       "source": "BBC World",
-      "title": "Dozens of vehicles burnt as Mali jihadists enforce blockade",
+      "title": "Jailed Vietnamese tycoon's Birkin bags sell for more than $550K",
+      "link": "https://www.bbc.com/news/articles/cdrp2lyx75mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 21 May 2026 21:27:10 GMT",
+      "snippet": "The disgraced tycoon is serving a life sentence for embezzling from a major Vietnamese bank.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Danes try to tow dead whale from island beach after failed German rescue",
+      "link": "https://www.bbc.com/news/articles/c62xrkre9vzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 21 May 2026 20:40:08 GMT",
+      "snippet": "An environmental team want to move the whale from Anholt to the Danish mainland, but they have had to pause the operation.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
+      "link": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 21 May 2026 18:08:17 GMT",
+      "snippet": "The retail giant said it expects customers to cut back in the coming months due to higher pump prices.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Dozens of vehicles burnt as Mali jihadists enforce blockade ahead of Eid holiday",
       "link": "https://www.bbc.com/news/articles/cx21g1pdm92o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 21 May 2026 13:23:25 GMT",
-      "snippet": "Mali is a landlocked country and depends heavily on fuel transported from neighbouring countries.",
+      "snippet": "The blockade has led to shortages of fuel and food ahead of next week's Muslim holiday of Eid.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
-      "link": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 13:17:31 GMT",
-      "snippet": "The outbreak, caused by a rare Ebola species, is thought to have caused 139 deaths so far.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Nvidia's latest record result fails to impress investors",
+      "title": "Nvidia's latest record earnings fail to impress investors",
       "link": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 21 May 2026 11:05:18 GMT",
       "snippet": "The chip giant reported more stellar results but its shares fell after-hours as investors wonder if it can keep up its pace of growth amid greater competition.",
@@ -88,74 +128,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
-      "link": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 20 May 2026 23:47:01 GMT",
-      "snippet": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says he will speak to Taiwan's president in break from protocol",
-      "link": "https://www.bbc.com/news/articles/c78qv3w4xzqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 13:01:32 GMT",
-      "snippet": "It comes as the US weighs whether to proceed with a $14bn arms sales to Taiwan, which China claims as its own.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Sierra Leone becomes latest African country to receive deportees from US",
-      "link": "https://www.bbc.com/news/articles/cn9pzjvly53o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 20 May 2026 17:05:17 GMT",
-      "snippet": "Nine deportees arrive from the US as part of Donald Trump's crackdown on illegal immigration.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Murder or accident? Mystery of Mango tycoon's hiking death after son's arrest",
-      "link": "https://www.bbc.com/news/articles/cwy2g09yvgmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 20 May 2026 15:44:41 GMT",
-      "snippet": "Isak Andic's son Jonathan denies involvement in the fatal fall of his father, who founded one of Europe's biggest clothing empires.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Austrian ex-intelligence officer found guilty of Russia spying charges",
-      "link": "https://www.bbc.com/news/articles/cwy21541dz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 20 May 2026 19:30:07 GMT",
-      "snippet": "The spy scandal has revived fears that Austria remains a hotbed of Russian espionage activity.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US military jets and drones tracked near Cuba as tensions rise",
-      "link": "https://www.bbc.com/news/articles/cjep1wx7w0ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 20 May 2026 15:36:03 GMT",
-      "snippet": "Tracking data shows several flights by US Navy reconnaissance jets and drones during the last week.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Whale to be removed from Danish island after failed German rescue",
-      "link": "https://www.bbc.com/news/articles/c62xrkre9vzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 20 May 2026 16:07:24 GMT",
-      "snippet": "Danish officials will conduct a post mortem examination on the whale, which was released into the sea from a barge more than two weeks ago.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Barney Frank: One of the first openly gay US congressmen dies aged 86",
-      "link": "https://www.bbc.com/news/articles/ckgpy2ze3q1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 20 May 2026 15:33:12 GMT",
-      "snippet": "After a decades-long career in Congress, he spent his final weeks in hospice care at his home in Maine.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Tesla Cybertruck driver arrested after driving into lake to use 'wade mode', police say",
-      "link": "https://www.bbc.com/news/articles/c072x1kml44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 20 May 2026 16:46:33 GMT",
-      "snippet": "Police said the vehicle was abandoned by the driver after it took on water near the shoreline of Grapevine Lake in north Texas.",
+      "title": "Charges dismissed against official at school where six-year-old shot teacher",
+      "link": "https://www.bbc.com/news/articles/cy82y34y101o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 21 May 2026 16:20:36 GMT",
+      "snippet": "The child fired a single shot at a teacher, who had to have surgery after the incident in 2023.",
       "tier": 1
     },
     {
@@ -191,243 +167,267 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Susan Collins brings federal dollars to Maine. She&apos;s hoping that&apos;s worth it to voters",
-      "link": "https://www.npr.org/2026/05/21/nx-s1-5823448/susan-collins-maine-senate-graham-platner",
-      "publishedAt": "Thu, 21 May 2026 08:47:56 -0400",
-      "snippet": "As Maine&apos;s Senate matchup is all but set, incumbent Republican Sen. Susan Collins urges voters to pick her over Democrat Graham Platner because she can fund state priorities due to her seniority.",
+      "source": "BBC World",
+      "title": "Nigeria arrests former minister in hiding after corruption conviction",
+      "link": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 20 May 2026 08:04:03 GMT",
+      "snippet": "The former power minister was sentenced to 75 years in jail in absentia earlier this month.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
+      "link": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 21 May 2026 05:04:08 GMT",
+      "snippet": "After four years of Russia's full-scale invasion, Ukraine has become far more successful at fighting off air raids.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Samsung strike on hold as workers push for AI bonus",
+      "link": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 21 May 2026 06:01:54 GMT",
+      "snippet": "The walkout, which was due to start on Thursday, has been suspended while union members vote on a tentative deal.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "GOP races to fund immigration enforcement. And, U.S. indicts former Cuban president",
-      "link": "https://www.npr.org/2026/05/21/g-s1-123307/up-first-newsletter-congress-ice-border-patrol-funding-iran-war-raul-castro",
-      "publishedAt": "Thu, 21 May 2026 08:00:24 -0400",
-      "snippet": "Republicans are racing to pass a $72 billion immigration enforcement package. And, the U.S. has indicted former Cuban President Raúl Castro for his alleged role in the 1996 downing of two planes.",
+      "title": "NASCAR superstar Kyle Busch dies at 41 after hospitalization with &apos;severe illness&apos;",
+      "link": "https://www.npr.org/2026/05/21/g-s1-123547/nascar-champ-kyle-busch-dies",
+      "publishedAt": "Thu, 21 May 2026 18:49:51 -0400",
+      "snippet": "Kyle Busch, who won more races than anyone across NASCAR&apos;s three national series, has died at 41. A joint statement from the Busch Family, Richard Childress Racing and NASCAR said he died after being hospitalized.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Researchers say the Trump administration is finding new ways to punish science",
-      "link": "https://www.npr.org/2026/05/21/nx-s1-5828768/science-funding-cuts-nih-trump-administration",
-      "publishedAt": "Thu, 21 May 2026 06:00:00 -0400",
-      "snippet": "Even with federal grants largely restored, scientists say the Trump administration is still preventing those funds from reaching them. The consequences, they say, are already becoming clear.",
+      "title": "Trump&apos;s towering arch clears another federal hurdle, despite public pushback",
+      "link": "https://www.npr.org/2026/05/21/nx-s1-5830027/trump-arch-fine-arts-approval",
+      "publishedAt": "Thu, 21 May 2026 16:49:58 -0400",
+      "snippet": "The Commission of Fine Arts gave the arch design its final approval, even though it&apos;s missing some visual components. The president said Thursday that he doesn&apos;t need approval from Congress.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Amid allegations of abuse on Epstein&apos;s &apos;Zorro Ranch,&apos; New Mexico opens new probes",
-      "link": "https://www.npr.org/2026/05/21/nx-s1-5816037/amid-allegations-of-abuse-on-epsteins-zorro-ranch-new-mexico-opens-new-probes",
-      "publishedAt": "Thu, 21 May 2026 06:00:00 -0400",
-      "snippet": "Epstein owned a 10,000-acre property with a mansion. After calls by the public, the state attorney general searched the property and the state House created a \"Truth Commission.\"",
+      "title": "American passenger feels &apos;betrayed&apos; by federal order to stay in hantavirus quarantine",
+      "link": "https://www.npr.org/2026/05/21/nx-s1-5827015/american-passenger-order-hantavirus-quarantine",
+      "publishedAt": "Thu, 21 May 2026 16:19:09 -0400",
+      "snippet": "Two passengers from the cruise ship that had a hantavirus outbreak were blocked by the federal government from leaving the quarantine unit. One says she is being detained against her will.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "COVID is shaping Americans&apos; reaction to Ebola and hantavirus",
-      "link": "https://www.npr.org/2026/05/21/nx-s1-5825891/hantavirus-ebola-covid-pandemic-virus",
-      "publishedAt": "Thu, 21 May 2026 05:00:00 -0400",
-      "snippet": "Some Americans seem to be extra-alarmed about Ebola and hantavirus in the wake of COVID-19. But public health experts say they don&apos;t expect another pandemic this time.",
+      "title": "Republicans stall votes on partisan ICE funding amid party infighting",
+      "link": "https://www.npr.org/2026/05/21/g-s1-123455/republicans-ice-spending-trump",
+      "publishedAt": "Thu, 21 May 2026 15:16:08 -0400",
+      "snippet": "Republicans planned to vote on a major funding bill for Immigration and Customs Enforcement this week but plans collapsed amid GOP rancor over Trump&apos;s policy demands.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "A guide to converting your lawn into a wildlife friendly garden",
-      "link": "https://www.npr.org/2026/05/21/nx-s1-5821165/a-guide-to-converting-your-lawn-into-a-wildlife-friendly-garden",
-      "publishedAt": "Thu, 21 May 2026 05:00:00 -0400",
-      "snippet": "Turning your grass into a garden isn&apos;t as complicated as you think, but it will take time and effort. This step-by-step guide breaks down the process, from killing your lawn to picking plants to grow.",
+      "title": "Palestinians drop bid for a senior U.N. role after U.S. pressure",
+      "link": "https://www.npr.org/2026/05/21/g-s1-123450/us-palestinians-united-nations-general-assembly",
+      "publishedAt": "Thu, 21 May 2026 14:49:34 -0400",
+      "snippet": "The Palestinian delegation to the United Nations has dropped its bid to secure a top U.N. job after the U.S. threatens to revoke their visas.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The Education Department is hiring — while it&apos;s being dismantled",
-      "link": "https://www.npr.org/2026/05/21/nx-s1-5820922/education-department-firings-now-hiring",
-      "publishedAt": "Thu, 21 May 2026 05:00:00 -0400",
-      "snippet": "The Federal Student Aid office lost half its staff last year as part of Trump administration downsizing. Now, it&apos;s hiring hundreds of new workers.",
+      "title": "Democrats wanted answers for what went wrong in 2024. Now, there are more questions",
+      "link": "https://www.npr.org/2026/05/21/nx-s1-5830008/democrats-autopsy-2024-election-dnc-ken-martin-biden-harris",
+      "publishedAt": "Thu, 21 May 2026 14:36:37 -0400",
+      "snippet": "The Democratic Party wanted a review of the 2024 election. Then, the DNC learned the report was incomplete and unverifiable, party chairman Ken Martin said Thursday, releasing an annotated version.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "As floods get worse, Britain tries a new solution: beavers",
-      "link": "https://www.npr.org/2026/05/21/nx-s1-5738979/beavers-britain-climate-change-flooding",
-      "publishedAt": "Thu, 21 May 2026 05:00:00 -0400",
-      "snippet": "About 400 years ago, beavers were hunted to extinction across Britain. Now they&apos;re being reintroduced as little climate warriors, as communities harness their dam-building skills to mitigate flooding.",
+      "title": "Abortion pills \"just in case\"? Planned Parenthood will offer them in two states",
+      "link": "https://www.npr.org/2026/05/21/nx-s1-5827444/abortion-pills-mifepristone-misoprostol-planned-parenthood-advance-provision",
+      "publishedAt": "Thu, 21 May 2026 13:29:35 -0400",
+      "snippet": "In Washington state and Hawaii, residents can now get mifepristone and misoprostol from Planned Parenthood to keep in their cabinets in case they need to end a pregnancy at a later time.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "TSA&apos;s new &apos;Gold+&apos; program looks to increase private security screening at airports",
-      "link": "https://www.npr.org/2026/05/21/g-s1-123215/tsa-gold-private-security-screening-airports",
-      "publishedAt": "Thu, 21 May 2026 05:00:00 -0400",
-      "snippet": "The agency calls the program an update to the Screening Partnership Program, in which 20 U.S. airports currently use private security screeners rather than federal workers.",
+      "title": "Forecasters expect slightly fewer hurricanes than usual this year, but the risk of destructive storms is still high",
+      "link": "https://www.npr.org/2026/05/21/nx-s1-5810607/2026-atlantic-hurricane-season-forecast-trump-fema-climate",
+      "publishedAt": "Thu, 21 May 2026 12:56:41 -0400",
+      "snippet": "Forecasters expect 8 to 14 storms will form in the Atlantic between June 1 and November 30. But the danger is more serious than the numbers suggest.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Even as anxieties grow under Trump, these swing voters aren&apos;t ready to back Democrats",
-      "link": "https://www.npr.org/2026/05/21/nx-s1-5828924/north-carolina-swing-voter-focus-group",
-      "publishedAt": "Thu, 21 May 2026 05:00:00 -0400",
-      "snippet": "Swing voters in North Carolina say they are frustrated with President Trump and the state of the economy, but aren&apos;t ready to abandon him or his party as the midterms inch closer.",
+      "title": "After the sirens: Lebanon&apos;s first responders swing between duty and grief",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/05/21/nx-s1-5821157/lebanons-first-responders-balance-duty-and-grief",
+      "publishedAt": "Thu, 21 May 2026 12:13:26 -0400",
+      "snippet": "Nearly 3,000 people have been killed and nearly 1 million have been displaced the war in southern Lebanon began in March. Nearly 400 have been killed since a ceasefire began in April.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "A trillion dollar question: Will SpaceX&apos;s Starship launch go well?",
+      "link": "https://www.npr.org/2026/05/21/nx-s1-5823583/spacex-starship-musk-ipo",
+      "publishedAt": "Thu, 21 May 2026 11:26:30 -0400",
+      "snippet": "Ahead of a much anticipated IPO, SpaceX is carrying out a critical test of its giant, stainless steel rocket. Investors will be watching closely.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "3 dead and first responders decontaminated in New Mexico after exposure to unknown substance",
-      "link": "https://www.pbs.org/newshour/nation/3-dead-and-first-responders-decontaminated-in-new-mexico-after-exposure-to-unknown-substance",
-      "publishedAt": "Wed, 20 May 2026 20:13:08 -0400",
-      "snippet": "During the response, authorities said, first responders were exposed to the substance and began experiencing symptoms including nausea and dizziness.",
+      "title": "GOP immigration enforcement bill stalls amid backlash to $1.8 billion 'anti-weaponization' fund",
+      "link": "https://www.pbs.org/newshour/politics/gop-immigration-enforcement-bill-stalls-amid-backlash-to-1-8-billion-anti-weaponization-fund",
+      "publishedAt": "Thu, 21 May 2026 19:39:18 -0400",
+      "snippet": "Senate Republicans abruptly left Washington on Thursday without voting on a roughly $70 billion bill to fund immigration enforcement agencies, frustrated with the White House and at an impasse over whether to try to block a new $1.776 billion settlement fund to compensate Trump a",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Rep. Thomas Massie's full concession speech after defeat in Kentucky GOP primary",
-      "link": "https://www.pbs.org/newshour/politics/watch-rep-thomas-massies-full-concession-speech-after-defeat-in-kentucky-gop-primary",
-      "publishedAt": "Wed, 20 May 2026 20:02:15 -0400",
-      "snippet": "\"We stirred up something. There is a yearning in this country for someone who will vote for principles over party,\" Massie said.",
+      "title": "2-time NASCAR champion Kyle Busch dies at 41 after being hospitalized with 'severe illness'",
+      "link": "https://www.pbs.org/newshour/nation/2-time-nascar-champion-kyle-busch-dies-at-41-after-being-hospitalized-with-severe-illness",
+      "publishedAt": "Thu, 21 May 2026 19:00:48 -0400",
+      "snippet": "Kyle Busch, a two-time Cup Series champion who won more races than anyone across NASCAR's three national series, has died. He was 41.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Colorado Supreme Court orders children's hospital to resume gender-affirming care for minors",
-      "link": "https://www.pbs.org/newshour/politics/colorado-supreme-court-orders-childrens-hospital-to-resume-gender-affirming-care-for-minors",
-      "publishedAt": "Wed, 20 May 2026 19:55:36 -0400",
-      "snippet": "Children's Hospital Colorado suspended medical treatments for transgender patients under 18 in January after it said the U.S. Department of Health and Human Services opened an investigation into its treatments following a series of clashes between President Donald Trump's adminis",
+      "title": "Some Senate Republicans break with Trump over 'anti-weaponization fund' concerns",
+      "link": "https://www.pbs.org/newshour/show/some-senate-republicans-break-with-trump-over-anti-weaponization-fund-concerns",
+      "publishedAt": "Thu, 21 May 2026 18:55:52 -0400",
+      "snippet": "Hours before they were scheduled to vote, Senate Republicans instead refused to advance a key bill for President Trump because of concerns over the administration's \"anti-weaponization fund.\" The acting attorney general made an unplanned trip to the Capitol to personally argue th",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Lawsuit accuses Massachusetts schools of segregating students of color in low-income districts",
-      "link": "https://www.pbs.org/newshour/education/lawsuit-accuses-massachusetts-schools-of-segregating-students-of-color-in-low-income-districts",
-      "publishedAt": "Wed, 20 May 2026 19:42:23 -0400",
-      "snippet": "A lawsuit filed Wednesday on behalf of students and community organizations in Massachusetts argues the state is illegally maintaining schools that are racially segregated, concentrating Black and Latino students in high-poverty districts with fewer opportunities.",
+      "title": "News Wrap: Arts commission approves design of Trump's 250-foot arch",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-arts-commission-approves-design-of-trumps-250-foot-arch",
+      "publishedAt": "Thu, 21 May 2026 18:50:38 -0400",
+      "snippet": "In our news wrap Thursday, the U.S. Commission of Fine Arts, made up of President Trump's appointed allies, approved the design for his proposed 250-foot arch, Trump and Secretary of State Rubio revived warnings about possible U.S. intervention in Cuba and a judge in Minnesota se",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Trump says Ra&uacute;l Castro indictment is 'a very important moment' for Cubans",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-raul-castro-indictment-is-a-very-important-moment-for-cubans",
-      "publishedAt": "Wed, 20 May 2026 19:14:10 -0400",
-      "snippet": "The comments came shortly after federal prosecutors announced charges against Raúl Castro in the 1996 downing of civilian planes flown by Miami-based exiles as the Trump administration escalated pressure on the island's socialist government.",
+      "title": "Residents burn Ebola treatment center in Congo as anger grows over the outbreak",
+      "link": "https://www.pbs.org/newshour/world/residents-burn-ebola-treatment-center-in-congo-as-anger-grows-over-the-outbreak",
+      "publishedAt": "Thu, 21 May 2026 18:48:39 -0400",
+      "snippet": "People set fire to an Ebola treatment center in a town at the heart of the outbreak in eastern Congo on Thursday after being stopped from retrieving the body of a local man, a witness and a senior police officer said, as fear and anger grow over a health crisis that doctors are s",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Why legal experts say Trump's new 'anti-weaponization' fund is unprecedented",
-      "link": "https://www.pbs.org/newshour/politics/why-legal-experts-say-trumps-new-anti-weaponization-fund-is-unprecedented",
-      "publishedAt": "Wed, 20 May 2026 19:09:11 -0400",
-      "snippet": "President Donald Trump's administration has created a nearly $1.8 billion fund to pay people who say they were victims of government \"weaponization,\" raising questions about whom among his allies and supporters – including those who rioted at the Capitol on Jan. 6 – might get pay",
+      "title": "Democratic strategist breaks down DNC's 2024 election autopsy",
+      "link": "https://www.pbs.org/newshour/show/democratic-strategist-breaks-down-dncs-2024-election-autopsy",
+      "publishedAt": "Thu, 21 May 2026 18:45:12 -0400",
+      "snippet": "The Democratic National Committee released a long-awaited, yet still incomplete, report into what went wrong during the 2024 presidential election. The report had initially been shelved, but after months of consternation and criticism, DNC Chair Ken Martin said he released it in ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "U.S. indicts Cuba's Ra&uacute;l Castro in latest escalation of tensions",
-      "link": "https://www.pbs.org/newshour/show/u-s-indicts-cubas-raul-castro-in-latest-escalation-of-tensions",
-      "publishedAt": "Wed, 20 May 2026 18:55:06 -0400",
-      "snippet": "Raúl Castro, the brother of the late Cuban dictator Fidel Castro, was indicted by the U.S. Justice Department. The 96-year-old has held many senior positions, including the presidency. Castro and four others were charged in the 1996 killings of Americans seeking to aid Cubans at ",
+      "title": "NATO's Baltic flank in crossfire between Ukrainian drones and Russian targets",
+      "link": "https://www.pbs.org/newshour/show/natos-baltic-flank-in-crossfire-between-ukrainian-drones-and-russian-targets",
+      "publishedAt": "Thu, 21 May 2026 18:40:12 -0400",
+      "snippet": "The countries along NATO's eastern flank have long been on the frontline against Russian aggression. But now they are in the firing line between Ukraine's long-range drones and targets in northwest Russia. Nick Schifrin spoke with Latvia's foreign minister and reports on NATO's e",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Officers who defended Capitol on Jan. 6 sue to block $1.8B fund",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-officers-who-defended-capitol-on-jan-6-sue-to-block-1-8b-fund",
-      "publishedAt": "Wed, 20 May 2026 18:50:47 -0400",
-      "snippet": "In our news wrap Wednesday, two police officers who defended the Capitol during the Jan. 6 riot filed a lawsuit to try to block the Trump administration's \"anti-weaponization fund,\" the World Health Organization says there are now more than 600 suspected cases from an Ebola outbr",
+      "title": "New Mexico secretary of state explains law barring armed federal agents at polls",
+      "link": "https://www.pbs.org/newshour/show/new-mexico-secretary-of-state-explains-law-barring-armed-federal-agents-at-polls",
+      "publishedAt": "Thu, 21 May 2026 18:35:55 -0400",
+      "snippet": "With the primary season underway, election officials are preparing for November. Some Democratic-led states, worried about the possibility of armed soldiers or ICE officers appearing near polling places, are taking steps to counter what they see as a potential effort to intimidat",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "A look at Trump's grip on the GOP as his critics are ousted in primaries",
-      "link": "https://www.pbs.org/newshour/show/a-look-at-trumps-grip-on-the-gop-as-his-critics-are-ousted-in-primaries",
-      "publishedAt": "Wed, 20 May 2026 18:45:26 -0400",
-      "snippet": "President Trump's grip on the Republican Party was on display in primaries across the country, with several Trump critics losing after the president targeted their campaigns. Amna Nawaz discussed more with Melik Abdul, a Republican strategist and media consultant.",
+      "title": "'How to Rule the World' exposes Stanford's complex relationship with Silicon Valley power",
+      "link": "https://www.pbs.org/newshour/show/how-to-rule-the-world-exposes-stanfords-complex-relationship-with-silicon-valley-power",
+      "publishedAt": "Thu, 21 May 2026 18:30:42 -0400",
+      "snippet": "While most college freshmen spend their first year shopping around courses and picking their majors, Theo Baker had a bit more on his plate. As a reporter for the Stanford Daily, he investigated research misconduct, leading to the resignation of President Marc Tessier-Lavigne. Ba",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "9 deportees from US arrive in Sierra Leone under third-country agreement",
-      "link": "https://www.pbs.org/newshour/world/9-deportees-from-us-arrive-in-sierra-leone-under-third-country-agreement",
-      "publishedAt": "Wed, 20 May 2026 18:41:09 -0400",
-      "snippet": "Nine migrants deported from the United States landed in Sierra Leone on Wednesday, the West African country said, in the latest example of the Trump administration's widely criticized deals with African and Latin American nations to take third-country deportees.",
+      "title": "What Stephen Colbert's exit means for the future of late-night",
+      "link": "https://www.pbs.org/newshour/show/what-stephen-colberts-exit-means-for-the-future-of-late-night",
+      "publishedAt": "Thu, 21 May 2026 18:25:08 -0400",
+      "snippet": "The curtain comes down one final time on Thursday for \"The Late Show with Stephen Colbert.\" Colbert has entertained and provoked audiences from the Ed Sullivan Theater stage for the last decade in ways that transformed the comedic landscape. Geoff Bennett takes a look at what led",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Xi hosts Putin in Beijing, cementing China-Russia alliance after Trump's visit",
-      "link": "https://www.pbs.org/newshour/show/xi-hosts-putin-in-beijing-cementing-china-russia-alliance-after-trumps-visit",
-      "publishedAt": "Wed, 20 May 2026 18:35:49 -0400",
-      "snippet": "Right on the heels of President Trump's state visit to China, Russian President Vladimir Putin stopped in Beijing for a meeting with his chief ally, Xi Jinping. As Nick Schifrin reports, they focused on economic issues and criticized the Trump White House's foreign policy.",
+      "title": "4 takeaways from the DNC's long-awaited 2024 election autopsy report",
+      "link": "https://www.pbs.org/newshour/politics/4-takeaways-from-the-dncs-long-awaited-2024-election-autopsy-report",
+      "publishedAt": "Thu, 21 May 2026 17:24:39 -0400",
+      "snippet": "It's never a good sign when a report comes with a big red disclaimer at the top of each page, but that's what happened on Thursday when the Democratic National Committee belatedly released its controversial autopsy report on the 2024 election.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "DOJ's tax settlement with Trump sets 'dangerous precedent,' former IRS commissioner says",
-      "link": "https://www.pbs.org/newshour/show/dojs-tax-settlement-with-trump-sets-dangerous-precedent-former-irs-commissioner-says",
-      "publishedAt": "Wed, 20 May 2026 18:30:41 -0400",
-      "snippet": "The Trump administration permanently banned the IRS from auditing the president's tax returns, and those of his sons, his company or any affiliated trust. That move was announced a day after the creation of a $1.8 billion fund to compensate allies of Trump who claim they were mis",
+      "title": "WATCH: Democrats rally at Capitol against GOP's immigration enforcement funding bill",
+      "link": "https://www.pbs.org/newshour/politics/watch-democrats-rally-at-capitol-against-gops-immigration-enforcement-funding-bill",
+      "publishedAt": "Thu, 21 May 2026 16:55:11 -0400",
+      "snippet": "Democrats tried to draw a sharp contrast by highlighting how the White House proposed including $1 billion for security for the White House complex and President Donald Trump's ballroom. Republicans are abandoning that proposal.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Sites tied to equality movements join list of America's most endangered historic places",
-      "link": "https://www.pbs.org/newshour/nation/sites-tied-to-equality-movements-join-list-of-americas-most-endangered-historic-places",
-      "publishedAt": "Wed, 20 May 2026 18:29:03 -0400",
-      "snippet": "The Stonewall National Monument, the President's House Site and the Women's Rights National Historic Park are among 11 sites on this year's annual list of the most endangered historic places in the United States compiled by the National Trust for Historic Preservation.",
+      "title": "WATCH: Rubio says Trump prefers Cuba diplomatic solution, but says likelihood 'is not high'",
+      "link": "https://www.pbs.org/newshour/world/watch-rubio-says-trump-prefers-cuba-diplomatic-solution-but-says-likelihood-is-not-high",
+      "publishedAt": "Thu, 21 May 2026 16:45:08 -0400",
+      "snippet": "His comments leave open the option of military action against Cuba, particularly after the indictment this week of former President Raúl Castro on terrorism charges.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How Denmark's wind and solar investments shield it from global energy turmoil",
-      "link": "https://www.pbs.org/newshour/show/how-denmarks-wind-and-solar-investments-shield-it-from-global-energy-turmoil",
-      "publishedAt": "Wed, 20 May 2026 18:25:41 -0400",
-      "snippet": "The European Union's climate commissioner has told the 27-country bloc that the only way out of energy crises fueled by the wars in Iran and Ukraine is homegrown energy, and that the EU must accelerate its transition away from fossil fuels. One country leading the charge towards ",
+      "title": "WATCH: NOAA forecasts milder Atlantic hurricane season thanks to El Nino",
+      "link": "https://www.pbs.org/newshour/nation/watch-noaa-forecasts-milder-atlantic-hurricane-season-thanks-to-el-nino",
+      "publishedAt": "Thu, 21 May 2026 16:26:46 -0400",
+      "snippet": "A developing El Nino that is forecast to get quite strong will likely dampen the upcoming Atlantic hurricane season, but it won't make the potentially deadly storms disappear, federal and outside meteorologists predict.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Sophia Nelson on 'Redefining Freedom' and living up to America's founding principles",
-      "link": "https://www.pbs.org/newshour/show/sophia-nelson-on-redefining-freedom-and-living-up-to-americas-founding-principles",
-      "publishedAt": "Wed, 20 May 2026 18:23:28 -0400",
-      "snippet": "When asked what sort of government the United States had, Benjamin Franklin famously said, \"A republic, if you can keep it.\" Like many, columnist Sophia Nelson has been wondering how well we have kept it. Her new book, \"Redefining Freedom,\" seeks to answer that question and provi",
+      "title": "Queen Elizabeth was 'keen' for then-Prince Andrew to become trade envoy, documents show",
+      "link": "https://www.pbs.org/newshour/world/queen-elizabeth-was-keen-for-then-prince-andrew-to-become-trade-envoy-documents-show",
+      "publishedAt": "Thu, 21 May 2026 16:00:39 -0400",
+      "snippet": "The government released confidential papers related to the appointment in response to legislation passed by Parliament after lawmakers accused the king's brother of putting his friendship with Jeffrey Epstein ahead of the nation.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Soman Chainani and Amna Nawaz discuss politics for young Americans on 'Settle In'",
-      "link": "https://www.pbs.org/newshour/show/soman-chainani-and-amna-nawaz-discuss-politics-for-young-americans-on-settle-in",
-      "publishedAt": "Wed, 20 May 2026 18:20:58 -0400",
-      "snippet": "Author Soman Chainani is best known for his young adult series, \"The School for Good and Evil,\" which went on to become a hugely popular movie on Netflix. Chainani's latest book, \"Young World,\" is a political thriller about a teenager who becomes president. Amna Nawaz spoke with ",
+      "title": "As losses from scams surge, Congress asks telecoms to do more to prevent them",
+      "link": "https://www.pbs.org/newshour/politics/as-losses-from-scams-surge-congress-asks-telecoms-to-do-more-to-prevent-them",
+      "publishedAt": "Thu, 21 May 2026 15:43:38 -0400",
+      "snippet": "A powerful congressional committee is urging major telecommunications companies to do more to protect Americans against scams, part of a widening investigation into the role that U.S. companies play in the surge in cyberscams that cost Americans an estimated $200 billion in 2024.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Mexico City airport races to finish $500M renovation as the 2026 World Cup nears",
-      "link": "https://www.pbs.org/newshour/world/mexico-city-airport-races-to-finish-500m-renovation-as-the-2026-world-cup-nears",
-      "publishedAt": "Wed, 20 May 2026 18:16:46 -0400",
-      "snippet": "With the 2026 FIFA World Cup less than a month away, thousands of passengers arriving at Mexico City's Benito Juárez International Airport are greeted by a chaotic construction site of buzzing drills, scattered pipes and unfinished flooring.",
+      "title": "Woman at center of sprawling Minnesota fraud case gets nearly 42-year prison sentence",
+      "link": "https://www.pbs.org/newshour/nation/woman-at-center-of-sprawling-minnesota-fraud-case-gets-nearly-42-year-prison-sentence",
+      "publishedAt": "Thu, 21 May 2026 14:28:02 -0400",
+      "snippet": "A judge on Thursday handed down an extraordinary prison sentence to the former leader of a Minnesota nonprofit who was convicted in a staggering $250 million fraud case that helped ignite an immigration crackdown by the Trump administration.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "U.S. military boards Iranian-flagged oil tanker suspected of trying to breach blockade",
-      "link": "https://www.pbs.org/newshour/world/u-s-military-boards-iranian-flagged-oil-tanker-suspected-of-trying-to-breach-blockade",
-      "publishedAt": "Wed, 20 May 2026 18:05:52 -0400",
-      "snippet": "The U.S. military said Wednesday that it boarded an Iranian-flagged oil tanker in the Gulf of Oman that was suspected of trying to violate the American blockade, the latest action by the Trump administration to try to push Tehran to reopen the Strait of Hormuz.",
+      "title": "DNC's 2024 election autopsy criticizes Kamala Harris while sidestepping controversial elements of the campaign",
+      "link": "https://www.pbs.org/newshour/politics/dncs-2024-election-autopsy-criticizes-kamala-harris-while-sidestepping-controversial-elements-of-the-campaign",
+      "publishedAt": "Thu, 21 May 2026 14:10:27 -0400",
+      "snippet": "Although the autopsy criticizes Democrats' focus on \"identity politics,\" the report does not address former President Joe Biden's decision to seek reelection, the rushed selection of Harris to replace him on the ticket or the party's acrimonious divide over the war in Gaza.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Democratic-led states challenge the Trump administration's new caps on federal student loans",
-      "link": "https://www.pbs.org/newshour/education/democratic-led-states-challenge-the-trump-administrations-new-caps-on-federal-student-loans",
-      "publishedAt": "Wed, 20 May 2026 17:47:23 -0400",
-      "snippet": "A coalition of Democratic-led states is challenging the Trump administration's recent caps on federal student loans, arguing the limits will make it harder for students pursuing certain healthcare degrees to attain the necessary training and education.",
+      "title": "International Court of Justice says workers' right to strike is protected by key labor treaty",
+      "link": "https://www.pbs.org/newshour/world/international-court-of-justice-says-workers-right-to-strike-is-protected-by-key-labor-treaty",
+      "publishedAt": "Thu, 21 May 2026 13:52:52 -0400",
+      "snippet": "The United Nations' top court issued a landmark advisory opinion on the right to strike on Thursday, finding that a cornerstone labor treaty protects the ability of workers to walk off the job.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Pentagon watchdog to evaluate U.S. military's boat strikes in Latin America",
-      "link": "https://www.pbs.org/newshour/world/pentagon-watchdog-to-evaluate-us-militarys-boat-strikes-in-latin-america",
-      "publishedAt": "Wed, 20 May 2026 17:21:05 -0400",
-      "snippet": "The Pentagon watchdog will evaluate whether the U.S. military followed an established targeting framework when carrying out attacks on dozens of alleged drug-smuggling boats that have killed nearly 200 people in Latin American waters since early September.",
+      "title": "WATCH: Trump says White House 'won't be a very secure place' without $1 billion security proposal",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-white-house-wont-be-a-very-secure-place-without-1-billion-security-proposal",
+      "publishedAt": "Thu, 21 May 2026 13:37:01 -0400",
+      "snippet": "President Donald Trump, facing a Senate Republican mutiny, said Thursday that he doesn't \"need money for the ballroom,\" drawing a distinction between the ballroom and proposed White House security improvements.",
       "tier": 1
     },
     {
@@ -440,130 +440,26 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Latvia scrambles NATO jets in drone alert, the latest of several in Baltic",
-      "link": "https://www.dw.com/en/latvia-scrambles-nato-jets-in-drone-alert-the-latest-of-several-in-baltic/a-77244356?maca=en-rss-en-top-1022-rdf",
+      "title": "France: Part of Eiffel Tower sold at auction for €450,000",
+      "link": "https://www.dw.com/en/france-part-of-eiffel-tower-sold-at-auction-for-€450-000/a-77253774?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Latvia&apos;s military said NATO planes responded to at least one drone flying in its airspace. It&apos;s the latest in a string of such incidents in the Baltic, one of which eventually toppled Latvia&apos;s government.",
+      "snippet": "A French collector bought a 14-step staircase section of the Eiffel Tower at an auction in Paris.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Ebola patient in Berlin: Why Germany&apos;s helping",
-      "link": "https://www.dw.com/en/ebola-patient-in-berlin-why-germany-s-helping/a-77237887?maca=en-rss-en-top-1022-rdf",
+      "title": "Turkish court ousts opposition leader in boost to Erdogan",
+      "link": "https://www.dw.com/en/turkish-court-ousts-opposition-leader-in-boost-to-erdogan/a-77253393?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "An Ebola‑infected American doctor is being treated under the highest safety standards in a specialized isolation unit in the German capital, Berlin. The facilities are considered to be among the best equipped worldwide.",
+      "snippet": "The 2023 party congress where Ozgur Ozel was elected leader of Turkey&apos;s opposition CHP has been declared null and void. The ruling is a legal victory for President Erdogan, but Ozel has vowed not to give in.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Is the US deepening its military involvement in Nigeria?",
-      "link": "https://www.dw.com/en/is-the-us-deepening-its-military-involvement-in-nigeria/a-77236534?maca=en-rss-en-top-1022-rdf",
+      "title": "Saudi Arabia: 1.5 million join Hajj pilgrimage despite war",
+      "link": "https://www.dw.com/en/saudi-arabia-1-5-million-join-hajj-pilgrimage-despite-war/a-77213872?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Airstrikes in Nigeria led by the US have weakened the so-called Islamic State (IS) terror group. The joint operation shows an expanding US role, but analysts warn of limited long‑term impact and civilian risks.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "French court finds Airbus, Air France guilty in 2009 crash",
-      "link": "https://www.dw.com/en/french-court-finds-airbus-air-france-guilty-in-2009-crash/a-77246335?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A Paris appeals court has found Airbus and Air ‌France ⁠guilty ⁠of corporate manslaughter over a 2009 air crash. The disaster in the Atlantic Ocean claimed the lives of all on board Air France Flight 447.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s Merz pitches &apos;associate&apos; EU membership for Ukraine",
-      "link": "https://www.dw.com/en/germany-s-merz-pitches-associate-eu-membership-for-ukraine/a-77236052?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "German Chancellor Friedrich Merz has proposed giving Ukraine interim EU membership without voting rights. He stressed that he still wanted Ukraine to eventually become a \"full member.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany 2026 World Cup squad announcement: Neuer returns",
-      "link": "https://www.dw.com/en/germany-2026-world-cup-squad-announcement-neuer-returns/a-77212854?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Two years after retiring from international football, Manuel Neuer is back in Germany&apos;s 2026 World Cup squad.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Thailand revives bill to clear the air of toxic smog",
-      "link": "https://www.dw.com/en/thailand-revives-bill-to-clear-the-air-of-toxic-smog/a-77239344?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Seasonal smog is a major public health problem in Thailand. Long-delayed legislation aims to stop air pollution before it starts, but enforcement could present a problem.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Taiwan: Trump prods China with offer of direct Taipei talks",
-      "link": "https://www.dw.com/en/taiwan-trump-prods-china-with-offer-of-direct-taipei-talks/a-77238712?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Donald Trump has said he will talk with Taiwan&apos;s president about purchasing US arms. The move would break over four decades of protocol and be an affront to China.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Worst-case climate scenario off the table, but warming is not",
-      "link": "https://www.dw.com/en/worst-case-climate-scenario-off-the-table-but-warming-is-not/a-77238401?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The rapid rollout of renewable energy is helping to shift emissions trends, but expected temperature rises remain high as the UN moves to tighten countries’ commitments.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war updates: Pakistan&apos;s army chief to visit Tehran",
-      "link": "https://www.dw.com/en/iran-war-updates-pakistan-s-army-chief-to-visit-tehran/live-77237954?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Pakistani Field Marshal Asim Munir is set to visit Iran as a peace mediator, Iranian media say. Tehran says it is reviewing Washington&apos;s latest proposals to end the war. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Govt reportedly mulls change to retirement age",
-      "link": "https://www.dw.com/en/germany-news-govt-reportedly-mulls-change-to-retirement-age/live-77237513?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A media report that the German government wants to raise the age of retirement has come under hefty criticism. Meanwhile, Chancellor Friedrich Merz wants to grant Ukraine special status. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Philippines orders arrest of senator over ICC &apos;war on drugs&apos; charges",
-      "link": "https://www.dw.com/en/philippines-orders-arrest-of-senator-over-icc-war-on-drugs-charges/a-77236603?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Senator Ronald \"Bato\" dela Rosa was Rodrigo Duterte&apos;s top enforcer during the deadly \"war on drugs\" which saw thousands killed.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Cockroaches overtake Modi&apos;s BJP on Instagram",
-      "link": "https://www.dw.com/en/india-news-cockroaches-overtake-modi-s-bjp-on-instagram/live-77236328?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Millions of young Indians are following the Cockroach Janata Party Instagram account, symbolic of growing frustration towards the current political system. Meanwhile, Delhi sizzles at 46 degrees Celcius. DW has more",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Colombia: Presidential race overshadowed by rising violence",
-      "link": "https://www.dw.com/en/colombia-presidential-race-overshadowed-by-rising-violence/a-77236018?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "With bombings, assassinations and ceasefire announcements from armed groups, Colombia&apos;s presidential candidates are sharply divided over how to confront the worsening conflict.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Elon Musk&apos;s SpaceX files to go public, in what could be historic IPO",
-      "link": "https://www.dw.com/en/elon-musk-s-spacex-files-to-go-public-in-what-could-be-historic-ipo/a-77235739?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "SpaceX could seek to raise $75 billion in the IPO, in what could be the biggest-ever market debut. Musk, set to become SpaceX&apos;s CEO, CTO, and chair of the board, will retain majority voting control.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Israel&apos;s treatment of aid flotilla activists sparks global outrage",
-      "link": "https://www.dw.com/en/israel-s-treatment-of-aid-flotilla-activists-sparks-global-outrage/a-77234756?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Israeli far-right minister released a video in which he taunted the detained Gaza aid flotilla activists, sparking widespread criticism both in Israel and around the world.",
+      "snippet": "Saudi Arabia has been directly hit by missiles and drones during the Iran war, but the country is hosting the all-important Muslim pilgrimage anyway.",
       "tier": 2
     },
     {
@@ -576,18 +472,122 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "US raises pressure on Cuba, charging Raul Castro with murder",
-      "link": "https://www.dw.com/en/us-raises-pressure-on-cuba-charging-raul-castro-with-murder/a-77233317?maca=en-rss-en-top-1022-rdf",
+      "title": "Ebola patient in Berlin: Why Germany&apos;s helping",
+      "link": "https://www.dw.com/en/ebola-patient-in-berlin-why-germany-s-helping/a-77237887?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The indictment is the latest step by the Trump administration to punish Cuba&apos;s communist government and officials. Raul Castro stepped down from the presidency in 2018.",
+      "snippet": "An Ebola‑infected American doctor is being treated under the highest safety standards in a specialized isolation unit in the German capital, Berlin. The facilities are considered to be among the best equipped worldwide.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Freiburg loses Europa League final",
-      "link": "https://www.dw.com/en/germany-news-freiburg-loses-europa-league-final/live-77225377?maca=en-rss-en-top-1022-rdf",
+      "title": "Enhanced Games: Worse than the risk of &apos;crippling injuries&apos; is the threat of gene editing in sports altering our fundamental human biology",
+      "link": "https://www.dw.com/en/enhanced-games-worse-than-the-risk-of-crippling-injuries-is-the-threat-of-gene-editing-in-sports-altering-our-fundamental-human-biology/a-77248463?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The Bundesliga club had hoped to win its first ever major trophy, but lost to a stronger Aston Villa side. Meanwhile, an American doctor infected with the Ebola virus has been flown to Berlin for specialist treatment.",
+      "snippet": "Doping in sports is nothing new. Athletes at the Enhanced Games will know the risks — severe injury, even paralysis. But bioethicists are also concerned we&apos;re opening the gates to altering our fundamental human biology.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany ready for bigger leadership role in NATO",
+      "link": "https://www.dw.com/en/germany-ready-for-bigger-leadership-role-in-nato/a-77252507?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As NATO foreign ministers gather in Sweden, German Foreign Minister Johann Wadephul has made it clear Berlin is ready to take on a greater leadership role in the alliance.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Everest: Record 274 climbers summit from Nepal in single day",
+      "link": "https://www.dw.com/en/everest-record-274-climbers-summit-from-nepal-in-single-day/a-77252231?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A record number of climbers have scaled Mount Everest from the Nepali side in a single day. Despite increasing congestion at the peak, Nepali authorities have sold a record number of climbing permits.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "DW Exclusive: Germany’s far-right AfD vows to &apos;make history&apos;",
+      "link": "https://www.dw.com/en/dw-exclusive-germany-s-far-right-afd-vows-to-make-history/a-77252189?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The AfD looks set to take power in a German state for the first time. In a DW exclusive, the frontrunner in Saxony-Anhalt discusses plans to detain immigrants and revamp the school system, and relations with Russia.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Will Germany&apos;s aviation tax cut lower ticket prices?",
+      "link": "https://www.dw.com/en/will-germany-s-aviation-tax-cut-lower-ticket-prices/a-75022175?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The tax cut aims to ease the burden on the aviation industry and make flying slightly cheaper. However, some experts warn that it is unlikely to have a meaningful impact on ticket prices.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany reaches out to Gulf states about Iran war",
+      "link": "https://www.dw.com/en/germany-reaches-out-to-gulf-states-about-iran-war/a-77249238?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany no longer believes it can play a mediating role in the conflict between the US, Israel and Iran. Instead, the German government is working to strengthen its ties with the Gulf states.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ebola: Experts warn of scale and spread of deadly virus",
+      "link": "https://www.dw.com/en/ebola-experts-warn-of-scale-and-spread-of-deadly-virus/a-77248583?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Health experts have warned the world is seeing just the \"top of the iceberg\" as the deadly Ebola outbreak spreads. Meanwhile, India and the African Union have postponed a scheduled summit due to the health emergency.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
+      "link": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The first gathering of Sudeten Germans in Czechia since World War II is set to go ahead this weekend despite a political backlash that has exposed tensions over one of Central Europe&apos;s most painful historical legacies.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Kevin Warsh: Trump&apos;s man at the Fed or independent voice?",
+      "link": "https://www.dw.com/en/kevin-warsh-trump-s-man-at-the-fed-or-independent-voice/a-77248236?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Never before has a chair of the US Federal Reserve been so controversial. Who is Kevin Warsh? Can he preserve the Fed&apos;s independence, or will he become Donald Trump&apos;s puppet?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Turkey: DW&apos;s Alican Uludag released, but trial continues",
+      "link": "https://www.dw.com/en/turkey-dw-s-alican-uludag-released-but-trial-continues/a-77247916?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A Turkish court has allowed DW reporter Alican Uludag to leave detention as his contentious trial opens. He is accused of having \"insulted\" President Recep Tayyip Erdogan, which in Turkey can carry a jail sentence.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "New Chinese surveillance leaves foreigners nowhere to hide",
+      "link": "https://www.dw.com/en/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide/a-77246713?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A Chinese cybersecurity expert has revealed to DW details of China&apos;s new high-tech policing. From ski resort facial recognition to seats on a train, the system can track anyone and compile a \"holistic profile.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Will SpaceX&apos;s IPO fund life on Mars — and a trillionaire?",
+      "link": "https://www.dw.com/en/will-spacex-s-ipo-fund-life-on-mars-and-a-trillionaire/a-77236838?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "SpaceX is launching history&apos;s biggest public listing, propelling Elon Musk&apos;s wealth into the stratosphere. DW explores whether the firm&apos;s out-of-this-world ambitions are truly cosmic or another black hole for investors.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Latvia scrambles NATO jets in drone alert, the latest of several in Baltic",
+      "link": "https://www.dw.com/en/latvia-scrambles-nato-jets-in-drone-alert-the-latest-of-several-in-baltic/a-77244356?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Latvia&apos;s military said NATO planes responded to at least one drone flying in its airspace. It&apos;s the latest in a string of such incidents in the Baltic, one of which eventually toppled Latvia&apos;s government.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Is the US deepening its military involvement in Nigeria?",
+      "link": "https://www.dw.com/en/is-the-us-deepening-its-military-involvement-in-nigeria/a-77236534?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Airstrikes in Nigeria led by the US have weakened the so-called Islamic State (IS) terror group. The joint operation shows an expanding US role, but analysts warn of limited long‑term impact and civilian risks.",
       "tier": 2
     }
   ]
