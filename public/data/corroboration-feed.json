@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T13:15:39.956Z",
+  "generatedAt": "2026-05-23T01:17:01.893Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,42 +32,82 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Nato chief welcomes US sending 5,000 troops to Poland",
+      "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 19:40:14 GMT",
+      "snippet": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Rubio tries to reassure Nato allies over US troop deployments",
       "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 11:39:14 GMT",
-      "snippet": "President Trump's announcement on Thursday night came ahead of a meeting of Nato foreign ministers.",
+      "publishedAt": "Fri, 22 May 2026 15:18:30 GMT",
+      "snippet": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "UK scientists developing new Ebola vaccine that could be ready in months",
-      "link": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 12:56:06 GMT",
-      "snippet": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
+      "title": "Ebola risk raised to 'very high' in DR Congo",
+      "link": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 16:23:08 GMT",
+      "snippet": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
-      "link": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 09:32:42 GMT",
-      "snippet": "The BBC speaks to Havana residents after the US charges the country's former leader, Raúl Castro, with murder.",
+      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "link": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 20:52:35 GMT",
+      "snippet": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
-      "link": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 08:12:47 GMT",
-      "snippet": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.",
+      "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
+      "link": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 17:54:11 GMT",
+      "snippet": "Images from a cave where the four Italians were found reveal the difficulty that rescuers had in recovering their bodies.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
-      "link": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 11:34:48 GMT",
-      "snippet": "The appeal court declared Özgür Özel's party leadership victory void, further cementing the president's grip on power.",
+      "title": "Judge dismisses criminal case against Kilmar Abrego Garcia",
+      "link": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 21:47:47 GMT",
+      "snippet": "A federal judge says the Maryland man who was wrongfully deported last year is being prosecuted for political reasons.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Tulsi Gabbard to resign as US director of national intelligence",
+      "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 20:30:26 GMT",
+      "snippet": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
+      "link": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 20:59:28 GMT",
+      "snippet": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not definitive enough.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Sabalenka cuts media short as French Open players protest",
+      "link": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 14:59:34 GMT",
+      "snippet": "Leading players, including Aryna Sabalenka, Coco Gauff and Jannik Sinner, limit their French Open media duties to 15 minutes in a row over prize money.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+      "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 16:10:21 GMT",
+      "snippet": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\".",
       "tier": 1
     },
     {
@@ -80,14 +120,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Alberta to hold referendum on whether to remain in Canada",
-      "link": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 02:40:58 GMT",
-      "snippet": "Voters in the western province will decide next October whether they want to stay in Canada or move ahead with a process for a binding independence referendum.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Slow Food founder Carlo Petrini dies aged 76",
       "link": "https://www.bbc.com/news/articles/cn9pe1py9zwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 22 May 2026 10:22:21 GMT",
@@ -96,74 +128,26 @@
     },
     {
       "source": "BBC World",
-      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-      "link": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 08:13:13 GMT",
-      "snippet": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
+      "title": "'Speed, money and compassion' - lessons from an Ebola survivor and other experts",
+      "link": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 23:07:41 GMT",
+      "snippet": "Those caught up in West Africa's Ebola outbreak a decade ago on how best to tackle the current epidemic.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Africa summit in India postponed over Ebola outbreak fears",
-      "link": "https://www.bbc.com/news/articles/cp8p1l7gp1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 07:56:53 GMT",
-      "snippet": "The India-Africa summit was set to be held next week in Delhi after more than a decade.",
+      "title": "Trump is putting pressure on Cuba - why and to what end?",
+      "link": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 18:33:36 GMT",
+      "snippet": "The US has warned that a peaceful agreement with Cuba is unlikely, Havana insists this is a \"fraudulent case\" designed to justify military intervention.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
-      "link": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 01:37:02 GMT",
-      "snippet": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US sanctions Tanzanian police official over 'torture' of rights activists",
-      "link": "https://www.bbc.com/news/articles/cn4p8m3r1glo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 08:15:21 GMT",
-      "snippet": "The sanctions come amid growing scrutiny of Tanzania’s human rights record in recent years.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
-      "link": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 11:45:38 GMT",
-      "snippet": "Grieving relatives and friends of a suspected Ebola victim were prevented from taking his body for burial.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Will US invade? Three ways Cuba crisis could play out now",
-      "link": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 18:40:12 GMT",
-      "snippet": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
-      "link": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 02:57:12 GMT",
-      "snippet": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Australian man dies after falling down ravine on hike to Machu Picchu",
-      "link": "https://www.bbc.com/news/articles/c202z3yz9p5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 05:59:24 GMT",
-      "snippet": "The body of Matthew Cameron Paton, 53, was found on Thursday, about 300m down a steep slope.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Tennessee execution called off after failed lethal injection",
-      "link": "https://www.bbc.com/news/articles/c93xj503kg9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 22:45:20 GMT",
-      "snippet": "Tony Carruthers was granted a one-year reprieve from death after his executioners failed to find a vein for lethal injection.",
+      "title": "An Indian bride dies. Rival claims of murder and suicide set off media frenzy",
+      "link": "https://www.bbc.com/news/articles/czd2q140my1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 11:41:23 GMT",
+      "snippet": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead.",
       "tier": 1
     },
     {
@@ -176,18 +160,90 @@
     },
     {
       "source": "BBC World",
-      "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
-      "link": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 00:21:24 GMT",
-      "snippet": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely condemned.",
+      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+      "link": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 01:37:02 GMT",
+      "snippet": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Nascar champion Kyle Busch dies aged 41",
-      "link": "https://www.bbc.com/news/articles/clyp2lrpxm0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 21 May 2026 23:54:02 GMT",
-      "snippet": "Busch's representatives had said earlier on Thursday that he had been sent to hospital with a severe illness.",
+      "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
+      "link": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 10:45:38 GMT",
+      "snippet": "The BBC's Michelle Fleury looks at trades disclosed by the president.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
+      "link": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 22 May 2026 10:45:27 GMT",
+      "snippet": "The monumental structure was created by Parisan artist JR - often dubbed the French Banksy",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "How Cuban-Americans feel about Raúl Castro's indictment",
+      "link": "https://www.bbc.com/news/videos/cy92ge22298o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 21 May 2026 20:52:52 GMT",
+      "snippet": "The DOJ charged the former leader of Cuba with murder and other crimes for his alleged role in the downing of two civilian aircraft in 1996.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "40,000 people under evacuation orders after chemical tank leak in Southern California",
+      "link": "https://www.npr.org/2026/05/22/g-s1-124082/garden-grove-chemical-tank-leak",
+      "publishedAt": "Fri, 22 May 2026 20:48:48 -0400",
+      "snippet": "About 40,000 people were under evacuation orders and schools shut down Friday in Southern California after a storage tank continued to leak a hazardous chemical that officials said could rupture or explode.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Federal judge dismisses criminal charges against Kilmar Abrego Garcia",
+      "link": "https://www.npr.org/2026/05/22/nx-s1-5831958/federal-judge-dismisses-criminal-charges-against-kilmar-abrego-garcia",
+      "publishedAt": "Fri, 22 May 2026 17:13:29 -0400",
+      "snippet": "U.S. District Judge Waverly Crenshaw accused the Justice Department of conducting a vindictive prosecution against the Salvadoran man.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "DHS says ICE has &apos;no relationship&apos; with spyware maker Paragon Solutions",
+      "link": "https://www.npr.org/2026/05/22/nx-s1-5831577/dhs-ice-spyware-paragon",
+      "publishedAt": "Fri, 22 May 2026 16:30:56 -0400",
+      "snippet": "The Department of Homeland Security says ICE has no current contract or relationship with the company, but questions remain about ICE&apos;s use of commercial spyware.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Ask AI or just Google it? Google makes a big change to a little search box",
+      "link": "https://www.npr.org/2026/05/22/nx-s1-5829915/google-search-box-ai",
+      "publishedAt": "Fri, 22 May 2026 15:05:25 -0400",
+      "snippet": "The search giant is updating its famously minimalist homepage. But what looks like a tiny design change is a very big deal.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Gabbard resigns as national intelligence director citing husband&apos;s cancer diagnosis",
+      "link": "https://www.npr.org/2026/05/22/nx-s1-5440533/gabbard-resigns-as-national-intelligence-director-citing-husbands-cancer-diagnosis",
+      "publishedAt": "Fri, 22 May 2026 14:25:12 -0400",
+      "snippet": "Gabbard is the latest in a series of Cabinet officials to leave the Trump administration.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Shein buys Everlane, which sold millennials the dream of ethical, affordable luxury",
+      "link": "https://www.npr.org/2026/05/22/nx-s1-5825872/shein-buys-everlane",
+      "publishedAt": "Fri, 22 May 2026 11:36:45 -0400",
+      "snippet": "Everlane&apos;s finances have faltered in recent years. But will the merger alienate Everlane&apos;s existing shoppers — or sway droves of Shein fans to trade up?",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Drive slower, go electric, don&apos;t drive at all? The best options for saving gas",
+      "link": "https://www.npr.org/2026/05/22/nx-s1-5831223/memorial-day-gas-prices-save-money-iran",
+      "publishedAt": "Fri, 22 May 2026 10:27:01 -0400",
+      "snippet": "The national average for a gallon of gasoline is $4.55, as America heads into one of the busiest travel weekends of the year. What can you do to cut your costs?",
       "tier": 1
     },
     {
@@ -215,219 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "A stranger&apos;s compliment helped her feel confident after chemo",
-      "link": "https://www.npr.org/2026/05/22/nx-s1-5825045/stranger-compliment-helped-feel-confident-chemo-my-unsung-hero",
-      "publishedAt": "Fri, 22 May 2026 05:00:00 -0400",
-      "snippet": "When Pat Gentile began to grow out her hair after chemotherapy, she was nervous to go to work for the first time without a wig. An unexpected encounter with a convenience store stranger changed that.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "As voters prioritize cost of living, focus on abortion evolves in midterm elections",
-      "link": "https://www.npr.org/2026/05/22/nx-s1-5806338/abortion-democrats-midterm-elections-messaging-affordability-mifepristone",
-      "publishedAt": "Fri, 22 May 2026 05:00:00 -0400",
-      "snippet": "There&apos;s been a shift in attention in the party ahead of the midterms as voters rank affordability the top issue. That raises questions about what an evolving message on reproductive rights looks like.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "&apos;We&apos;ll never know if he could have been saved.&apos; The gaps in Trump&apos;s rural health fund",
-      "link": "https://www.npr.org/2026/05/22/nx-s1-5821038/rural-health-hospitals-50-billion-big-beautiful-bill-obbba",
-      "publishedAt": "Fri, 22 May 2026 05:00:00 -0400",
-      "snippet": "Republicans promise that $50 billion in new health funding will help rural America. But it&apos;s not expected to aid the years-long effort in North Carolina&apos;s Martin County to reopen its only hospital.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Stephen Colbert&apos;s &apos;Late Show&apos; ends with a swan song and a giant wormhole",
-      "link": "https://www.npr.org/2026/05/22/nx-s1-5815319/colbert-last-show",
-      "publishedAt": "Fri, 22 May 2026 04:50:54 -0400",
-      "snippet": "With a dash of sci-fi, Colbert ended his CBS late-night show with a powerful musical sendoff featuring Paul McCartney, Elvis Costello and Jon Batiste.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/05/22/nx-s1-5820720/morning-news-brief",
-      "publishedAt": "Fri, 22 May 2026 04:44:46 -0400",
-      "snippet": "Senate breaks for recess, delaying vote on ICE funding, DNC releases &apos;autopsy&apos; of 2024 presidential election, a look at Trump&apos;s political -- and personal -- interest in Cuba.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "&apos;That&apos;s Aaron&apos;s redbud&apos;: Father remembers son with tree planted in his honor",
-      "link": "https://www.npr.org/2026/05/22/nx-s1-5829842/thats-aarons-redbud-father-remembers-son-with-tree-planted-in-his-honor",
-      "publishedAt": "Fri, 22 May 2026 04:42:57 -0400",
-      "snippet": "A father talks about the tree in his front yard that honors the memory of his son who was killed in Afghanistan.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "UN gravely concerned by an Afghan Taliban law that has provisions on child marriage",
-      "link": "https://www.npr.org/2026/05/22/nx-s1-5831001/un-concerned-afghan-taliban-law-child-marriage",
-      "publishedAt": "Fri, 22 May 2026 01:48:27 -0400",
-      "snippet": "The United Nations expressed \"grave concern\" on Thursday about a new law issued by Afghanistan&apos;s Taliban government on separation in marriage which includes provisions on child marriage.",
+      "source": "PBS Headlines",
+      "title": "Is it time for the U.S. to reassess its Iran strategy?",
+      "link": "https://www.pbs.org/newshour/video/compass-points/2026/05/is-it-time-for-the-u-s-to-reassess-its-iran-strategy",
+      "publishedAt": "Fri, 22 May 2026 19:30:20 -0400",
+      "snippet": "With talks stalled and Iran maintaining its chokehold over the Strait of Hormuz, President Trump is weighing whether to restart the war. Strikes failed to eliminate Iran's regime or destroy its military and nuclear capabilities, so is it time for the U.S. to reassess its strategy",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "GOP immigration enforcement bill stalls amid backlash to $1.8 billion 'anti-weaponization' fund",
-      "link": "https://www.pbs.org/newshour/politics/gop-immigration-enforcement-bill-stalls-amid-backlash-to-1-8-billion-anti-weaponization-fund",
-      "publishedAt": "Thu, 21 May 2026 19:39:18 -0400",
-      "snippet": "Senate Republicans abruptly left Washington on Thursday without voting on a roughly $70 billion bill to fund immigration enforcement agencies, frustrated with the White House and at an impasse over whether to try to block a new $1.776 billion settlement fund to compensate Trump a",
+      "title": "Tulsi Gabbard's record and impact on the U.S. intelligence community",
+      "link": "https://www.pbs.org/newshour/show/tulsi-gabbards-record-and-impact-on-the-u-s-intelligence-community",
+      "publishedAt": "Fri, 22 May 2026 18:55:23 -0400",
+      "snippet": "Director of National Intelligence Tulsi Gabbard, the highest-ranking intelligence official in the U.S. government, has resigned. She said her husband is suffering from a rare bone cancer that requires her full attention. Nick Schifrin and Liz Landers report, and William Brangham ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "2-time NASCAR champion Kyle Busch dies at 41 after being hospitalized with 'severe illness'",
-      "link": "https://www.pbs.org/newshour/nation/2-time-nascar-champion-kyle-busch-dies-at-41-after-being-hospitalized-with-severe-illness",
-      "publishedAt": "Thu, 21 May 2026 19:00:48 -0400",
-      "snippet": "Kyle Busch, a two-time Cup Series champion who won more races than anyone across NASCAR's three national series, has died. He was 41.",
+      "title": "SpaceX launches its biggest Starship mega rocket yet on test flight",
+      "link": "https://www.pbs.org/newshour/science/spacex-launches-its-biggest-starship-mega-rocket-yet-on-test-flight",
+      "publishedAt": "Fri, 22 May 2026 18:51:43 -0400",
+      "snippet": "It's the 12th test flight of the rocket that SpaceX is building to get people to Mars one day. But first comes the moon and NASA's Artemis program.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Senate Republicans break with Trump over 'anti-weaponization fund' concerns",
-      "link": "https://www.pbs.org/newshour/show/some-senate-republicans-break-with-trump-over-anti-weaponization-fund-concerns",
-      "publishedAt": "Thu, 21 May 2026 18:55:52 -0400",
-      "snippet": "Hours before they were scheduled to vote, Senate Republicans instead refused to advance a key bill for President Trump because of concerns over the administration's \"anti-weaponization fund.\" The acting attorney general made an unplanned trip to the Capitol to personally argue th",
+      "title": "News Wrap: Rubio meets with NATO allies amid troop level confusion",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-rubio-meets-with-nato-allies-amid-troop-level-confusion",
+      "publishedAt": "Fri, 22 May 2026 18:45:57 -0400",
+      "snippet": "In our news wrap Friday, Secretary of State Marco Rubio met with NATO allies amid confusion over recent statements on U.S. troop levels in Europe, authorities in the Democratic Republic of Congo are banning funeral wakes and large gatherings to try and slow the Ebola outbreak and",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Arts commission approves design of Trump's 250-foot arch",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-arts-commission-approves-design-of-trumps-250-foot-arch",
-      "publishedAt": "Thu, 21 May 2026 18:50:38 -0400",
-      "snippet": "In our news wrap Thursday, the U.S. Commission of Fine Arts, made up of President Trump's appointed allies, approved the design for his proposed 250-foot arch, Trump and Secretary of State Rubio revived warnings about possible U.S. intervention in Cuba and a judge in Minnesota se",
+      "title": "Trump's Cuba strategy echoes his Venezuela playbook, but experts point out key differences",
+      "link": "https://www.pbs.org/newshour/world/trumps-cuba-strategy-echoes-his-venezuela-playbook-but-experts-point-out-key-differences",
+      "publishedAt": "Fri, 22 May 2026 18:41:53 -0400",
+      "snippet": "Similar pressure campaigns do not equal similar results, experts say, even if President Donald Trump has often warned that \"Cuba is next.\"",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Residents burn Ebola treatment center in Congo as anger grows over the outbreak",
-      "link": "https://www.pbs.org/newshour/world/residents-burn-ebola-treatment-center-in-congo-as-anger-grows-over-the-outbreak",
-      "publishedAt": "Thu, 21 May 2026 18:48:39 -0400",
-      "snippet": "People set fire to an Ebola treatment center in a town at the heart of the outbreak in eastern Congo on Thursday after being stopped from retrieving the body of a local man, a witness and a senior police officer said, as fear and anger grow over a health crisis that doctors are s",
+      "title": "What's behind the decade-long 'learning recession' for American students",
+      "link": "https://www.pbs.org/newshour/show/whats-behind-the-decade-long-learning-recession-for-american-students",
+      "publishedAt": "Fri, 22 May 2026 18:40:43 -0400",
+      "snippet": "As the school year is coming to a close, a new analysis shines another harsh spotlight on what's being called a \"learning recession\" for American students. It's a problem that started long before the pandemic, according to the latest National Education Scorecard. William Brangham",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Democratic strategist breaks down DNC's 2024 election autopsy",
-      "link": "https://www.pbs.org/newshour/show/democratic-strategist-breaks-down-dncs-2024-election-autopsy",
-      "publishedAt": "Thu, 21 May 2026 18:45:12 -0400",
-      "snippet": "The Democratic National Committee released a long-awaited, yet still incomplete, report into what went wrong during the 2024 presidential election. The report had initially been shelved, but after months of consternation and criticism, DNC Chair Ken Martin said he released it in ",
+      "title": "Shein's purchase of sustainable fashion brand Everlane sparks outcry",
+      "link": "https://www.pbs.org/newshour/show/sheins-purchase-of-sustainable-fashion-brand-everlane-sparks-outcry",
+      "publishedAt": "Fri, 22 May 2026 18:35:06 -0400",
+      "snippet": "A deal between two seemingly incompatible clothing brands is causing a lot of consternation among customers and raising questions about sustainable fashion. Shein, the Chinese fast-fashion giant, is acquiring Everlane. For many, Everlane has been the face of a sustainable and eth",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "NATO's Baltic flank in crossfire between Ukrainian drones and Russian targets",
-      "link": "https://www.pbs.org/newshour/show/natos-baltic-flank-in-crossfire-between-ukrainian-drones-and-russian-targets",
-      "publishedAt": "Thu, 21 May 2026 18:40:12 -0400",
-      "snippet": "The countries along NATO's eastern flank have long been on the frontline against Russian aggression. But now they are in the firing line between Ukraine's long-range drones and targets in northwest Russia. Nick Schifrin spoke with Latvia's foreign minister and reports on NATO's e",
+      "title": "Shipyard fire and explosion on Staten Island injures at least 16, officials say",
+      "link": "https://www.pbs.org/newshour/nation/shipyard-fire-and-explosion-on-staten-island-injures-at-least-16-officials-say",
+      "publishedAt": "Fri, 22 May 2026 18:30:47 -0400",
+      "snippet": "Someone reported two workers trapped in a confined space at the dock at about 3:30 p.m. Friday, and responding firefighters found a fire burning in the basement of a large metal structure at the dock, said Joanne Mariano with the New York Fire Department's press office.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "New Mexico secretary of state explains law barring armed federal agents at polls",
-      "link": "https://www.pbs.org/newshour/show/new-mexico-secretary-of-state-explains-law-barring-armed-federal-agents-at-polls",
-      "publishedAt": "Thu, 21 May 2026 18:35:55 -0400",
-      "snippet": "With the primary season underway, election officials are preparing for November. Some Democratic-led states, worried about the possibility of armed soldiers or ICE officers appearing near polling places, are taking steps to counter what they see as a potential effort to intimidat",
+      "title": "Carbon credit program pays small landowners to keep forests standing",
+      "link": "https://www.pbs.org/newshour/show/carbon-credit-program-pays-small-landowners-to-keep-forests-standing",
+      "publishedAt": "Fri, 22 May 2026 18:30:45 -0400",
+      "snippet": "Markets to offset carbon emissions are now worth about $2 billion annually, and supporters say they're a key tool to address climate change. But carbon credits have also been criticized for being opaque and not reducing emissions nearly enough. Stephanie Sy reports on an effort t",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "'How to Rule the World' exposes Stanford's complex relationship with Silicon Valley power",
-      "link": "https://www.pbs.org/newshour/show/how-to-rule-the-world-exposes-stanfords-complex-relationship-with-silicon-valley-power",
-      "publishedAt": "Thu, 21 May 2026 18:30:42 -0400",
-      "snippet": "While most college freshmen spend their first year shopping around courses and picking their majors, Theo Baker had a bit more on his plate. As a reporter for the Stanford Daily, he investigated research misconduct, leading to the resignation of President Marc Tessier-Lavigne. Ba",
+      "title": "Brooks and Capehart on Trump's loyalty demands",
+      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-loyalty-demands",
+      "publishedAt": "Fri, 22 May 2026 18:25:37 -0400",
+      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join William Brangham to discuss the week in politics, including President Trump demonstrating his grip on Republican primary voters, another Cabinet member departs his administration and Democrats releasing a clumsy an",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What Stephen Colbert's exit means for the future of late-night",
-      "link": "https://www.pbs.org/newshour/show/what-stephen-colberts-exit-means-for-the-future-of-late-night",
-      "publishedAt": "Thu, 21 May 2026 18:25:08 -0400",
-      "snippet": "The curtain comes down one final time on Thursday for \"The Late Show with Stephen Colbert.\" Colbert has entertained and provoked audiences from the Ed Sullivan Theater stage for the last decade in ways that transformed the comedic landscape. Geoff Bennett takes a look at what led",
+      "title": "NASCAR's Kyle Busch was short of breath, coughing up blood a day before death, 911 call reveals",
+      "link": "https://www.pbs.org/newshour/nation/nascars-kyle-busch-was-short-of-breath-coughing-up-blood-a-day-before-death-911-call-reveals",
+      "publishedAt": "Fri, 22 May 2026 18:14:11 -0400",
+      "snippet": "Busch died Thursday at age 41. No cause of death has been given, though his family said earlier he had been hospitalized with a \"severe illness\" three days before he was to compete in the Coca-Cola 600 at Charlotte Motor Speedway.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "4 takeaways from the DNC's long-awaited 2024 election autopsy report",
-      "link": "https://www.pbs.org/newshour/politics/4-takeaways-from-the-dncs-long-awaited-2024-election-autopsy-report",
-      "publishedAt": "Thu, 21 May 2026 17:24:39 -0400",
-      "snippet": "It's never a good sign when a report comes with a big red disclaimer at the top of each page, but that's what happened on Thursday when the Democratic National Committee belatedly released its controversial autopsy report on the 2024 election.",
+      "title": "FDA move allowing more e-cigarettes and nicotine pouches into U.S. blindsides officials",
+      "link": "https://www.pbs.org/newshour/health/fda-move-allowing-more-e-cigarettes-and-nicotine-pouches-into-u-s-blindsides-officials",
+      "publishedAt": "Fri, 22 May 2026 18:04:31 -0400",
+      "snippet": "Senior officials in the Food and Drug Administration's tobacco center were blindsided by a recent decision that opens the door to allowing more unauthorized electronic cigarettes and nicotine pouches onto the U.S. market, The Associated Press has learned.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Democrats rally at Capitol against GOP's immigration enforcement funding bill",
-      "link": "https://www.pbs.org/newshour/politics/watch-democrats-rally-at-capitol-against-gops-immigration-enforcement-funding-bill",
-      "publishedAt": "Thu, 21 May 2026 16:55:11 -0400",
-      "snippet": "Democrats tried to draw a sharp contrast by highlighting how the White House proposed including $1 billion for security for the White House complex and President Donald Trump's ballroom. Republicans are abandoning that proposal.",
+      "title": "Foreigners in U.S. must apply for green cards abroad, new Trump administration rule says",
+      "link": "https://www.pbs.org/newshour/politics/foreigners-in-u-s-must-apply-for-green-cards-abroad-new-trump-administration-rule-says",
+      "publishedAt": "Fri, 22 May 2026 17:41:08 -0400",
+      "snippet": "The announcement from U.S. Citizenship and Immigration Services is the latest step by the Trump administration making legal immigration more difficult for foreigners already in the U.S. and for those hoping to come here.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Rubio says Trump prefers Cuba diplomatic solution, but says likelihood 'is not high'",
-      "link": "https://www.pbs.org/newshour/world/watch-rubio-says-trump-prefers-cuba-diplomatic-solution-but-says-likelihood-is-not-high",
-      "publishedAt": "Thu, 21 May 2026 16:45:08 -0400",
-      "snippet": "His comments leave open the option of military action against Cuba, particularly after the indictment this week of former President Raúl Castro on terrorism charges.",
+      "title": "Former Epstein assistant Sarah Kellen testified before the House committee. Here's what we know",
+      "link": "https://www.pbs.org/newshour/politics/former-epstein-assistant-sarah-kellen-testified-before-the-house-committee-heres-what-we-know",
+      "publishedAt": "Fri, 22 May 2026 17:24:06 -0400",
+      "snippet": "Sarah Kellen, a former personal assistant to Jeffrey Epstein, testified Thursday in a closed-door deposition on her yearslong connection to the convicted sex offender, saying she was a target of his abuse as she managed logistics of his relations with girls and young women.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: NOAA forecasts milder Atlantic hurricane season thanks to El Nino",
-      "link": "https://www.pbs.org/newshour/nation/watch-noaa-forecasts-milder-atlantic-hurricane-season-thanks-to-el-nino",
-      "publishedAt": "Thu, 21 May 2026 16:26:46 -0400",
-      "snippet": "A developing El Nino that is forecast to get quite strong will likely dampen the upcoming Atlantic hurricane season, but it won't make the potentially deadly storms disappear, federal and outside meteorologists predict.",
+      "title": "Federal judge dismisses human smuggling charges against Kilmar Abrego Garcia",
+      "link": "https://www.pbs.org/newshour/nation/federal-judge-dismisses-human-smuggling-charges-against-kilmar-abrego-garcia",
+      "publishedAt": "Fri, 22 May 2026 17:18:05 -0400",
+      "snippet": "A federal judge on Friday dismissed a human smuggling case against Kilmar Abrego Garcia, finding that the Justice Department's pursuit of criminal charges was designed to punish him for challenging his mistaken deportation to El Salvador last year.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Queen Elizabeth was 'keen' for then-Prince Andrew to become trade envoy, documents show",
-      "link": "https://www.pbs.org/newshour/world/queen-elizabeth-was-keen-for-then-prince-andrew-to-become-trade-envoy-documents-show",
-      "publishedAt": "Thu, 21 May 2026 16:00:39 -0400",
-      "snippet": "The government released confidential papers related to the appointment in response to legislation passed by Parliament after lawmakers accused the king's brother of putting his friendship with Jeffrey Epstein ahead of the nation.",
+      "title": "WATCH: Trump speaks at N.Y.'s Rockland Community College, campaigning for Rep. Lawler",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-speaks-at-n-y-s-rockland-community-college-campaigning-for-rep-lawler",
+      "publishedAt": "Fri, 22 May 2026 16:50:29 -0400",
+      "snippet": "President Donald Trump, from a toss-up congressional district in New York on Friday, began testing his midterm-year message that was ostensibly on the economy. But he veered off-topic right from the start, going off on tangents about voter identification, crime in cities, transge",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "As losses from scams surge, Congress asks telecoms to do more to prevent them",
-      "link": "https://www.pbs.org/newshour/politics/as-losses-from-scams-surge-congress-asks-telecoms-to-do-more-to-prevent-them",
-      "publishedAt": "Thu, 21 May 2026 15:43:38 -0400",
-      "snippet": "A powerful congressional committee is urging major telecommunications companies to do more to protect Americans against scams, part of a widening investigation into the role that U.S. companies play in the surge in cyberscams that cost Americans an estimated $200 billion in 2024.",
+      "title": "What to know about the Hajj, Eid al-Adha and their significance to Muslims around the world",
+      "link": "https://www.pbs.org/newshour/world/what-to-know-about-the-hajj-eid-al-adha-and-their-significance-to-muslims-around-the-world",
+      "publishedAt": "Fri, 22 May 2026 16:19:03 -0400",
+      "snippet": "Once a year, large numbers of Muslim pilgrims converge in Saudi Arabia, uniting in religious rituals and acts of worship as they perform the Hajj.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Woman at center of sprawling Minnesota fraud case gets nearly 42-year prison sentence",
-      "link": "https://www.pbs.org/newshour/nation/woman-at-center-of-sprawling-minnesota-fraud-case-gets-nearly-42-year-prison-sentence",
-      "publishedAt": "Thu, 21 May 2026 14:28:02 -0400",
-      "snippet": "A judge on Thursday handed down an extraordinary prison sentence to the former leader of a Minnesota nonprofit who was convicted in a staggering $250 million fraud case that helped ignite an immigration crackdown by the Trump administration.",
+      "title": "All-women Senate delegation heads to the Arctic to reassure U.S. allies in the region",
+      "link": "https://www.pbs.org/newshour/politics/all-women-senate-delegation-heads-to-the-arctic-to-reassure-u-s-allies-in-the-region",
+      "publishedAt": "Fri, 22 May 2026 15:52:05 -0400",
+      "snippet": "Seeking to reassure U.S. allies, a bipartisan group of senators is departing for a tour of Arctic nations. And this time they're leaving the men behind.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "DNC's 2024 election autopsy criticizes Kamala Harris while sidestepping controversial elements of the campaign",
-      "link": "https://www.pbs.org/newshour/politics/dncs-2024-election-autopsy-criticizes-kamala-harris-while-sidestepping-controversial-elements-of-the-campaign",
-      "publishedAt": "Thu, 21 May 2026 14:10:27 -0400",
-      "snippet": "Although the autopsy criticizes Democrats' focus on \"identity politics,\" the report does not address former President Joe Biden's decision to seek reelection, the rushed selection of Harris to replace him on the ticket or the party's acrimonious divide over the war in Gaza.",
+      "title": "Read Tulsi Gabbard's full resignation letter as director of national intelligence",
+      "link": "https://www.pbs.org/newshour/politics/read-tulsi-gabbards-full-resignation-letter-as-director-of-national-intelligence",
+      "publishedAt": "Fri, 22 May 2026 14:42:25 -0400",
+      "snippet": "During her 15 months as chief of America's spy agencies, Gabbard faced scrutiny over her conduct and the handling of U.S. intelligence.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "International Court of Justice says workers' right to strike is protected by key labor treaty",
-      "link": "https://www.pbs.org/newshour/world/international-court-of-justice-says-workers-right-to-strike-is-protected-by-key-labor-treaty",
-      "publishedAt": "Thu, 21 May 2026 13:52:52 -0400",
-      "snippet": "The United Nations' top court issued a landmark advisory opinion on the right to strike on Thursday, finding that a cornerstone labor treaty protects the ability of workers to walk off the job.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "WATCH: Trump says White House 'won't be a very secure place' without $1 billion security proposal",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-white-house-wont-be-a-very-secure-place-without-1-billion-security-proposal",
-      "publishedAt": "Thu, 21 May 2026 13:37:01 -0400",
-      "snippet": "President Donald Trump, facing a Senate Republican mutiny, said Thursday that he doesn't \"need money for the ballroom,\" drawing a distinction between the ballroom and proposed White House security improvements.",
+      "title": "Tulsi Gabbard resigns as Trump's national intelligence director",
+      "link": "https://www.pbs.org/newshour/politics/tulsi-gabbard-resigns-as-trumps-national-intelligence-director",
+      "publishedAt": "Fri, 22 May 2026 13:40:24 -0400",
+      "snippet": "Tulsi Gabbard resigned as President Donald Trump's director of national intelligence on Friday, saying she needed to step away as her husband battles cancer. She is the fourth Cabinet official to depart during Trump's second term.",
       "tier": 1
     },
     {
@@ -440,10 +440,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Can the Quad stay relevant to boost Indo-Pacific security?",
-      "link": "https://www.dw.com/en/can-the-quad-stay-relevant-to-boost-indo-pacific-security/a-77261939?maca=en-rss-en-top-1022-rdf",
+      "title": "Kevin Warsh: Trump ally at the Federal Reserve?",
+      "link": "https://www.dw.com/en/kevin-warsh-trump-ally-at-the-federal-reserve/a-77248236?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Foreign ministers from the US, India, Japan and Australia — collectively known as the Quad — need to put past differences behind them if the alliance is to remain an effective means of countering China.",
+      "snippet": "Never before has a chair of the US Federal Reserve been so controversial. Who is Kevin Warsh? Can he preserve the Fed&apos;s independence, or will he become Donald Trump&apos;s puppet?",
       "tier": 2
     },
     {
@@ -452,6 +452,86 @@
       "link": "https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The UAE and Israel are getting closer, while Saudi Arabia is enhancing cooperation with Egypt, Turkey and Pakistan. The new alliances represent a rift in the Gulf, as approaches to the Iran war and the region diverge.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US or Iran: Who will win the Hormuz endurance game?",
+      "link": "https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Tehran is betting that its sanctions‑hardened economy can outlast the Strait of Hormuz crisis. Washington, meanwhile, is contending with elevated oil prices, renewed inflation pressure and rising global recession risks.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US: Tulsi Gabbard resigns as Trump&apos;s intelligence chief",
+      "link": "https://www.dw.com/en/us-tulsi-gabbard-resigns-as-trump-s-intelligence-chief/a-77269234?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Tulsi Gabbard has resigned as head of US intelligence, citing her husband&apos;s recent cancer diagnosis. An opponent of foreign US interventions, Gabbard has sought to distance herself from the US-Israeli war on Iran.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "What is Pentecost?",
+      "link": "https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "People new to Germany are often surprised by the number of public holidays in the spring. Pentecost is one of them, but its significance is not well known.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: &apos;Slight progress&apos; in peace talks, Rubio says",
+      "link": "https://www.dw.com/en/iran-war-slight-progress-in-peace-talks-rubio-says/live-77258282?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US Secretary of State Rubio said there was \"a little bit of movement\" in negotiations to end the Iran war. Meanwhile, four European nations called on Israel to stop the expansion of West Bank settlements.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Parliament approves reforms giving pharmacies more autonomy on vaccinations, prescriptions, tests",
+      "link": "https://www.dw.com/en/germany-news-parliament-approves-reforms-giving-pharmacies-more-autonomy-on-vaccinations-prescriptions-tests/live-77264680?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Lawmakers passed a bill allowing pharmacies to issue certain prescription medications independently as well as to conduct more rapid tests. And bees besiege a Beetle in Düsseldorf&apos;s rush hour.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "South Africa xenophobia response under fire",
+      "link": "https://www.dw.com/en/south-africa-xenophobia-response-under-fire/a-77265909?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "South Africa condemns xenophobic violence when it erupts, but critics say prevention is weak, arrests are limited and political rhetoric sometimes fuels tensions instead of easing them.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US bourbon bets big on India&apos;s growing market",
+      "link": "https://www.dw.com/en/us-bourbon-bets-big-on-india-s-growing-market/a-77265868?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Bourbon, the uniquely US take on whiskey, is facing its most serious inventory crisis in decades. The industry is increasingly looking to India to boost sales.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "The dying dream of the dead to be at peace with life",
+      "link": "https://www.dw.com/en/the-dying-dream-of-the-dead-to-be-at-peace-with-life/a-77197682?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Many people have vivid dreams shortly before death. Research suggests the dreams are not a sign of confusion — but may help both the dying and their loved ones make sense of loss.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ebola: Experts warn of scale and spread of deadly virus",
+      "link": "https://www.dw.com/en/ebola-experts-warn-of-scale-and-spread-of-deadly-virus/a-77248583?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Health experts have warned the world is seeing just the \"top of the iceberg\" as the deadly Ebola outbreak spreads. Meanwhile, India and the African Union have postponed a scheduled summit due to the health emergency.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Can the Quad stay relevant to boost Indo-Pacific security?",
+      "link": "https://www.dw.com/en/can-the-quad-stay-relevant-to-boost-indo-pacific-security/a-77261939?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Foreign ministers from the US, India, Japan and Australia — collectively known as the Quad — need to put past differences behind them if the alliance is to remain an effective means of countering China.",
       "tier": 2
     },
     {
@@ -475,15 +555,7 @@
       "title": "NATO chief welcomes Trump decision to send troops to Poland",
       "link": "https://www.dw.com/en/nato-chief-welcomes-trump-decision-to-send-troops-to-poland/live-77258714?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "NATO foreign ministers are meeting in Sweden after Washington apparently reversed its plans to reduce its troop deployments to Poland. Meanwhile, Germany says defense spending will cross 4% of GDP. Follow DW live",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: Israeli strike kills two in southern Lebanon",
-      "link": "https://www.dw.com/en/iran-war-israeli-strike-kills-two-in-southern-lebanon/live-77258282?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Israel&apos;s military said it has carried out an airstrike in southern Lebanon that killed two people. DW has the latest.",
+      "snippet": "NATO foreign ministers are meeting in Sweden after Washington apparently reversed its plans to reduce its troop deployments to Poland. Meanwhile, Germany says defense spending will cross 4% of GDP.",
       "tier": 2
     },
     {
@@ -516,78 +588,6 @@
       "link": "https://www.dw.com/en/us-trump-hints-at-action-against-cuba-amid-intensifying-standoff/a-77257021?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The US escalated pressure on Cuba after charging former president Raul Castro, with Marco Rubio saying Washington remains open to talks but sees little chance of a negotiated solution.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "What&apos;s behind Bolivia&apos;s ongoing protests?",
-      "link": "https://www.dw.com/en/what-s-behind-bolivia-s-ongoing-protests/a-77254642?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Months after center-right President Rodrigo Paz took office in the South American nation, anti-government protests have escalated into riots. DW looks at the root causes and what&apos;s at stake.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Honduras: Gunmen open fire in 2 deadly armed attacks",
-      "link": "https://www.dw.com/en/honduras-gunmen-open-fire-in-2-deadly-armed-attacks/a-77255909?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Two separate attacks in northern Honduras have killed at least 24 people, including four police officers.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US to send 5,000 additional troops to Poland — Trump",
-      "link": "https://www.dw.com/en/us-to-send-5-000-additional-troops-to-poland-trump/a-77255103?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Trump said the decision to deploy more troops to Poland was influenced by nationalist Karol Nawrocki winning the Polish presidency last year. The announcement comes as the US scales back its military presence in Europe.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "France: Part of Eiffel Tower sold at auction for €450,000",
-      "link": "https://www.dw.com/en/france-part-of-eiffel-tower-sold-at-auction-for-€450-000/a-77253774?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A French collector bought a 14-step staircase section of the Eiffel Tower at an auction in Paris.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Turkish court ousts opposition leader in boost to Erdogan",
-      "link": "https://www.dw.com/en/turkish-court-ousts-opposition-leader-in-boost-to-erdogan/a-77253393?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The 2023 party congress where Ozgur Ozel was elected leader of Turkey&apos;s opposition CHP has been declared null and void. The ruling is a legal victory for President Erdogan, but Ozel has vowed not to give in.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Saudi Arabia: 1.5 million join Hajj pilgrimage despite war",
-      "link": "https://www.dw.com/en/saudi-arabia-1-5-million-join-hajj-pilgrimage-despite-war/a-77213872?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Saudi Arabia has been directly hit by missiles and drones during the Iran war, but the country is hosting the all-important Muslim pilgrimage anyway.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Did US aid cuts worsen Ebola outbreak in Central Africa?",
-      "link": "https://www.dw.com/en/did-us-aid-cuts-worsen-ebola-outbreak-in-central-africa/a-77233437?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Democratic Republic of Congo and Uganda are fighting to contain a dramatic Ebola outbreak, which went unnoticed for a long time. Are US aid cuts to blame for the delayed crisis response?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ebola patient in Berlin: Why Germany&apos;s helping",
-      "link": "https://www.dw.com/en/ebola-patient-in-berlin-why-germany-s-helping/a-77237887?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "An Ebola‑infected US doctor is being treated under the highest safety standards in a specialized isolation unit in the German capital, Berlin. The facilities are considered to be among the best equipped worldwide.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Enhanced Games: Why &apos;crippling injuries&apos; are the least of it",
-      "link": "https://www.dw.com/en/enhanced-games-why-crippling-injuries-are-the-least-of-it/a-77248463?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Doping in sports is nothing new. Athletes at the Enhanced Games will know the risks — severe injury, even paralysis. But bioethicists are also concerned we&apos;re opening the gates to altering our fundamental human biology.",
       "tier": 2
     }
   ]
