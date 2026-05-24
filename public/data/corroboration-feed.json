@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T01:22:43.090Z",
+  "generatedAt": "2026-05-24T12:46:16.550Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,25 +32,73 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 01:18:31 GMT",
-      "snippet": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 06:15:32 GMT",
+      "snippet": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 15:18:40 GMT",
-      "snippet": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 12:12:20 GMT",
+      "snippet": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 10:34:52 GMT",
+      "snippet": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 12:26:09 GMT",
+      "snippet": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 07:12:37 GMT",
+      "snippet": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "California declares emergency as fire crews race to contain toxic leak",
+      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 23 May 2026 20:07:01 GMT",
+      "snippet": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+      "link": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 11:42:48 GMT",
+      "snippet": "Security forces were met by resistance while attempting to clear highway barriers, amid unrest over the government's economic policies.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "People trapped under collapsed building in Philippines",
+      "link": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 11:51:25 GMT",
+      "snippet": "A search operation has so far rescued 24 people with no deaths reported at the site, in a city near the capital Manila.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
       "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 19:55:16 GMT",
+      "publishedAt": "Sun, 24 May 2026 11:09:54 GMT",
       "snippet": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
       "tier": 1
     },
@@ -64,18 +112,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 14:06:12 GMT",
-      "snippet": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "F1 great Prost 'injured as masked gang raid home'",
       "link": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 23 May 2026 15:33:20 GMT",
       "snippet": "Four-time Formula 1 world champion Alain Prost was injured when a masked gang raided his home near Geneva, Swiss media reports.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 82 killed in Chinese coal mine explosion",
+      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 03:18:38 GMT",
+      "snippet": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
       "tier": 1
     },
     {
@@ -96,10 +144,18 @@
     },
     {
       "source": "BBC World",
-      "title": "California declares state of emergency as fire crews race to contain toxic chemical leak",
-      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 20:07:01 GMT",
-      "snippet": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 01:18:31 GMT",
+      "snippet": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 23 May 2026 14:06:12 GMT",
+      "snippet": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
       "tier": 1
     },
     {
@@ -135,67 +191,59 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "DR Congo players told to isolate before World Cup",
-      "link": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 08:14:10 GMT",
-      "snippet": "The Democratic Republic of Congo's World Cup squad must isolate for 21 days before they can enter the US because of the Ebola outbreak.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Tulsi Gabbard to resign as US national intelligence director",
-      "link": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 20:30:26 GMT",
-      "snippet": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
-      "link": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 22:32:12 GMT",
-      "snippet": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
-      "link": "https://www.bbc.com/news/articles/c8r814xj8pro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 00:35:16 GMT",
-      "snippet": "More than 30 people, including firefighters, were hurt in the incident, which was described as \"a complex, fast-developing emergency situation\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
-      "link": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 17:54:11 GMT",
-      "snippet": "Images from a cave where the four Italians were found reveal the difficulty that rescuers had in recovering their bodies.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "link": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 15:18:30 GMT",
-      "snippet": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-      "link": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 22 May 2026 20:59:28 GMT",
-      "snippet": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not definitive enough.",
+      "source": "NPR News",
+      "title": "Religious leaders, lawmakers push for $1 billion to secure houses of worship",
+      "link": "https://www.npr.org/2026/05/24/nx-s1-5815007/religious-leaders-lawmakers-push-for-1-billion-to-secure-houses-of-worship",
+      "publishedAt": "Sun, 24 May 2026 08:00:00 -0400",
+      "snippet": "There&apos;s an effort on Capitol Hill to increase funding for the Nonprofit Security Grant Program, which awards funding to houses of worship to harden their defenses. In 2024, roughly a third of those who applied actually received funding.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Secret Service fatally shoots suspect outside White House checkpoint, bystander wounded",
+      "title": "Nurse convicted in patient&apos;s death is now a national speaker on hospital safety",
+      "link": "https://www.npr.org/2026/05/24/nx-s1-5822519/radonda-vaught-nurse-convicted-vanderbilt-medical-error",
+      "publishedAt": "Sun, 24 May 2026 06:00:00 -0400",
+      "snippet": "RaDonda Vaught was convicted of negligent homicide after dispensing the wrong drug to a patient. She now gives speeches about hospital safety in an era of automation and artificial intelligence.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
+      "link": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv",
+      "publishedAt": "Sun, 24 May 2026 05:12:28 -0400",
+      "snippet": "Ukrainian President Volodymyr Zelenskyy said Sunday Russia used the powerful hypersonic Oreshnik ballistic missile during a mass drone and missile attack on Kyiv on Sunday that killed at least two people.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "&apos;Homeland Security&apos; has spawned political insecurity since DHS was born",
+      "link": "https://www.npr.org/2026/05/24/nx-s1-5821574/homeland-security-dhs-history",
+      "publishedAt": "Sun, 24 May 2026 05:00:00 -0400",
+      "snippet": "DHS was originally conceived in the interest of unity and harmony — and the phrase \"homeland security\" was originally meant to be reassuring.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Torn by war, Israelis and Palestinians tie their fortunes together",
+      "link": "https://www.npr.org/2026/05/24/nx-s1-5806030/palestinian-israeli-startups-50-50-northeastern",
+      "publishedAt": "Sun, 24 May 2026 05:00:00 -0400",
+      "snippet": "At a time when hopes are dim for resolving the Israeli-Palestinian conflict, some Arab and Jewish entrepreneurs are partnering across the divide, hoping to prove what&apos;s possible.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "The Enhanced Games are Sunday. Here&apos;s what to know about the controversial event",
+      "link": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
+      "publishedAt": "Sun, 24 May 2026 05:00:00 -0400",
+      "snippet": "Dozens of athletes — including former Olympians — will participate in the Las Vegas event while using performance-enhancing drugs.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Suspect dead after opening fire near White House security checkpoint, Secret Service says",
       "link": "https://www.npr.org/2026/05/23/g-s1-124148/secret-service-shooting-white-house",
       "publishedAt": "Sat, 23 May 2026 20:23:43 -0400",
-      "snippet": "The suspect began shooting at posted officers, who returned fire and hit the shooter, the Secret Service said. A bystander was also shot, a law enforcement official said, but it&apos;s unclear by whom.",
+      "snippet": "A man who opened fire Saturday near a White House security checkpoint is dead after being shot by officers who returned fire, the U.S. Secret Service said. It was the third incidence of gunfire in the vicinity of President Donald Trump in the past month.",
       "tier": 1
     },
     {
@@ -208,10 +256,10 @@
     },
     {
       "source": "NPR News",
-      "title": "Trump says a deal with Iran and opening of Strait of Hormuz are &apos;largely negotiated&apos;",
+      "title": "Trump touts Iran breakthrough but details remain unclear",
       "link": "https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz",
       "publishedAt": "Sat, 23 May 2026 19:00:02 -0400",
-      "snippet": "President Trump announced the unfinalized deal on social media after talks with Israel and other allies. It aims to end the war and includes two-month negotiations on Iran&apos;s nuclear program.",
+      "snippet": "President Trump announced the unfinalized deal on social media after talks with Israel and other allies. Iran did not officially confirm the deal, and state media contradicted parts of it.",
       "tier": 1
     },
     {
@@ -220,54 +268,6 @@
       "link": "https://www.npr.org/2026/05/23/nx-s1-5832542/trump-iran-decision",
       "publishedAt": "Sat, 23 May 2026 13:49:28 -0400",
       "snippet": "Three months since the start of its conflict with Iran, the Trump administration is oscillating between strike threats and diplomatic overtures. Neither path has yielded a clear resolution.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says",
-      "link": "https://www.npr.org/2026/05/23/nx-s1-5832553/kyle-busch-death-sepsis",
-      "publishedAt": "Sat, 23 May 2026 13:35:13 -0400",
-      "snippet": "The two-time NASCAR champion died on Thursday, a day after passing out in a Chevrolet simulator.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "A little bit country, a little bit Desi: A Pakistani-American&apos;s hybrid music",
-      "link": "https://www.npr.org/2026/05/23/g-s1-122871/country-music-pakistan-mo-sabri-nashville",
-      "publishedAt": "Sat, 23 May 2026 10:10:39 -0400",
-      "snippet": "On May 31, Mo Sabri makes a landmark appearance with the Nashville Symphony for an orchestral rendition of his new album, \"Tennessee Desi,\" which blends Appalachian styles with Muslim devotional music.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "U.S. passengers flying from Ebola-affected countries rerouted",
-      "link": "https://www.npr.org/2026/05/23/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "publishedAt": "Sat, 23 May 2026 08:09:50 -0400",
-      "snippet": "The U.S. government is responding to the Ebola outbreak in with travel restrictions. American citizens and permanent residents departing affected countries must fly into one of three U.S. airports.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Opinion: Remembering Barney Frank, trailblazing public servant",
-      "link": "https://www.npr.org/2026/05/23/nx-s1-5823640/opinion-remembering-barney-frank-trailblazing-public-servant",
-      "publishedAt": "Sat, 23 May 2026 08:00:00 -0400",
-      "snippet": "Mass. congressman Barney Frank was the first House member to come out as gay and was instrumental in Wall Street reforms after the Great Recession. He died this week at the age of 86.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Summer electric bills sizzle as the cost of cooling climbs",
-      "link": "https://www.npr.org/2026/05/23/nx-s1-5823767/summer-heat-electric-bills-cost",
-      "publishedAt": "Sat, 23 May 2026 06:00:00 -0400",
-      "snippet": "The temperature is climbing, and so are people&apos;s utility bills. Rising electricity prices and hotter-than-usual weather could make it especially costly to stay cool this summer.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Chile&apos;s MAGA-inspired border control",
-      "link": "https://www.npr.org/2026/05/23/nx-s1-5806607/chile-maga-inspired-border-control",
-      "publishedAt": "Sat, 23 May 2026 06:00:00 -0400",
-      "snippet": "Chile digs desert trenches along its northern border as President José Antonio Kast pushes a hardline migration crackdown critics say may have little effect.",
       "tier": 1
     },
     {
@@ -440,6 +440,86 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "New Chinese surveillance leaves foreigners nowhere to hide",
+      "link": "https://www.dw.com/en/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide/a-77246713?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A Chinese cybersecurity expert has revealed to DW details of China&apos;s new high-tech policing. From ski resort facial recognition to seats on a train, the system can track anyone and compile a \"holistic profile.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Russia uses hypersonic Oreshnik missile in Kyiv attack",
+      "link": "https://www.dw.com/en/russia-uses-hypersonic-oreshnik-missile-in-kyiv-attack/a-77277443?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russia carried out a massive drone and missile attack on the capital, Kyiv, and its surrounding region overnight, killing at least four people. France and Germany have condemned Moscow&apos;s use of the Oreshnik missile.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Deadly blast hits train in Pakistan&apos;s Balochistan",
+      "link": "https://www.dw.com/en/deadly-blast-hits-train-in-pakistan-s-balochistan/a-77278584?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A blast on a train in Pakistan&apos;s Balochistan province has killed at least 24 people and injured dozens more. The explosion targeted military personnel and their families ahead of the Eid holiday.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Philippines: 20 feared trapped after building collapse",
+      "link": "https://www.dw.com/en/philippines-20-feared-trapped-after-building-collapse/a-77277732?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The building collapsed before dawn after a severe thunderstorm. Officials said rescuers reported \"hearing voices\" in the rubble.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Most doubt Bundeswehr military readiness — poll",
+      "link": "https://www.dw.com/en/germany-news-most-doubt-bundeswehr-military-readiness-poll/live-77272115?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A new poll shows widespread doubts about Germany&apos;s defense readiness, with stronger fears over cyber threats than military attack. Meanwhile, a record number of people obtained a German passport in 2025. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Australia: Man dies of shark attack on eastern coast",
+      "link": "https://www.dw.com/en/australia-man-dies-of-shark-attack-on-eastern-coast/a-77277961?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The man was bitten by a shark at Kennedy Shoal in Australia&apos;s northeastern state of Queensland, in the second shark attack in the country this month.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Displaced Ukrainians risk home seizure under Russian law",
+      "link": "https://www.dw.com/en/displaced-ukrainians-risk-home-seizure-under-russian-law/a-77233460?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russia is tightening control over property in occupied Ukrainian territories, requiring owners to register under Russian law. Many Ukrainians say returning to do so would put their safety and freedom at risk.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Enhanced Games: Why &apos;crippling injuries&apos; are the least of it",
+      "link": "https://www.dw.com/en/enhanced-games-why-crippling-injuries-are-the-least-of-it/a-77248463?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Doping in sports is nothing new. Athletes at the Enhanced Games will know the risks — severe injury, even paralysis. But bioethicists are also concerned we&apos;re opening the gates to altering our fundamental human biology.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: Donald Trump says deal &apos;largely negotiated&apos;",
+      "link": "https://www.dw.com/en/iran-war-donald-trump-says-deal-largely-negotiated/live-77276381?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US Secretary of State Rubio has said an announcement on the deal could come as early as Sunday. Pakistan&apos;s top diplomat has cited \"meaningful progress,\" while Israel&apos;s Netanyahu reportedly voiced concern. Follow DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US: Suspect dies after gunfire near White House",
+      "link": "https://www.dw.com/en/us-suspect-dies-after-gunfire-near-white-house/a-77276529?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "There was a massive police response after gunshots were fired near the White House, where President Donald Trump was working on a deal with Iran. The suspect has been shot and killed by law enforcement.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Kane&apos;s hat trick seals Bayern Munich&apos;s 21st German Cup win",
       "link": "https://www.dw.com/en/kane-s-hat-trick-seals-bayern-munich-s-21st-german-cup-win/a-77275987?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -508,86 +588,6 @@
       "link": "https://www.dw.com/en/france-bans-israel-minister-ben-gvir-after-flotilla-video/a-77273641?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The Israeli far-right minister released a video taunting detained Gaza aid flotilla activists, prompting widespread criticism at home and internationally.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "What is Pentecost?",
-      "link": "https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "People new to Germany are often surprised by the number of public holidays in the spring. Pentecost is one of them, but its significance is not well-known.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Thailand revives bill to clear the air of toxic smog",
-      "link": "https://www.dw.com/en/thailand-revives-bill-to-clear-the-air-of-toxic-smog/a-77239344?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Seasonal smog is a major public health problem in Thailand. Long-delayed legislation aims to stop air pollution before it starts, but enforcement could present a problem.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukrainian strike in Russian-controlled area leaves 10 dead",
-      "link": "https://www.dw.com/en/ukrainian-strike-in-russian-controlled-area-leaves-10-dead/a-77273161?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Russian authorities in Luhansk said a Ukrainian drone hit a university dorm, wounding dozens and killing 10. Vladimir Putin has condemned the drone barrage and ordered the army to prepare a response.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Germany marks Constitution Day",
-      "link": "https://www.dw.com/en/germany-news-germany-marks-constitution-day/live-77272115?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany is commemorating the day its Basic Law came into effect 77 years ago. And a record number of German passports were issued in 2025, media report. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Africa&apos;s response to xenophobia is under fire",
-      "link": "https://www.dw.com/en/south-africa-s-response-to-xenophobia-is-under-fire/a-77265909?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "South Africa&apos;s government condemns xenophobic violence when it erupts, but critics say prevention is weak, arrests are limited, and political rhetoric sometimes fuels tensions instead of easing them.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: Record numbers take German passport in 2025",
-      "link": "https://www.dw.com/en/germany-record-numbers-take-german-passport-in-2025/a-77271372?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A record number of people received a German passport in 2025, a media report says. Numbers have been rising since Germany changed citizenship requirements in 2024.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Can the Quad stay relevant to boost Indo-Pacific security?",
-      "link": "https://www.dw.com/en/can-the-quad-stay-relevant-to-boost-indo-pacific-security/a-77261939?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Foreign ministers from the United States, India, Japan and Australia — collectively known as the Quad — need to put past differences behind them if the alliance is to remain an effective means of countering China.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Marco Rubio visits to repair ties, boost QUAD",
-      "link": "https://www.dw.com/en/india-news-marco-rubio-visits-to-repair-ties-boost-quad/live-77271153?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US Secretary of State Rubio is in India to reset bilateral relations and strengthen the Quad grouping — an Indo-Pacific strategic alliance that includes India, the US, Japan and Australia. Follow DW for more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Czechia: Uproar over Sudeten German gathering in Brno",
-      "link": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The first gathering of Sudeten Germans in Czechia since World War II is happening this weekend, despite a political backlash that has exposed tensions over one of Central Europe&apos;s most painful historical legacies.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s &apos;rapid militarization&apos; threatens basic rights",
-      "link": "https://www.dw.com/en/germany-s-rapid-militarization-threatens-basic-rights/a-77265460?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ten human rights organizations say security interests are increasingly being prioritized over fundamental rights in Germany. The scathing criticism was presented in their \"2026 Fundamental Rights Report.\"",
       "tier": 2
     }
   ]
