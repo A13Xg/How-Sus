@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T01:24:16.129Z",
+  "generatedAt": "2026-05-25T13:36:33.200Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,18 +32,66 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
-      "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 25 May 2026 01:07:15 GMT",
-      "snippet": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
+      "title": "Deal with US not imminent, Iran says",
+      "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 25 May 2026 11:17:49 GMT",
+      "snippet": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 25 May 2026 13:05:56 GMT",
+      "snippet": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+      "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 21:02:08 GMT",
+      "snippet": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
       "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 16:50:46 GMT",
-      "snippet": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+      "publishedAt": "Mon, 25 May 2026 04:45:13 GMT",
+      "snippet": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Anger grows after China's deadliest coal mining disaster in years",
+      "link": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 25 May 2026 08:00:35 GMT",
+      "snippet": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
+      "link": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 25 May 2026 11:08:05 GMT",
+      "snippet": "Police say a man sprayed a substance at an ATM in the luxury Ginza 6 shopping centre.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
+      "link": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 25 May 2026 06:52:59 GMT",
+      "snippet": "The 43-year-old police officer and mother of three serves as the team's payload scientist.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Clashes as Venezuelan prisoners protest over alleged mistreatment",
+      "link": "https://www.bbc.com/news/articles/c0l22wrx44po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 25 May 2026 11:13:45 GMT",
+      "snippet": "The prisoners insisted their protest was peaceful but that security forces deployed to quell it opened fire.",
       "tier": 1
     },
     {
@@ -56,22 +104,6 @@
     },
     {
       "source": "BBC World",
-      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-      "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 21:02:08 GMT",
-      "snippet": "Nearly five years on from the school ban, young women say they have waved goodbye to their dreams.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "BBC at the site of China's worst mining disaster in more than a decade",
-      "link": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 10:34:52 GMT",
-      "snippet": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Blast targeting train kills at least 20 in Pakistan",
       "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 24 May 2026 22:11:51 GMT",
@@ -80,18 +112,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 15:24:11 GMT",
-      "snippet": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ebola outbreak poses massive challenges, warns nurse",
-      "link": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 17:46:14 GMT",
-      "snippet": "Kate White says she is \"extremely concerned about the inability to get resources\" to the Democratic Republic of Congo.",
+      "title": "Senegal's leadership row mounts as parliament speaker resigns",
+      "link": "https://www.bbc.com/news/articles/c87qq07l1d8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 25 May 2026 11:12:43 GMT",
+      "snippet": "Some speculate that El Malick Ndiaye stepped down so that ousted-PM Ousmane Sonko can take his place.",
       "tier": 1
     },
     {
@@ -104,10 +128,26 @@
     },
     {
       "source": "BBC World",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 15:24:11 GMT",
+      "snippet": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "One killed and many feared trapped under collapsed building in Philippines",
       "link": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 24 May 2026 14:25:00 GMT",
       "snippet": "A Malaysian man has died and about 20 people are feared trapped at the site near Manila, officials say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ebola outbreak poses massive challenges, warns nurse",
+      "link": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 17:46:14 GMT",
+      "snippet": "Kate White says she is \"extremely concerned about the inability to get resources\" to the Democratic Republic of Congo.",
       "tier": 1
     },
     {
@@ -120,154 +160,114 @@
     },
     {
       "source": "BBC World",
-      "title": "California declares emergency as fire crews race to contain toxic leak",
+      "title": "Currently no active leak from failing chemical tank, California officials say",
       "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 18:51:00 GMT",
-      "snippet": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+      "publishedAt": "Mon, 25 May 2026 11:15:29 GMT",
+      "snippet": "The tank, which contains a highly volatile and flammable substance, has been at risk of either a major spillage or an explosion.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-      "link": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 11:09:54 GMT",
-      "snippet": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
+      "title": "How Saudi Arabia's spending spree reached the end of the line",
+      "link": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 25 May 2026 01:08:39 GMT",
+      "snippet": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
-      "link": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 14:24:48 GMT",
-      "snippet": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
+      "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
+      "link": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 23:13:50 GMT",
+      "snippet": "The Moroccan government wants more Western holidaymakers to visit the territory it claims to own.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "F1 great Prost 'injured as masked gang raid home'",
-      "link": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 15:33:20 GMT",
-      "snippet": "Four-time Formula 1 world champion Alain Prost was injured when a masked gang raided his home near Geneva, Swiss media reports.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "link": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 03:18:38 GMT",
-      "snippet": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
-      "link": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 14:10:12 GMT",
-      "snippet": "The driver died aged 41 on Thursday after \"overwhelming complications\" from the illnesses.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Rubio meets Modi during India visit with energy high on agenda",
-      "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 11:55:39 GMT",
-      "snippet": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 01:18:31 GMT",
-      "snippet": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 14:06:12 GMT",
-      "snippet": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "title": "Indian billionaires buy foreign companies as growth slows at home",
+      "link": "https://www.bbc.com/news/articles/cwy21x20q23o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 23:01:09 GMT",
+      "snippet": "India Inc spent $18bn on global buyouts in 2025 and the deal value could cross $15bn in the first half of 2026.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "California chemical tank has cracked causing state of emergency, thousands to evacuate",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate",
-      "publishedAt": "Sun, 24 May 2026 18:14:42 -0400",
-      "snippet": "One California town is in a state of emergency and 50,000 people are under an evacuation order as a malfunctioning chemical tank at an aerospace plant is overheating and could leak or explode.",
+      "title": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI&apos;s rise",
+      "link": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai",
+      "publishedAt": "Mon, 25 May 2026 08:31:08 -0400",
+      "snippet": "President Trump says that a deal with Iran to end the war is largely negotiated. And, Pope Leo XIV weighed in today on the rise of AI during his first encyclical.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "DR Congo Ebola cases rise amid distrust, armed conflict zone",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5833095/drc-ebola-africa",
-      "publishedAt": "Sun, 24 May 2026 13:18:33 -0400",
-      "snippet": "Africa races to contain a fast-spreading Ebola outbreak threatening 10 countries as infections spill from eastern Congo into Uganda.",
+      "title": "U.S.-Iran peace deal emerging, while war threats still loom",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates",
+      "publishedAt": "Mon, 25 May 2026 06:16:45 -0400",
+      "snippet": "President Trump and other administration officials are tempering expectations raised of an imminent agreement to end the war in Iran while Iranian officials have signaled there are still disagreements on key issues.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "link": "https://www.npr.org/2026/05/24/g-s1-123661/measles-outbreak-bangladesh-deadline-vaccine",
-      "publishedAt": "Sun, 24 May 2026 09:00:40 -0400",
-      "snippet": "The number of cases — and deaths — in Bangladesh is staggering. As of Sunday, 528 have died, mostly children. How did this measles outbreak begin? And how is the country responding?",
+      "title": "In Beirut, refugee girls and women learn more than self-defense in martial arts class",
+      "link": "https://www.npr.org/2026/05/25/g-s1-120826/lebanon-women-martial-arts",
+      "publishedAt": "Mon, 25 May 2026 06:00:00 -0400",
+      "snippet": "In the male-dominated world of Palestinian refugee camps in Lebanon, a martial arts teacher offers women a way to empowerment.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Mind-bending photos by anonymous cousins show the pain and dreams of Afghan women",
-      "link": "https://www.npr.org/2026/05/24/g-s1-123443/photos-afghanistan-women-taliban",
-      "publishedAt": "Sun, 24 May 2026 08:40:01 -0400",
-      "snippet": "The young women make photos that look at life — how it is, how they wish it could be — under Taliban rule. The images are on display at the Photoville Festival in Brooklyn, New York.",
+      "title": "Pope Leo takes aim at big tech in sweeping encyclical on AI",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5828375/pope-leo-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence",
+      "publishedAt": "Mon, 25 May 2026 05:32:58 -0400",
+      "snippet": "\"Magnifica Humanitas\" tackles the social, economic and political challenges associated with artificial intelligence.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Religious leaders, lawmakers push for $1 billion to secure houses of worship",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5815007/religious-leaders-lawmakers-push-for-1-billion-to-secure-houses-of-worship",
-      "publishedAt": "Sun, 24 May 2026 08:00:00 -0400",
-      "snippet": "There&apos;s an effort on Capitol Hill to increase funding for the Nonprofit Security Grant Program, which awards funding to houses of worship to harden their defenses. In 2024, roughly a third of those who applied actually received funding.",
+      "title": "Diners are staying home, so this restaurant lets patrons pay what they want",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5719494/restaurants-dining-food-inflation",
+      "publishedAt": "Mon, 25 May 2026 05:00:00 -0400",
+      "snippet": "Americans are increasingly passing up on dining out. So one restaurant is allowing diners to pay what they like for their food.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Nurse convicted in patient&apos;s death is now a national speaker on hospital safety",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5822519/radonda-vaught-nurse-convicted-vanderbilt-medical-error",
-      "publishedAt": "Sun, 24 May 2026 06:00:00 -0400",
-      "snippet": "RaDonda Vaught was convicted of negligent homicide after dispensing the wrong drug to a patient. She now gives speeches about hospital safety in an era of automation and artificial intelligence.",
+      "title": "&apos;My body carried me,&apos; Elizabeth Smart says. Now she&apos;s celebrating it",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5832603/elizabeth-smart-bodybuilding-trauma-exercise",
+      "publishedAt": "Mon, 25 May 2026 05:00:00 -0400",
+      "snippet": "Her abduction at age 14 drew international attention. After her rescue, Smart says she struggled with feeling shame around her body. Bodybuilding has helped her see herself differently.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Russia pounds Kyiv in powerful drone and missile attack",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv",
-      "publishedAt": "Sun, 24 May 2026 05:12:28 -0400",
-      "snippet": "At least two people were killed and 77 injured in the attack, which included the use of a powerful hypersonic ballistic missile called the Oreshnik, which is capable of carrying a nuclear warhead.",
+      "title": "This big university system is embracing AI. Students and faculty aren&apos;t all on board",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university",
+      "publishedAt": "Mon, 25 May 2026 05:00:00 -0400",
+      "snippet": "The California State University system offers an early look at what happens when an administration commits to a technology that its own community isn&apos;t convinced will improve education.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "&apos;Homeland Security&apos; has spawned political insecurity since DHS was born",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5821574/homeland-security-dhs-history",
-      "publishedAt": "Sun, 24 May 2026 05:00:00 -0400",
-      "snippet": "DHS was originally conceived in the interest of unity and harmony — and the phrase \"homeland security\" was originally meant to be reassuring.",
+      "title": "COMIC: To raise a confident little talker, learn to speak &apos;parentese&apos;",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5831266/how-to-talk-to-babies-comic",
+      "publishedAt": "Mon, 25 May 2026 05:00:00 -0400",
+      "snippet": "So you&apos;ve got a baby in your life. How do you talk to them, exactly? In this comic, experts explain why conversing with your baby is important — and share ways to help them develop their language skills.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The Enhanced Games are Sunday. Here&apos;s what to know about the controversial event",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
-      "publishedAt": "Sun, 24 May 2026 05:00:00 -0400",
-      "snippet": "Dozens of athletes — including former Olympians — will participate in the Las Vegas event while using performance-enhancing drugs.",
+      "title": "Spin to win: How this life insurance company turns healthy habits into a game",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5820938/life-insurance-company-healthy-habits-game",
+      "publishedAt": "Mon, 25 May 2026 05:00:00 -0400",
+      "snippet": "You&apos;ve heard of lower car insurance rates for good drivers. Now, one life insurance company wants to incentivize longevity with lower rates and extra bonuses for people who adopt healthy habits.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Torn by war, Israelis and Palestinians tie their fortunes together",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5806030/palestinian-israeli-startups-50-50-northeastern",
-      "publishedAt": "Sun, 24 May 2026 05:00:00 -0400",
-      "snippet": "At a time when hopes are dim for resolving the Israeli-Palestinian conflict, some Arab and Jewish entrepreneurs are partnering across the divide, hoping to prove what&apos;s possible.",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/05/25/nx-s1-5828333/morning-news-brief",
+      "publishedAt": "Mon, 25 May 2026 04:42:16 -0400",
+      "snippet": "Trump touts breakthrough in negotiations to end Iran war, Middle Eastern countries react to news of a potential deal to end war, Africa races to contain a fast-spreading Ebola outbreak.",
       "tier": 1
     },
     {
@@ -440,6 +440,102 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Uganda confirms 2 new Ebola cases, DRC infections hit 900",
+      "link": "https://www.dw.com/en/uganda-confirms-2-new-ebola-cases-drc-infections-hit-900/a-77285492?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The two new cases are health workers in the Ugandan capital, Kampala. The WHO has declared a public health emergency over the latest outbreak, which began in neighboring Democratic Republic of Congo.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Hidden femicide risk grows in Afghanistan",
+      "link": "https://www.dw.com/en/hidden-femicide-risk-grows-in-afghanistan/a-77285438?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As poverty deepens and the Taliban curtails women&apos;s rights, domestic violence in Afghanistan is becoming more dangerous, less visible and harder to escape.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Chinese human rights cases in limbo after Trump-Xi summit",
+      "link": "https://www.dw.com/en/chinese-human-rights-cases-in-limbo-after-trump-xi-summit/a-77285479?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Trump and Xi said they had discussed political prisoners in China, including Hong Kong media tycoon Jimmy Lai. Ahead of Xi&apos;s September visit to Washington, advocates are urging the US to apply more pressure on China.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: No deal close despite some progress — Tehran",
+      "link": "https://www.dw.com/en/iran-war-no-deal-close-despite-some-progress-tehran/live-77284965?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Washington and Iran have presented conflicting assessments on the prospects for a peace deal. Oil prices have fallen despite the uncertainty. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Enhanced Games: Gkolomeev &apos;breaks&apos; record in 50m freestyle",
+      "link": "https://www.dw.com/en/enhanced-games-gkolomeev-breaks-record-in-50m-freestyle/a-77284070?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Records set at the divisive competition are not considered official because athletes are allowed to take performance-enhancing drugs. The global swimming body has condemned the event as a \"circus, built on short-cuts.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: More than 1,900 missing children",
+      "link": "https://www.dw.com/en/germany-news-more-than-1-900-missing-children/live-77272115?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Authorities say there are 1,933 missing children cases nationwide, up 6.8% from the year before. And, travellers in Germany seem nervous when it comes to air travel, amid the war in Iran, a survey suggests. Follow DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "New Zealand: Surfing contest halted after suspected shark attack",
+      "link": "https://www.dw.com/en/new-zealand-surfing-contest-halted-after-suspected-shark-attack/a-77283882?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A surfing competition was thrown into chaos after a photographer was bitten in the water, triggering fears of a shark attack. The culprit, later, turned out to be a sea lion.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany&apos;s Dr. Wolff cosmetics company is going all in on AI",
+      "link": "https://www.dw.com/en/germany-s-dr-wolff-cosmetics-company-is-going-all-in-on-ai/a-77268215?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "This medium-sized, family-run business has embraced artificial intelligence to stay competitive. All employees are encouraged to learn about and apply LLMs.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: Trump says US won&apos;t &apos;rush into&apos; deal with Tehran",
+      "link": "https://www.dw.com/en/iran-war-trump-says-us-won-t-rush-into-deal-with-tehran/live-77276381?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US president says negotiations are proceeding in \"an orderly and constructive manner,\" while Iranian officials say key differences still need to be settled. Follow DW for more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Blinded by the light pollution: Cities seek to restore night",
+      "link": "https://www.dw.com/en/blinded-by-the-light-pollution-cities-seek-to-restore-night/a-77279415?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Artificial lights are blotting out the moon and stars, harming human health, and disrupting the natural world. Why is this a problem? And how can we stop it without sitting in the dark?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why are Europe&apos;s biggest defense projects in trouble?",
+      "link": "https://www.dw.com/en/why-are-europe-s-biggest-defense-projects-in-trouble/a-77263797?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Disputes over leadership, military priorities and industrial control are threatening to fracture Europe&apos;s €100 billion fighter jet project — with tensions now spilling into a Franco-German tank project as well.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Peacekeeping missions at risk due to cuts, tensions — report",
+      "link": "https://www.dw.com/en/peacekeeping-missions-at-risk-due-to-cuts-tensions-report/a-77282510?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A \"perfect storm\" of falling troop numbers, geopolitical tensions and funding crises is jeopardizing international peacekeeping efforts, a new study has warned.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Cuba receives China rice shipment amid US threats, blackouts",
       "link": "https://www.dw.com/en/cuba-receives-china-rice-shipment-amid-us-threats-blackouts/a-77281770?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -492,102 +588,6 @@
       "link": "https://www.dw.com/en/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide/a-77246713?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "A Chinese cybersecurity expert has revealed to DW details of China&apos;s new high-tech policing. From ski resort facial recognition to seats on a train, the system can track anyone and compile a \"holistic profile.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Russia uses hypersonic Oreshnik missile in Kyiv attack",
-      "link": "https://www.dw.com/en/russia-uses-hypersonic-oreshnik-missile-in-kyiv-attack/a-77277443?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Russia carried out a massive drone and missile attack on the capital, Kyiv, and its surrounding region overnight, killing at least four people. France and Germany have condemned Moscow&apos;s use of the Oreshnik missile.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Deadly blast hits train in Pakistan&apos;s Balochistan",
-      "link": "https://www.dw.com/en/deadly-blast-hits-train-in-pakistan-s-balochistan/a-77278584?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A blast on a train in Pakistan&apos;s Balochistan province has killed at least 24 people and injured dozens more. The explosion targeted military personnel and their families ahead of the Eid holiday.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Philippines: 20 feared trapped after building collapse",
-      "link": "https://www.dw.com/en/philippines-20-feared-trapped-after-building-collapse/a-77277732?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The building collapsed before dawn after a severe thunderstorm. Officials said rescuers reported \"hearing voices\" in the rubble.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Most doubt Bundeswehr military readiness — poll",
-      "link": "https://www.dw.com/en/germany-news-most-doubt-bundeswehr-military-readiness-poll/live-77272115?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A new poll shows widespread doubts about Germany&apos;s defense readiness, with stronger fears over cyber threats than military attack. Meanwhile, a record number of people obtained a German passport in 2025. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Australia: Man dies of shark attack on eastern coast",
-      "link": "https://www.dw.com/en/australia-man-dies-of-shark-attack-on-eastern-coast/a-77277961?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The man was bitten by a shark at Kennedy Shoal in Australia&apos;s northeastern state of Queensland, in the second shark attack in the country this month.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Displaced Ukrainians risk home seizure under Russian law",
-      "link": "https://www.dw.com/en/displaced-ukrainians-risk-home-seizure-under-russian-law/a-77233460?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Russia is tightening control over property in occupied Ukrainian territories, requiring owners to register under Russian law. Many Ukrainians say returning to do so would put their safety and freedom at risk.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Enhanced Games: Why &apos;crippling injuries&apos; are the least of it",
-      "link": "https://www.dw.com/en/enhanced-games-why-crippling-injuries-are-the-least-of-it/a-77248463?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Doping in sports is nothing new. Athletes at the Enhanced Games will know the risks — severe injury, even paralysis. But bioethicists are also concerned we&apos;re opening the gates to altering our fundamental human biology.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: Trump says US won&apos;t &apos;rush into&apos; deal with Tehran",
-      "link": "https://www.dw.com/en/iran-war-trump-says-us-won-t-rush-into-deal-with-tehran/live-77276381?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US president says negotiations are proceeding in \"an orderly and constructive manner,\" while Iranian officials say key differences still need to be settled. Follow DW for more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US: Suspect dies after gunfire near White House",
-      "link": "https://www.dw.com/en/us-suspect-dies-after-gunfire-near-white-house/a-77276529?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "There was a massive police response after gunshots were fired near the White House, where President Donald Trump was working on a deal with Iran. The suspect has been shot and killed by law enforcement.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Kane&apos;s hat trick seals Bayern Munich&apos;s 21st German Cup win",
-      "link": "https://www.dw.com/en/kane-s-hat-trick-seals-bayern-munich-s-21st-german-cup-win/a-77275987?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Harry Kane scored three times to fire Bayern Munich to a 3-0 victory over Stuttgart in the German Cup final. The win delivered a domestic double for the Bavarian giants and ended a six-year trophy drought.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Serbia: Police clash with protesters urging early elections",
-      "link": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Officers fired teargas and stun grenades as tens of thousands rallied against President Aleksandar Vucic&apos;s government. The demonstration went ahead despite the state rail operator canceling trains to and from Belgrade.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Thousands rally in Madrid to demand Sanchez&apos;s resignation",
-      "link": "https://www.dw.com/en/thousands-rally-in-madrid-to-demand-sanchez-s-resignation/a-77274803?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Mounting corruption allegations involving Prime Minister Pedro Sanchez’s family, allies and party sparked the protest.",
       "tier": 2
     }
   ]
