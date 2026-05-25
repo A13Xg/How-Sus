@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T12:46:16.550Z",
+  "generatedAt": "2026-05-25T01:24:16.129Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,18 +32,34 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 06:15:32 GMT",
-      "snippet": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+      "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+      "link": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 25 May 2026 01:07:15 GMT",
+      "snippet": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
       "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 12:12:20 GMT",
+      "publishedAt": "Sun, 24 May 2026 16:50:46 GMT",
       "snippet": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Turkish riot police storm opposition offices after leaders ousted",
+      "link": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 19:49:39 GMT",
+      "snippet": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+      "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 21:02:08 GMT",
+      "snippet": "Nearly five years on from the school ban, young women say they have waved goodbye to their dreams.",
       "tier": 1
     },
     {
@@ -58,24 +74,40 @@
       "source": "BBC World",
       "title": "Blast targeting train kills at least 20 in Pakistan",
       "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 12:26:09 GMT",
+      "publishedAt": "Sun, 24 May 2026 22:11:51 GMT",
       "snippet": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 15:24:11 GMT",
+      "snippet": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ebola outbreak poses massive challenges, warns nurse",
+      "link": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 17:46:14 GMT",
+      "snippet": "Kate White says she is \"extremely concerned about the inability to get resources\" to the Democratic Republic of Congo.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Man killed in shark attack off Australia's north-east coast",
       "link": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 07:12:37 GMT",
-      "snippet": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
+      "publishedAt": "Sun, 24 May 2026 15:29:08 GMT",
+      "snippet": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "California declares emergency as fire crews race to contain toxic leak",
-      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 20:07:01 GMT",
-      "snippet": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+      "title": "One killed and many feared trapped under collapsed building in Philippines",
+      "link": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 14:25:00 GMT",
+      "snippet": "A Malaysian man has died and about 20 people are feared trapped at the site near Manila, officials say.",
       "tier": 1
     },
     {
@@ -88,10 +120,10 @@
     },
     {
       "source": "BBC World",
-      "title": "People trapped under collapsed building in Philippines",
-      "link": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 24 May 2026 11:51:25 GMT",
-      "snippet": "A search operation has so far rescued 24 people with no deaths reported at the site, in a city near the capital Manila.",
+      "title": "California declares emergency as fire crews race to contain toxic leak",
+      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 24 May 2026 18:51:00 GMT",
+      "snippet": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
       "tier": 1
     },
     {
@@ -130,7 +162,7 @@
       "source": "BBC World",
       "title": "Nascar champion Kyle Busch died of pneumonia and sepsis, family says",
       "link": "https://www.bbc.com/news/articles/ceqpwx5741no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 17:33:30 GMT",
+      "publishedAt": "Sun, 24 May 2026 14:10:12 GMT",
       "snippet": "The driver died aged 41 on Thursday after \"overwhelming complications\" from the illnesses.",
       "tier": 1
     },
@@ -159,35 +191,35 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Senegal's president sacks PM and former ally after months-long feud",
-      "link": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 11:36:09 GMT",
-      "snippet": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
+      "source": "NPR News",
+      "title": "California chemical tank has cracked causing state of emergency, thousands to evacuate",
+      "link": "https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate",
+      "publishedAt": "Sun, 24 May 2026 18:14:42 -0400",
+      "snippet": "One California town is in a state of emergency and 50,000 people are under an evacuation order as a malfunctioning chemical tank at an aerospace plant is overheating and could leak or explode.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "link": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 08:10:51 GMT",
-      "snippet": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
+      "source": "NPR News",
+      "title": "DR Congo Ebola cases rise amid distrust, armed conflict zone",
+      "link": "https://www.npr.org/2026/05/24/nx-s1-5833095/drc-ebola-africa",
+      "publishedAt": "Sun, 24 May 2026 13:18:33 -0400",
+      "snippet": "Africa races to contain a fast-spreading Ebola outbreak threatening 10 countries as infections spill from eastern Congo into Uganda.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "India's parody 'cockroach party' claims website has been blocked",
-      "link": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 15:25:39 GMT",
-      "snippet": "The satirical group has gained millions of followers as \"the voice of the lazy and unemployed\".",
+      "source": "NPR News",
+      "title": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "link": "https://www.npr.org/2026/05/24/g-s1-123661/measles-outbreak-bangladesh-deadline-vaccine",
+      "publishedAt": "Sun, 24 May 2026 09:00:40 -0400",
+      "snippet": "The number of cases — and deaths — in Bangladesh is staggering. As of Sunday, 528 have died, mostly children. How did this measles outbreak begin? And how is the country responding?",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "link": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 23 May 2026 03:53:20 GMT",
-      "snippet": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
+      "source": "NPR News",
+      "title": "Mind-bending photos by anonymous cousins show the pain and dreams of Afghan women",
+      "link": "https://www.npr.org/2026/05/24/g-s1-123443/photos-afghanistan-women-taliban",
+      "publishedAt": "Sun, 24 May 2026 08:40:01 -0400",
+      "snippet": "The young women make photos that look at life — how it is, how they wish it could be — under Taliban rule. The images are on display at the Photoville Festival in Brooklyn, New York.",
       "tier": 1
     },
     {
@@ -208,10 +240,10 @@
     },
     {
       "source": "NPR News",
-      "title": "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
+      "title": "Russia pounds Kyiv in powerful drone and missile attack",
       "link": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv",
       "publishedAt": "Sun, 24 May 2026 05:12:28 -0400",
-      "snippet": "Ukrainian President Volodymyr Zelenskyy said Sunday Russia used the powerful hypersonic Oreshnik ballistic missile during a mass drone and missile attack on Kyiv on Sunday that killed at least two people.",
+      "snippet": "At least two people were killed and 77 injured in the attack, which included the use of a powerful hypersonic ballistic missile called the Oreshnik, which is capable of carrying a nuclear warhead.",
       "tier": 1
     },
     {
@@ -224,14 +256,6 @@
     },
     {
       "source": "NPR News",
-      "title": "Torn by war, Israelis and Palestinians tie their fortunes together",
-      "link": "https://www.npr.org/2026/05/24/nx-s1-5806030/palestinian-israeli-startups-50-50-northeastern",
-      "publishedAt": "Sun, 24 May 2026 05:00:00 -0400",
-      "snippet": "At a time when hopes are dim for resolving the Israeli-Palestinian conflict, some Arab and Jewish entrepreneurs are partnering across the divide, hoping to prove what&apos;s possible.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
       "title": "The Enhanced Games are Sunday. Here&apos;s what to know about the controversial event",
       "link": "https://www.npr.org/2026/05/24/nx-s1-5831252/enhanced-games-steroids-olympics-trump",
       "publishedAt": "Sun, 24 May 2026 05:00:00 -0400",
@@ -240,34 +264,90 @@
     },
     {
       "source": "NPR News",
-      "title": "Suspect dead after opening fire near White House security checkpoint, Secret Service says",
-      "link": "https://www.npr.org/2026/05/23/g-s1-124148/secret-service-shooting-white-house",
-      "publishedAt": "Sat, 23 May 2026 20:23:43 -0400",
-      "snippet": "A man who opened fire Saturday near a White House security checkpoint is dead after being shot by officers who returned fire, the U.S. Secret Service said. It was the third incidence of gunfire in the vicinity of President Donald Trump in the past month.",
+      "title": "Torn by war, Israelis and Palestinians tie their fortunes together",
+      "link": "https://www.npr.org/2026/05/24/nx-s1-5806030/palestinian-israeli-startups-50-50-northeastern",
+      "publishedAt": "Sun, 24 May 2026 05:00:00 -0400",
+      "snippet": "At a time when hopes are dim for resolving the Israeli-Palestinian conflict, some Arab and Jewish entrepreneurs are partnering across the divide, hoping to prove what&apos;s possible.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Romanian director Cristian Mungiu&apos;s &apos;Fjord&apos; wins top prize at Cannes",
-      "link": "https://www.npr.org/2026/05/23/nx-s1-5832564/palme-dor-cannes-film-festival",
-      "publishedAt": "Sat, 23 May 2026 20:13:33 -0400",
-      "snippet": "Mungiu took home the prestigious Palme D&apos;Or for his film Fjord , a culture-war drama set in Norway.",
+      "source": "PBS Headlines",
+      "title": "Trump's emerging plan to end Iran war draws criticism from hard-line Republicans",
+      "link": "https://www.pbs.org/newshour/politics/trumps-emerging-plan-to-end-iran-war-draws-criticism-from-hard-line-republicans",
+      "publishedAt": "Sun, 24 May 2026 18:40:34 -0400",
+      "snippet": "President Donald Trump's emerging deal to end the Iran war is drawing heavy criticism from some fellow Republicans who favor a harder line against the government in Tehran and fear a lost opportunity to finally rein in a longtime Mideast nemesis.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Trump touts Iran breakthrough but details remain unclear",
-      "link": "https://www.npr.org/2026/05/23/g-s1-124145/trump-iran-deal-strait-of-hormuz",
-      "publishedAt": "Sat, 23 May 2026 19:00:02 -0400",
-      "snippet": "President Trump announced the unfinalized deal on social media after talks with Israel and other allies. Iran did not officially confirm the deal, and state media contradicted parts of it.",
+      "source": "PBS Headlines",
+      "title": "Syria holds legislative elections in Kurdish-majority northeast",
+      "link": "https://www.pbs.org/newshour/world/syria-holds-legislative-elections-in-kurdish-majority-northeast",
+      "publishedAt": "Sun, 24 May 2026 17:36:14 -0400",
+      "snippet": "Syria held follow-up parliamentary elections on Sunday in the Kurdish-majority northeastern province of Hassakeh and the town of Kobani, areas that were reintegrated under government control after fighting in January.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "What will Trump do next with Iran?",
-      "link": "https://www.npr.org/2026/05/23/nx-s1-5832542/trump-iran-decision",
-      "publishedAt": "Sat, 23 May 2026 13:49:28 -0400",
-      "snippet": "Three months since the start of its conflict with Iran, the Trump administration is oscillating between strike threats and diplomatic overtures. Neither path has yielded a clear resolution.",
+      "source": "PBS Headlines",
+      "title": "Turkish police force entry into CHP offices, fire tear gas and rubber bullets",
+      "link": "https://www.pbs.org/newshour/world/turkish-police-force-entry-into-chp-offices-fire-tear-gas-and-rubber-bullets",
+      "publishedAt": "Sun, 24 May 2026 15:53:35 -0400",
+      "snippet": "Police stormed the offices of Turkey's main opposition CHP party on Sunday, firing tear gas and rubber bullets at party supporters and officials who had been holed up inside for three days.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Trump says not to rush as U.S. nears potential Iran deal",
+      "link": "https://www.pbs.org/newshour/world/trump-says-not-to-rush-as-u-s-nears-potential-iran-deal",
+      "publishedAt": "Sun, 24 May 2026 15:18:12 -0400",
+      "snippet": "The United States is close to reaching a deal with Iran that would end the war, reopen the Strait of Hormuz and see Iran give up its stockpile of highly enriched uranium, regional officials told The Associated Press on Sunday.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Rubio aims to rebuild trust between Washington and Delhi during first official visit to India",
+      "link": "https://www.pbs.org/newshour/world/rubio-aims-to-rebuild-trust-between-washington-and-delhi-during-first-official-visit-to-india",
+      "publishedAt": "Sun, 24 May 2026 14:24:01 -0400",
+      "snippet": "U.S. Secretary of State Marco Rubio held bilateral talks with his Indian counterpart Subrahmanyam Jaishankar on Sunday as the two countries look to steady ties that have fallen to their lowest point in over two decades.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Looksmaxxing may point to deeper body image issues in young men, mental health expert says",
+      "link": "https://www.pbs.org/newshour/health/looksmaxxing-may-point-to-deeper-body-image-issues-in-young-men-mental-health-expert-says",
+      "publishedAt": "Sun, 24 May 2026 13:41:52 -0400",
+      "snippet": "A mental health professional explains how sensationalizing the extreme behaviors associated with \"looksmaxxing,\" rather than treating them as symptoms of mental health issues, can prevent boys and young men from receiving the care they need.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "China launches latest Shenzhou mission with 1 of 3 astronauts preparing for a yearlong stay",
+      "link": "https://www.pbs.org/newshour/world/china-launches-latest-shenzhou-mission-with-1-of-3-astronauts-preparing-for-a-yearlong-stay",
+      "publishedAt": "Sun, 24 May 2026 13:27:52 -0400",
+      "snippet": "China launched the Shenzhou 23 spacecraft Sunday night with three astronauts heading to its space station, including one set to stay in space for a year.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Mountain guide Kenton Cool climbs Everest for 20th time and says he's not ready to quit yet",
+      "link": "https://www.pbs.org/newshour/world/mountain-guide-kenton-cool-climbs-everest-for-20th-time-and-says-hes-not-ready-to-quit-yet",
+      "publishedAt": "Sun, 24 May 2026 12:53:01 -0400",
+      "snippet": "Briton Kenton Cool scaled the peak for the 20th time, breaking his own record for the most ascents of the world's highest mountain by a non-Sherpa guide.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Thousands protest rising housing costs in Spain's capital",
+      "link": "https://www.pbs.org/newshour/world/thousands-protest-rising-housing-costs-in-spains-capital",
+      "publishedAt": "Sun, 24 May 2026 11:56:35 -0400",
+      "snippet": "Thousands of people rallied in central Madrid on Sunday against spiraling housing costs that have priced many Spaniards out of the housing market despite a recent economic boom, particularly in cities such as the capital and Barcelona.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Suspect killed after firing shots near White House security checkpoint, Secret Service says",
+      "link": "https://www.pbs.org/newshour/nation/suspect-killed-after-firing-shots-near-white-house-security-checkpoint-secret-service-says",
+      "publishedAt": "Sun, 24 May 2026 11:33:26 -0400",
+      "snippet": "A man who opened fire Saturday near a White House security checkpoint is dead after being shot by officers who returned fire, the U.S. Secret Service said.",
       "tier": 1
     },
     {
@@ -351,91 +431,59 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Is it time for the U.S. to reassess its Iran strategy?",
-      "link": "https://www.pbs.org/newshour/video/compass-points/2026/05/is-it-time-for-the-u-s-to-reassess-its-iran-strategy",
-      "publishedAt": "Fri, 22 May 2026 19:30:20 -0400",
-      "snippet": "With talks stalled and Iran maintaining its chokehold over the Strait of Hormuz, President Trump is weighing whether to restart the war. Strikes failed to eliminate Iran's regime or destroy its military and nuclear capabilities, so is it time for the U.S. to reassess its strategy",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Tulsi Gabbard's record and impact on the U.S. intelligence community",
-      "link": "https://www.pbs.org/newshour/show/tulsi-gabbards-record-and-impact-on-the-u-s-intelligence-community",
-      "publishedAt": "Fri, 22 May 2026 18:55:23 -0400",
-      "snippet": "Director of National Intelligence Tulsi Gabbard, the highest-ranking intelligence official in the U.S. government, has resigned. She said her husband is suffering from a rare bone cancer that requires her full attention. Nick Schifrin and Liz Landers report, and William Brangham ",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "SpaceX launches its biggest Starship mega rocket yet on test flight",
-      "link": "https://www.pbs.org/newshour/science/spacex-launches-its-biggest-starship-mega-rocket-yet-on-test-flight",
-      "publishedAt": "Fri, 22 May 2026 18:51:43 -0400",
-      "snippet": "It's the 12th test flight of the rocket that SpaceX is building to get people to Mars one day. But first comes the moon and NASA's Artemis program.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "News Wrap: Rubio meets with NATO allies amid troop level confusion",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-rubio-meets-with-nato-allies-amid-troop-level-confusion",
-      "publishedAt": "Fri, 22 May 2026 18:45:57 -0400",
-      "snippet": "In our news wrap Friday, Secretary of State Marco Rubio met with NATO allies amid confusion over recent statements on U.S. troop levels in Europe, authorities in the Democratic Republic of Congo are banning funeral wakes and large gatherings to try and slow the Ebola outbreak and",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump's Cuba strategy echoes his Venezuela playbook, but experts point out key differences",
-      "link": "https://www.pbs.org/newshour/world/trumps-cuba-strategy-echoes-his-venezuela-playbook-but-experts-point-out-key-differences",
-      "publishedAt": "Fri, 22 May 2026 18:41:53 -0400",
-      "snippet": "Similar pressure campaigns do not equal similar results, experts say, even if President Donald Trump has often warned that \"Cuba is next.\"",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "What's behind the decade-long 'learning recession' for American students",
-      "link": "https://www.pbs.org/newshour/show/whats-behind-the-decade-long-learning-recession-for-american-students",
-      "publishedAt": "Fri, 22 May 2026 18:40:43 -0400",
-      "snippet": "As the school year is coming to a close, a new analysis shines another harsh spotlight on what's being called a \"learning recession\" for American students. It's a problem that started long before the pandemic, according to the latest National Education Scorecard. William Brangham",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Shein's purchase of sustainable fashion brand Everlane sparks outcry",
-      "link": "https://www.pbs.org/newshour/show/sheins-purchase-of-sustainable-fashion-brand-everlane-sparks-outcry",
-      "publishedAt": "Fri, 22 May 2026 18:35:06 -0400",
-      "snippet": "A deal between two seemingly incompatible clothing brands is causing a lot of consternation among customers and raising questions about sustainable fashion. Shein, the Chinese fast-fashion giant, is acquiring Everlane. For many, Everlane has been the face of a sustainable and eth",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Shipyard fire and explosion on Staten Island injures at least 16, officials say",
-      "link": "https://www.pbs.org/newshour/nation/shipyard-fire-and-explosion-on-staten-island-injures-at-least-16-officials-say",
-      "publishedAt": "Fri, 22 May 2026 18:30:47 -0400",
-      "snippet": "Someone reported two workers trapped in a confined space at the dock at about 3:30 p.m. Friday, and responding firefighters found a fire burning in the basement of a large metal structure at the dock, said Joanne Mariano with the New York Fire Department's press office.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Carbon credit program pays small landowners to keep forests standing",
-      "link": "https://www.pbs.org/newshour/show/carbon-credit-program-pays-small-landowners-to-keep-forests-standing",
-      "publishedAt": "Fri, 22 May 2026 18:30:45 -0400",
-      "snippet": "Markets to offset carbon emissions are now worth about $2 billion annually, and supporters say they're a key tool to address climate change. But carbon credits have also been criticized for being opaque and not reducing emissions nearly enough. Stephanie Sy reports on an effort t",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Brooks and Capehart on Trump's loyalty demands",
-      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-loyalty-demands",
-      "publishedAt": "Fri, 22 May 2026 18:25:37 -0400",
-      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join William Brangham to discuss the week in politics, including President Trump demonstrating his grip on Republican primary voters, another Cabinet member departs his administration and Democrats releasing a clumsy an",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Cuba receives China rice shipment amid US threats, blackouts",
+      "link": "https://www.dw.com/en/cuba-receives-china-rice-shipment-amid-us-threats-blackouts/a-77281770?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Chinese aid is expected to alleviate food shortages in Cuba. But the island&apos;s economic crisis continues with blackouts and oil embargos are compunded by threats from the United States.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "China mine blast: Search and investigation continue",
+      "link": "https://www.dw.com/en/china-mine-blast-search-and-investigation-continue/a-77280984?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Chinese authorities have launched an investigation into \"serious breaches\" of security regulations after an explosion in a coal mine left at least 82 people dead. Two people remain missing.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Madrid protesters decry rising rents and housing shortage",
+      "link": "https://www.dw.com/en/madrid-protesters-decry-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Housing has long ranked among the top concerns in Spain, where demand has risen because of tourism and immigration-driven population growth.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Turkish police evict ousted CHP leaders from party HQ",
+      "link": "https://www.dw.com/en/turkish-police-evict-ousted-chp-leaders-from-party-hq/a-77280112?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Police forced their way into the opposition party&apos;s headquarters, ending a standoff between ousted CHP leader Ozgur Ozel and supporters of court-appointed Kemal Kilicdaroglu.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany plans to address growing use of date-rape drugs",
+      "link": "https://www.dw.com/en/germany-plans-to-address-growing-use-of-date-rape-drugs/a-77261733?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany&apos;s justice minister is seeking harsher penalties for the use of date-rape drugs in sexual assaults. But victims say more needs to be done about a growing problem.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Cyprus: Voters boost far right in parliamentary election",
+      "link": "https://www.dw.com/en/cyprus-voters-boost-far-right-in-parliamentary-election/a-77279514?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The results dealt a blow to the three centrist parties in President Nikos Christodoulides&apos; minority coalition. The vote is seen as a gauge of voter sentiment ahead of a presidential election in 2028.",
       "tier": 2
     },
     {
@@ -504,10 +552,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran war: Donald Trump says deal &apos;largely negotiated&apos;",
-      "link": "https://www.dw.com/en/iran-war-donald-trump-says-deal-largely-negotiated/live-77276381?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran war: Trump says US won&apos;t &apos;rush into&apos; deal with Tehran",
+      "link": "https://www.dw.com/en/iran-war-trump-says-us-won-t-rush-into-deal-with-tehran/live-77276381?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "US Secretary of State Rubio has said an announcement on the deal could come as early as Sunday. Pakistan&apos;s top diplomat has cited \"meaningful progress,\" while Israel&apos;s Netanyahu reportedly voiced concern. Follow DW.",
+      "snippet": "The US president says negotiations are proceeding in \"an orderly and constructive manner,\" while Iranian officials say key differences still need to be settled. Follow DW for more.",
       "tier": 2
     },
     {
@@ -540,54 +588,6 @@
       "link": "https://www.dw.com/en/thousands-rally-in-madrid-to-demand-sanchez-s-resignation/a-77274803?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Mounting corruption allegations involving Prime Minister Pedro Sanchez’s family, allies and party sparked the protest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Cyprus election expected to shake up national politics",
-      "link": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Cyprus goes to the polls to elect a new parliament on Sunday. The vote is expected to reshape the country&apos;s political landscape, weaken traditional parties and accelerate the rise of new anti-establishment movements.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Cheap attack drones break through Israel&apos;s Iron Dome",
-      "link": "https://www.dw.com/en/cheap-attack-drones-break-through-israel-s-iron-dome/a-77235132?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Inexpensive fiber-optic drones are challenging Israel&apos;s high-tech defenses, shifting the military balance in the Middle East.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Couple remanded in custody after boys found abandoned by road in Portugal",
-      "link": "https://www.dw.com/en/couple-remanded-in-custody-after-boys-found-abandoned-by-road-in-portugal/a-77274217?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A French woman is accused of abandoning her children in Portugal after reportedly blindfolding them and leading them into a wooded area during a game. Her French partner also faces charges.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US, Iran strike upbeat tone as Hormuz deal takes shape",
-      "link": "https://www.dw.com/en/us-iran-strike-upbeat-tone-as-hormuz-deal-takes-shape/a-77274080?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump flagged progress in talks with Iran, Tehran has warned that major gaps still stand in the way of dialing down the conflict.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "In Iran, internet access becomes a luxury for the few",
-      "link": "https://www.dw.com/en/in-iran-internet-access-becomes-a-luxury-for-the-few/a-77231518?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Despite the ongoing internet blockade in Iran, access to \"Internet-Pro\" is available to select groups for a fee. Access to information and communication is increasingly becoming a luxury.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "France bans Israel minister Ben-Gvir after flotilla video",
-      "link": "https://www.dw.com/en/france-bans-israel-minister-ben-gvir-after-flotilla-video/a-77273641?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Israeli far-right minister released a video taunting detained Gaza aid flotilla activists, prompting widespread criticism at home and internationally.",
       "tier": 2
     }
   ]
