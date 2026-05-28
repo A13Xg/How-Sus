@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T01:16:16.459Z",
+  "generatedAt": "2026-05-28T13:40:28.421Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,34 +32,82 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Israel issues evacuation order for swathes of southern Lebanon",
-      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 27 May 2026 20:26:03 GMT",
-      "snippet": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 28 May 2026 11:52:10 GMT",
+      "snippet": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Trump says US 'not satisfied' with Iran deal yet",
-      "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 27 May 2026 17:37:33 GMT",
-      "snippet": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
+      "title": "Israel hits Lebanese capital in 'targeted strike'",
+      "link": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 28 May 2026 13:21:50 GMT",
+      "snippet": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
+      "title": "Man arrested after three injured in stabbing at Swiss train station",
+      "link": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 28 May 2026 10:52:21 GMT",
+      "snippet": "The suspect, a 31-year-old Swiss man, has been arrested, police say, as areas around the station are cordoned off.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say",
+      "link": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 28 May 2026 13:20:45 GMT",
+      "snippet": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Sixteen pupils killed in Kenya school fire",
+      "link": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 28 May 2026 12:24:11 GMT",
+      "snippet": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
       "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 28 May 2026 00:28:45 GMT",
+      "publishedAt": "Thu, 28 May 2026 04:53:51 GMT",
       "snippet": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
-      "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 27 May 2026 18:50:50 GMT",
-      "snippet": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
+      "title": "Australia charges woman who returned from Syria with joining Islamic State",
+      "link": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 28 May 2026 04:01:17 GMT",
+      "snippet": "Several groups of women and children who spent years in a Syrian camp have returned in recent months.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "EU fines Temu €200m for allowing sale of illegal products",
+      "link": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 28 May 2026 11:39:38 GMT",
+      "snippet": "The European Commission says the Chinese-owned online retailer failed to take account of risks from baby toys and faulty chargers sold on its platform.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
+      "link": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 28 May 2026 02:47:19 GMT",
+      "snippet": "The A$2bn case, which centres on contamination at defence sites, is the largest ever brought by the government.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Google worker charged with using internal data to make $1.2m on bets",
+      "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 28 May 2026 02:14:19 GMT",
+      "snippet": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
       "tier": 1
     },
     {
@@ -68,6 +116,14 @@
       "link": "https://www.bbc.com/news/articles/cjepvx151gqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 27 May 2026 20:09:33 GMT",
       "snippet": "Kenneth Iwamasa, who pleaded guilty last year to one count of conspiracy to distribute ketamine causing death, said he \"will forever regret\" his actions.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+      "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 27 May 2026 18:50:50 GMT",
+      "snippet": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
       "tier": 1
     },
     {
@@ -84,6 +140,14 @@
       "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 27 May 2026 13:15:26 GMT",
       "snippet": "Hamas says Mohammed Odeh was killed alongside his wife and two children in a strike on a residential building.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil prices jump after US launches new attacks on Iran",
+      "link": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 28 May 2026 05:32:06 GMT",
+      "snippet": "The strikes come despite a ceasefire between Tehran and Washington as the two countries hold peace talks.",
       "tier": 1
     },
     {
@@ -127,147 +191,99 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "South Korea detains dissident who fled China in rubber boat",
-      "link": "https://www.bbc.com/news/articles/c87q2pdwpw3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 27 May 2026 11:12:33 GMT",
-      "snippet": "Dong Guangping, an activist and former police officer, spent hours at sea before reaching Korean waters.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "YouTuber arrested for allegedly using AI to defame Korean actor",
-      "link": "https://www.bbc.com/news/articles/c759y6pvezgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 27 May 2026 02:54:19 GMT",
-      "snippet": "The YouTuber allegedly made false claims that fuelled a career-ending scandal for Kim Soo-hyun.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Nasa unveils next steps to build permanent Moon base",
-      "link": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 26 May 2026 20:25:50 GMT",
-      "snippet": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-      "link": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 26 May 2026 15:15:29 GMT",
-      "snippet": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "First Ghanaians evacuated from South Africa over immigration protests land in Accra",
-      "link": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 27 May 2026 16:14:34 GMT",
-      "snippet": "It follows recent protests that have led to fears there could be a resurgence in xenophobic violence.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "We analysed thousands of Trump's posts - here's what we found",
-      "link": "https://www.bbc.com/news/videos/cpvp30gpd0ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 27 May 2026 23:21:41 GMT",
-      "snippet": "The BBC's Ros Atkins and BBC Verify sifted through thousands of the president's posts.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "How my brother went from liberal Hollywood actor to manosphere 'messiah'",
-      "link": "https://www.bbc.com/news/articles/cjwppxwxpg1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 27 May 2026 23:14:30 GMT",
-      "snippet": "The sister of Mexican influencer El Temach tells the BBC she does not recognise him any more.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Is 'out of control' US tipping culture spreading overseas?",
-      "link": "https://www.bbc.com/news/articles/cj6p0wrkpj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 27 May 2026 23:14:43 GMT",
-      "snippet": "With US waiting staff getting cross at receiving less than 20%, tips are also on the rise elsewhere.",
+      "source": "NPR News",
+      "title": "A new report shows how close American households are to the financial edge",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5836525/affordability-report-brookings-inflation-wages",
+      "publishedAt": "Thu, 28 May 2026 08:00:00 -0400",
+      "snippet": "In 2024, nearly half of U.S. households did not earn enough to cover their necessities.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "DOJ charges Google staffer over Polymarket trades netting $1.2 million",
-      "link": "https://www.npr.org/2026/05/27/nx-s1-5836659/google-polymarket-insider-trading-doj-charges",
-      "publishedAt": "Wed, 27 May 2026 19:35:11 -0400",
-      "snippet": "It&apos;s the second known case of the federal government filing criminal charges against someone who allegedly used insider information to make a large profit on a prediction market site.",
+      "title": "U.S. strikes Iran again. And, DOJ charges Google staffer over Polymarket trades",
+      "link": "https://www.npr.org/2026/05/28/g-s1-124621/up-first-newsletter-iran-lebanon-israel-us-war-ebola-congo-food-insecurity-google-polymarket",
+      "publishedAt": "Thu, 28 May 2026 07:19:50 -0400",
+      "snippet": "The U.S. says it has struck Iran again as peace talks continue to end the conflict. And, the federal government has charged a Google staffer for allegedly using insider information in Polymarket trades.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "NPR&apos;s newsroom shrinks through buyouts and layoffs",
-      "link": "https://www.npr.org/2026/05/27/nx-s1-5836624/npr-layoffs-job-cuts",
-      "publishedAt": "Wed, 27 May 2026 16:02:19 -0400",
-      "snippet": "At least 18 NPR journalists have accepted buyouts and another 10 have been laid off as the public media network attempts to save money and reorganize the newsroom.",
+      "title": "A federal judge in D.C. declines to block Trump&apos;s executive order on voting by mail",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5797889/trump-mail-in-voting-order",
+      "publishedAt": "Thu, 28 May 2026 07:13:55 -0400",
+      "snippet": "A federal judge in Washington, D.C., has declined to temporarily block President Trump&apos;s executive order that calls for restricting mail-in voting. Another judge may rule on the order soon.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "More people are going hungry now than at the height of the pandemic",
-      "link": "https://www.npr.org/2026/05/27/nx-s1-5836441/food-insecurity-economy-new-york-fed",
-      "publishedAt": "Wed, 27 May 2026 15:12:53 -0400",
-      "snippet": "Food insecurity affects more families now than during the coronavirus pandemic, according to a new survey from the Federal Reserve Bank of New York.",
+      "title": "U.S. street drug deaths keep dropping, but some Western states see deadly overdose surge",
+      "link": "https://www.npr.org/2026/05/27/nx-s1-5836300/u-s-street-drug-deaths-keep-dropping-but-some-western-states-see-deadly-overdose-surge",
+      "publishedAt": "Thu, 28 May 2026 06:44:03 -0400",
+      "snippet": "Researchers say some structural changes in treating addiction are helping, including wider access to overdose reversing medication.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Former Obama adviser reflects on the &apos;Battle for American Identity&apos;",
-      "link": "https://www.npr.org/2026/05/27/nx-s1-5835275/former-obama-advisor-reflects-on-the-battle-for-american-identity",
-      "publishedAt": "Wed, 27 May 2026 11:16:03 -0400",
-      "snippet": "Ben Rhodes was a speechwriter and security adviser for President Obama. His book, All We Say, is a collection of 15 speeches — from Ben Franklin to Trump — about what it means to be American.",
+      "title": "An Ohio pastor-turned-lawmaker backs a Charlie Kirk American Heritage Act for schools",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5798726/christian-conservative-church-state-charlie-kirk",
+      "publishedAt": "Thu, 28 May 2026 06:00:00 -0400",
+      "snippet": "The bill says it would permit the teaching of the positive impact of Judeo-Christian values in U.S. history. Opponents say it offers a skewed view of history.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Greetings from Cape Verde, where the sounds of samba, jazz and morna fill the air",
-      "link": "https://www.npr.org/2026/05/27/g-s1-124325/cape-verde-music-morna-african-capital-culture",
-      "publishedAt": "Wed, 27 May 2026 10:58:44 -0400",
-      "snippet": "Music is interwoven with the sounds of daily life in this West African island nation, which hosted two international music festivals in April and has been named the African Capital of Culture for 2028.",
+      "title": "These swing voters are adding high gas prices into their political calculations",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5836714/swing-voters-gas-prices-trump-midterms",
+      "publishedAt": "Thu, 28 May 2026 05:00:00 -0400",
+      "snippet": "As part of NPR&apos;s Swing Shift project checking in with swing voters, these Americans are split on who is to blame for high gas prices but they all agree it has an impact on their personal finances.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Palestinians use recycling as Israel&apos;s restrictions trigger a trash crisis",
-      "link": "https://www.npr.org/2026/05/27/g-s1-121673/israel-palestinians-trash-west-bank",
-      "publishedAt": "Wed, 27 May 2026 10:45:58 -0400",
-      "snippet": "Palestinians in the West Bank live amid garbage following Israeli restrictions. Two Palestinian entrepreneurs are trying to make a change.",
+      "title": "Trump wants a gas tax holiday. There&apos;s a much bigger problem looming",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5835634/gasoline-tax-holiday-trump-potholes",
+      "publishedAt": "Thu, 28 May 2026 05:00:00 -0400",
+      "snippet": "Suspending the federal gasoline tax could save drivers up to 18.4 cents per gallon. But it would drain the fund meant to cover roadbuilding and repairs — a fund that&apos;s already in trouble.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Texas primary runoff takeaways. And, DOJ mass-deletes info on Jan. 6 riot cases",
-      "link": "https://www.npr.org/2026/05/27/g-s1-124451/up-first-newsletter-texas-elections-south-carolina-voting-maps-ice-iris-jan-6",
-      "publishedAt": "Wed, 27 May 2026 07:39:44 -0400",
-      "snippet": "The Texas primary runoffs have now concluded and major November election matchups are set. And Trump&apos;s Justice Department has deleted significant information from the Jan. 6 riot cases.",
+      "title": "Trump pledged to house 6,000 homeless vets. His budget funds zero",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5836556/trump-homeless-veterans-la",
+      "publishedAt": "Thu, 28 May 2026 05:00:00 -0400",
+      "snippet": "Veteran groups hoped a Trump executive order would supercharge housing for homeless vets. That hasn&apos;t happened, and veterans&apos; advocates want to know why.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Inside the effort to save one of America&apos;s most imperiled salamanders",
-      "link": "https://www.npr.org/2026/05/27/nx-s1-5631833/endangered-salamander-extinction-vortex-wildlife-conservation",
-      "publishedAt": "Wed, 27 May 2026 07:00:00 -0400",
-      "snippet": "When a species is facing extinction, it takes an enormous human effort to stave it off. Case in point: the painstaking campaign to save the frosted flatwoods salamander.",
+      "title": "Trick or spice? How the &apos;nutmeg&apos; came to dominate the soccer world",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5831957/nutmeg-world-cup-soccer-spice",
+      "publishedAt": "Thu, 28 May 2026 05:00:00 -0400",
+      "snippet": "Nutmeg commonly spices up a holiday season eggnog. It&apos;s also one of the most sought-after trick moves in soccer.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The movie &apos;Pressure&apos; leans into the drama of high-stakes weather forecasts",
-      "link": "https://www.npr.org/2026/05/27/nx-s1-5801425/pressure-movie-nws-weather-film-andrew-scott-brendan-fraser-trump",
-      "publishedAt": "Wed, 27 May 2026 06:00:00 -0400",
-      "snippet": "The new movie tells a story about how good meteorology can literally win wars. It also takes us back in time, to when the United States was at a disadvantage when it came to weather science.",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5831084/morning-news-brief",
+      "publishedAt": "Thu, 28 May 2026 04:49:12 -0400",
+      "snippet": "U.S. conducts another strike against Iran, Democrats are hopeful about their chances to retake GOP-held Senate seats, a town in eastern DRC is emerging as the epicenter of the latest Ebola outbreak.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Texas general election matchups are finally set. Here&apos;s what you need to know",
-      "link": "https://www.npr.org/2026/05/27/nx-s1-5835292/texas-senate-runoff-takeaways",
-      "publishedAt": "Wed, 27 May 2026 05:00:00 -0400",
-      "snippet": "The Texas primary runoffs are over and November election matchups are set in major contests, like one for the U.S. Senate, as the results deliver lessons for both parties.",
+      "source": "PBS Headlines",
+      "title": "WATCH LIVE: Vance delivers U.S. Air Force Academy commencement address",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-vance-delivers-u-s-air-force-academy-commencement-address",
+      "publishedAt": "Thu, 28 May 2026 09:28:25 -0400",
+      "snippet": "Vice President JD Vance is set to speak Thursday at the commencement ceremony for the U.S. Air Force Academy's class of 2026.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "AP report: Justice Department opens investigation into E. Jean Carroll, who successfully sued Trump for sexual abuse and defamation",
+      "link": "https://www.pbs.org/newshour/politics/ap-report-justice-department-opens-investigation-into-e-jean-carroll-who-successfully-sued-trump-for-sexual-abuse-and-defamation",
+      "publishedAt": "Thu, 28 May 2026 09:19:52 -0400",
+      "snippet": "It's the latest in a series of investigations the Trump administration Justice Department has opened into perceived adversaries of the president.",
       "tier": 1
     },
     {
@@ -345,7 +361,7 @@
     {
       "source": "PBS Headlines",
       "title": "New museum spotlights Thaddeus Stevens' abolitionist legacy",
-      "link": "https://www.pbs.org/newshour/show/shaping-history",
+      "link": "https://www.pbs.org/newshour/show/new-museum-spotlights-thaddeus-stevens-abolitionist-legacy",
       "publishedAt": "Wed, 27 May 2026 18:25:26 -0400",
       "snippet": "Civil War-era Congressman Thaddeus Stevens was a fierce abolitionist and advocate for racial equality. His life and legacy are now being celebrated in a new museum in Lancaster, Pennsylvania. Liz McKenna of our journalism training program, PBS News Student Reporting Labs, has the",
       "tier": 1
@@ -415,22 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Billionaire Tom Steyer's ad spending breaks records in California governor's race",
-      "link": "https://www.pbs.org/newshour/politics/billionaire-tom-steyers-ad-spending-breaks-records-in-california-governors-race",
-      "publishedAt": "Wed, 27 May 2026 16:24:50 -0400",
-      "snippet": "Win or lose, billionaire Democrat Tom Steyer will leave a mark in the history books in his bid to become California's next governor — he's running the most expensive political advertising campaign in the country this year.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "9 are still missing after Washington paper mill tank implosion. Officials say there's no hope of survivors",
-      "link": "https://www.pbs.org/newshour/nation/9-are-still-missing-after-washington-paper-mill-tank-implosion-officials-say-theres-no-hope-of-survivors",
-      "publishedAt": "Wed, 27 May 2026 15:55:18 -0400",
-      "snippet": "Before any bodies can be recovered, crews on Wednesday must first stabilize the tank, which was at risk of collapsing further and leaking more of the caustic liquid.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,10 +440,146 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "UK re-chalks Dorset&apos;s famed and feisty Cerne Abbas Giant",
+      "link": "https://www.dw.com/en/uk-re-chalks-dorset-s-famed-and-feisty-cerne-abbas-giant/a-77329497?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Britain&apos;s National Trust is working on replacing the chalk outline of the Cerne Abbas Giant in Dorset. The Saxon-era carving depicts a club-wielding man \"still standing tall,\" as the charity puts it.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why Europe is the fastest-warming continent",
+      "link": "https://www.dw.com/en/why-europe-is-the-fastest-warming-continent/a-77320871?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Europe is sweltering under an early heat wave that has broken records and claimed lives. What is happening to make it so hot?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ethiopia votes amid geopolitical rivalries in Horn of Africa",
+      "link": "https://www.dw.com/en/ethiopia-votes-amid-geopolitical-rivalries-in-horn-of-africa/a-77326271?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ethiopia will hold its seventh national election on June 1, 2026. The vote takes place as Gulf states compete for influence in the region and the rivalry between Ethiopia and Egypt over the Nile intensifies.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "North Korea: New report sheds light on chemical weapons",
+      "link": "https://www.dw.com/en/north-korea-new-report-sheds-light-on-chemical-weapons/a-77329770?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A new study shows the North Korean regime is investing heavily in chemical weapons capacity, with analysts warning they could be deployed by the regime if it faces an existential threat.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "A look inside Japan&apos;s largest prison for women",
+      "link": "https://www.dw.com/en/a-look-inside-japan-s-largest-prison-for-women/a-77329790?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Japan has recently carried out reforms to its prison system, but inside Tochigi, its biggest women&apos;s prison, strict discipline and tough conditions still define daily life.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Siddaramaiah steps down as Karnataka CM",
+      "link": "https://www.dw.com/en/india-news-siddaramaiah-steps-down-as-karnataka-cm/live-77322597?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Main headlines in India include DK Shivkumar being set to replace Siddaramaiah as chief minister for the southern state Karnataka, and Muslims celebrating Eid al-Adha across the country. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine: EU&apos;s Kallas warns against Russian mediator &apos;trap&apos;",
+      "link": "https://www.dw.com/en/ukraine-eu-s-kallas-warns-against-russian-mediator-trap/live-77326509?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The European Union&apos;s top diplomat, Kaja Kallas, has warned member states against falling into a Russian \"trap\" in future negotiations on Ukraine as the bloc&apos;s foreign ministers meet in Cyprus. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US: Former CIA officer charged with stealing gold bars from government",
+      "link": "https://www.dw.com/en/us-former-cia-officer-charged-with-stealing-gold-bars-from-government/a-77326438?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A former CIA official with top secret-level clearance is accused of stealing gold bars worth millions from the US government and stashing them in his home. Investigators also seized foreign currency and luxury watches.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "New Ebola cases in Congo: What you need to know",
+      "link": "https://www.dw.com/en/new-ebola-cases-in-congo-what-you-need-to-know/a-77325922?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The virus spreads from direct person-to-person contact. But here&apos;s what makes it especially lethal: it persists in corpses, and funeral practices often take place precisely when bodies are most infectious.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: Oil shortages threaten global energy security",
+      "link": "https://www.dw.com/en/iran-war-oil-shortages-threaten-global-energy-security/a-77313462?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Strategic petroleum reserves are declining rapidly as countries release emergency crude supplies to cushion the economic impact of the Middle East conflict.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Crises in Amhara, Tigray cloud Ethiopia&apos;s election 2026",
+      "link": "https://www.dw.com/en/crises-in-amhara-tigray-cloud-ethiopia-s-election-2026/a-77233448?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The June 1 elections come as the country debates federalism, governance and national unity in polls that could define the country&apos;s democratic future.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Health care staff protest plan for major cuts",
+      "link": "https://www.dw.com/en/germany-news-health-care-staff-protest-plan-for-major-cuts/live-77322235?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Medical staff in Germany are protesting proposed cuts that ministers say are necessary to stop spiraling costs. Meanwhile, a World War II bomb meant thousands were evacuated from their homes. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Kenya: Deadly fire breaks out at girls&apos; boarding school",
+      "link": "https://www.dw.com/en/kenya-deadly-fire-breaks-out-at-girls-boarding-school/a-77322221?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "At least 16 students were killed and 73 injured at a girls&apos; boarding school in central Kenya, authorities said.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "DOJ launches criminal probe into E. Jean Carroll — reports",
+      "link": "https://www.dw.com/en/doj-launches-criminal-probe-into-e-jean-carroll-reports/a-77321436?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US Justice Department has launched a criminal inquiry into former magazine writer E. Jean Carroll, who accused Donald Trump of sexually assaulting her at a department store 30 years ago.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: US downs Iranian drones, Tehran retaliates",
+      "link": "https://www.dw.com/en/iran-war-us-downs-iranian-drones-tehran-retaliates/live-77321432?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US shot down Iranian drones and struck a control center in an effort to \"maintain the ceasefire.\" In retaliation, Tehran struck a US military base. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Brazil to revive highway project through Amazon amid concerns",
+      "link": "https://www.dw.com/en/brazil-to-revive-highway-project-through-amazon-amid-concerns/a-77321412?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Brazil will invest $75 million to pave a highway that cuts through the center of the Amazon rainforest. Environmentalists argue for strong protections to conserve an ecosystem so crucial to curbing climate change.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Concerns grow over conditions at ICE facility in New Jersey",
+      "link": "https://www.dw.com/en/concerns-grow-over-conditions-at-ice-facility-in-new-jersey/a-77321018?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Democratic members of Congress have toured the Immigration and Customs Enforcement detention center, which has become a focus point for opponents of US President Donald Trump&apos;s migration agenda.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Canada to buy Swedish surveillance plane over US models",
       "link": "https://www.dw.com/en/canada-to-buy-swedish-surveillance-plane-over-us-models/a-77321014?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Prime Minister Mark Carney said the Canadian Armed Forces need the plane to detect and deter threats across the Arctic.",
+      "snippet": "Prime Minister Mark Carney says the Canadian Armed Forces need the plane to detect and deter threats across the Arctic.",
       "tier": 2
     },
     {
@@ -451,143 +587,7 @@
       "title": "FIFA World Cup: New York and New Jersey prosecutors probe &apos;sky-high&apos; ticket prices",
       "link": "https://www.dw.com/en/fifa-world-cup-new-york-and-new-jersey-prosecutors-probe-sky-high-ticket-prices/a-77319846?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "US prosecutors have subpoenaed FIFA over expensive World Cup tickets, saying that the event was \"not an invitation to exploit our residents and visitors.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump urges Middle East states to sign Abraham Accords",
-      "link": "https://www.dw.com/en/trump-urges-middle-east-states-to-sign-abraham-accords/a-77319844?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump has urged more Middle Eastern countries to join the Abraham Accords that aim to normalize relations with Israel. What does the agreement entail?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: Trump says US will &apos;watch over&apos; Strait of Hormuz",
-      "link": "https://www.dw.com/en/iran-war-trump-says-us-will-watch-over-strait-of-hormuz/live-77308741?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump said the vital Strait of Hormuz \"must be open to everyone\" and \"no one can control it.\" He made a threat to Oman, which is negotiating with Iran to control the vital waterway. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ebola: Uganda closes border with DR Congo as virus spreads",
-      "link": "https://www.dw.com/en/ebola-uganda-closes-border-with-dr-congo-as-virus-spreads/a-77320417?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Uganda has shut its border \"with immediate effect,\" despite warnings by the WHO that the move could backfire and cause the disease to spread.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Africa: 300 Ghanaians leave amid xenophobic tensions",
-      "link": "https://www.dw.com/en/south-africa-300-ghanaians-leave-amid-xenophobic-tensions/a-77319838?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Hundreds of Ghanaians are leaving South Africa on special repatriation flights as anti-immigration protests and violence against foreigners escalate in the richer African nation.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: No recovery in sight for the economy",
-      "link": "https://www.dw.com/en/germany-no-recovery-in-sight-for-the-economy/a-77319954?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The war in Iran has dashed hopes for economic growth. Germany&apos;s pension and healthcare systems are also feeling the strain.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Philippines: New inquiry launched into Duterte-era drug war",
-      "link": "https://www.dw.com/en/philippines-new-inquiry-launched-into-duterte-era-drug-war/a-77317760?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A former ICC judge and a Catholic bishop will lead the new EJK Truth Commission looking into the bloody anti-drug campaign under Rodrigo Duterte. The former Philippines&apos; president is set to face trial in November.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU enlargement: Is the bloc ready to welcome new members?",
-      "link": "https://www.dw.com/en/eu-enlargement-is-the-bloc-ready-to-welcome-new-members/a-77319025?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Brussels says the EU must grow, but resistance within the bloc remains strong, with some arguing that it must reform before enlarging. Montenegro remains the only country with a realistic chance of joining soon.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Turkey: Leadership dispute engulfs opposition CHP",
-      "link": "https://www.dw.com/en/turkey-leadership-dispute-engulfs-opposition-chp/a-77317144?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The top figures in Turkey&apos;s main opposition party differ on how to resolve the leadership vacuum after a court annulled its 2023 primary. One wants the party delegates to pick a leader, the other wants members to vote.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India&apos;s drug lifeline to Africa disrupted by Iran war",
-      "link": "https://www.dw.com/en/india-s-drug-lifeline-to-africa-disrupted-by-iran-war/a-77318563?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The fragile logistics corridor via Gulf states that connects African patients with critical Indian pharmaceuticals has been thrown into disarray with the Strait of Hormuz closed.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Modi warns of heat wave dangers",
-      "link": "https://www.dw.com/en/india-news-modi-warns-of-heat-wave-dangers/live-77307758?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Heatstroke has killed at least 16 people in southern Telangana state, and Prime Minister Modi has said Indians must heed warning signs. The heat wave has also sparked forest fires in the north.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Europe&apos;s energy problem isn&apos;t green power — it&apos;s storage",
-      "link": "https://www.dw.com/en/europe-s-energy-problem-isn-t-green-power-it-s-storage/a-77302218?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Solar and wind produce lots of energy — but not always at the right time. More battery storage could help Europe to stabilize prices and replace polluting fossil fuel energy, but roadblocks remain.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany hopes for heat pump boom amid Iran war",
-      "link": "https://www.dw.com/en/germany-hopes-for-heat-pump-boom-amid-iran-war/a-77310083?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The war in the Middle East is threatening fossil fuel supplies and leading fuel and gas prices to rise in Germany. Could that drive a surge in demand for heat pumps?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "For Pakistan, joining Abraham Accords is a tricky choice",
-      "link": "https://www.dw.com/en/for-pakistan-joining-abraham-accords-is-a-tricky-choice/a-77315102?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump wants Pakistan and some other Muslim-majority nations to normalize ties with Israel. While joining the Abraham Accords has its benefits for Islamabad, the repercussions would be immense.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Spain: Police raid HQ of ruling PSOE Socialist party in graft probe",
-      "link": "https://www.dw.com/en/spain-police-raid-hq-of-ruling-psoe-socialist-party-in-graft-probe/a-77312442?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Police have searched the headquarters of Prime Minister Pedro Sanchez&apos;s PSOE party investigating possible illegal payments. Sanchez meanwhile said he was still standing by former PM Jose Luis Rodriguez Zapatero.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Laos: 5 people stuck in cave for a week found alive",
-      "link": "https://www.dw.com/en/laos-5-people-stuck-in-cave-for-a-week-found-alive/a-77314164?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Two of the seven people who became trapped in a flooded cave a week ago are still missing, rescuers have said.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Chinese dissident found at sea detained in South Korea",
-      "link": "https://www.dw.com/en/chinese-dissident-found-at-sea-detained-in-south-korea/a-77312290?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Dong Guangping, a former policeman who has been jailed for his opposition to China&apos;s Communist regime, was found drifting in a small rubber boat off South Korea&apos;s west coast.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "License to play: The new James Bond video game",
-      "link": "https://www.dw.com/en/license-to-play-the-new-james-bond-video-game/a-77302275?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "James Bond is back, and he&apos;s as charismatic and daring as ever. The video game \"007 First Light\" tells the origin story of the British secret agent — and the stakes are high.",
+      "snippet": "US prosecutors have subpoenaed FIFA over expensive World Cup tickets, saying the event is \"not an invitation to exploit our residents and visitors.\"",
       "tier": 2
     }
   ]
