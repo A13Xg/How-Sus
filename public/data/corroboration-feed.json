@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T01:29:39.600Z",
+  "generatedAt": "2026-06-02T13:43:48.624Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,130 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
-      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 23:50:03 GMT",
-      "snippet": "Hours after the pause was announced, the Israeli military said it had intercepted projectiles fired from Lebanon.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
-      "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 21:50:52 GMT",
-      "snippet": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Four dead and several injured after massive Russian strikes across Ukraine",
+      "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
       "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 02 Jun 2026 01:13:25 GMT",
-      "snippet": "Thousands of Kyiv residents ran for shelter following what officials said were ballistic missile strikes on the city centre.",
+      "publishedAt": "Tue, 02 Jun 2026 12:46:36 GMT",
+      "snippet": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 07:31:10 GMT",
+      "snippet": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
+      "link": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 10:53:37 GMT",
+      "snippet": "The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
+      "link": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 11:40:02 GMT",
+      "snippet": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
+      "link": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 07:52:47 GMT",
+      "snippet": "The thousands of \"ghost kitchens\" - online shops that don't actually exist - have spooked Chinese consumers.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Sabrina Carpenter gets restraining order against man who showed up at her home",
+      "link": "https://www.bbc.com/news/articles/c7v9p9yy370o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 10:18:29 GMT",
+      "snippet": "The singer reported a series of \"deeply alarming\" incidents at her house to Los Angeles police.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Maga influencer admits London Tube station assault",
+      "link": "https://www.bbc.com/news/articles/c3v2qyp5pzro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 11:35:42 GMT",
+      "snippet": "Melissa Rein Lively accepted a caution, while an assault by beating charge against her was withdrawn.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ghana's anti-LGBTQ+ bill to be scrutinised before approval, president says",
+      "link": "https://www.bbc.com/news/articles/cp8pgrd50xko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 11:59:30 GMT",
+      "snippet": "Passed by MPs, the bill proposes prison sentences for people identifying as part of the LGBTQ+ community.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
+      "link": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 01 Jun 2026 23:03:39 GMT",
+      "snippet": "The justice department says it \"disagrees strongly\" with a court decision to halt the establishment of the fund.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
+      "link": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 07:00:21 GMT",
+      "snippet": "The AI company behind Claude is set to offer the public the chance to buy and sell shares in the firm later this year.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Steph Curry signs with Chinese brand after Under Armour split",
+      "link": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 06:29:35 GMT",
+      "snippet": "Chinese firms have been vying to secure deals with big stars as they push to become global brands.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Australian ex-minister launches crowd-funded inquiry into Aukus submarine deal",
+      "link": "https://www.bbc.com/news/articles/cn7p3ky2yl1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 02:06:34 GMT",
+      "snippet": "Inquiry will look at whether Australia will receive the submarines and whether it will make the country safer.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
+      "link": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 01:19:15 GMT",
+      "snippet": "The leader of Denmark's Social Democratic Party is forming a centre-left coalition minority government, giving her a third term as prime minister.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Missing lab worker found dead in New Mexico nearly a year after disappearing",
+      "link": "https://www.bbc.com/news/articles/c0723mr8j3po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 02:07:28 GMT",
+      "snippet": "Melissa Casias' case was part of debunked speculations about recent deaths and disappearances in the US scientific community.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Italians bemused by Milan bull mosaic restoration",
+      "link": "https://www.bbc.com/news/articles/ckgp72v8q0wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 01 Jun 2026 18:18:06 GMT",
+      "snippet": "Italians wondered what had happened to the animal's \"lucky-charm\" testicles.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Six people killed in Iowa domestic dispute, police say",
+      "link": "https://www.bbc.com/news/articles/cg4p7e6301do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 03:50:34 GMT",
+      "snippet": "The suspected shooter was found dead near a bridge with a self-inflicted gunshot wound, authorities say.",
       "tier": 1
     },
     {
@@ -72,110 +176,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
-      "link": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 02 Jun 2026 01:19:15 GMT",
-      "snippet": "The leader of Denmark's Social Democratic Party is forming a centre-left coalition minority government, giving her a third term as prime minister.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump inserts himself into the centre of America's 250th birthday celebrations",
-      "link": "https://www.bbc.com/news/articles/clypkj2e349o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 22:56:39 GMT",
-      "snippet": "Instead of a uniting event, America's Independence Day celebrations are becoming yet another partisan battleground.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "AI giant Anthropic says it plans to list on US stock market",
-      "link": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 18:50:13 GMT",
-      "snippet": "The AI company behind Claude is set to offer the public shares of stock sometime this year.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Italians bemused by Milan bull mosaic restoration",
-      "link": "https://www.bbc.com/news/articles/ckgp72v8q0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 18:18:06 GMT",
-      "snippet": "Italians wondered what had happened to the animal's \"lucky-charm\" testicles.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Hungarian PM threatens to oust Orbán-era president",
-      "link": "https://www.bbc.com/news/articles/c3w2vdd6jj3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 16:54:28 GMT",
-      "snippet": "Hungary's president has refused Prime Minister Péter Magyar's demands to step aside, setting up a constitutional clash.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Williams, 44, to return to action in Queen's doubles",
-      "link": "https://www.bbc.com/sport/tennis/articles/cx21k06ddvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 18:39:48 GMT",
-      "snippet": "Serena Williams will return to competitive tennis for the first time in nearly four years when she plays in the women's doubles at Queen's.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US political commentators denied entry to UK by Home Office",
-      "link": "https://www.bbc.com/news/articles/cwy2rxyvvl1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 15:40:58 GMT",
-      "snippet": "The US citizens and left-wing content creators with huge online followings were due to speak at the SXSW London festival and Oxford this week.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
-      "link": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 11:53:26 GMT",
-      "snippet": "A British helicopter provided support during the operation on Sunday, the UK ministry of defence says.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Two possible Ebola cases in Brazil ruled out as patients test negative",
-      "link": "https://www.bbc.com/news/articles/c99lzgxzx2do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 21:40:19 GMT",
-      "snippet": "The two patients had recently returned from the DR Congo and Uganda respectively.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
-      "link": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 06:23:59 GMT",
-      "snippet": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Voting suspended in parts of Ethiopia over security concerns",
-      "link": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 14:35:36 GMT",
-      "snippet": "Prime Minister Abiy Ahmed's party is expected to dominate the election as conflicts overshadow the vote.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Poland's controversial 'Highway to Hel' 666 bus revived",
-      "link": "https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 03:19:57 GMT",
-      "snippet": "Poland's seaside resort called Hel is getting its 666 bus service back, despite earlier opposition from Christian groups.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria police warn against reprisal attacks against South Africans",
-      "link": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 10:02:49 GMT",
-      "snippet": "Tensions have been rising in South Africa in recent weeks following several anti-migrant protests.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
       "link": "https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 01 Jun 2026 06:52:40 GMT",
@@ -184,90 +184,146 @@
     },
     {
       "source": "BBC World",
-      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
-      "link": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 01 Jun 2026 01:53:03 GMT",
-      "snippet": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+      "title": "He was a reality show villain. Can he be the mayor of one of America's largest cities?",
+      "link": "https://www.bbc.com/news/articles/c775x852rk1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 02 Jun 2026 10:33:06 GMT",
+      "snippet": "Republican Spencer Pratt, known for his TV role on The Hills, appears to be in a tight race with two Democrats in Los Angeles.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza",
-      "link": "https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza",
-      "publishedAt": "Mon, 01 Jun 2026 17:28:48 -0400",
-      "snippet": "Trumps says Israel and Hezbollah will stop fighting after Iran stops talks with U.S. over Israeli operations in southern Lebanon, Gaza",
+      "title": "How Ebola kills -- and what it takes to stop it",
+      "link": "https://www.npr.org/2026/06/02/g-s1-125222/ebola-outbreak-prevention-symptoms",
+      "publishedAt": "Tue, 02 Jun 2026 08:42:47 -0400",
+      "snippet": "It&apos;s a virus that can strike with unrelenting force. The kind of care need to knock it out is often not fully available in a lower resource country like the Democratic Republic of Congo.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Justice Department says it will abide by court order pausing its &apos;anti-weaponization&apos; fund",
-      "link": "https://www.npr.org/2026/06/01/g-s1-125268/justice-department-trump-anti-weaponization-fund-pause",
-      "publishedAt": "Mon, 01 Jun 2026 16:35:45 -0400",
-      "snippet": "The Justice Department said it &apos;strongly disagrees&apos; with the court&apos;s ruling that paused a $1.776 fund for victims of government \"weaponization,\" but would still abide by it.",
+      "title": "DOJ will pause $1.8 billion fund, per court order. And, key primaries to watch today",
+      "link": "https://www.npr.org/2026/06/02/g-s1-125326/up-first-newsletter-anti-weaponization-fund-us-primaries-iran-israel-hezbollah",
+      "publishedAt": "Tue, 02 Jun 2026 07:10:08 -0400",
+      "snippet": "The DOJ says it will abide by a federal court order pausing its anti-weaponization fund. And, six states are holding primaries today. Here are the races to watch.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Florida sues OpenAI and Sam Altman over alleged safety lapses",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt",
-      "publishedAt": "Mon, 01 Jun 2026 15:52:02 -0400",
-      "snippet": "The lawsuit accuses the company of failing to warn users that ChatGPT could be dangerous and instead marketing it as safe and reliable.",
+      "title": "Pentagon policy illegally banned transgender troops from military, appeals court rules",
+      "link": "https://www.npr.org/2026/06/02/g-s1-125323/pentagon-transgender-troops",
+      "publishedAt": "Tue, 02 Jun 2026 05:51:48 -0400",
+      "snippet": "A divided panel of appeals court judges has ruled that a Trump administration policy illegally banned transgender troops from military service.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large",
-      "publishedAt": "Mon, 01 Jun 2026 14:27:28 -0400",
-      "snippet": "The Anthropic IPO, and those of other AI-related firms like OpenAI, could be among the biggest in U.S. history.",
+      "title": "EU strikes migration deal for more deportations and detention centers abroad",
+      "link": "https://www.npr.org/2026/06/02/nx-s1-5844100/eu-migration-deal",
+      "publishedAt": "Tue, 02 Jun 2026 05:17:15 -0400",
+      "snippet": "The European Union has moved forward with an overhaul of its migration policy, aiming to ramp up deportations and build detention centers abroad. Critics compared the regulation to the immigration strategy of the Trump administration.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Serena Williams returns to tennis, announcing &apos;next chapter&apos;",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5843168/serena-williams-returns-hsbc-championships",
-      "publishedAt": "Mon, 01 Jun 2026 14:20:02 -0400",
-      "snippet": "A tennis legend at 44, Serena Williams is returning to pro tennis this month, announcing plans to play in the HSBC Championships in London. Williams, a mother of two, retired nearly four years ago.",
+      "title": "Michigan found a way to reduce school vaccine waivers. Until it backfired",
+      "link": "https://www.npr.org/2026/06/02/nx-s1-5823712/michigan-school-vaccine-exemptions-waivers-measles",
+      "publishedAt": "Tue, 02 Jun 2026 05:00:00 -0400",
+      "snippet": "A decade ago, Michigan had high rates of parents not vaccinating their children, so it required them to attend an in-person education class to get an exemption. It worked — until things got ugly.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Remote work -- not AI -- has sidelined recent college graduates, research finds",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai",
-      "publishedAt": "Mon, 01 Jun 2026 13:59:52 -0400",
-      "snippet": "Research from the New York Fed finds that younger college graduates have been sidelined by remote work in recent years, as companies may be reluctant to hire those needing more training and mentoring.",
+      "title": "Trump vowed to revoke hundreds of citizenships. It&apos;s proving harder to do",
+      "link": "https://www.npr.org/2026/06/02/g-s1-124866/trump-doj-citizenship-denaturalization-revoke-legal-protections",
+      "publishedAt": "Tue, 02 Jun 2026 05:00:00 -0400",
+      "snippet": "President Trump&apos;s vow to revoke citizenship worries immigrant advocates, legal scholars and naturalized Americans — but so far it&apos;s proving harder to do than the rhetoric suggests.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "A cancer vaccine made just for you. mRNA is back and it&apos;s fighting melanoma",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5827041/cancer-vaccine-mrna-melanoma",
-      "publishedAt": "Mon, 01 Jun 2026 08:00:00 -0400",
-      "snippet": "A study finds that an mRNA vaccine is highly effective at preventing recurrence of this dangerous skin cancer, when used in combination with Keytruda, an immunotherapy drug.",
+      "title": "Tuesday is a big primary day. Here are key races to watch",
+      "link": "https://www.npr.org/2026/06/02/g-s1-124482/primary-day-california-iowa",
+      "publishedAt": "Tue, 02 Jun 2026 05:00:00 -0400",
+      "snippet": "Six states — California, Iowa, Montana, New Jersey, South Dakota and New Mexico — hold elections on Tuesday. Here are key races to follow.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S. strikes Iranian military sites. And, Trump&apos;s $1.8 billion fund faces scrutiny",
-      "link": "https://www.npr.org/2026/06/01/g-s1-125147/up-first-newsletter-iran-us-anti-weaponization-fund-graham-platner-newsmakers",
-      "publishedAt": "Mon, 01 Jun 2026 07:07:22 -0400",
-      "snippet": "American aircraft fired on a number of Iranian sites over the weekend, including Qeeshm Island in the Strait of Hormuz. And, Trump&apos;s anti-weaponization fund faces scrutiny in Congress and the courts.",
+      "title": "For veterans, a place where peace can take root",
+      "link": "https://www.npr.org/2026/06/02/nx-s1-5843247/veterans-garden-la",
+      "publishedAt": "Tue, 02 Jun 2026 05:00:00 -0400",
+      "snippet": "Iraq war veteran John Follmer leads vet volunteers who are rehabbing a neglected Japanese garden on the West LA Veterans Affairs Campus.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Confirmed Ebola cases in Congo near 300 as survivors describe their recoveries",
-      "link": "https://www.npr.org/2026/06/01/g-s1-125143/ebola-updates",
-      "publishedAt": "Mon, 01 Jun 2026 06:52:34 -0400",
-      "snippet": "The outbreak remains focused in Congo&apos;s eastern Ituri province. Congo has reported over 1,000 suspected cases with the Bundibugyo virus, which has no approved treatment or vaccine.",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/06/02/nx-s1-5841919/morning-news-brief",
+      "publishedAt": "Tue, 02 Jun 2026 04:42:48 -0400",
+      "snippet": "DOJ says it will pause its &apos;anti-weaponization&apos; fund after judge&apos;s ruling, Trump says he urged Israel, Hezbollah to hold fire amid rising tensions over Lebanon, Californians vote in state&apos;s primaries.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "&apos;At what point does it make sense to ditch a gas car for an electric vehicle?&apos;",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5806597/electric-vehicle-climate-gas-prices",
-      "publishedAt": "Mon, 01 Jun 2026 05:00:00 -0400",
-      "snippet": "\"At what point does it make sense to ditch a gas car for an EV?\" NPR listener Guadalupe Higuera of Phoenix asked this question and worked with Climate Desk reporter Jeff Brady to answer it.",
+      "title": "Ultra-Orthodox protesters block roads and trains across Israel over military draft",
+      "link": "https://www.npr.org/2026/06/02/nx-s1-5844080/ultra-orthodox-protests-israel",
+      "publishedAt": "Tue, 02 Jun 2026 03:55:26 -0400",
+      "snippet": "Tens of thousands of ultra-Orthodox demonstrated across Israel on Monday, blocking roads and trains and setting cars on fire to protest mandatory enlistment in Israel&apos;s military.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "WATCH LIVE: Rubio testifies on Capitol Hill for the 1st time since start of Iran war",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-rubio-testifies-on-capitol-hill-for-the-1st-time-since-start-of-iran-war",
+      "publishedAt": "Tue, 02 Jun 2026 09:25:35 -0400",
+      "snippet": "The Republican former senator will sit before House and Senate committees to make the State Department's annual budget request. But the focus is likely to shift quickly to the already unsteady ceasefire between Washington and Tehran, which has been further tested in recent days b",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Live Results: California midterm primaries",
+      "link": "https://www.pbs.org/newshour/politics/live-results-california-midterm-primaries",
+      "publishedAt": "Tue, 02 Jun 2026 09:00:52 -0400",
+      "snippet": "Two candidates for California governor will emerge from a massive field of 61 hopefuls in a state primary on Tuesday, when voters will also select U.S. House nominees using a new map they approved in a 2025 ballot measure.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Live Results: Iowa midterm primaries",
+      "link": "https://www.pbs.org/newshour/politics/live-results-iowa-midterm-primaries",
+      "publishedAt": "Tue, 02 Jun 2026 09:00:37 -0400",
+      "snippet": "The winners will compete in November's critical midterm elections, in which Iowa's U.S. Senate and House seats could determine control of the narrowly divided chambers.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Live Results: New Jersey midterm primaries",
+      "link": "https://www.pbs.org/newshour/politics/live-results-new-jersey-midterm-primaries",
+      "publishedAt": "Tue, 02 Jun 2026 09:00:26 -0400",
+      "snippet": "New Jersey voters will nominate candidates for both chambers of Congress in a state primary on Tuesday, including in one key battleground district that could decide control of the U.S. House.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Live Results: Montana midterm primaries",
+      "link": "https://www.pbs.org/newshour/politics/live-results-montana-midterm-primaries",
+      "publishedAt": "Tue, 02 Jun 2026 09:00:21 -0400",
+      "snippet": "Montana has not been at the top of the list of seats Democrats hope to flip to regain control of either body, but the retirements do creak open the door for a candidate to possibly take advantage of the state's independent streak.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Live Results: South Dakota midterm primaries",
+      "link": "https://www.pbs.org/newshour/politics/live-results-south-dakota-midterm-primaries",
+      "publishedAt": "Tue, 02 Jun 2026 09:00:18 -0400",
+      "snippet": "South Dakota's governor, the speaker of the state House, the state's lone representative in Congress and a businessman will face off in a competitive Republican primary for governor on Tuesday.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Live Results: New Mexico midterm primaries",
+      "link": "https://www.pbs.org/newshour/politics/live-results-new-mexico-midterm-primaries",
+      "publishedAt": "Tue, 02 Jun 2026 09:00:02 -0400",
+      "snippet": "The election takes place as the war in Iran continues to send gas prices soaring, creating an unanticipated windfall in the nation's No. 2 oil-producing state that the new governor will play a key role in managing.",
       "tier": 1
     },
     {
@@ -375,62 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Trump administration says it will comply with court order that temporarily paused $1.8 billion compensation fund",
-      "link": "https://www.pbs.org/newshour/politics/trump-administration-says-it-will-comply-with-court-order-that-temporarily-paused-1-8-billion-compensation-fund",
-      "publishedAt": "Mon, 01 Jun 2026 16:34:14 -0400",
-      "snippet": "The announcement from the Justice Department comes in response to a Friday court ruling by a federal judge in Virginia who ordered plans for the fund halted pending additional arguments later this month.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Candidates for California governor and LA mayor make their final pitches to voters",
-      "link": "https://www.pbs.org/newshour/politics/candidates-for-california-governor-and-la-mayor-make-their-final-pitches-to-voters",
-      "publishedAt": "Mon, 01 Jun 2026 16:25:12 -0400",
-      "snippet": "The many candidates running for California governor rushed to deliver their closing arguments to voters in the race's final days before the June 2 primary.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Ebola cases in Congo near 300 as more joyful stories from recovered medical workers emerge",
-      "link": "https://www.pbs.org/newshour/world/ebola-cases-in-congo-near-300-as-more-joyful-stories-from-recovered-medical-workers-emerge",
-      "publishedAt": "Mon, 01 Jun 2026 16:13:13 -0400",
-      "snippet": "The disease has killed 42 people in Congo and one person in neighboring Uganda.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "AP report: U.S. to drastically slash the number of embassies in Africa that can process visas",
-      "link": "https://www.pbs.org/newshour/politics/ap-report-u-s-to-drastically-slash-the-number-of-embassies-in-africa-that-can-process-visas",
-      "publishedAt": "Mon, 01 Jun 2026 15:50:51 -0400",
-      "snippet": "The almost 50 U.S. embassies and consulates that are processing visa applications in Africa will be reduced to 20 \"hubs\" in the coming weeks, according to three U.S. officials and an internal memo obtained by The Associated Press.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Hungarian Prime Minister Magyar to amend constitution to remove President Sulyok",
-      "link": "https://www.pbs.org/newshour/world/hungarian-prime-minister-magyar-to-amend-constitution-to-remove-president-sulyok",
-      "publishedAt": "Mon, 01 Jun 2026 14:52:39 -0400",
-      "snippet": "Hungary's government will amend the constitution to remove the country's president, part of a push by the new Prime Minister Péter Magyar to eliminate officials appointed under former populist Prime Minister Viktor Orbán.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump says Israel and Hezbollah have agreed to dial back fighting after mediated talks",
-      "link": "https://www.pbs.org/newshour/world/trump-says-israel-and-hezbollah-have-agreed-to-dial-back-fighting-after-mediated-talks",
-      "publishedAt": "Mon, 01 Jun 2026 14:41:28 -0400",
-      "snippet": "President Donald Trump said Monday that Israel and Hezbollah have agreed to dial back fighting after he held talks with Israeli Prime Minister Benjamin Netanyahu and communicated with the Lebanon-militant group through mediators.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Florida sues OpenAI and CEO Sam Altman, claiming company hid ChatGPT risks from users",
-      "link": "https://www.pbs.org/newshour/nation/florida-sues-openai-and-ceo-sam-altman-claiming-company-hid-chatgpt-risks-from-users",
-      "publishedAt": "Mon, 01 Jun 2026 14:17:30 -0400",
-      "snippet": "The lawsuit claims the company deployed a product that facilitates and encourages harm, including self-harm and violence, while falsely assuring users it was safe.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,154 +440,154 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Alphabet plans $80 billion stock sale as AI spending surges",
-      "link": "https://www.dw.com/en/alphabet-plans-80-billion-stock-sale-as-ai-spending-surges/a-77383080?maca=en-rss-en-top-1022-rdf",
+      "title": "&apos;Cockroach&apos; movement gives voice to India&apos;s angry youth",
+      "link": "https://www.dw.com/en/cockroach-movement-gives-voice-to-india-s-angry-youth/a-77391629?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The Google parent company&apos;s announcement comes on the same day as Anthropic said it had confidentially filed paperwork for an initial public offering",
+      "snippet": "The satirical Cockroach Janta Party has tapped into the concerns of the India&apos;s youth over issues plaguing the nation&apos;s education and employment policies.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "London Tube workers go on two-day strike",
-      "link": "https://www.dw.com/en/london-tube-workers-go-on-two-day-strike/a-77382746?maca=en-rss-en-top-1022-rdf",
+      "title": "Japan: Bear rampage injures 4 in Fukushima",
+      "link": "https://www.dw.com/en/japan-bear-rampage-injures-4-in-fukushima/a-77392803?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A strike in London&apos;s Tube will see the closure of two train lines and partial closure of two others, as the union demands better worker condition for workers.",
+      "snippet": "The bear, which attacked employees at a steel works company, has still not yet been captured. This latest attack comes after 13 people were killed by bears in Japan last year, according to authorities.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Serena Williams confirms return to professional tennis",
-      "link": "https://www.dw.com/en/serena-williams-confirms-return-to-professional-tennis/a-77381627?maca=en-rss-en-top-1022-rdf",
+      "title": "Ebola: Kenya&apos;s president defends US site amid protests",
+      "link": "https://www.dw.com/en/ebola-kenya-s-president-defends-us-site-amid-protests/a-77390877?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The tennis icon will play doubles tennis at a grass court tournament this month, marking an expected return to the sport.",
+      "snippet": "A Kenyan court has blocked a planned quarantine center for US citizens, as President Ruto urged people to \"relax\" about the facility. Meanwhile, the WHO has dramatically scaled back the number of suspected cases.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Refugees and migration: Is Europe closing its doors?",
-      "link": "https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-top-1022-rdf",
+      "title": "Nigeria: How religious divides worsen conflict during drought",
+      "link": "https://www.dw.com/en/nigeria-how-religious-divides-worsen-conflict-during-drought/a-77373785?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Migration researchers have called on European governments to abandon isolationist policies. But many politicians are not heeding their calls.",
+      "snippet": "Drought is often blamed for Nigeria&apos;s farmer-herder violence. But new research shows clashes rise mainly where Muslim herders meet predominantly Christian communities, turning competition over land into deadly conflict.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Baden-Württemberg restricts smoking in public spaces",
-      "link": "https://www.dw.com/en/baden-württemberg-restricts-smoking-in-public-spaces/a-77380997?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany seeks a seat on the UN Security Council",
+      "link": "https://www.dw.com/en/germany-seeks-a-seat-on-the-un-security-council/a-77386458?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The southwestern German state of Baden-Württemberg has expanded restrictions on smoking in public spaces like outdoor swimming pools, theme parks and zoos.",
+      "snippet": "On Wednesday, the United Nations will hold elections for several seats on the UN Security Council. Germany&apos;s government is campaigning vigorously for a seat.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "UK wins court case over canceled plan to deport asylum seekers to Rwanda",
-      "link": "https://www.dw.com/en/uk-wins-court-case-over-canceled-plan-to-deport-asylum-seekers-to-rwanda/a-77379092?maca=en-rss-en-top-1022-rdf",
+      "title": "Taiwan&apos;s Lai: Status quo is key to secure tech supply chains",
+      "link": "https://www.dw.com/en/taiwan-s-lai-status-quo-is-key-to-secure-tech-supply-chains/a-77386453?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "An international court has rejected a Rwandan claim for millions in damages over a scrapped deal to send asylum seekers to the East African nation.",
+      "snippet": "President Lai Ching-te has opened an AI and tech summit in Taipei, saying preserving the status quo is key to securing supply chains. Taiwan is a crucial chipmaker, but its ties with China are a constant source of risk.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Is &apos;nation-hopping&apos; ruining German youth football?",
-      "link": "https://www.dw.com/en/is-nation-hopping-ruining-german-youth-football/a-77378920?maca=en-rss-en-top-1022-rdf",
+      "title": "Legendary warrior women: The history of the Amazons",
+      "link": "https://www.dw.com/en/legendary-warrior-women-the-history-of-the-amazons/a-77385284?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Many young German footballers are choosing other countries over Germany. DFB Director Andreas Rettig is aiming to change this and is calling for a compensation fee.",
+      "snippet": "They&apos;re said to have cut off their breasts to better draw their bows, and killed their male offspring. What&apos;s true behind the myths surrounding the Amazons?",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Coups and crises shake African democracy",
-      "link": "https://www.dw.com/en/coups-and-crises-shake-african-democracy/a-77328510?maca=en-rss-en-top-1022-rdf",
+      "title": "European Parliament committee votes to scrap US tariffs",
+      "link": "https://www.dw.com/en/european-parliament-committee-votes-to-scrap-us-tariffs/a-77387567?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "When Burkina Faso&apos;s junta leader Ibrahim Traore called for democracy in Africa to be \"forgotten,\" it was more than a provocation — it signaled a political shift across the continent.",
+      "snippet": "US President Donald Trump has threatened to slap higher tariffs on European goods if the EU misses a July 4 deadline to approve a trade deal with Washington.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Can Iran rebuild trust with its Gulf neighbors?",
-      "link": "https://www.dw.com/en/can-iran-rebuild-trust-with-its-gulf-neighbors/a-77378445?maca=en-rss-en-top-1022-rdf",
+      "title": "Middle East updates: US-Iran talks appear to stall again",
+      "link": "https://www.dw.com/en/middle-east-updates-us-iran-talks-appear-to-stall-again/live-77386529?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Mutual suspicion between Iran and Persian Gulf countries is poised to affect regional stability, growth and cooperation years into the future.",
+      "snippet": "An senior Iranian military official has said Tehran \"won&apos;t surrender.\" Also, reports of strikes between Israel and Hezbollah continue after President Donald Trump said \"shooting will stop.\" DW has more.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Mozart the idol: Searching for beauty in times of crisis",
-      "link": "https://www.dw.com/en/mozart-the-idol-searching-for-beauty-in-times-of-crisis/a-77374393?maca=en-rss-en-top-1022-rdf",
+      "title": "Who owns the billions in Germany&apos;s &apos;forgotten accounts&apos;?",
+      "link": "https://www.dw.com/en/who-owns-the-billions-in-germany-s-forgotten-accounts/a-77167930?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Mozart&apos;s music evokes lightness and beauty. In times of war and destruction, people often invoke the ideals of the classical era. But is this just an escape from reality? The Mozartfest Würzburg offers different answers.",
+      "snippet": "Billions of euros sit untouched in Germany&apos;s dormant bank accounts. With heirs unaware and no central register in place, banks and politicians are debating who should ultimately control the money.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Hungary&apos;s PM Peter Magyar moves to oust president",
-      "link": "https://www.dw.com/en/hungary-s-pm-peter-magyar-moves-to-oust-president/a-77376889?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany news: Poverty rises to new high, charity group says",
+      "link": "https://www.dw.com/en/germany-news-poverty-rises-to-new-high-charity-group-says/live-77386205?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Hungary&apos;s new Prime Minister, Peter Magyar, has moved to oust the president, threatening constitutional action. Head of state Tamas Sulyok has refused Magyar&apos;s demand that he resign.",
+      "snippet": "Poverty in Germany appears to be rising, with one charity group warning of a \"crisis-like situation.\" Meanwhile, Hungary&apos;s new prime minister, Peter Magyar, is visiting Chancellor Friedrich Merz in Berlin. DW has more.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "India news: &apos;Cockroach&apos; party founder plans protests",
-      "link": "https://www.dw.com/en/india-news-cockroach-party-founder-plans-protests/live-77369622?maca=en-rss-en-top-1022-rdf",
+      "title": "Israel-Lebanon conflict: Why military pressure isn&apos;t enough",
+      "link": "https://www.dw.com/en/israel-lebanon-conflict-why-military-pressure-isn-t-enough/a-77385437?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Abhijeet Dipke says he will return to India on June 6. Meanwhile, Rahul Gandhi has alleged &apos;fraud&apos; in exam markings, and Virat Kohli has fired Bengaluru to the IPL title. DW has more.",
+      "snippet": "Clashes persist as Israel pushes deeper into Lebanon despite Trump&apos;s ceasefire claims. Experts warn that the offensive is undermining talks with Hezbollah and pushing a political solution further out of reach.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Taiwan opposition leader heads to US",
-      "link": "https://www.dw.com/en/taiwan-opposition-leader-heads-to-us/a-77375444?maca=en-rss-en-top-1022-rdf",
+      "title": "India news: Mamata Banerjee vows to &apos;fight or die&apos; at protest in Kolkata",
+      "link": "https://www.dw.com/en/india-news-mamata-banerjee-vows-to-fight-or-die-at-protest-in-kolkata/live-77385100?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "KMT leader Cheng Li-wun is traveling to the US for a two-week visit. She has indicated she is \"very interested\" in meeting President Donald Trump but could face a grilling over her stance on China relations.",
+      "snippet": "Banerjee accused the BJP-led state government of targeting TMC leaders and forcibly evicting hawkers. DW has more.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Mozambique: Are &apos;death squads&apos; targeting the opposition?",
-      "link": "https://www.dw.com/en/mozambique-are-death-squads-targeting-the-opposition/a-77324093?maca=en-rss-en-top-1022-rdf",
+      "title": "Most new German citizens keep original nationality: survey",
+      "link": "https://www.dw.com/en/most-new-german-citizens-keep-original-nationality-survey/a-77385235?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Deadly violence against opposition politicians has shaken Mozambique. While the government has called the incidents isolated cases, opposition and civil society warn of a pattern of politically motivated assassinations.",
+      "snippet": "Germany&apos;s previous government changed laws to allow dual citizenship. A new survey shows that, one year after that reform, more than 85% of new German citizens are opting to keep their original nationality.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Migration to Germany falls sharply in 2025",
-      "link": "https://www.dw.com/en/germany-news-migration-to-germany-falls-sharply-in-2025/live-77373791?maca=en-rss-en-top-1022-rdf",
+      "title": "Russia launches major missile attack on Ukraine, several killed",
+      "link": "https://www.dw.com/en/russia-launches-major-missile-attack-on-ukraine-several-killed/a-77384025?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Fewer migrants are making their way to Germany, with net migration dropping to nearly half what is was. Meanwhile, a court in Düsseldorf has sentenced a man to life in prison over an Islamist attack. DW has the latest.",
+      "snippet": "Ukraine&apos;s Volodymyr Zelenskyy had been warning residents for days that Russia was planning a major assault. Moscow said it carried out a \"massive\" strike.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "How China keeps North Korea&apos;s economy alive",
-      "link": "https://www.dw.com/en/how-china-keeps-north-korea-s-economy-alive/a-77295494?maca=en-rss-en-top-1022-rdf",
+      "title": "Denmark&apos;s Frederiksen secures third term as prime minister",
+      "link": "https://www.dw.com/en/denmark-s-frederiksen-secures-third-term-as-prime-minister/a-77383696?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Pyongyang relies on China for 95% of its legitimate trade; hacking, arms deals and remittances also help it stay afloat.",
+      "snippet": "After her party&apos;s weakest showing since 1903, Mette Frederiksen spent months negotiating a coalition to stay in power.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Young German talents impress in World Cup tune-up vs Finland",
-      "link": "https://www.dw.com/en/young-german-talents-impress-in-world-cup-tune-up-vs-finland/a-77371601?maca=en-rss-en-top-1022-rdf",
+      "title": "Seeking deal with Iran, Trump promises calm in Lebanon",
+      "link": "https://www.dw.com/en/seeking-deal-with-iran-trump-promises-calm-in-lebanon/a-77383546?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Deniz Undav and Lennart Karl delivered strong performances in Germany&apos;s last game at home before the start of 2026 FIFA World Cup.",
+      "snippet": "US President Donald Trump has said Israel and Hezbollah have agreed that \"all shooting will stop.\" Iran has suspended negotiations as it insists there can be no peace that does not include Lebanon.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "France intercepts Russian-linked oil tanker in Atlantic",
-      "link": "https://www.dw.com/en/france-intercepts-russian-linked-oil-tanker-in-atlantic/a-77369904?maca=en-rss-en-top-1022-rdf",
+      "title": "Ethiopia goes electric following gas car ban",
+      "link": "https://www.dw.com/en/ethiopia-goes-electric-following-gas-car-ban/a-77350158?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "France has intercepted a sanctioned tanker in the Atlantic Ocean as it steps up efforts to target Russia&apos;s \"shadow fleet.\" Naval officials said the ship was sailing under a false flag.",
+      "snippet": "Electric vehicles have taken off in Ethiopia. Key to the shift: a world-first ban on importing fossil fuel-powered vehicles.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "How a German town uses currency to promote emission cutting",
-      "link": "https://www.dw.com/en/how-a-german-town-uses-currency-to-promote-emission-cutting/a-77167075?maca=en-rss-en-top-1022-rdf",
+      "title": "EU reaches deal on &apos;return hubs&apos; for rejected asylum-seekers",
+      "link": "https://www.dw.com/en/eu-reaches-deal-on-return-hubs-for-rejected-asylum-seekers/a-77383177?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "It started as a school project to promote local businesses in a remote Bavarian region. Now, the \"Chiemgauer\" currency helps to cut emissions.",
+      "snippet": "The deal involves sending people whose asylum applications have been rejected to third countries. It still requires formal approval to come into effect.",
       "tier": 2
     }
   ]
