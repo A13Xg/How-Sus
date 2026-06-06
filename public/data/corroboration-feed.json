@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T13:28:32.817Z",
+  "generatedAt": "2026-06-06T01:20:27.635Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,18 +32,26 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
+      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+      "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 05 Jun 2026 18:16:15 GMT",
+      "snippet": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine strikes cargo ships and admits Romania drone blast",
       "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 05 Jun 2026 12:42:18 GMT",
+      "publishedAt": "Fri, 05 Jun 2026 15:29:39 GMT",
       "snippet": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 05 Jun 2026 08:03:23 GMT",
-      "snippet": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+      "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+      "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 05 Jun 2026 21:35:55 GMT",
+      "snippet": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
       "tier": 1
     },
     {
@@ -56,17 +64,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 05 Jun 2026 01:44:16 GMT",
-      "snippet": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
       "link": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 05 Jun 2026 09:37:38 GMT",
+      "publishedAt": "Fri, 05 Jun 2026 16:00:47 GMT",
       "snippet": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities.",
       "tier": 1
     },
@@ -80,18 +80,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
-      "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 05 Jun 2026 05:44:44 GMT",
-      "snippet": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
+      "title": "Three jailed over heist of ancient golden helmet from Dutch museum",
+      "link": "https://www.bbc.com/news/articles/cy020317g1no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 05 Jun 2026 15:41:28 GMT",
+      "snippet": "The men are sentenced to 47 months each for stealing the 2,500-year-old Romanian Coțofenești helmet.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Mangrove forests are healing after decades of human destruction",
-      "link": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 04 Jun 2026 23:11:15 GMT",
-      "snippet": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+      "title": "Norway's crown princess on lung transplant waiting list, palace says",
+      "link": "https://www.bbc.com/news/articles/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 05 Jun 2026 17:11:01 GMT",
+      "snippet": "Mette-Marit's condition, which stiffens the lungs, making it hard to breathe, has deteriorated, the royal household says.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
+      "link": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 05 Jun 2026 19:53:51 GMT",
+      "snippet": "Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+      "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 05 Jun 2026 05:44:44 GMT",
+      "snippet": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
       "tier": 1
     },
     {
@@ -104,14 +120,6 @@
     },
     {
       "source": "BBC World",
-      "title": "China cracks down on soft porn, violence and materialism in viral micro dramas",
-      "link": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 05 Jun 2026 05:16:54 GMT",
-      "snippet": "Micro dramas have surged in popularity, but drawn criticism for often sensationalist content.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
       "link": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 05 Jun 2026 05:17:13 GMT",
@@ -120,50 +128,50 @@
     },
     {
       "source": "BBC World",
+      "title": "Hospitality jobs boom as US prepares for World Cup",
+      "link": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 05 Jun 2026 16:02:17 GMT",
+      "snippet": "It is the third month in a row US jobs figures have beaten expectations.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "link": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 04 Jun 2026 23:11:15 GMT",
+      "snippet": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "China cracks down on soft porn, violence and materialism in viral micro dramas",
+      "link": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 05 Jun 2026 05:16:54 GMT",
+      "snippet": "Micro dramas have surged in popularity, but drawn criticism for often sensationalist content.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Singer Fally Ipupa's pride at being given major DR Congo honour",
+      "link": "https://www.bbc.com/news/articles/clypyd6gj72o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 05 Jun 2026 18:15:42 GMT",
+      "snippet": "He follows the late great Papa Wemba in becoming a knight of the National Order of the Leopard.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 05 Jun 2026 01:44:16 GMT",
+      "snippet": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "US plans to fight flesh-eating screwworm outbreak with flies and dogs",
       "link": "https://www.bbc.com/news/articles/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 05 Jun 2026 00:56:42 GMT",
       "snippet": "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Marilyn Monroe auction features star's make-up and gowns on 100th birthday",
-      "link": "https://www.bbc.com/news/articles/cvgzgd2xe2zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 04 Jun 2026 16:28:40 GMT",
-      "snippet": "The auction has already brought in thousands in bids and includes intimate items from her life.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-      "link": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 04 Jun 2026 14:46:36 GMT",
-      "snippet": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Dutch police investigate suspected drugging and sexual assault of multiple women",
-      "link": "https://www.bbc.com/news/articles/cp8p8e1gnx7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 04 Jun 2026 17:48:36 GMT",
-      "snippet": "Police raided the suspects' homes after tip-offs from German and UK authorities.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56",
-      "link": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 04 Jun 2026 13:29:05 GMT",
-      "snippet": "The French-Iranian author and illustrator was known for her graphic novel series and Oscar-nominated film.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-      "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 04 Jun 2026 17:50:20 GMT",
-      "snippet": "Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security officials.",
       "tier": 1
     },
     {
@@ -183,11 +191,67 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Here's why counting votes in California is taking so long",
-      "link": "https://www.bbc.com/news/articles/c2020jrpxz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 04 Jun 2026 22:20:24 GMT",
-      "snippet": "It could take weeks - or even a month - before we know who won elections in California and Los Angeles.",
+      "source": "NPR News",
+      "title": "Democrat Xavier Becerra wins the top spot in November&apos;s race for California governor",
+      "link": "https://www.npr.org/2026/06/05/nx-s1-5845847/xavier-becerra-california-governor-hilton-steyer-newsom",
+      "publishedAt": "Fri, 05 Jun 2026 20:42:57 -0400",
+      "snippet": "Former Health and Human Services Secretary Xavier Becerra has clinched the top spot on California&apos;s ballot for governor. With millions of ballots still to be counted, his November challenger is unknown.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "After D.C.&apos;s Reflecting Pool gets repainted, visitors ask: What changed?",
+      "link": "https://www.npr.org/2026/06/05/nx-s1-5847818/reflecting-pool-repaint-refill",
+      "publishedAt": "Fri, 05 Jun 2026 17:12:38 -0400",
+      "snippet": "The Lincoln Memorial Reflecting Pool is refilling after President Trump had it painted \"American flag blue.\" Some visitors say the results of the project — which reportedly cost millions — are subtle.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "CDC report: Ebola outbreak could rival the worst on record unless world acts",
+      "link": "https://www.npr.org/2026/06/05/nx-s1-5848082/ebola-virus-cdc-outbreak-democratic-republic-congo-uganda",
+      "publishedAt": "Fri, 05 Jun 2026 16:35:06 -0400",
+      "snippet": "New modeling from the CDC shows that if measures aren&apos;t taken immediately, this outbreak could sicken more than 20,000 people in the next three months.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Graham Platner isn&apos;t going anywhere in Maine Senate race after latest controversy",
+      "link": "https://www.npr.org/2026/06/05/nx-s1-5847926/platner-controversy-senate-maine-primary-election",
+      "publishedAt": "Fri, 05 Jun 2026 16:16:06 -0400",
+      "snippet": "Graham Platner is denying accusations of being physically rough with former girlfriends saying that report in The New York Times and other controversies are a sign his campaign is gaining momentum.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Xi Jinping will travel to North Korea next week in first visit since 2019",
+      "link": "https://www.npr.org/2026/06/05/g-s1-126481/xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019",
+      "publishedAt": "Fri, 05 Jun 2026 13:03:13 -0400",
+      "snippet": "The announcement was made by both countries Friday a day after North Korea unveiled a new facility to produce nuclear fuel.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "South Africa rolls out game-changing HIV shot amid funding shortfalls",
+      "link": "https://www.npr.org/2026/06/05/nx-s1-5846846/south-africa-hiv-lenacapavir-aid",
+      "publishedAt": "Fri, 05 Jun 2026 10:53:26 -0400",
+      "snippet": "A new twice-yearly HIV prevention injection could transform South Africa&apos;s fight against the epidemic — but U.S. aid cuts and limited doses threaten to slow its impact.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "The U.S. adds 172,000 jobs. Many are in restaurants, bars and hotels",
+      "link": "https://www.npr.org/2026/06/05/nx-s1-5847669/jobs-labor-market-unemployment-wages-inflation",
+      "publishedAt": "Fri, 05 Jun 2026 10:20:37 -0400",
+      "snippet": "U.S. employers added jobs for the third month in a row in May, while the unemployment rate held steady at 4.3%. But wage gains softened and likely failed to keep pace with rising prices.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "China&apos;s highest bridge brings tourists and internet access to remote communities",
+      "link": "https://www.npr.org/2026/06/05/g-s1-126304/chinas-highest-bridge-brings-tourists-and-internet-access-to-remote-communities",
+      "publishedAt": "Fri, 05 Jun 2026 10:01:51 -0400",
+      "snippet": "A link to the highway that cuts travel times from hours to just minutes, and a symbol of a flow of investment that has provided unprecedented access to high-speed internet in this remote region.",
       "tier": 1
     },
     {
@@ -207,227 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Senate Republicans pass immigration funding after overnight vote",
-      "link": "https://www.npr.org/2026/06/05/nx-s1-5846807/senate-weaponization-fund-reconciliation-vote-immigration-enforcement",
-      "publishedAt": "Fri, 05 Jun 2026 06:38:58 -0400",
-      "snippet": "After a marathon 18-hour vote, the Senate has funded immigration enforcement. The GOP bill funds ICE and the Border Patrol for three years.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Senate passes $70B immigration enforcement bill without limits on Trump settlement fund",
-      "link": "https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund",
-      "publishedAt": "Fri, 05 Jun 2026 05:15:02 -0400",
-      "snippet": "The Senate passed legislation to fund President Donald Trump&apos;s immigration enforcement agencies early Friday morning, after weeks of delays and fierce backlash to an unrelated $1.776 billion settlement fund that threatened to derail the bill.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "The quiz tracked Trump&apos;s wins and losses this week. Can you win bigly?",
-      "link": "https://www.npr.org/2026/06/05/g-s1-125936/santos-trump-anthropic-doj-united-airlines-news-quiz",
-      "publishedAt": "Fri, 05 Jun 2026 05:02:00 -0400",
-      "snippet": "Plus, Serena Williams, Peabo Bryson, Kalshi and United Airlines make an appearance. Have you been paying attention?",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "My husband planned our &apos;just us&apos; trip and it was perfect. Here&apos;s why it worked",
-      "link": "https://www.npr.org/2026/06/05/nx-s1-5846557/plan-successful-couples-trip-romantic-getaway",
-      "publishedAt": "Fri, 05 Jun 2026 05:00:00 -0400",
-      "snippet": "For a smooth, rewarding and drama-free couples trip, take as much stress out of the equation as you can — and get comfortable with the fact that a fight may arise (and that&apos;s OK).",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "The Supreme Court has left limited alternatives for protecting minority voting rights",
-      "link": "https://www.npr.org/2026/06/05/nx-s1-5836682/supreme-court-voting-rights-act-state-redistricting",
-      "publishedAt": "Fri, 05 Jun 2026 05:00:00 -0400",
-      "snippet": "After a major Supreme Court ruling, state-level voting rights acts and redistricting strategies in Democratic-led states are among the limited ways left for protecting racial-minority voters&apos; power.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Most K-12 teachers say AI&apos;s impact on education will eclipse the internet or computers",
-      "link": "https://www.npr.org/2026/06/05/nx-s1-5779757/school-ai-education-students-teachers-poll-critical-thinking",
-      "publishedAt": "Fri, 05 Jun 2026 05:00:00 -0400",
-      "snippet": "A new NPR/Ipsos poll shows many teachers are using AI to save time, but a majority are also worried the technology is making it harder for students to learn to think for themselves.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Scientists in &apos;autonomous laboratories&apos; are starting to outsource work to robots",
-      "link": "https://www.npr.org/2026/06/05/nx-s1-5846973/ai-science-robots-risks-experiments-gingko-bioworks",
-      "publishedAt": "Fri, 05 Jun 2026 05:00:00 -0400",
-      "snippet": "Scientists are building autonomous robotic labs powered by artificial intelligence. The goal, they say, is for these robots to take over human researchers&apos; most laborious, time-consuming tasks.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "A global World Cup tradition catches fire in the U.S.: Panini sticker collecting",
-      "link": "https://www.npr.org/2026/06/05/nx-s1-5844319/world-cup-2026-panini-stickers-album",
-      "publishedAt": "Fri, 05 Jun 2026 05:00:00 -0400",
-      "snippet": "Collecting Panini stickers is a World Cup tradition beloved in Europe and Latin America. In the U.S., interest has been building steadily, and this summer, the buzz is bigger than ever.",
+      "source": "PBS Headlines",
+      "title": "Why hiring surged in May despite economic strain from the Iran war",
+      "link": "https://www.pbs.org/newshour/show/why-hiring-surged-in-may-despite-economic-strain-from-the-iran-war",
+      "publishedAt": "Fri, 05 Jun 2026 18:55:32 -0400",
+      "snippet": "There was surprising strength in the latest U.S. jobs report. Employers added 172,000 jobs in May, the third straight month of job gains. Overall, the labor market appears strong despite concerns about the Iran war, rising prices and artificial intelligence. Amna Nawaz speaks wit",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "House passes bill to provide more Ukraine aid and impose new sanctions on Russia",
-      "link": "https://www.pbs.org/newshour/politics/house-passes-bill-to-provide-more-ukraine-aid-and-impose-new-sanctions-on-russia",
-      "publishedAt": "Thu, 04 Jun 2026 20:36:56 -0400",
-      "snippet": "The 226-195 vote is a sign of impatience with President Donald Trump's approach to the war and represents the House's second major foreign policy break with Trump this week.",
+      "title": "What may happen as oil supplies dwindle and Strait of Hormuz remains mostly closed",
+      "link": "https://www.pbs.org/newshour/show/what-may-happen-as-oil-supplies-dwindle-and-strait-of-hormuz-remains-mostly-closed",
+      "publishedAt": "Fri, 05 Jun 2026 18:50:31 -0400",
+      "snippet": "As U.S.-Iran talks show little sign of progress, commercial traffic through the Strait of Hormuz remains sharply reduced, raising concerns about global energy markets and supply chains. Geoff Bennett speaks with energy analyst Daniel Yergin, vice chairman of S&P Global, for more ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Some Republican governors are rebranding Pride Month with conservative alternatives",
-      "link": "https://www.pbs.org/newshour/nation/some-republican-governors-are-rebranding-pride-month-with-conservative-alternatives",
-      "publishedAt": "Thu, 04 Jun 2026 20:23:05 -0400",
-      "snippet": "June is widely recognized as Pride Month, but a handful of Republican governors have bestowed alternative titles that both supporters and opponents view as counterprogramming.",
+      "title": "News Wrap: Senate passes $70 billion immigration enforcement bill",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-senate-passes-70-billion-immigration-enforcement-bill",
+      "publishedAt": "Fri, 05 Jun 2026 18:45:12 -0400",
+      "snippet": "In our news wrap Friday, Senate Republicans passed a $70 billion bill to fund immigration enforcement, Trump said he wants his new acting director of national intelligence to slash the agency's staffing, a federal judge struck down the Trump administration's immigration processin",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Homicide convictions reversed for paramedics who injected Elijah McClain with ketamine",
-      "link": "https://www.pbs.org/newshour/nation/homicide-convictions-reversed-for-paramedics-who-injected-elijah-mcclain-with-ketamine",
-      "publishedAt": "Thu, 04 Jun 2026 19:55:32 -0400",
-      "snippet": "McClain's final words — \"I can't breathe\" — foreshadowed those of George Floyd a year later in Minneapolis, and the Colorado man's name became part of the rallying cries for social justice that swept the U.S. in 2020.",
+      "title": "What Putin's rejection of Ukraine's call for talks means for efforts to end Russia's war",
+      "link": "https://www.pbs.org/newshour/show/what-putins-rejection-of-ukraines-call-for-talks-means-for-efforts-to-end-russias-war",
+      "publishedAt": "Fri, 05 Jun 2026 18:40:55 -0400",
+      "snippet": "Ukrainian President Zelenskyy is accusing Russia of choosing war over peace, after Russian President Putin rejected his request for an in-person meeting. Putin spoke at an annual economic forum in St. Petersburg, a city on edge after several Ukrainian airstrikes earlier this week",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump's limits are tested after some Republicans push back",
-      "link": "https://www.pbs.org/newshour/show/trumps-limits-are-tested-after-some-republicans-push-back",
-      "publishedAt": "Thu, 04 Jun 2026 18:55:18 -0400",
-      "snippet": "The Senate is in the midst of voting on $72 billion of funding for Immigration and Customs Enforcement as well as the Department of Homeland Security. The package has been held up for months with amendment votes expected to run well into the night. But it's still unclear whether ",
+      "title": "Brooks and Capehart on some Republican lawmakers' defiance of Trump",
+      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-some-republican-lawmakers-defiance-of-trump",
+      "publishedAt": "Fri, 05 Jun 2026 18:35:32 -0400",
+      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including Republican defiance of President Donald Trump and fresh scandals in a key Senate race.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Former Trump adviser John Bolton to plead guilty over classified information",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-former-trump-adviser-john-bolton-to-plead-guilty-over-classified-information",
-      "publishedAt": "Thu, 04 Jun 2026 18:45:53 -0400",
-      "snippet": "In our news wrap Thursday, President Trump's former national security adviser John Bolton agreed to plead guilty to a felony count of illegally retaining classified information, U.S. officials say a flesh-eating insect detected in Texas livestock has not spread, Hezbollah rejects",
+      "title": "Art exhibit shines light on women's role in technologies that power modern life",
+      "link": "https://www.pbs.org/newshour/show/art-exhibit-shines-light-on-womens-role-in-technologies-that-power-modern-life",
+      "publishedAt": "Fri, 05 Jun 2026 18:30:15 -0400",
+      "snippet": "Women have played a vital role in building the technologies that shape modern life, but their contributions have at times been overlooked, minimized or left out of the historical record. A new art exhibition seeks to tell a fuller story. Special correspondent Mike Cerre reports f",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump's name must be removed from Kennedy Center by June 12, memo to staff says",
-      "link": "https://www.pbs.org/newshour/politics/trumps-name-must-be-removed-from-kennedy-center-by-june-12-memo-to-staff-says",
-      "publishedAt": "Thu, 04 Jun 2026 18:43:39 -0400",
-      "snippet": "President Donald Trump's name must come off the Kennedy Center by June 12, according to a memo issued to the national arts center staff Thursday following a court ruling that found the rebrand was illegal.",
+      "title": "This chef will teach you how to make healthy $5 family dinners",
+      "link": "https://www.pbs.org/newshour/show/this-chef-will-teach-you-how-to-make-healthy-5-family-dinners",
+      "publishedAt": "Fri, 05 Jun 2026 18:25:48 -0400",
+      "snippet": "With rising grocery prices, many Americans are struggling to provide healthy, complete meals for their families. One chef is teaching his TikTok followers how to eat well on a budget, one $5 meal at a time. Deema Zein reports.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "New proposal would give Trump officials more control over scientific research grants",
-      "link": "https://www.pbs.org/newshour/show/new-proposal-would-give-trump-officials-more-control-over-scientific-research-grants",
-      "publishedAt": "Thu, 04 Jun 2026 18:40:29 -0400",
-      "snippet": "The Trump administration is proposing a sweeping overhaul on how the federal government awards billions of dollars in research grants. But researchers say it could allow the administration to limit and exert more control over critical scientific research. Craig McLean, the former",
+      "title": "Energy Department says advanced nuclear reactor first to reach critical milestone",
+      "link": "https://www.pbs.org/newshour/nation/energy-department-says-advanced-nuclear-reactor-first-to-reach-critical-milestone",
+      "publishedAt": "Fri, 05 Jun 2026 17:48:27 -0400",
+      "snippet": "The milestone occurs when a nuclear reactor achieves a self-sustaining chain reaction capable of producing a steady release of energy.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "College graduates begin their job search in a world being transformed by AI",
-      "link": "https://www.pbs.org/newshour/show/college-graduates-begin-their-job-search-in-a-world-being-transformed-by-ai",
-      "publishedAt": "Thu, 04 Jun 2026 18:35:20 -0400",
-      "snippet": "We are in commencement season, when graduates look back on their accomplishments and look ahead to their future ambitions. But shifts in the economy and the anxiety around it are changing how this generation sees their prospects. Ali Rogin speaks with New York Times reporter Jodi",
+      "title": "As states face stricter Medicaid work requirements, Nebraska is an early test",
+      "link": "https://www.pbs.org/newshour/nation/as-states-face-stricter-medicaid-work-requirements-nebraska-is-an-early-test",
+      "publishedAt": "Fri, 05 Jun 2026 17:00:45 -0400",
+      "snippet": "Millions are likely to lose coverage as states begin complying with the new federal rules.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Rep. Brian Fitzpatrick on what's driving a wedge between some Republicans and Trump",
-      "link": "https://www.pbs.org/newshour/show/rep-brian-fitzpatrick-on-whats-driving-a-wedge-between-some-republicans-and-trump",
-      "publishedAt": "Thu, 04 Jun 2026 18:33:09 -0400",
-      "snippet": "The U.S. House on Wednesday voted to limit President Trump from further military action in Iran. One of the Republicans who voted for that resolution is Rep. Brian Fitzpatrick of Pennsylvania. He joins Amna Nawaz to discuss his vote and a recent proposal to spend nearly $2 billio",
+      "title": "Trump's deportation agenda is about to get a $70B infusion from Congress",
+      "link": "https://www.pbs.org/newshour/politics/trumps-deportation-agenda-is-about-to-get-a-70b-infusion-from-congress",
+      "publishedAt": "Fri, 05 Jun 2026 16:12:28 -0400",
+      "snippet": "For those aligned with Trump's campaign promise for the largest mass deportation operation in U.S. history, it all but guarantees an uninterrupted flow of money to carry out the administration's immigration enforcement operations — and comes on top of some $170 billion Congress a",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Musical phenom introduces an old instrument to new audiences",
-      "link": "https://www.pbs.org/newshour/show/musical-phenom-introduces-an-old-instrument-to-new-audiences",
-      "publishedAt": "Thu, 04 Jun 2026 18:30:52 -0400",
-      "snippet": "The pipe organ is typically associated with formal concert halls, church music and traditional works by Baroque composers like Bach. But one musician, Anna Lapwood, is broadening the instrument's reputation and has gotten millions of people to tune in. Jeffrey Brown and Maine Pub",
+      "title": "WATCH LIVE: Trump holds roundtable with farmers in Wisconsin",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-roundtable-with-farmers-in-wisconsin",
+      "publishedAt": "Fri, 05 Jun 2026 15:13:36 -0400",
+      "snippet": "The stop on Friday for a farmer-focused round table in Chippewa Falls marks the first time President Donald Trump has visited Wisconsin in his second term.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What is El Ni&ntilde;o and how could it affect weather this year?",
-      "link": "https://www.pbs.org/newshour/science/what-is-el-nino-and-how-could-it-affect-weather-this-year",
-      "publishedAt": "Thu, 04 Jun 2026 18:28:02 -0400",
-      "snippet": "A strong El Niño this year, colloquially dubbed a super El Niño, could lead to extreme weather events — from heavy rainfall to exacerbated droughts.",
+      "title": "U.S. job market is strong, but many Americans still frustrated by prospects and rising prices",
+      "link": "https://www.pbs.org/newshour/economy/u-s-job-market-is-strong-but-many-americans-still-frustrated-by-prospects-and-rising-prices",
+      "publishedAt": "Fri, 05 Jun 2026 14:52:56 -0400",
+      "snippet": "With just five months to go before consequential midterm elections in the U.S., Americans have grown increasingly frustrated by rising costs, and it's unclear if the strong job numbers this year will change their gloomy view of the economy.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "ICE arrest in a rural Montana town prompts a conservative community to take action",
-      "link": "https://www.pbs.org/newshour/show/ice-arrest-in-a-rural-montana-town-prompts-a-conservative-community-to-take-action",
-      "publishedAt": "Thu, 04 Jun 2026 18:25:06 -0400",
-      "snippet": "In a northeastern corner of Montana sits the small town of Froid. Rural and deeply conservative, it backed President Trump during every one of his White House runs. But earlier this year, when federal immigration agents detained one of the town's longtime residents, this tight kn",
+      "title": "Trump's troop reversals in Europe could cost taxpayers millions, officials say",
+      "link": "https://www.pbs.org/newshour/politics/trumps-troop-reversals-in-europe-could-cost-taxpayers-millions-officials-say",
+      "publishedAt": "Fri, 05 Jun 2026 14:21:12 -0400",
+      "snippet": "The U.S. military is waiting for clarity from the Pentagon following President Donald Trump's back-and-forth on troop levels in Europe, upending the lives of military personnel and potentially costing taxpayers millions of dollars, two U.S. defense officials told The Associated P",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Putin says Russia will bolster its air defenses against Ukraine's long-range drone strikes",
-      "link": "https://www.pbs.org/newshour/world/putin-says-russia-will-bolster-its-air-defenses-against-ukraines-long-range-drone-strikes",
-      "publishedAt": "Thu, 04 Jun 2026 17:52:17 -0400",
-      "snippet": "President Vladimir Putin said Thursday that Russia will strengthen its air defenses to counter recent Ukrainian drone attacks, which have reached deep inside his country and cast a cloud over his showcase economic forum in his hometown of St. Petersburg.",
+      "title": "Judge strikes down Trump policy that halted asylum decisions for 39 countries",
+      "link": "https://www.pbs.org/newshour/politics/judge-strikes-down-trump-policy-that-halted-asylum-decisions-for-39-countries",
+      "publishedAt": "Fri, 05 Jun 2026 13:58:05 -0400",
+      "snippet": "A federal judge on Friday struck down a Trump administration policy enacted after the shooting of two National Guard members that made it harder for immigrants from dozens of countries to stay and enter the U.S.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Capital Planning Commission seeks more info on proposed 'Trump arch' after public comment session",
-      "link": "https://www.pbs.org/newshour/politics/watch-capital-planning-commission-seeks-more-info-on-proposed-trump-arch-after-public-comment-session",
-      "publishedAt": "Thu, 04 Jun 2026 17:44:43 -0400",
-      "snippet": "The vote came after nearly three hours of public comment from about 20 members of the public, some representing historic and architectural organizations, and most of whom expressed concerns about the arch that is one of several projects the Republican president is pursuing to lea",
+      "title": "What to know about the New World screwworm fly and its U.S. reappearance",
+      "link": "https://www.pbs.org/newshour/nation/what-to-know-about-the-new-world-screwworm-fly-and-its-u-s-reappearance",
+      "publishedAt": "Fri, 05 Jun 2026 13:48:27 -0400",
+      "snippet": "The New World screwworm fly is threatening the $113 billion U.S. cattle industry for the first time in more than a half century, with an infestation from its flesh-eating larvae confirmed in south Texas.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "U.S. sanctions Cuban President D&iacute;az-Canel in latest move pressuring island's leadership",
-      "link": "https://www.pbs.org/newshour/world/u-s-sanctions-cuban-president-diaz-canel-in-latest-move-pressuring-islands-leadership",
-      "publishedAt": "Thu, 04 Jun 2026 17:37:49 -0400",
-      "snippet": "The sanctions come after Trump signed an executive order expanding sanctions against the island and has been threatening military action ever since ousting Venezuelan leader Nicolás Maduro in January and then ordering an energy blockade that choked off fuel shipments to Cuba.",
+      "title": "Anthony Head, British actor known for 'Buffy the Vampire Slayer,' dies at 72",
+      "link": "https://www.pbs.org/newshour/arts/anthony-head-british-actor-known-for-buffy-the-vampire-slayer-dies-at-72",
+      "publishedAt": "Fri, 05 Jun 2026 13:17:38 -0400",
+      "snippet": "Head achieved U.S. fame as librarian Rupert Giles, mentor to the title character in the cult-favorite supernatural series \"Buffy the Vampire Slayer,\" which ran from 1997 to 2003.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Energy, water use and pollution of AI and data centers rival most countries",
-      "link": "https://www.pbs.org/newshour/science/energy-water-use-and-pollution-of-ai-and-data-centers-rival-most-countries",
-      "publishedAt": "Thu, 04 Jun 2026 17:16:29 -0400",
-      "snippet": "If data centers were a country, the country would be projected to rank sixth-highest in power use in 2030.",
+      "title": "Former Prince Andrew made money subletting cottages on his rent-free estate, report shows",
+      "link": "https://www.pbs.org/newshour/world/former-prince-andrew-made-money-subletting-cottages-on-his-rent-free-estate-report-shows",
+      "publishedAt": "Fri, 05 Jun 2026 12:31:47 -0400",
+      "snippet": "The National Audit Office report said Andrew Mountbatten-Windsor received income from renting out the cottages on the Royal Lodge estate, his home near Windsor Castle for more than 20 years. A lease for Royal Lodge signed in 2003 shows he paid only a nominal fee known as a \"peppe",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "NASA declares its Mars Maven spacecraft dead after 6 months of silence",
-      "link": "https://www.pbs.org/newshour/science/nasa-declares-its-mars-maven-spacecraft-dead-after-6-months-of-silence",
-      "publishedAt": "Thu, 04 Jun 2026 17:12:53 -0400",
-      "snippet": "The space agency confirmed Wednesday that the mission had ended after more than a decade of observations.",
+      "title": "Treasury warns banks of 'red flags' tied to customers in the U.S. illegally",
+      "link": "https://www.pbs.org/newshour/economy/treasury-warns-banks-of-red-flags-tied-to-customers-in-the-us-illegally",
+      "publishedAt": "Fri, 05 Jun 2026 12:21:52 -0400",
+      "snippet": "The Financial Crimes Enforcement Network — also known a FinCEN — issued an advisory Friday to banks that tells them to watch out for identity theft, payroll tax fraud, and money laundering schemes tied to hiring unauthorized workers.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "North Korea unveils new facility to produce fuel for nuclear weapons",
-      "link": "https://www.pbs.org/newshour/world/north-korea-unveils-new-facility-to-produce-fuel-for-nuclear-weapons",
-      "publishedAt": "Thu, 04 Jun 2026 17:07:19 -0400",
-      "snippet": "The nuclear plant's disclosure implies that leader Kim Jong Un is eager to cement his country's status as a nuclear power.",
+      "title": "Graham Platner to hold Maine rally with Rep. Ro Khanna as scandals shake up campaign",
+      "link": "https://www.pbs.org/newshour/politics/graham-platner-to-hold-maine-rally-with-rep-ro-khanna-as-scandals-shake-up-campaign",
+      "publishedAt": "Fri, 05 Jun 2026 12:13:14 -0400",
+      "snippet": "Last weekend, his campaign wrestled with stories about sexually explicit messages that Platner sent to several women while he was married. Then on Thursday, The New York Times reported about his relationships with previous girlfriends. Some viewed him positively but others descri",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Trump says Pulte isn't 'permanent' pick for national intelligence chief after GOP pushback",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-pulte-isnt-permanent-pick-for-national-intelligence-chief-after-gop-pushback",
-      "publishedAt": "Thu, 04 Jun 2026 17:04:04 -0400",
-      "snippet": "The president's pick of Pulte to be the acting director of national intelligence has triggered pushback from some Republican and Democratic senators.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "California's slow ballot count makes it a target for critics. It doesn't mean elections are rigged",
-      "link": "https://www.pbs.org/newshour/politics/californias-slow-ballot-count-makes-it-a-target-for-critics-it-doesnt-mean-elections-are-rigged",
-      "publishedAt": "Thu, 04 Jun 2026 16:49:06 -0400",
-      "snippet": "Days after the state's primary, California voters are in a familiar position -- waiting to find out which candidates will go on to the general election in their most high-profile races, for governor and Los Angeles mayor.",
+      "title": "NASA orders astronauts to take shelter after new leak aboard the International Space Station",
+      "link": "https://www.pbs.org/newshour/science/nasa-orders-astronauts-to-take-shelter-after-new-leak-aboard-the-international-space-station",
+      "publishedAt": "Fri, 05 Jun 2026 11:50:35 -0400",
+      "snippet": "The five astronauts moved into the SpaceX capsule that is docked at the station while cosmonauts worked to fix the leak, which is on the Russian side of the orbiting laboratory.",
       "tier": 1
     },
     {
@@ -440,10 +440,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "US Senate passes $70 billion funding for ICE, Border Patrol",
-      "link": "https://www.dw.com/en/us-senate-passes-70-billion-funding-for-ice-border-patrol/a-77435289?maca=en-rss-en-top-1022-rdf",
+      "title": "EU leaders at Balkan summit optimistic about rapid expansion",
+      "link": "https://www.dw.com/en/eu-leaders-at-balkan-summit-optimistic-about-rapid-expansion/a-77432224?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Senators voted 52-47 to approve funds set to finance the immigration forces for another three years, through the rest of Donald Trump&apos;s term. The bill still needs to clear the House; that vote is expected next week.",
+      "snippet": "German Chancellor Merz has said he wants Western Balkan countries to be better integrated into the EU as they seek full membership. Commission head Von der Leyen called for a \"faster\" enlargement process.",
       "tier": 2
     },
     {
@@ -452,6 +452,70 @@
       "link": "https://www.dw.com/en/germany-s-iran-war-lessons-after-100-days/a-77433873?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The war waged by the US and Israel against Iran has now lasted 100 days. In that time, German Chancellor Friedrich Merz has drastically changed his stance on the war.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Finland: 4 suspects in sabotage of undersea cable link with Estonia",
+      "link": "https://www.dw.com/en/finland-4-suspects-in-sabotage-of-undersea-cable-link-with-estonia/a-77440069?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Police say they have four suspects, three facing a travel ban, after investigations into the sabotage of two subsea telecommunication cables in the Baltic Sea late last year. Prosecutors will decide on the next steps.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How disinformation in Congo is worsening Ebola epidemic",
+      "link": "https://www.dw.com/en/how-disinformation-in-congo-is-worsening-ebola-epidemic/a-77434273?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The deadly Ebola variant isn&apos;t the only thing causing concern for health workers in Congo. Rumors and disinformation are hindering efforts to contain the virus. The patterns are well-known — and could be confronted.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "North Korea quietly ramps up its nuclear program",
+      "link": "https://www.dw.com/en/north-korea-quietly-ramps-up-its-nuclear-program/a-77438060?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "With Washington&apos;s attention elsewhere, North Korea has slowly been building up its nuclear weapons program. This week, Kim Jong Un took a publicity tour of a new nuclear fuel facility while promising to build more bombs.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ethiopia: An election without a real challenge?",
+      "link": "https://www.dw.com/en/ethiopia-an-election-without-a-real-challenge/a-77435414?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ethiopia&apos;s ruling Prosperity Party is set for a decisive election win despite security challenges, a divided opposition and some regions not voting.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Kosovo general election: the cost of political polarization",
+      "link": "https://www.dw.com/en/kosovo-general-election-the-cost-of-political-polarization/a-77390725?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Sunday&apos;s election in Kosovo — the third in under 16 months — is marked by a clash between former allies PM Albin Kurti and ex-President Vjosa Osmani, deadlock in the dialogue with Serbia and obstacles to EU integration.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why businesses are offering &apos;Quiet Hour&apos;",
+      "link": "https://www.dw.com/en/why-businesses-are-offering-quiet-hour/a-77431877?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "More peace and quiet, less stress — the Quiet Hour is an initiative for people with invisible disabilities. An increasing number of stores and institutions in Germany are launching similar campaigns.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran at war: Stability masks deepening crises",
+      "link": "https://www.dw.com/en/iran-at-war-stability-masks-deepening-crises/a-77436037?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "One hundred days after the start of the Iran war, the Islamic Republic appears stable. But beneath the surface, economic strain, social unrest and growing repression point to deeper instability.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US Senate passes $70 billion funding for ICE, Border Patrol",
+      "link": "https://www.dw.com/en/us-senate-passes-70-billion-funding-for-ice-border-patrol/a-77435289?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Senators voted 52-47 to approve funds set to finance the immigration forces for another three years, through the rest of Donald Trump&apos;s term. The bill still needs to clear the House; that vote is expected next week.",
       "tier": 2
     },
     {
@@ -496,14 +560,6 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "EU to advance expansion plans at Balkans summit",
-      "link": "https://www.dw.com/en/eu-to-advance-expansion-plans-at-balkans-summit/a-77432224?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "European leaders are gathering in Montenegro with EU expansion high on the agenda. Montenegro is a leading candidate for accession while, further east, Ukraine and Moldova also harbor ambitions.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Australia seizes 100,000 illegal cockroaches in record bug bust",
       "link": "https://www.dw.com/en/australia-seizes-100-000-illegal-cockroaches-in-record-bug-bust/a-77430930?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -515,7 +571,7 @@
       "title": "India news: Putin hails Delhi ties, Trump calls Modi &apos;good friend&apos;",
       "link": "https://www.dw.com/en/india-news-putin-hails-delhi-ties-trump-calls-modi-good-friend/live-77429579?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Russian leader Vladimir Putin said that India’s cooperation with the US won&apos;t harm India-Russia relations, while US President Donald Trump said he has a \"good relationship\" with Prime Minister Narendra Modi. DW has more.",
+      "snippet": "Russian leader Vladimir Putin said that India’s cooperation with the US won&apos;t harm India-Russia relations, while US President Donald Trump said he has a \"good relationship\" with Prime Minister Narendra Modi.",
       "tier": 2
     },
     {
@@ -532,62 +588,6 @@
       "link": "https://www.dw.com/en/what-are-europe-s-alternatives-to-instagram-tiktok-and-x/a-77398242?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "As criticism of Instagram, TikTok and X grows in the EU, developers have been working on European social media apps. But can they compete? DW answers the key questions.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Dutch police arrest 4 men over drugging, rape of partners",
-      "link": "https://www.dw.com/en/dutch-police-arrest-4-men-over-drugging-rape-of-partners/a-77427504?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The men allegedly filmed the sexual assaults and shared the footage. The case is reminiscent of that of French woman Gisele Pelicot.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Mali junta offers $3.5M reward for Sahel al-Qaeda leader",
-      "link": "https://www.dw.com/en/mali-junta-offers-3-5m-reward-for-sahel-al-qaeda-leader/a-77427422?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Mali&apos;s military government is offering $3.5 million for information leading to the arrest or killing of Iyad Ag Ghaly. The junta is also offering ​smaller rewards for other suspects, including Tuareg separatists.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine&apos;s Zelenskyy proposes Putin meeting on ending war",
-      "link": "https://www.dw.com/en/ukraine-s-zelenskyy-proposes-putin-meeting-on-ending-war/a-77427312?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The leaders of Russia and Ukraine have both signaled confidence, and willingness to talk. Putin shows no sign of backing off from his demands, while Zelenskyy said Ukraine would keep fighting for \"survival.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump critic John Bolton to plead guilty in documents case",
-      "link": "https://www.dw.com/en/trump-critic-john-bolton-to-plead-guilty-in-documents-case/a-77424814?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Donald Trump&apos;s former national security adviser-turned critic is accused of mishandling classified ⁠documents while he wrote an unflattering memoir about Trump&apos;s first term.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "German asylum benefits cuts violate EU law, top court rules",
-      "link": "https://www.dw.com/en/german-asylum-benefits-cuts-violate-eu-law-top-court-rules/a-77424233?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In a victory for rejected asylum-seekers, the European Court of Justice has ruled they must be given more than just the bare minimum to survive. But as the EU&apos;s new migration pact kicks in, will relief be short-lived?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU seeking ways to speed up Western Balkans membership",
-      "link": "https://www.dw.com/en/eu-seeking-ways-to-speed-up-western-balkans-membership/a-77424398?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "European Council President Antonio Costa said new ways need to be found to speed up Western Balkans membership in the EU. His comments come ahead of an upcoming summit in Montenegro.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why Yad Vashem is coming to Germany",
-      "link": "https://www.dw.com/en/why-yad-vashem-is-coming-to-germany/a-77416080?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "\"Remember\" — every child in Israel knows the meaning of this Jewish commandment: Never forget the Holocaust. Now Yad Vashem wants to make sure people in Germany remember it too.",
       "tier": 2
     }
   ]
