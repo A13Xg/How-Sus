@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T13:51:09.997Z",
+  "generatedAt": "2026-06-09T01:20:08.477Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,17 +32,41 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Iran releases footage of missiles launched at Israel",
-      "link": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 08 Jun 2026 07:26:45 GMT",
-      "snippet": "Iran said its attacks were \"the beginning of a full week of continuous strikes.\"",
+      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+      "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 08 Jun 2026 22:47:29 GMT",
+      "snippet": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "At least 32 dead after major earthquake strikes southern Philippines",
+      "title": "Watch: Trump tells BBC Netanyahu did not defy him",
+      "link": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 08 Jun 2026 22:34:25 GMT",
+      "snippet": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel and Iran flare-up tests Trump's grip and could strengthen Tehran's negotiating hand",
+      "link": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 08 Jun 2026 23:50:59 GMT",
+      "snippet": "The web of fractious alliances and dysfunctional ceasefires shows how destabilised the region remains.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+      "link": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 08 Jun 2026 23:22:17 GMT",
+      "snippet": "SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 35 dead after major earthquake strikes southern Philippines",
       "link": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 08 Jun 2026 11:10:07 GMT",
+      "publishedAt": "Mon, 08 Jun 2026 17:28:40 GMT",
       "snippet": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.",
       "tier": 1
     },
@@ -56,30 +80,6 @@
     },
     {
       "source": "BBC World",
-      "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
-      "link": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 07 Jun 2026 23:00:27 GMT",
-      "snippet": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Knicks' long-awaited NBA run electrifies NYC, with Trump set to attend key game",
-      "link": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 08 Jun 2026 09:08:59 GMT",
-      "snippet": "The Knicks' stunning winning streak has energised the city as the New York basketball team prepares for the third game of the finals series at its home arena.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Rare footage captured of Great White shark in Mediterranean Sea",
-      "link": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 08 Jun 2026 06:09:53 GMT",
-      "snippet": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Malawians repatriated from South Africa amid xenophobia concerns",
       "link": "https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 08 Jun 2026 11:19:58 GMT",
@@ -88,10 +88,58 @@
     },
     {
       "source": "BBC World",
-      "title": "Stock markets fall on tech plunge and renewed Middle East attacks",
+      "title": "'City's gonna be crazy:' Knicks run electrifies NYC, as Trump's attendance locks down arena",
+      "link": "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 08 Jun 2026 20:38:31 GMT",
+      "snippet": "The Knicks' stunning winning streak has energised New York as the team prepares for the third game of the NBA Finals at home.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Stock market jitters remain amid tech fears and renewed Middle East attacks",
       "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 08 Jun 2026 12:40:16 GMT",
-      "snippet": "Markets in Europe and Asia were hit by a tech sell-off, and oil rises as Iran and Israel launch attacks on each other.",
+      "publishedAt": "Mon, 08 Jun 2026 20:54:29 GMT",
+      "snippet": "Markets in Asia are hit by a tech sell-off, and oil is volatile as Iran and Israel launch attacks on each other.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Eriksen at home and 'doing well' after collapse",
+      "link": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 08 Jun 2026 16:29:19 GMT",
+      "snippet": "Christian Eriksen says he is \"doing well\" and is at home with his family following his collapse in Sunday's game against Ukraine.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Somali referee Artan barred from entering USA",
+      "link": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 08 Jun 2026 21:42:25 GMT",
+      "snippet": "Omar Artan, who was set to be the first Somali to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to the United States.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Kenya's ex-chief justice arrested at protest against building on national park",
+      "link": "https://www.bbc.com/news/articles/cwyel0kv0zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 08 Jun 2026 16:11:56 GMT",
+      "snippet": "Activists allege there is a plan to build a car park on protected land belonging to a wildlife sanctuary.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Peru election result close as vote counting continues",
+      "link": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 09 Jun 2026 00:03:38 GMT",
+      "snippet": "The race between right-wing Keiko Fujimori and left-wing Roberto Sánchez has been dominated by concerns over crime and political instability.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+      "link": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 08 Jun 2026 17:18:21 GMT",
+      "snippet": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.",
       "tier": 1
     },
     {
@@ -104,14 +152,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Peru election result close as vote counting continues",
-      "link": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 08 Jun 2026 08:48:37 GMT",
-      "snippet": "The race between right-wing Keiko Fujimori and left-wing Roberto Sánchez has been dominated by concerns over crime and political instability.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Hundreds of captives freed from Boko Haram mountain hideout",
       "link": "https://www.bbc.com/news/articles/ce8j0jn4xjgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 07 Jun 2026 14:00:16 GMT",
@@ -120,74 +160,58 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
-      "link": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 07 Jun 2026 19:55:49 GMT",
-      "snippet": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
+      "title": "How one of India's most successful female politicians is losing her party",
+      "link": "https://www.bbc.com/news/articles/cx2w4y6l9yqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 08 Jun 2026 22:44:28 GMT",
+      "snippet": "Mamata Banerjee's once-dominant Trinamool Congress party is unravelling, weeks after losing power in West Bengal.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Mexico City attempts record-breaking wave",
-      "link": "https://www.bbc.com/news/videos/c3wy6j2868lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 07 Jun 2026 17:53:32 GMT",
-      "snippet": "As part of the countdown to the World Cup, Mexico City is attempting to surpass the world record for largest wave.",
+      "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
+      "link": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 08 Jun 2026 14:11:22 GMT",
+      "snippet": "Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
-      "link": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 06 Jun 2026 23:17:43 GMT",
-      "snippet": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
+      "title": "How Eriksen's heart device kicked into action",
+      "link": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 08 Jun 2026 16:55:15 GMT",
+      "snippet": "Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Eriksen conscious after collapsing in Denmark game",
-      "link": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 07 Jun 2026 18:31:56 GMT",
-      "snippet": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association.",
+      "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+      "link": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 07 Jun 2026 23:00:27 GMT",
+      "snippet": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Friendship or leverage: Why is Xi Jinping in North Korea?",
-      "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 08 Jun 2026 07:55:29 GMT",
-      "snippet": "Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.",
+      "source": "NPR News",
+      "title": "Hey, Siri: Apple just announced a long-awaited AI update",
+      "link": "https://www.npr.org/2026/06/08/nx-s1-5847937/apple-wwdc-2026-siri-ai-tim-cook",
+      "publishedAt": "Mon, 08 Jun 2026 16:41:10 -0400",
+      "snippet": "At its annual developers&apos; conference, Apple put the spotlight on new AI features, while highlighting security and child safety — and critiquing the company&apos;s AI competitors.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "'We don't look at the sky anymore': The Air India crash victims who were not on the plane",
-      "link": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 07 Jun 2026 22:01:06 GMT",
-      "snippet": "A grandfather, a survivor, a witness: one year after the crash, the people on the ground tell their stories.",
+      "source": "NPR News",
+      "title": "With just days left, the U.S. opening match at the World Cup is still not sold out",
+      "link": "https://www.npr.org/2026/06/08/nx-s1-5849905/fifa-world-cup-tickets-prices",
+      "publishedAt": "Mon, 08 Jun 2026 14:03:16 -0400",
+      "snippet": "Hundreds of tickets are still available for the U.S. and Canada opening matches for the World Cup on Friday. Even more are available in resale platforms — many at below face value.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
-      "link": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 07 Jun 2026 23:01:04 GMT",
-      "snippet": "The European country had 9.1 million international visitors in April, the most ever for that month.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
-      "link": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 07 Jun 2026 23:03:23 GMT",
-      "snippet": "The Netherlands has one of the world's lowest rates of 16 to 24-year-olds not in education, employment or training.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-      "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 07 Jun 2026 07:11:18 GMT",
-      "snippet": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+      "source": "NPR News",
+      "title": "NPR&apos;s new chief content officer: &apos;I&apos;ve been training for this job my whole life&apos;",
+      "link": "https://www.npr.org/2026/06/08/nx-s1-5839396/npr-chief-content-officer-nadine-zylstra-podcasts",
+      "publishedAt": "Mon, 08 Jun 2026 11:04:21 -0400",
+      "snippet": "Less than two weeks after overhauling its newsroom, NPR has hired Nadine Zylstra to be its chief content officer. She has been a top executive at Sesame Workshop, YouTube and Pinterest.",
       "tier": 1
     },
     {
@@ -224,10 +248,10 @@
     },
     {
       "source": "NPR News",
-      "title": "The red state, blue state divide is real. But it&apos;s driven by more than just politics",
-      "link": "https://www.npr.org/2026/06/08/nx-s1-5831305/the-red-state-blue-state-divide-is-real-but-its-driven-by-more-than-just-politics",
+      "title": "Can a vibrating belt help protect bones and muscle health?",
+      "link": "https://www.npr.org/2026/06/08/nx-s1-5843308/bone-density-loss-vibrating-plates-belt",
       "publishedAt": "Mon, 08 Jun 2026 05:00:00 -0400",
-      "snippet": "Recent research suggests there&apos;s more going on with \"ideological sorting\" than simply moving to places that match one&apos;s politics. It&apos;s often one of many deciding factors, such as taxes or safety.",
+      "snippet": "More than 40 million adults in the U.S. ages 50 and older have osteopenia, or low bone density. An FDA-approved wearable vibration device is giving some women a tool that could slow that loss.",
       "tier": 1
     },
     {
@@ -240,14 +264,6 @@
     },
     {
       "source": "NPR News",
-      "title": "Can a vibrating belt fend off bone density loss?",
-      "link": "https://www.npr.org/2026/06/08/nx-s1-5843308/bone-density-loss-vibrating-plates-belt",
-      "publishedAt": "Mon, 08 Jun 2026 05:00:00 -0400",
-      "snippet": "More than 40 million adults in the U.S. aged 50 and older have osteopenia, or low bone density. An FDA-approved wearable vibration device is giving some women a tool that could slow that loss.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
       "title": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
       "link": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
       "publishedAt": "Mon, 08 Jun 2026 05:00:00 -0400",
@@ -255,179 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/06/08/nx-s1-5846378/morning-news-brief",
-      "publishedAt": "Mon, 08 Jun 2026 04:45:25 -0400",
-      "snippet": "Israel and Iran traded fire early Monday in retaliatory strikes, Trump walked out of an interview after being pressed on election fraud claims, ebola outbreak is spreading at alarming rate.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Israel and Iran exchange missile fire threatening Middle East truce",
-      "link": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
-      "publishedAt": "Mon, 08 Jun 2026 00:23:36 -0400",
-      "snippet": "The exchange marked a major escalation in the already tense region. It came on the 100th day of a war that began on Feb. 28, further complicating efforts to end Middle East fighting.",
+      "source": "PBS Headlines",
+      "title": "Exchange of missile strikes between Israel and Iran threatens fragile ceasefire",
+      "link": "https://www.pbs.org/newshour/show/exchange-of-missile-strikes-between-israel-and-iran-threatens-fragile-ceasefire",
+      "publishedAt": "Mon, 08 Jun 2026 18:55:19 -0400",
+      "snippet": "Israel and Iran traded long-range missile strikes for the first time since the ceasefire went into effect two months ago. Both countries appear to have agreed to stop their attacks, but not before sparking fears of a return to full combat in the region. Now, Trump and regional me",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "European leaders stress 'urgent need' to bolster Ukraine's defenses against Russian ballistic missiles",
-      "link": "https://www.pbs.org/newshour/world/european-leaders-stress-urgent-need-to-bolster-ukraines-defenses-against-russian-ballistic-missiles",
-      "publishedAt": "Sun, 07 Jun 2026 18:40:31 -0400",
-      "snippet": "The leaders of the U.K., Ukraine, France and Germany discussed the \"urgent need\" to ramp up production of weapons to combat Russia's powerful hypersonic Oreshnik ballistic missiles in a meeting in London on Sunday.",
+      "title": "What Iran and Israel's escalation means for efforts to end regional conflict",
+      "link": "https://www.pbs.org/newshour/show/what-iran-and-israels-escalation-means-for-efforts-to-end-regional-conflict",
+      "publishedAt": "Mon, 08 Jun 2026 18:50:52 -0400",
+      "snippet": "For analysis on how the latest escalation in the Middle East will affect a host of issues in the region, Amna Nawaz speaks with Miad Maleki at the Foundation for Defense of Democracies and David Makovsky at the Washington Institute for Near East Policy.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Palestinian man with Israeli citizenship opens fire in central Israel, killing 1 and wounding 5",
-      "link": "https://www.pbs.org/newshour/world/palestinian-man-with-israeli-citizenship-opens-fire-in-central-israel-killing-1-and-wounding-5",
-      "publishedAt": "Sun, 07 Jun 2026 18:13:49 -0400",
-      "snippet": "A Palestinian man with Israeli citizenship went on a shooting rampage in several towns in central Israel on Sunday, killing a reservist and wounding five other people, according to Israeli police and the military.",
+      "title": "News Wrap: 3 more screwworm cases found in Texas and New Mexico",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-3-more-screwworm-cases-found-in-texas-and-new-mexico",
+      "publishedAt": "Mon, 08 Jun 2026 18:45:44 -0400",
+      "snippet": "In our news wrap Monday, authorities reported three more cases of New World screwworm in the U.S., a federal judge struck down Trump's $100,000 H-1B visa fee, a stabbing at New York City's Penn Station left six people injured, a 7.8 magnitude earthquake killed at least 35 people ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Israel says Iran launched missiles in first bombardment since fragile ceasefire",
-      "link": "https://www.pbs.org/newshour/world/israel-says-iran-launched-missiles-in-first-bombardment-since-fragile-ceasefire",
-      "publishedAt": "Sun, 07 Jun 2026 17:18:37 -0400",
-      "snippet": "Iran launched missiles at Israel in the first such bombardment since a fragile ceasefire took effect in early April, raising the possibility of a return to heavy fighting and complicating mediation efforts to end the war.",
+      "title": "Former election official fact-checks Trump's claims of election fraud in California",
+      "link": "https://www.pbs.org/newshour/show/former-election-official-fact-checks-trumps-claims-of-election-fraud-in-california",
+      "publishedAt": "Mon, 08 Jun 2026 18:40:20 -0400",
+      "snippet": "Ripple effects and strong opinions are still flowing out of Trump's interview on NBC's Meet the Press over the weekend. Among the points of contention are Trump's baseless claims about the 2020 election results and the security of current elections. Lisa Desjardins speaks with Ta",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Kimi Antonelli wins Monaco Grand Prix, sets record as youngest winner in race history",
-      "link": "https://www.pbs.org/newshour/world/kimi-antonelli-wins-monaco-grand-prix-sets-record-as-youngest-winner-in-race-history",
-      "publishedAt": "Sun, 07 Jun 2026 16:24:31 -0400",
-      "snippet": "Antonelli was on course for victory with 10 laps remaining when the race was red-flagged after parts of the asphalt broke away and two cars crashed in quick succession.",
+      "title": "Millions lose SNAP benefits as One Big Beautiful Bill's stricter requirements kick in",
+      "link": "https://www.pbs.org/newshour/show/millions-lose-snap-benefits-as-one-big-beautiful-bills-stricter-requirements-kick-in",
+      "publishedAt": "Mon, 08 Jun 2026 18:35:20 -0400",
+      "snippet": "SNAP enrollment has fallen sharply nationwide since the passage of the One Big Beautiful Bill Act last summer. More than 3.5 million people have lost access to the food assistance, as states implement new eligibility requirements and stricter application processes. William Brangh",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Lawsuit aims to block UFC fight on White House South Lawn for Trump's birthday",
-      "link": "https://www.pbs.org/newshour/nation/lawsuit-aims-to-block-ufc-fight-on-white-house-south-lawn-for-trumps-birthday",
-      "publishedAt": "Sun, 07 Jun 2026 15:22:48 -0400",
-      "snippet": "A federal lawsuit seeks to halt the upcoming UFC fight card on the White House South Lawn in a mixed martial arts show timed for President Donald Trump's 80th birthday and the nation's 250th anniversary.",
+      "title": "Wall Street holds steadier as AI stocks recover some of last week's sell-off",
+      "link": "https://www.pbs.org/newshour/nation/wall-street-holds-steadier-as-ai-stocks-recover-some-of-last-weeks-sell-off",
+      "publishedAt": "Mon, 08 Jun 2026 18:25:15 -0400",
+      "snippet": "Some of the best performers were companies that sell computer chips, memory and other products fueling the AI boom.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Alexander Zverev wins French Open for first Grand Slam title",
-      "link": "https://www.pbs.org/newshour/world/alexander-zverev-wins-french-open-for-first-grand-slam-title",
-      "publishedAt": "Sun, 07 Jun 2026 14:13:54 -0400",
-      "snippet": "In his fourth major final, Zverev beat Flavio Cobolli 6-1, 4-6, 6-4, 6-7 (5), 6-1 for the French Open title on Sunday.",
+      "title": "Tamara Keith and Amy Walter on Trump's walkout from NBC interview",
+      "link": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-walkout-from-nbc-interview",
+      "publishedAt": "Mon, 08 Jun 2026 18:25:05 -0400",
+      "snippet": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including Trump walking out under tough questioning on NBC's \"Meet the Press,\" Democrats facing character questions ahead of a battleground Senate ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Initial results show Kurti's party wins most votes in Kosovo's early election",
-      "link": "https://www.pbs.org/newshour/world/initial-results-show-kurtis-party-wins-most-votes-in-kosovos-early-election",
-      "publishedAt": "Sun, 07 Jun 2026 14:05:16 -0400",
-      "snippet": "Prime Minister Albin Kurti's party won the most votes in an early parliamentary election in Kosovo on Sunday, early results showed.",
+      "title": "Dave Eggers on 'Contrapposto' and supporting the next generation of writers",
+      "link": "https://www.pbs.org/newshour/show/dave-eggers-on-contrapposto-and-supporting-the-next-generation-of-writers",
+      "publishedAt": "Mon, 08 Jun 2026 18:20:56 -0400",
+      "snippet": "Best-selling author Dave Eggers has a new novel out this week, telling the story of two art-obsessed friends over many decades. There's much more to the author's own story as well. Senior arts correspondent Jeffrey Brown reports from San Francisco for our arts and culture series,",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Health workers at center of Congo's Ebola outbreak labor with little pay or rest",
-      "link": "https://www.pbs.org/newshour/world/health-workers-at-center-of-congos-ebola-outbreak-labor-with-little-pay-or-rest",
-      "publishedAt": "Sun, 07 Jun 2026 13:47:11 -0400",
-      "snippet": "Health workers are handling the disease with minimal resources, because agencies have been scrambling to bring aid into the region.",
+      "title": "OpenAI files preliminary SEC paperwork for IPO, opening the door to a Wall Street debut",
+      "link": "https://www.pbs.org/newshour/nation/openai-files-preliminary-sec-paperwork-for-ipo-opening-the-door-to-a-wall-street-debut",
+      "publishedAt": "Mon, 08 Jun 2026 18:11:21 -0400",
+      "snippet": "This move follows Anthropic's June announcement of its own IPO plans.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump to attend Knicks' NBA Finals game in New York",
-      "link": "https://www.pbs.org/newshour/nation/trump-to-attend-knicks-nba-finals-game-in-new-york",
-      "publishedAt": "Sun, 07 Jun 2026 12:48:19 -0400",
-      "snippet": "Invited by Knicks owner James Dolan, he will be the first sitting president to attend an NBA Finals game.",
+      "title": "Federal judge strikes down Trump's $100,000 fee on new H-1B visas for high-skilled workers",
+      "link": "https://www.pbs.org/newshour/politics/federal-judge-strikes-down-trumps-100000-fee-on-new-h-1b-visas-for-high-skilled-workers",
+      "publishedAt": "Mon, 08 Jun 2026 17:57:57 -0400",
+      "snippet": "The ruling contradicts an earlier federal court decision in Washington, D.C. that denied the U.S. Chamber of Commerce's request to strike down the visa fee.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Police seek suspects in Ohio shooting that wounded 12 near street festival",
-      "link": "https://www.pbs.org/newshour/nation/police-seek-suspects-in-ohio-shooting-that-wounded-12-near-street-festival",
-      "publishedAt": "Sun, 07 Jun 2026 12:30:51 -0400",
-      "snippet": "A search in Ohio for suspects who opened fire near a busy street festival stretched into Sunday after 12 people were wounded in the weekend shooting that sent crowds scrambling for cover in a historic Toledo neighborhood.",
+      "title": "Ken Paxton's attorney in his impeachment trial endorses Democrat James Talarico in U.S. Senate race",
+      "link": "https://www.pbs.org/newshour/politics/ken-paxtons-attorney-in-his-impeachment-trial-endorses-democrat-james-talarico-in-u-s-senate-race",
+      "publishedAt": "Mon, 08 Jun 2026 17:29:51 -0400",
+      "snippet": "Dan Cogdell criticized Paxton for prioritizing loyalty to President Donald Trump over Texas families.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Nigerian army frees 360 people abducted by Boko Haram",
-      "link": "https://www.pbs.org/newshour/world/nigerian-army-frees-360-people-abducted-by-boko-haram",
-      "publishedAt": "Sun, 07 Jun 2026 11:36:16 -0400",
-      "snippet": "The Nigerian army said Sunday it freed 360 people abducted by Boko Haram in southern Borno, in the northeastern part of the country.",
+      "title": "Live Results: Maine midterm primaries",
+      "link": "https://www.pbs.org/newshour/politics/live-results-maine-midterm-primaries",
+      "publishedAt": "Mon, 08 Jun 2026 16:16:29 -0400",
+      "snippet": "Primaries for U.S. Senate and U.S. House on Tuesday will set the stage for a midterm general election in which Maine is expected to play a critical role in deciding control of both chambers.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Multiple people shot near festival in Toledo, Ohio, authorities say",
-      "link": "https://www.pbs.org/newshour/nation/multiple-people-shot-near-festival-in-toledo-ohio-authorities-say",
-      "publishedAt": "Sat, 06 Jun 2026 18:58:27 -0400",
-      "snippet": "Multiple people were shot Saturday afternoon near a community street festival in Toledo, Ohio, police said.",
+      "title": "NYC imposes stringent security as Trump becomes 1st sitting U.S. president to attend NBA Finals game",
+      "link": "https://www.pbs.org/newshour/nation/nyc-imposes-stringent-security-as-trump-becomes-1st-sitting-u-s-president-to-attend-nba-finals-game",
+      "publishedAt": "Mon, 08 Jun 2026 15:45:06 -0400",
+      "snippet": "Donald Trump is set to be the first sitting U.S. president to attend an NBA Finals game, bringing strict security measures that will require New York Knicks fans to navigate an extensive safety perimeter around Madison Square Garden and an expected lengthy wait to get inside the ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What to know about the protests and arrests outside a New Jersey detention center",
-      "link": "https://www.pbs.org/newshour/nation/what-to-know-about-the-protests-and-arrests-outside-a-new-jersey-detention-center",
-      "publishedAt": "Sat, 06 Jun 2026 18:29:17 -0400",
-      "snippet": "Clashes between demonstrators and law enforcement outside a New Jersey immigration detention center since late May have become the latest flashpoint for protests against President Donald Trump's immigration crackdown.",
+      "title": "Apple unveils new AI features with privacy focus at last developers conference with CEO Tim Cook",
+      "link": "https://www.pbs.org/newshour/economy/apple-unveils-new-ai-features-with-privacy-focus-at-last-developers-conference-with-ceo-tim-cook",
+      "publishedAt": "Mon, 08 Jun 2026 15:29:16 -0400",
+      "snippet": "While the iconic iPhone maker has been playing catch-up with rivals when it comes to AI, it sought to distinguish itself from its peers by stressing a privacy-centered approach and integrating AI across its devices and apps.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What's next for the War Powers Resolution on Iran? PolitiFact explains",
-      "link": "https://www.pbs.org/newshour/politics/whats-next-for-the-war-powers-resolution-on-iran-politifact-explains",
-      "publishedAt": "Sat, 06 Jun 2026 17:16:49 -0400",
-      "snippet": "The House and Senate have advanced war powers resolutions aimed at curbing President Donald Trump from continuing the war in Iran. Can a 53-year-old law make a difference? What steps would be required to end the war? PolitiFact explains.",
+      "title": "WATCH LIVE: Senate meets after deal to renew expiring surveillance program falters",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-senate-meets-after-deal-to-renew-expiring-surveillance-program-falters",
+      "publishedAt": "Mon, 08 Jun 2026 14:08:53 -0400",
+      "snippet": "Republicans are warning the White House that a critical surveillance authority is likely to lapse this week amid bipartisan backlash over President Donald Trump's pick to lead the nation's intelligence community.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Former first lady of France Bernadette Chirac dies at 93",
-      "link": "https://www.pbs.org/newshour/world/former-first-lady-of-france-bernadette-chirac-dies-at-93",
-      "publishedAt": "Sat, 06 Jun 2026 17:05:35 -0400",
-      "snippet": "Bernadette Chirac, the steel-willed former first lady of France who spent 12 years at the Élysée Palace from 1995 to 2007 beside President Jacques Chirac, has died at 93.",
+      "title": "WATCH: Rollins holds update as USDA confirms more screwworm cases, including 1 outside Texas",
+      "link": "https://www.pbs.org/newshour/health/watch-live-rollins-holds-update-as-usda-confirms-more-screwworm-cases-in-texas",
+      "publishedAt": "Mon, 08 Jun 2026 13:41:00 -0400",
+      "snippet": "Two more cases of the New World screwworm have been confirmed hundreds of miles apart in Texas, demonstrating the difficulty of stopping the spread of a pest that could potentially devastate the nation's cattle industry.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "U.S. mortgage rates are staying high &ndash; and the Federal Reserve can do little about it",
-      "link": "https://www.pbs.org/newshour/economy/u-s-mortgage-rates-are-staying-high-and-the-federal-reserve-can-do-little-about-it",
-      "publishedAt": "Sat, 06 Jun 2026 16:23:31 -0400",
-      "snippet": "Investors' inflation expectations, much more than the central bank, are among the factors that affect the cost of home loans.",
+      "title": "Gordon Wood, Pulitzer Prize-winning historian of American Revolution, dies at 92",
+      "link": "https://www.pbs.org/newshour/arts/gordon-wood-pulitzer-prize-winning-historian-of-american-revolution-dies-at-92",
+      "publishedAt": "Mon, 08 Jun 2026 13:01:42 -0400",
+      "snippet": "Police say Wood died Sunday after being struck by a car in a supermarket parking lot in East Providence, Rhode Island.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Pope Leo XIV warns against 'fanning the flames of polarization' on first papal visit to Spain in 15 years",
-      "link": "https://www.pbs.org/newshour/world/pope-leo-xiv-warns-against-fanning-the-flames-of-polarization-on-first-papal-visit-to-spain-in-15-years",
-      "publishedAt": "Sat, 06 Jun 2026 16:08:52 -0400",
-      "snippet": "Pope Leo XIV urged Spaniards on Saturday to stop \"fanning the flames of polarization\" as he arrived in Spain at a moment of political turmoil for the Socialist-led government and a credibility crisis for the Catholic Church.",
+      "title": "Pope's historic speech to Spain's parliament demands respect for migrants, gets 7-minute ovation",
+      "link": "https://www.pbs.org/newshour/world/popes-historic-speech-to-spains-parliament-demands-respect-for-migrants-gets-7-minute-ovation",
+      "publishedAt": "Mon, 08 Jun 2026 12:47:43 -0400",
+      "snippet": "Spain's lawmakers have given Pope Leo XIV a lengthy standing ovation after his historic address to parliament. This marks a new level of acceptance of the Catholic Church in largely secular Spain.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "U.S.-Iran exchange of fire in Gulf tests fragile ceasefire",
-      "link": "https://www.pbs.org/newshour/world/u-s-iran-exchange-of-fire-in-gulf-tests-fragile-ceasefire",
-      "publishedAt": "Sat, 06 Jun 2026 14:33:58 -0400",
-      "snippet": "Iran fired ballistic missiles and drones toward Bahrain and Kuwait that were intercepted early Saturday, Bahrain's government said, and called on Tehran to halt attacks on Gulf neighbors that test a fragile ceasefire in the Middle East conflict.",
+      "title": "A list of deadly earthquakes in the Philippines, located on the Pacific 'Ring of Fire'",
+      "link": "https://www.pbs.org/newshour/world/a-list-of-deadly-earthquakes-in-the-philippines-located-on-the-pacific-ring-of-fire",
+      "publishedAt": "Mon, 08 Jun 2026 11:41:06 -0400",
+      "snippet": "Here is a look at some of the most recent major earthquakes in the Philippines, which sits on the Pacific \"Ring of Fire\", is one of the world's most earthquake-prone countries.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Hegseth warns of 'invasion' and 'dangerous ideologies' in D-Day anniversary speech",
-      "link": "https://www.pbs.org/newshour/politics/hegseth-warns-of-invasion-and-dangerous-ideologies-in-d-day-anniversary-speech",
-      "publishedAt": "Sat, 06 Jun 2026 13:42:01 -0400",
-      "snippet": "U.S. Defense Secretary Pete Hegseth used a D-Day anniversary speech on Saturday to appear to link immigration by sea to the wartime liberation of Europe, warning that the freedom won by Allied troops could prove temporary if leaders failed to defend it.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump pardons former Republican congressman convicted of insider trading",
-      "link": "https://www.pbs.org/newshour/politics/trump-pardons-former-republican-congressman-convicted-of-insider-trading",
-      "publishedAt": "Sat, 06 Jun 2026 12:46:29 -0400",
-      "snippet": "President Donald Trump has issued a pardon to Stephen Buyer, a former Republican congressman from Indiana who served nearly two years in prison for making illegal stock trades based on inside information after he left office.",
+      "title": "Broadway revivals and 'Liberation' win big at the Tony Awards",
+      "link": "https://www.pbs.org/newshour/arts/broadway-revivals-and-liberation-win-big-at-the-tony-awards",
+      "publishedAt": "Mon, 08 Jun 2026 11:25:46 -0400",
+      "snippet": "\"Schmigadoon!,\" an adaptation of an Apple TV series that gently mocks big, brassy Broadway shows, won the best new musical Tony Award on a night when actor John Lithgow and playwright Bess Wohl made history.",
       "tier": 1
     },
     {
@@ -436,6 +436,62 @@
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "OpenAI files IPO paperwork, eyes stock market debut",
+      "link": "https://www.dw.com/en/openai-files-ipo-paperwork-eyes-stock-market-debut/a-77467007?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The AI company behind ChatGPT said it had no date yet for a listing, but it is joining rival Anthropic in the lineup for the stock market.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Franco-German fighter jet project collapses after industry dispute",
+      "link": "https://www.dw.com/en/franco-german-fighter-jet-project-collapses-after-industry-dispute/a-77466897?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The next-generation aircraft project has been scrapped due to company disagreements, dealing a blow to European security cooperation efforts.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump DOJ to denaturalize 17 US citizens in rare move",
+      "link": "https://www.dw.com/en/trump-doj-to-denaturalize-17-us-citizens-in-rare-move/a-77466080?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US President Donald Trump&apos;s administration said it would strip citizenship from people convicted of crimes such as healthcare fraud, wire fraud and other unlawful conduct.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pope Leo urges Spain&apos;s church to listen to abuse victims",
+      "link": "https://www.dw.com/en/pope-leo-urges-spain-s-church-to-listen-to-abuse-victims/a-77462950?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Leo called on Catholic clergy to develop a \"culture of care\" to fight the \"scourge of abuse.\" The pontiff also spoke to Spain&apos;s parliament where he emphasized dignity for all people, including migrants.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ebola outbreak: WHO&apos;s Tedros visits Uganda, bordering the DRC Ituri province epicenter",
+      "link": "https://www.dw.com/en/ebola-outbreak-who-s-tedros-visits-uganda-bordering-the-drc-ituri-province-epicenter/a-77462569?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The World Health Organization head is visiting Uganda, praising its \"prompt and capable response\" to the Ebola outbreak just across the border in DRC&apos;s Ituri province. Uganda has logged just a few cases, mainly imported.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pancreatic cancer: New drug extends lives but isn&apos;t a cure",
+      "link": "https://www.dw.com/en/pancreatic-cancer-new-drug-extends-lives-but-isn-t-a-cure/a-77425000?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The newly developed treatment daraxonrasib can double the years left to live for patients with pancreatic cancer — but it doesn&apos;t cure the disease and only works if the cancer is treated early.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Xi calls China–North Korea ties \"unbreakable,\" but Pyongyang&apos;s Russia pivot is testing Beijing&apos;s leverage.",
+      "link": "https://www.dw.com/en/xi-calls-china-north-korea-ties-unbreakable-but-pyongyang-s-russia-pivot-is-testing-beijing-s-leverage/a-77460576?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Chinese leader&apos;s first trip to North Korea in 7 years comes as Pyongyang has moved closer to Russia. Kim Jong Un is likely to seek more access to China&apos;s economic power, analysts say.",
       "tier": 2
     },
     {
@@ -532,62 +588,6 @@
       "link": "https://www.dw.com/en/uk-germany-france-back-ceasefire-talks-between-ukraine-and-russia/a-77448846?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The British, German and French leaders backed a call by Ukraine&apos;s Zelenskyy for direct talks with Russian President Putin. The European leaders met Zelenskyy in London.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Middle East updates: Iran declares end to attacks on Israel",
-      "link": "https://www.dw.com/en/middle-east-updates-iran-declares-end-to-attacks-on-israel/live-77452499?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Iran&apos;s military said it would halt its operations against Israel, but warned that strikes would resume if Israel attacked Lebanon. The announcement came after Trump called for an end to the fighting. Follow DW for more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Kosovo PM wins snap vote, but with no majority",
-      "link": "https://www.dw.com/en/kosovo-pm-wins-snap-vote-but-with-no-majority/a-77447536?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Sunday&apos;s vote, the country&apos;s third in just over a year, was marked by low turnout. The country&apos;s prolonged political crisis has further debilitated an already ailing economy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "SIPRI: With peace elusive, nuclear weapons make a comeback",
-      "link": "https://www.dw.com/en/sipri-with-peace-elusive-nuclear-weapons-make-a-comeback/a-77441233?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Governments are increasingly turning to nuclear deterrence. As the global arms buildup intensifies, so do the risks, the Stockholm International Peace Research Institute warns.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Zelenskyy angers Poland with WWII-era name for army unit",
-      "link": "https://www.dw.com/en/zelenskyy-angers-poland-with-wwii-era-name-for-army-unit/a-77412975?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ukraine&apos;s President Volodymyr Zelenskyy has sparked outrage in Poland by choosing a name that carries Nazi connotations for a Ukrainian army unit. Can Polish PM Donald Tusk smooth things over?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Reports: Iran uses war as cover for increased executions",
-      "link": "https://www.dw.com/en/reports-iran-uses-war-as-cover-for-increased-executions/a-77451822?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Iran already had one of the highest rates of capital punishment in the world. Now, rights groups say, the country is using the current conflict to carry out even more executions, in an attempt to repress dissent.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "French Open: Germany&apos;s Zverev wins first ever Grand Slam after defeating Italy&apos;s Cobolli",
-      "link": "https://www.dw.com/en/french-open-germany-s-zverev-wins-first-ever-grand-slam-after-defeating-italy-s-cobolli/a-77451656?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Alexander Zverev has won his first Grand Slam title at the fourth attempt, beating Flavio Cobolli in a five-set epic in Paris. He is the first German man to win a major singles title in 30 years.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "German political rivals revive &apos;pizza connection&apos;",
-      "link": "https://www.dw.com/en/german-political-rivals-revive-pizza-connection/a-77395073?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "An unusual forum for exchange between German conservative and Greens politicians emerged 30 years ago in the form of the \"pizza connection.\" Now that format is being revived in a changed political landscape.",
       "tier": 2
     }
   ]
