@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T01:24:56.569Z",
+  "generatedAt": "2026-06-10T13:37:17.491Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,6 +32,14 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Trump and Iran trade new threats after strikes exchanged",
+      "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 13:19:02 GMT",
+      "snippet": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
       "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 09 Jun 2026 21:13:17 GMT",
@@ -40,26 +48,66 @@
     },
     {
       "source": "BBC World",
-      "title": "US strikes Iran in response to downing of helicopter, military says",
-      "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 10 Jun 2026 00:33:25 GMT",
-      "snippet": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
+      "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
+      "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 09:50:32 GMT",
+      "snippet": "Omar Artan vows to officiate at the 2030 tournament instead, following his ban from entering the US.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "World's largest chipmaker does not rule out price rises as costs increase",
-      "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 22:00:24 GMT",
-      "snippet": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+      "title": "First charges laid over deadly Hong Kong fire",
+      "link": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 13:05:34 GMT",
+      "snippet": "The Wang Fuk Court blaze last year was the deadliest that Hong Kong had seen in 70 years, killing 168 people.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "link": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 17:47:41 GMT",
-      "snippet": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
+      "title": "Ukraine says missiles hit military plant deep inside Russia",
+      "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 11:43:40 GMT",
+      "snippet": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+      "link": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 10:26:54 GMT",
+      "snippet": "Another nine people were injured at an informal settlement in Cleveland late on Tuesday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
+      "link": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 10:26:26 GMT",
+      "snippet": "The fresh strikes come after weeks of relative calm in the restive border region between the two countries.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Growing backlash in Japan over Trump's use of anime characters",
+      "link": "https://www.bbc.com/news/articles/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 13:01:52 GMT",
+      "snippet": "The US president has angered some fans by using the images of characters like Pikachu and Naruto.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky under pressure to end row with Poland over WW2 name of army unit",
+      "link": "https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 09:57:20 GMT",
+      "snippet": "Poland is threatening to strip Ukraine's president of a state honour over the naming Ukrainian military unit after controversial World War Two fighters.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
+      "link": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 05:02:46 GMT",
+      "snippet": "West claims the encounter on a music video set was part of a \"provocative theatrical performance\".",
       "tier": 1
     },
     {
@@ -72,18 +120,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
-      "link": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 14:27:37 GMT",
-      "snippet": "Protesters are angry that the suspect had already been reported to police last August in a separate case.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
-      "link": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 20:38:55 GMT",
-      "snippet": "France will also bar far-right Israeli Minister Bezalel Smotrich from entry as part of the measures, which Israel condemns as \"disgraceful\".",
+      "title": "Alleged Bondi Beach gunman charged with another 19 offences",
+      "link": "https://www.bbc.com/news/articles/ckg0l7g7n9no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 10 Jun 2026 03:43:31 GMT",
+      "snippet": "Naveed Akram, 24, is already facing 59 charges over an attack on a Jewish festival in December.",
       "tier": 1
     },
     {
@@ -96,10 +136,34 @@
     },
     {
       "source": "BBC World",
+      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+      "link": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 09 Jun 2026 17:47:41 GMT",
+      "snippet": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
       "link": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 09 Jun 2026 16:44:23 GMT",
       "snippet": "The demonstration, in the western city of Herat, was broken up after police are alleged to have opened fire.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
+      "link": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 09 Jun 2026 14:27:37 GMT",
+      "snippet": "Protesters are angry that the suspect had already been reported to police last August in a separate case.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "World's largest chipmaker does not rule out price rises as costs increase",
+      "link": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 09 Jun 2026 22:00:24 GMT",
+      "snippet": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
       "tier": 1
     },
     {
@@ -127,147 +191,91 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Williams rolls back the years on return at Queen's",
-      "link": "https://www.bbc.com/sport/tennis/articles/cwy0ldzprrwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 20:13:18 GMT",
-      "snippet": "Serena Williams rolls back the years at Queen's with a winning performance on her comeback to tennis after 1,375 days away from the sport.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ariana Grande and Ethan Slater split after three years",
-      "link": "https://www.bbc.com/news/articles/cn0ve7952jqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 10:37:43 GMT",
-      "snippet": "The pair met on the set of the first Wicked movie, for which Grande received an Oscar nomination.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
-      "link": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 07:36:15 GMT",
-      "snippet": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "ICC suspends top prosecutor after investigating misconduct allegations",
-      "link": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 07:29:55 GMT",
-      "snippet": "Karim Khan denies all allegations of sexual misconduct and his lawyers say he rejects the decision in the strongest terms.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Man accused of killing mother-in-law with poison-laced satay",
-      "link": "https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 10:09:04 GMT",
-      "snippet": "Indonesia police allege the man killed the woman as he felt disrespected by her.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
-      "link": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 08 Jun 2026 23:23:15 GMT",
-      "snippet": "Kyiv has made it difficult for Moscow to provide military and civilian supplies to the territories it occupies.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Fifa working to resolve revoked Iran tickets",
-      "link": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 17:50:37 GMT",
-      "snippet": "Fifa has said it is working to \"maximise opportunities for Iranian supporters to attend matches\" after the country's World Cup group-stage ticket allocation was revoked just days before the tournament.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
-      "link": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 09 Jun 2026 07:08:52 GMT",
-      "snippet": "Xi has wrapped up a two-day visit to Pyongyang, his first official trip to North Korea since 2019.",
+      "source": "NPR News",
+      "title": "Inflation tops 4% for the first time in 3 years on spike in gasoline prices",
+      "link": "https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices",
+      "publishedAt": "Wed, 10 Jun 2026 09:08:58 -0400",
+      "snippet": "Inflation has surged to its highest level in more than three years since the U.S. and Israel launched their war on Iran, triggering a surge in gasoline prices.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "House approves labor-friendly bill with support from 20 Republicans",
-      "link": "https://www.npr.org/2026/06/09/nx-s1-5851813/house-bill-labor-union-contract-negotiations",
-      "publishedAt": "Tue, 09 Jun 2026 19:10:59 -0400",
-      "snippet": "The House has approved a bill to slash the time it takes for newly unionized workers to get a first contract. The measure allows for government intervention if a deal is not reached within 90 days.",
+      "title": "July 1 brings big student loan changes. Here&apos;s what you need to know",
+      "link": "https://www.npr.org/2026/06/10/nx-s1-5835633/student-loans-guide-education-changes-repayment-plan",
+      "publishedAt": "Wed, 10 Jun 2026 07:30:00 -0400",
+      "snippet": "A popular (and generous) repayment plan ends, two new plans begin and many borrowers will see new loan limits.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Three judges, three scandals and new scrutiny of judicial accountability",
-      "link": "https://www.npr.org/2026/06/09/nx-s1-5852204/michigan-georgia-idaho-judiciary-misconduct-scandal-scrutiny",
-      "publishedAt": "Tue, 09 Jun 2026 18:42:39 -0400",
-      "snippet": "Three judges are facing misconduct allegations in three different states, putting pressure on the federal judiciary&apos;s system for policing bad behavior in its own ranks.",
+      "title": "U.S. and Iran exchange strikes. And, House passes ICE and Border Patrol funding",
+      "link": "https://www.npr.org/2026/06/10/g-s1-127216/up-first-newsletter-iran-us-war-primary-results-ice-funding-bill-gates",
+      "publishedAt": "Wed, 10 Jun 2026 07:26:08 -0400",
+      "snippet": "The U.S. and Iran have exchanged strikes after a helicopter was downed Monday near the Strait of Hormuz. And, House Republicans have passed a bill to fund ICE and Border Patrol through Trump&apos;s term.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "House passes bill to fund ICE and Border Patrol through the remainder of Trump&apos;s term",
-      "link": "https://www.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol",
-      "publishedAt": "Tue, 09 Jun 2026 17:26:47 -0400",
-      "snippet": "The bill provides roughly $70 billion for immigration enforcement and highlights a GOP caucus continuing to endorse Trump&apos;s immigration agenda as Democrats warn Congress has ceded its oversight role.",
+      "title": "China re‑centers North Korea ties as nuclear silence reshapes balance",
+      "link": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties",
+      "publishedAt": "Wed, 10 Jun 2026 06:30:00 -0400",
+      "snippet": "Xi&apos;s silence on North Korea&apos;s nuclear program came as Kim tried to convince the world of the irreversibility of his country&apos;s status as a nuclear power.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "A warm World Cup welcome? U.S. immigration policies have chilling effect",
-      "link": "https://www.npr.org/2026/06/09/nx-s1-5851634/immigration-policies-affect-fifa",
-      "publishedAt": "Tue, 09 Jun 2026 15:46:00 -0400",
-      "snippet": "As the World Cup begins later this week, match officials and team members have faced enhanced immigration scrutiny when trying to enter the United States. A FIFA referee from Somalia was turned away.",
+      "title": "ICE denies having a protester database. But a letter to Congress sheds more light",
+      "link": "https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs",
+      "publishedAt": "Wed, 10 Jun 2026 06:00:00 -0400",
+      "snippet": "In a previously unpublicized letter to Congress, the newly-departed head of ICE said the agency collects data on people suspected of potentially unlawful activity, which could include protesters.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Why there&apos;s a debate over the new quarantine center for Americans at risk of Ebola",
-      "link": "https://www.npr.org/2026/06/09/nx-s1-5850708/ebola-quarantine-u-s-citizens-kenya",
-      "publishedAt": "Tue, 09 Jun 2026 15:34:30 -0400",
-      "snippet": "Opinions are divided about the new facility in Kenya. The U.S. defends it. Kenyans are protesting it. Doctors who were on the ground in the 2014 Ebola outbreak voice criticism as well.",
+      "title": "San Francisco immigration court shuts down, striking at heart of historic advocacy",
+      "link": "https://www.npr.org/2026/06/10/g-s1-126345/san-franciso-court-immigration-closure-asylum-layoffs",
+      "publishedAt": "Wed, 10 Jun 2026 05:00:00 -0400",
+      "snippet": "The main San Francisco court was one of the busiest in the country, hearing thousands of cases a year. It was also one of the courts most likely to grant an immigrants&apos; asylum application.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "NASA names 4 astronauts on the &apos;highly complex&apos; Artemis III lunar training mission",
-      "link": "https://www.npr.org/2026/06/09/nx-s1-5851860/nasa-artemis-iii-crew",
-      "publishedAt": "Tue, 09 Jun 2026 15:26:06 -0400",
-      "snippet": "The crew of four — NASA astronaut and commander Randy Bresnik, European Space Agency pilot Luca Parmitano, NASA mission specialists Frank Rubio and Andre Douglas — are scheduled to launch next year.",
+      "title": "The World Cup is starting. Here&apos;s what to know and how to watch",
+      "link": "https://www.npr.org/2026/06/10/nx-s1-5851660/world-cup-2026-soccer-where-to-watch-preview-facts",
+      "publishedAt": "Wed, 10 Jun 2026 05:00:00 -0400",
+      "snippet": "This summer, 48 men&apos;s national teams will compete in the World Cup&apos;s biggest tournament ever. Here are a few of the basics to get you started.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "To find the World Cup&apos;s Cinderellas, we have to start with the group stage",
-      "link": "https://www.npr.org/2026/06/09/g-s1-127007/soccer-edition-world-cup-cinderella-group-stage",
-      "publishedAt": "Tue, 09 Jun 2026 14:05:06 -0400",
-      "snippet": "Uzbekistan, Jordan, Cape Verde and Curacao are making their World Cup debut. Meanwhile, Scotland, South Africa, Canada, and New Zealand (just to name a few) have never made it past the group stage.",
+      "title": "Bill Gates to appear before Congress over Epstein involvement",
+      "link": "https://www.npr.org/2026/06/10/nx-s1-5851609/bill-gates-jeffrey-epstein-files-congress-pam-bondi",
+      "publishedAt": "Wed, 10 Jun 2026 05:00:00 -0400",
+      "snippet": "Gates will sit for a closed-door interview before the House Oversight Committee about his relationship with convicted sex offender Jeffrey Epstein.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S. strikes Iran in response to downed helicopter",
-      "link": "https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond",
-      "publishedAt": "Tue, 09 Jun 2026 13:25:28 -0400",
-      "snippet": "Trump also confirmed the two pilots in the U.S. helicopter are unharmed and safe.",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/06/10/nx-s1-5846828/morning-news-brief",
+      "publishedAt": "Wed, 10 Jun 2026 04:42:55 -0400",
+      "snippet": "U.S. and Iran exchange strikes after Apache helicopter is downed, takeaways from Tuesday&apos;s primaries in four states, House Republicans approve a bill to fund ICE for the remainder of Trump&apos;s term.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Big tobacco hooked us on ultra-processed foods. It might teach us how to cut back",
-      "link": "https://www.npr.org/2026/06/09/nx-s1-5850364/why-ultra-processed-foods-could-become-the-new-war-on-tobacco",
-      "publishedAt": "Tue, 09 Jun 2026 13:02:24 -0400",
-      "snippet": "Research published in the American Journal of Public Health details the connection between ultra-processed foods and the tobacco industry when it comes to production, strategy and marketing.",
+      "title": "Israeli leader who pulled out of Lebanon warns against getting stuck again",
+      "link": "https://www.npr.org/2026/06/10/g-s1-126791/israeli-leader-who-pulled-out-of-lebanon-warns-against-getting-stuck-again",
+      "publishedAt": "Wed, 10 Jun 2026 04:40:59 -0400",
+      "snippet": "Ehud Barak withdrew Israeli forces from Lebanon in 2000, ending an occupation that lasted nearly two decades. He says that was a quagmire Israel shouldn&apos;t repeat.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Social Security funds could run short by 2032, program&apos;s Trustees warn",
-      "link": "https://www.npr.org/2026/06/09/nx-s1-5850279/social-security-funds-trustees-congress",
-      "publishedAt": "Tue, 09 Jun 2026 12:53:28 -0400",
-      "snippet": "A trust fund that helps to finance Social Security benefits is expected to run out of money in less than seven years — unless Congress acts to patch the system before that.",
+      "source": "PBS Headlines",
+      "title": "What to know about Bill Gates' relationship with Jeffrey Epstein as he is interviewed in House probe",
+      "link": "https://www.pbs.org/newshour/politics/what-to-know-about-bill-gates-relationship-with-jeffrey-epstein-as-he-is-interviewed-in-house-probe",
+      "publishedAt": "Wed, 10 Jun 2026 09:28:23 -0400",
+      "snippet": "Bill Gates, billionaire co-founder of Microsoft and philanthropist, is expected to sit for a closed-door transcribed interview on Wednesday before the House Oversight Committee about his relationship with the late convicted sex offender Jeffrey Epstein.",
       "tier": 1
     },
     {
@@ -423,14 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Live Results: South Carolina midterm primaries",
-      "link": "https://www.pbs.org/newshour/politics/live-results-south-carolina-midterm-primaries",
-      "publishedAt": "Tue, 09 Jun 2026 15:45:38 -0400",
-      "snippet": "South Carolina voters will choose nominees for governor and other offices in a state primary on Tuesday, the latest test of President Donald Trump's sway over Republican voters.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,154 +440,154 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Northern Ireland: Police urge calm after &apos;sickening&apos; Belfast stabbing",
-      "link": "https://www.dw.com/en/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing/a-77479452?maca=en-rss-en-top-1022-rdf",
+      "title": "Why is Hezbollah still important for Iran?",
+      "link": "https://www.dw.com/en/why-is-hezbollah-still-important-for-iran/a-77487992?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Belfast police appealed for calm after a violent knife attack caught on videophone prompted calls for anti-immigration protests. This followed a week of migration-related riots last June in Northern Ireland.",
+      "snippet": "Although weakened, Lebanon-based Hezbollah militant group remains a central piece of Iran&apos;s power projection in the Middle East. Tehran has insisted they be included in any peace deal with the US and Israel.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Afghanistan: Taliban open fire during hijab protest",
-      "link": "https://www.dw.com/en/afghanistan-taliban-open-fire-during-hijab-protest/a-77480609?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany news: Recession looms as Iran war chokes growth",
+      "link": "https://www.dw.com/en/germany-news-recession-looms-as-iran-war-chokes-growth/live-77487978?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Several people were injured in the city of Herat after Taliban security personnel reportedly opened fire to disperse a small protest organized in support of Afghan women arrested for dress code violations.",
+      "snippet": "Economists say Germany is edging toward recession as an energy shock caused by the Iran war takes a chunk out of growth. Meanwhile, police have carried out raids on a suspected international drug ring. DW has the latest.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Will Israel&apos;s troops take over more of southern Lebanon?",
-      "link": "https://www.dw.com/en/will-israel-s-troops-take-over-more-of-southern-lebanon/a-77478170?maca=en-rss-en-top-1022-rdf",
+      "title": "Rising cyberscam losses expose gaps in EU response",
+      "link": "https://www.dw.com/en/rising-cyberscam-losses-expose-gaps-in-eu-response/a-77487321?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Locals displaced from southern Lebanese towns and cities on evacuation orders from Israel&apos;s military now fear Israel will occupy their homes permanently, or continue to expand its invasion.",
+      "snippet": "Europeans are losing billions to online scams, yet the EU has been slower than the US, the UK and China in targeting the Southeast Asian networks behind many of them.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "EU proposes entry ban for Russian Ukraine combatants in new sanctions package",
-      "link": "https://www.dw.com/en/eu-proposes-entry-ban-for-russian-ukraine-combatants-in-new-sanctions-package/a-77474536?maca=en-rss-en-top-1022-rdf",
+      "title": "Philippines: Farmers race to keep up with global &apos;ube&apos; craze",
+      "link": "https://www.dw.com/en/philippines-farmers-race-to-keep-up-with-global-ube-craze/a-77486681?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The EU&apos;s 21st sanctions package includes a provision to deny entry to anyone who has served in Russia&apos;s armed forces amid the invasion of Ukraine. It will also target the so-called shadow fleet, banks and cryptocurrency.",
+      "snippet": "Ube, also called the purple yam, went from a nostalgic treat in the Philippines to an exotic item in cafes around the world. But the popularity means the crop supply is under pressure.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "EU: Youth involvement in synthetic opioids smuggling rises",
-      "link": "https://www.dw.com/en/eu-youth-involvement-in-synthetic-opioids-smuggling-rises/a-77478901?maca=en-rss-en-top-1022-rdf",
+      "title": "India news: Modi becomes longest-serving elected PM",
+      "link": "https://www.dw.com/en/india-news-modi-becomes-longest-serving-elected-pm/live-77484563?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Europe&apos;s illicit drug market is rapidly evolving, according to a new report, with cartels increasingly employing young people to traffic dangerous synthetic opioids.",
+      "snippet": "Narendra Modi has become the longest-serving elected prime minister of India. Follow DW for more.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "South Africa migration crisis: Ramaphosa&apos;s plan faces doubt",
-      "link": "https://www.dw.com/en/south-africa-migration-crisis-ramaphosa-s-plan-faces-doubt/a-77474996?maca=en-rss-en-top-1022-rdf",
+      "title": "Neo-Nazi lost in east Germany, but extremism remains threat",
+      "link": "https://www.dw.com/en/neo-nazi-lost-in-east-germany-but-extremism-remains-threat/a-77487377?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "President Cyril Ramaphosa has unveiled sweeping measures to curb illegal migration. But as tensions rise and anti-migrant protesters remain unconvinced, can his plan end the wave of anti-foreigner protests?",
+      "snippet": "A neo-Nazi candidate surprisingly lost by small margin in a local election in the eastern state of Saxony. Many are relieved, yet concern remains.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Leipzig Bachfest 2026: Bach&apos;s music as hit parade",
-      "link": "https://www.dw.com/en/leipzig-bachfest-2026-bach-s-music-as-hit-parade/a-77477113?maca=en-rss-en-top-1022-rdf",
+      "title": "The strongest El Nino in more than a century may be coming",
+      "link": "https://www.dw.com/en/the-strongest-el-nino-in-more-than-a-century-may-be-coming/a-77469489?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The Leipzig Bach Festival honors the composer with a hit parade. Over 7,000 fans from 20 countries cast their votes. But Bach is celebrated in many other countries around the world as well.",
+      "snippet": "Warnings of a powerful El Nino weather pattern this year suggest that we may be about to face drought, flooding and extreme heat. What impacts are in store? And can we prepare for the worst of it?",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Peace Report: Are modern warlords in power?",
-      "link": "https://www.dw.com/en/peace-report-are-modern-warlords-in-power/a-77478186?maca=en-rss-en-top-1022-rdf",
+      "title": "Middle East: Iran targets US bases in retaliatory strikes",
+      "link": "https://www.dw.com/en/middle-east-iran-targets-us-bases-in-retaliatory-strikes/live-77482934?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Russia invades Ukraine, Israel and the US attack Iran, civil wars drag on in Africa — and what about international law? German researchers paint a grim picture in their latest annual Peace Report.",
+      "snippet": "Iran is attacking US bases across the Persian Gulf. US President Trump says Iran will \"pay the price\" for not having already signed a peace deal. Israel is continuing strikes against Hezbollah in Lebanon. DW has more.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "US-Israel: What are the allegations of espionage all about?",
-      "link": "https://www.dw.com/en/us-israel-what-are-the-allegations-of-espionage-all-about/a-77475139?maca=en-rss-en-top-1022-rdf",
+      "title": "Kenya: LGBTQ+ community still here, still queer despite cuts",
+      "link": "https://www.dw.com/en/kenya-lgbtq-community-still-here-still-queer-despite-cuts/a-77484560?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The Pentagon has reportedly raised Israel&apos;s espionage threat level to the US to its highest internal category. While both sides officially deny this, the case remains highly controversial due to the war in Iran.",
+      "snippet": "LGBTQ+ organizations in Kenya are struggling: Deep funding cuts, not just during Pride, have forced layoffs, shrinking services and tough choices. But organizations that serve queer communities are adapting.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany upbeat as final World Cup preparations begin",
-      "link": "https://www.dw.com/en/germany-upbeat-as-final-world-cup-preparations-begin/a-77476392?maca=en-rss-en-top-1022-rdf",
+      "title": "Belfast stabbing suspect in court after night of protests",
+      "link": "https://www.dw.com/en/belfast-stabbing-suspect-in-court-after-night-of-protests/a-77485962?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "As the German men&apos;s national football team embark on their final preparations for the World Cup at their base camp in North Carolina, they&apos;re looking to make amends for disappointing tournaments in Russia and Qatar.",
+      "snippet": "The suspect in the knife attack, a Sudanese man, has been remanded into custody. UK leaders have called for calm after the stabbing sparked anti-immigrant riots in Belfast overnight.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "India slams Pakistan at UN over &apos;Fitna al Hindustan&apos; label",
-      "link": "https://www.dw.com/en/india-slams-pakistan-at-un-over-fitna-al-hindustan-label/live-77468319?maca=en-rss-en-top-1022-rdf",
+      "title": "&apos;Disclosure Day&apos;: For Spielberg, aliens are not just fiction",
+      "link": "https://www.dw.com/en/disclosure-day-for-spielberg-aliens-are-not-just-fiction/a-77478176?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "India lambasted Pakistan at the UN General Assembly over its anti-India rhetoric and its strikes on Afghanistan, which killed hundreds of civilians. Follow DW for more.",
+      "snippet": "As Steven Spielberg releases a new film on extraterrestrials, here&apos;s a brief history of modern alien conspiracies and why scientists are now taking UFO reports seriously.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Japanese city captures black bear after multi-day hunt",
-      "link": "https://www.dw.com/en/japanese-city-captures-black-bear-after-multi-day-hunt/a-77474620?maca=en-rss-en-top-1022-rdf",
+      "title": "World Cup 2026: Edin Dzeko still going strong for Bosnia",
+      "link": "https://www.dw.com/en/world-cup-2026-edin-dzeko-still-going-strong-for-bosnia/a-77340981?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The bear was on the loose for four days, prompting mass school closures and a dramatic search involving helicopters and dozens of hunters and police. A record 13 people were killed by bears in Japan last year.",
+      "snippet": "With all so much unpleasantness surrounding this World Cup it&apos;s easy to forget that there&apos;s anything about it that can generate a smile. Bosnia captain Edin Dzeko&apos;s story can.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran&apos;s shelves are full, but wallets are empty. As war drives prices up, Tehran residents say food is slipping out of reach.",
-      "link": "https://www.dw.com/en/iran-s-shelves-are-full-but-wallets-are-empty-as-war-drives-prices-up-tehran-residents-say-food-is-slipping-out-of-reach/a-77475037?maca=en-rss-en-top-1022-rdf",
+      "title": "Pakistan carries out new deadly strikes on Afghanistan",
+      "link": "https://www.dw.com/en/pakistan-carries-out-new-deadly-strikes-on-afghanistan/a-77483466?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Authorities in Iran are trying to alleviate pressure on consumers with food vouchers and raising the minimum wage. However, some residents of Tehran told DW they are finding it hard to make ends meet.",
+      "snippet": "Pakistan has hit three Afghan provinces with airstrikes, according to the Taliban. The Afghan government reports that 13 civilians were killed in the fresh strikes, while Pakistan says it killed 26 militants.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Why Anthropic has the edge over OpenAI in IPO race",
-      "link": "https://www.dw.com/en/why-anthropic-has-the-edge-over-openai-in-ipo-race/a-77471291?maca=en-rss-en-top-1022-rdf",
+      "title": "War in Ukraine: Kyiv strikes key Russian supply lines",
+      "link": "https://www.dw.com/en/war-in-ukraine-kyiv-strikes-key-russian-supply-lines/a-77480640?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The rivalry between Sam Altman and Dario Amodei is entering a new phase. Both AI bosses are planning public listings and hope to use the money to outpace each other in the race to build superintelligent AI.",
+      "snippet": "Russian troops rely on supplies via the land corridor to Crimea, but Ukrainian forces are now able to launch concentrated attacks along the critical route. Experts say this indicates growing Russian vulnerability.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "The most powerful El Nino in a century could be on its way",
-      "link": "https://www.dw.com/en/the-most-powerful-el-nino-in-a-century-could-be-on-its-way/a-77469489?maca=en-rss-en-top-1022-rdf",
+      "title": "Hitler&apos;s henchmen killed for promotions and recognition",
+      "link": "https://www.dw.com/en/hitler-s-henchmen-killed-for-promotions-and-recognition/a-77473037?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Warnings of a strong El Nino weather phenomenon this year suggest the coming months could be characterized by drought, flooding and extreme heat. What impacts are in store, and can we prepare for the worst of it?",
+      "snippet": "The Nazi leader&apos;s followers were not monsters, but ordinary men. Philosopher Hannah Arendt had already observed this. Two researchers now provide the evidence.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Philippines: Large Mindanao quake displaced roughly 20,000",
-      "link": "https://www.dw.com/en/philippines-large-mindanao-quake-displaced-roughly-20-000/a-77470139?maca=en-rss-en-top-1022-rdf",
+      "title": "God&apos;s green Earth: US pastors preach environment stewardship",
+      "link": "https://www.dw.com/en/god-s-green-earth-us-pastors-preach-environment-stewardship/a-77173938?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Rescuers are still searching ruined buildings in the Philippines for anyone possibly trapped inside after Monday&apos;s quake. The tremor claimed at least 37 lives and forced roughly 20,000 people to leave their homes.",
+      "snippet": "As the Trump administration undoes scores of environmental regulations and protections, some US Christian leaders are inviting their congregations to do as the Bible asks and be good stewards of the land.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Will Ebola have an impact on the World Cup?",
-      "link": "https://www.dw.com/en/will-ebola-have-an-impact-on-the-world-cup/a-77470256?maca=en-rss-en-top-1022-rdf",
+      "title": "South Africa: Mass shooting kills 12 near Johannesburg",
+      "link": "https://www.dw.com/en/south-africa-mass-shooting-kills-12-near-johannesburg/a-77483899?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "While ticket prices, heat and politics have made headlines, Ebola has been a World Cup worry for DR Congo. The African nation has qualified for the first time in 52 years, but does the outbreak have wider implications?",
+      "snippet": "Police are hunting for multiple suspects after gunmen killed 12 people in a Johannesburg settlement. The attack has highlighted ongoing violence in South Africa, where murder rates are among the world&apos;s highest.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Smaller cities top out happiness rankings",
-      "link": "https://www.dw.com/en/germany-news-smaller-cities-top-out-happiness-rankings/live-77469738?maca=en-rss-en-top-1022-rdf",
+      "title": "NASA picks first European astronaut for Artemis mission",
+      "link": "https://www.dw.com/en/nasa-picks-first-european-astronaut-for-artemis-mission/a-77482632?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Erfurt has been ranked Germany’s happiest city, jumping to the top of a nationwide survey. Meanwhile, German exports have posted a surprise third straight monthly increase.",
+      "snippet": "Italian astronaut Luca Parmitano will be the lead pilot for the Artemis III test flight. The NASA mission is expected to launch in 2027 to test technology for a future moon landing.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Kenya: Protester shot dead at rally against US Ebola center",
-      "link": "https://www.dw.com/en/kenya-protester-shot-dead-at-rally-against-us-ebola-center/a-77469392?maca=en-rss-en-top-1022-rdf",
+      "title": "US strikes Iran in response to helicopter shootdown",
+      "link": "https://www.dw.com/en/us-strikes-iran-in-response-to-helicopter-shootdown/live-77467866?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Plans to open a quarantine center for American citizens exposed to Ebola are facing fierce local resistance. Some Kenyans accuse the US government of outsourcing health risks.",
+      "snippet": "The US military announced fresh \"self-defense\" attacks on Iran after the downing of an Apache helicopter over the Strait of Hormuz. DW has more.",
       "tier": 2
     }
   ]
