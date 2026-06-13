@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T01:27:50.378Z",
+  "generatedAt": "2026-06-13T12:58:56.340Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,26 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
       "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 13 Jun 2026 00:51:20 GMT",
-      "snippet": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+      "publishedAt": "Sat, 13 Jun 2026 11:15:18 GMT",
+      "snippet": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Switzerland to vote on plan to cap population at 10 million",
+      "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 11:47:42 GMT",
+      "snippet": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+      "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 05:00:04 GMT",
+      "snippet": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
       "tier": 1
     },
     {
@@ -48,22 +64,6 @@
     },
     {
       "source": "BBC World",
-      "title": "French town buries murdered child as questions mount over police failings",
-      "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 16:19:12 GMT",
-      "snippet": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-      "link": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 15:55:46 GMT",
-      "snippet": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Fans on concourses instead of in seats, claims Fifa",
       "link": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 12 Jun 2026 20:26:23 GMT",
@@ -72,42 +72,26 @@
     },
     {
       "source": "BBC World",
-      "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
-      "link": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 11:12:11 GMT",
-      "snippet": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame.",
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 04:09:07 GMT",
+      "snippet": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
-      "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 00:45:20 GMT",
-      "snippet": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs.",
+      "title": "Anthropic suspends new AI tools over US government security concerns",
+      "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 03:54:01 GMT",
+      "snippet": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "More time needed for deadly Air India crash inquiry, officials say",
-      "link": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 15:09:40 GMT",
-      "snippet": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
-      "link": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 16:41:53 GMT",
-      "snippet": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-      "link": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 05:01:48 GMT",
-      "snippet": "Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park.",
+      "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
+      "link": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 03:28:25 GMT",
+      "snippet": "The approval marks a key development in the merger that will reshape media, allowing the continue of the takeover of the Hollywood studio, which owns CNN and HBO.",
       "tier": 1
     },
     {
@@ -120,6 +104,22 @@
     },
     {
       "source": "BBC World",
+      "title": "French town buries murdered child as questions mount over police failings",
+      "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 16:19:12 GMT",
+      "snippet": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "More time needed for deadly Air India crash inquiry, officials say",
+      "link": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 15:09:40 GMT",
+      "snippet": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "South Africa trolled by African fans in wake of World Cup loss",
       "link": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 12 Jun 2026 10:52:42 GMT",
@@ -128,10 +128,34 @@
     },
     {
       "source": "BBC World",
-      "title": "David Hockney: Art's great innovator whose vivid paintings made him a household name",
-      "link": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 09:52:22 GMT",
-      "snippet": "The proud Yorkshireman, who also painted iconic pictures of America, was routinely described as Britain's greatest artist.",
+      "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
+      "link": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 16:41:53 GMT",
+      "snippet": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
+      "link": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 15:55:46 GMT",
+      "snippet": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime",
+      "link": "https://www.bbc.com/news/articles/cpq393dz535o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 01:14:00 GMT",
+      "snippet": "The painter broke social taboos by celebrating same-sex relationships in his art.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "The college scam that promised students fleeing war a new life in Finland",
+      "link": "https://www.bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 22:08:38 GMT",
+      "snippet": "BBC speaks to students from war-torn Myanmar who say they were cheated after paying to study abroad.",
       "tier": 1
     },
     {
@@ -160,34 +184,58 @@
     },
     {
       "source": "BBC World",
-      "title": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show",
-      "link": "https://www.bbc.com/news/articles/cd6p6z7pq9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 11 Jun 2026 23:37:15 GMT",
-      "snippet": "Bases across Iran have been hit by US strikes, with experts identifying damage to jets and warships.",
+      "title": "David Hockney: Art's great innovator whose vivid paintings made him a household name",
+      "link": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 09:52:22 GMT",
+      "snippet": "The proud Yorkshireman, who also painted iconic pictures of America, was routinely described as Britain's greatest artist.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Four UFO videos newly declassified by US government",
-      "link": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 14:59:52 GMT",
-      "snippet": "The eyewitness footage shows bright orbs in the sky over an undisclosed location in the northeastern US.",
+      "source": "NPR News",
+      "title": "4 things to know about the new sunscreen ingredient the FDA approved",
+      "link": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
+      "publishedAt": "Sat, 13 Jun 2026 08:00:00 -0400",
+      "snippet": "The Food and Drug Administration approved a new sunscreen ingredient in the U.S. for the first time in 20 years. It&apos;s been used for decades in Europe and Asia.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Three things to know about SpaceX's stock market debut",
-      "link": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 08:39:37 GMT",
-      "snippet": "The BBC's Samira Hussain explains everything you need to know about SpaceX's historic IPO.",
+      "source": "NPR News",
+      "title": "A plan to get lifesaving food to malnourished kids was working -- until it wasn&apos;t",
+      "link": "https://www.npr.org/2026/06/13/nx-s1-5787791/malnourished-children-senegal-therapeutic-food-plumpynut",
+      "publishedAt": "Sat, 13 Jun 2026 07:07:38 -0400",
+      "snippet": "Through an innovative program, parents in Senegal had easy access to a therapeutic food that&apos;s a boon for malnourished kids. Now there are shortages. Health specialists say U.S. aid cuts are to blame.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
-      "link": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 06:25:10 GMT",
-      "snippet": "The BBC's Michelle Fleury spoke to Tom Mueller, who was one of the company's founders alongside Elon Musk in 2002.",
+      "source": "NPR News",
+      "title": "&apos;Cool Ladies Club&apos; is directed by 10 working-class women. They live up to the title",
+      "link": "https://www.npr.org/2026/06/13/g-s1-125467/cool-ladies-club-movies-working-class-women-documentary-india",
+      "publishedAt": "Sat, 13 Jun 2026 06:56:45 -0400",
+      "snippet": "They gave smartphones to 10 women from a working-class Indian community to make a documentary about their unseen and unheralded lives. The results are .... pretty cool.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "COMIC: How excessive heat kills and how to stay safe",
+      "link": "https://www.npr.org/2026/06/13/g-s1-126350/heat-wave-safety-weather-heatstroke",
+      "publishedAt": "Sat, 13 Jun 2026 06:00:00 -0400",
+      "snippet": "Human bodies have a natural cooling system, but it can do only so much in high temperatures and humidity. Here&apos;s the science behind how heat kills. And how to protect yourself.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Pope Leo XIV&apos;s flight home from Spain was grounded so the king came to his aid",
+      "link": "https://www.npr.org/2026/06/13/nx-s1-5856981/pope-leo-flight-grounded",
+      "publishedAt": "Sat, 13 Jun 2026 00:29:38 -0400",
+      "snippet": "Leo&apos;s Iberia charter, due to take him back to Rome after a weeklong visit to Spain, was grounded by a technical problem Friday, prompting Spain&apos;s king to offer his private jet instead.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump says U.S. military strike killed leader of Tren de Aragua gang",
+      "link": "https://www.npr.org/2026/06/12/nx-s1-5856611/u-s-military-kill-leader-tren-de-aragua",
+      "publishedAt": "Fri, 12 Jun 2026 23:38:54 -0400",
+      "snippet": "President Trump said Friday that a U.S. strike has killed Hector Rusthenford Guerrero Flores, whom he called \"the infamous leader\" of the Tren de Aragua gang in Venezuela.",
       "tier": 1
     },
     {
@@ -200,10 +248,10 @@
     },
     {
       "source": "NPR News",
-      "title": "Trump&apos;s name is poised to be removed from the Kennedy Center",
+      "title": "Workers begin removing Trump&apos;s name from the Kennedy Center",
       "link": "https://www.npr.org/2026/06/12/g-s1-128017/trump-name-kennedy-center",
       "publishedAt": "Fri, 12 Jun 2026 20:43:32 -0400",
-      "snippet": "A judge rejected a request to pause a court-ordered deadline of Friday to remove references to President Trump from the building. The institution appealed, an effort that was also rebuffed Friday evening.",
+      "snippet": "Workers began removing President Trump&apos;s name from the facade of the Kennedy Center early Saturday, hours after a court-ordered Friday deadline to remove references to Trump from the building.",
       "tier": 1
     },
     {
@@ -220,54 +268,6 @@
       "link": "https://www.npr.org/2026/06/12/nx-s1-5856567/paramount-acquisition-warner-bros-discovery-merger",
       "publishedAt": "Fri, 12 Jun 2026 18:29:12 -0400",
       "snippet": "The decision paves the way for a proposed $111 billion merger uniting two rival studio giants — Paramount, owner of CBS, and the much larger Warner, which includes HBO and CNN.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "A Trump push to cut &apos;statistical noise&apos; could mean less data from the Census Bureau",
-      "link": "https://www.npr.org/2026/06/12/nx-s1-5855734/census-bureau-data-differential-privacy",
-      "publishedAt": "Fri, 12 Jun 2026 18:01:19 -0400",
-      "snippet": "New public data for redistricting and other uses may be reduced as Trump officials limit the ways the Census Bureau can protect people&apos;s privacy when it releases statistics.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Trump says he has canceled planned strikes on Iran and peace deal is near — again",
-      "link": "https://www.npr.org/2026/06/12/g-s1177-127971/trump-says-he-has-canceled-planned-strikes-on-iran-and-peace-deal-is-near-again",
-      "publishedAt": "Fri, 12 Jun 2026 16:08:26 -0400",
-      "snippet": "President Trump has canceled planned strikes in Iran, claiming, once again, that a peace deal is near. This is just the latest salvo in a series of whiplash proclamations when it comes to the U.S.-Israel-led war in Iran.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "What would it take to stop women from bleeding to death after childbirth?",
-      "link": "https://www.npr.org/2026/06/12/g-s1-127758/childbirth-postpartum-hemorrhage-bleeding",
-      "publishedAt": "Fri, 12 Jun 2026 15:05:32 -0400",
-      "snippet": "A newly published series of reports calls attention to a dire situation facing millions of women after childbirth — and the solutions that can prevent death from postpartum hemorrhage.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "To read more this summer, stop waiting for the perfect moment",
-      "link": "https://www.npr.org/2026/06/12/nx-s1-5856397/how-to-read-more-this-summer",
-      "publishedAt": "Fri, 12 Jun 2026 14:45:42 -0400",
-      "snippet": "So you want to ignite a reading habit this summer. How do you get back into the groove? We talk to reading enthusiasts for their best tricks — like allowing yourself to read wherever, whenever.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "China arrests a U.S. scholar with a history of Myanmar activism, suspected of spying",
-      "link": "https://www.npr.org/2026/06/12/nx-s1-5856394/china-arrest-us-citizen-myanmar",
-      "publishedAt": "Fri, 12 Jun 2026 13:04:38 -0400",
-      "snippet": "China&apos;s government said Min Zin, who heads a think tank focused on Myanmar, was detained on suspicion of engaging in \"espionage and endangering Chinese national security.\"",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "A key U.S. spy tool is set to lapse on Friday — now what?",
-      "link": "https://www.npr.org/2026/06/12/nx-s1-5856291/fisa-702-surveillance-expiration-bill-pulte",
-      "publishedAt": "Fri, 12 Jun 2026 11:00:00 -0400",
-      "snippet": "The government says more than 60% of the president&apos;s daily intelligence briefing relies on information collected under a tool known as FISA Section 702. But Congress has struggled to renew it.",
       "tier": 1
     },
     {
@@ -440,6 +440,78 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Germany news: Hopes high ahead of first World Cup match",
+      "link": "https://www.dw.com/en/germany-news-hopes-high-ahead-of-first-world-cup-match/live-77535533?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany is to play World Cup debutant Curacao on Sunday at its first appearance in this year&apos;s soccer championship. And another German-French defense project seems to be in jeopardy. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Anthropic cuts top-tier AI access after US foreigner ban",
+      "link": "https://www.dw.com/en/anthropic-cuts-top-tier-ai-access-after-us-foreigner-ban/a-77534688?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The firm said it was ordered to block foreign nationals from accessing its state of the art Fable 5 and Mythos 5 AI models on national security grounds.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: Pakistan PM says peace deal expected in 24 hours",
+      "link": "https://www.dw.com/en/iran-war-pakistan-pm-says-peace-deal-expected-in-24-hours/live-77535647?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Pakistani Prime Minister Shehbaz Sharif said the US and Iran are inching closer to cementing a deal, with \"finalisation likely expected in the next 24 hours.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: &apos;Biryani date&apos; controversy sparks debate on consent and entitlement",
+      "link": "https://www.dw.com/en/india-news-biryani-date-controversy-sparks-debate-on-consent-and-entitlement/live-77534404?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A viral comedy show clip has triggered discussions about whether paying for a date creates expectations of intimacy, highlighting broader concerns about consent. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US, Venezuela say Tren de Aragua leader killed in strike",
+      "link": "https://www.dw.com/en/us-venezuela-say-tren-de-aragua-leader-killed-in-strike/a-77534071?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The leader of the Venezuela-based Tren de Aragua gang has died in a US strike, US President Donald Trump says. The gang has been labeled a terrorist organization by Washington.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Sudan war: UAE denies supporting RSF and Colombian recruits",
+      "link": "https://www.dw.com/en/sudan-war-uae-denies-supporting-rsf-and-colombian-recruits/a-77530527?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Human rights organizations accuse the UAE of supporting the RSF militia, which has seen a number of high-profile defections to the Sudanese Armed Forces. Meanwhile, the civilian population continues to suffer.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Woman critically injured in shark attack at Sydney beach",
+      "link": "https://www.dw.com/en/woman-critically-injured-in-shark-attack-at-sydney-beach/a-77534097?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A woman, believed to be in her 30s, sustained critical injuries after being bitten by a shark off Sydney&apos;s Coogee Beach.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Swiss to vote on whether to cap population at 10 million",
+      "link": "https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "On June 14, Swiss voters will be able to decide on a far-right initiative to curb future immigration. What will it mean for the economy — and the country&apos;s European neighbors — if they approve the proposal?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US clears Paramount&apos;s mammoth Warner Bros merger",
+      "link": "https://www.dw.com/en/us-clears-paramount-s-mammoth-warner-bros-merger/a-77532579?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Paramount has been given the green light to take over Warner Bros. Discovery for $110 billion, including its subsidiary CNN, fueling fears of media censorship and increased control over the US entertainment industry.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Elon Musk becomes world&apos;s first trillionaire after SpaceX IPO",
       "link": "https://www.dw.com/en/elon-musk-becomes-world-s-first-trillionaire-after-spacex-ipo/a-77529579?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -516,78 +588,6 @@
       "link": "https://www.dw.com/en/india-bets-big-on-domestic-drones-for-future-warfare/a-77523962?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "India is preparing to place its largest-ever military drone order, a procurement worth more than $2 billion that could rapidly expand the country&apos;s unmanned warfare capabilities.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why bear attacks are rising fast in Japan",
-      "link": "https://www.dw.com/en/why-bear-attacks-are-rising-fast-in-japan/a-77521911?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Experts say bears are less afraid of humans as hunter numbers fall, pushing them beyond their traditional habitats in search of food.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Pistorius asks for time mulling next-generation jet FCAS replacement",
-      "link": "https://www.dw.com/en/germany-news-pistorius-asks-for-time-mulling-next-generation-jet-fcas-replacement/live-77523802?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany&apos;s defense minister says the government needs time to evaluate a bid for a new possible military jet project. A nine-year Franco-German endeavor, the FCAS, collapsed this week.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fast-track border checks, return centers, &apos;mandatory solidarity&apos;: What the EU’s new asylum rules could change — and what they may not.",
-      "link": "https://www.dw.com/en/fast-track-border-checks-return-centers-mandatory-solidarity-what-the-eu-s-new-asylum-rules-could-change-and-what-they-may-not/a-77508144?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany aims to further reduce the number of new asylum seekers. The reformed EU asylum law (CEAS) came into effect on Friday, but experts say it is unlikely to achieve all it sets out to do.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Will life improve for Hungary&apos;s Roma community under Magyar?",
-      "link": "https://www.dw.com/en/will-life-improve-for-hungary-s-roma-community-under-magyar/a-77509082?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Under Viktor Orban, the Roma community was kept at the very bottom of the social ladder. His successor is taking a stand against antiziganism. But can Hungarian Roma expect fundamental changes?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "British artist David Hockney dies at 88",
-      "link": "https://www.dw.com/en/british-artist-david-hockney-dies-at-88/a-77521907?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Considered a superstar of pop art, the UK painter was one of the world&apos;s most influential artists during his lifetime.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Taliban arrest 30 women for violating hijab rules, UN says",
-      "link": "https://www.dw.com/en/taliban-arrest-30-women-for-violating-hijab-rules-un-says/a-77517764?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The arrests come amid a growing struggle for women in Afghanistan who&apos;ve been practically barred from society under Taliban rule.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Jonathan Tah&apos;s first World Cup and the long wait",
-      "link": "https://www.dw.com/en/jonathan-tah-s-first-world-cup-and-the-long-wait/a-77512263?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The 2026 World Cup will be the Bayern Munich defender&apos;s first for Germany. This moment has been a long time coming.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: FM blasts Europe criticism of buying Russian oil",
-      "link": "https://www.dw.com/en/india-news-fm-blasts-europe-criticism-of-buying-russian-oil/live-77516858?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Defending India&apos;s energy ties with Moscow at a conference in Helsinki, India&apos;s foreign minister S Jaishankar said the US asked India to buy Russian oil. Also, a fire in Delhi killed three.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Julian Nagelsmann: The coach struggling to speak to Germany",
-      "link": "https://www.dw.com/en/julian-nagelsmann-the-coach-struggling-to-speak-to-germany/a-77209578?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Considered German football&apos;s X factor during Euro 2024, head coach Julian Nagelsmann enters the 2026 World Cup with more questions than optimism.",
       "tier": 2
     }
   ]
