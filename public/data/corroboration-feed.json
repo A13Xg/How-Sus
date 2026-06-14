@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T12:58:56.340Z",
+  "generatedAt": "2026-06-14T01:32:07.941Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,10 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 13 Jun 2026 11:15:18 GMT",
-      "snippet": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 18:39:26 GMT",
+      "snippet": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
       "tier": 1
     },
     {
@@ -48,10 +48,66 @@
     },
     {
       "source": "BBC World",
+      "title": "Nigerian author accuses hospital of stalling review into her son's death",
+      "link": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 14 Jun 2026 01:08:20 GMT",
+      "snippet": "Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
+      "link": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 22:17:08 GMT",
+      "snippet": "An note on the Ticketmaster website for buying tickets to the game caused confusion and backlash among New Yorkers.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+      "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 22:05:24 GMT",
+      "snippet": "A niche group of content creators called \"virtual parents\" have become hugely popular among young people.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
       "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 13 Jun 2026 05:00:04 GMT",
       "snippet": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Woman seriously injured in shark attack at Sydney beach",
+      "link": "https://www.bbc.com/news/articles/c3ryw807133o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 15:24:25 GMT",
+      "snippet": "The woman, 35, was pulled from the water by members of the public and then airlifted to hospital, police say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's name removed from Kennedy Center after court order",
+      "link": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 17:00:23 GMT",
+      "snippet": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Kidnapped Nigerian retired general dies in captivity",
+      "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 15:25:09 GMT",
+      "snippet": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Anthropic suspends new AI tools over US government security concerns",
+      "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 16:28:38 GMT",
+      "snippet": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
       "tier": 1
     },
     {
@@ -64,14 +120,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Fans on concourses instead of in seats, claims Fifa",
-      "link": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 20:26:23 GMT",
-      "snippet": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
       "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 13 Jun 2026 04:09:07 GMT",
@@ -80,10 +128,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Anthropic suspends new AI tools over US government security concerns",
-      "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 13 Jun 2026 03:54:01 GMT",
-      "snippet": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
+      "title": "Fans on concourses instead of in seats, claims Fifa",
+      "link": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 12 Jun 2026 20:26:23 GMT",
+      "snippet": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
       "tier": 1
     },
     {
@@ -92,54 +140,6 @@
       "link": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 13 Jun 2026 03:28:25 GMT",
       "snippet": "The approval marks a key development in the merger that will reshape media, allowing the continue of the takeover of the Hollywood studio, which owns CNN and HBO.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "King leads tributes to 'giant of the art world' David Hockney",
-      "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 19:10:14 GMT",
-      "snippet": "The artist, who has died at the age of 88, \"was one of life's true originals\", King Charles says.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "French town buries murdered child as questions mount over police failings",
-      "link": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 16:19:12 GMT",
-      "snippet": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "More time needed for deadly Air India crash inquiry, officials say",
-      "link": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 15:09:40 GMT",
-      "snippet": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "South Africa trolled by African fans in wake of World Cup loss",
-      "link": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 10:52:42 GMT",
-      "snippet": "The taunting reflects anger from parts of the continent over reports of xenophobia in South Africa.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
-      "link": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 16:41:53 GMT",
-      "snippet": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-      "link": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 15:55:46 GMT",
-      "snippet": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.",
       "tier": 1
     },
     {
@@ -184,10 +184,34 @@
     },
     {
       "source": "BBC World",
-      "title": "David Hockney: Art's great innovator whose vivid paintings made him a household name",
-      "link": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 12 Jun 2026 09:52:22 GMT",
-      "snippet": "The proud Yorkshireman, who also painted iconic pictures of America, was routinely described as Britain's greatest artist.",
+      "title": "The costs and challenges facing the 2026 World Cup",
+      "link": "https://www.bbc.com/news/videos/c24ynjvm43qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 13 Jun 2026 06:21:43 GMT",
+      "snippet": "The World Cup officially kicked off this week - but alongside the football, there are questions around heat, cost, the environmental impact and travel restrictions.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Police investigate theft of England equipment at World Cup, 2 people in custody",
+      "link": "https://www.npr.org/2026/06/13/g-s1-128070/police-investigate-england-equipment-world-cup-kansas-city-florida",
+      "publishedAt": "Sat, 13 Jun 2026 17:10:59 -0400",
+      "snippet": "Two people have been detained in connection with the theft of equipment from the England national team&apos;s vehicles during their move from a pre-training base in Florida to Kansas City, where they have their permanent World Cup base camp.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "As Bay Area hosts World Cup, empty red seats are everywhere at Levi&apos;s Stadium",
+      "link": "https://www.npr.org/2026/06/13/g-s1-128068/bay-area-world-cup-empty-red-seats-levis-stadium",
+      "publishedAt": "Sat, 13 Jun 2026 17:06:36 -0400",
+      "snippet": "On Friday, FIFA blamed the empty seats during the World Cup match between South Korea and the Czech Republic in Guadalajara on fans who watched from the concourses. Levi&apos;s Stadium staged the Super Bowl only four months ago.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "A Lebanon town&apos;s grief in the aftermath of a deadly Israeli airstrike",
+      "link": "https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike",
+      "publishedAt": "Sat, 13 Jun 2026 17:02:53 -0400",
+      "snippet": "More than 3,700 people in Lebanon have died in the war between Israel and Hezbollah. In a village in southern Lebanon, one airstrike last month killed 14 people, including 10 women and children.",
       "tier": 1
     },
     {
@@ -200,7 +224,7 @@
     },
     {
       "source": "NPR News",
-      "title": "A plan to get lifesaving food to malnourished kids was working -- until it wasn&apos;t",
+      "title": "A plan to get lifesaving food to hungry kids was working well -- until it wasn&apos;t",
       "link": "https://www.npr.org/2026/06/13/nx-s1-5787791/malnourished-children-senegal-therapeutic-food-plumpynut",
       "publishedAt": "Sat, 13 Jun 2026 07:07:38 -0400",
       "snippet": "Through an innovative program, parents in Senegal had easy access to a therapeutic food that&apos;s a boon for malnourished kids. Now there are shortages. Health specialists say U.S. aid cuts are to blame.",
@@ -247,27 +271,99 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Workers begin removing Trump&apos;s name from the Kennedy Center",
-      "link": "https://www.npr.org/2026/06/12/g-s1-128017/trump-name-kennedy-center",
-      "publishedAt": "Fri, 12 Jun 2026 20:43:32 -0400",
-      "snippet": "Workers began removing President Trump&apos;s name from the facade of the Kennedy Center early Saturday, hours after a court-ordered Friday deadline to remove references to Trump from the building.",
+      "source": "PBS Headlines",
+      "title": "Trump taps James M. McDonald as U.S. Attorney for the Southern District of New York",
+      "link": "https://www.pbs.org/newshour/nation/trump-taps-james-m-mcdonald-as-u-s-attorney-for-the-southern-district-of-new-york",
+      "publishedAt": "Sat, 13 Jun 2026 18:43:15 -0400",
+      "snippet": "President Donald Trump said Saturday that he will appoint one of his personal lawyers to serve as the top federal prosecutor in Manhattan.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Paramount-Warner Brothers merger gets Justice Department approval",
-      "link": "https://www.npr.org/2026/06/12/nx-s1-5856563/justice-dept-approves-paramounts-acquisition-of-warner-bros-discovery",
-      "publishedAt": "Fri, 12 Jun 2026 19:24:40 -0400",
-      "snippet": "The Justice Department closed its investigation into the proposed $110 billion merger of Paramount and Warner Brothers Discovery, saying it found no threat to competition or consumers.",
+      "source": "PBS Headlines",
+      "title": "Tens of thousands march at Pride events in Romania and Bulgaria to demand equality",
+      "link": "https://www.pbs.org/newshour/world/tens-of-thousands-march-at-pride-events-in-romania-and-bulgaria-to-demand-equality",
+      "publishedAt": "Sat, 13 Jun 2026 17:04:33 -0400",
+      "snippet": "Romania and Bulgaria do not recognize same-sex marriage or civil partnerships, despite the bloc prohibiting discrimination based on sexual orientation.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Justice Dept. approves Paramount&apos;s acquisition of Warner Bros. Discovery",
-      "link": "https://www.npr.org/2026/06/12/nx-s1-5856567/paramount-acquisition-warner-bros-discovery-merger",
-      "publishedAt": "Fri, 12 Jun 2026 18:29:12 -0400",
-      "snippet": "The decision paves the way for a proposed $111 billion merger uniting two rival studio giants — Paramount, owner of CBS, and the much larger Warner, which includes HBO and CNN.",
+      "source": "PBS Headlines",
+      "title": "Ukrainian drone strike kills 1 and injures 3 in southern Russia",
+      "link": "https://www.pbs.org/newshour/world/ukrainian-drone-strike-kills-1-and-injures-3-in-southern-russia",
+      "publishedAt": "Sat, 13 Jun 2026 15:59:38 -0400",
+      "snippet": "A Ukrainian drone attack killed one person and injured three in Russia's southern Krasnodar region, local officials said Saturday. Drone debris also sparked a fire at a sea terminal, local Gov. Veniamin Kondratyev said.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
+      "link": "https://www.pbs.org/newshour/nation/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms",
+      "publishedAt": "Sat, 13 Jun 2026 15:52:18 -0400",
+      "snippet": "The company behind the popular chatbot ChatGPT said it will respond to the inquiry \"constructively\" and that it already has in place measures to protect its customers.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Macron to host Trump for dinner at Versailles after G7 summit",
+      "link": "https://www.pbs.org/newshour/world/macron-to-host-trump-for-dinner-at-versailles-after-g7-summit",
+      "publishedAt": "Sat, 13 Jun 2026 15:05:47 -0400",
+      "snippet": "President Donald Trump and French President Emmanuel Macron will meet over dinner at the glittering Palace of Versailles near Paris after the G7 summit next week in France.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "First-of-its-kind law in New York could block 3D printers from making guns",
+      "link": "https://www.pbs.org/newshour/nation/first-of-its-kind-law-in-new-york-could-block-3d-printers-from-making-guns",
+      "publishedAt": "Sat, 13 Jun 2026 14:18:45 -0400",
+      "snippet": "A first-of-its-kind law in New York could force 3D printers sold for homes and business to come equipped with technology blocking them from making guns.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Fact-checking claims about 'unprecedented' demand for World Cup tickets",
+      "link": "https://www.pbs.org/newshour/world/fact-checking-claims-about-unprecedented-demand-for-world-cup-tickets",
+      "publishedAt": "Sat, 13 Jun 2026 13:53:08 -0400",
+      "snippet": "Many of the 2026 World Cup matches were not sold out as of Friday — and the existing ticket sales have unfolded amid pricing controversies.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Thousands rally in Belfast to condemn anti-immigrant rioting that followed stabbing",
+      "link": "https://www.pbs.org/newshour/world/thousands-rally-in-belfast-to-condemn-anti-immigrant-rioting-that-followed-stabbing",
+      "publishedAt": "Sat, 13 Jun 2026 13:10:20 -0400",
+      "snippet": "The anti-racism rally came after nights of fiery violence in parts of Northern Ireland following the arrest of a 30-year-old man from Sudan on charges of attempted murder in a stabbing that left a man partly blind.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Judge orders restoration of National Park changes made by Trump administration",
+      "link": "https://www.pbs.org/newshour/nation/judge-orders-restoration-of-national-park-changes-made-by-trump-administration",
+      "publishedAt": "Sat, 13 Jun 2026 13:07:02 -0400",
+      "snippet": "\"History cannot be faithfully told while excluding the experiences of communities whose contributions, struggles, and achievements form an important part of our Nation's story,\" the judge wrote.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Canada's Carney says middle-power countries shouldn't compete for favor with the U.S.",
+      "link": "https://www.pbs.org/newshour/world/canadas-carney-says-middle-power-countries-shouldnt-compete-for-favor-with-the-u-s",
+      "publishedAt": "Sat, 13 Jun 2026 12:39:42 -0400",
+      "snippet": "Carney said that Canada and the European Union have a combined population that is more than twice that of the U.S., with a similarly sized economy and a collective defense budget that is twice that of China's. He said smaller nations can multiply their strength by partnering with",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "What to know about a possible U.S.-Iran deal to end the war",
+      "link": "https://www.pbs.org/newshour/world/what-to-know-about-a-possible-u-s-iran-deal-to-end-the-war",
+      "publishedAt": "Sat, 13 Jun 2026 12:29:22 -0400",
+      "snippet": "The United States and Iran once again appear close to a deal to end the war and open the Strait of Hormuz.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Trump's name removed from the Kennedy Center building following court-ordered deadline",
+      "link": "https://www.pbs.org/newshour/nation/trumps-name-removed-from-the-kennedy-center-building-following-court-ordered-deadline",
+      "publishedAt": "Sat, 13 Jun 2026 11:32:58 -0400",
+      "snippet": "Matt Floca, executive director and chief operating officer of the performing arts venue, told a federal court Saturday that the institution had complied with an order to remove Trump's name from the facade.",
       "tier": 1
     },
     {
@@ -335,107 +431,67 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Lawyers for man accused of killing Charlie Kirk try to block prosecutors from seeking death penalty",
-      "link": "https://www.pbs.org/newshour/nation/lawyers-for-man-accused-of-killing-charlie-kirk-try-to-block-prosecutors-from-seeking-death-penalty",
-      "publishedAt": "Fri, 12 Jun 2026 17:54:54 -0400",
-      "snippet": "Attorneys for the man accused of killing Charlie Kirk asked a judge Friday to block prosecutors from seeking the death penalty as punishment for comments they made in the media about a bullet fragment recovered from Kirk's body.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Political blame game follows as screwworm parasite threatens cattle in Texas",
-      "link": "https://www.pbs.org/newshour/health/political-blame-game-follows-as-screwworm-parasite-threatens-cattle-in-texas",
-      "publishedAt": "Fri, 12 Jun 2026 17:38:16 -0400",
-      "snippet": "Screwworms are on their way to becoming a billion-dollar international problem but can be contained if ranchers are vigilant, watch their herds and other wildlife, and quickly treat any infestations, U.S. Agriculture Secretary Brooke Rollins said.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Ahead of G7, Canada's Carney softens tone toward Trump with trade talks at stake",
-      "link": "https://www.pbs.org/newshour/world/ahead-of-g7-canadas-carney-softens-tone-toward-trump-with-trade-talks-at-stake",
-      "publishedAt": "Fri, 12 Jun 2026 17:12:53 -0400",
-      "snippet": "Canadian Prime Minister Mark Carney's speech at the World Economic Forum in Davos, Switzerland, became a symbol of middle-power resistance in January, when he declared the global rules-based order over and condemned coercion by great powers on smaller countries.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Judge rules Trump can stage UFC fights on the White House's South Lawn this weekend",
-      "link": "https://www.pbs.org/newshour/politics/judge-rules-trump-can-stage-ufc-fights-on-the-white-houses-south-lawn-this-weekend",
-      "publishedAt": "Fri, 12 Jun 2026 17:03:29 -0400",
-      "snippet": "A federal judge ruled on Friday that the White House is allowed to stage a UFC show this weekend in an elaborate ring already built on the South Lawn to celebrate the nation's 250th anniversary — on President Donald Trump's 80th birthday.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "More than 30 lawsuits filed against aerospace company in California over damaged chemical tank",
-      "link": "https://www.pbs.org/newshour/nation/more-than-30-lawsuits-filed-against-aerospace-company-in-california-over-damaged-chemical-tank",
-      "publishedAt": "Fri, 12 Jun 2026 16:47:56 -0400",
-      "snippet": "More than 100 individuals — including some families with pets — as well as local businesses are suing GKN Aerospace, saying the U.K.-based company was negligent in maintaining a safe facility, especially since it's located in a large population center.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "FBI searches office of Ohio group that supports voter registration efforts",
-      "link": "https://www.pbs.org/newshour/politics/fbi-searches-office-of-ohio-group-that-supports-voter-registration-efforts",
-      "publishedAt": "Fri, 12 Jun 2026 16:29:00 -0400",
-      "snippet": "Federal agents showed up at the Cleveland office of the Ohio Organizing Collaborative on Thursday and spent hours questioning staff, said Prentiss Haney, a board member of the grassroots organization.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "WATCH LIVE: UFC Freedom 250 holds news conference ahead of White House fight on Trump's birthday",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-ufc-freedom-250-holds-news-conference-ahead-of-white-house-fight-on-trumps-birthday",
-      "publishedAt": "Fri, 12 Jun 2026 16:13:19 -0400",
-      "snippet": "More than $60 million and tens of thousands of hours of labor have been poured into building the arena.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "As officials again say Iran war could soon end, some Trump objectives are unfulfilled",
-      "link": "https://www.pbs.org/newshour/politics/as-officials-again-say-iran-war-could-soon-end-some-trump-objectives-are-unfulfilled",
-      "publishedAt": "Fri, 12 Jun 2026 16:08:17 -0400",
-      "snippet": "By most accounts, strikes by the U.S. and Israel have significantly degraded Iran's military capabilities and killed scores of senior leaders. But those tactical successes don't necessarily translate into achieving all of President Donald Trump's strategic aims, even as the admin",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Where Trump has lost support with independents, according to AP-NORC polling",
-      "link": "https://www.pbs.org/newshour/politics/where-trump-has-lost-support-with-independents-according-to-ap-norc-polling",
-      "publishedAt": "Fri, 12 Jun 2026 15:15:55 -0400",
-      "snippet": "Independents have grown increasingly unhappy with President Donald Trump during his second term, a new AP-NORC polling analysis finds, particularly those without a college degree.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Taylor Swift becomes the youngest woman inducted into the Songwriters Hall of Fame at age 36",
-      "link": "https://www.pbs.org/newshour/arts/taylor-swift-becomes-the-youngest-woman-inducted-into-the-songwriters-hall-of-fame-at-age-36",
-      "publishedAt": "Fri, 12 Jun 2026 14:48:51 -0400",
-      "snippet": "Taylor Swift became the youngest woman ever inducted into the Songwriters Hall of Fame Thursday night at age 36.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Pope tells traffickers of migrants in the Canary Islands: Stop, repent or face God's wrath",
-      "link": "https://www.pbs.org/newshour/world/pope-tells-traffickers-of-migrants-in-the-canary-islands-stop-repent-or-face-gods-wrath",
-      "publishedAt": "Fri, 12 Jun 2026 14:38:06 -0400",
-      "snippet": "Pope Leo XIV warned people smugglers on Friday that they will face God's wrath for exploiting the desperation of migrants, demanding they stop and repent during his final day in this epicenter of the African migration route to Europe.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Disaster drills helped prevent more deaths when powerful quake hit the southern Philippines",
-      "link": "https://www.pbs.org/newshour/world/disaster-drills-helped-prevent-more-deaths-when-powerful-quake-hit-the-southern-philippines",
-      "publishedAt": "Fri, 12 Jun 2026 14:08:29 -0400",
-      "snippet": "Philippine officials said Friday that years of disaster-preparedness drills helped prevent a larger casualty toll when one of the strongest earthquakes in 50 years struck the south and left 46 people dead with 38 others missing.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Belfast: Thousands denounce violence at anti-racism rally",
+      "link": "https://www.dw.com/en/belfast-thousands-denounce-violence-at-anti-racism-rally/a-77539568?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Protesters condemned the scenes of anti-immigrant violence seen earlier in the week, which were in response to an alleged knife attack by a Sudanese refugee.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Fact check: These FIFA World Cup ticket sites are fake",
+      "link": "https://www.dw.com/en/fact-check-these-fifa-world-cup-ticket-sites-are-fake/a-77538740?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Desperate to get hold of tickets for the football World Cup, many fans face being scammed by sites set up to sell fake tickets. Here&apos;s how to make sure you don&apos;t fall into the trap.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nigeria: Abducted former general dies in captivity",
+      "link": "https://www.dw.com/en/nigeria-abducted-former-general-dies-in-captivity/a-77538322?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Rabe Abubakar was abducted along with his wife by so-called bandits in the northwest. A government statement said he died from complications related to diabetes and hypertension.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Gold rush atmosphere at Berlin&apos;s military air trade show",
+      "link": "https://www.dw.com/en/gold-rush-atmosphere-at-berlin-s-military-air-trade-show/a-77538303?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "This year&apos;s ILA Berlin Air Show is breaking records, primarily because of the booming defense sector, which is reaping billions in contracts as a result of wars and crises.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US deports migrants, including Iranian activist, to CAR",
+      "link": "https://www.dw.com/en/us-deports-migrants-including-iranian-activist-to-car/a-77537594?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The number of migrants deported is not yet clear, but it is believed to be around two dozen. The Trump administration has signed controversial deals with several African countries to deport migrants it cannot send home.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany faces EU penalty over gender pay gap directive",
+      "link": "https://www.dw.com/en/germany-faces-eu-penalty-over-gender-pay-gap-directive/a-77527802?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany was required to incorporate the EU Pay Transparency Directive into its national law, but it has missed the deadline.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "A major submarine deal between India and Germany reflects New Delhi&apos;s push for military self-reliance — and Berlin&apos;s interest in the Indo-Pacific.",
+      "link": "https://www.dw.com/en/a-major-submarine-deal-between-india-and-germany-reflects-new-delhi-s-push-for-military-self-reliance-and-berlin-s-interest-in-the-indo-pacific/a-77503931?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A multibillion-dollar submarine deal between India and Germany reflects New Delhi&apos;s push for military self-reliance — and Berlin&apos;s growing interest in the Indo-Pacific.",
       "tier": 2
     },
     {
@@ -456,10 +512,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran war: Pakistan PM says peace deal expected in 24 hours",
-      "link": "https://www.dw.com/en/iran-war-pakistan-pm-says-peace-deal-expected-in-24-hours/live-77535647?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran war: Trump says deal to be signed on Sunday",
+      "link": "https://www.dw.com/en/iran-war-trump-says-deal-to-be-signed-on-sunday/live-77535647?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Pakistani Prime Minister Shehbaz Sharif said the US and Iran are inching closer to cementing a deal, with \"finalisation likely expected in the next 24 hours.\"",
+      "snippet": "Mediator Pakistan has said the deal could be finalized \"in the next 24 hours,\" but Iran says an agreement is unlikely to be confirmed on Sunday. DW has more.",
       "tier": 2
     },
     {
@@ -467,7 +523,7 @@
       "title": "India news: &apos;Biryani date&apos; controversy sparks debate on consent and entitlement",
       "link": "https://www.dw.com/en/india-news-biryani-date-controversy-sparks-debate-on-consent-and-entitlement/live-77534404?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A viral comedy show clip has triggered discussions about whether paying for a date creates expectations of intimacy, highlighting broader concerns about consent. DW has more.",
+      "snippet": "A viral comedy show clip has triggered discussions about whether paying for a date creates expectations of intimacy, highlighting broader concerns about consent.",
       "tier": 2
     },
     {
@@ -480,8 +536,8 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Sudan war: UAE denies supporting RSF and Colombian recruits",
-      "link": "https://www.dw.com/en/sudan-war-uae-denies-supporting-rsf-and-colombian-recruits/a-77530527?maca=en-rss-en-top-1022-rdf",
+      "title": "Mercenaries and high-profile defectors abound in Sudan war",
+      "link": "https://www.dw.com/en/mercenaries-and-high-profile-defectors-abound-in-sudan-war/a-77530527?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Human rights organizations accuse the UAE of supporting the RSF militia, which has seen a number of high-profile defections to the Sudanese Armed Forces. Meanwhile, the civilian population continues to suffer.",
       "tier": 2
@@ -532,62 +588,6 @@
       "link": "https://www.dw.com/en/iran-us-say-deal-to-end-war-has-never-been-closer/live-77520654?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Iran&apos;s foreign minister and the US president have both stated that an agreement to end the war in Iran could be imminent. Mediators in Pakistan say they are working \"to finalize the next steps.\" DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "German students up in arms about funding cuts",
-      "link": "https://www.dw.com/en/german-students-up-in-arms-about-funding-cuts/a-77528594?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany&apos;s research minister, Dorothee Bär, says the situation of German students is \"very privileged\" and has rejected reform of the Federal Training Assistance Act (BAföG), thereby turning many students against her.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "German court holds Google liable for fake AI answers",
-      "link": "https://www.dw.com/en/german-court-holds-google-liable-for-fake-ai-answers/a-77527661?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Judges in Bavaria drew a distinction between standard search engine results and AI-generated summaries. They ruled that tech giants themselves are responsible for the content of answers provided by AI.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran-US deal: What are the main sticking points?",
-      "link": "https://www.dw.com/en/iran-us-deal-what-are-the-main-sticking-points/a-77526613?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US and Iran may be nearing a breakthrough, according to Donald Trump. DW looks at what has emerged so far, and the key risks and challenges shaping any possible agreement.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Curacao&apos;s World Cup dream: &apos;Nothing is impossible&apos;",
-      "link": "https://www.dw.com/en/curacao-s-world-cup-dream-nothing-is-impossible/a-77464061?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Curacao is the smallest nation ever to qualify for a World Cup. The Caribbean island is abuzz ahead of their first match on football&apos;s biggest stage – against four-time champions Germany.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Sahel juntas are &apos;crushing&apos; basic freedoms",
-      "link": "https://www.dw.com/en/sahel-juntas-are-crushing-basic-freedoms/a-77500618?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In the Sahel countries of Mali, Burkina Faso, and Niger, military rulers are increasingly clamping down on press freedom and freedom of expression. Many journalists, bloggers and activists have been forced into exile.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why is Bulgaria banning arms supplies to Ukraine?",
-      "link": "https://www.dw.com/en/why-is-bulgaria-banning-arms-supplies-to-ukraine/a-77523515?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Bulgaria&apos;s new government has banned state arms supplies to Ukraine. The ban does not, however, affect commercial exports, raising the question as to whether the move was aimed more at a domestic audience than at Kyiv.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India bets big on domestic drones for future warfare",
-      "link": "https://www.dw.com/en/india-bets-big-on-domestic-drones-for-future-warfare/a-77523962?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "India is preparing to place its largest-ever military drone order, a procurement worth more than $2 billion that could rapidly expand the country&apos;s unmanned warfare capabilities.",
       "tier": 2
     }
   ]
