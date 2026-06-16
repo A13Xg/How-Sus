@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T14:32:49.185Z",
+  "generatedAt": "2026-06-16T01:34:46.531Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,34 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Oil prices fall and shares jump after US-Iran deal announced",
-      "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 14:21:22 GMT",
-      "snippet": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 00:03:56 GMT",
+      "snippet": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+      "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 14:26:28 GMT",
+      "snippet": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
+      "link": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 23:40:31 GMT",
+      "snippet": "The claims also prompted a response from UK media regulator Ofcom, who called them \"deeply concerning\".",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Norwegian crown princess's son found guilty of two counts of rape",
       "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 11:09:03 GMT",
+      "publishedAt": "Mon, 15 Jun 2026 17:10:30 GMT",
       "snippet": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-      "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 12:07:36 GMT",
-      "snippet": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
       "tier": 1
     },
     {
@@ -64,18 +72,18 @@
     },
     {
       "source": "BBC World",
-      "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
-      "link": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 06:47:23 GMT",
-      "snippet": "The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday.",
+      "title": "South African jazz legend Abdullah Ibrahim dies at 91",
+      "link": "https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 17:25:15 GMT",
+      "snippet": "Ibrahim helped define a genre of South African jazz music in a career that spanned eight decades.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
-      "link": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 12:37:27 GMT",
-      "snippet": "The chain was criticised for a \"Tank Day\" marketing ploy on the anniversary of a military massacre.",
+      "title": "MSF staff abused Sudanese refugees in sex-for-food scandal",
+      "link": "https://www.bbc.com/news/articles/c74ykjl8mx3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 16:32:48 GMT",
+      "snippet": "Some victims said they chose not to speak out because they feared staff would cut off access to aid.",
       "tier": 1
     },
     {
@@ -88,10 +96,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Man apologises for making racist gesture at Korean in World Cup match",
-      "link": "https://www.bbc.com/news/articles/cddly65p76no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 03:31:58 GMT",
-      "snippet": "He was caught pulling the corners of his eyes at a South Korean influencer during the match in Mexico.",
+      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+      "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 12:07:36 GMT",
+      "snippet": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
+      "link": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 06:47:23 GMT",
+      "snippet": "The singer-songwriter is among six people presumed dead in an air crash over Rio de Janeiro on Sunday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
+      "link": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 12:37:27 GMT",
+      "snippet": "The chain was criticised for a \"Tank Day\" marketing ploy on the anniversary of a military massacre.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Fifa seeks explanation over VAR official's hand gesture",
+      "link": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 12:59:09 GMT",
+      "snippet": "Fifa is seeking an explanation over a hand gesture made by video assistant referee Shaun Evans before Germany's 7-1 win over Curacao on Sunday.",
       "tier": 1
     },
     {
@@ -136,58 +168,50 @@
     },
     {
       "source": "BBC World",
-      "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
-      "link": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 14 Jun 2026 12:04:54 GMT",
-      "snippet": "Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say.",
+      "title": "Witnessing joy amid the death: BBC travels to epicentre of Ebola outbreak",
+      "link": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 23:26:39 GMT",
+      "snippet": "There are glimpses of happiness in the Democratic Republic of Congo's fight against the virus that has killed more than 170.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Fifa to pay Somali referee Artan full World Cup fee",
-      "link": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 14 Jun 2026 09:00:08 GMT",
-      "snippet": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
+      "title": "What one country's experiment says about attempts to boost birth rates",
+      "link": "https://www.bbc.com/news/articles/c5yzdr4ygdno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 23:56:47 GMT",
+      "snippet": "Why did Hungary’s pronatalist approach deliver an early rise in births only then to fall back? And what lessons does it offer to other countries desperate to lift fertility?",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "UK and Japan agree £18bn investment deal",
-      "link": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 14 Jun 2026 20:29:15 GMT",
-      "snippet": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
+      "title": "A year on, six questions still haunt the Air India crash investigation",
+      "link": "https://www.bbc.com/news/articles/c6214prydklo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 23:09:10 GMT",
+      "snippet": "From fuel switches to engine failures, here are the biggest mysteries around the Air India crash inquiry.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Norway braces for verdict in rape trial of crown princess's son Høiby",
-      "link": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 13 Jun 2026 23:11:28 GMT",
-      "snippet": "Marius Borg Høiby will appear via video link, almost three months after his trial came to an end on 40 charges, including four counts of rape.",
+      "source": "NPR News",
+      "title": "Former ICE leader lands new job consulting on national security and defense",
+      "link": "https://www.npr.org/2026/06/15/nx-s1-5859429/todd-lyons-ice-detention",
+      "publishedAt": "Mon, 15 Jun 2026 19:48:00 -0400",
+      "snippet": "Because of his former job, Todd Lyons cannot engage with the Department of Homeland Security for a year, per federal law.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Unclear if US-Iran agreement will provide respite to Lebanon",
-      "link": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 01:37:47 GMT",
-      "snippet": "Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.",
+      "source": "NPR News",
+      "title": "Soccer Edition: Watch World Cup highlights from across the NPR Network",
+      "link": "https://www.npr.org/2026/06/15/g-s1-126999/soccer-edition-watch-world-cup-highlights-from-across-the-npr-network",
+      "publishedAt": "Mon, 15 Jun 2026 12:09:09 -0400",
+      "snippet": "The 2026 World Cup is playing out in communities across the country. Journalists from NPR and its member stations are in your city — capturing the excitement and asking the important questions.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Trump heralds Iran deal but questions - and risks - remain",
-      "link": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 02:41:25 GMT",
-      "snippet": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Is the convertible heading into the sunset?",
-      "link": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 14 Jun 2026 23:25:00 GMT",
-      "snippet": "UK drivers have taken a shine to the SUV but could the fate of the convertible be reversed?",
+      "source": "NPR News",
+      "title": "As the U.S. turns 250, this historian has blunt advice: &apos;America has to grow up&apos;",
+      "link": "https://www.npr.org/2026/06/15/nx-s1-5856348/america-250-eddie-glaude",
+      "publishedAt": "Mon, 15 Jun 2026 11:42:05 -0400",
+      "snippet": "In America, U.S.A., Princeton historian Eddie Glaude Jr. looks at the country through the lens of its previous anniversaries and centennials. \"The divided soul of the nation is in full view,\" he says.",
       "tier": 1
     },
     {
@@ -224,26 +248,10 @@
     },
     {
       "source": "NPR News",
-      "title": "U.S. and Iran announce a deal to end the war, reopen Strait of Hormuz",
+      "title": "U.S. and Iran announce an initial deal to end the war and reopen the Strait of Hormuz",
       "link": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
       "publishedAt": "Mon, 15 Jun 2026 05:55:23 -0400",
       "snippet": "The deal is a major breakthrough in the conflict that set the Middle East aflame and shook the global economy. However, it did not resolve critical issues set aside for further negotiations.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Campaigns are embracing influencers, but internet stardom doesn&apos;t always win votes",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5818654/primary-election-michigan-influencers-political-strategy-voters-hasan-piker",
-      "publishedAt": "Mon, 15 Jun 2026 05:00:00 -0400",
-      "snippet": "It&apos;s becoming common for campaigns to seek out viral moments and the support of internet stars to reach new voters. But the strategy, albeit flashy, has yielded mixed results in key races this year.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Inside Ebola country: NPR reports from eastern DR Congo&apos;s outbreak zone",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis",
-      "publishedAt": "Mon, 15 Jun 2026 05:00:00 -0400",
-      "snippet": "In eastern Democratic Republic of Congo, an Ebola outbreak is reshaping life, with fear spreading faster than information and hospitals turning into places of urgent containment rather than care.",
       "tier": 1
     },
     {
@@ -256,178 +264,170 @@
     },
     {
       "source": "NPR News",
-      "title": "It&apos;s been a thrilling start to the World Cup. Here are the highlights and what&apos;s next",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5857699/2026-fifa-world-cup-week-1-highlights",
+      "title": "Do internet super stars matter in elections?",
+      "link": "https://www.npr.org/2026/06/15/nx-s1-5818654/primary-election-michigan-influencers-political-strategy-voters-hasan-piker",
       "publishedAt": "Mon, 15 Jun 2026 05:00:00 -0400",
-      "snippet": "Now that the FIFA World Cup is underway in Mexico, Canada and the U.S., the drama has shifted to the fields, where there have been several surprising results heading into the first full week.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Trump celebrates 80th birthday with Iran deal and UFC fights at the White House",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5858610/trump-birthday-ufc-white-house",
-      "publishedAt": "Mon, 15 Jun 2026 04:46:10 -0400",
-      "snippet": "President Donald Trump marked his 80th birthday on Sunday by hailing an initial agreement to end the war in Iran and staging a cage-fighting show on the White House&apos;s storied South Lawn.",
+      "snippet": "It&apos;s becoming common for campaigns to seek out viral moments and the support of internet stars to reach new voters. But the strategy, albeit flashy, has yielded mixed results in key races this year.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Iran and U.S. reach an initial deal to extend the ceasefire and open the Strait of Hormuz but challenges remain",
-      "link": "https://www.pbs.org/newshour/world/iran-and-u-s-reach-an-initial-deal-to-extend-the-ceasefire-and-open-the-strait-of-hormuz-but-challenges-remain",
-      "publishedAt": "Mon, 15 Jun 2026 10:03:41 -0400",
-      "snippet": "Even if the strait fully opens then, it will likely take months for the global energy crisis sparked by its closure to ease.",
+      "title": "Trump hails Iran deal as G7 summit begins in Europe",
+      "link": "https://www.pbs.org/newshour/show/trump-hails-iran-deal-as-g7-summit-begins-in-europe",
+      "publishedAt": "Mon, 15 Jun 2026 18:55:37 -0400",
+      "snippet": "The United States and Iran appear closer to extending their shaky ceasefire after both sides electronically signed a memorandum that aims to end the war. But key questions remain ahead of its official signing later this week. The deal was center stage in France on Monday, where P",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Deal is reached to end Iran war and Trump orders stop to U.S. naval blockade",
-      "link": "https://www.pbs.org/newshour/world/deal-is-reached-to-end-iran-war-and-trump-orders-stop-to-us-naval-blockade",
-      "publishedAt": "Sun, 14 Jun 2026 18:10:19 -0400",
-      "snippet": "Details of the deal were not immediately available. Key mediator Pakistan said the signing will be Friday in Switzerland.",
+      "title": "How Israelis are responding to Trump's Iran peace plan",
+      "link": "https://www.pbs.org/newshour/show/how-israelis-are-responding-to-trumps-iran-peace-plan",
+      "publishedAt": "Mon, 15 Jun 2026 18:50:35 -0400",
+      "snippet": "President Trump says the U.S. and Iran have reached an initial agreement to end the war, the first steps in a deal with the regime. That agreement appears to include a ceasefire in Israeli strikes. But that country's defense minister says forces will not withdraw from Lebanon. As",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Putin and Zelenskyy each speak with Trump by phone as drone strikes kill 2 in Russia and U.K. detains tanker",
-      "link": "https://www.pbs.org/newshour/world/putin-and-zelenskyy-each-speak-with-trump-by-phone-as-drone-strikes-kill-2-in-russia-and-u-k-detains-tanker",
-      "publishedAt": "Sun, 14 Jun 2026 17:59:23 -0400",
-      "snippet": "Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy each spoke by phone with U.S. President Donald Trump on Sunday.",
+      "title": "U.S.-Iran deal a 'strategic defeat' for Israel, Middle East expert says",
+      "link": "https://www.pbs.org/newshour/show/u-s-iran-deal-a-strategic-defeat-for-israel-middle-east-expert-says",
+      "publishedAt": "Mon, 15 Jun 2026 18:45:05 -0400",
+      "snippet": "Where does the Iran deal leave U.S.- Israeli relations and the relationship between President Trump and Prime Minister Netanyahu? William Brangham discussed that with Aaron David Miller. He's served in both Democratic and Republican administrations and is now at the Carnegie Endo",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Eastern Congo reports 782 Ebola cases and 181 deaths, authorities say",
-      "link": "https://www.pbs.org/newshour/world/eastern-congo-reports-782-ebola-cases-and-181-deaths-authorities-say",
-      "publishedAt": "Sun, 14 Jun 2026 17:09:16 -0400",
-      "snippet": "The number of confirmed Ebola cases in Congo has increased to 782, with 181 deaths, the Congolese Ministry of Health said in a statement on social platform X on Sunday evening.",
+      "title": "News Wrap: Newsom says Trump ordering DOJ to investigate him and wife",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-newsom-says-trump-ordering-doj-investigate-him-and-wife",
+      "publishedAt": "Mon, 15 Jun 2026 18:40:36 -0400",
+      "snippet": "In our news wrap Monday, California Gov. Gavin Newsom says the Trump administration is using the Justice Department to investigate him and his wife, the U.S. military says a B-52 Stratofortress bomber crashed shortly after takeoff in California's Mojave Desert and the British gov",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Taiwan's intelligence agency launches webpage for Chinese nationals to report tips",
-      "link": "https://www.pbs.org/newshour/world/taiwans-intelligence-agency-launches-webpage-for-chinese-nationals-to-report-tips",
-      "publishedAt": "Sun, 14 Jun 2026 16:44:05 -0400",
-      "snippet": "Taiwan's intelligence agency said on Sunday it is establishing an information-reporting channel for Chinese nationals to offer tips securely.",
+      "title": "Alfredo sauce distributed to dozens of states recalled due to potential salmonella contamination",
+      "link": "https://www.pbs.org/newshour/health/alfredo-sauce-distributed-to-dozens-of-states-recalled-due-to-potential-salmonella-contamination",
+      "publishedAt": "Mon, 15 Jun 2026 18:40:35 -0400",
+      "snippet": "The sauce was voluntarily recalled by the supplier because it contained a dry milk powder ingredient that was possibly contaminated with salmonella, according to a U.S. Food and Drug Administration enforcement report.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "12 dead in crash of plane on skydiving outing in Missouri, authorities say",
-      "link": "https://www.pbs.org/newshour/nation/12-dead-in-crash-of-plane-on-skydiving-outing-in-missouri-authorities-say",
-      "publishedAt": "Sun, 14 Jun 2026 16:06:58 -0400",
-      "snippet": "The crash happened shortly after the plane took off from a local airport around 11:30 a.m., and some of the occupants' family members witnessed the crash, said Bates County Sheriff Chad Anderson.",
+      "title": "Amy Walter and Jasmine Wright on the Iran war's lasting impact on midterm politics",
+      "link": "https://www.pbs.org/newshour/show/amy-walter-and-jasmine-wright-on-the-iran-wars-lasting-impact-on-midterm-politics",
+      "publishedAt": "Mon, 15 Jun 2026 18:35:24 -0400",
+      "snippet": "Amy Walter of the Cook Political Report with Amy Walter and Jasmine Wright of NOTUS join William Brangham to discuss the latest political news, including President Trump's deal with Iran and Vice President Vance's promotion of it, the war's potential impact on the midterm electio",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "6 killed after 2 helicopters collide over Rio de Janeiro, singer Oliver Tree on passenger list",
-      "link": "https://www.pbs.org/newshour/world/6-killed-after-2-helicopters-collide-over-rio-de-janeiro-singer-oliver-tree-on-passenger-list",
-      "publishedAt": "Sun, 14 Jun 2026 15:42:52 -0400",
-      "snippet": "Two helicopters collided over Rio de Janeiro on Sunday morning and crashed in the city's western zone, killing all six people aboard, firefighters said.",
+      "title": "Dermatologist explains benefits of newly approved sunscreen ingredient",
+      "link": "https://www.pbs.org/newshour/show/dermatologist-explains-benefits-of-newly-approved-sunscreen-ingredient",
+      "publishedAt": "Mon, 15 Jun 2026 18:30:44 -0400",
+      "snippet": "For the first time in more than 25 years, the FDA has approved a new active ingredient for over-the-counter sunscreens. It clears the way for manufacturers to begin using bemotrizinol, or BEMT, an ingredient that's been used in Europe and Asia since the 1990s. Amna Nawaz discusse",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Britain detains sanctioned oil tanker suspected of ties to Russia's shadow fleet",
-      "link": "https://www.pbs.org/newshour/world/britain-detains-sanctioned-oil-tanker-suspected-of-ties-to-russias-shadow-fleet",
-      "publishedAt": "Sun, 14 Jun 2026 14:39:27 -0400",
-      "snippet": "Royal Marine commandos rappelled from helicopters onto the vessel, the Smyrtos, in the English Channel, in what the country's Defense Ministry called \"the first U.K.-led operation of its kind.\"",
+      "title": "Some of the skydivers killed in Missouri plane crash were experienced jumpers",
+      "link": "https://www.pbs.org/newshour/nation/some-of-the-skydivers-killed-in-missouri-plane-crash-were-experienced-jumpers",
+      "publishedAt": "Mon, 15 Jun 2026 18:28:24 -0400",
+      "snippet": "Authorities say the pilot and all 11 passengers died in the crash Sunday in Butler, Missouri.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Nara Organics recalls baby formula after multistate infant botulism outbreak",
-      "link": "https://www.pbs.org/newshour/nation/nara-organics-recalls-baby-formula-after-multistate-infant-botulism-outbreak",
-      "publishedAt": "Sun, 14 Jun 2026 13:37:55 -0400",
-      "snippet": "Nara Organics recalled its organic baby formula sold nationwide in Target stores and online Saturday after a multistate outbreak of infant botulism, federal authorities said.",
+      "title": "New book explores America's history of celebrating freedom while excluding millions",
+      "link": "https://www.pbs.org/newshour/show/new-book-explores-americas-history-of-celebrating-freedom-while-excluding-millions",
+      "publishedAt": "Mon, 15 Jun 2026 18:25:30 -0400",
+      "snippet": "The United States is preparing to mark 250 years since its founding, a milestone often framed as a celebration of democracy, freedom and national promise. But Eddie Glaude Jr. argues that America's anniversaries have always been shadowed by a deeper contradiction. Geoff Bennett s",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Protesters in Geneva clash with police ahead of the G7 summit in nearby France",
-      "link": "https://www.pbs.org/newshour/world/protestors-in-geneva-clash-with-police-ahead-of-the-g7-summit-in-nearby-france",
-      "publishedAt": "Sun, 14 Jun 2026 12:49:20 -0400",
-      "snippet": "A violent standoff extended into the evening after a series of incidents — including a car set ablaze and a bank's windows smashed — along the route of an afternoon march that drew an estimated 20,000 people.",
+      "title": "Monica McNutt reflects on the decades-long wait for a Knicks championship",
+      "link": "https://www.pbs.org/newshour/show/monica-mcnutt-reflects-on-the-decades-long-wait-for-a-knicks-championship",
+      "publishedAt": "Mon, 15 Jun 2026 18:20:40 -0400",
+      "snippet": "The city that never sleeps finally saw its dream come true when the New York Knicks won their first NBA title since 1973. Thousands of fans across the five boroughs celebrated wildly after the Knicks pulled off this upset win in the final seconds. William Brangham discussed the h",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump celebrates 80th birthday with Iran deal ahead of UFC fights on White House South Lawn",
-      "link": "https://www.pbs.org/newshour/politics/trump-celebrates-80th-birthday-with-iran-deal-ahead-of-ufc-fights-on-white-house-south-lawn",
-      "publishedAt": "Sun, 14 Jun 2026 12:38:48 -0400",
-      "snippet": "Trump marked turning 80 on Sunday by hailing an agreement to end the war in Iran hours before a birthday celebration that once would have seemed unfathomable: a cage-fighting show on the South Lawn of the White House.",
+      "title": "Iranian Americans plan protests and watch parties ahead of team's World Cup opener",
+      "link": "https://www.pbs.org/newshour/world/iranian-americans-plan-protests-and-watch-parties-ahead-of-teams-world-cup-opener",
+      "publishedAt": "Mon, 15 Jun 2026 18:11:05 -0400",
+      "snippet": "Iranian Americans are torn over Iran's participation in the World Cup, as some community members plan to watch Monday's match and others are protesting outside the stadium where the team will play.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Georgia's vote-counting method will soon be banned. Lawmakers will try to find a fix this week",
-      "link": "https://www.pbs.org/newshour/politics/georgias-vote-counting-method-will-soon-be-banned-lawmakers-will-try-to-find-a-fix-this-week",
-      "publishedAt": "Sun, 14 Jun 2026 12:22:54 -0400",
-      "snippet": "Legislators passed a law two years ago barring the use of the QR code printed on ballots that the state relies on to tally votes beyond July 1 of this year, but no replacement method was ever implemented.",
+      "title": "Social media platforms spread hate music in India despite policy violations, new report says",
+      "link": "https://www.pbs.org/newshour/world/social-media-platforms-spread-hate-music-in-india-despite-policy-violations-new-report-says",
+      "publishedAt": "Mon, 15 Jun 2026 17:58:01 -0400",
+      "snippet": "The report, \"Profiting From Hate Music,\" documents what researchers describe as the first comprehensive mapping of hate music across India's digital landscape.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Palestinian death toll in Gaza tops 73,000, officials say, as Israel strikes despite ceasefire",
-      "link": "https://www.pbs.org/newshour/world/palestinian-death-toll-in-gaza-tops-73000-officials-say-as-israel-strikes-despite-ceasefire",
-      "publishedAt": "Sun, 14 Jun 2026 11:46:07 -0400",
-      "snippet": "Israel says it is targeting Hamas and other militants who pose a threat, and in response to ceasefire violations, including occasional attacks.",
+      "title": "Meet Merlin the duck, a Mexico City streetside regular turned World Cup mascot",
+      "link": "https://www.pbs.org/newshour/world/meet-merlin-the-duck-a-mexico-city-streetside-regular-turned-world-cup-mascot",
+      "publishedAt": "Mon, 15 Jun 2026 16:50:01 -0400",
+      "snippet": "The 2-year-old duck dressed in Mexico's national colors became an internet sensation during Mexico's World Cup-opening victory over South Africa.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Knicks win first championship in 53 years, igniting celebrations and chaos in New York City",
-      "link": "https://www.pbs.org/newshour/nation/knicks-win-first-championship-in-53-years-igniting-celebrations-and-chaos-in-new-york-city",
-      "publishedAt": "Sun, 14 Jun 2026 11:43:32 -0400",
-      "snippet": "New York Knicks won their first NBA championship in 53 years on Saturday night, with exuberant celebrations marred by mayhem and violence, including a shooting in Times Square.",
+      "title": "Lawmakers fight to stop the Trump administration's dismantling of a $386 million ocean observatory project",
+      "link": "https://www.pbs.org/newshour/science/lawmakers-fight-to-stop-the-trump-administrations-dismantling-of-a-386-million-ocean-observatory-project",
+      "publishedAt": "Mon, 15 Jun 2026 16:44:10 -0400",
+      "snippet": "Monday's pushback against the Republican administration's actions comes as scientists are set to remove instruments from the Pacific and as an El Niño event is predicted to arrive this summer.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump taps James M. McDonald as U.S. Attorney for the Southern District of New York",
-      "link": "https://www.pbs.org/newshour/nation/trump-taps-james-m-mcdonald-as-u-s-attorney-for-the-southern-district-of-new-york",
-      "publishedAt": "Sat, 13 Jun 2026 18:43:15 -0400",
-      "snippet": "President Donald Trump said Saturday that he will appoint one of his personal lawyers to serve as the top federal prosecutor in Manhattan.",
+      "title": "South African jazz icon Abdullah Ibrahim dies in Germany at age 91 after a brief illness",
+      "link": "https://www.pbs.org/newshour/arts/south-african-jazz-icon-abdullah-ibrahim-dies-in-germany-at-age-91-after-a-brief-illness",
+      "publishedAt": "Mon, 15 Jun 2026 16:28:30 -0400",
+      "snippet": "Globally celebrated South African jazz icon Abdullah Ibrahim, who performed at Nelson Mandela 's 1994 presidential inauguration, has died at age 91, his family announced in a statement Monday.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Tens of thousands march at Pride events in Romania and Bulgaria to demand equality",
-      "link": "https://www.pbs.org/newshour/world/tens-of-thousands-march-at-pride-events-in-romania-and-bulgaria-to-demand-equality",
-      "publishedAt": "Sat, 13 Jun 2026 17:04:33 -0400",
-      "snippet": "Romania and Bulgaria do not recognize same-sex marriage or civil partnerships, despite the bloc prohibiting discrimination based on sexual orientation.",
+      "title": "8 people presumed dead after B-52 bomber crashes at U.S. Air Force base in Southern California",
+      "link": "https://www.pbs.org/newshour/politics/b-52-bomber-crashes-after-takeoff-at-u-s-military-base-in-southern-california",
+      "publishedAt": "Mon, 15 Jun 2026 16:14:01 -0400",
+      "snippet": "The plane crashed at around 11:20 a.m., the military said on the social platform X.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Ukrainian drone strike kills 1 and injures 3 in southern Russia",
-      "link": "https://www.pbs.org/newshour/world/ukrainian-drone-strike-kills-1-and-injures-3-in-southern-russia",
-      "publishedAt": "Sat, 13 Jun 2026 15:59:38 -0400",
-      "snippet": "A Ukrainian drone attack killed one person and injured three in Russia's southern Krasnodar region, local officials said Saturday. Drone debris also sparked a fire at a sea terminal, local Gov. Veniamin Kondratyev said.",
+      "title": "Tyra Banks sues Netflix over 'America's Next Top Model' documentary, alleging defamation",
+      "link": "https://www.pbs.org/newshour/arts/tyra-banks-sues-netflix-over-americas-next-top-model-documentary-alleging-defamation",
+      "publishedAt": "Mon, 15 Jun 2026 16:11:26 -0400",
+      "snippet": "Banks contends in the lawsuit filed Saturday that they edited her interviews to create a false narrative.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
-      "link": "https://www.pbs.org/newshour/nation/openai-hit-with-multistate-probe-into-possible-user-harm-as-its-ipo-looms",
-      "publishedAt": "Sat, 13 Jun 2026 15:52:18 -0400",
-      "snippet": "The company behind the popular chatbot ChatGPT said it will respond to the inquiry \"constructively\" and that it already has in place measures to protect its customers.",
+      "title": "What to know about the deal to end the Iran war",
+      "link": "https://www.pbs.org/newshour/world/what-to-know-about-the-deal-to-end-the-iran-war",
+      "publishedAt": "Mon, 15 Jun 2026 16:00:39 -0400",
+      "snippet": "Iran and the United States are trumpeting their tentative agreement aimed at ending their war as a victory. But so far there is no word on what's actually in it.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Macron to host Trump for dinner at Versailles after G7 summit",
-      "link": "https://www.pbs.org/newshour/world/macron-to-host-trump-for-dinner-at-versailles-after-g7-summit",
-      "publishedAt": "Sat, 13 Jun 2026 15:05:47 -0400",
-      "snippet": "President Donald Trump and French President Emmanuel Macron will meet over dinner at the glittering Palace of Versailles near Paris after the G7 summit next week in France.",
+      "title": "WATCH: Trump predicts 'great things' from Iran deal as he meets with Macron at G7",
+      "link": "https://www.pbs.org/newshour/world/watch-trump-predicts-great-things-from-iran-deal-as-he-meets-with-french-president-macron-at-g7",
+      "publishedAt": "Mon, 15 Jun 2026 15:47:16 -0400",
+      "snippet": "\"I think a lot of great things are going to happen in the Middle East right now, and very importantly the oil is plummeting down and the stock market is shooting up like a rocket today,\" Presidentt Donald Trump said.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "First-of-its-kind law in New York could block 3D printers from making guns",
-      "link": "https://www.pbs.org/newshour/nation/first-of-its-kind-law-in-new-york-could-block-3d-printers-from-making-guns",
-      "publishedAt": "Sat, 13 Jun 2026 14:18:45 -0400",
-      "snippet": "A first-of-its-kind law in New York could force 3D printers sold for homes and business to come equipped with technology blocking them from making guns.",
+      "title": "Senate candidate with same name as incumbent Dan Sullivan ineligible for ballot, official rules",
+      "link": "https://www.pbs.org/newshour/politics/senate-candidate-with-same-name-as-incumbent-dan-sullivan-ineligible-for-ballot-official-rules",
+      "publishedAt": "Mon, 15 Jun 2026 15:42:55 -0400",
+      "snippet": "A top Alaska election official has ruled that a U.S. Senate candidate with the same name and party affiliation as Republican incumbent Dan Sullivan is ineligible to appear on the state's primary ballot in August.",
       "tier": 1
     },
     {
@@ -436,6 +436,62 @@
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran updates: Netanyahu refrains from criticizing Iran deal",
+      "link": "https://www.dw.com/en/iran-updates-netanyahu-refrains-from-criticizing-iran-deal/live-77552154?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Israeli Prime Minister Benjamin Netanyahu, however, said he said he doesn&apos;t always share the same views as US President Donald Trump. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "UK announces social media ban for under-16s",
+      "link": "https://www.dw.com/en/uk-announces-social-media-ban-for-under-16s/a-77568831?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The United Kingdom is set to follow the example of Australia and Indonesia by banning teenagers from social networks. Prime Minister Keir Starmer said platforms like Instagram and TikTok make youngsters \"unhappy.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "EU, Ukraine start formal accession talks after Orban delay",
+      "link": "https://www.dw.com/en/eu-ukraine-start-formal-accession-talks-after-orban-delay/a-77566611?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The EU has formally opened the first stage of accession negotiations with Ukraine. This comes two years later than planned, as former Hungarian PM Viktor Orban was blocking the process prior to his election defeat.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Palestinian leader Abbas announces elections",
+      "link": "https://www.dw.com/en/palestinian-leader-abbas-announces-elections/a-77566529?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Presidential and legislative elections haven&apos;t taken place in the Palestinian territories for twenty years due to war and occupation, with veteran President Mahmoud Abbas ruling by decree.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "UN calls for drone regulation in conflict zones",
+      "link": "https://www.dw.com/en/un-calls-for-drone-regulation-in-conflict-zones/a-77565880?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "UN rights chief Volker Türk said more than 1,000 civilians in Sudan have been killed this year by drone attacks. The UN has called for regulation and accountability to prevent similar atrocities.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Strait of Hormuz reopening won&apos;t end shipping risks",
+      "link": "https://www.dw.com/en/strait-of-hormuz-reopening-won-t-end-shipping-risks/a-77553214?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A proposed US-Iran deal to reopen the Strait of Hormuz is raising hopes for global shipping and oil markets. But naval mines, high insurance costs and geopolitical risks mean disruption could persist for months.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "El Nino threatens livelihoods in Southeast Asia",
+      "link": "https://www.dw.com/en/el-nino-threatens-livelihoods-in-southeast-asia/a-77559356?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Hotter, drier weather is impeding rice and palm-oil production as households across Southeast Asia struggle with higher fuel, food and transport costs.",
       "tier": 2
     },
     {
@@ -456,8 +512,8 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran war: Will the global energy crisis end soon?",
-      "link": "https://www.dw.com/en/iran-war-will-the-global-energy-crisis-end-soon/a-77554342?maca=en-rss-en-top-1022-rdf",
+      "title": "US-Iran deal: When will oil prices fall?",
+      "link": "https://www.dw.com/en/us-iran-deal-when-will-oil-prices-fall/a-77554342?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "A potential US-Iran deal to end the war and reopen the Strait of Hormuz could ease the global energy crunch, but oil prices and supplies may take months to stabilize as shipping restarts and infrastructure recovers.",
       "tier": 2
@@ -467,7 +523,7 @@
       "title": "Germany news: 23 million tune in for World Cup win",
       "link": "https://www.dw.com/en/germany-news-23-million-tune-in-for-world-cup-win/live-77557116?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The Germany national team&apos;s 7-1 win over Curacao drew over 23 million viewers. Meanwhile, German President Steinmeier is kicking off his visit to Indonesia. Follow DW for more.",
+      "snippet": "The Germany national team&apos;s 7-1 win over Curacao drew over 23 million viewers. Meanwhile, German President Steinmeier is kicking off his visit to Indonesia.",
       "tier": 2
     },
     {
@@ -480,10 +536,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "G7: Leaders gather to grapple with wars, global economy",
-      "link": "https://www.dw.com/en/g7-leaders-gather-to-grapple-with-wars-global-economy/live-77556967?maca=en-rss-en-top-1022-rdf",
+      "title": "G7 summit begins, with Iran and Ukraine dominating agenda",
+      "link": "https://www.dw.com/en/g7-summit-begins-with-iran-and-ukraine-dominating-agenda/live-77556967?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The heads of the world&apos;s richest nations gather in France as the wars in Iran and Ukraine dominate the global agenda. The US has promised peace in Iran; fellow leaders are cautiously optimistic. DW has the latest.",
+      "snippet": "The heads of the world&apos;s richest nations are gathering in France this week. The EU wants Ukraine to be discussed, while the US has promised peace with Iran. G7 leaders are cautiously optimistic. DW has the latest.",
       "tier": 2
     },
     {
@@ -500,14 +556,6 @@
       "link": "https://www.dw.com/en/india-s-modi-in-slovakia-seeks-to-strengthen-trade-and-investment-ties/a-77553213?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Prime Minister Narendra Modi&apos;s visit to Bratislava marks the first by an Indian leader since Slovakia&apos;s \"velvet divorce\" from the Czech Republic.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran updates: World leaders express optimism for peace deal",
-      "link": "https://www.dw.com/en/iran-updates-world-leaders-express-optimism-for-peace-deal/live-77552154?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "World leaders have welcomed news of a peace deal that would reopen the Strait of Hormuz to international shipping. However, many details remain unconfirmed. DW has more.",
       "tier": 2
     },
     {
@@ -540,54 +588,6 @@
       "link": "https://www.dw.com/en/us-skydiving-plane-crash-leaves-12-people-dead-in-missouri/a-77551574?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "A plane on a skydiving excursion crashed in Missouri, leaving 11 passengers and one pilot dead. The incident occurred shortly after the plane became airborne.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: US, Iran announce tentative peace deal",
-      "link": "https://www.dw.com/en/iran-war-us-iran-announce-tentative-peace-deal/live-77540182?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Pakistani PM Shehbaz Sharif has announced a peace deal between the US and Iran, with a signing ceremony on June 19. Sharif said both sides would terminate military operations, including in Lebanon. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Manuel Neuer: The aura of a record-breaking goalkeeper",
-      "link": "https://www.dw.com/en/manuel-neuer-the-aura-of-a-record-breaking-goalkeeper/a-77538894?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany&apos;s hopes at the 2026 World Cup are connected to world-class goalkeeper Manuel Neuer&apos;s fitness and form.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany start 2026 World Cup with win over Curacao",
-      "link": "https://www.dw.com/en/germany-start-2026-world-cup-with-win-over-curacao/a-77538843?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "For the first time since they won the tournament in 2014, Germany won their opening game at the World Cup.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Police fire tear gas at anti-G7 protesters in Geneva",
-      "link": "https://www.dw.com/en/police-fire-tear-gas-at-anti-g7-protesters-in-geneva/a-77548464?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Protesters in Geneva clashed with police, set a car on fire and smashed the windows of a bank to show their opposition to the G7 summit taking place across the border in France.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK seizes suspected Russian shadow fleet tanker",
-      "link": "https://www.dw.com/en/uk-seizes-suspected-russian-shadow-fleet-tanker/a-77545832?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "UK forces on Sunday intercepted a sanctioned Russian ship, with navy commandos rappelling onboard from helicopters. The UK and Ukraine hailed the move, saying it robbed Russia of money for its ongoing war of aggression.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine targets Russia&apos;s industrial facilities in massive strike",
-      "link": "https://www.dw.com/en/ukraine-targets-russia-s-industrial-facilities-in-massive-strike/a-77542738?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Unverified footage on social media showed that a key chemical plant in Russia may have been hit. Meanwhile, the Uk has intercepted a Russian shadow fleet tanker.",
       "tier": 2
     }
   ]
