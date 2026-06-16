@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T01:34:46.531Z",
+  "generatedAt": "2026-06-16T14:11:09.646Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,18 +32,106 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
-      "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 00:03:56 GMT",
-      "snippet": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
+      "title": "Iran deal presents political nightmare for Netanyahu",
+      "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 03:40:36 GMT",
+      "snippet": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
-      "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 14:26:28 GMT",
-      "snippet": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
+      "title": "Russian artist and Putin critic shot dead in Poland",
+      "link": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 10:37:16 GMT",
+      "snippet": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Eight dead after US Air Force B-52 bomber crashes in California",
+      "link": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 01:49:03 GMT",
+      "snippet": "The incident occurred on Monday morning while the aircraft had been on a routine test mission.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Cuba tourism collapses as US pressure campaign bites",
+      "link": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 11:16:59 GMT",
+      "snippet": "The number of foreign visitors is down by 58% compared to last year, Cuban officials say, amid sanctions and an effective oil blockade.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Hungary's MPs block return of Orbán, limiting rule of PM to eight years",
+      "link": "https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 12:42:15 GMT",
+      "snippet": "The vote fulfils a promise by new PM Péter Magyar to stop his predecessor from becoming prime minister again.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
+      "link": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 07:05:54 GMT",
+      "snippet": "A picture in a new school textbook had covered up the naked torso of the famous figurine with dark shading.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "FBI thwarted plot targeting White House UFC event, Patel says",
+      "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 12:44:47 GMT",
+      "snippet": "US media say the plan would have involved a drone attack. The FBI boss says multiple suspects are in custody.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "India temporarily bans Telegram over exam paper leak concerns",
+      "link": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 09:23:06 GMT",
+      "snippet": "The NEET exam had earlier been scrapped over allegations of a paper leak, sparking massive protests.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Swedish man jailed for four years for coercing wife into sex with 120 men",
+      "link": "https://www.bbc.com/news/articles/crlwxg721eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 12:46:03 GMT",
+      "snippet": "The 61-year-old was found to have coerced his wife into sexual acts with men he found online in exchange for payment.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Tunisia sack head coach just one game into World Cup",
+      "link": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 06:43:19 GMT",
+      "snippet": "Tunisia sack Sabri Lamouchi one game into their World Cup, with former Morocco and Saudi Arabia manager Herve Renard replacing him.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "California's Gavin Newsom alleges justice department is investigating his wife and ex-staff",
+      "link": "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 23:06:58 GMT",
+      "snippet": "A source familiar with the investigations says they had been ongoing for \"roughly a year\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan raises interest rate to highest for 31 years",
+      "link": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 08:26:30 GMT",
+      "snippet": "The Bank of Japan has been raising rates from near-zero since 2024.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Nigerian army frees widow of ex-general who died in captivity",
+      "link": "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 09:06:57 GMT",
+      "snippet": "Maj Gen Rabe Abubakar and his wife Amina were abducted in north-west Nigeria at the end of last month.",
       "tier": 1
     },
     {
@@ -56,10 +144,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Norwegian crown princess's son found guilty of two counts of rape",
-      "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 17:10:30 GMT",
-      "snippet": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
+      "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
+      "link": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 00:11:47 GMT",
+      "snippet": "Australian activists claim they were kidnapped, raped and tortured after being detained in May.",
       "tier": 1
     },
     {
@@ -68,6 +156,22 @@
       "link": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 15 Jun 2026 10:24:09 GMT",
       "snippet": "Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trust in news hits a new low, research suggests",
+      "link": "https://www.bbc.com/news/articles/cvgq1py92eko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 03:57:28 GMT",
+      "snippet": "The Reuters Institute records its lowest trust figures since the annual research began in 2015.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Norwegian crown princess's son found guilty of two counts of rape",
+      "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 15 Jun 2026 17:10:30 GMT",
+      "snippet": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
       "tier": 1
     },
     {
@@ -87,187 +191,91 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
-      "link": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 13:07:18 GMT",
-      "snippet": "Al-Qaqa Ibn Antar had been attempting to climb its walls without safety equipment when he fell in, local authorities say.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-      "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 12:07:36 GMT",
-      "snippet": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
-      "link": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 06:47:23 GMT",
-      "snippet": "The singer-songwriter is among six people presumed dead in an air crash over Rio de Janeiro on Sunday.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
-      "link": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 12:37:27 GMT",
-      "snippet": "The chain was criticised for a \"Tank Day\" marketing ploy on the anniversary of a military massacre.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Fifa seeks explanation over VAR official's hand gesture",
-      "link": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 12:59:09 GMT",
-      "snippet": "Fifa is seeking an explanation over a hand gesture made by video assistant referee Shaun Evans before Germany's 7-1 win over Curacao on Sunday.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "China detains two leaders of influential underground church",
-      "link": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 07:56:43 GMT",
-      "snippet": "More than 30 members of Early Rain Covenant Church were taken for interrogation midway through Sunday service.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "South African TV star arrested after allegedly kidnapping man in girlfriend dispute",
-      "link": "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 10:21:10 GMT",
-      "snippet": "Molemo \"Jub Jub\" Maarohanye is accused of trapping a taxi driver in a car and firing a gun in the man's direction.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-      "link": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 14 Jun 2026 14:08:03 GMT",
-      "snippet": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Swiss voters reject 10 million population cap",
-      "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 14 Jun 2026 18:23:52 GMT",
-      "snippet": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump and thousands of others watch UFC fight on White House lawn",
-      "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 14:25:49 GMT",
-      "snippet": "Justin Gaethje beat Ilia Topuria to win the lightweight championship in the main event.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Witnessing joy amid the death: BBC travels to epicentre of Ebola outbreak",
-      "link": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 23:26:39 GMT",
-      "snippet": "There are glimpses of happiness in the Democratic Republic of Congo's fight against the virus that has killed more than 170.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "What one country's experiment says about attempts to boost birth rates",
-      "link": "https://www.bbc.com/news/articles/c5yzdr4ygdno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 23:56:47 GMT",
-      "snippet": "Why did Hungary’s pronatalist approach deliver an early rise in births only then to fall back? And what lessons does it offer to other countries desperate to lift fertility?",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "A year on, six questions still haunt the Air India crash investigation",
-      "link": "https://www.bbc.com/news/articles/c6214prydklo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 23:09:10 GMT",
-      "snippet": "From fuel switches to engine failures, here are the biggest mysteries around the Air India crash inquiry.",
+      "source": "NPR News",
+      "title": "Survey confirms the struggle of working parents: &apos;No way to be two things at once&apos;",
+      "link": "https://www.npr.org/2026/06/16/nx-s1-5856274/working-parents-balance-work-pew",
+      "publishedAt": "Tue, 16 Jun 2026 10:00:00 -0400",
+      "snippet": "A new Pew survey finds many working parents feel they cannot give 100% at either work or home. Benefits like paid sick leave and more affordable childcare could help.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Former ICE leader lands new job consulting on national security and defense",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5859429/todd-lyons-ice-detention",
-      "publishedAt": "Mon, 15 Jun 2026 19:48:00 -0400",
-      "snippet": "Because of his former job, Todd Lyons cannot engage with the Department of Homeland Security for a year, per federal law.",
+      "title": "How Israel could complicate Iran peace negotiations. And, World Cup highlights",
+      "link": "https://www.npr.org/2026/06/16/g-s1-128341/up-first-newsletter-iran-israel-g7-primaries-luigi-mangione",
+      "publishedAt": "Tue, 16 Jun 2026 06:53:19 -0400",
+      "snippet": "Israel has been sidelined in the agreement between the U.S. and Iran. It could spoil peace negotiations. And, it&apos;s been a thrilling start to the World Cup.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Soccer Edition: Watch World Cup highlights from across the NPR Network",
-      "link": "https://www.npr.org/2026/06/15/g-s1-126999/soccer-edition-watch-world-cup-highlights-from-across-the-npr-network",
-      "publishedAt": "Mon, 15 Jun 2026 12:09:09 -0400",
-      "snippet": "The 2026 World Cup is playing out in communities across the country. Journalists from NPR and its member stations are in your city — capturing the excitement and asking the important questions.",
+      "title": "Is it a renter&apos;s market? It depends on where you live",
+      "link": "https://www.npr.org/2026/06/16/nx-s1-5847678/rent-apartment-landlord-construction-boom",
+      "publishedAt": "Tue, 16 Jun 2026 06:00:00 -0400",
+      "snippet": "About 40% of rentals on Zillow offer move-in deals, like a month of free rent, thanks to a construction boom that created an apartment surplus in some parts of the United States.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "As the U.S. turns 250, this historian has blunt advice: &apos;America has to grow up&apos;",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5856348/america-250-eddie-glaude",
-      "publishedAt": "Mon, 15 Jun 2026 11:42:05 -0400",
-      "snippet": "In America, U.S.A., Princeton historian Eddie Glaude Jr. looks at the country through the lens of its previous anniversaries and centennials. \"The divided soul of the nation is in full view,\" he says.",
+      "title": "Is a transparent fish the future of brain science? This center is betting on it",
+      "link": "https://www.npr.org/2026/06/16/nx-s1-5859393/ai-science-brain-humans-fruit-fly-danionella",
+      "publishedAt": "Tue, 16 Jun 2026 05:00:00 -0400",
+      "snippet": "One of the world&apos;s leading brain research centers is shifting away from fruit flies and toward a tiny, transparent fish. The goal: to understand how brains control the behavior of an animal or human.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Former American businessman detained in Myanmar after alleged financial misconduct",
-      "link": "https://www.npr.org/2026/06/15/g-s1-128147/former-american-businessman-detained-in-myanmar-after-alleged-financial-misconduct",
-      "publishedAt": "Mon, 15 Jun 2026 08:45:36 -0400",
-      "snippet": "Adam Castillo, founder of AGS Myanmar, was detained Thursday at Yangon International Airport. The U.S. State Department is aware of a reported detention but hasn&apos;t commented further.",
+      "title": "Voting officials fear DHS may actually be a threat to elections this year",
+      "link": "https://www.npr.org/2026/06/16/nx-s1-5702491/trump-voting-threat-midterm-election-dhs",
+      "publishedAt": "Tue, 16 Jun 2026 05:00:00 -0400",
+      "snippet": "Voting officials worry that the Department of Homeland Security will not be a partner helping to secure elections, but rather a threat seeking to undermine results that President Trump dislikes.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "As Luigi Mangione&apos;s lawyers head to court, support grows for the accused &apos;vigilante&apos;",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5853110/luigi-mangione-court-hearings-growing-support",
-      "publishedAt": "Mon, 15 Jun 2026 07:48:33 -0400",
-      "snippet": "Luigi Mangione&apos;s legal team is back in court in New York City this week for a key pretrial hearing. He&apos;s accused of stalking and killing an insurance CEO. Donors have given $1.5 million to support his defense.",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/06/16/nx-s1-5857623/morning-news-brief",
+      "publishedAt": "Tue, 16 Jun 2026 04:46:51 -0400",
+      "snippet": "Israel&apos;s reluctance on Lebanon ceasefire complicates U.S.-Iran deal, first full day of G7 summit gets underway in France, what to watch as voters in several states head to the polls for primaries.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trump announces deal to end war in Iran. And, how to stay safe in deadly heat",
-      "link": "https://www.npr.org/2026/06/15/g-s1-128145/up-first-newsletter-iran-war-g7-summit-ufc-fight",
-      "publishedAt": "Mon, 15 Jun 2026 06:59:23 -0400",
-      "snippet": "Trump says a deal has been reached to end the war between the U.S. and Iran. Plus, this is what extreme temperatures do to the human body — and how you can keep yourself safe.",
+      "title": "DMV artist turns belts into a conversation about discipline",
+      "link": "https://www.npr.org/2026/06/12/nx-s1-5662593/artist-lex-marie",
+      "publishedAt": "Tue, 16 Jun 2026 04:45:36 -0400",
+      "snippet": "Multidisciplinary artist Lex Marie has gone viral on TikTok and Instagram for her artwork confronting discipline within Black households.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Britain will ban under-16s from social media apps, including TikTok and YouTube",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5858644/britain-social-media-ban",
-      "publishedAt": "Mon, 15 Jun 2026 06:32:39 -0400",
-      "snippet": "The ban will apply to platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X. The move makes the U.K. part of a growing global movement to tighten online safety for children.",
+      "title": "40-year-old Cape Verde goalkeeper keeps favorite Spain to 0 goals at World Cup",
+      "link": "https://www.npr.org/2026/06/16/nx-s1-5859915/cape-verde-goalkeeper",
+      "publishedAt": "Tue, 16 Jun 2026 02:19:37 -0400",
+      "snippet": "Vozinha recorded seven saves Monday, holding Spain&apos;s star-studded lineup to a shocking 0-0 draw. The veteran keeper was everywhere as the Spanish team and its fans became increasingly frustrated.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S. and Iran announce an initial deal to end the war and reopen the Strait of Hormuz",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
-      "publishedAt": "Mon, 15 Jun 2026 05:55:23 -0400",
-      "snippet": "The deal is a major breakthrough in the conflict that set the Middle East aflame and shook the global economy. However, it did not resolve critical issues set aside for further negotiations.",
+      "title": "UFC boss Dana White says &apos;never again&apos; to another White House fight night",
+      "link": "https://www.npr.org/2026/06/16/nx-s1-5859911/ufc-boss-says-never-again-white-house",
+      "publishedAt": "Tue, 16 Jun 2026 01:51:18 -0400",
+      "snippet": "The headaches over weather concerns in the outdoors show, the logistics of construction of the cage and staging events at federal landmarks and the soaring cost made Freedom 250 a one-off.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Most parents track their 18- to 25-year-old kids on their smartphones. Is it healthy?",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5854613/tracking-smartphone-kids-parents-adults",
-      "publishedAt": "Mon, 15 Jun 2026 05:00:00 -0400",
-      "snippet": "A new survey from the University of Michigan asks parents about their use of technology to track their adult children, ages 18-25, including using \"always on\" location tracking on their smartphones.",
+      "title": "G7 allies scramble to put Ukraine back atop Trump&apos;s agenda as war drags on",
+      "link": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
+      "publishedAt": "Tue, 16 Jun 2026 01:37:59 -0400",
+      "snippet": "U.S. allies at the Group of Seven summit are pushing the war in Ukraine back on President Donald Trump&apos;s agenda. The Iran conflict has recently overshadowed the war in Ukraine.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Do internet super stars matter in elections?",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5818654/primary-election-michigan-influencers-political-strategy-voters-hasan-piker",
-      "publishedAt": "Mon, 15 Jun 2026 05:00:00 -0400",
-      "snippet": "It&apos;s becoming common for campaigns to seek out viral moments and the support of internet stars to reach new voters. But the strategy, albeit flashy, has yielded mixed results in key races this year.",
+      "source": "PBS Headlines",
+      "title": "FBI's Patel announces multiple arrests connected to 'planned attacks' targeting White House UFC show",
+      "link": "https://www.pbs.org/newshour/nation/fbis-patel-announces-multiple-arrests-connected-to-planned-attacks-targeting-white-house-ufc-show",
+      "publishedAt": "Tue, 16 Jun 2026 09:46:38 -0400",
+      "snippet": "The nature of the potential threat was not immediately disclosed, with additional details expected to be released once charges are unsealed later Tuesday.",
       "tier": 1
     },
     {
@@ -423,14 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Senate candidate with same name as incumbent Dan Sullivan ineligible for ballot, official rules",
-      "link": "https://www.pbs.org/newshour/politics/senate-candidate-with-same-name-as-incumbent-dan-sullivan-ineligible-for-ballot-official-rules",
-      "publishedAt": "Mon, 15 Jun 2026 15:42:55 -0400",
-      "snippet": "A top Alaska election official has ruled that a U.S. Senate candidate with the same name and party affiliation as Republican incumbent Dan Sullivan is ineligible to appear on the state's primary ballot in August.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,154 +440,154 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran updates: Netanyahu refrains from criticizing Iran deal",
-      "link": "https://www.dw.com/en/iran-updates-netanyahu-refrains-from-criticizing-iran-deal/live-77552154?maca=en-rss-en-top-1022-rdf",
+      "title": "Pakistan raises defense spending amid regional conflicts",
+      "link": "https://www.dw.com/en/pakistan-raises-defense-spending-amid-regional-conflicts/a-77577772?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Israeli Prime Minister Benjamin Netanyahu, however, said he said he doesn&apos;t always share the same views as US President Donald Trump. DW has the latest.",
+      "snippet": "The sharp defense spending hike highlights lessons Pakistan has learned from recent conflicts with India and a growing focus on new warfare technologies, regardless of economic constraints imposed by the IMF.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "UK announces social media ban for under-16s",
-      "link": "https://www.dw.com/en/uk-announces-social-media-ban-for-under-16s/a-77568831?maca=en-rss-en-top-1022-rdf",
+      "title": "Does the Iran war diminish US superpower status?",
+      "link": "https://www.dw.com/en/does-the-iran-war-diminish-us-superpower-status/a-77577337?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The United Kingdom is set to follow the example of Australia and Indonesia by banning teenagers from social networks. Prime Minister Keir Starmer said platforms like Instagram and TikTok make youngsters \"unhappy.\"",
+      "snippet": "The US is still unrivaled in its ability to project military strength around the world, but Iran&apos;s success in blocking the Strait of Hormuz has raised tough question on America&apos;s role as protector of global trade.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "EU, Ukraine start formal accession talks after Orban delay",
-      "link": "https://www.dw.com/en/eu-ukraine-start-formal-accession-talks-after-orban-delay/a-77566611?maca=en-rss-en-top-1022-rdf",
+      "title": "How Germany and Poland rebooted relations 35 years ago",
+      "link": "https://www.dw.com/en/how-germany-and-poland-rebooted-relations-35-years-ago/a-77576779?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The EU has formally opened the first stage of accession negotiations with Ukraine. This comes two years later than planned, as former Hungarian PM Viktor Orban was blocking the process prior to his election defeat.",
+      "snippet": "When Germany and Poland signed the Treaty on Good Neighborliness, Friendship and Cooperation in June 1991, they chose partnership over enmity and became close NATO and EU allies. But it hasn&apos;t all been plain sailing.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Palestinian leader Abbas announces elections",
-      "link": "https://www.dw.com/en/palestinian-leader-abbas-announces-elections/a-77566529?maca=en-rss-en-top-1022-rdf",
+      "title": "Russian artist critical of Putin shot dead in Poland",
+      "link": "https://www.dw.com/en/russian-artist-critical-of-putin-shot-dead-in-poland/a-77576814?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Presidential and legislative elections haven&apos;t taken place in the Palestinian territories for twenty years due to war and occupation, with veteran President Mahmoud Abbas ruling by decree.",
+      "snippet": "Three days before his killing, Semyon Skrepetsky had protested outside the Russian embassy in Berlin. He held an icon-like caricature of Russian President Vladimir Putin with Soviet leader Josef Stalin.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "UN calls for drone regulation in conflict zones",
-      "link": "https://www.dw.com/en/un-calls-for-drone-regulation-in-conflict-zones/a-77565880?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany&apos;s Merz: Who are his international allies?",
+      "link": "https://www.dw.com/en/germany-s-merz-who-are-his-international-allies/a-77577111?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "UN rights chief Volker Türk said more than 1,000 civilians in Sudan have been killed this year by drone attacks. The UN has called for regulation and accountability to prevent similar atrocities.",
+      "snippet": "German Chancellor Friedrich Merz has forged relations with Donald Trump, Emmanuel Macron, Keir Starmer and Giorgia Meloni. With some he is surprisingly close.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Strait of Hormuz reopening won&apos;t end shipping risks",
-      "link": "https://www.dw.com/en/strait-of-hormuz-reopening-won-t-end-shipping-risks/a-77553214?maca=en-rss-en-top-1022-rdf",
+      "title": "Diplomats and abuse — chipping at the shied of immunity",
+      "link": "https://www.dw.com/en/diplomats-and-abuse-chipping-at-the-shied-of-immunity/a-77575633?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A proposed US-Iran deal to reopen the Strait of Hormuz is raising hopes for global shipping and oil markets. But naval mines, high insurance costs and geopolitical risks mean disruption could persist for months.",
+      "snippet": "Domestic workers who were mistreated by diplomats are often denied justice due to their abusers enjoying diplomatic immunity. But court rulings in the UK and Switzerland have paved the way for change.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "El Nino threatens livelihoods in Southeast Asia",
-      "link": "https://www.dw.com/en/el-nino-threatens-livelihoods-in-southeast-asia/a-77559356?maca=en-rss-en-top-1022-rdf",
+      "title": "European Parliament approves US trade deal to lower tariffs",
+      "link": "https://www.dw.com/en/european-parliament-approves-us-trade-deal-to-lower-tariffs/a-77577033?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Hotter, drier weather is impeding rice and palm-oil production as households across Southeast Asia struggle with higher fuel, food and transport costs.",
+      "snippet": "The European Parliament has approved cutting tariffs on many US imports to comply with a deal signed last year. US President Trump had given the bloc a July 4 deadline to meet its side of the deal.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Ibrahim Maza: Algeria&apos;s &apos;multicultural kid&apos; from Berlin",
-      "link": "https://www.dw.com/en/ibrahim-maza-algeria-s-multicultural-kid-from-berlin/a-77435644?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany news: Population shrinks for first time since COVID-induced dip in 2020",
+      "link": "https://www.dw.com/en/germany-news-population-shrinks-for-first-time-since-covid-induced-dip-in-2020/live-77574042?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Ibo Maza had his choice of three different countries. Instead of his native Germany, the Bayer Leverkusen forward is representing Algeria, the country of his father, at the World Cup in North America.",
+      "snippet": "A dip in net migration meant it could not cancel out Germany&apos;s low birth rates in 2025. Meanwhile, fuel prices fell amid news of a possible deal between the US and Iran. And Merz gives Trump a Germany jersey. More on DW.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "US-Iran: Reported peace deal sparks both relief and anger",
-      "link": "https://www.dw.com/en/us-iran-reported-peace-deal-sparks-both-relief-and-anger/a-77560563?maca=en-rss-en-top-1022-rdf",
+      "title": "World Cup: Cape Verde hero and Iran suffer US travel woes",
+      "link": "https://www.dw.com/en/world-cup-cape-verde-hero-and-iran-suffer-us-travel-woes/a-77574107?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A peace deal between the US and Iran is due to be signed this week — and while the hopes of peace may yet be dashed, the news alone was enough to trigger celebrations, backlash and political infighting on both sides.",
+      "snippet": "After starring in Cape Verde&apos;s draw with Spain, goalkeeper Vozinha shared his sadness that an expensive travel bond stopped his mother from attending. On the same day, Iran&apos;s coach said his team were being \"oppressed.\"",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "US-Iran deal: When will oil prices fall?",
-      "link": "https://www.dw.com/en/us-iran-deal-when-will-oil-prices-fall/a-77554342?maca=en-rss-en-top-1022-rdf",
+      "title": "Sigh of relief in Africa as the Strait of Hormuz &apos;reopens&apos;",
+      "link": "https://www.dw.com/en/sigh-of-relief-in-africa-as-the-strait-of-hormuz-reopens/a-77564378?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A potential US-Iran deal to end the war and reopen the Strait of Hormuz could ease the global energy crunch, but oil prices and supplies may take months to stabilize as shipping restarts and infrastructure recovers.",
+      "snippet": "A potential US-Iran agreement could lower energy-, fertilizer- and food prices in Africa if the Strait of Hormuz fully reopens. Oil exporters such as Nigeria and Angola might have to cope with less revenue, experts say.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: 23 million tune in for World Cup win",
-      "link": "https://www.dw.com/en/germany-news-23-million-tune-in-for-world-cup-win/live-77557116?maca=en-rss-en-top-1022-rdf",
+      "title": "US-Iran deal: Tehran says Israel withdrawal from Lebanon key",
+      "link": "https://www.dw.com/en/us-iran-deal-tehran-says-israel-withdrawal-from-lebanon-key/live-77573728?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The Germany national team&apos;s 7-1 win over Curacao drew over 23 million viewers. Meanwhile, German President Steinmeier is kicking off his visit to Indonesia.",
+      "snippet": "Iran&apos;s top diplomat says any continued Israeli presence in Lebanon would violate the interim US–Iran deal to end the war. Prime Minister Benjamin Netanyahu insists Israel will remain as long as necessary. DW has more.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Mines in the Strait of Hormuz: How dangerous are they?",
-      "link": "https://www.dw.com/en/mines-in-the-strait-of-hormuz-how-dangerous-are-they/a-76847658?maca=en-rss-en-top-1022-rdf",
+      "title": "India blocks Telegram before a nationwide medical college entrance exam",
+      "link": "https://www.dw.com/en/india-blocks-telegram-before-a-nationwide-medical-college-entrance-exam/a-77573358?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "There are still mines in the Straight of Hormuz, delaying the opening for commercial shipping. How dangerous are naval mines, and what can be done to clear them?",
+      "snippet": "The Indian government said Telegram was used to \"defraud candidates\" taking the NEET medical entrance exam. The messaging app, which is very popular in the country, is due to be unblocked after the exam has taken place.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "G7 summit begins, with Iran and Ukraine dominating agenda",
-      "link": "https://www.dw.com/en/g7-summit-begins-with-iran-and-ukraine-dominating-agenda/live-77556967?maca=en-rss-en-top-1022-rdf",
+      "title": "Charging ahead: EVs outpace growth predictions",
+      "link": "https://www.dw.com/en/charging-ahead-evs-outpace-growth-predictions/a-77486417?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The heads of the world&apos;s richest nations are gathering in France this week. The EU wants Ukraine to be discussed, while the US has promised peace with Iran. G7 leaders are cautiously optimistic. DW has the latest.",
+      "snippet": "Electric cars are getting cheaper, more efficient and can travel farther than ever. China is driving the transition, but Europe and other countries are catching up fast.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "The potential of geothermal energy for US homes",
-      "link": "https://www.dw.com/en/the-potential-of-geothermal-energy-for-us-homes/a-77098244?maca=en-rss-en-top-1022-rdf",
+      "title": "Leipzig Bach festival: Encouraging dialog",
+      "link": "https://www.dw.com/en/leipzig-bach-festival-encouraging-dialog/a-77571933?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Advancements in geothermal systems and sustained political support in the US provide an opportunity for this clean energy industry to scale.",
+      "snippet": "Talking, debating and listening are skills we can all learn, particularly in the light of current global conflicts. The Leipzig Bachfest shows how Johann Sebastian Bach&apos;s music can serve as a model here.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "India&apos;s Modi in Slovakia, seeks to strengthen trade and investment ties",
-      "link": "https://www.dw.com/en/india-s-modi-in-slovakia-seeks-to-strengthen-trade-and-investment-ties/a-77553213?maca=en-rss-en-top-1022-rdf",
+      "title": "Artist JR&apos;s wrapped bridge opens in Paris in nod to Christo",
+      "link": "https://www.dw.com/en/artist-jr-s-wrapped-bridge-opens-in-paris-in-nod-to-christo/a-77217250?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Prime Minister Narendra Modi&apos;s visit to Bratislava marks the first by an Indian leader since Slovakia&apos;s \"velvet divorce\" from the Czech Republic.",
+      "snippet": "After a weather-delayed start, the French street artist&apos;s cavernous optical illusion takes over one of the most iconic bridges in Paris. It&apos;s a tribute to Christo and Jeanne-Claude&apos;s famous \"Pont Neuf Wrapped.\"",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Norway: Crown princess&apos;s son sentenced to 4 years in prison",
-      "link": "https://www.dw.com/en/norway-crown-princess-s-son-sentenced-to-4-years-in-prison/a-77552819?maca=en-rss-en-top-1022-rdf",
+      "title": "Indonesia hit by 6.7 magnitude earthquake",
+      "link": "https://www.dw.com/en/indonesia-hit-by-6-7-magnitude-earthquake/a-77571245?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The stepson of Norway&apos;s crown prince has been found guilty of two counts of rape and other crimes.",
+      "snippet": "The earthquake hit part of Indonesia&apos;s Sulawesi island. Indonesia lies on the Pacific \"Ring of Fire\" and is therefore prone to frequent, strong earthquakes.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Russia strikes leave historic Kyiv cathedral in flames",
-      "link": "https://www.dw.com/en/russia-strikes-leave-historic-kyiv-cathedral-in-flames/a-77551863?maca=en-rss-en-top-1022-rdf",
+      "title": "Musk to sue German broadcaster ZDF over &apos;hunt for migrants&apos;",
+      "link": "https://www.dw.com/en/musk-to-sue-german-broadcaster-zdf-over-hunt-for-migrants/a-77571443?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The Kyiv Pechersk Lavra monastery, a UNESCO World Heritage Site, was set on fire as Russia struck multiple cities in Ukraine overnight. Meanwhile, Moscow reported three deaths from a Ukrainian drone attack.",
+      "snippet": "Elon Musk said he was taking legal action against one of Germany&apos;s public broadcasters after it reported that he had called for \"a hunt for migrants\" in Belfast.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Trump hosts White House cage fights to mark 80th birthday",
-      "link": "https://www.dw.com/en/trump-hosts-white-house-cage-fights-to-mark-80th-birthday/a-77546507?maca=en-rss-en-top-1022-rdf",
+      "title": "G7 summit: Ukraine and Iran lead agenda",
+      "link": "https://www.dw.com/en/g7-summit-ukraine-and-iran-lead-agenda/live-77556967?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The US president watched seven fights with an audience of 4,000 people inside a specially built arena on the White House lawn. Critics say the unprecendented spectacle is in poor taste amid the ongoing Iran war.",
+      "snippet": "The heads of the world&apos;s richest nations are gathering in France this week. Russia&apos;s war on Ukraine, along with the peace process with Iran, will be top topics. DW has the latest.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "US: Skydiving plane crash leaves 12 people dead in Missouri",
-      "link": "https://www.dw.com/en/us-skydiving-plane-crash-leaves-12-people-dead-in-missouri/a-77551574?maca=en-rss-en-top-1022-rdf",
+      "title": "Fact check: Hitler look-alike at Germany&apos;s World Cup match?",
+      "link": "https://www.dw.com/en/fact-check-hitler-look-alike-at-germany-s-world-cup-match/a-77561962?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A plane on a skydiving excursion crashed in Missouri, leaving 11 passengers and one pilot dead. The incident occurred shortly after the plane became airborne.",
+      "snippet": "Images circulating across several platforms allegedly show a football fan who resembles Adolf Hitler during Germany&apos;s 7-1 win against Curacao. But is the viral image authentic?",
       "tier": 2
     }
   ]
