@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T01:33:04.961Z",
+  "generatedAt": "2026-06-17T13:39:11.021Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,34 +32,114 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-      "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 15:31:24 GMT",
-      "snippet": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
+      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 10:01:42 GMT",
+      "snippet": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-      "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 16:20:33 GMT",
-      "snippet": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
+      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+      "link": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 09:13:34 GMT",
+      "snippet": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'They came with machetes' - deadline looms for migrants to leave South Africa",
+      "link": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 09:56:40 GMT",
+      "snippet": "Protesters have set 30 June as the date for all undocumented migrants to leave the country.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+      "link": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 11:26:39 GMT",
+      "snippet": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+      "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 09:46:31 GMT",
+      "snippet": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Norway's crown princess undergoes successful lung transplant, palace says",
+      "link": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 10:15:08 GMT",
+      "snippet": "Crown Princess Mette-Marit, who suffered from pulmonary fibrosis, will now spend several weeks recovering in hospital.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Australian shock jock wins A$12m payout after radio station tore up contract",
+      "link": "https://www.bbc.com/news/articles/cyv0qmde97po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 04:08:29 GMT",
+      "snippet": "Kyle Sandilands was sacked after an on-air spat with his co-host, who accused him of bullying.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Bolivia signs $20m deal with US to fight drug trafficking, foreign ministry says",
+      "link": "https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 12:01:04 GMT",
+      "snippet": "Under its new president, Bolivia is re-establishing severed ties with the US to combat organised crime.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Equatorial Guinea government resigns after failing to meet targets",
+      "link": "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 09:52:52 GMT",
+      "snippet": "The vice-president says the government had barely reached 10% of its targets, without specifying them.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Leader of South Africa's second biggest party wants his predecessor sacked as minister",
+      "link": "https://www.bbc.com/news/articles/ce8jg660r73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 12:13:27 GMT",
+      "snippet": "John Steenhuisen is one of South Africa's best-known politicians after leading the DA for seven years.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan raids ice cream giants over price-fixing allegations",
+      "link": "https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 07:33:39 GMT",
+      "snippet": "The investigation on alleged cartel pricing of ice cream comes as Japan faces record summer temperatures.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Brazil convicts Jair Bolsonaro's son of pursuing US help in father's legal battle",
+      "link": "https://www.bbc.com/news/articles/cgl3x0pey9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 00:31:35 GMT",
+      "snippet": "Eduardo Bolsonaro called the conviction \"baseless and senseless\".",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
       "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 17 Jun 2026 00:25:39 GMT",
-      "snippet": "The retired couple told BBC Newsnight they tried to show the warship they had changed course before the shots were fired.",
+      "publishedAt": "Wed, 17 Jun 2026 08:38:24 GMT",
+      "snippet": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Russian artist and Putin critic shot dead in Poland",
-      "link": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 17:33:50 GMT",
-      "snippet": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
+      "title": "Telegram challenges India ban over exam paper leak fears",
+      "link": "https://www.bbc.com/news/articles/c4gy40q8wz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 06:56:27 GMT",
+      "snippet": "Telegram CEO Pavel Durov has called the ban a \"mistake\", arguing it would punish millions of users.",
       "tier": 1
     },
     {
@@ -68,6 +148,14 @@
       "link": "https://www.bbc.com/news/articles/c0jyzp9z9deo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 16 Jun 2026 17:57:00 GMT",
       "snippet": "ZDF TV responded to a \"cease and desist\" letter after the tech trillionaire condemned the broadcaster's \"outrageous lies\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian artist and Putin critic shot dead in Poland",
+      "link": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 17:33:50 GMT",
+      "snippet": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
       "tier": 1
     },
     {
@@ -88,186 +176,106 @@
     },
     {
       "source": "BBC World",
-      "title": "Venezuela signs deal with US energy giant to rebuild power grid",
-      "link": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 15:19:52 GMT",
-      "snippet": "The deal with General Electric is the latest sign of co-operation between US firms and Venezuela's interim government.",
+      "title": "India: Why a country of 1.4 billion is not in the football World Cup",
+      "link": "https://www.bbc.com/news/articles/ce95gvpn535o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 23:09:45 GMT",
+      "snippet": "The world's most populous country is still missing from football's biggest stage.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Eight dead after US Air Force B-52 bomber crashes in California",
-      "link": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 01:49:03 GMT",
-      "snippet": "The incident occurred on Monday morning while the aircraft had been on a routine test mission.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
-      "link": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 07:05:54 GMT",
-      "snippet": "A picture in a new school textbook had covered up the naked torso of the famous figurine with dark shading.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Swedish man jailed for four years for coercing wife into sex with 120 men",
-      "link": "https://www.bbc.com/news/articles/crlwxg721eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 12:46:03 GMT",
-      "snippet": "The 61-year-old was found to have coerced his wife into sexual acts with men he found online in exchange for payment.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Cuba tourism collapses as US pressure campaign bites",
-      "link": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 11:16:59 GMT",
-      "snippet": "The number of foreign visitors is down by 58% compared to last year, Cuban officials say, amid sanctions and an effective oil blockade.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Somaliland opens Jerusalem embassy after Israel's recognition of its independence",
-      "link": "https://www.bbc.com/news/articles/cj4gn4d54y0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 14:34:39 GMT",
-      "snippet": "The move comes six months after Israel became the first country to recognise the breakaway East African state.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Hungary's MPs block return of Orbán, limiting rule of PM to eight years",
-      "link": "https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 12:42:15 GMT",
-      "snippet": "The vote fulfils a promise by new PM Péter Magyar to stop his predecessor from becoming prime minister again.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
-      "link": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 23:17:46 GMT",
-      "snippet": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "India temporarily bans Telegram over exam paper leak concerns",
-      "link": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 09:23:06 GMT",
-      "snippet": "The NEET exam had earlier been scrapped over allegations of a paper leak, sparking massive protests.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "California's Gavin Newsom alleges justice department is investigating his wife and ex-staff",
-      "link": "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 23:06:58 GMT",
-      "snippet": "A source familiar with the investigations says they had been ongoing for \"roughly a year\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Three reasons ships are not going through the Strait of Hormuz yet",
-      "link": "https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 14:11:30 GMT",
-      "snippet": "Experts say that there are significant obstacles preventing traffic from returning to the levels seen before the conflict began – security, mines and tolls.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "What one country's experiment says about attempts to boost birth rates",
-      "link": "https://www.bbc.com/news/articles/c5yzdr4ygdno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 23:56:47 GMT",
-      "snippet": "Why did Hungary’s pronatalist approach deliver an early rise in births only then to fall back? And what lessons does it offer to other countries desperate to lift fertility?",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'Greatest feeling ever': Cape Verdeans tell BBC of joy at holding Spain to draw",
-      "link": "https://www.bbc.com/news/articles/clyer09rd1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 23:01:30 GMT",
-      "snippet": "The streets of the capital, Praia, shook with wild celebrations as the small island nation held Spain to a shock 0-0 draw.",
+      "title": "The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan",
+      "link": "https://www.bbc.com/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 23:52:37 GMT",
+      "snippet": "It's so hot the fuel can catch fire - the bikers tell the BBC they must live with the risk of injury and death.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Haitian immigrants ask Supreme Court to toss case in light of new evidence",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5860947/supreme-court-haiti-tps-immigrants",
-      "publishedAt": "Tue, 16 Jun 2026 21:09:27 -0400",
-      "snippet": "The lawyers argue that the court does not have a full record of how the Trump administration decided to end temporary protective status for Haitians in the U.S.",
+      "title": "Taiwan says Chinese pressure over the island is the \"new normal\"",
+      "link": "https://www.npr.org/2026/06/17/g-s1-128550/taiwan-says-chinese-pressure-over-the-island-is-the-new-normal",
+      "publishedAt": "Wed, 17 Jun 2026 09:08:37 -0400",
+      "snippet": "Taiwan&apos;s Foreign Ministry on Tuesday said the scholars&apos; passports and mobile phones were confiscated, and they were detained in Mombasa for more than 20 hours before being allowed to leave the country.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Georgia Rep. Collins will challenge Ossoff in high-profile Senate matchup",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5860795/georgia-election-senate-governor-results-trump",
-      "publishedAt": "Tue, 16 Jun 2026 20:38:01 -0400",
-      "snippet": "The Collins-Ossoff matchup will be closely watched nationally as the major political parties vie for control of the Senate.",
+      "title": "President Trump calls to delay nomination of intel pick Jay Clayton",
+      "link": "https://www.npr.org/2026/06/17/nx-s1-5859298/jay-clayton-confirmation-hearing-director-of-national-intelligence",
+      "publishedAt": "Wed, 17 Jun 2026 07:18:03 -0400",
+      "snippet": "The Senate was set to begin the confirmation process for Jay Clayton as Director of National Intelligence Today. But President Trump is calling for a delay.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Iraqi soccer fans celebrate end of 40-year World Cup drought",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5855456/world-cup-soccer-iraq-fans-dearborn-michigan",
-      "publishedAt": "Tue, 16 Jun 2026 16:21:51 -0400",
-      "snippet": "The Iraq national men&apos;s team hasn&apos;t played a World Cup in 40 years; a drought that ends Tuesday night, to the excitement of soccer fans in Dearborn, Michigan, home to a large Iraqi diaspora.",
+      "title": "Trump to face questions at G7 press conference. And, Tuesday&apos;s primary results",
+      "link": "https://www.npr.org/2026/06/17/g-s1-128547/up-first-newsletter-tentative-iran-ceasefire-agreement-g7-trump-kevin-warsh-georgia-primaries",
+      "publishedAt": "Wed, 17 Jun 2026 07:14:16 -0400",
+      "snippet": "Trump has touted his tentative agreement with Iran at the G7 summit. Today, he is expected to field questions at a press conference as the summit wraps up. And, a look at Tuesday&apos;s primary election results.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "In Albania, anger grows against the government for supporting a Kushner-linked luxury resort",
-      "link": "https://www.npr.org/2026/06/16/g-s1-128162/albania-resort-protests-kushner-trump",
-      "publishedAt": "Tue, 16 Jun 2026 13:10:17 -0400",
-      "snippet": "Albania&apos;s government has given preliminary approval to plans for the luxury resort along a stretch of coastline, prompting daily protests and legal challenges by environmental groups.",
+      "title": "&apos;Rejected&apos;: How federal prisons stonewall grievances and deny care for years",
+      "link": "https://www.npr.org/2026/06/17/nx-s1-5343603/prison-lawsuits-grievance-denial-investigation",
+      "publishedAt": "Wed, 17 Jun 2026 06:00:00 -0400",
+      "snippet": "People who go to prison keep one important right — to file a grievance over their treatment: from abuse to denied medical care. But in the vast majority of cases, those efforts go nowhere, according to an analysis of federal data by The Marshall Project and NPR.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trump further guts Education Dept. by shifting oversight of special ed, civil rights",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5717030/special-ed-civil-rights-education-department",
-      "publishedAt": "Tue, 16 Jun 2026 13:04:13 -0400",
-      "snippet": "The moves to the federal departments of Health and Human Services and Justice, respectively, would further dismantle an agency that President Donald Trump has vowed to close.",
+      "title": "&apos;Coreano Hermano&apos;: Ahead of Mexico vs. South Korea, it&apos;s all love between the fans",
+      "link": "https://www.npr.org/2026/06/17/nx-s1-5835229/mexico-south-korea-world-cup-fans-coreano-hermano",
+      "publishedAt": "Wed, 17 Jun 2026 05:00:00 -0400",
+      "snippet": "It&apos;s an unusual sight before a World Cup match: Supporters of opposing teams partying together, calling each other \"brother,\" some even hoping for a draw. But fans say they&apos;re far from rivals.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "&apos;The Lost Founder&apos; profiles a brilliant lawyer who helped craft the Constitution",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5859433/the-lost-founder-profiles-a-brilliant-lawyer-who-helped-craft-the-constitution",
-      "publishedAt": "Tue, 16 Jun 2026 12:54:21 -0400",
-      "snippet": "Jesse Wegman&apos;s book tells the story of James Wilson, a largely forgotten founding father who lived a colorful life and died as a Supreme Court justice on the run from the law and creditors.",
+      "title": "FAQ: How World Cup fans and workers can stay safe in the heat",
+      "link": "https://www.npr.org/2026/06/17/nx-s1-5742525/world-cup-heat-exhaustion-hot-weather-soccer",
+      "publishedAt": "Wed, 17 Jun 2026 05:00:00 -0400",
+      "snippet": "More than 1 in 3 World Cup matches face dangerously hot, humid weather. Here&apos;s how to protect yourself from heat illness.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Live with a partner? You may be sharing more microbes than you think",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5859419/microbiome-oral-gut-romantic-partner",
-      "publishedAt": "Tue, 16 Jun 2026 12:05:44 -0400",
-      "snippet": "A large study finds you may share about a quarter of your oral and gut microbes with the people you live with. Should you worry? We asked the experts.",
+      "title": "With Iran deal, Trump told ships to &apos;start your engines.&apos; That&apos;s not happening yet",
+      "link": "https://www.npr.org/2026/06/17/nx-s1-5860909/iran-ships-strait-of-hormuz-trump",
+      "publishedAt": "Wed, 17 Jun 2026 05:00:00 -0400",
+      "snippet": "Iran&apos;s control of the Strait of Hormuz inflicted global pain during the months-long conflict with the U.S. and Israel. A tentative deal is in place, but questions remain about the key waterway.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The World Cup reminds us that the way to a visitor&apos;s heart ... is through their stomach",
-      "link": "https://www.npr.org/2026/06/16/g-s1-128352/the-world-cup-wawa-bucees-waffle-house",
-      "publishedAt": "Tue, 16 Jun 2026 11:59:00 -0400",
-      "snippet": "The action inside the stadiums isn&apos;t the only thing capturing the attention of international visitors. Turns out, they&apos;re discovering the delights of Buc-ee&apos;s, Waffle House, Wawa and free soda refills.",
+      "title": "Trump&apos;s Iran agreement dominates G7 but big questions remain",
+      "link": "https://www.npr.org/2026/06/17/nx-s1-5860782/trumps-iran-agreement-dominates-g7-but-big-questions-remain",
+      "publishedAt": "Wed, 17 Jun 2026 05:00:00 -0400",
+      "snippet": "The U.S.-Israel-led war in Iran has rocked the global economy and decimated Trump&apos;s standing at home",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The war with Iran is making oil changes pricier. And a deal won&apos;t solve it",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5847024/motor-oil-iran-war",
-      "publishedAt": "Tue, 16 Jun 2026 11:29:02 -0400",
-      "snippet": "The U.S. may be the world&apos;s biggest producer of crude oil, but that&apos;s not the case for motor oil. The cost of lubricants is soaring, and even a tentative deal to end the war won&apos;t solve the problem.",
+      "title": "On a flight home, a stranger helped her understand what came next",
+      "link": "https://www.npr.org/2026/06/17/nx-s1-5857760/on-a-flight-home-a-stranger-helped-her-understand-what-came-next",
+      "publishedAt": "Wed, 17 Jun 2026 05:00:00 -0400",
+      "snippet": "Rebecca Simonitsch had just learned she might be a candidate for brain surgery. The man seated beside her on the flight home pulled out a notebook to explain what lay ahead.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Pop albums are drowning in &apos;narrative.&apos; What happens when we go in cold?",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5848030/lizzo-imani-imani-narrative-listening-pop",
-      "publishedAt": "Tue, 16 Jun 2026 10:21:35 -0400",
-      "snippet": "New albums by Lizzo and the rising artist Imani Imani are both \"event\" records — but one arrives with arguably too much backstory, the other with almost none.",
+      "title": "El Niño is here, so what does it mean?",
+      "link": "https://www.npr.org/2026/06/17/g-s1-128448/el-nino-begins-global-impacts",
+      "publishedAt": "Wed, 17 Jun 2026 05:00:00 -0400",
+      "snippet": "An El Niño has formed amid the warmer-than-normal waters in the tropical Pacific. Now it&apos;s a question of how intense the phenomenon will be and where effects like heat and drought will strike.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "WATCH LIVE: FEMA, TSA nominees testify in confirmation hearing before Senate Homeland Security panel",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-fema-tsa-nominees-testify-in-confirmation-hearing-before-senate-homeland-security-panel",
+      "publishedAt": "Wed, 17 Jun 2026 08:59:23 -0400",
+      "snippet": "Cameron Hamilton, President Donald Trump's nominee to lead the Federal Emergency Management Agency, is facing questions from senators Wednesday as he seeks to run an agency roiled by the administration's threats to dismantle it.",
       "tier": 1
     },
     {
@@ -423,14 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Rain along Gulf Coast could become the first named storm of Atlantic hurricane season",
-      "link": "https://www.pbs.org/newshour/science/rain-along-gulf-coast-could-become-the-first-named-storm-of-atlantic-hurricane-season",
-      "publishedAt": "Tue, 16 Jun 2026 14:56:37 -0400",
-      "snippet": "The National Hurricane Center in Miami says the storm system is expected to bring intense rain to southern states including Texas and Louisiana this week.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,10 +440,130 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "NATO chief focuses on alliance unity after US alters pledges",
+      "link": "https://www.dw.com/en/nato-chief-focuses-on-alliance-unity-after-us-alters-pledges/a-77588556?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "NATO&apos;s secretary general went to great lengths to cast a positive light on the alliance ahead of a ministers&apos; meeting. The closest he came to addressing any tension was saying members have \"a lot to talk about.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany World Cup shirts run out of letter V",
+      "link": "https://www.dw.com/en/germany-world-cup-shirts-run-out-of-letter-v/a-77588243?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Bad news for fans of Germany players Kai Havertz, Deniz Undav and Aleksandar Pavlovic: the kit makers have run out of the letter V, such is the demand for those names on shirts. But don&apos;t worry, more Vs are on the way!",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ebola and the US patient spotlight global health &apos;injustice&apos;",
+      "link": "https://www.dw.com/en/ebola-and-the-us-patient-spotlight-global-health-injustice/a-77577798?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The story of the US doctor who survived Ebola with experimental treatment in Germany highlights wider inequities in global health. It also reveals how sharply medical standards can differ between African countries.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "South Korea to shrink security buffer zone to North Korea",
+      "link": "https://www.dw.com/en/south-korea-to-shrink-security-buffer-zone-to-north-korea/a-77586166?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "South Korea will ease restrictions on roughly 270 square kilometers of land near the border with North Korea. Farmers in the area had long complained of rules that complicated working conditions.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India: Telegram to challenge government order blocking app",
+      "link": "https://www.dw.com/en/india-telegram-to-challenge-government-order-blocking-app/a-77584792?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Telegram has reportedly challenged the Indian government&apos;s order to temporarily block the popular messaging app ahead of the NEET medical entrance exam.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Ministers discuss refugee deportation rules",
+      "link": "https://www.dw.com/en/germany-news-ministers-discuss-refugee-deportation-rules/live-77584367?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany&apos;s regional interior ministers are holding their biannual conference with immigration, deportations and benefits high on the agenda. Meanwhile, Germany and Poland are marking 35 years of cooperation. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Is Russia heading for a fuel crisis?",
+      "link": "https://www.dw.com/en/is-russia-heading-for-a-fuel-crisis/a-77579542?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russia&apos;s fuel output is falling after Ukrainian drone strikes on refineries. Seasonal spikes in gasoline and diesel demand could push the system into a deeper crisis, experts say.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why the Williams sisters and other stars are playing longer",
+      "link": "https://www.dw.com/en/why-the-williams-sisters-and-other-stars-are-playing-longer/a-75441900?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "More than three decades after they burst onto the tennis scene, Venus and Serena Williams are still playing at the top level. Why are we seeing elite athletes carrying on into their 40s and beyond?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Bavarian top court rules state spy agency can monitor AfD",
+      "link": "https://www.dw.com/en/bavarian-top-court-rules-state-spy-agency-can-monitor-afd/a-77586106?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Bavaria&apos;s regional domestic intelligence agency can monitor the right-wing populist AfD, the state&apos;s top court has ruled. Several states are trying to implement similar steps, with the opposition party challenging it.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "World Cup dreams come true for young German footballers",
+      "link": "https://www.dw.com/en/world-cup-dreams-come-true-for-young-german-footballers/a-77566204?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Three young US college soccer players from Germany have had the opportunity to meet some of their World Cup heroes, as the men&apos;s natonal team&apos;s base camp is just around the corner.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "New exhibitions for Anish Kapoor: Art on the edge",
+      "link": "https://www.dw.com/en/new-exhibitions-for-anish-kapoor-art-on-the-edge/a-77580647?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "His art challenges our perception: Forms vanish and perspectives shift. Anish Kapoor leads the viewer to the edge of the abyss — and sometimes, even beyond. Two new exhibitions revisit his work.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Brazil: Court convicts Bolsonaro&apos;s son over US lobbying",
+      "link": "https://www.dw.com/en/brazil-court-convicts-bolsonaro-s-son-over-us-lobbying/a-77583717?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The ex-president&apos;s son Eduardo Bolsonaro has been sentenced to four ⁠years and two months for meddling in his father&apos;s coup attempt trial by seeking help from the US.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "G7: Leaders discuss economy, AI security risks",
+      "link": "https://www.dw.com/en/g7-leaders-discuss-economy-ai-security-risks/live-77556967?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The third and final day of the summit will focus on economic growth and digital security. On a Ukraine-focused Tuesday, Trump said he had a \"good\" meeting with Zelenskyy. Follow DW for more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "G7 vows new Russia sanctions amid optimism for Ukraine peace",
+      "link": "https://www.dw.com/en/g7-vows-new-russia-sanctions-amid-optimism-for-ukraine-peace/a-77583434?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "G7 leaders, such as German Chancellor Merz, are sounding more upbeat about the push for peace in Ukraine. The G7 is looking to hit Russia with new energy sanctions as the Strait of Hormuz is expected to reopen.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "5 charged in plot to attack Trump&apos;s UFC event, DOJ says",
+      "link": "https://www.dw.com/en/5-charged-in-plot-to-attack-trump-s-ufc-event-doj-says/a-77583097?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The alleged plan called for flying explosives-laden drones and shooting panicked crowd members as they fled the event on the White House lawn.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "US, Iran, Hezbollah spar over murky terms of ceasefire deal",
       "link": "https://www.dw.com/en/us-iran-hezbollah-spar-over-murky-terms-of-ceasefire-deal/live-77573728?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Iran&apos;s top diplomat has said continued Israeli presence in Lebanon would violate the interim US–Iran deal to end the war. Prime Minister Benjamin Netanyahu insists Israel will remain as long as necessary. DW has more.",
+      "snippet": "Iran&apos;s top diplomat has said continued Israeli presence in Lebanon would violate the interim US–Iran deal to end the war. Prime Minister Benjamin Netanyahu insists Israel will remain as long as necessary.",
       "tier": 2
     },
     {
@@ -468,126 +588,6 @@
       "link": "https://www.dw.com/en/crispr-gene-editing-for-crops-precision-tool-or-new-risk/a-77579053?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The EU is poised to ease restrictions on crops developed using novel genetic techniques. While supporters say the technology could help farmers adapt to climate change, critics argue its effects remain poorly understood.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why women&apos;s inheritance reform has stalled across Arab world",
-      "link": "https://www.dw.com/en/why-women-s-inheritance-reform-has-stalled-across-arab-world/a-77577835?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Sharia-based inheritance laws continue to disadvantage millions of women across the Middle East. What could prompt real change for the next generation of girls?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "G7: Trump says Russia should &apos;make a deal&apos; on Ukraine",
-      "link": "https://www.dw.com/en/g7-trump-says-russia-should-make-a-deal-on-ukraine/live-77556967?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump said he has a \"good\" meeting with Ukraine&apos;s Zelenskyy on the sidelines of the G7 summit, as European leaders look to add pressure on Russia. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Failed joint jet project highlights Europe&apos;s defense dilemma",
-      "link": "https://www.dw.com/en/failed-joint-jet-project-highlights-europe-s-defense-dilemma/a-77572732?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The collapse of a Franco-German fighter jet project and a faltering joint battle tank program show how national industrial interests can outweigh common defense objectives.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: 25 years since Nazi forced labor compensation began",
-      "link": "https://www.dw.com/en/germany-25-years-since-nazi-forced-labor-compensation-began/a-77577731?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A German fund set up to compensate the millions forced to work for the Nazi regime is marking 25 years since the first payments were made. But for many victims, it was much too late.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pakistan raises defense spending amid regional conflicts",
-      "link": "https://www.dw.com/en/pakistan-raises-defense-spending-amid-regional-conflicts/a-77577772?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The sharp hike in defense spending highlights lessons Pakistan has learned from recent conflicts with India and a growing focus on new warfare technologies, regardless of economic constraints imposed by the IMF.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Is the Iran war weakening the US&apos; superpower status?",
-      "link": "https://www.dw.com/en/is-the-iran-war-weakening-the-us-superpower-status/a-77577337?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US is still unrivaled in its ability to project military strength around the world, but Iran&apos;s success in blocking the Strait of Hormuz has raised tough question on America&apos;s role as protector of global trade.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How Germany and Poland rebooted relations 35 years ago",
-      "link": "https://www.dw.com/en/how-germany-and-poland-rebooted-relations-35-years-ago/a-77576779?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "When Germany and Poland signed the Treaty on Good Neighborliness, Friendship and Cooperation in June 1991, they chose partnership over enmity and became close NATO and EU allies. But it hasn&apos;t all been plain sailing.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Russian artist critical of Putin shot dead in Poland",
-      "link": "https://www.dw.com/en/russian-artist-critical-of-putin-shot-dead-in-poland/a-77576814?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Three days before his killing, Semyon Skrepetsky had protested outside the Russian embassy in Berlin. He held an icon-like caricature of Russian President Vladimir Putin with Soviet leader Josef Stalin.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Diplomats and abuse — chipping at the shield of immunity",
-      "link": "https://www.dw.com/en/diplomats-and-abuse-chipping-at-the-shield-of-immunity/a-77575633?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Domestic workers who were mistreated by diplomats are often denied justice due to their abusers enjoying diplomatic immunity. But court rulings in the UK and Switzerland have paved the way for change.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "European Parliament approves US trade deal to lower tariffs",
-      "link": "https://www.dw.com/en/european-parliament-approves-us-trade-deal-to-lower-tariffs/a-77577033?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The European Parliament has approved cutting tariffs on many US imports to comply with a deal signed last year. US President Trump had given the bloc a July 4 deadline to meet its side of the deal.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Population shrinks for first time since 2020",
-      "link": "https://www.dw.com/en/germany-news-population-shrinks-for-first-time-since-2020/live-77574042?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A dip in net migration meant it could not cancel out Germany&apos;s low birth rates in 2025. Meanwhile, fuel prices fell amid news of a possible deal between the US and Iran. And Merz gives Trump a Germany jersey. More on DW.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "World Cup: Cape Verde hero and Iran suffer US travel woes",
-      "link": "https://www.dw.com/en/world-cup-cape-verde-hero-and-iran-suffer-us-travel-woes/a-77574107?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After starring in Cape Verde&apos;s draw with Spain, goalkeeper Vozinha shared his sadness that an expensive travel bond stopped his mother from attending. On the same day, Iran&apos;s coach said his team were being \"oppressed.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Sigh of relief in Africa as the Strait of Hormuz &apos;reopens&apos;",
-      "link": "https://www.dw.com/en/sigh-of-relief-in-africa-as-the-strait-of-hormuz-reopens/a-77564378?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A potential US-Iran agreement could lower energy-, fertilizer- and food prices in Africa if the Strait of Hormuz fully reopens. Oil exporters such as Nigeria and Angola might have to cope with less revenue, experts say.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India blocks Telegram before a nationwide medical college entrance exam",
-      "link": "https://www.dw.com/en/india-blocks-telegram-before-a-nationwide-medical-college-entrance-exam/a-77573358?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Indian government said Telegram was used to \"defraud candidates\" taking the NEET medical entrance exam. The messaging app, which is very popular in the country, is due to be unblocked after the exam has taken place.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Charging ahead: EVs outpace growth predictions",
-      "link": "https://www.dw.com/en/charging-ahead-evs-outpace-growth-predictions/a-77486417?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Electric cars are getting cheaper, more efficient and can travel farther than ever. China is driving the transition, but Europe and other countries are catching up fast.",
       "tier": 2
     }
   ]
