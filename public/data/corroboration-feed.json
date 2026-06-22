@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T13:07:31.751Z",
+  "generatedAt": "2026-06-22T01:34:10.756Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,10 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 21 Jun 2026 04:34:00 GMT",
-      "snippet": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+      "title": "First round of direct US-Iran talks since deal expected to continue through the night",
+      "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 21 Jun 2026 23:55:06 GMT",
+      "snippet": "The US president, who is not at the talks, had earlier exchanged warnings with Iran's negotiator over clashes between Israel and Hezbollah in Lebanon.",
       "tier": 1
     },
     {
@@ -48,18 +48,26 @@
     },
     {
       "source": "BBC World",
-      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
-      "link": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 20 Jun 2026 23:17:51 GMT",
-      "snippet": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.",
+      "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
+      "link": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 21 Jun 2026 15:01:28 GMT",
+      "snippet": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "France bans alcohol at music festival events under red heatwave alert",
+      "title": "Half of France under red heat alert as alcohol banned at street music festival",
       "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 21 Jun 2026 00:29:51 GMT",
-      "snippet": "Annual street parties attended by millions ordered to help “preserve” healthcare services in 40C (104F) heat.",
+      "publishedAt": "Sun, 21 Jun 2026 15:22:14 GMT",
+      "snippet": "Temperatures are forecast to peak on Monday, and authorities warn they could match historic highs.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+      "link": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 20 Jun 2026 23:17:51 GMT",
+      "snippet": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.",
       "tier": 1
     },
     {
@@ -88,6 +96,14 @@
     },
     {
       "source": "BBC World",
+      "title": "Low-key funeral held for giant of the art world David Hockney",
+      "link": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 21 Jun 2026 13:08:49 GMT",
+      "snippet": "The artist, who passed away at his home in London earlier this month, requested just his partner and great-nephew attend.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Dutch royals enjoy two big results in one World Cup day",
       "link": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 21 Jun 2026 09:45:57 GMT",
@@ -108,14 +124,6 @@
       "link": "https://www.bbc.com/sport/cricket/articles/czdev6lp8p9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 21 Jun 2026 11:10:21 GMT",
       "snippet": "Vaibhav Sooryavanshi breaks the record for the fastest 50-over List A half-century in history on the same day he was not included in India's one-day international squad.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-      "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 20 Jun 2026 15:31:12 GMT",
-      "snippet": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
       "tier": 1
     },
     {
@@ -183,11 +191,51 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Morocco captain Achraf Hakimi to stand trial for rape",
-      "link": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 19 Jun 2026 10:28:22 GMT",
-      "snippet": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
+      "source": "NPR News",
+      "title": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
+      "link": "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike",
+      "publishedAt": "Sun, 21 Jun 2026 17:37:22 -0400",
+      "snippet": "Mona Khalil died Friday after an Israeli airstrike hit her beachside home two weeks ago. She&apos;s credited with creating a conservation movement in southern Lebanon to protect sea turtle nesting grounds.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump threatens to &apos;hit Iran very hard again&apos; while Vance is in Switzerland for talks",
+      "link": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance",
+      "publishedAt": "Sun, 21 Jun 2026 13:29:57 -0400",
+      "snippet": "President Trump has threatened further attacks on Iran while Vice President Vance attended talks with Iranian officials in Switzerland on Sunday.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
+      "link": "https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales",
+      "publishedAt": "Sun, 21 Jun 2026 09:55:06 -0400",
+      "snippet": "Officials in Russia-occupied Crimea suspended civilian gasoline sales Sunday as Ukraine ramped up attacks on fuel supplies on the Black Sea peninsula.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump claims vandals damaged D.C. Reflecting Pool, and says it will be drained again",
+      "link": "https://www.npr.org/2026/06/21/nx-s1-5865636/trump-reflecting-pool-dc-vandals-drain-green",
+      "publishedAt": "Sun, 21 Jun 2026 09:46:25 -0400",
+      "snippet": "The president posted on Truth Social claiming vandals slashed the pool&apos;s lining and poured chemicals into the water, saying arrests have been made. He provided no evidence for his claims.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Week in politics: continued negotiations with Iran; G7 summit; Reflecting Pool issues",
+      "link": "https://www.npr.org/2026/06/21/nx-s1-5864237/week-in-politics-continued-negotiations-with-iran-g7-summit-reflecting-pool-issues",
+      "publishedAt": "Sun, 21 Jun 2026 08:06:14 -0400",
+      "snippet": "There continues to be uncertainty over negotiations. At the same time, the Trump administration continues to aggravate allies.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Colombia runoff vote shaped by security fears and conflict warnings",
+      "link": "https://www.npr.org/2026/06/21/nx-s1-5862783/colombia-election-conflict",
+      "publishedAt": "Sun, 21 Jun 2026 08:06:08 -0400",
+      "snippet": "Voters head to a runoff in Colombia Sunday between candidates offering sharply different approaches to armed groups, with the frontrunner calling for intensified military action over peace talks",
       "tier": 1
     },
     {
@@ -200,7 +248,7 @@
     },
     {
       "source": "NPR News",
-      "title": "Freed from Cambodia&apos;s scam compounds, trafficking victims face a new crisis",
+      "title": "Cambodia cracked down on scams costing Americans billions. It created a new crisis",
       "link": "https://www.npr.org/2026/06/21/g-s1-128624/freed-from-cambodias-scam-compounds-trafficking-victims-face-a-new-crisis",
       "publishedAt": "Sun, 21 Jun 2026 06:00:00 -0400",
       "snippet": "Cambodia&apos;s crackdown on scam centers has created a secondary crisis: thousands of stranded foreign workers are now roaming the streets of Phnom Penh.",
@@ -208,7 +256,7 @@
     },
     {
       "source": "NPR News",
-      "title": "Want to improve your agility? Try these &apos;explosive power&apos; exercises",
+      "title": "Want to improve your agility? Try these exercises that combine speed and strength",
       "link": "https://www.npr.org/2026/06/21/nx-s1-5776814/improve-your-agility-explosive-power-exercises-prevent-injury",
       "publishedAt": "Sun, 21 Jun 2026 05:00:00 -0400",
       "snippet": "These simple movements combine speed and strength to train your body&apos;s ability to rapidly generate force. They can also help prevent injury and boost agility.",
@@ -223,51 +271,75 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Opinion: Algae doesn&apos;t care about our party lines",
-      "link": "https://www.npr.org/2026/06/20/nx-s1-5854977/opinion-algae-doesnt-care-about-our-party-lines",
-      "publishedAt": "Sat, 20 Jun 2026 08:00:00 -0400",
-      "snippet": "President Trump&apos;s beautification project of the Lincoln Memorial Reflecting Pool has become plagued with a robust algae bloom, despite a $14 million investment and a coating of \"American flag blue.\"",
+      "source": "PBS Headlines",
+      "title": "Jets were 300 feet apart in Boston close call that forced Delta flight to abort landing, expert says",
+      "link": "https://www.pbs.org/newshour/nation/jets-were-300-feet-apart-in-boston-close-call-that-forced-delta-flight-to-abort-landing-expert-says",
+      "publishedAt": "Sun, 21 Jun 2026 17:57:37 -0400",
+      "snippet": "The Federal Aviation Administration said it was investigating the incident between two commercial flights that happened Saturday at Boston Logan International Airport.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "These nuns spent a lifetime helping others. In their last years, who will help them?",
-      "link": "https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice",
-      "publishedAt": "Sat, 20 Jun 2026 06:45:09 -0400",
-      "snippet": "The sisters of Uganda are teachers, health-care advocates and more. Those who are in their twilight of their life need help. Who will come to their aid?",
+      "source": "PBS Headlines",
+      "title": "Colombians vote in a presidential runoff that pits an outsider against a progressive",
+      "link": "https://www.pbs.org/newshour/world/colombians-vote-in-a-presidential-runoff-that-pits-an-outsider-against-a-progressive",
+      "publishedAt": "Sun, 21 Jun 2026 17:22:27 -0400",
+      "snippet": "The options before voters were business owner and lawyer Abelardo de la Espriella and Iván Cepeda, a lawmaker and heir to the political movement of outgoing President Gustavo Petro, the nation's first leftist leader.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "JD Vance arrives in Switzerland for talks with Iran over fragile peace deal",
-      "link": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
-      "publishedAt": "Sat, 20 Jun 2026 06:02:05 -0400",
-      "snippet": "JD Vance arrived in Switzerland on Sunday for talks with Iranian officials, hoping to consolidate the fragile interim deal to end the war and kickstart fresh discussions over Tehran&apos;s nuclear program.",
+      "source": "PBS Headlines",
+      "title": "Heat, wind and drought conditions spark wildfires in the U.S. West",
+      "link": "https://www.pbs.org/newshour/nation/heat-wind-and-drought-conditions-spark-wildfires-in-the-u-s-west",
+      "publishedAt": "Sun, 21 Jun 2026 15:59:54 -0400",
+      "snippet": "The Iron Fire in Utah's Juab County was first detected Saturday and had blackened 34 square miles, authorities said. The fire about 70 miles southwest of Salt Lake City forced the evacuation of Eureka, a city with a population of 1,000, and people at a nearby ranch.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Palestinian-American kids find inspiration, and escape, on the soccer pitch",
-      "link": "https://www.npr.org/2026/06/20/nx-s1-5854466/palestinian-american-kids-find-inspiration-and-escape-on-the-soccer-pitch",
-      "publishedAt": "Sat, 20 Jun 2026 06:00:00 -0400",
-      "snippet": "A dozen miles away from the World Cup games in New York/ New Jersey Stadium, Palestinian-American kids turn to soccer as an escape from the realities of war.",
+      "source": "PBS Headlines",
+      "title": "7 killed and dozens injured following series of weekend shootings in Chicago",
+      "link": "https://www.pbs.org/newshour/nation/7-killed-and-dozens-injured-following-series-of-weekend-shootings-in-chicago",
+      "publishedAt": "Sun, 21 Jun 2026 15:19:40 -0400",
+      "snippet": "Preliminary information shared by Chicago police indicate there have been at least two dozen shooting incidents since 5 p.m. on Friday.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "A California man&apos;s case highlights gaps in care and oversight at DHS detention centers",
-      "link": "https://www.npr.org/2026/06/20/nx-s1-5855064/richard-la-parias-ice-detention",
-      "publishedAt": "Sat, 20 Jun 2026 05:00:00 -0400",
-      "snippet": "Federal officers shot Ricardo Parias eight months ago during an ICE operation to detain him. His lawyer says he is still in pain, highlighting gaps in oversight and care in DHS facilities.",
+      "source": "PBS Headlines",
+      "title": "How window&#8209;mounted heat pumps can give tenants efficient heating and cooling",
+      "link": "https://www.pbs.org/newshour/nation/how-window%e2%80%91mounted-heat-pumps-can-give-tenants-efficient-heating-and-cooling",
+      "publishedAt": "Sun, 21 Jun 2026 15:01:41 -0400",
+      "snippet": "Heating and cooling buildings consumes 35% of all the energy used in the United States each year.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "James Burrows, director of classic shows &apos;Cheers&apos; and &apos;Friends,&apos; dies at 85",
-      "link": "https://www.npr.org/2026/06/19/g-s1-129137/james-burrows-death-obit-cheers-friends",
-      "publishedAt": "Fri, 19 Jun 2026 17:16:15 -0400",
-      "snippet": "Burrows spent his career behind the camera specializing in situation comedies. Few viewers recognized him or knew his name, other than to see it flash quickly on the screen in the opening credits. But they knew his work.",
+      "source": "PBS Headlines",
+      "title": "What to know about the legacy of Brexit, which still divides Britain 10 years on",
+      "link": "https://www.pbs.org/newshour/world/what-to-know-about-the-legacy-of-brexit-which-still-divides-britain-10-years-on",
+      "publishedAt": "Sun, 21 Jun 2026 12:42:23 -0400",
+      "snippet": "Brexit, short for British exit, became a reality on June 23, 2016, when 52% — or more than 17 million people — voted to leave the EU. Though the margin was narrow, the vote led to the most dramatic shake-up of the U.K. economy and society since World War II.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "France restricts public drinking and outdoor sports as heat wave bakes parts of Europe",
+      "link": "https://www.pbs.org/newshour/world/france-restricts-public-drinking-and-outdoor-sports-as-heat-wave-bakes-parts-of-europe",
+      "publishedAt": "Sun, 21 Jun 2026 12:10:54 -0400",
+      "snippet": "The Eiffel Tower and other Paris venues set up misting stations to cool down crowds, among a raft of measures introduced by authorities to minimize risks. Tourists in Rome dunked in fountains. Spain's Basque region canceled some sports and cultural events.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "As Vance meets top Iranian officials in Switzerland, Trump threatens Tehran from afar",
+      "link": "https://www.pbs.org/newshour/world/as-vance-meets-top-iranian-officials-in-switzerland-trump-threatens-tehran-from-afar",
+      "publishedAt": "Sun, 21 Jun 2026 11:28:55 -0400",
+      "snippet": "Vance and U.S. negotiators including Steve Witkoff and Jared Kushner, Trump's son-in-law, had met with Qalibaf and Foreign Minister Abbas Araghchi for what Iranian state media said was about 80 minutes.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Starmer is on the precipice as pressure builds for the UK leader to resign",
+      "link": "https://www.pbs.org/newshour/world/starmer-is-on-the-precipice-as-pressure-builds-for-the-uk-leader-to-resign",
+      "publishedAt": "Sun, 21 Jun 2026 11:10:29 -0400",
+      "snippet": "Starmer has publicly vowed to stay in office, but pressure is building as more and more Labour Party colleagues conclude that his time is up.",
       "tier": 1
     },
     {
@@ -359,83 +431,91 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Cuba passes sweeping free-market reforms in biggest economic shift since revolution",
-      "link": "https://www.pbs.org/newshour/world/cuba-passes-sweeping-free-market-reforms-in-biggest-economic-shift-since-revolution",
-      "publishedAt": "Fri, 19 Jun 2026 19:09:59 -0400",
-      "snippet": "Observers on Friday called Cuba's new free-market reforms the most sweeping economic overhaul of the island's communist economy since the Cuban revolution, as the grandson of former President Raúl Castro said in an interview that Cuba must seek to move its economy forward.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Israel and Hezbollah agree to a ceasefire as deadly fighting threatens U.S.-Iran deal",
-      "link": "https://www.pbs.org/newshour/show/israel-and-hezbollah-agree-to-a-ceasefire-as-deadly-fighting-threatens-u-s-iran-agreement",
-      "publishedAt": "Fri, 19 Jun 2026 18:55:48 -0400",
-      "snippet": "Heavy overnight fighting in southern Lebanon between Israel and Hezbollah militants threatened to derail the initial U.S.-Iran agreement to end the war. But a last-ditch effort to secure another ceasefire succeeded, for now, and the Americans and Iranians plan to meet soon to beg",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Former U.S. envoy outlines challenges in next phase of Iran negotiations",
-      "link": "https://www.pbs.org/newshour/show/former-u-s-envoy-outlines-challenges-in-next-phase-of-iran-negotiations",
-      "publishedAt": "Fri, 19 Jun 2026 18:50:13 -0400",
-      "snippet": "What are the prospects that the Israeli-Hezbollah ceasefire will hold and for how long? For insight, Amna Nawaz spoke with Rob Malley. He was the U.S. Special Envoy for Iran during the Biden administration and was part of the team that negotiated the nuclear agreement with Iran d",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "News Wrap: UK's Starmer says he will not 'walk away' amid threat to leadership",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-uks-starmer-says-he-will-not-walk-away-amid-threat-to-leadership",
-      "publishedAt": "Fri, 19 Jun 2026 18:45:50 -0400",
-      "snippet": "In our news wrap Friday, British Prime Minister Keir Starmer said he would not walk away from any threat to his leadership after a rival within the Labour Party won a seat in Parliament, there's been a flu outbreak at an Air Force base in Texas just weeks after the end of mandato",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Research shows weight-loss drugs may also reduce cancer risk",
-      "link": "https://www.pbs.org/newshour/show/research-shows-weight-loss-drugs-may-also-reduce-cancer-risk",
-      "publishedAt": "Fri, 19 Jun 2026 18:40:36 -0400",
-      "snippet": "A growing body of research suggests popular weight-loss drugs like Ozempic and Wegovy may also help treat or prevent certain cancers. It's the latest unexpected benefit to be associated with GLP-1s, which are now taken by one-in-eight American adults. William Brangham reports.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "How the Obama Presidential Center offers a new vision for presidential legacies",
-      "link": "https://www.pbs.org/newshour/show/how-the-obama-presidential-center-offers-a-new-vision-for-presidential-legacies",
-      "publishedAt": "Fri, 19 Jun 2026 18:35:59 -0400",
-      "snippet": "The Obama Presidential Center is now open to the public in Chicago. Former President Obama says he does not want the center to feel like a shrine or a museum, but rather a representation of an American story still being written. Ali Rogin discusses what Obama is seeking to commun",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Brooks and Capehart on Trump's record-low economic approval rating",
-      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-record-low-economic-approval-rating",
-      "publishedAt": "Fri, 19 Jun 2026 18:30:05 -0400",
-      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including the preliminary deal with Iran, President Trump's record-low approval rating on the economy and some Republicans in Congress breaking with Trump.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Derrick Adams celebrates the joy of the Black American experience through art",
-      "link": "https://www.pbs.org/newshour/show/derrick-adams-celebrates-the-joy-of-the-black-american-experience-through-art",
-      "publishedAt": "Fri, 19 Jun 2026 18:25:05 -0400",
-      "snippet": "As the rainbow array outside Boston's Institute of Contemporary Art suggests, artist Derrick Adams is accentuating the positive. He celebrates contemporary Black life and culture, depicting leisure, freedom and the pursuit of happiness. Jared Bowen of GBH Boston recently sat down",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "U.S. advances to World Cup knockout round after win against Australia",
-      "link": "https://www.pbs.org/newshour/show/u-s-advances-to-world-cup-knockout-round-after-win-against-australia",
-      "publishedAt": "Fri, 19 Jun 2026 18:20:29 -0400",
-      "snippet": "The U.S. team secured its spot in the World Cup's knockout round with a win against Australia on Friday. It's the first time since 1930 that the American men have won consecutive World Cup matches. To discuss the tournament, Amna Nawaz spoke with soccer writer Leander Schaerlaeck",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Deniz Undav: Germany&apos;s 2026 World Cup supersub",
+      "link": "https://www.dw.com/en/deniz-undav-germany-s-2026-world-cup-supersub/a-77650649?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Deniz Undav is the man in focus for Germany, but things could have turned out very differently for the Stuttgart striker.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Czechia: Thousands march in support of public media funding",
+      "link": "https://www.dw.com/en/czechia-thousands-march-in-support-of-public-media-funding/a-77650608?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Prime Minister Andrej Babis&apos; government has been accused of seeking to take control over Czech public media. The plan would leave broadcasters with a 15% funding cut and no guarantees of continued future funding.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Severe heat wave sweeps Europe, triggering alerts and disruptions",
+      "link": "https://www.dw.com/en/severe-heat-wave-sweeps-europe-triggering-alerts-and-disruptions/a-77648446?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Authorities accross Europe have warned of temperatures exceeding 39 and 40 degrees Celsius as a &apos;heat dome&apos; sets in. Germany also faces the threat of extreme thunderstorms.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Romania&apos;s Dan taps new PM, breaks democratic norms",
+      "link": "https://www.dw.com/en/romania-s-dan-taps-new-pm-breaks-democratic-norms/a-77618469?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "President Nicusor Dan has nominated a new prime minister, without consulting Romania’s governing parties. Critics accuse Dan of breaking democratic rules.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Scottish police arrest man over Edinburgh attacks",
+      "link": "https://www.dw.com/en/scottish-police-arrest-man-over-edinburgh-attacks/a-77647568?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Five people were injured in the attacks on Friday that were described by Prime Minister Keir Starmer as being motivated by \"anti-Muslim hatred.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ethiopia&apos;s ruling party wins overwhelming majority in parliament",
+      "link": "https://www.dw.com/en/ethiopia-s-ruling-party-wins-overwhelming-majority-in-parliament/a-77647557?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Prime Minister Abiy Ahmed’s Prosperity Party comfortably secured another parliamentary majority, defeating a fragmented opposition.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "AI scandal rocks the German media",
+      "link": "https://www.dw.com/en/ai-scandal-rocks-the-german-media/a-77606407?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Two leading German newspapers have deleted articles created with the use of artificial intelligence. Many fear an increasing reliance on AI will damage the credibility of German media outlets.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How TikTok-style videos keep human brains hooked on content",
+      "link": "https://www.dw.com/en/how-tiktok-style-videos-keep-human-brains-hooked-on-content/a-77627720?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "TikTok, Instagram and YouTube clips are designed to overwhelm the brain&apos;s pleasure circuitry and keep people watching. Researchers say short-form videos may only be the start when it comes to harvesting human attention.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "UK&apos;s Starmer mulls &apos;political realities&apos; after Burnham by-election",
+      "link": "https://www.dw.com/en/uk-s-starmer-mulls-political-realities-after-burnham-by-election/a-77644772?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A member of UK Prime Minister Keir Starmer&apos;s Cabinet said it would be \"delusional\" to pretend there was no threat to his position. But he also said he had no information suggesting he might quit, as a newspaper reported.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Stonehenge revelers ring in summer solstice",
+      "link": "https://www.dw.com/en/stonehenge-revelers-ring-in-summer-solstice/a-77643500?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Thousands celebrated through the night at Stonehenge in southwest England, ushering in the sunrise on the longest day of the year in the Northern Hemisphere. The stone circle aligns with the sun&apos;s path at the solstices.",
       "tier": 2
     },
     {
@@ -508,86 +588,6 @@
       "link": "https://www.dw.com/en/spain-pm-s-wife-must-face-corruption-trial-judge-rules/a-77638811?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "A court in Madrid ruled that there is sufficient evidence against Begona Gomez, the wife of Prime Minister Pedro Sanchez. The 55-year-old university director is banned from leaving the country.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Zelenskyy returns Poland&apos;s highest honor as row deepens",
-      "link": "https://www.dw.com/en/zelenskyy-returns-poland-s-highest-honor-as-row-deepens/a-77637366?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ukraine&apos;s president has returned a medal to Poland after a decision to strip him of the country&apos;s highest honor. Warsaw has been one of Kyiv&apos;s key allies since Russia began its war in Ukraine.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Millions of students retake NEET amid protests",
-      "link": "https://www.dw.com/en/india-news-millions-of-students-retake-neet-amid-protests/live-77634329?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Some 2.2 million premedical aspirants are retaking the high-pressure entrance test across India under strict security measures. Meanwhile, Prime Minister Modi is in Kolkata for International Yoga Day. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Pension overhaul may push retirement age to 70",
-      "link": "https://www.dw.com/en/germany-news-pension-overhaul-may-push-retirement-age-to-70/live-77635252?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany is weighing sweeping pension changes, including raising the retirement age to 70. Meanwhile, football fans are celebrating after the men&apos;s national side qualified for the World Cup knockout stage. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran says it&apos;s closing Strait of Hormuz again",
-      "link": "https://www.dw.com/en/iran-says-it-s-closing-strait-of-hormuz-again/live-77634368?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Iran&apos;s joint military command said the strait had been closed due to Israel&apos;s continued attacks in Lebanon. Meanwhile, Iran&apos;s negotiators are heading to Switzerland for Iran-US talks on their interim deal.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pakistan: Roadside bombs kill 7 in northwest",
-      "link": "https://www.dw.com/en/pakistan-roadside-bombs-kill-7-in-northwest/a-77636194?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A police officer said twin blasts in Pakistan&apos;s northwestern Khyber Pakhtunkhwa province were triggered remotely. No group immediately claimed responsibility.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Inequality is elementary to Germany&apos;s school system",
-      "link": "https://www.dw.com/en/inequality-is-elementary-to-germany-s-school-system/a-77613220?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Children&apos;s paths through Germany&apos;s school system are often determined before their first day of kindergarten, according to the national report on education. An elementary school in Bonn is offering a new model for kids.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bolivia&apos;s Paz declares state of emergency over blockades",
-      "link": "https://www.dw.com/en/bolivia-s-paz-declares-state-of-emergency-over-blockades/a-77635224?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "President Rodrigo Paz says he has declared the state of emergency \"to free the country&apos;s roads.\" Blockades have become a major tactic in weeks of intensifying protests to demand that the president resign.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Woman killed, hundreds evacuate in Dominican Republic hotel fire",
-      "link": "https://www.dw.com/en/woman-killed-hundreds-evacuate-in-dominican-republic-hotel-fire/a-77634423?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A huge fire tore through a four-star beach resort in the Dominican Republic, killing one woman. About 1,700 tourists were evacuated as the fire appeared to destroy most of the hotel.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "First case of H5 bird flu confirmed in Australia",
-      "link": "https://www.dw.com/en/first-case-of-h5-bird-flu-confirmed-in-australia/a-77633767?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A migratory seabird tested positive for the contagious H5 variant of avian influenza in Western Australia. Australia had been the only continent where H5 was not detected.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump unveils interim Air Force One, a gift from Qatar",
-      "link": "https://www.dw.com/en/trump-unveils-interim-air-force-one-a-gift-from-qatar/a-77633683?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A former Qatar-owned jumbo jet, converted into the new presidential aircraft, is nearly ready for service. Trump said it had been transformed into \"a flying White House.\"",
       "tier": 2
     }
   ]
