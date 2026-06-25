@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T13:09:57.588Z",
+  "generatedAt": "2026-06-25T01:22:02.424Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,26 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Power outages hit France as record heatwave set to peak",
+      "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
       "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 11:20:58 GMT",
-      "snippet": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
+      "publishedAt": "Wed, 24 Jun 2026 21:39:18 GMT",
+      "snippet": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-      "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 03:57:59 GMT",
-      "snippet": "The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+      "title": "Air conditioning creates political divide after France records hottest day",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 24 Jun 2026 13:51:24 GMT",
+      "snippet": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 23 Jun 2026 21:04:11 GMT",
-      "snippet": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
+      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 24 Jun 2026 17:31:48 GMT",
+      "snippet": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
       "tier": 1
     },
     {
@@ -74,16 +74,8 @@
       "source": "BBC World",
       "title": "France confirms first Ebola case",
       "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 10:40:57 GMT",
-      "snippet": "More than 260 people in the Democratic Republic of Congo are known to have died during the current outbreak.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 12:32:00 GMT",
-      "snippet": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
+      "publishedAt": "Wed, 24 Jun 2026 15:00:52 GMT",
+      "snippet": "The French doctor had been working in DR Congo, where more than 260 people are known to have died.",
       "tier": 1
     },
     {
@@ -92,6 +84,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 24 Jun 2026 08:29:06 GMT",
       "snippet": "Yasmina alleges she was held along with her five children, and they were all cut off from the outside world.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Colombia's left-wing presidential candidate concedes defeat",
+      "link": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 24 Jun 2026 15:50:22 GMT",
+      "snippet": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.",
       "tier": 1
     },
     {
@@ -122,8 +122,16 @@
       "source": "BBC World",
       "title": "Kenya to charge students with murder over deadly school fire",
       "link": "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 08:13:53 GMT",
+      "publishedAt": "Wed, 24 Jun 2026 14:36:42 GMT",
       "snippet": "Sixteen pupils, aged between 15 and 18, died when a fire broke out in a dormitory at Utumishi Girls' School last month.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+      "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 24 Jun 2026 14:57:21 GMT",
+      "snippet": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
       "tier": 1
     },
     {
@@ -152,7 +160,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Stanford was their golden ticket - could AI help or hinder that?",
+      "title": "Stanford graduates rethink their futures as AI transforms tech",
       "link": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 23 Jun 2026 23:16:37 GMT",
       "snippet": "The BBC spoke with Stanford University graduates about what they really think about artificial intelligence.",
@@ -183,11 +191,51 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "From cool-down spots to chalk on windows - how Europe is coping with the heat",
-      "link": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 23 Jun 2026 14:19:21 GMT",
-      "snippet": "People across the continent are taking measures to cope with the searing temperatures gripping Europe.",
+      "source": "NPR News",
+      "title": "Meta plans to release AI-powered prediction market app, documents show",
+      "link": "https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai",
+      "publishedAt": "Wed, 24 Jun 2026 14:39:06 -0400",
+      "snippet": "The company is building an app separate from Facebook and Instagram where people can wager on the outcome of real-world events, using \"play money.\"",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "A judge says the Kennedy Center must update him on its plans — and address that tarp",
+      "link": "https://www.npr.org/2026/06/24/nx-s1-5869578/kennedy-center-tarp",
+      "publishedAt": "Wed, 24 Jun 2026 14:02:47 -0400",
+      "snippet": "A federal judge has ordered the Kennedy Center to update him on programming and operational plans. But with most of the staff gone and many artists booked elsewhere, what shows would they present?",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Postal Service says its cash crisis is delayed until at least 2031, but problems loom",
+      "link": "https://www.npr.org/2026/06/24/nx-s1-5859334/us-postal-service-david-steiner",
+      "publishedAt": "Wed, 24 Jun 2026 12:19:44 -0400",
+      "snippet": "The U.S. Postal Service is no longer set to be out of cash in 2027, the agency&apos;s head says. But its finances remain shaky as Trump officials keep putting it in political hot water.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Will Texas&apos; new top voting official be a &apos;disruptor&apos;? Locals are preparing for it",
+      "link": "https://www.npr.org/2026/06/24/nx-s1-5866554/texas-secretary-of-state-schatzline",
+      "publishedAt": "Wed, 24 Jun 2026 11:32:06 -0400",
+      "snippet": "Just ahead of closely contested midterms, Texas is about to get a new top voting official. Many locals there fear the frontrunner is a state lawmaker and pastor with no election experience.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Understanding &apos;masculinism,&apos; a movement to restore the primacy of men",
+      "link": "https://www.npr.org/2026/06/24/nx-s1-5868665/understanding-masculinism-a-movement-to-restore-the-primacy-of-men",
+      "publishedAt": "Wed, 24 Jun 2026 10:54:04 -0400",
+      "snippet": "Masculinism is a belief that feminism emasculates men, and men should be in control while women stay at home raising children. The Atlantic writer Helen Lewis says the movement is becoming mainstream.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "US eases restriction on Iran&apos;s World Cup team, allowing travel 2 days before next match",
+      "link": "https://www.npr.org/2026/06/24/g-s1-129820/irans-world-cup-travel-restrictions",
+      "publishedAt": "Wed, 24 Jun 2026 10:51:45 -0400",
+      "snippet": "The U.S. is easing its restrictions on Iran&apos;s World Cup team. The U.S. Department of Homeland Security said Tuesday the squad could travel into the country two days before its next match.",
       "tier": 1
     },
     {
@@ -208,10 +256,10 @@
     },
     {
       "source": "NPR News",
-      "title": "IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal",
+      "title": "U.N. nuclear chief says inspectors will visit Iran, but Iran says only after final deal",
       "link": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
       "publishedAt": "Wed, 24 Jun 2026 07:10:17 -0400",
-      "snippet": "The head of the U.N.&apos;s nuclear agency has signaled that Iranian nuclear enrichment sites would be visited by his inspectors, a day after the U.S. and Iran offered contradictory remarks about the issue.",
+      "snippet": "The head of the U.N.&apos;s atomic agency said Iran&apos;s nuclear enrichment sites would be inspected as part of the interim deal. Iran insists any such visit would only come after a final deal.",
       "tier": 1
     },
     {
@@ -223,211 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "4 ways to design a dreamy summer, according to a happiness expert",
-      "link": "https://www.npr.org/2026/06/24/nx-s1-5851839/how-to-plan-a-dream-summer",
-      "publishedAt": "Wed, 24 Jun 2026 05:00:00 -0400",
-      "snippet": "Don&apos;t let the season fly by. Gretchen Rubin, host of the Happier podcast, shares exercises to help you get what you want out of summer. Fill out the printable worksheet and stick it on your fridge.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "5 years after the Surfside condo collapse, the toll of the tragedy remains",
-      "link": "https://www.npr.org/2026/06/24/nx-s1-5791536/surfside-condo-collapse-families-responders-five-years-later",
-      "publishedAt": "Wed, 24 Jun 2026 05:00:00 -0400",
-      "snippet": "Surfside, Florida, is marking five years since a beachfront condominium collapsed, killing 98 people. It was one of the largest structural failures in U.S. history.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "New York primary could forecast future for Democrats. Here&apos;s what you need to know",
-      "link": "https://www.npr.org/2026/06/24/nx-s1-5869118/new-york-primary-takeaways",
-      "publishedAt": "Wed, 24 Jun 2026 05:00:00 -0400",
-      "snippet": "New York&apos;s primary election highlighted a question the Democratic Party is facing: just how progressive does it want to be? In safe seats, progressives win but in competitive seats, moderates prevail.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Why are crisis pregnancy centers saying they can &apos;rule out&apos; ectopic pregnancy?",
-      "link": "https://www.npr.org/2026/06/24/nx-s1-5860744/crisis-pregnancy-centers-ectopic-abortion",
-      "publishedAt": "Wed, 24 Jun 2026 05:00:00 -0400",
-      "snippet": "Under President Trump, more federal attention and support has gone towards anti-abortion Christian centers. A watchdog group says many of them mislead patients with promises to \"rule out\" ectopic pregnancies.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Inside the gold-mining town where the Ebola outbreak likely started",
-      "link": "https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis",
-      "publishedAt": "Wed, 24 Jun 2026 05:00:00 -0400",
-      "snippet": "NPR reports from Mongbwalu in the Democratic Republic of Congo. The fight to contain the virus faces obstacles from lack of supplies to residents who doubt that the virus is real.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Appeals court allows Trump administration expanded use of speedy deportations",
-      "link": "https://www.npr.org/2026/06/24/nx-s1-5869125/court-allows-trump-speedy-deportations",
-      "publishedAt": "Wed, 24 Jun 2026 02:03:48 -0400",
-      "snippet": "A federal appeals court on Tuesday allowed the Trump administration to resume carrying out speedy deportations of undocumented migrants throughout the United States, not just near the border.",
+      "source": "PBS Headlines",
+      "title": "WATCH: Under proposed rule, USPS won't deliver mail ballots to states that don't provide voter rolls, postmaster general says",
+      "link": "https://www.pbs.org/newshour/politics/watch-under-proposed-rule-usps-wont-deliver-mail-ballots-to-states-that-dont-provide-voter-rolls-postmaster-general-says",
+      "publishedAt": "Wed, 24 Jun 2026 19:15:29 -0400",
+      "snippet": "Postmaster General David Steiner told a Senate committee Wednesday that, if a proposed rule is adopted, the U.S. Postal Service would withhold mail ballots from states that do not hand over to the federal government lists of people who have requested absentee or mail ballots.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Federal officials plan to offload some warehouses purchased for immigrant detention",
-      "link": "https://www.pbs.org/newshour/politics/federal-officials-plan-to-offload-some-warehouses-purchased-for-immigrant-detention",
-      "publishedAt": "Wed, 24 Jun 2026 08:15:11 -0400",
-      "snippet": "U.S. Immigration and Customs Enforcement is retreating from a plan to use warehouses to hold up to 10,000 people on a single site, dropping a key piece of former Homeland Security Secretary Kristi Noem's $38-billion plan to rapidly expand detention capacity this year.",
+      "title": "Trump scraps housing bill signing to pressure Senate GOP on SAVE Act",
+      "link": "https://www.pbs.org/newshour/show/trump-scraps-housing-bill-signing-to-pressure-senate-gop-on-save-act",
+      "publishedAt": "Wed, 24 Jun 2026 18:55:58 -0400",
+      "snippet": "President Trump upended plans for a major housing bill, refusing to sign legislation that passed Congress with veto-proof majorities. He's trying to press lawmakers to adopt the voting bill known as the SAVE Act. The tactic is familiar. Earlier this year, the president derailed a",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "House gives final approval to landmark housing bill aimed at lowering costs",
-      "link": "https://www.pbs.org/newshour/politics/house-gives-final-approval-to-landmark-housing-bill-aimed-at-lowering-costs",
-      "publishedAt": "Wed, 24 Jun 2026 08:00:16 -0400",
-      "snippet": "The legislation represents one of the most sweeping efforts in decades to increase the supply of housing and bring down prices.",
+      "title": "What's in the housing affordability bill that Trump refused to sign",
+      "link": "https://www.pbs.org/newshour/show/whats-in-the-housing-affordability-bill-that-trump-refused-to-sign",
+      "publishedAt": "Wed, 24 Jun 2026 18:50:38 -0400",
+      "snippet": "The landmark bipartisan housing bill that President Trump hasn't signed is the most significant overhaul of federal housing policy in decades. It contains no new spending, but it does seek to boost supply by making it cheaper and easier to build across the country. To break down ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Private power company countersues Puerto Rico's government as legal woes deepen",
-      "link": "https://www.pbs.org/newshour/nation/private-power-company-countersues-puerto-ricos-government-as-legal-woes-deepen",
-      "publishedAt": "Wed, 24 Jun 2026 07:45:40 -0400",
-      "snippet": "Luma Energy accused the government of acting \"in bad faith and with intentional malice to the detriment of the public interest.\"",
+      "title": "Progressive victories signal mood of some Democratic voters ahead of midterms",
+      "link": "https://www.pbs.org/newshour/show/progressive-victories-signal-mood-of-some-democratic-voters-ahead-of-midterms",
+      "publishedAt": "Wed, 24 Jun 2026 18:45:19 -0400",
+      "snippet": "Progressive Democrats dominated New York's midterm primary elections in a resounding show of strength for the Democratic Socialist mayor of New York City. All three candidates endorsed by Mayor Zohran Mamdani won their races, two of them ousting sitting congressmen. Geoff Bennett",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Mamdani slate sweeps Democratic primaries in New York, ousts 2 incumbents from Congress",
-      "link": "https://www.pbs.org/newshour/politics/mamdani-slate-sweeps-democratic-primaries-in-new-york-ousts-2-incumbents-from-congress",
-      "publishedAt": "Tue, 23 Jun 2026 23:50:24 -0400",
-      "snippet": "Top allies of New York Mayor Zohran Mamdani have defeated establishment-backed Democrats in New York's congressional primary elections.",
+      "title": "How the Trump administration is trying to reshape how elections are run",
+      "link": "https://www.pbs.org/newshour/show/how-the-trump-administration-is-trying-to-reshape-how-elections-are-run",
+      "publishedAt": "Wed, 24 Jun 2026 18:40:18 -0400",
+      "snippet": "The Trump administration has made multiple efforts to reshape how elections are run with just months before the midterms. The debate over election security has led to tension between the White House and election administrators as the president falsely claims voter fraud is rampan",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Maryland Democrats pick their U.S. House nominees as Moore wins primary for governor",
-      "link": "https://www.pbs.org/newshour/politics/maryland-democrats-pick-their-u-s-house-nominees-as-moore-wins-primary-for-governor",
-      "publishedAt": "Tue, 23 Jun 2026 20:37:30 -0400",
-      "snippet": "Rising party star Gov. Wes Moore won the Democratic primary in his bid for reelection to a second term. Republican voters hope to return the state to GOP leadership by picking a candidate they think can unseat him.",
+      "title": "News Wrap: During Gulf nations tour, Rubio stresses Strait of Hormuz must remain open",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-during-gulf-nations-tour-rubio-stresses-strait-of-hormuz-must-remain-open",
+      "publishedAt": "Wed, 24 Jun 2026 18:35:44 -0400",
+      "snippet": "In our news wrap Wednesday, Secretary of State Marco Rubio stressed the Strait of Hormuz must be open to maritime traffic and toll-free as he met with leaders across three Gulf nations, Camp Mystic filed for bankruptcy nearly a year after flooding killed 28 people there and feder",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Wilson wins GOP nomination for South Carolina governor after Trump hedges his bet on race",
-      "link": "https://www.pbs.org/newshour/politics/wilson-wins-gop-nomination-for-south-carolina-governor-after-trump-hedges-his-bet-on-race",
-      "publishedAt": "Tue, 23 Jun 2026 20:27:03 -0400",
-      "snippet": "South Carolina Attorney General Alan Wilson won a runoff election on Tuesday, swiftly routing the candidate initially endorsed by President Donald Trump to be the Republican nominee for governor.",
+      "title": "Another top military commander resigns following clash with Hegseth",
+      "link": "https://www.pbs.org/newshour/show/another-top-military-commander-resigns-following-clash-with-hegseth",
+      "publishedAt": "Wed, 24 Jun 2026 18:30:46 -0400",
+      "snippet": "The Army confirmed that one of its most prominent generals would soon be retiring, ending his career and leaving his current job long before expected. It is the latest example of senior officers leaving the military early, or being fired, under Defense Secretary Pete Hegseth. Nic",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trains across Germany halted for hours by communication system outage",
-      "link": "https://www.pbs.org/newshour/world/trains-across-germany-halted-for-hours-by-communication-system-outage",
-      "publishedAt": "Tue, 23 Jun 2026 20:15:49 -0400",
-      "snippet": "The main national railway operator, Deutsche Bahn, said shortly before 1 a.m. — nearly 2 1/2 hours after it first reported the outage — that the problem had been resolved and service was resuming \"step by step.\"",
+      "title": "Millions in Europe face extreme temperatures from record-breaking heat wave",
+      "link": "https://www.pbs.org/newshour/show/millions-in-europe-face-extreme-temperatures-from-record-breaking-heatwave",
+      "publishedAt": "Wed, 24 Jun 2026 18:25:15 -0400",
+      "snippet": "A major heat wave is shattering records across Europe, leaving tens of millions of people under sweltering conditions. France topped a record for the country's hottest day ever for the second consecutive day. The United Kingdom and Spain both hit record highs for the month of Jun",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "NCAA panel approves new eligibility rules giving Division I athletes 5 years to play 5 seasons",
-      "link": "https://www.pbs.org/newshour/nation/ncaa-panel-approves-new-eligibility-rules-giving-division-i-athletes-5-years-to-play-5-seasons",
-      "publishedAt": "Tue, 23 Jun 2026 20:02:45 -0400",
-      "snippet": "Eager to lessen the chaos of the transfer portal era and court fights with players trying to extend their careers, the NCAA approved a new eligibility model for Division I athletes on Tuesday that will allow five seasons of competition over a five-year period that begins with the",
+      "title": "Anti-ICE protesters sentenced to decades in prison in latest crackdown on dissent",
+      "link": "https://www.pbs.org/newshour/show/anti-ice-protesters-sentenced-to-decades-in-prison-in-latest-crackdown-on-dissent",
+      "publishedAt": "Wed, 24 Jun 2026 18:20:53 -0400",
+      "snippet": "In two federal courts, a group of protesters received unusually long sentences after the Justice Department accused them of being members of Antifa. These nine protesters were arrested after they demonstrated outside a migrant detention facility in Texas. During the protest, a po",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Federal judge dismisses Justice Department lawsuit seeking detailed Maryland voter data",
-      "link": "https://www.pbs.org/newshour/politics/federal-judge-dismisses-justice-department-lawsuit-seeking-detailed-maryland-voter-data",
-      "publishedAt": "Tue, 23 Jun 2026 19:53:44 -0400",
-      "snippet": "The Trump administration's attempts to obtain state-level voter data have suffered yet another legal blow.",
+      "title": "Walter Isaacson on what he calls 'The Greatest Sentence Ever Written'",
+      "link": "https://www.pbs.org/newshour/show/walter-isaacson-on-what-he-calls-the-greatest-sentence-ever-written",
+      "publishedAt": "Wed, 24 Jun 2026 18:15:36 -0400",
+      "snippet": "Ahead of America's 250th anniversary, author Walter Isaacson has turned his attention to a single sentence in the Declaration of Independence. Judy Woodruff spoke with Isaacson about the enduring power of those words and his new book, \"The Greatest Sentence Ever Written.\" It's pa",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "U.S. and Iran at odds over nuclear inspections, Strait of Hormuz fees",
-      "link": "https://www.pbs.org/newshour/show/u-s-and-iran-at-odds-over-nuclear-inspections-strait-of-hormuz-fees",
-      "publishedAt": "Tue, 23 Jun 2026 18:57:50 -0400",
-      "snippet": "Iran and the U.S. are once again at odds, this time over nuclear inspections. The U.S. said that the UN nuclear watchdog will inspect Iran's facilities, but Iran says no deal is in place. It was just one of several disagreements since the weekend meetings in Switzerland between t",
+      "title": "White House seeks $87.6B from Congress for Iran war costs, U.S. farmers and Ebola response",
+      "link": "https://www.pbs.org/newshour/politics/white-house-seeks-87-6b-from-congress-for-iran-war-costs-u-s-farmers-and-ebola-response",
+      "publishedAt": "Wed, 24 Jun 2026 17:52:30 -0400",
+      "snippet": "The White House has formally requested $87.6 billion mostly to replenish the Pentagon after the U.S. war against Iran, submitting the request to Congress at a politically difficult time as Republican and Democratic lawmakers have objected to any further military action.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "In rare rebuke, Senate votes to limit Trump's war powers in Iran",
-      "link": "https://www.pbs.org/newshour/show/in-rare-rebuke-senate-votes-to-limit-trumps-war-powers-in-iran",
-      "publishedAt": "Tue, 23 Jun 2026 18:55:23 -0400",
-      "snippet": "Congress never authorized military action in Iran, but the U.S. Senate today voted to limit President Trump's Iran war powers in a rare rebuke. White House correspondent Liz Landers caught up with Senators on both sides of the aisle.",
+      "title": "WATCH: Congress dedicates national time capsule ahead of America's 250th anniversary",
+      "link": "https://www.pbs.org/newshour/politics/watch-congress-dedicates-national-time-capsule-ahead-of-americas-250th-anniversary",
+      "publishedAt": "Wed, 24 Jun 2026 17:34:39 -0400",
+      "snippet": "The Time Capsule Act, a 2016 law creating the nonpartisan America250 commission mandated that a time capsule be buried in Philadelphia on July 4, 2026, and dug up 250 years later in 2276.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Ex-Energy Secretary Moniz breaks down challenges of nuclear negotiations with Iran",
-      "link": "https://www.pbs.org/newshour/show/ex-energy-secretary-moniz-breaks-down-challenges-of-nuclear-negotiations-with-iran",
-      "publishedAt": "Tue, 23 Jun 2026 18:50:22 -0400",
-      "snippet": "To discuss the U.S. nuclear negotiations with Iran, Amna Nawaz spoke with Ernest Moniz. Trained as a nuclear physicist, he was the Energy Secretary during the Obama administration and was a chief architect and the lead technical negotiator of the 2015 Iran nuclear agreement. He's",
+      "title": "Kennedy scion Jack Schlossberg loses crowded New York City congressional primary",
+      "link": "https://www.pbs.org/newshour/politics/kennedy-scion-jack-schlossberg-loses-crowded-new-york-city-congressional-primary",
+      "publishedAt": "Wed, 24 Jun 2026 17:21:11 -0400",
+      "snippet": "Kennedy family scion and political novice Jack Schlossberg lost Tuesday to New York state Assembly Member Micah Lasher, in a closely watched and crowded Democratic primary for an open congressional seat in the heart of Manhattan.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Federal appeals court allows Trump to resume expanded use of speedy deportations",
-      "link": "https://www.pbs.org/newshour/politics/federal-appeals-court-allows-trump-to-resume-expanded-use-of-speedy-deportations",
-      "publishedAt": "Tue, 23 Jun 2026 18:46:22 -0400",
-      "snippet": "The ruling was a big victory for the Republican administration, which views the expansion of so-called expedited removal as a key tool for carrying out its mass deportation policy.",
+      "title": "WATCH: Trump meets with NATO Secretary-General Rutte in the Oval Office",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-meets-with-nato-secretary-general-rutte-in-the-oval-office",
+      "publishedAt": "Wed, 24 Jun 2026 17:16:41 -0400",
+      "snippet": "Trump has renewed his threats to leave the alliance, raising the stakes before the NATO leaders' summit in Turkey next month. But Rutte, who has become known as a Trump whisperer for his ability to charm the president, was looking to appease him Wednesday.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Supreme Court sides with Trump administration",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-sides-with-trump-administration",
-      "publishedAt": "Tue, 23 Jun 2026 18:45:14 -0400",
-      "snippet": "In our news wrap Tuesday, the Supreme Court sided with the Trump administration in an immigration case strengthening the government's power to deport green card holders accused of crimes and the Justice Department has reportedly withdrawn grand jury subpoenas to reporters at The ",
+      "title": "A member of the cultlike Zizians group is charged in the killings of her parents in Pennsylvania",
+      "link": "https://www.pbs.org/newshour/nation/a-member-of-the-cultlike-zizians-group-is-charged-in-the-killings-of-her-parents-in-pennsylvania",
+      "publishedAt": "Wed, 24 Jun 2026 16:59:43 -0400",
+      "snippet": "Michelle Zajko, who has been jailed in Maryland on other charges since February 2025, has been charged with murder, burglary and conspiracy charges in the deaths of Rita and Richard Zajko, Delaware County District Attorney Tanner Rouse said at a news conference.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "A decade after Brexit, UK voters reflect on decision to break from European Union",
-      "link": "https://www.pbs.org/newshour/show/a-decade-after-brexit-uk-voters-reflect-on-decision-to-break-from-european-union",
-      "publishedAt": "Tue, 23 Jun 2026 18:40:23 -0400",
-      "snippet": "Tuesday marks the 10th anniversary of the most divisive day in Britain's recent history: Brexit, the vote to leave the European Union. Voters were promised a Britain free of European laws, decreased immigration, and a major boost to business, without the EU's economic constraints",
+      "title": "Ex-aides win primaries to replace retiring Democratic House members",
+      "link": "https://www.pbs.org/newshour/politics/ex-aides-win-primaries-to-replace-retiring-democratic-house-members",
+      "publishedAt": "Wed, 24 Jun 2026 16:40:32 -0400",
+      "snippet": "U.S. Reps. Steny Hoyer and Jerrold Nadler passed the torch Tuesday night to former aides who won the Democratic primaries to replace them on Capitol Hill.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How the federal student loan changes could impact borrowers",
-      "link": "https://www.pbs.org/newshour/show/how-the-federal-student-loan-changes-could-impact-borrowers",
-      "publishedAt": "Tue, 23 Jun 2026 18:35:57 -0400",
-      "snippet": "Federal student loans will undergo significant changes starting July 1. These changes will not only restructure the loan system, but also the repayment options for millions of borrowers. Some might see higher monthly payments, others will have to deal with stricter caps on how mu",
+      "title": "Former NYC Mayor Adams' chief of staff and 3 others charged in federal bribery probe",
+      "link": "https://www.pbs.org/newshour/politics/former-nyc-mayor-adams-chief-of-staff-and-3-others-charged-in-federal-bribery-probe",
+      "publishedAt": "Wed, 24 Jun 2026 16:40:12 -0400",
+      "snippet": "A former chief of staff to ex-New York Mayor Eric Adams was arrested Wednesday in a bribery case, the latest sign that federal prosecutors continue to scrutinize Adams' inner circle months after the scandal-bruised Democrat left office.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Farmers struggle with crops as climate change makes weather less predictable",
-      "link": "https://www.pbs.org/newshour/show/farmers-struggle-with-crops-as-climate-change-makes-weather-less-predictable",
-      "publishedAt": "Tue, 23 Jun 2026 18:30:29 -0400",
-      "snippet": "More than half of the continental U.S. is facing drought conditions. But other parts of the country are facing the opposite problem. Extreme weather conditions can have major impacts on farmers and their crops at a time when they're already facing high production costs. Paul Solm",
+      "title": "How a heat dome is formed and why experts blame one for Europe's baking temperatures",
+      "link": "https://www.pbs.org/newshour/world/how-a-heat-dome-is-formed-and-why-experts-blame-one-for-europes-baking-temperatures",
+      "publishedAt": "Wed, 24 Jun 2026 16:11:21 -0400",
+      "snippet": "Europe is sizzling under an early heat wave this week, with millions of people experiencing extremely high temperatures, and experts say a phenomenon known as a heat dome is to blame.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "'The Queer Face of War' chronicles hardships for Ukraine's LGBTQ+ community during war",
-      "link": "https://www.pbs.org/newshour/show/the-queer-face-of-war-chronicles-hardships-for-ukraines-lgbtq-community-during-war",
-      "publishedAt": "Tue, 23 Jun 2026 18:25:15 -0400",
-      "snippet": "It's been more than four years since Russia launched a full-scale invasion of Ukraine. While war has impacted the lives of nearly all Ukrainians, life has been especially challenging for members of the LGBTQ+ community. Author and photojournalist J. Lester Feder's book chronicles",
+      "title": "Dispute over nuclear inspections shows how U.S. and Iran are negotiating in public",
+      "link": "https://www.pbs.org/newshour/world/dispute-over-nuclear-inspections-shows-how-u-s-and-iran-are-negotiating-in-public",
+      "publishedAt": "Wed, 24 Jun 2026 15:53:06 -0400",
+      "snippet": "The head of the U.N.'s nuclear agency said Wednesday that Iranian nuclear enrichment sites would be visited by his inspectors as part of the interim U.S.-Iran deal to reach an end to the war. An Iranian diplomat instead insisted any such visit would only come after a final deal.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Read the House transcripts of Bill Gates and Lesley Groff's interviews in Epstein probe",
-      "link": "https://www.pbs.org/newshour/politics/read-the-house-transcripts-of-bill-gates-and-lesley-groffs-interviews-in-epstein-probe",
-      "publishedAt": "Tue, 23 Jun 2026 18:07:20 -0400",
-      "snippet": "The House Oversight Committee on Tuesday released transcripts of the testimonies by Bill Gates and Lesley Groff in closed-door depositions before the panel in June as part of its investigation into the late sex offender Jeffrey Epstein.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "The reflecting pool is about to be drained, again. Here's what to know",
-      "link": "https://www.pbs.org/newshour/politics/the-reflecting-pool-is-about-to-be-drained-again-heres-what-to-know",
-      "publishedAt": "Tue, 23 Jun 2026 17:58:07 -0400",
-      "snippet": "Green water, floating liner chunks, and workers dumping jugs of hydrogen peroxide. These are the images that have characterized the Lincoln Memorial Reflecting Pool in the weeks since its reopening following President Donald Trump's ordered renovations.",
+      "title": "Federal judge bars Trump from implementing proof of citizenship requirement to vote",
+      "link": "https://www.pbs.org/newshour/politics/federal-judge-bars-trump-from-implementing-proof-of-citizenship-requirement-to-vote",
+      "publishedAt": "Wed, 24 Jun 2026 15:26:37 -0400",
+      "snippet": "The ruling by U.S. District Court Judge Denise Casper in Boston effectively converts a preliminary injunction she issued a year ago, in which she temporarily blocked many of Trump's efforts to overhaul elections, into a permanent ban.",
       "tier": 1
     },
     {
@@ -436,6 +436,86 @@
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Venezuela hit by two powerful earthquakes",
+      "link": "https://www.dw.com/en/venezuela-hit-by-two-powerful-earthquakes/a-77698995?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Strong earthquakes struck west of Venezuela&apos;s capital just seconds apart, bringing down buildings in Caracas.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany&apos;s Merz rallies European NATO allies ahead of summit",
+      "link": "https://www.dw.com/en/germany-s-merz-rallies-european-nato-allies-ahead-of-summit/a-77698670?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Chancellor Friedrich Merz hosted leaders of European NATO powers in Berlin to hash out consensus on bolstering European defense. With US tensions looming, the leaders signaled that transatlantic ties are improving.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "What does British PM&apos;s resignation mean for European security?",
+      "link": "https://www.dw.com/en/what-does-british-pm-s-resignation-mean-for-european-security/a-77698281?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "British Prime Minister Keir Starmer was widely known for his support of Ukraine and his efforts towards a new EU–UK defense partnership. What will happen to those policies now that Starmer has announced his resignation?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How Big Tech is changing journalism",
+      "link": "https://www.dw.com/en/how-big-tech-is-changing-journalism/a-77696474?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Technology companies are shaping how news is presented and digested, leaving media outlets little option but to comply. At DW&apos;s Global Media Forum in Bonn, participants discussed how to resist and adapt.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Heat wave: Why you should skip that cold beer or cocktail",
+      "link": "https://www.dw.com/en/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail/a-77680047?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Summer, the FIFA World Cup and a cold beer. Sounds like a dream? Be careful, though; the combination of heat and alcohol can quickly take a very bad turn.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "European heat wave is not normal summer weather",
+      "link": "https://www.dw.com/en/european-heat-wave-is-not-normal-summer-weather/a-77693716?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Human-induced climate change has intensified temperatures, making this year&apos;s record heat wave up to 4 degrees Celsius hotter.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran after the war — fragile peace, shattered economy",
+      "link": "https://www.dw.com/en/iran-after-the-war-fragile-peace-shattered-economy/a-77690083?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US has temporarily allowed Iran to export oil and indicated it will provide billions to relieve the crisis triggered by the war. With ordinary Iranians at their limit, however, Tehran already fears new protests.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Climate change: Heatwave costs the German economy billions",
+      "link": "https://www.dw.com/en/climate-change-heatwave-costs-the-german-economy-billions/a-77694558?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Never before has a June been as hot in Germany as in 2026. This has consequences not only for people and nature, but also for businesses. Heat reduces productivity and causes illness, while cooling is expensive.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "France reports first Congo outbreak linked Ebola case",
+      "link": "https://www.dw.com/en/france-reports-first-congo-outbreak-linked-ebola-case/a-77689901?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "France has confirmed its first Ebola case linked to the outbreak in the Democratic Republic of Congo. The infection comes weeks after European health authorities said there were no active Ebola cases in the EU.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Is xenophobia in South Africa risking investment?",
+      "link": "https://www.dw.com/en/is-xenophobia-in-south-africa-risking-investment/a-77687020?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Vigilante groups and right-wing populist forces are stoking anti-immigrant sentiment and demanding that they leave the country by June 30. Experts fear serious economic implications for the country and the region.",
       "tier": 2
     },
     {
@@ -488,16 +568,8 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Heat wave: Alcohol can be a serious danger to your health",
-      "link": "https://www.dw.com/en/heat-wave-alcohol-can-be-a-serious-danger-to-your-health/a-77680047?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Summer, the FIFA World Cup and a cold beer. Sounds like a dream? Be careful, though; the combination of heat and alcohol can quickly take a very bad turn.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iranian nuclear inspections &apos;going to happen,&apos; IAEA head",
-      "link": "https://www.dw.com/en/iranian-nuclear-inspections-going-to-happen-iaea-head/live-77685880?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran nuclear inspections &apos;going to happen,&apos; says IAEA head",
+      "link": "https://www.dw.com/en/iran-nuclear-inspections-going-to-happen-says-iaea-head/live-77685880?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "After contradicting US and Iranian statements, the UN nuclear agency said inspections of Iran&apos;s nuclear sites would take place. Iran&apos;s top negotiator called the US-Iran deal \"America&apos;s declaration of defeat.\" More at DW.",
       "tier": 2
@@ -516,78 +588,6 @@
       "link": "https://www.dw.com/en/how-africa-s-youth-wants-to-save-democracy/a-77588410?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Africa&apos;s young population often finds itself facing aging, autocratic rulers. Unwilling to settle for democratic rituals alone, many are searching for creative new ways to shape their future.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US: Senate vote calls for an end to Trump&apos;s Iran war in rare bipartisan rebuke",
-      "link": "https://www.dw.com/en/us-senate-vote-calls-for-an-end-to-trump-s-iran-war-in-rare-bipartisan-rebuke/a-77684833?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Trump criticized the largely symbolic Senate resolution as \"meaningless\" after several Republicans joined Democrats in a rare break with the White House.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Major warship project to be scrapped",
-      "link": "https://www.dw.com/en/germany-news-major-warship-project-to-be-scrapped/live-77684448?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Defense Ministry is dropping a multi-billion-euro project to build F126 frigates, media say. And train services have resumed after a communications glitch overnight halted Germany&apos;s rail network . DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US: Google&apos;s YouTube settles teen mental health lawsuit",
-      "link": "https://www.dw.com/en/us-google-s-youtube-settles-teen-mental-health-lawsuit/a-77684408?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A Florida teenager said YouTube&apos;s addictive design contributed to depression, anxiety and sleep loss. Instagram, Snapchat and TikTok are also facing similar allegations about their impact on young users.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trains resume after radio issue resolved, Deutsche Bahn says",
-      "link": "https://www.dw.com/en/trains-resume-after-radio-issue-resolved-deutsche-bahn-says/a-77682758?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Train services across Germany have resumed following a technical meltdown on Tuesday night. But regional and suburban rail operators warned that continued delays were possible into Wednesday morning.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ebola in DR Congo sees record first-month caseload",
-      "link": "https://www.dw.com/en/ebola-in-dr-congo-sees-record-first-month-caseload/a-77672493?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The UN says the DR Congo has reported 1,000 Ebola cases, the most ever in the first month of any Ebola outbreak in Africa. Meanwhile, Kenya&apos;s health minister says he is halting a US-backed Ebola quarantine center.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Lebanon&apos;s lose-lose: Is there another way out of conflict?",
-      "link": "https://www.dw.com/en/lebanon-s-lose-lose-is-there-another-way-out-of-conflict/a-77678731?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The new US-Iran peace deal seems to be forcing Lebanon to choose between Israel&apos;s sphere of influence or Iran&apos;s. It wants neither. But could there be a better alternative, achieved with the help of regional diplomacy?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Curacao&apos;s trailblazing doctor at the World Cup",
-      "link": "https://www.dw.com/en/curacao-s-trailblazing-doctor-at-the-world-cup/a-77679539?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Suzanne Huurman is the only female chief doctor at the 2026 World Cup. Her work is inspiring change in men&apos;s football.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Poland, Ukraine: Dispute between two close allies deepens",
-      "link": "https://www.dw.com/en/poland-ukraine-dispute-between-two-close-allies-deepens/a-77680193?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Polish President Karol Nawrocki last week stripped Ukrainian President Volodymyr Zelenskyy of Poland&apos;s highest state honor. How did it come to this? And what has it got to do with next year&apos;s election in Poland?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Scotland: Sturgeon&apos;s ex-husband Peter Murrell jailed for 5 years and 3 months",
-      "link": "https://www.dw.com/en/scotland-sturgeon-s-ex-husband-peter-murrell-jailed-for-5-years-and-3-months/a-77678072?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Peter Murrell pleaded guilty to embezzling funds in his role as chief executive of the Scottish National Party. He held the SNP&apos;s purse strings while his then-wife, Nicola Sturgeon, was Scottish First Minister.",
       "tier": 2
     }
   ]
