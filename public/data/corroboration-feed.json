@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T13:08:24.983Z",
+  "generatedAt": "2026-06-27T01:20:00.549Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,58 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 02:12:07 GMT",
-      "snippet": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+      "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 21:15:37 GMT",
+      "snippet": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Aerial footage reveals destruction in coastal Venezuela",
-      "link": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 05:13:22 GMT",
-      "snippet": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday.",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 18:36:32 GMT",
+      "snippet": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 11:27:59 GMT",
-      "snippet": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 00:34:08 GMT",
+      "snippet": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 18:14:36 GMT",
+      "snippet": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "DR Congo takes Rwanda to international court over decades of conflict",
+      "link": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 17:05:22 GMT",
+      "snippet": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
+      "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 22:55:28 GMT",
+      "snippet": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 16:45:21 GMT",
+      "snippet": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
       "tier": 1
     },
     {
@@ -68,6 +100,30 @@
       "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 26 Jun 2026 10:38:37 GMT",
       "snippet": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+      "link": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 15:34:39 GMT",
+      "snippet": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada eligible to join Eurovision competition",
+      "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 13:41:36 GMT",
+      "snippet": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+      "link": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 12:54:18 GMT",
+      "snippet": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
       "tier": 1
     },
     {
@@ -135,299 +191,243 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
-      "link": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 16:53:51 GMT",
-      "snippet": "Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "link": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 12:08:33 GMT",
-      "snippet": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 15:32:04 GMT",
-      "snippet": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Key figure in South Africa police corruption scandal pleads guilty",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 14:00:13 GMT",
-      "snippet": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "link": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 10:04:43 GMT",
-      "snippet": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Philippines bans video game played by alleged high school shooter",
-      "link": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 22:14:12 GMT",
-      "snippet": "The rare school shooting that left three students killed and 20 others injured has shocked the country.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-      "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 03:12:17 GMT",
-      "snippet": "The firm alleged that Alibaba used fraudulent accounts to access data from its Claude AI model.",
+      "source": "NPR News",
+      "title": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5872821/pete-buttigieg-cps-police-swatting",
+      "publishedAt": "Fri, 26 Jun 2026 20:26:52 -0400",
+      "snippet": "Buttigieg, a potential 2028 Democratic presidential contender, shared his family&apos;s experience when police and Child Protective Services came to his home investigating an anonymous tip that was false.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "South Korean ex-first lady sentenced to 7 years for bribery scandal",
-      "link": "https://www.npr.org/2026/06/26/g-s1-130372/south-korean-ex-first-lady-sentenced-to-7-years-for-bribery-scandal",
-      "publishedAt": "Fri, 26 Jun 2026 09:03:20 -0400",
-      "snippet": "The former first lady had previously been sentenced to four years in a separate case involving the Unification Church.",
+      "title": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5860746/aca-health-insurance-subsidies-rates-premiums",
+      "publishedAt": "Fri, 26 Jun 2026 18:54:23 -0400",
+      "snippet": "The number of people who signed up for a health plan and then didn&apos;t pay their premium fell much more sharply than it has in years past. Trump officials blame fraud. Health policy experts blame costs.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum",
-      "link": "https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers",
-      "publishedAt": "Fri, 26 Jun 2026 07:22:46 -0400",
-      "snippet": "Rescuers are searching for thousands of people missing after two earthquakes struck Venezuela on Wednesday. And, the Supreme Court says the U.S. can turn away asylum seekers at the border.",
+      "title": "A day after Alito&apos;s testy response to Sotomayor&apos;s dissent, court says it was a &apos;misunderstanding&apos;",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5872721/supreme-court-alito-sotomayor",
+      "publishedAt": "Fri, 26 Jun 2026 17:18:04 -0400",
+      "snippet": "During Supreme Court opinions Thursday, Justice Samuel Alito, who wrote the majority opinion in an asylum case, appeared to rebut Justice Sonia Sotomayor, who wrote the dissent. The move was highly unusual — and on Friday there was a coda.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "&apos;We are with you, Venezuela&apos;: Houston community rallies after deadly earthquakes",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5871147/venezuela-houston-earthquake-katy",
-      "publishedAt": "Fri, 26 Jun 2026 05:30:00 -0400",
-      "snippet": "Venezuelans living in the U.S organize donation drives in response to the devastating earthquakes.",
+      "title": "It&apos;s not just Cape Verde: African soccer is having a World Cup moment",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5867404/2026-world-cup-fifa-africa-cape-verde-senegal-morocco-congo",
+      "publishedAt": "Fri, 26 Jun 2026 16:49:57 -0400",
+      "snippet": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup. Meanwhile, team from Africa have been relentless.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "How well do you know your Reflecting Pool news? Because the quiz will test you",
-      "link": "https://www.npr.org/2026/06/26/g-s1-129799/fair-trump-tarp-fda-starmer-meta-viking-news-quiz",
-      "publishedAt": "Fri, 26 Jun 2026 05:01:00 -0400",
-      "snippet": "This week, the beleaguered body of water faced new woes. Plus soccer, gambling and U.K. politics!",
+      "title": "She posted about ICE. Five months later, DHS agents told her to take her post down",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5871369/new-york-ice-instagram-immigration-dhs-paigelynne-gonyea",
+      "publishedAt": "Fri, 26 Jun 2026 16:21:35 -0400",
+      "snippet": "In January, Paigelynne Gonyea posted about the immigration surge in Minneapolis. This week, she was visited by ICE officials who claimed one of her posts had doxxed a federal agent.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trump axed a Black history exhibit. Former park rangers are teaching it anyway.",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history",
-      "publishedAt": "Fri, 26 Jun 2026 05:00:00 -0400",
-      "snippet": "As the U.S. prepares to celebrate its 250th anniversary, former national park rangers are hosting teach-ins and sharing history that the Trump administration has sought to erase from federal land.",
+      "title": "U.S. pledges generous earthquake relief to Venezuela",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
+      "publishedAt": "Fri, 26 Jun 2026 13:42:40 -0400",
+      "snippet": "Secretary of State Marco Rubio promised: \"We have a whole-of-government response. It&apos;ll be big; it&apos;ll be fast; and it&apos;ll be effective.\"",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Ex-NOAA employees re-create a valuable climate data site shut down by Trump",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge",
-      "publishedAt": "Fri, 26 Jun 2026 05:00:00 -0400",
-      "snippet": "Former NOAA staffers have launched a new website that provides climate information. It replaces a government site that was shut down when the Trump administration took office.",
+      "title": "World Cup fans are missing games after their resale tickets fall through",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5871397/world-cup-tickets-stubhub-resale-controversy",
+      "publishedAt": "Fri, 26 Jun 2026 12:13:47 -0400",
+      "snippet": "The ordeal has left fans forced to either miss out on a once-in-a-lifetime opportunity or scramble to find new tickets, often costing more and for worse seats.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5870438/morning-news-brief",
-      "publishedAt": "Fri, 26 Jun 2026 04:45:11 -0400",
-      "snippet": "Rescuers in Venezuela continue search for the missing after devastating earthquakes, SCOTUS rulings give Trump more power to set immigration policy, Trump works to woo struggling American farmers.",
+      "title": "Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5828767/israel-palestinian-man-killed-west-bank",
+      "publishedAt": "Fri, 26 Jun 2026 11:45:25 -0400",
+      "snippet": "Nayef Samaro, 25, was killed in an Israeli military raid on Nablus, in the occupied West Bank, as he prepared to meet his wife at the hospital for the birth of their first child.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "&apos;There was a lot of love&apos;: Man remembers his gay parents who died in the AIDS crisis",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5866780/there-was-a-lot-of-love-man-remembers-his-gay-parents-who-died-in-the-aids-crisis",
-      "publishedAt": "Fri, 26 Jun 2026 04:44:01 -0400",
-      "snippet": "On this week&apos;s StoryCorps, a man remembers being raised by gay parents at the height of the AIDS crisis.",
+      "title": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes",
+      "publishedAt": "Fri, 26 Jun 2026 11:08:14 -0400",
+      "snippet": "Ukraine launched a major nighttime attack on a dozen Russian regions, Russian-held Crimea and the surrounding seas, and Russia attacked various regions of Ukraine, as their war grinds on.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Venezuela reels from earthquakes, as death toll more than doubles",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5870651/venezuela-earthquakes-caracas",
-      "publishedAt": "Fri, 26 Jun 2026 02:41:51 -0400",
-      "snippet": "As Venezuela begins counting the cost of its deadliest quake disaster in over a century, a shattered economy and struggling health system threaten to slow recovery efforts.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Reflecting Pool liner was cut with a sharp knife or razor, National Park Service says",
-      "link": "https://www.npr.org/2026/06/26/g-s1-130351/reflecting-pool-liner-cut-national-park-service-says",
-      "publishedAt": "Fri, 26 Jun 2026 02:15:52 -0400",
-      "snippet": "A top official at the National Park Service says a liner along the bottom of the Lincoln Memorial Reflecting Pool was cut with a sharp knife or razor this month, causing damage to the foam sealant installed as part of a $16 million rehabilitation project.",
+      "title": "Plane crashes into Beijing&apos;s tallest building; damage reported",
+      "link": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
+      "publishedAt": "Fri, 26 Jun 2026 11:05:48 -0400",
+      "snippet": "The cause of the damage could not be independently verified, and authorities did not immediately issue a statement on the incident.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Stephen Miller says 'America's doors are closed fully to asylum seekers' after Supreme Court rulings",
-      "link": "https://www.pbs.org/newshour/politics/watch-stephen-miller-says-americas-doors-are-closed-fully-to-asylum-seekers-after-supreme-court-rulings",
-      "publishedAt": "Thu, 25 Jun 2026 19:57:11 -0400",
-      "snippet": "The Supreme Court voted 6-3 on Thursday to allow the Trump administration to end legal protections for migrants fleeing violence and natural disaster in Haiti and Syria, exposing hundreds of thousands more people to potential deportation.",
+      "title": "Apple increases prices for Macs and iPads, blaming memory chip shortage fueled by AI",
+      "link": "https://www.pbs.org/newshour/economy/apple-increases-prices-for-macs-and-ipads-blaming-memory-chip-shortage-fueled-by-ai",
+      "publishedAt": "Fri, 26 Jun 2026 19:50:00 -0400",
+      "snippet": "The Cupertino, California-based company called the demand spike an \"unprecedented challenge\" for the consumer electronics industry.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "King Charles III will not live at Buckingham Palace after completion of costly, decade-long refurbishment",
-      "link": "https://www.pbs.org/newshour/world/king-charles-iii-will-not-live-at-buckingham-palace-after-completion-of-costly-decade-long-refurbishment",
-      "publishedAt": "Thu, 25 Jun 2026 19:02:31 -0400",
-      "snippet": "Built in the 1820s, Buckingham Palace has been the London home of every British monarch since Queen Victoria.",
+      "title": "Americans are inundated with suspected scams. New polls show why few victims report them",
+      "link": "https://www.pbs.org/newshour/nation/americans-are-inundated-with-suspected-scams-new-polls-show-why-few-victims-report-them",
+      "publishedAt": "Fri, 26 Jun 2026 19:41:07 -0400",
+      "snippet": "Most Americans are inundated with scam attempts on a daily basis — and about 3 in 10 have personally lost money or personal information to scams, according to a new AP-NORC survey.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Thousands feared dead in Venezuela after twin earthquakes flatten buildings",
-      "link": "https://www.pbs.org/newshour/show/thousands-feared-dead-in-venezuela-after-twin-earthquakes-flatten-buildings",
-      "publishedAt": "Thu, 25 Jun 2026 18:55:32 -0400",
-      "snippet": "The fight to rescue the stranded, care for the living and retrieve the dead accelerated in Venezuela after back-to-back major earthquakes centered near the capital, Caracas. The damage in places appears catastrophic and the U.S. Geological Survey estimates that a disaster of this",
+      "title": "DNC plans weekend of local events to focus on affordability concerns under Trump",
+      "link": "https://www.pbs.org/newshour/politics/dnc-plans-weekend-of-local-events-to-focus-on-affordability-concerns-under-trump",
+      "publishedAt": "Fri, 26 Jun 2026 19:16:58 -0400",
+      "snippet": "Two years ago, Democrats were the ones accused of being indifferent to Americans' anger about rising prices. Now they're pointing the finger at Trump, who has downplayed the impact of lingering inflation.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Zelenskyy says Russia is shifting air defenses to protect Moscow and other key sites after drone strikes",
-      "link": "https://www.pbs.org/newshour/world/zelenskyy-says-russia-is-shifting-air-defenses-to-protect-moscow-and-other-key-sites-after-drone-strikes",
-      "publishedAt": "Thu, 25 Jun 2026 18:52:48 -0400",
-      "snippet": "President Donald Trump praised Zelenskyy as \"courageous,\" and Kyiv is hoping for continued support from G7 leaders.",
+      "title": "Crews race to find survivors in mountains of rubble after Venezuela earthquakes",
+      "link": "https://www.pbs.org/newshour/show/crews-race-to-find-survivors-in-mountains-of-rubble-after-venezuela-earthquakes",
+      "publishedAt": "Fri, 26 Jun 2026 18:55:43 -0400",
+      "snippet": "The race to save lives in Venezuela is becoming a race against time. Rescue crews are digging through mountains of rubble, searching for survivors believed to be trapped after two powerful quakes struck just seconds apart. More than 900 people are confirmed dead and tens of thous",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Venezuela's earthquake response hindered by economic and political crises",
-      "link": "https://www.pbs.org/newshour/show/venezuelas-earthquake-response-hindered-by-economic-and-political-crises",
-      "publishedAt": "Thu, 25 Jun 2026 18:50:42 -0400",
-      "snippet": "The U.S. and other nations are mobilizing relief efforts to assist the government in Venezuela following the twin earthquakes. Special correspondent Mónica Villamizar has extensive experience reporting in Venezuela and joined Amna Nawaz from Bogotá, Colombia, to discuss the lates",
+      "title": "Reporter in Caracas describes earthquake destruction and response in Venezuela",
+      "link": "https://www.pbs.org/newshour/show/reporter-in-caracas-describes-earthquake-destruction-and-response-in-venezuela",
+      "publishedAt": "Fri, 26 Jun 2026 18:50:57 -0400",
+      "snippet": "Following the devastating earthquakes in Venezuela, entire neighborhoods have been reduced to ruins across Caracas and the surrounding communities. As the United States, the UN and International aid teams rush into the disaster zone, the true scale of the unfolding catastrophe is",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Analyzing the Supreme Court decisions on immigration, gun control and Monsanto",
-      "link": "https://www.pbs.org/newshour/show/analyzing-the-supreme-court-decisions-on-immigration-gun-control-and-monsantocourt-rulings",
-      "publishedAt": "Thu, 25 Jun 2026 18:45:40 -0400",
-      "snippet": "The Supreme Court handed down major decisions on Thursday, including rulings that clear the way for the Trump administration to end deportation protections for many Haitians and Syrians. The justices also ruled that Monsanto cannot be held liable in lawsuits over Roundup and stru",
+      "title": "Trump's TPS policy is a 'job killer' and bad for Ohio, Gov. DeWine says",
+      "link": "https://www.pbs.org/newshour/show/trumps-tps-policy-is-a-job-killer-and-bad-for-ohio-gov-dewine-says",
+      "publishedAt": "Fri, 26 Jun 2026 18:45:55 -0400",
+      "snippet": "A Supreme Court ruling this week cleared the way for the Trump administration to end temporary protected status for Haitians and Syrians. One of the states that could face the biggest impact is Ohio, where more than 10,000 Haitian migrants have settled. Republican Gov. Mike DeWin",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How the Supreme Court immigration rulings could impact asylum in the U.S.",
-      "link": "https://www.pbs.org/newshour/show/how-the-supreme-court-immigration-rulings-could-impact-asylum-in-the-u-s",
-      "publishedAt": "Thu, 25 Jun 2026 18:40:16 -0400",
-      "snippet": "To discuss the impact of the Supreme Court's immigration rulings, Amna Nawaz spoke with Doris Meissner. She served as a top official at the Immigration and Naturalization Service under President Reagan and led it under President Clinton. She's now a senior fellow at the Migration",
+      "title": "WNBA suspends Alyssa Thomas for 1 game over hit to Caitlin Clark's throat",
+      "link": "https://www.pbs.org/newshour/nation/wnba-suspends-alyssa-thomas-for-1-game-over-hit-to-caitlin-clarks-throat",
+      "publishedAt": "Fri, 26 Jun 2026 18:40:24 -0400",
+      "snippet": "The WNBA has suspended Phoenix's Alyssa Thomas for one game after she made contact with her fist to Caitlin Clark's throat in Wednesday night's matchup against Indiana.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What science tells us about the health risks of Roundup",
-      "link": "https://www.pbs.org/newshour/show/what-science-tells-us-about-the-health-risks-of-roundup",
-      "publishedAt": "Thu, 25 Jun 2026 18:35:58 -0400",
-      "snippet": "In a 7-2 ruling, the Supreme Court sided with the manufacturer of Roundup, overturning a Missouri jury award for a man who claimed the herbicide caused cancer. The decision is expected to block thousands of similar lawsuits across the country. Geoff Bennett discussed more with Dr",
+      "title": "U.S. strikes Iran after drones target cargo ship in Strait of Hormuz",
+      "link": "https://www.pbs.org/newshour/show/us-strikes",
+      "publishedAt": "Fri, 26 Jun 2026 18:40:20 -0400",
+      "snippet": "On Friday, the U.S. military conducted new strikes against Iran in response to what President Trump said was Tehran's violation of the ceasefire. Nick Schifirin reports.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: NPS official claims Reflecting Pool liner cut with knife or razor",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-nps-official-claims-reflecting-pool-liner-cut-with-knife-or-razor",
-      "publishedAt": "Thu, 25 Jun 2026 18:30:33 -0400",
-      "snippet": "In our news wrap Thursday, a National Park Service official said the Reflecting Pool liner was cut with a knife or razor, a federal judge halted President Trump's executive order aimed at regulating mail-in voting and creating a federal voter list and Florida Gov. Ron DeSantis sa",
+      "title": "News Wrap: Bolton pleads guilty to retaining classified information",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-bolton-pleads-guilty-to-retaining-classified-information",
+      "publishedAt": "Fri, 26 Jun 2026 18:35:13 -0400",
+      "snippet": "In our news wrap Friday, former National Security Adviser John Bolton pleaded guilty to a single count of illegally retaining classified information, Texas education officials voted to require that a selection of stories from the Bible be taught in public schools and Russia says ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "U.S. moves to reassure Gulf allies after latest Strait of Hormuz shutdown",
-      "link": "https://www.pbs.org/newshour/show/u-s-moves-to-reassure-gulf-allies-after-latest-strait-of-hormuz-shutdown",
-      "publishedAt": "Thu, 25 Jun 2026 18:25:48 -0400",
-      "snippet": "A U.S. official confirmed to PBS News that Iran fired a drone that hit a container ship in the Strait of Hormuz, and traffic through the strait has largely stopped. The strike came as Secretary of State Marco Rubio visited the Persian Gulf to try to reassure Arab allies that any ",
+      "title": "Sergei Ivanov, former Russian defense minister once seen as Putin's likely successor, dies at 73",
+      "link": "https://www.pbs.org/newshour/world/sergei-ivanov-former-russian-defense-minister-once-seen-as-putins-likely-successor-dies-at-73",
+      "publishedAt": "Fri, 26 Jun 2026 18:32:18 -0400",
+      "snippet": "Putin and Ivanov knew each other since the 1970s when they both worked as young KGB officers in their hometown of Leningrad, as St. Petersburg was called during the Soviet times.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Nonprofit aims to help displaced workers as businesses adopt artificial intelligence",
-      "link": "https://www.pbs.org/newshour/show/nonprofit-aims-to-help-displaced-workers-as-businesses-adopt-artificial-intelligence",
-      "publishedAt": "Thu, 25 Jun 2026 18:20:33 -0400",
-      "snippet": "As businesses adopt artificial intelligence, fears of a wave of job displacement continue to grow. A new nonprofit called RAISE US aims to bring together states, major businesses and AI firms to prepare workers, companies and local economies for what's to come. It's a bipartisan ",
+      "title": "Why more school districts are limiting screen time for students",
+      "link": "https://www.pbs.org/newshour/show/why-more-school-districts-are-limiting-screen-time-for-students",
+      "publishedAt": "Fri, 26 Jun 2026 18:30:58 -0400",
+      "snippet": "The nation's second-largest school district imposed strict new limits on screen time for its roughly 400,000 students. The Los Angeles Unified School District policy is the latest example of a growing backlash against technology in classrooms nationwide. William Brangham discusse",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "America's oldest hospital preserves the nation's history of medicine and health care",
-      "link": "https://www.pbs.org/newshour/show/americas-oldest-hospital-preserves-the-nations-history-of-medicine-and-health-care",
-      "publishedAt": "Thu, 25 Jun 2026 18:15:28 -0400",
-      "snippet": "There's a new museum in Philadelphia, but its building and mission date back to before this country was founded. Senior arts correspondent Jeffrey Brown went to see how the past and present meet at the Pennsylvania Hospital Museum. It's part of our ongoing coverage of health and ",
+      "title": "Brooks and Capehart on progressive Democrats winning primaries",
+      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-progressive-democrats-winning-primaries",
+      "publishedAt": "Fri, 26 Jun 2026 18:25:34 -0400",
+      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including President Trump once again upending the GOP's agenda in Congress, progressives sweeping the Democratic primaries in New York and Vice President JD Vance's co",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "The 2 earthquakes that struck Venezuela are known as a 'doublet.' Here's what to know about them",
-      "link": "https://www.pbs.org/newshour/science/the-2-earthquakes-that-struck-venezuela-are-known-as-a-doublet-heres-what-to-know-about-them",
-      "publishedAt": "Thu, 25 Jun 2026 17:54:11 -0400",
-      "snippet": "The doublet occurred where the Caribbean plate, located north of Venezuela, moves eastward relative to the South American plate at an average rate of 0.79 inches a year.",
+      "title": "Heated games and rough foul against Caitlin Clark spark controversy in WNBA",
+      "link": "https://www.pbs.org/newshour/show/heated-games-and-rough-foul-against-caitlin-clark-spark-controversy-in-wnba",
+      "publishedAt": "Fri, 26 Jun 2026 18:20:16 -0400",
+      "snippet": "Heated games and rough plays sparked a new controversy in the WNBA around its superstar Caitlin Clark. The Phoenix Mercury's Alyssa Thomas pressed her fist into Clark's neck during a game. The league retroactively gave Thomas a flagrant foul and suspended her for one game. But qu",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: House Democratic leaders hold hearing on fair elections and voting rights",
-      "link": "https://www.pbs.org/newshour/politics/watch-house-democratic-leaders-hold-hearing-on-fair-elections-and-voting-rights",
-      "publishedAt": "Thu, 25 Jun 2026 17:49:39 -0400",
-      "snippet": "House Minority Leader Hakeem Jeffries and Democratic lawmakers held a hearing Thursday on defending fair elections and voting rights.",
+      "title": "Black Opera Project celebrates resilience and richness of the Black American experience",
+      "link": "https://www.pbs.org/newshour/show/black-opera-project-celebrates-resilience-and-richness-of-the-black-american-experience",
+      "publishedAt": "Fri, 26 Jun 2026 18:15:34 -0400",
+      "snippet": "Imagine a world 400 years in the future, where a young woman is forced into exile after discovering she carries a rare gene linked to extraordinary power and immortality. That's the premise of a new opera opening in Cincinnati. PBS stations CET and ThinkTV take us behind the scen",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Hundreds detained in Kenya as protesters mark the anniversary of deadly protests in 2024",
-      "link": "https://www.pbs.org/newshour/world/hundreds-detained-in-kenya-as-protesters-mark-the-anniversary-of-deadly-protests-in-2024",
-      "publishedAt": "Thu, 25 Jun 2026 17:13:11 -0400",
-      "snippet": "President William Ruto recently said that the protest would be allowed but warned against attempts to \"shut down the country.\"",
+      "title": "U.S. strikes Iran in response to drone attack on cargo ship that Trump says violated ceasefire",
+      "link": "https://www.pbs.org/newshour/world/u-s-strikes-iran-in-response-to-drone-attack-on-cargo-ship-that-trump-says-violated-ceasefire",
+      "publishedAt": "Fri, 26 Jun 2026 18:02:14 -0400",
+      "snippet": "The strikes came shortly after Trump told reporters, \"You'll find out,\" whether the U.S. would respond to a drone attack a day earlier on a cargo ship in the Strait of Hormuz.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "David Clayton-Thomas, powerhouse lead singer of brass rock band Blood, Sweat &#038; Tears, dies at 84",
-      "link": "https://www.pbs.org/newshour/arts/david-clayton-thomas-powerhouse-lead-singer-of-brass-rock-band-blood-sweat-tears-dies-at-84",
-      "publishedAt": "Thu, 25 Jun 2026 17:03:05 -0400",
-      "snippet": "Clayton-Thomas was a onetime street fighter and petty thief from Canada who briefly became a rock superstar.",
+      "title": "Texas education board approves Bible stories as required reading in public schools",
+      "link": "https://www.pbs.org/newshour/education/texas-education-board-approves-bible-stories-as-required-reading-in-public-schools",
+      "publishedAt": "Fri, 26 Jun 2026 17:53:47 -0400",
+      "snippet": "The Texas education board on Friday approved a required reading list for more than 5 million public school students that includes Bible passages, widening conservative efforts to push Christian teachings in U.S. classrooms.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "At least 188 people are dead in Venezuela after 2 earthquakes rocked the country's north",
-      "link": "https://www.pbs.org/newshour/world/at-least-188-people-are-dead-in-venezuela-after-2-earthquakes-rocked-the-countrys-north",
-      "publishedAt": "Thu, 25 Jun 2026 16:14:16 -0400",
-      "snippet": "The 7.2- and 7.5-magnitude earthquakes that hit Wednesday evening were among the strongest in Venezuela in more than a century, and could be felt throughout the region.",
+      "title": "WATCH: Trump receives report from Religious Liberty Commission in the Oval Office",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-receives-report-from-religious-liberty-commission-in-the-oval-office",
+      "publishedAt": "Fri, 26 Jun 2026 17:04:00 -0400",
+      "snippet": "A new report by a Trump administration commission suggests replacing the idea of separating church and state with the idea of building bridges between them.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "UN agency pauses evacuation of ships through Strait of Hormuz after UK says a vessel was hit",
-      "link": "https://www.pbs.org/newshour/world/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-uk-says-a-vessel-was-hit",
-      "publishedAt": "Thu, 25 Jun 2026 15:17:15 -0400",
-      "snippet": "A United Nations agency paused the evacuation of ships through the Strait of Hormuz on Thursday after the British military said a vessel was hit by a projectile off the coast of Oman following the passage of several tankers that used a route backed by the U.N.",
+      "title": "Live Results: Louisiana midterm primary runoffs",
+      "link": "https://www.pbs.org/newshour/politics/live-results-louisiana-midterm-primary-runoffs",
+      "publishedAt": "Fri, 26 Jun 2026 15:07:49 -0400",
+      "snippet": "Louisiana Republicans will nominate a candidate for U.S. Senate in a primary runoff Saturday, six weeks after denying Republican U.S. Sen. Bill Cassidy a shot at a third term.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Weinstein's New York rape charge dropped after accuser says she can't endure a 4th trial",
-      "link": "https://www.pbs.org/newshour/nation/weinsteins-new-york-rape-charge-dropped-after-accuser-says-she-cant-endure-a-4th-trial",
-      "publishedAt": "Thu, 25 Jun 2026 14:58:05 -0400",
-      "snippet": "The movie mogul still stands convicted of another sexual felony in New York and others in California, and he remains behind bars. But the New York rape charge had remained unresolved after an overturned conviction followed by two hung juries.",
+      "title": "Newsom urges a national 'billionaires' tax' while fighting one in California",
+      "link": "https://www.pbs.org/newshour/politics/newsom-urges-a-national-billionaires-tax-while-fighting-one-in-california",
+      "publishedAt": "Fri, 26 Jun 2026 14:56:44 -0400",
+      "snippet": "The governor announced his agenda a day after an influential health care union in California pledged to go forward with a ballot measure that would impose a one-time 5% tax on the assets of billionaires living in the state as of Jan. 1, 2026. Newsom opposes that measure.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "South African civil groups warn of dire impact as U.S. phases out HIV program funding",
-      "link": "https://www.pbs.org/newshour/world/south-african-civil-groups-warn-of-dire-impact-as-u-s-phases-out-hiv-program-funding",
-      "publishedAt": "Thu, 25 Jun 2026 13:57:32 -0400",
-      "snippet": "The phasing out of most programs is expected to be completed by the end of September, with critical personnel support continuing through March next year, according to the U.S. State Department.",
+      "title": "Heat catches Europe's fashion industry unprepared as models face the sun in fur and wool",
+      "link": "https://www.pbs.org/newshour/world/heat-catches-europes-fashion-industry-unprepared-as-models-face-the-sun-in-fur-and-wool",
+      "publishedAt": "Fri, 26 Jun 2026 14:22:54 -0400",
+      "snippet": "The most coveted accessory at the Paris Fashion Week shows this week was not a bag, a sneaker or a watch. It was an ice pack.",
       "tier": 1
     },
     {
@@ -436,6 +436,86 @@
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump foe John Bolton pleads guilty in classified docs case",
+      "link": "https://www.dw.com/en/trump-foe-john-bolton-pleads-guilty-in-classified-docs-case/a-77728826?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Bolton faces as many as five years in prison. He had earlier served as Trump&apos;s national security adviser during the president&apos;s first term in office, but later resigned over his differences with Trump.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US, Lebanon, Israel sign framework agreement",
+      "link": "https://www.dw.com/en/us-lebanon-israel-sign-framework-agreement/a-77729374?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US Secretary ‌of ⁠State ⁠Marco ​Rubio has announced ​a trilateral ​framework ‌agreement. Lebanese officials began direct talks with Israel in Washington in April.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Creative climate messaging and other eco wins of the week",
+      "link": "https://www.dw.com/en/creative-climate-messaging-and-other-eco-wins-of-the-week/a-77727778?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "An artist in Mali and climate scientists in the US are finding new ways to inform the public about the climate crisis.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Fact check: throwing cold water on heat wave disinformation",
+      "link": "https://www.dw.com/en/fact-check-throwing-cold-water-on-heat-wave-disinformation/a-77726297?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "An outdated air-conditioning law, a viral health myth about sleeping with the fan on and the age-old climate change hoax allegation: DW checked what&apos;s spreading in Europe&apos;s heat wave.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "World Cup: Morocco&apos;s Ismael Saibari set for Bayern Munich",
+      "link": "https://www.dw.com/en/world-cup-morocco-s-ismael-saibari-set-for-bayern-munich/a-77727803?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Three nationalities, five languages and soon to be resident in a fourth country: Ismael Saibari, the star of Morocco&apos;s World Cup so far, is set to join Bayern Munich. But he has business to finish with the Atlas Lions.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Comedy legend Mel Brooks turns 100",
+      "link": "https://www.dw.com/en/comedy-legend-mel-brooks-turns-100/a-19360098?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "His parody of Hitler in the landmark 1968 movie \"The Producers\" was just the beginning for US actor Mel Brooks. The 100-year-old comedian is still on a roll.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "German lawyers: Ban on far-right AfD &apos;likely successful&apos;",
+      "link": "https://www.dw.com/en/german-lawyers-ban-on-far-right-afd-likely-successful/a-77726537?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A new report by legal experts has found that efforts to ban Germany&apos;s far-right Alternative for Germany (AfD) could be successful — but there would be political dangers to such a move.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "&apos;Operation Purgatory&apos;: Magyar moves to demolish Orban system",
+      "link": "https://www.dw.com/en/operation-purgatory-magyar-moves-to-demolish-orban-system/a-77726207?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The new Hungarian government is moving swiftly to dismantle the system of former PM Viktor Orban. The focus is on fighting corruption, reforming the media and protecting democracy.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How the Iran war impacts Abu Dhabi&apos;s AI strategy",
+      "link": "https://www.dw.com/en/how-the-iran-war-impacts-abu-dhabi-s-ai-strategy/a-77722632?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Abu Dhabi&apos;s ambitions to turn the UAE into a global hub for digital infrastructure and AI, dubbed \"UAE AI Strategy 2031,\" face pressure after the war with Iran. But the UAE is also known for its business resilience.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "World Cup: &apos;Pride Match&apos; sparks objections in Egypt and Iran",
+      "link": "https://www.dw.com/en/world-cup-pride-match-sparks-objections-in-egypt-and-iran/a-77721148?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Friday night&apos;s game in Seattle was designated as a \"Pride Match\" well ahead of the World Cup draw. The fixture list then threw up Egypt vs. Iran, two countries in which homosexuality is criminalized.",
       "tier": 2
     },
     {
@@ -459,7 +539,7 @@
       "title": "Bayer: Why so many Roundup weedkiller lawsuits?",
       "link": "https://www.dw.com/en/bayer-why-so-many-roundup-weedkiller-lawsuits/a-77717842?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Bayer was sued for failing to add cancer warnings to its controversial pesticide Roundup, when US regulators opposed adding one. DW asks if the latest Supreme Court win will stop the chemical giant from paying billions.",
+      "snippet": "Bayer was sued for failing to add cancer warnings to its controversial pesticide Roundup when US regulators opposed adding one. DW asks if the latest Supreme Court win will shield the chemical giant from paying billions.",
       "tier": 2
     },
     {
@@ -508,86 +588,6 @@
       "link": "https://www.dw.com/en/sudan-fears-of-atrocities-as-rsf-surrounds-key-city/a-77709377?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "As Sudan&apos;s paramilitary Rapid Support Forces mass around the strategic city of el-Obeid, fears are growing of atrocities similar to those seen in Darfur&apos;s el-Fasher. Could sanctions still prevent bloodshed?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Singapore: French teen in trouble over straw-licking video",
-      "link": "https://www.dw.com/en/singapore-french-teen-in-trouble-over-straw-licking-video/a-77717835?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A French student is accused of licking a straw at a juice vending machine before putting it back and posting the video online. He faces jail time if convicted in Singapore, a country famous for its tough laws.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Berlin&apos;s orchestra eases dress code amid heat",
-      "link": "https://www.dw.com/en/germany-news-berlin-s-orchestra-eases-dress-code-amid-heat/live-77718509?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Men are not obliged to wear jackets during the orchestra&apos;s end-of-season performance this weekend. Meanwhile, a court has sentenced the defendent in the Magdeburg Christmas market attack to life. Follow DW for more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Here&apos;s what southern Europeans know about surviving heat waves",
-      "link": "https://www.dw.com/en/here-s-what-southern-europeans-know-about-surviving-heat-waves/a-77713479?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "People in countries like Greece, Italy and Spain have long lived with high temperatures. Here&apos;s what more northerly countries can learn from them about managing heat waves as they become more common.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Magdeburg Christmas market attacker sentenced to life in prison",
-      "link": "https://www.dw.com/en/magdeburg-christmas-market-attacker-sentenced-to-life-in-prison/a-77718126?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A Magdeburg court has sentenced a 51-year-old to life over his 2024 attack on a Christmas market in the city. The trained psychiatrist drove an SUV through a barricade and into a crowd, killing six and injuring hundreds.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Europe heat wave &apos;virtually impossible&apos; without human impact",
-      "link": "https://www.dw.com/en/europe-heat-wave-virtually-impossible-without-human-impact/live-77663026?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A new study says Europe&apos;s current heat wave would have been nearly impossible without human-driven climate change. And Germany is expecting things to warm up even more. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "North Korea: Kim Jong Un oversees ballistic missile tests, calls for stronger &apos;offensive posture&apos;",
-      "link": "https://www.dw.com/en/north-korea-kim-jong-un-oversees-ballistic-missile-tests-calls-for-stronger-offensive-posture/a-77716329?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Pyongyang tested \"major weapons\" as North Korea&apos;s leader called for greater strike capabilities along the border with South Korea.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Death toll from twin earthquakes in Venezuela has more than doubled to 589, acting President Rodriguez says. Follow live",
-      "link": "https://www.dw.com/en/death-toll-from-twin-earthquakes-in-venezuela-has-more-than-doubled-to-589-acting-president-rodriguez-says-follow-live/live-77699720?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Acting President Delcy Rodriguez said at least 589 people have died after two strong earthquakes rattled the capital and surrounding regions. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "King Charles won&apos;t live in Buckingham Palace, reveals taxes",
-      "link": "https://www.dw.com/en/king-charles-won-t-live-in-buckingham-palace-reveals-taxes/a-77715823?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Buckingham Palace has been the British monarch&apos;s official residence in London for nearly two centuries. But royal officials say King Charles and Queen Camilla won&apos;t reside there.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany disappoints in loss to Ecuador at 2026 World Cup",
-      "link": "https://www.dw.com/en/germany-disappoints-in-loss-to-ecuador-at-2026-world-cup/a-77713556?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany had already qualified for the knockouts of the 2026 World Cup, but their performance was still disappointing in a 2-1 defeat.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US Supreme Court sides with Bayer over Roundup cancer suits",
-      "link": "https://www.dw.com/en/us-supreme-court-sides-with-bayer-over-roundup-cancer-suits/a-77713004?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Bayer, which acquired Roundup in 2018, said the decision is good for science and farmers. The Supreme Court&apos;s ruling was met with backlash from both Republicans and Democrats.",
       "tier": 2
     }
   ]
