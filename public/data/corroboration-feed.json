@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T01:20:00.549Z",
+  "generatedAt": "2026-06-27T12:52:08.007Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,18 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+      "title": "US strikes Iran after attack on cargo ship",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 10:40:38 GMT",
+      "snippet": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
       "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 21:15:37 GMT",
-      "snippet": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+      "publishedAt": "Sat, 27 Jun 2026 08:56:30 GMT",
+      "snippet": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
       "tier": 1
     },
     {
@@ -48,10 +56,10 @@
     },
     {
       "source": "BBC World",
-      "title": "US conducts strikes on Iran after attack on cargo ship",
-      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 00:34:08 GMT",
-      "snippet": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 23:01:50 GMT",
+      "snippet": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
       "tier": 1
     },
     {
@@ -64,10 +72,26 @@
     },
     {
       "source": "BBC World",
-      "title": "DR Congo takes Rwanda to international court over decades of conflict",
-      "link": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 17:05:22 GMT",
-      "snippet": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
+      "title": "Religion row as Texas makes Bible stories required reading in schools",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 00:31:42 GMT",
+      "snippet": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
+      "link": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 03:07:46 GMT",
+      "snippet": "The House panel then issued subpoenas demanding the private equity tycoon, who co-founded Apollo Global Management, testify on camera and under oath.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Pete Buttigieg briefly separated from children after false police report",
+      "link": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 00:40:44 GMT",
+      "snippet": "Buttigieg says the day he spent separated from his twins was \"among the darkest hours of my life\".",
       "tier": 1
     },
     {
@@ -82,8 +106,32 @@
       "source": "BBC World",
       "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
       "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 16:45:21 GMT",
+      "publishedAt": "Sat, 27 Jun 2026 02:57:20 GMT",
       "snippet": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
+      "link": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 18:20:04 GMT",
+      "snippet": "International fans visiting the US for the World Cup have become frustrated by the culture of having to tip servers, telling the BBC that tipping fatigue has set in.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "DR Congo takes Rwanda to international court over decades of conflict",
+      "link": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 17:05:22 GMT",
+      "snippet": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+      "link": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 15:34:39 GMT",
+      "snippet": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
       "tier": 1
     },
     {
@@ -100,14 +148,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 26 Jun 2026 10:38:37 GMT",
       "snippet": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
-      "link": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 15:34:39 GMT",
-      "snippet": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
       "tier": 1
     },
     {
@@ -136,138 +176,98 @@
     },
     {
       "source": "BBC World",
-      "title": "Asia stock markets slide as tech shares slump",
-      "link": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 07:33:10 GMT",
-      "snippet": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
+      "title": "They quit the West for Russia's traditional values, but it wasn't what they expected",
+      "link": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 23:02:05 GMT",
+      "snippet": "The BBC asks Westerners who moved to Russia if life there lives up to expectations.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-      "link": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 09:42:26 GMT",
-      "snippet": "The decision was welcomed by many tenants - but landlords fear it will worsen housing conditions.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Row over alleged theft of donations from India's landmark Ram temple",
-      "link": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 01:02:36 GMT",
-      "snippet": "Questions are being raised over the handling of cash, valuable jewellery, gold and silver offered by devotees.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 00:06:45 GMT",
-      "snippet": "Temperatures in Germany could hit 40C in some areas while French officials bring in alcohol restrictions to ease pressure on hospitals.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
-      "link": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 18:50:12 GMT",
-      "snippet": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-      "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 02:18:04 GMT",
-      "snippet": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for years.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 09:06:59 GMT",
-      "snippet": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
+      "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 23:02:15 GMT",
+      "snippet": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5872821/pete-buttigieg-cps-police-swatting",
-      "publishedAt": "Fri, 26 Jun 2026 20:26:52 -0400",
-      "snippet": "Buttigieg, a potential 2028 Democratic presidential contender, shared his family&apos;s experience when police and Child Protective Services came to his home investigating an anonymous tip that was false.",
+      "title": "Opinion: Ranch dressing is a winner at the World Cup games",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5865082/opinion-ranch-dressing-is-a-winner-at-the-world-cup-games",
+      "publishedAt": "Sat, 27 Jun 2026 08:00:00 -0400",
+      "snippet": "NPR&apos;s Scott Simon reflects on the popularity of ranch dressing among international visitors to the U.S. during the World Cup games.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "5 million have dropped ACA insurance after Trump and the GOP let prices skyrocket",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5860746/aca-health-insurance-subsidies-rates-premiums",
-      "publishedAt": "Fri, 26 Jun 2026 18:54:23 -0400",
-      "snippet": "The number of people who signed up for a health plan and then didn&apos;t pay their premium fell much more sharply than it has in years past. Trump officials blame fraud. Health policy experts blame costs.",
+      "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5859907/lyme-disease-vaccine-hesitancy-rural-hunters",
+      "publishedAt": "Sat, 27 Jun 2026 06:30:00 -0400",
+      "snippet": "Drugmakers are working on a potential new shot to prevent the tick-borne illness. How might it fare in the era of vaccine skepticism?",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "A day after Alito&apos;s testy response to Sotomayor&apos;s dissent, court says it was a &apos;misunderstanding&apos;",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5872721/supreme-court-alito-sotomayor",
-      "publishedAt": "Fri, 26 Jun 2026 17:18:04 -0400",
-      "snippet": "During Supreme Court opinions Thursday, Justice Samuel Alito, who wrote the majority opinion in an asylum case, appeared to rebut Justice Sonia Sotomayor, who wrote the dissent. The move was highly unusual — and on Friday there was a coda.",
+      "title": "As Supreme Court expands Trump&apos;s immigration power, experts warn of steeper U.S. population decline",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5871338/tps-population-scotus-immigration-trump",
+      "publishedAt": "Sat, 27 Jun 2026 06:00:00 -0400",
+      "snippet": "The U.S. population was already aging and tilting toward decline. After the Supreme Court confirmed Trump&apos;s power to deport hundreds of thousands of foreign migrants, population decline could accelerate.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "It&apos;s not just Cape Verde: African soccer is having a World Cup moment",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5867404/2026-world-cup-fifa-africa-cape-verde-senegal-morocco-congo",
-      "publishedAt": "Fri, 26 Jun 2026 16:49:57 -0400",
-      "snippet": "The soccer greats — Brazil, England, Spain — have been giving uneven performances out on the pitch during this World Cup. Meanwhile, team from Africa have been relentless.",
+      "title": "How coach Mauricio Pochettino made believers out of the U.S. World Cup team",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5872818/2026-world-cup-fifa-mauricio-pochettino-usmnt-coach",
+      "publishedAt": "Sat, 27 Jun 2026 06:00:00 -0400",
+      "snippet": "Pochettino was the biggest name the U.S. men&apos;s soccer team had ever hired. His rebuild was bumpy at times — but now, with the U.S. headed to the World Cup knockout stage, the players are all in.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "She posted about ICE. Five months later, DHS agents told her to take her post down",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5871369/new-york-ice-instagram-immigration-dhs-paigelynne-gonyea",
-      "publishedAt": "Fri, 26 Jun 2026 16:21:35 -0400",
-      "snippet": "In January, Paigelynne Gonyea posted about the immigration surge in Minneapolis. This week, she was visited by ICE officials who claimed one of her posts had doxxed a federal agent.",
+      "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
+      "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
+      "publishedAt": "Sat, 27 Jun 2026 05:02:00 -0400",
+      "snippet": "Ukraine&apos;s long-range drones are striking deep inside Russia, up to 1,200 miles away, hitting oil refineries and depots. NPR recently spent time with one of the Ukrainian strike teams launching drones at Russian targets.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S. pledges generous earthquake relief to Venezuela",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
-      "publishedAt": "Fri, 26 Jun 2026 13:42:40 -0400",
-      "snippet": "Secretary of State Marco Rubio promised: \"We have a whole-of-government response. It&apos;ll be big; it&apos;ll be fast; and it&apos;ll be effective.\"",
+      "title": "4 ways to get creative with your leftovers (and save money on food)",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5786564/4-ways-get-creative-with-your-leftovers-save-money-on-food",
+      "publishedAt": "Sat, 27 Jun 2026 05:00:00 -0400",
+      "snippet": "Don&apos;t let your leftovers go to waste. Cookbook authors share clever storage techniques — like an \"Eat Me First\" box in your fridge — and cooking tricks to help you make the most of your food scraps.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "World Cup fans are missing games after their resale tickets fall through",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5871397/world-cup-tickets-stubhub-resale-controversy",
-      "publishedAt": "Fri, 26 Jun 2026 12:13:47 -0400",
-      "snippet": "The ordeal has left fans forced to either miss out on a once-in-a-lifetime opportunity or scramble to find new tickets, often costing more and for worse seats.",
+      "title": "Venezuelans in Colombia scramble to send aid as earthquakes death toll increases",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5872951/venezuela-earthquakes-colombia-aid",
+      "publishedAt": "Sat, 27 Jun 2026 05:00:00 -0400",
+      "snippet": "Aid efforts are intensifying after twin earthquakes killed nearly 1,000 in Venezuela, with international teams arriving but a slow government response hampering relief on the ground.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5828767/israel-palestinian-man-killed-west-bank",
-      "publishedAt": "Fri, 26 Jun 2026 11:45:25 -0400",
-      "snippet": "Nayef Samaro, 25, was killed in an Israeli military raid on Nablus, in the occupied West Bank, as he prepared to meet his wife at the hospital for the birth of their first child.",
+      "title": "What would George Washington say? It&apos;s a busy year for people who portray him",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors",
+      "publishedAt": "Sat, 27 Jun 2026 05:00:00 -0400",
+      "snippet": "America&apos;s 250th birthday has brought more events and new crowds for Revolutionary reenactors and interpreters. They say Washington&apos;s life holds important lessons for our current political divide.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes",
-      "publishedAt": "Fri, 26 Jun 2026 11:08:14 -0400",
-      "snippet": "Ukraine launched a major nighttime attack on a dozen Russian regions, Russian-held Crimea and the surrounding seas, and Russia attacked various regions of Ukraine, as their war grinds on.",
+      "title": "There&apos;s a beef about beef at the World Cup, as Argentina fans pour into Texas",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5873328/beef-about-beef-world-cup",
+      "publishedAt": "Sat, 27 Jun 2026 03:03:18 -0400",
+      "snippet": "It&apos;s about who produces the best, most succulent steaks, and how to prepare the meat. Argentina and Texas are two of the top cattle-raising areas of the world, where steak is deeply ingrained in diet and culture.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Plane crashes into Beijing&apos;s tallest building; damage reported",
-      "link": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
-      "publishedAt": "Fri, 26 Jun 2026 11:05:48 -0400",
-      "snippet": "The cause of the damage could not be independently verified, and authorities did not immediately issue a statement on the incident.",
+      "title": "U.S. strikes Iran in response to a drone attack on a ship",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
+      "publishedAt": "Sat, 27 Jun 2026 00:12:23 -0400",
+      "snippet": "The U.S. struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz. It&apos;s the most significant test yet to an interim understanding reached a week ago by the two countries.",
       "tier": 1
     },
     {
@@ -440,6 +440,70 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Germany news: Heat soars as political reforms split opinion",
+      "link": "https://www.dw.com/en/germany-news-heat-soars-as-political-reforms-split-opinion/live-77733670?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As Europe&apos;s heatwave rages, Germany continues to swelter with new records expected Saturday. Elsewhere, politicians bicker over reforms and industry blames train operator DB for billions in losses. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why Germany&apos;s Deutsche Bahn will face delays for many years",
+      "link": "https://www.dw.com/en/why-germany-s-deutsche-bahn-will-face-delays-for-many-years/a-77721079?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Delayed, unreliable and forced into long detours due to construction: Germany no longer sets the pace when it comes to rail travel — and this is unlikely to change anytime soon. The company is mired in a deep crisis.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Military-age Ukrainian men could lose EU protection",
+      "link": "https://www.dw.com/en/military-age-ukrainian-men-could-lose-eu-protection/a-77729285?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The European Commission has suggested withdrawing protection status for military-age Ukrainian males. A number of EU countries support the move — and so does Kyiv.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Europe faces scorching weekend as heat wave moves east",
+      "link": "https://www.dw.com/en/europe-faces-scorching-weekend-as-heat-wave-moves-east/live-77663026?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Europe&apos;s heat wave is expected to move east after causing record temperatures in several countries. But Germany still has a couple of torrid days ahead. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: PM Modi embarks on two-day Seychelles visit",
+      "link": "https://www.dw.com/en/india-news-pm-modi-embarks-on-two-day-seychelles-visit/live-77732253?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "India&apos;s PM Narendra Modi is set to be the Guest of Honor at the Golden Jubilee of Seychelles&apos; National Day. His visit is also aimed at stregnthening martime, security and economic cooperation. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Comedy legend Mel Brooks turns 100",
+      "link": "https://www.dw.com/en/comedy-legend-mel-brooks-turns-100/a-19360098?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A parody of Adolf Hitler in the landmark 1968 movie \"The Producers\" was just the beginning for US actor Mel Brooks. The 100-year-old comedian is still on a roll today.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Court upholds Weinstein rape conviction",
+      "link": "https://www.dw.com/en/court-upholds-weinstein-rape-conviction/a-77730381?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A California court has upheld the conviction of disgraced movie mogul Harvey Weinstein but said a lower court judge must resentence him. Allegations against Weinstein sparked the #MeToo movement.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US, Iran trade strikes as truce faces threat",
+      "link": "https://www.dw.com/en/us-iran-trade-strikes-as-truce-faces-threat/live-77729995?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The United States and Iran each launched strikes in the worst escalation since they signed their interim peace deal. Follow DW for more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Trump foe John Bolton pleads guilty in classified docs case",
       "link": "https://www.dw.com/en/trump-foe-john-bolton-pleads-guilty-in-classified-docs-case/a-77728826?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -464,7 +528,7 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Fact check: throwing cold water on heat wave disinformation",
+      "title": "Fact check: Throwing cold water on heat wave disinformation",
       "link": "https://www.dw.com/en/fact-check-throwing-cold-water-on-heat-wave-disinformation/a-77726297?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "An outdated air-conditioning law, a viral health myth about sleeping with the fan on and the age-old climate change hoax allegation: DW checked what&apos;s spreading in Europe&apos;s heat wave.",
@@ -476,14 +540,6 @@
       "link": "https://www.dw.com/en/world-cup-morocco-s-ismael-saibari-set-for-bayern-munich/a-77727803?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Three nationalities, five languages and soon to be resident in a fourth country: Ismael Saibari, the star of Morocco&apos;s World Cup so far, is set to join Bayern Munich. But he has business to finish with the Atlas Lions.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Comedy legend Mel Brooks turns 100",
-      "link": "https://www.dw.com/en/comedy-legend-mel-brooks-turns-100/a-19360098?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "His parody of Hitler in the landmark 1968 movie \"The Producers\" was just the beginning for US actor Mel Brooks. The 100-year-old comedian is still on a roll.",
       "tier": 2
     },
     {
@@ -504,10 +560,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "How the Iran war impacts Abu Dhabi&apos;s AI strategy",
-      "link": "https://www.dw.com/en/how-the-iran-war-impacts-abu-dhabi-s-ai-strategy/a-77722632?maca=en-rss-en-top-1022-rdf",
+      "title": "How the Iran war has disrupted Abu Dhabi&apos;s AI strategy",
+      "link": "https://www.dw.com/en/how-the-iran-war-has-disrupted-abu-dhabi-s-ai-strategy/a-77722632?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Abu Dhabi&apos;s ambitions to turn the UAE into a global hub for digital infrastructure and AI, dubbed \"UAE AI Strategy 2031,\" face pressure after the war with Iran. But the UAE is also known for its business resilience.",
+      "snippet": "Abu Dhabi&apos;s ambitions to turn the United Arab Emirates into a global hub for digital infrastructure and artificial Intelligence face pressure after the Iran war. But the country is also known for its business resilience.",
       "tier": 2
     },
     {
@@ -532,62 +588,6 @@
       "link": "https://www.dw.com/en/wagner-festival-reinstates-holocaust-memorial-event-after-cancellation/a-77721185?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The Bayreuth Festival had canceled a planned memorial lecture featuring Jewish author and broadcaster Michel Friedman, drawing sharp criticism.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bayer: Why so many Roundup weedkiller lawsuits?",
-      "link": "https://www.dw.com/en/bayer-why-so-many-roundup-weedkiller-lawsuits/a-77717842?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Bayer was sued for failing to add cancer warnings to its controversial pesticide Roundup when US regulators opposed adding one. DW asks if the latest Supreme Court win will shield the chemical giant from paying billions.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Balochistan activist&apos;s life sentence raises fear of unrest",
-      "link": "https://www.dw.com/en/balochistan-activist-s-life-sentence-raises-fear-of-unrest/a-77721686?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "With the conviction of a leading rights campaigner, Pakistan has drawn criticism from rights groups and sparked fears it could deepen unrest in Balochistan and weaken trust in peaceful activism.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Flights disrupted in Japan as 2 tropical storms move in",
-      "link": "https://www.dw.com/en/flights-disrupted-in-japan-as-2-tropical-storms-move-in/a-77720286?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Two storms were set to converge above Japan, prompting officials to issue landslide warnings and evacuation orders for hundreds of thousands of people.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Japan needs more foreign workers, but many feel unwelcome",
-      "link": "https://www.dw.com/en/japan-needs-more-foreign-workers-but-many-feel-unwelcome/a-77721075?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "While Japan faces a deepening labor shortage and growing demand for foreign workers, it has been moving to tighten visa rules and regulations.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Montenegro arrests Iran-linked hacker wanted by US",
-      "link": "https://www.dw.com/en/montenegro-arrests-iran-linked-hacker-wanted-by-us/a-77720738?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The FBI was helping the Montenegrin police detain an Iranian-Turkish national whose cyberattacks on US infrastructure allegedly caused billions in damages.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fact check: As Europe bakes, should you trust your sunscreen?",
-      "link": "https://www.dw.com/en/fact-check-as-europe-bakes-should-you-trust-your-sunscreen/a-77707226?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As a heatwave sweeps across Europe, claims are resurfacing online questioning whether sunscreen is safe or linked to skin cancer risk.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Sudan: Fears of atrocities as RSF surrounds key city",
-      "link": "https://www.dw.com/en/sudan-fears-of-atrocities-as-rsf-surrounds-key-city/a-77709377?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As Sudan&apos;s paramilitary Rapid Support Forces mass around the strategic city of el-Obeid, fears are growing of atrocities similar to those seen in Darfur&apos;s el-Fasher. Could sanctions still prevent bloodshed?",
       "tier": 2
     }
   ]
