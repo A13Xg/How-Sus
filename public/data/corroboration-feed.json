@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T12:52:08.007Z",
+  "generatedAt": "2026-06-28T01:26:14.254Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,14 +32,6 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "US strikes Iran after attack on cargo ship",
-      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 10:40:38 GMT",
-      "snippet": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
       "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 27 Jun 2026 08:56:30 GMT",
@@ -48,26 +40,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 18:36:32 GMT",
-      "snippet": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+      "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 21:12:51 GMT",
+      "snippet": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 23:01:50 GMT",
-      "snippet": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 21:35:40 GMT",
+      "snippet": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Europe's deadly heatwave breaks German record and halts public events",
-      "link": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 18:14:36 GMT",
-      "snippet": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 20:48:16 GMT",
+      "snippet": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's face is added to select US passports for America's 250th birthday",
+      "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 20:03:26 GMT",
+      "snippet": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
       "tier": 1
     },
     {
@@ -76,6 +76,30 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 27 Jun 2026 00:31:42 GMT",
       "snippet": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US strikes Iran after attack on cargo ship",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 10:40:38 GMT",
+      "snippet": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Burkina Faso severs diplomatic ties with France",
+      "link": "https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 14:21:31 GMT",
+      "snippet": "The West African country's junta accused the former colonial power of undermining its national interests.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 23:01:50 GMT",
+      "snippet": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
       "tier": 1
     },
     {
@@ -96,26 +120,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
-      "link": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 22:55:28 GMT",
-      "snippet": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
       "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 27 Jun 2026 02:57:20 GMT",
       "snippet": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
-      "link": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 18:20:04 GMT",
-      "snippet": "International fans visiting the US for the World Cup have become frustrated by the culture of having to tip servers, telling the BBC that tipping fatigue has set in.",
       "tier": 1
     },
     {
@@ -128,50 +136,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
-      "link": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 15:34:39 GMT",
-      "snippet": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 18:36:32 GMT",
+      "snippet": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Christmas market attacker jailed for life for murdering six in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 10:49:11 GMT",
-      "snippet": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 10:38:37 GMT",
-      "snippet": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Canada eligible to join Eurovision competition",
-      "link": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 13:41:36 GMT",
-      "snippet": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-      "link": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 12:54:18 GMT",
-      "snippet": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-      "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 06:16:01 GMT",
-      "snippet": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
+      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+      "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 14:22:37 GMT",
+      "snippet": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
       "tier": 1
     },
     {
@@ -191,11 +167,67 @@
       "tier": 1
     },
     {
+      "source": "BBC World",
+      "title": "Hit South African show gets the world talking about polygamy and cheating",
+      "link": "https://www.bbc.co.uk/news/articles/cx2djde7v2do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 23:02:23 GMT",
+      "snippet": "The Zulu-language series about a man with multiple wives is a worldwide hit.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "GTA 6 will launch as download only - does that mean the disc is dead?",
+      "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 23:03:04 GMT",
+      "snippet": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Just how much trouble is Canada's economy in?",
+      "link": "https://www.bbc.co.uk/news/articles/c70y1y909pdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 01:58:40 GMT",
+      "snippet": "Five charts help illustrate the state of Canada's economy - and how it's performing compared to other wealthy nations.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump nominates former Oklahoma state trooper to head ICE",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5873485/trump-nominates-lance-schroyer-ice-director",
+      "publishedAt": "Sat, 27 Jun 2026 18:01:36 -0400",
+      "snippet": "President Trump nominated Lance Schroyer, a former Oklahoma state trooper, to direct Immigration and Customs Enforcement. The agency hasn&apos;t had a Senate-confirmed director since the Obama administration.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Critical fire weather complicates firefighting efforts in massive Utah wildfire",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5873445/utah-wildfire-cottonwood-dry-weather",
+      "publishedAt": "Sat, 27 Jun 2026 15:40:06 -0400",
+      "snippet": "Firefighters working on the nation&apos;s largest current wildfire, burning in southern Utah, are being challenged by historic weather conditions. Extreme wildfire behavior is expected to continue through the weekend.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Uzbekistan makes its World Cup debut, a first for Central Asia",
+      "link": "https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup",
+      "publishedAt": "Sat, 27 Jun 2026 09:45:19 -0400",
+      "snippet": "The country is the first Central Asian nation to qualify for the World Cup, and Uzbek fans have reveled in showcasing their country and culture. The country&apos;s president calls the team a symbol of the \"new Uzbekistan.\"",
+      "tier": 1
+    },
+    {
       "source": "NPR News",
       "title": "Opinion: Ranch dressing is a winner at the World Cup games",
       "link": "https://www.npr.org/2026/06/27/nx-s1-5865082/opinion-ranch-dressing-is-a-winner-at-the-world-cup-games",
       "publishedAt": "Sat, 27 Jun 2026 08:00:00 -0400",
       "snippet": "NPR&apos;s Scott Simon reflects on the popularity of ranch dressing among international visitors to the U.S. during the World Cup games.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump administration partially lifts export ban on Anthropic&apos;s most advanced AI model",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
+      "publishedAt": "Sat, 27 Jun 2026 07:40:32 -0400",
+      "snippet": "The U.S. government is asserting a new level of influence over AI, controlling which companies can access Anthropic&apos;s new models. OpenAI agreed to let the administration screen users of its new model.",
       "tier": 1
     },
     {
@@ -232,42 +264,98 @@
     },
     {
       "source": "NPR News",
-      "title": "4 ways to get creative with your leftovers (and save money on food)",
+      "title": "This mindset shift can help you get better at using up your leftovers",
       "link": "https://www.npr.org/2026/06/27/nx-s1-5786564/4-ways-get-creative-with-your-leftovers-save-money-on-food",
       "publishedAt": "Sat, 27 Jun 2026 05:00:00 -0400",
       "snippet": "Don&apos;t let your leftovers go to waste. Cookbook authors share clever storage techniques — like an \"Eat Me First\" box in your fridge — and cooking tricks to help you make the most of your food scraps.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Venezuelans in Colombia scramble to send aid as earthquakes death toll increases",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5872951/venezuela-earthquakes-colombia-aid",
-      "publishedAt": "Sat, 27 Jun 2026 05:00:00 -0400",
-      "snippet": "Aid efforts are intensifying after twin earthquakes killed nearly 1,000 in Venezuela, with international teams arriving but a slow government response hampering relief on the ground.",
+      "source": "PBS Headlines",
+      "title": "Man with same name as U.S. Sen. Dan Sullivan is eligible for Alaska's primary ballot, judge rules",
+      "link": "https://www.pbs.org/newshour/politics/man-with-same-name-as-u-s-sen-dan-sullivan-is-eligible-for-alaskas-primary-ballot-judge-rules",
+      "publishedAt": "Sat, 27 Jun 2026 18:35:24 -0400",
+      "snippet": "The judge ruled that the division's decision to exclude Dan J. Sullivan because his candidacy was not \"in good faith\" was not based on the Constitution, Alaska law or the division's own regulations.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "What would George Washington say? It&apos;s a busy year for people who portray him",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors",
-      "publishedAt": "Sat, 27 Jun 2026 05:00:00 -0400",
-      "snippet": "America&apos;s 250th birthday has brought more events and new crowds for Revolutionary reenactors and interpreters. They say Washington&apos;s life holds important lessons for our current political divide.",
+      "source": "PBS Headlines",
+      "title": "Trump-backed Julia Letlow faces John Fleming in Louisiana GOP Senate runoff",
+      "link": "https://www.pbs.org/newshour/politics/trump-backed-julia-letlow-faces-john-fleming-in-louisiana-gop-senate-runoff",
+      "publishedAt": "Sat, 27 Jun 2026 18:10:08 -0400",
+      "snippet": "U.S. Rep. Julia Letlow, who was endorsed by Trump, and state Treasurer John Fleming are competing in the runoff. The two finished ahead of Sen. Bill Cassidy in the May 16 primary after Trump denounced the two-term senator, who voted to convict him following his 2021 impeachment.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "There&apos;s a beef about beef at the World Cup, as Argentina fans pour into Texas",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5873328/beef-about-beef-world-cup",
-      "publishedAt": "Sat, 27 Jun 2026 03:03:18 -0400",
-      "snippet": "It&apos;s about who produces the best, most succulent steaks, and how to prepare the meat. Argentina and Texas are two of the top cattle-raising areas of the world, where steak is deeply ingrained in diet and culture.",
+      "source": "PBS Headlines",
+      "title": "Trump says he is nominating former Oklahoma state trooper Lance Schroyer as ICE director",
+      "link": "https://www.pbs.org/newshour/politics/trump-says-he-is-nominating-former-oklahoma-state-trooper-lance-schroyer-as-ice-director",
+      "publishedAt": "Sat, 27 Jun 2026 17:22:18 -0400",
+      "snippet": "Schroyer's nomination comes after former ICE director Todd Lyons resigned at the end of May. David Venturella, a former executive at a private prison operator, has been serving as the acting head of the agency.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "U.S. strikes Iran in response to a drone attack on a ship",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
-      "publishedAt": "Sat, 27 Jun 2026 00:12:23 -0400",
-      "snippet": "The U.S. struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz. It&apos;s the most significant test yet to an interim understanding reached a week ago by the two countries.",
+      "source": "PBS Headlines",
+      "title": "Desperation mounts in Venezuela as the earthquake death toll rises to 1,430",
+      "link": "https://www.pbs.org/newshour/world/desperation-mounts-in-venezuela-as-the-earthquake-death-toll-rises-to-1430",
+      "publishedAt": "Sat, 27 Jun 2026 15:50:21 -0400",
+      "snippet": "Venezuela's government said families reported at least 68,900 people missing, three days after the one-two punch of 7.2 and 7.5 magnitude earthquakes devastated the South American nation.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "World Cup final day of group play will set the field for the round of 32",
+      "link": "https://www.pbs.org/newshour/world/world-cup-final-day-of-group-play-will-set-the-field-for-the-round-of-32",
+      "publishedAt": "Sat, 27 Jun 2026 14:45:32 -0400",
+      "snippet": "Going into the final day of group play at the World Cup, there are essentially eight teams vying for four spots in the round of 32.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "U.S. military says it struck multiple targets in Iran as ceasefire is strained by 2nd day of attacks",
+      "link": "https://www.pbs.org/newshour/world/us-military-says-it-struck-multiple-targets-in-iran-as-ceasefire-is-strained-by-2nd-day-of-attacks",
+      "publishedAt": "Sat, 27 Jun 2026 14:25:55 -0400",
+      "snippet": "The ongoing strikes in the Persian Gulf show the danger of the Iran war again spinning out of control, even after Iran and the U.S. reached an interim deal to try and agree on a final accord to end the conflict.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Lebanon's deal with Israel requires Hezbollah to disarm. That might be difficult",
+      "link": "https://www.pbs.org/newshour/world/lebanons-deal-with-israel-requires-hezbollah-to-disarm-that-might-be-difficult",
+      "publishedAt": "Sat, 27 Jun 2026 13:25:31 -0400",
+      "snippet": "Lebanon and Israel signed the deal in Washington on Friday without Hezbollah. The agreement links Israel's withdrawal from Lebanon to the Iran-backed militant group's disarmament, something Hezbollah rejects.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Tens of thousands march in the first Budapest Pride since Viktor Orb&aacute;n was voted out",
+      "link": "https://www.pbs.org/newshour/world/tens-of-thousands-march-in-the-first-budapest-pride-since-viktor-orban-was-voted-out",
+      "publishedAt": "Sat, 27 Jun 2026 13:06:24 -0400",
+      "snippet": "Saturday's Pride march came a little more than a year after Orbán's nationalist-populist government passed legislation and a constitutional amendment to outlaw the event, drawing criticism from human rights groups and politicians across the European Union.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "At the Great American State Fair, you can find a dinosaur's rib cage. Unity is another matter",
+      "link": "https://www.pbs.org/newshour/nation/at-the-great-american-state-fair-you-can-find-a-dinosaurs-rib-cage-unity-is-another-matter",
+      "publishedAt": "Sat, 27 Jun 2026 12:50:54 -0400",
+      "snippet": "The fair kicked off this week and is a run by Freedom 250, an organization created by President Donald Trump to run his administration's official events.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Andy Burnham distanced himself from UK Prime Minister Starmer, but may be stuck with his policies",
+      "link": "https://www.pbs.org/newshour/world/andy-burnham-distanced-himself-from-uk-prime-minister-starmer-but-may-be-stuck-with-his-policies",
+      "publishedAt": "Sat, 27 Jun 2026 11:44:13 -0400",
+      "snippet": "Burnham, the former mayor of Greater Manchester who was sworn into Parliament hours after Starmer announced his resignation on Monday, will be constrained by the platform the center-left Labour Party was elected on that decisively ended 14 years of Conservative rule in 2024.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Residents on notice as fast-moving fire in Utah, the largest in the U.S., blackens more forestland",
+      "link": "https://www.pbs.org/newshour/nation/residents-on-notice-as-fast-moving-fire-in-utah-the-largest-in-the-us-blackens-more-forestland",
+      "publishedAt": "Sat, 27 Jun 2026 11:16:50 -0400",
+      "snippet": "Firefighters are facing more challenges on the ground from what fire managers and experts call unprecedented conditions.",
       "tier": 1
     },
     {
@@ -343,94 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Sergei Ivanov, former Russian defense minister once seen as Putin's likely successor, dies at 73",
-      "link": "https://www.pbs.org/newshour/world/sergei-ivanov-former-russian-defense-minister-once-seen-as-putins-likely-successor-dies-at-73",
-      "publishedAt": "Fri, 26 Jun 2026 18:32:18 -0400",
-      "snippet": "Putin and Ivanov knew each other since the 1970s when they both worked as young KGB officers in their hometown of Leningrad, as St. Petersburg was called during the Soviet times.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Why more school districts are limiting screen time for students",
-      "link": "https://www.pbs.org/newshour/show/why-more-school-districts-are-limiting-screen-time-for-students",
-      "publishedAt": "Fri, 26 Jun 2026 18:30:58 -0400",
-      "snippet": "The nation's second-largest school district imposed strict new limits on screen time for its roughly 400,000 students. The Los Angeles Unified School District policy is the latest example of a growing backlash against technology in classrooms nationwide. William Brangham discusse",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Brooks and Capehart on progressive Democrats winning primaries",
-      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-progressive-democrats-winning-primaries",
-      "publishedAt": "Fri, 26 Jun 2026 18:25:34 -0400",
-      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including President Trump once again upending the GOP's agenda in Congress, progressives sweeping the Democratic primaries in New York and Vice President JD Vance's co",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Heated games and rough foul against Caitlin Clark spark controversy in WNBA",
-      "link": "https://www.pbs.org/newshour/show/heated-games-and-rough-foul-against-caitlin-clark-spark-controversy-in-wnba",
-      "publishedAt": "Fri, 26 Jun 2026 18:20:16 -0400",
-      "snippet": "Heated games and rough plays sparked a new controversy in the WNBA around its superstar Caitlin Clark. The Phoenix Mercury's Alyssa Thomas pressed her fist into Clark's neck during a game. The league retroactively gave Thomas a flagrant foul and suspended her for one game. But qu",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Black Opera Project celebrates resilience and richness of the Black American experience",
-      "link": "https://www.pbs.org/newshour/show/black-opera-project-celebrates-resilience-and-richness-of-the-black-american-experience",
-      "publishedAt": "Fri, 26 Jun 2026 18:15:34 -0400",
-      "snippet": "Imagine a world 400 years in the future, where a young woman is forced into exile after discovering she carries a rare gene linked to extraordinary power and immortality. That's the premise of a new opera opening in Cincinnati. PBS stations CET and ThinkTV take us behind the scen",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "U.S. strikes Iran in response to drone attack on cargo ship that Trump says violated ceasefire",
-      "link": "https://www.pbs.org/newshour/world/u-s-strikes-iran-in-response-to-drone-attack-on-cargo-ship-that-trump-says-violated-ceasefire",
-      "publishedAt": "Fri, 26 Jun 2026 18:02:14 -0400",
-      "snippet": "The strikes came shortly after Trump told reporters, \"You'll find out,\" whether the U.S. would respond to a drone attack a day earlier on a cargo ship in the Strait of Hormuz.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Texas education board approves Bible stories as required reading in public schools",
-      "link": "https://www.pbs.org/newshour/education/texas-education-board-approves-bible-stories-as-required-reading-in-public-schools",
-      "publishedAt": "Fri, 26 Jun 2026 17:53:47 -0400",
-      "snippet": "The Texas education board on Friday approved a required reading list for more than 5 million public school students that includes Bible passages, widening conservative efforts to push Christian teachings in U.S. classrooms.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "WATCH: Trump receives report from Religious Liberty Commission in the Oval Office",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-receives-report-from-religious-liberty-commission-in-the-oval-office",
-      "publishedAt": "Fri, 26 Jun 2026 17:04:00 -0400",
-      "snippet": "A new report by a Trump administration commission suggests replacing the idea of separating church and state with the idea of building bridges between them.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Live Results: Louisiana midterm primary runoffs",
-      "link": "https://www.pbs.org/newshour/politics/live-results-louisiana-midterm-primary-runoffs",
-      "publishedAt": "Fri, 26 Jun 2026 15:07:49 -0400",
-      "snippet": "Louisiana Republicans will nominate a candidate for U.S. Senate in a primary runoff Saturday, six weeks after denying Republican U.S. Sen. Bill Cassidy a shot at a third term.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Newsom urges a national 'billionaires' tax' while fighting one in California",
-      "link": "https://www.pbs.org/newshour/politics/newsom-urges-a-national-billionaires-tax-while-fighting-one-in-california",
-      "publishedAt": "Fri, 26 Jun 2026 14:56:44 -0400",
-      "snippet": "The governor announced his agenda a day after an influential health care union in California pledged to go forward with a ballot measure that would impose a one-time 5% tax on the assets of billionaires living in the state as of Jan. 1, 2026. Newsom opposes that measure.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Heat catches Europe's fashion industry unprepared as models face the sun in fur and wool",
-      "link": "https://www.pbs.org/newshour/world/heat-catches-europes-fashion-industry-unprepared-as-models-face-the-sun-in-fur-and-wool",
-      "publishedAt": "Fri, 26 Jun 2026 14:22:54 -0400",
-      "snippet": "The most coveted accessory at the Paris Fashion Week shows this week was not a bag, a sneaker or a watch. It was an ice pack.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,10 +440,66 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Heat soars as political reforms split opinion",
-      "link": "https://www.dw.com/en/germany-news-heat-soars-as-political-reforms-split-opinion/live-77733670?maca=en-rss-en-top-1022-rdf",
+      "title": "Venezuela earthquakes: Nearly 7 million may be impacted — UN",
+      "link": "https://www.dw.com/en/venezuela-earthquakes-nearly-7-million-may-be-impacted-un/live-77699720?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "As Europe&apos;s heatwave rages, Germany continues to swelter with new records expected Saturday. Elsewhere, politicians bicker over reforms and industry blames train operator DB for billions in losses. DW has the latest.",
+      "snippet": "The projection includes up to two million people in the capital, Caracas. Rescue teams are racing against time to save survivors, three days after the twin quakes that killed 1,430 people. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
+      "link": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The two attacks, in Volgograd and Vladimir regions, are part of President Zelenskyy&apos;s strategy to bring the war to the Russian people and force Putin into peace negotiations.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why is the US targeting Germany&apos;s drug industry?",
+      "link": "https://www.dw.com/en/why-is-the-us-targeting-germany-s-drug-industry/a-77727707?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A new trade probe is reigniting a long-running clash over who should pay for medical innovation. Washington argues Germans benefit from lower prices while US patients shoulder a disproportionate share of the costs.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Heat record broken for second consecutive day",
+      "link": "https://www.dw.com/en/germany-news-heat-record-broken-for-second-consecutive-day/live-77733670?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As Europe&apos;s heatwave rages, Germany breaks all-time temperature record for the second day in a row. Elsewhere, politicians bicker over reforms and industry blames train operator DB for billions in losses.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Rome celebrates 80 years of Italy&apos;s iconic Vespa scooter",
+      "link": "https://www.dw.com/en/rome-celebrates-80-years-of-italy-s-iconic-vespa-scooter/a-77735061?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Thousands of Vespa riders took to Rome&apos;s streets to mark Vespa&apos;s 80th birthday. The wasp-waisted scooter became a symbol of Italy&apos;s rebirth after World War II.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "The &apos;Flamingo Revolution&apos;: What&apos;s behind Albania&apos;s protests?",
+      "link": "https://www.dw.com/en/the-flamingo-revolution-what-s-behind-albania-s-protests/a-77710991?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "For weeks now, images of crowds of Albanians protesting on the streets have been relayed around the world. The protesters say they are fighting for democracy. PM Edi Rama insists the movement is part of a hybrid war.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US allows partial release of Anthropic&apos;s Mythos AI model",
+      "link": "https://www.dw.com/en/us-allows-partial-release-of-anthropic-s-mythos-ai-model/a-77732252?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Only a small group of American firms will get access to Anthropic&apos;s AI Model Mythos 5, however, it is unclear which companies will be selected.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why is Germany taking a big stake in a major tankmaker?",
+      "link": "https://www.dw.com/en/why-is-germany-taking-a-big-stake-in-a-major-tankmaker/a-77687784?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The German government will buy a 40% stake in tankmaker KNDS. The deal is as much about control in the critical defense sector as it is about the Franco-German relationship.",
       "tier": 2
     },
     {
@@ -472,6 +528,14 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Balochistan activist&apos;s life sentence raises fear of unrest",
+      "link": "https://www.dw.com/en/balochistan-activist-s-life-sentence-raises-fear-of-unrest/a-77721686?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "With the conviction of a leading rights campaigner, Pakistan has drawn criticism from rights groups and sparked fears it could deepen unrest in Balochistan and weaken trust in peaceful activism.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "India news: PM Modi embarks on two-day Seychelles visit",
       "link": "https://www.dw.com/en/india-news-pm-modi-embarks-on-two-day-seychelles-visit/live-77732253?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -496,10 +560,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "US, Iran trade strikes as truce faces threat",
-      "link": "https://www.dw.com/en/us-iran-trade-strikes-as-truce-faces-threat/live-77729995?maca=en-rss-en-top-1022-rdf",
+      "title": "US carries out &apos;additional strikes&apos; on Iran",
+      "link": "https://www.dw.com/en/us-carries-out-additional-strikes-on-iran/live-77729995?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The United States and Iran each launched strikes in the worst escalation since they signed their interim peace deal. Follow DW for more.",
+      "snippet": "The US military said \"additional strikes\" have been carried out on targets in Iran. CENTCOM said the strikes were in response to a drone strike on a tanker in the Strait of Hormuz. DW has more.",
       "tier": 2
     },
     {
@@ -524,70 +588,6 @@
       "link": "https://www.dw.com/en/creative-climate-messaging-and-other-eco-wins-of-the-week/a-77727778?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "An artist in Mali and climate scientists in the US are finding new ways to inform the public about the climate crisis.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fact check: Throwing cold water on heat wave disinformation",
-      "link": "https://www.dw.com/en/fact-check-throwing-cold-water-on-heat-wave-disinformation/a-77726297?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "An outdated air-conditioning law, a viral health myth about sleeping with the fan on and the age-old climate change hoax allegation: DW checked what&apos;s spreading in Europe&apos;s heat wave.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "World Cup: Morocco&apos;s Ismael Saibari set for Bayern Munich",
-      "link": "https://www.dw.com/en/world-cup-morocco-s-ismael-saibari-set-for-bayern-munich/a-77727803?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Three nationalities, five languages and soon to be resident in a fourth country: Ismael Saibari, the star of Morocco&apos;s World Cup so far, is set to join Bayern Munich. But he has business to finish with the Atlas Lions.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "German lawyers: Ban on far-right AfD &apos;likely successful&apos;",
-      "link": "https://www.dw.com/en/german-lawyers-ban-on-far-right-afd-likely-successful/a-77726537?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A new report by legal experts has found that efforts to ban Germany&apos;s far-right Alternative for Germany (AfD) could be successful — but there would be political dangers to such a move.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "&apos;Operation Purgatory&apos;: Magyar moves to demolish Orban system",
-      "link": "https://www.dw.com/en/operation-purgatory-magyar-moves-to-demolish-orban-system/a-77726207?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The new Hungarian government is moving swiftly to dismantle the system of former PM Viktor Orban. The focus is on fighting corruption, reforming the media and protecting democracy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How the Iran war has disrupted Abu Dhabi&apos;s AI strategy",
-      "link": "https://www.dw.com/en/how-the-iran-war-has-disrupted-abu-dhabi-s-ai-strategy/a-77722632?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Abu Dhabi&apos;s ambitions to turn the United Arab Emirates into a global hub for digital infrastructure and artificial Intelligence face pressure after the Iran war. But the country is also known for its business resilience.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "World Cup: &apos;Pride Match&apos; sparks objections in Egypt and Iran",
-      "link": "https://www.dw.com/en/world-cup-pride-match-sparks-objections-in-egypt-and-iran/a-77721148?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Friday night&apos;s game in Seattle was designated as a \"Pride Match\" well ahead of the World Cup draw. The fixture list then threw up Egypt vs. Iran, two countries in which homosexuality is criminalized.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Government sends help to quake-hit Venezuela",
-      "link": "https://www.dw.com/en/india-news-government-sends-help-to-quake-hit-venezuela/live-77716985?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Two air force planes carrying supplies as well as a field hospital unit are on their way. Also making headlines: Qatar has repatriated the bodies of four Indians killed in a gas explosion. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Wagner festival reinstates Holocaust memorial event after cancellation",
-      "link": "https://www.dw.com/en/wagner-festival-reinstates-holocaust-memorial-event-after-cancellation/a-77721185?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Bayreuth Festival had canceled a planned memorial lecture featuring Jewish author and broadcaster Michel Friedman, drawing sharp criticism.",
       "tier": 2
     }
   ]
