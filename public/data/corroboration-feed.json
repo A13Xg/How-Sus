@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T01:21:10.415Z",
+  "generatedAt": "2026-06-30T13:08:24.255Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,58 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 03:53:48 GMT",
+      "snippet": "People in areas devastated by twin earthquakes say they need more support from the government.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
       "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 20:00:44 GMT",
+      "publishedAt": "Tue, 30 Jun 2026 04:21:58 GMT",
       "snippet": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-      "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 21:19:28 GMT",
-      "snippet": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
+      "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
+      "link": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 11:16:20 GMT",
+      "snippet": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Six people shot dead at centre for mothers and children in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 19:53:57 GMT",
-      "snippet": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
+      "title": "Heavy security in South Africa as anti-migrant protesters take to the streets",
+      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 11:29:24 GMT",
+      "snippet": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco",
+      "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 11:36:05 GMT",
+      "snippet": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Chinese tycoon sentenced to 30 years in US jail",
+      "link": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 02:08:21 GMT",
+      "snippet": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
+      "link": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 11:20:44 GMT",
+      "snippet": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
       "tier": 1
     },
     {
@@ -60,6 +92,14 @@
       "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 29 Jun 2026 20:34:52 GMT",
       "snippet": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Osaka pays 'love and respect to Japan' in Wimbledon kimono",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 29 Jun 2026 21:11:04 GMT",
+      "snippet": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dress code required special inspiration.",
       "tier": 1
     },
     {
@@ -80,26 +120,18 @@
     },
     {
       "source": "BBC World",
+      "title": "Six people shot dead at centre for mothers and children in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 29 Jun 2026 19:53:57 GMT",
+      "snippet": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
       "link": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 29 Jun 2026 17:28:59 GMT",
       "snippet": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
-      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 19:16:34 GMT",
-      "snippet": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Osaka pays 'love and respect to Japan' in Wimbledon kimono",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 21:11:04 GMT",
-      "snippet": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dress code required special inspiration.",
       "tier": 1
     },
     {
@@ -159,115 +191,83 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Indian journalists condemn 'denial' of voting and passport rights of prominent editor",
-      "link": "https://www.bbc.co.uk/news/articles/cpv37jwd3zzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 07:58:42 GMT",
-      "snippet": "Rajagopal has alleged that he has been unable to renew his passport after his name was deleted from the electoral rolls.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event",
-      "link": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 12:04:30 GMT",
-      "snippet": "The former US president took aim at his successor's projects in Washington DC, including a planned new White House ballroom.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 28 Jun 2026 19:37:07 GMT",
-      "snippet": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Senior South African police officer survives assassination attempt",
-      "link": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 12:38:19 GMT",
-      "snippet": "Deputy crime intelligence boss Maj-Gen Feroz Khan was due to appear before an inquiry into police corruption this week.",
+      "source": "NPR News",
+      "title": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
+      "link": "https://www.npr.org/2026/06/30/g-s1-131004/up-first-newsletter-supreme-court-tps-birthright-citizenship-iran-war-us-murder-rate",
+      "publishedAt": "Tue, 30 Jun 2026 07:46:50 -0400",
+      "snippet": "The Supreme Court is expected to make a long-awaited ruling on birthright citizenship today, on the high court&apos;s last day of its term. And, the U.S. murder rate approaches a record low.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Michigan governor threatens to pull troops from D.C. if used for Trump task force",
-      "link": "https://www.npr.org/2026/06/29/nx-s1-5875427/michigan-governor-national-guard-dc",
-      "publishedAt": "Mon, 29 Jun 2026 19:34:58 -0400",
-      "snippet": "Michigan Gov. Whitmer is one of four Democrats who sent their states&apos; National Guard troops to Washington, D.C. ahead of America 250 celebrations in recent weeks, amid President Trump&apos;s ongoing — and controversial — deployment in the city.",
+      "title": "After Trump&apos;s re-election, these U.S. scientists found jobs in the U.K.",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5875206/trumps-cuts-science-researchers-move-abroad",
+      "publishedAt": "Tue, 30 Jun 2026 06:00:00 -0400",
+      "snippet": "More U.S. scientists are heading abroad. Three researchers explain why they decided to shift their research to universities in the U.K.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Wheelchair users say private equity is making repairs harder",
-      "link": "https://www.npr.org/2026/06/29/nx-s1-5860877/wheelchair-users-say-private-equity-is-making-repairs-harder",
-      "publishedAt": "Mon, 29 Jun 2026 17:01:05 -0400",
-      "snippet": "People who rely on wheelchairs say that industry consolidation driven by private equity means long delays in getting them fixed, which isolates them from society and endangers their health.",
+      "title": "Inside the coordinated strategy to radically reshape U.S. immigration",
+      "link": "https://www.npr.org/2026/06/30/g-s1-129953/remaking-immigration-explainer-video",
+      "publishedAt": "Tue, 30 Jun 2026 05:00:00 -0400",
+      "snippet": "As the Supreme Court today weighs the Trump administration&apos;s effort to revoke birthright citizenship, NPR looks at what else the White House has done to curb illegal and legal migration.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The Temporary Protected Status program may effectively be over. Here&apos;s what we know.",
-      "link": "https://www.npr.org/2026/06/29/g-s1-130942/temporary-protected-status-program-explainer-supreme-court",
-      "publishedAt": "Mon, 29 Jun 2026 16:54:23 -0400",
-      "snippet": "A Supreme Court ruling gives the Trump administration space to strip this status from hundreds of thousands of more people from the few remaining countries with this program.",
+      "title": "Here are Colorado&apos;s 2026 primary election results",
+      "link": "https://www.npr.org/2026/06/30/g-s1-129870/colorado-primary-election-results-2026",
+      "publishedAt": "Tue, 30 Jun 2026 05:00:00 -0400",
+      "snippet": "Live election results: Get the latest on Colorado&apos;s U.S. Senate, U.S. House and gubernatorial primary races.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Supreme Court takes sledgehammer to much of federal government&apos;s regulatory structure",
-      "link": "https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure",
-      "publishedAt": "Mon, 29 Jun 2026 16:44:35 -0400",
-      "snippet": "The Supreme Court struck down most of the limits that Congress and the courts had previously established to protect the independence of regulatory agencies that comprise much of the federal government.",
+      "title": "U.S. murder rate approaches a record low",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5866810/us-murder-rate-record-low-crime-homicide",
+      "publishedAt": "Tue, 30 Jun 2026 05:00:00 -0400",
+      "snippet": "A few years ago, experts worried about a \"new normal\" of elevated violent crime in the U.S. Now the country is flirting with breaking its all-time low murder rate",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Venezuela&apos;s deadly quakes put its U.S.-backed government to the test",
-      "link": "https://www.npr.org/2026/06/29/nx-s1-5873975/venezuelan-quake-tests-government",
-      "publishedAt": "Mon, 29 Jun 2026 16:19:02 -0400",
-      "snippet": "Venezuela&apos;s La Guaira state bore the brunt of the earthquake damage, bringing memories of a 1999 disaster that became President Hugo Chávez&apos;s first major test. Now, it&apos;s the acting leader&apos;s challenge.",
+      "title": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5875287/venezuela-deportees-us-quakes",
+      "publishedAt": "Tue, 30 Jun 2026 05:00:00 -0400",
+      "snippet": "On June 24, 146 Venezuelans were deported from Texas to Caracas. Hours later, while the deportees were in a guarded hotel, powerful twin earthquakes struck.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Senate Ethics Committee dismisses complaint against Sen. Ruben Gallego",
-      "link": "https://www.npr.org/2026/06/29/nx-s1-5788049/ruben-gallego-ethics-investigation-dismissed",
-      "publishedAt": "Mon, 29 Jun 2026 15:28:47 -0400",
-      "snippet": "The committee had been alerted by a fellow member of Congress of allegations of campaign finance violations and potential sexual misconduct, but said it found no evidence of wrongdoing.",
+      "title": "Federal money for workforce training begins, but few programs qualify",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5869642/workforce-pell-grants-programs-dont-quality",
+      "publishedAt": "Tue, 30 Jun 2026 05:00:00 -0400",
+      "snippet": "July 1 marks the official opening of a program that allows federal dollars to go toward short-term workforce training programs. So far just 12 states have created road maps for colleges to apply.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "They were world-class tennis rivals. Now friends, they&apos;ve teamed up against cancer",
-      "link": "https://www.npr.org/2026/06/29/nx-s1-5874696/chris-evert-martina-navratilova-tennis-cancer",
-      "publishedAt": "Mon, 29 Jun 2026 11:47:15 -0400",
-      "snippet": "They were the women&apos;s tennis champions of their generation. Now, Chris Evert and Martina Navratilova open up about friendship, cancer and retirement in the documentary Chris & Martina: The Final Set .",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5873958/morning-news-brief",
+      "publishedAt": "Tue, 30 Jun 2026 04:47:41 -0400",
+      "snippet": "The U.S. and Iran will resume peace talks Tuesday, SCOTUS expected to make a decision on birthright citizenship, Colorado voters head to the polls.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Supreme Court restricts use of geofence warrants",
-      "link": "https://www.npr.org/2026/06/29/nx-s1-5844697/supreme-court-restricts-use-of-geofence-warrants",
-      "publishedAt": "Mon, 29 Jun 2026 10:50:14 -0400",
-      "snippet": "Writing for the 6-3 majority, Justice Elena Kagan said that the technique, known as geofencing, violates the Fourth Amendment&apos;s prohibition against unreasonable searches.",
+      "title": "Explosion in Monaco injures 3, including Ukrainian tycoon",
+      "link": "https://www.npr.org/2026/06/30/g-s1-130990/explosion-monaco-ukrainian-tycoon",
+      "publishedAt": "Tue, 30 Jun 2026 01:35:07 -0400",
+      "snippet": "Monaco &apos;s chief prosecutor said the suspect who placed an explosive device that injured three people, including a reported Ukrainian tycoon, acted alone and remains at large.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Supreme Court says Fed&apos;s Lisa Cook can stay in her job for now",
-      "link": "https://www.npr.org/2026/06/29/nx-s1-5557955/supreme-court-fed-lisa-cook",
-      "publishedAt": "Mon, 29 Jun 2026 10:44:00 -0400",
-      "snippet": "The court&apos;s decision means Cook can stay in her position as her challenge to her dismissal plays out in the lower courts.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Supreme Court cements Trump&apos;s power over agencies long considered independent",
-      "link": "https://www.npr.org/2026/06/29/nx-s1-5816232/supreme-court-ftc-independent-agencies-humphreys-executor",
-      "publishedAt": "Mon, 29 Jun 2026 10:33:27 -0400",
-      "snippet": "In a 6-3 decision, the Supreme Court struck down a 91-year-old precedent that has prevented presidents from removing members of independent agencies meant to be a check on his power.",
+      "title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
+      "link": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
+      "publishedAt": "Mon, 29 Jun 2026 21:43:29 -0400",
+      "snippet": "Guo said he came to the U.S. to destroy the Chinese Communist Party. But the judge said he instead diverted investor money to live lavishly.",
       "tier": 1
     },
     {
@@ -440,10 +440,90 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "South Africa on edge with anti-migrant protests underway",
+      "link": "https://www.dw.com/en/south-africa-on-edge-with-anti-migrant-protests-underway/live-77735079?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Anti-immigrant groups have set June 30 as an unofficial deadline for undocumented migrants to leave, with protests taking place across South Africa. Authorities say little violence has occurred so far. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pope pleads with breakaway Catholics before possible schism",
+      "link": "https://www.dw.com/en/pope-pleads-with-breakaway-catholics-before-possible-schism/a-77767568?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Pope Leo XIV has called on a rebel Catholic group to call off a planned consecration of bishops. Such a move could trigger a full schism with the mainstream Catholic Church.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: US envoy says trade deal breakthrough in sight",
+      "link": "https://www.dw.com/en/india-news-us-envoy-says-trade-deal-breakthrough-in-sight/live-77764236?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "With both India and the US trying to project optimism on trade talks, US Ambassador Sergio Gor said the initial deal was in its \"final steps.\" Opposition politician Ajay Rai claims he was detained by police. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India: Congress&apos; Ajay Rai claims &apos;arrest&apos; amid Ram temple embezzlement row",
+      "link": "https://www.dw.com/en/india-congress-ajay-rai-claims-arrest-amid-ram-temple-embezzlement-row/a-77764170?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Uttar Pradesh Congress leader Ajay Rai claimed he was being detained in Ayodhya as he tried to visit the Ram temple amid an ongoing embezzlement controversy.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Police still to identify Stade attack victims",
+      "link": "https://www.dw.com/en/germany-news-police-still-to-identify-stade-attack-victims/live-77765094?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Police have yet to identify the six victims of a deadly shooting in Stade. Meanwhile, Germany&apos;s national men&apos;s football coach pledged to stay on the job after an early World Cup exit. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany out of 2026 World Cup: What went wrong?",
+      "link": "https://www.dw.com/en/germany-out-of-2026-world-cup-what-went-wrong/a-77764683?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany are out of the World Cup earlier than expected for the third straight time. How did this happen?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Middle East: Trump announces new Doha talks, Iran demurs",
+      "link": "https://www.dw.com/en/middle-east-trump-announces-new-doha-talks-iran-demurs/live-77763482?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US and Iran have agreed to refrain from hostilities after a recent flareup, according to Washington, with US President Trump anouncing new talks will be held in Doha. Iran has yet to confirm this. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US: Self-exiled Chinese billionaire sentenced to 30 years in prison",
+      "link": "https://www.dw.com/en/us-self-exiled-chinese-billionaire-sentenced-to-30-years-in-prison/a-77763479?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Guo Wengui was a close ally of former Donald Trump aide Steve Bannon, with whom he co-founded a movement aiming to overthrow the Chinese government.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukrainian oligarch reportedly injured in Monaco blast",
+      "link": "https://www.dw.com/en/ukrainian-oligarch-reportedly-injured-in-monaco-blast/a-77763150?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Vadym Yermolaiev was sanctioned by Ukraine for allegedly doing business in Russian-occupied Crimea. Two other people were also injured, including a 13-year-old.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany out of World Cup after loss on penalties to Paraguay",
+      "link": "https://www.dw.com/en/germany-out-of-world-cup-after-loss-on-penalties-to-paraguay/a-77760529?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany lost in dramatic fashion against Paraguay in Boston to exit the 2026 World Cup at the first knockout stage.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Germany: At least 6 killed in shooting in Stade",
       "link": "https://www.dw.com/en/germany-at-least-6-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Several people are reported dead following gunfire in the northern German city of Stade. Authorities arrested the suspected shooter and said the shooting concerned a custody dispute.",
+      "snippet": "Police said the deadly Stade shooting was likely an \"extended family tragedy\" triggered by a custody dispute, with the state interior minister describing it as \"extremely cold-blooded act of violence.\"",
       "tier": 2
     },
     {
@@ -508,86 +588,6 @@
       "link": "https://www.dw.com/en/uk-africa-relations-starmer-s-reset-that-never-delivered/a-77755248?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Back in 2024, British Prime Minister Keir Starmer promised a fresh UK–Africa partnership. Two years later, his resignation leaves unfinished ambitions, scaled-back aid and questions about Britain&apos;s long-term commitment.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US-India trade deal: Inside the key sticking points",
-      "link": "https://www.dw.com/en/us-india-trade-deal-inside-the-key-sticking-points/a-77754790?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Both India and the US have signaled that the first phase of a landmark trade deal is close. DW looks at the main challenges in getting a deal past the finish line.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Can Thailand, Cambodia unlock massive oil and gas reserves?",
-      "link": "https://www.dw.com/en/can-thailand-cambodia-unlock-massive-oil-and-gas-reserves/a-77753561?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "An estimated $300 billion in oil and gas reserves is sitting under overlapping territory in the Gulf of Thailand. Cooperation on its extraction is complicated by political tensions over a separate land border dispute.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EIB announces largest-ever loan: €3 billion to Airbus",
-      "link": "https://www.dw.com/en/eib-announces-largest-ever-loan-€3-billion-to-airbus/a-77753537?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The European Investment Bank (EIB) has said the loan, the largest in its history, is aimed at helping boost the EU planemaker&apos;s research efforts. The money will be directed to commercial and defense projects.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Venezuela earthquake: Aid ramps up as rescue window closes",
-      "link": "https://www.dw.com/en/venezuela-earthquake-aid-ramps-up-as-rescue-window-closes/live-77748269?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Venezuela was shaken by an aftershock on Monday as rescues continued. Interim president Delcy Rodriguez said she remained hopeful about rescue operations as criticism of her government grows. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Temperatures plunge after historic heat wave",
-      "link": "https://www.dw.com/en/germany-news-temperatures-plunge-after-historic-heat-wave/live-77748142?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A record-breaking heat wave has moved on, with temperatures sinking rapidly amid many storms. German Foreign Minister Johann Wadephul is heading to Washington for talks with his US counterpart, with NATO issues in focus.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Art biennial Manifesta revives Germany&apos;s postwar churches",
-      "link": "https://www.dw.com/en/art-biennial-manifesta-revives-germany-s-postwar-churches/a-77725021?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Following the destruction of World War II, around 1,000 new churches were built in Germany&apos;s Ruhr region. Today, many stand empty, but the contemporary art show Manifesta is giving them a new lease on life.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Australia-Vanuatu deal bars foreign bases in island nation",
-      "link": "https://www.dw.com/en/australia-vanuatu-deal-bars-foreign-bases-in-island-nation/a-77747165?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Australia and Vanuatu have signed a deal seen as a bid to check China&apos;s growing security presence in the region. But an economic deal between Vanuatu and China is still in the works.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US, Iran deliver conflicting reports on fresh peace talks",
-      "link": "https://www.dw.com/en/us-iran-deliver-conflicting-reports-on-fresh-peace-talks/live-77746775?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A US official said both the US and Iran have agreed to pause their attacks and allow vessels to move through the Strait of Hormuz. Technical talks between both sides are still to resume.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pakistan says it struck militant targets in Afghanistan",
-      "link": "https://www.dw.com/en/pakistan-says-it-struck-militant-targets-in-afghanistan/a-77746747?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The strikes come a day after an attack in the southern city of Karachi killed three paramilitary troops. Afghanistan&apos;s ruling Taliban condemned the \"brutal\" and \"cowardly\" strikes, saying they killed scores of civilians.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Serbia: Protests continue after Vucic says he will step down",
-      "link": "https://www.dw.com/en/serbia-protests-continue-after-vucic-says-he-will-step-down/a-77746666?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Student-led demonstrations continued even after President Vucic announced his plan to resign within weeks. For more than 18 months, demonstrators have kept Vucic under pressure.",
       "tier": 2
     }
   ]
