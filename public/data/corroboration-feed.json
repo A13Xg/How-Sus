@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T13:08:24.255Z",
+  "generatedAt": "2026-07-01T01:27:34.796Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,154 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 18:28:41 GMT",
+      "snippet": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 22:29:47 GMT",
+      "snippet": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 21:30:52 GMT",
+      "snippet": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 01 Jul 2026 01:18:04 GMT",
+      "snippet": "The president earned millions more from real estate, Trump-themed Bibles, watches and other items.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+      "link": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 23:24:05 GMT",
+      "snippet": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+      "link": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 19:36:48 GMT",
+      "snippet": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+      "link": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 18:37:59 GMT",
+      "snippet": "The BBC's Katy Watson explains why troops are training in remote Australia, thousands of kilometres from any major conflicts.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "link": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 23:49:19 GMT",
+      "snippet": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 01 Jul 2026 01:13:36 GMT",
+      "snippet": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+      "link": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 19:19:42 GMT",
+      "snippet": "City officials want to build flats on the city centre site but others say it should be preserved as part of Germany's history.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Firefighters struggle to contain deadly Greek wildfire",
+      "link": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 20:25:53 GMT",
+      "snippet": "More than 100 firefighters are fighting a fire near Thessaloniki which has claimed at least two lives.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 19:39:29 GMT",
+      "snippet": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+      "link": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 01 Jul 2026 01:04:16 GMT",
+      "snippet": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
+      "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 21:24:15 GMT",
+      "snippet": "President Trump called the ruling a \"big win\", while an LGBT group said it was \"heartbreaking\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+      "link": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 16:12:25 GMT",
+      "snippet": "More than a quarter of those identified are believed to be violent, Germany's domestic intelligence agency says.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+      "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 13:22:15 GMT",
+      "snippet": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Angry Venezuelans accuse government of negligence over earthquake response",
       "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 30 Jun 2026 03:53:48 GMT",
       "snippet": "People in areas devastated by twin earthquakes say they need more support from the government.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+      "link": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 23:41:11 GMT",
+      "snippet": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Supreme Court's birthright ruling is major blow to Trump",
+      "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 30 Jun 2026 14:37:54 GMT",
+      "snippet": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
       "tier": 1
     },
     {
@@ -47,387 +191,243 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
-      "link": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 30 Jun 2026 11:16:20 GMT",
-      "snippet": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Heavy security in South Africa as anti-migrant protesters take to the streets",
-      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 30 Jun 2026 11:29:24 GMT",
-      "snippet": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco",
-      "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 30 Jun 2026 11:36:05 GMT",
-      "snippet": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Chinese tycoon sentenced to 30 years in US jail",
-      "link": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 30 Jun 2026 02:08:21 GMT",
-      "snippet": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
-      "link": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 30 Jun 2026 11:20:44 GMT",
-      "snippet": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-      "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 20:34:52 GMT",
-      "snippet": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Osaka pays 'love and respect to Japan' in Wimbledon kimono",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 21:11:04 GMT",
-      "snippet": "Naomi Osaka has long been renowned for dazzling crowds with her on-court outfits - but making that compatible with Wimbledon's all-white dress code required special inspiration.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 14:52:10 GMT",
-      "snippet": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 15:46:50 GMT",
-      "snippet": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Six people shot dead at centre for mothers and children in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 19:53:57 GMT",
-      "snippet": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "link": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 17:28:59 GMT",
-      "snippet": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
-      "link": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 21:21:15 GMT",
-      "snippet": "The actress, who also crawled out of a TV in horror film The Ring, passed away in LA this month, aged 35.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
-      "link": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 14:40:58 GMT",
-      "snippet": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-      "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 16:51:52 GMT",
-      "snippet": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
-      "link": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 07:18:14 GMT",
-      "snippet": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 00:02:44 GMT",
-      "snippet": "Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards",
-      "link": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 12:00:06 GMT",
-      "snippet": "Taylor had an emotional reaction to being presented with the Icon of the Year award by Janet Jackson.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Fitness brand founder and Olympian Les Mills dies aged 91",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 29 Jun 2026 10:55:41 GMT",
-      "snippet": "The Les Mills International brand is now known globally for choreographed workouts set to music, like Body Pump and Body Combat.",
+      "source": "NPR News",
+      "title": "What the Supreme Court did on the final day of its term",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5876238/the-biggest-news-from-the-final-day-of-this-supreme-court-term",
+      "publishedAt": "Tue, 30 Jun 2026 17:46:16 -0400",
+      "snippet": "The Supreme Court upheld the right of children born on U.S. soil to automatic American citizenship. In so doing, the court rejected President Trump&apos;s most aggressive attempt to limit immigration.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
-      "link": "https://www.npr.org/2026/06/30/g-s1-131004/up-first-newsletter-supreme-court-tps-birthright-citizenship-iran-war-us-murder-rate",
-      "publishedAt": "Tue, 30 Jun 2026 07:46:50 -0400",
-      "snippet": "The Supreme Court is expected to make a long-awaited ruling on birthright citizenship today, on the high court&apos;s last day of its term. And, the U.S. murder rate approaches a record low.",
+      "title": "NPR discusses error in reporting on the last day of the Supreme Court term",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5876268/npr-discusses-error-in-reporting-on-the-last-day-of-the-supreme-court-term",
+      "publishedAt": "Tue, 30 Jun 2026 17:06:04 -0400",
+      "snippet": "All Things Considered host Scott Detrow speaks with NPR&apos;s editor-in-chief Thomas Evans and Nina Totenberg about her reporting on the final day of the Supreme Court term.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "After Trump&apos;s re-election, these U.S. scientists found jobs in the U.K.",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5875206/trumps-cuts-science-researchers-move-abroad",
-      "publishedAt": "Tue, 30 Jun 2026 06:00:00 -0400",
-      "snippet": "More U.S. scientists are heading abroad. Three researchers explain why they decided to shift their research to universities in the U.K.",
+      "title": "Meta considered buying Kalshi before developing its own prediction market app",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks",
+      "publishedAt": "Tue, 30 Jun 2026 16:33:04 -0400",
+      "snippet": "Mark Zuckerberg met with Kalshi&apos;s CEO last year about a potential deal, but talks did not move forward. Now Meta is making its own prediction market app.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Inside the coordinated strategy to radically reshape U.S. immigration",
-      "link": "https://www.npr.org/2026/06/30/g-s1-129953/remaking-immigration-explainer-video",
-      "publishedAt": "Tue, 30 Jun 2026 05:00:00 -0400",
-      "snippet": "As the Supreme Court today weighs the Trump administration&apos;s effort to revoke birthright citizenship, NPR looks at what else the White House has done to curb illegal and legal migration.",
+      "title": "FDA scientists flag concerns with peptides, the trendy molecules RFK Jr. supports",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5876301/peptides-fda-panel-compounding-rfk",
+      "publishedAt": "Tue, 30 Jun 2026 14:32:10 -0400",
+      "snippet": "Documents reviewing the research on peptides note lack of good evidence of efficacy or safety. Yet an FDA panel will consider easing access to them later this month.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Here are Colorado&apos;s 2026 primary election results",
-      "link": "https://www.npr.org/2026/06/30/g-s1-129870/colorado-primary-election-results-2026",
-      "publishedAt": "Tue, 30 Jun 2026 05:00:00 -0400",
-      "snippet": "Live election results: Get the latest on Colorado&apos;s U.S. Senate, U.S. House and gubernatorial primary races.",
+      "title": "It&apos;s going to be a hot July Fourth for much of the country",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5876093/heat-wave-fourth-midwest-east-coast",
+      "publishedAt": "Tue, 30 Jun 2026 13:26:48 -0400",
+      "snippet": "The National Weather Service has issued heat warnings and watches for much of the Midwest and East heading into the holiday weekend. In many places, the temperatures could shatter records.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S. murder rate approaches a record low",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5866810/us-murder-rate-record-low-crime-homicide",
-      "publishedAt": "Tue, 30 Jun 2026 05:00:00 -0400",
-      "snippet": "A few years ago, experts worried about a \"new normal\" of elevated violent crime in the U.S. Now the country is flirting with breaking its all-time low murder rate",
+      "title": "Rep. Tom Kean returns to Congress, says depression is why he went missing for months",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5876222/tom-kean-new-jersey-congress-depression",
+      "publishedAt": "Tue, 30 Jun 2026 12:29:37 -0400",
+      "snippet": "The New Jersey Republican was missing for months with no explanation for his constituents. He explained in a House floor speech that after his diagnosis, there was no timeline for recovery.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5875287/venezuela-deportees-us-quakes",
-      "publishedAt": "Tue, 30 Jun 2026 05:00:00 -0400",
-      "snippet": "On June 24, 146 Venezuelans were deported from Texas to Caracas. Hours later, while the deportees were in a guarded hotel, powerful twin earthquakes struck.",
+      "title": "Law professor discusses Supreme Court&apos;s final rulings this term",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5876109/law-professor-discusses-supreme-courts-final-rulings-this-term",
+      "publishedAt": "Tue, 30 Jun 2026 11:29:31 -0400",
+      "snippet": "NPR&apos;s Michel Martin speaks with Kim Wehle {WAIL-ee}, professor of law at the University of Baltimore School of Law, about the Supreme Court&apos;s final decisions this term.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Federal money for workforce training begins, but few programs qualify",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5869642/workforce-pell-grants-programs-dont-quality",
-      "publishedAt": "Tue, 30 Jun 2026 05:00:00 -0400",
-      "snippet": "July 1 marks the official opening of a program that allows federal dollars to go toward short-term workforce training programs. So far just 12 states have created road maps for colleges to apply.",
+      "title": "Editor&apos;s note: NPR retracts Justice Samuel Alito story",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-4622951/samuel-alito-retires",
+      "publishedAt": "Tue, 30 Jun 2026 10:51:23 -0400",
+      "snippet": null,
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/06/30/nx-s1-5873958/morning-news-brief",
-      "publishedAt": "Tue, 30 Jun 2026 04:47:41 -0400",
-      "snippet": "The U.S. and Iran will resume peace talks Tuesday, SCOTUS expected to make a decision on birthright citizenship, Colorado voters head to the polls.",
+      "title": "Supreme Court upholds birthright citizenship on constitutional grounds",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5839358/birthright-citizenship-decision-scotus-trump",
+      "publishedAt": "Tue, 30 Jun 2026 10:38:49 -0400",
+      "snippet": "The decision firmly rejected the executive order that Trump issued on the first day of his second term.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Explosion in Monaco injures 3, including Ukrainian tycoon",
-      "link": "https://www.npr.org/2026/06/30/g-s1-130990/explosion-monaco-ukrainian-tycoon",
-      "publishedAt": "Tue, 30 Jun 2026 01:35:07 -0400",
-      "snippet": "Monaco &apos;s chief prosecutor said the suspect who placed an explosive device that injured three people, including a reported Ukrainian tycoon, acted alone and remains at large.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
-      "link": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
-      "publishedAt": "Mon, 29 Jun 2026 21:43:29 -0400",
-      "snippet": "Guo said he came to the U.S. to destroy the Chinese Communist Party. But the judge said he instead diverted investor money to live lavishly.",
+      "title": "Supreme Court strikes down limits on political party spending",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5827039/supreme-court-campaign-finance",
+      "publishedAt": "Tue, 30 Jun 2026 10:28:28 -0400",
+      "snippet": "At issue in the case was a post-Watergate law that Congress passed to limit the amount of money individuals can give to political parties.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "FDA panel on peptides will include experts who promote the unproven chemicals favored by RFK Jr.",
-      "link": "https://www.pbs.org/newshour/health/fda-panel-on-peptides-will-include-experts-who-promote-the-unproven-chemicals-favored-by-rfk-jr",
-      "publishedAt": "Mon, 29 Jun 2026 19:31:47 -0400",
-      "snippet": "The Food and Drug Administration is meeting next month to consider easing restrictions on several peptides, a group of unapproved drugs popular with followers of Robert F. Kennedy Jr.",
+      "title": "Trump took in about $1.2 billion from crypto businesses last year, financial disclosure shows",
+      "link": "https://www.pbs.org/newshour/politics/trump-took-in-about-1-2-billion-from-crypto-businesses-last-year-financial-disclosure-shows",
+      "publishedAt": "Tue, 30 Jun 2026 20:15:21 -0400",
+      "snippet": "President Donald Trump took in nearly $1.2 billion dollars from his crypto businesses last year, a federal filing released Tuesday shows, locking in profits while his investors were socked with losses.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Professor known for 'torture memos' will advise conspiracy probe focused on perceived Trump foes",
-      "link": "https://www.pbs.org/newshour/politics/professor-known-for-torture-memos-will-advise-conspiracy-probe-focused-on-perceived-trump-foes",
-      "publishedAt": "Mon, 29 Jun 2026 19:16:32 -0400",
-      "snippet": "John Yoo, a conservative law professor known for his views on presidential power, confirms he will advise a team investigating whether officials conspired against Donald Trump.",
+      "title": "Rights lawyers sue Ghana over third-country deportation deal with Trump administration",
+      "link": "https://www.pbs.org/newshour/world/rights-lawyers-sue-ghana-over-third-country-deportation-deal-with-trump-administration",
+      "publishedAt": "Tue, 30 Jun 2026 19:49:02 -0400",
+      "snippet": "An international coalition of human rights lawyers and advocates sued Ghana on Tuesday, accusing the government of forcing deportees from the U.S. back to the home countries they had fled in violation of their rights.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What the Supreme Court rulings mean for presidential power",
-      "link": "https://www.pbs.org/newshour/show/what-the-supreme-court-rulings-mean-for-presidential-power",
-      "publishedAt": "Mon, 29 Jun 2026 18:55:00 -0400",
-      "snippet": "The U.S. Supreme Court issued two major rulings on Monday that significantly expand presidential power and President Trump's attempt to further reshape the federal government. Amna Nawaz discussed more with Supreme Court analyst and SCOTUSblog co-founder Amy Howe.",
+      "title": "White House picks Harvard professor with polarizing alien theories to lead new UFO council",
+      "link": "https://www.pbs.org/newshour/politics/white-house-picks-harvard-professor-with-polarizing-alien-theories-to-lead-new-ufo-council",
+      "publishedAt": "Tue, 30 Jun 2026 19:31:52 -0400",
+      "snippet": "A polarizing Harvard astronomer known for splashy theories about alien visits has been tapped by the White House to lead a team of outside scientists to study the national security risks posed by UFOs.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Supreme Court ruling proves Federal Reserve is unique agency, Lisa Cook's lawyer says",
-      "link": "https://www.pbs.org/newshour/show/supreme-court-ruling-proves-federal-reserve-is-unique-agency-lisa-cooks-lawyer-says",
-      "publishedAt": "Mon, 29 Jun 2026 18:50:02 -0400",
-      "snippet": "In a 5-4 ruling, Supreme Court justices said that President Trump does not have the power to fire Lisa Cook, a member of the Federal Reserve Board of Governors. Geoff Bennett discussed that decision with Cook's lead counsel, Abbe Lowell.",
+      "title": "Examining the Supreme Court's birthright citizenship, campaign finance rulings",
+      "link": "https://www.pbs.org/newshour/show/examining-the-supreme-courts-birthright-citizenship-campaign-finance-rulings",
+      "publishedAt": "Tue, 30 Jun 2026 18:55:40 -0400",
+      "snippet": "The Supreme Court wrapped up its term issuing major rulings in cases centered on some of the nation's biggest political fights. The most high-profile is a landmark ruling striking down President Trump's executive order seeking to end birthright citizenship. Geoff Bennett discusse",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Venezuela rescue efforts grow desperate as death toll rises and aftershock rattles country",
-      "link": "https://www.pbs.org/newshour/show/venezuela-rescue-efforts-grow-desperate-as-death-toll-rises-and-aftershock-rattles-country",
-      "publishedAt": "Mon, 29 Jun 2026 18:45:57 -0400",
-      "snippet": "Venezuelans continued to search for loved ones trapped under debris and rubble caused by the devastating back-to-back earthquakes five days ago. The Venezuelan government updated the death toll, saying 1,700 people are dead. That number is expected to climb higher. Stephanie Sy r",
+      "title": "How the birthright citizenship decision impacts Trump's immigration agenda",
+      "link": "https://www.pbs.org/newshour/show/how-the-birthright-citizenship-decision-impacts-trumps-immigration-agenda",
+      "publishedAt": "Tue, 30 Jun 2026 18:50:54 -0400",
+      "snippet": "To discuss the Supreme Court's birthright citizenship ruling, Amna Nawaz spoke with Amanda Frost. She is a professor at the University of Virginia School of Law, and the author of \"You Are Not American: Citizenship Stripping from Dred Scott to the Dreamers.\"",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Supreme Court rules constitutional protections apply to location data",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-rules-constitutional-protections-apply-to-location-data",
-      "publishedAt": "Mon, 29 Jun 2026 18:40:00 -0400",
-      "snippet": "In our news wrap Monday, the Supreme Court ruled that constitutional privacy protections apply to cellphone location data, the San Francisco Archdiocese agreed to pay $395 million to sexual abuse survivors and global health officials say more than 1,300 deaths have been linked to",
+      "title": "Trump announces Republican midterm convention in Dallas in September",
+      "link": "https://www.pbs.org/newshour/politics/trump-announces-republican-midterm-convention-in-dallas-in-september",
+      "publishedAt": "Tue, 30 Jun 2026 18:46:42 -0400",
+      "snippet": "President Donald Trump has announced that Republicans will hold their first-ever national convention ahead of the midterm elections, an unusual event aimed at boosting turnout in races that will decide whether the party maintains control of Congress.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Required Bible stories for Texas students challenge separation of church and state",
-      "link": "https://www.pbs.org/newshour/show/required-bible-stories-for-texas-students-challenge-separation-of-church-and-state",
-      "publishedAt": "Mon, 29 Jun 2026 18:35:44 -0400",
-      "snippet": "Passages from the Bible will now become required reading for public school students in Texas. The Republican-controlled state board of education approved the mandatory reading list on Friday, the first of its kind in the country. William Brangham discussed the new guidelines and ",
+      "title": "Who is affected by the Supreme Court's ruling on trans athletes in women's sports",
+      "link": "https://www.pbs.org/newshour/show/who-is-affected-by-the-supreme-courts-ruling-on-trans-athletes-in-womens-sports",
+      "publishedAt": "Tue, 30 Jun 2026 18:45:00 -0400",
+      "snippet": "To discuss the Supreme Court upholding state bans on transgender athletes competing in girls' and women's sports, Geoff Bennett spoke with Katie Barnes, who covers sports and gender as a senior writer for ESPN.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "American dream slipping out of reach for many DACA recipients, new report finds",
-      "link": "https://www.pbs.org/newshour/show/american-dream-slipping-out-of-reach-for-many-daca-recipients-new-report-finds",
-      "publishedAt": "Mon, 29 Jun 2026 18:30:29 -0400",
-      "snippet": "The American dream is slipping further out of reach for young adults who were brought to this country without authorization as children. A new report says recipients of Deferred Action for Childhood Arrivals, or DACA, face barriers not by a lack of ambition or talent, but by poli",
+      "title": "Supreme Court transforms campaign finance rules, lifting limits on party spending",
+      "link": "https://www.pbs.org/newshour/show/supreme-court-transforms-campaign-finance-rules-lifting-limits-on-party-spending",
+      "publishedAt": "Tue, 30 Jun 2026 18:40:04 -0400",
+      "snippet": "The Supreme Court's conservative majority transformed campaign finance laws, lifting limits on how much political parties can spend on advertising and other expenses in coordination with candidates. Geoff Bennett discussed the decision with Rick Hasen, a professor of law and poli",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Tamara Keith and Amy Walter on Trump's focus on the SAVE Act",
-      "link": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-focus-on-the-save-act",
-      "publishedAt": "Mon, 29 Jun 2026 18:25:24 -0400",
-      "snippet": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including the Supreme Court further expanding the president's authority while rejecting President Trump's effort to restrict mail-in voting, Tru",
+      "title": "Trump's response to the landmark Supreme Court rulings and what's next",
+      "link": "https://www.pbs.org/newshour/show/trumps-response-to-the-landmark-supreme-court-rulings-and-whats-next",
+      "publishedAt": "Tue, 30 Jun 2026 18:35:01 -0400",
+      "snippet": "To discuss how the Trump White House responded to Tuesday's rulings and the relationship between the president and the Supreme Court, Geoff Bennett spoke with White House correspondent Liz Landers and Supreme Court analyst and SCOTUSblog co-founder Amy Howe.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Willy Vlautin on spotlighting working-class American life in his novels and music",
-      "link": "https://www.pbs.org/newshour/show/willy-vlautin-on-spotlighting-working-class-american-life-in-his-novels-and-music",
-      "publishedAt": "Mon, 29 Jun 2026 18:20:13 -0400",
-      "snippet": "Novelist Willy Vlautin built his career writing about people on the edges of the American dream: working-class families, lonely alcoholics, and those struggling to make ends meet in the fast-changing American West. He's also a musician, telling his stories through song. Senior ar",
+      "title": "Rescue efforts continue, but hopes of finding earthquake survivors fade in Venezuela",
+      "link": "https://www.pbs.org/newshour/show/rescue-efforts-continue-but-hopes-of-finding-earthquake-survivors-fade-in-venezuela",
+      "publishedAt": "Tue, 30 Jun 2026 18:30:13 -0400",
+      "snippet": "Hopes faded that more people will be found alive in Venezuela, six days after earthquakes slammed the country. The government's official death toll is 1,900, though that is believed to be a vast undercount. By one estimate, 50,000 people remain missing, and 60,000 buildings may h",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Live Results: Colorado midterm primaries",
-      "link": "https://www.pbs.org/newshour/politics/live-results-colorado-midterm-primaries",
-      "publishedAt": "Mon, 29 Jun 2026 18:05:25 -0400",
-      "snippet": "The Democratic gubernatorial primary between U.S. Sen. Michael Bennet and state Attorney General Phil Weiser will not only determine who might lead Colorado, but it could also create an opening in the closely divided U.S. Senate.",
+      "title": "News Wrap: Heat wave brings dangerous temperatures to central and eastern U.S.",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-heat-wave-brings-dangerous-temperatures-to-central-and-eastern-u-s",
+      "publishedAt": "Tue, 30 Jun 2026 18:25:34 -0400",
+      "snippet": "In our news wrap Tuesday, a record-breaking heat wave is intensifying across much of the central and eastern U.S. and pushing temperatures to what officials are calling dangerous levels, the Food and Drug Administration announced that Zyn nicotine pouches can be marketed as less ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "More than 100 Venezuelans who were deported from the U.S. hours before the earthquakes are missing",
-      "link": "https://www.pbs.org/newshour/world/more-than-100-venezuelans-who-were-deported-from-the-u-s-hours-before-the-earthquakes-are-missing",
-      "publishedAt": "Mon, 29 Jun 2026 17:23:34 -0400",
-      "snippet": "A deportation flight from Miami arrived in Caracas hours before Wednesday's earthquakes. On board were 146 Venezuelans, including 19 women and seven children, according to ICE Flight Monitor.",
+      "title": "New Jersey Rep. Tom Kean returns to Congress after mysterious absence",
+      "link": "https://www.pbs.org/newshour/show/new-jersey-rep-tom-kean-returns-to-congress-after-mysterious-absence",
+      "publishedAt": "Tue, 30 Jun 2026 18:20:17 -0400",
+      "snippet": "The mystery behind a New Jersey congressman's months-long absence is solved. GOP Rep. Tom Kean spoke on the floor, saying he owed his constituents, colleagues and the American people an explanation. But he did not answer questions from the press, and it's unclear why he chose to ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Sweltering Midwest heat cancels outdoor plans as cooling centers open and the East braces",
-      "link": "https://www.pbs.org/newshour/nation/sweltering-midwest-heat-cancels-outdoor-plans-as-cooling-centers-open-and-the-east-braces",
-      "publishedAt": "Mon, 29 Jun 2026 17:20:38 -0400",
-      "snippet": "DES MOINES, Iowa — Summer camp and other outdoor activities were canceled or delayed Monday as a heat wave held its grip on the Midwest and spread eastward. Communities opened cooling centers and urged people to take it easy and stay hydrated. \"Overall, we're looking at just a re",
+      "title": "Dave Portnoy and Amna Nawaz discuss media and controversies on 'Settle In'",
+      "link": "https://www.pbs.org/newshour/show/dave-portnoy-and-amna-nawaz-discuss-media-and-controversies-on-settle-in",
+      "publishedAt": "Tue, 30 Jun 2026 18:15:07 -0400",
+      "snippet": "Dave Portnoy, the outspoken, unapologetic, polarizing founder of Barstool Sports, has written a memoir called \"Cancel Me If You Can.\" It tells the story of how he grew Barstool from a free gambling newsletter to a multimedia goliath today. Amna Nawaz spoke with Portnoy for the la",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Luigi Mangione gets stuck in elevator as judge delays his federal trial until January",
-      "link": "https://www.pbs.org/newshour/nation/luigi-mangione-gets-stuck-in-elevator-as-judge-delays-his-federal-trial-until-january",
-      "publishedAt": "Mon, 29 Jun 2026 17:13:25 -0400",
-      "snippet": "Luigi Mangione's federal trial in the killing of UnitedHealthcare CEO Brian Thompson will now begin in January instead of the fall, a judge said Monday.",
+      "title": "Serena Williams loses singles match in opening round at Wimbledon",
+      "link": "https://www.pbs.org/newshour/nation/serena-williams-loses-singles-match-in-opening-round-at-wimbledon",
+      "publishedAt": "Tue, 30 Jun 2026 17:34:07 -0400",
+      "snippet": "Williams played two doubles matches just before Wimbledon to announce her comeback, but she hadn't played a singles match since the 2022 U.S. Open.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "D.C. will pay $50,000 to man detained while protesting guard patrol with 'Star Wars' song, record says",
-      "link": "https://www.pbs.org/newshour/nation/d-c-will-pay-50000-to-man-detained-while-protesting-guard-patrol-with-star-wars-song-record-says",
-      "publishedAt": "Mon, 29 Jun 2026 17:05:46 -0400",
-      "snippet": "A settlement document reveals the District of Columbia has agreed to pay $50,000 to resolve a lawsuit filed by a resident who accused police officers of illegally detaining him for following an Ohio National Guard patrol while playing Darth Vader's theme song from \"Star Wars\" on ",
+      "title": "Denmark urges IOC to recognize territories of Greenland and Faroe Islands as independent Olympic teams",
+      "link": "https://www.pbs.org/newshour/world/denmark-urges-ioc-to-recognize-territories-of-greenland-and-faroe-islands-as-independent-olympic-teams",
+      "publishedAt": "Tue, 30 Jun 2026 17:28:05 -0400",
+      "snippet": "The revival of a longstanding Olympic proposal previously made 20 years ago comes as the new Danish government pledges support for Greenland which U.S. President Donald Trump has said he wants to acquire.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "3 firefighters killed in wildfires along Colorado-Utah border identified",
-      "link": "https://www.pbs.org/newshour/nation/3-firefighters-killed-in-wildfires-along-colorado-utah-border-identified",
-      "publishedAt": "Mon, 29 Jun 2026 14:32:41 -0400",
-      "snippet": "Federal officials say that the three firefighters killed over the weekend in a Colorado wildfire were part of a crew that goes into remote areas to quickly put out new fires.",
+      "title": "Forecasters cite 'dangerous' conditions as heat scorches Midwest",
+      "link": "https://www.pbs.org/newshour/nation/forecasters-cite-dangerous-conditions-as-heat-scorches-midwest",
+      "publishedAt": "Tue, 30 Jun 2026 17:19:39 -0400",
+      "snippet": "The heat index — how hot it feels when air temperature and humidity are combined — is exceeding 100 degrees in some areas.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Former players Malik Beasley, Ed Davis charged in NBA gambling scandal",
-      "link": "https://www.pbs.org/newshour/nation/former-players-malik-beasley-ed-davis-charged-in-nba-gambling-scandal",
-      "publishedAt": "Mon, 29 Jun 2026 14:09:23 -0400",
-      "snippet": "Authorities say Beasley tailored his play while with the Milwaukee Bucks in 2024, based on bets on his performance, and others benefited, including Davis.",
+      "title": "Cuban official says talks with the U.S. are at a standstill despite recent free-market reforms",
+      "link": "https://www.pbs.org/newshour/world/cuban-official-says-talks-with-the-u-s-are-at-a-standstill-despite-recent-free-market-reforms",
+      "publishedAt": "Tue, 30 Jun 2026 17:18:52 -0400",
+      "snippet": "Earlier this month, the U.S. slapped new sanctions on Cuban President Miguel Díaz Canel and other officials, as well as on companies key to the island's crumbling economy.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Shooting at youth welfare facility in Germany leaves 6 dead",
-      "link": "https://www.pbs.org/newshour/world/shooting-at-youth-welfare-facility-in-germany-leaves-6-dead",
-      "publishedAt": "Mon, 29 Jun 2026 14:01:50 -0400",
-      "snippet": "Five people – four women and one man – died at the scene of the shooting in Stade, police said. A sixth, also an adult, died later at a hospital.",
+      "title": "Trump administration suspends funding for New York's Medicaid fraud unit over low performance",
+      "link": "https://www.pbs.org/newshour/politics/trump-administration-suspends-funding-for-new-yorks-medicaid-fraud-unit-over-low-performance",
+      "publishedAt": "Tue, 30 Jun 2026 16:52:02 -0400",
+      "snippet": "The funding suspension is part of the Republican administration's broader anti-fraud actions in the healthcare sector.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "America 250 brings extraordinary security challenge to Washington",
-      "link": "https://www.pbs.org/newshour/nation/america-250-brings-extraordinary-security-challenge-to-washington",
-      "publishedAt": "Mon, 29 Jun 2026 13:56:44 -0400",
-      "snippet": "Hundreds of thousands are expected in Washington, D.C., for the 250th anniversary of the nation's freedom. Federal law enforcement is preparing for one of the city's largest security operations.",
+      "title": "How to stay cool and safe in a heat wave, even without air conditioning",
+      "link": "https://www.pbs.org/newshour/health/how-to-stay-cool-and-safe-in-a-heat-wave-even-without-air-conditioning",
+      "publishedAt": "Tue, 30 Jun 2026 16:02:30 -0400",
+      "snippet": "Scorching temperatures, especially combined with high humidity, pose risks particularly for children, older people and those with certain health conditions.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "UC Berkeley establishing Nancy Pelosi Institute dedicated to addressing democracy's challenges",
-      "link": "https://www.pbs.org/newshour/nation/uc-berkeley-establishing-nancy-pelosi-institute-dedicated-to-addressing-democracys-challenges",
-      "publishedAt": "Mon, 29 Jun 2026 13:46:05 -0400",
-      "snippet": "Former House Speaker Nancy Pelosi and the University of California, Berkeley, are partnering to form a new nonpartisan academic institute they say will be dedicated to strengthening democracy.",
+      "title": "Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia, search for suspect underway",
+      "link": "https://www.pbs.org/newshour/world/explosion-in-monaco-reportedly-wounds-ukrainian-tycoon-with-ties-to-russia-search-for-suspect-underway",
+      "publishedAt": "Tue, 30 Jun 2026 15:38:16 -0400",
+      "snippet": "Ukrainian construction tycoon Vadym Yermolaiev said he renounced his Ukrainian citizenship nearly a decade ago, and he was targeted by Ukrainian sanctions in 2023 for ties to Russia.",
       "tier": 1
     },
     {
@@ -440,10 +440,98 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "South Africa on edge with anti-migrant protests underway",
-      "link": "https://www.dw.com/en/south-africa-on-edge-with-anti-migrant-protests-underway/live-77735079?maca=en-rss-en-top-1022-rdf",
+      "title": "Israel peace deal greeted with skepticism, fear in Lebanon",
+      "link": "https://www.dw.com/en/israel-peace-deal-greeted-with-skepticism-fear-in-lebanon/a-77775047?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Anti-immigrant groups have set June 30 as an unofficial deadline for undocumented migrants to leave, with protests taking place across South Africa. Authorities say little violence has occurred so far. DW has more.",
+      "snippet": "Even Lebanese locals who don&apos;t like Hezbollah, the local group fighting Israel, are deeply concerned about the deal their government has made with the neighboring country.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US envoys arrive in Qatar with state of Iran talks unclear",
+      "link": "https://www.dw.com/en/us-envoys-arrive-in-qatar-with-state-of-iran-talks-unclear/live-77763482?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US and Iran have agreed to refrain from hostilities after a recent flareup, but Washington and Tehran have given conflicting statements on how talks are to proceed. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Angela Merkel unveils official portrait in Berlin",
+      "link": "https://www.dw.com/en/angela-merkel-unveils-official-portrait-in-berlin/a-77726524?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "On Tuesday former German Chancellor Merkel presented the painting for the official portrait gallery of the country&apos;s heads of government. She had previously inspired many artists.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US top court backs birthright citizenship in rebuke to Trump",
+      "link": "https://www.dw.com/en/us-top-court-backs-birthright-citizenship-in-rebuke-to-trump/a-77774454?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US President Donald Trump had issued an executive order that would have changed constitutional guarantees that people born on US soil are citizens. The court also ruled on campaign finance and transgender athletes.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Can Thailand, Cambodia unlock massive oil and gas reserves?",
+      "link": "https://www.dw.com/en/can-thailand-cambodia-unlock-massive-oil-and-gas-reserves/a-77753561?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "An estimated $300 billion in oil and gas reserves is sitting under overlapping territory in the Gulf of Thailand. Cooperation on its extraction is complicated by political tensions over a separate land border dispute.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "&apos;Under siege&apos;: Uganda&apos;s army chief clamps down on the press",
+      "link": "https://www.dw.com/en/under-siege-uganda-s-army-chief-clamps-down-on-the-press/a-77769666?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Amnesty urges Uganda to end harassment after army chief, Muhoozi Kainerugaba, shut down major independent media outlets. Analysts see the move as part of a widening press crackdown and a looming power shift.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US birthright citizenship: What does Trump&apos;s loss mean?",
+      "link": "https://www.dw.com/en/us-birthright-citizenship-what-does-trump-s-loss-mean/a-77773604?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US Supreme Court has blocked Donald Trump’s attempt to end birthright citizenship, leaving US law unchanged. But why was the issue so important to Donald Trump, and what does his loss really mean?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Will alleged crime ties damage Serbia&apos;s ruling party?",
+      "link": "https://www.dw.com/en/will-alleged-crime-ties-damage-serbia-s-ruling-party/a-77772788?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Pressure on President Aleksandar Vucic is growing as years of investigations into alleged links between the state and organized crime coincide with a gang war. Experts say the issue is eroding support within his base.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Portugal&apos;s &apos;golden visa&apos; delays spark legal fight",
+      "link": "https://www.dw.com/en/portugal-s-golden-visa-delays-spark-legal-fight/a-77755949?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "After waiting years for their \"golden visas,\" investors are taking Portugal to court. Tougher citizenship rules have added fuel to the growing dispute.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Swift Boost Mission: an opportunity for science and defense",
+      "link": "https://www.dw.com/en/swift-boost-mission-an-opportunity-for-science-and-defense/a-77768927?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Instead of letting a 22-year-old space telescope fall to Earth, NASA wants to rescue the Neil Gehrels Swift Observatory with a robotic spacecraft designed to boost the telescope back into higher orbit.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why a passport may not prove you&apos;re Indian",
+      "link": "https://www.dw.com/en/why-a-passport-may-not-prove-you-re-indian/a-77770701?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A passport controversy has reignited debate over how citizenship is proven in India, with voter-list revisions exposing systemic gaps and raising fears of wrongful exclusion.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "South Africa on edge amid anti-migrant protests",
+      "link": "https://www.dw.com/en/south-africa-on-edge-amid-anti-migrant-protests/live-77735079?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Anti-immigrant groups set June 30 as an unofficial \"deadline\" for undocumented migrants to leave, with protests taking place across South Africa.",
       "tier": 2
     },
     {
@@ -472,26 +560,18 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Police still to identify Stade attack victims",
-      "link": "https://www.dw.com/en/germany-news-police-still-to-identify-stade-attack-victims/live-77765094?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany news: Stade attack victims yet to be identified",
+      "link": "https://www.dw.com/en/germany-news-stade-attack-victims-yet-to-be-identified/live-77765094?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Police have yet to identify the six victims of a deadly shooting in Stade. Meanwhile, Germany&apos;s national men&apos;s football coach pledged to stay on the job after an early World Cup exit. DW has more.",
+      "snippet": "Police have yet to identify the six victims of a deadly shooting in the northern German city. Meanwhile, Germany&apos;s national men&apos;s football coach pledged to stay on the job after an early World Cup exit. DW has more.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany out of 2026 World Cup: What went wrong?",
-      "link": "https://www.dw.com/en/germany-out-of-2026-world-cup-what-went-wrong/a-77764683?maca=en-rss-en-top-1022-rdf",
+      "title": "For a third straight time, Germany is out of the FIFA World Cup earlier than expected. What went wrong this time?",
+      "link": "https://www.dw.com/en/for-a-third-straight-time-germany-is-out-of-the-fifa-world-cup-earlier-than-expected-what-went-wrong-this-time/a-77764683?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Germany are out of the World Cup earlier than expected for the third straight time. How did this happen?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Middle East: Trump announces new Doha talks, Iran demurs",
-      "link": "https://www.dw.com/en/middle-east-trump-announces-new-doha-talks-iran-demurs/live-77763482?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US and Iran have agreed to refrain from hostilities after a recent flareup, according to Washington, with US President Trump anouncing new talks will be held in Doha. Iran has yet to confirm this. DW has more.",
       "tier": 2
     },
     {
@@ -508,86 +588,6 @@
       "link": "https://www.dw.com/en/ukrainian-oligarch-reportedly-injured-in-monaco-blast/a-77763150?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Vadym Yermolaiev was sanctioned by Ukraine for allegedly doing business in Russian-occupied Crimea. Two other people were also injured, including a 13-year-old.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany out of World Cup after loss on penalties to Paraguay",
-      "link": "https://www.dw.com/en/germany-out-of-world-cup-after-loss-on-penalties-to-paraguay/a-77760529?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany lost in dramatic fashion against Paraguay in Boston to exit the 2026 World Cup at the first knockout stage.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: At least 6 killed in shooting in Stade",
-      "link": "https://www.dw.com/en/germany-at-least-6-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Police said the deadly Stade shooting was likely an \"extended family tragedy\" triggered by a custody dispute, with the state interior minister describing it as \"extremely cold-blooded act of violence.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Peru: Fujimori declared winner of presidential election",
-      "link": "https://www.dw.com/en/peru-fujimori-declared-winner-of-presidential-election/a-77760522?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After weeks of reviewing the ballots, Peru’s electoral commission declared Keiko Fujimori the winner of the presidential election.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Alarm over alleged abuse in French schools and nurseries",
-      "link": "https://www.dw.com/en/alarm-over-alleged-abuse-in-french-schools-and-nurseries/a-77729372?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Hundreds of alleged cases of physical and sexual assault against children in French nurseries and elementary schools have revealed flaws in the system, experts say. They argue that reforms are urgently needed.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pride Month has great significance for those who feel invisible. In Slovenia, many LGBTQ+ people understand just what that means",
-      "link": "https://www.dw.com/en/pride-month-has-great-significance-for-those-who-feel-invisible-in-slovenia-many-lgbtq-people-understand-just-what-that-means/a-77753587?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "One of the first steps taken by Slovenia&apos;s new right-wing government in June was to remove the rainbow flag outside the Culture Ministry. As Pride Month draws to a close, DW surveys the situation of the LGBTQ+ community.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US Supreme Court vastly expands Trump&apos;s presidential power",
-      "link": "https://www.dw.com/en/us-supreme-court-vastly-expands-trump-s-presidential-power/a-77759124?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The court reversed a 1935 precedent restricting presidential powers to remove heads of independent agencies. However, it barred Trump from firing Fed Governor Lisa Cook, preserving the central bank&apos;s independence.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Poland orders Swedish submarines to bulk up navy",
-      "link": "https://www.dw.com/en/poland-orders-swedish-submarines-to-bulk-up-navy/a-77758193?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Poland has placed an order for three Swedish submarines in an effort to step up defense capabilities. The NATO member is modernizing its navy in the face of Russian aggression at its borders.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Africa braces for anti-migrant protests",
-      "link": "https://www.dw.com/en/south-africa-braces-for-anti-migrant-protests/a-77722920?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Tensions are rising ahead of planned anti-migrant protests on June 30, as South Africa&apos;s government warns against violence. Analysts say deep social and economic crises are fueling unrest and xenophobia.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EV myths muddy the road to electrification",
-      "link": "https://www.dw.com/en/ev-myths-muddy-the-road-to-electrification/a-77651984?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Claims that electric vehicle batteries are tainted by exploitative mineral supply chains are discrediting non-fossil cars as electrified road transport booms.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK-Africa relations: Starmer&apos;s &apos;reset&apos; that never delivered",
-      "link": "https://www.dw.com/en/uk-africa-relations-starmer-s-reset-that-never-delivered/a-77755248?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Back in 2024, British Prime Minister Keir Starmer promised a fresh UK–Africa partnership. Two years later, his resignation leaves unfinished ambitions, scaled-back aid and questions about Britain&apos;s long-term commitment.",
       "tier": 2
     }
   ]
