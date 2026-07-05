@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T01:08:09.838Z",
+  "generatedAt": "2026-07-05T12:50:24.927Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,42 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-      "link": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 02:57:48 GMT",
-      "snippet": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
+      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 12:29:18 GMT",
+      "snippet": "Ali Khamenei's son Mojtaba is conspicuously absent from his father's funeral on Sunday, amid speculation about his condition.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+      "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 08:24:32 GMT",
+      "snippet": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Evacuations in Guam as super typhoon Bavi approaches",
+      "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 09:26:56 GMT",
+      "snippet": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Chinese underground church figure Jin Mingri freed from prison",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 05:58:21 GMT",
+      "snippet": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 04 Jul 2026 23:17:24 GMT",
+      "snippet": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
       "tier": 1
     },
     {
@@ -48,10 +80,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 09:45:55 GMT",
-      "snippet": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
+      "title": "Pope urges Europe to do more for migrants as he visits gateway island",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 04 Jul 2026 11:25:57 GMT",
+      "snippet": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
       "tier": 1
     },
     {
@@ -60,22 +92,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 04 Jul 2026 15:45:15 GMT",
       "snippet": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Injury ends Williams' Wimbledon comeback",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 17:22:46 GMT",
-      "snippet": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Pope urges Europe to do more for migrants as he visits gateway island",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 11:25:57 GMT",
-      "snippet": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
       "tier": 1
     },
     {
@@ -112,6 +128,14 @@
     },
     {
       "source": "BBC World",
+      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 04 Jul 2026 09:45:55 GMT",
+      "snippet": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
       "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 03 Jul 2026 15:20:57 GMT",
@@ -128,10 +152,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Eala wins 'for all the girls with ruffled socks and chubby cheeks'",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cjwgpz3wj69o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 20:19:11 GMT",
-      "snippet": "Alexandra Eala dedicates her stunning win over defending Wimbledon champion Iga Swiatek to \"all the girls with ruffled socks and chubby cheeks\".",
+      "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
+      "link": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 04 Jul 2026 23:33:27 GMT",
+      "snippet": "Space Force and Customs and Border Patrol are using a rodeo as a way to drive up recruitment numbers.",
       "tier": 1
     },
     {
@@ -167,27 +191,27 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
-      "link": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 21:46:43 GMT",
-      "snippet": "Authorities expect up to 20 million people to attend ceremonies across Iran and Iraq over the coming days.",
+      "source": "NPR News",
+      "title": "Pennsylvania&apos;s proposed data centers are bringing strangers together in protest",
+      "link": "https://www.npr.org/2026/07/05/nx-s1-5804732/proposed-data-centers-in-pennsylvania-are-leading-strangers-to-mobilize-in-protest",
+      "publishedAt": "Sun, 05 Jul 2026 08:26:06 -0400",
+      "snippet": "Proposals to build six data centers in the small community of Archbald, Pennsylvania, have brought strangers together to fight the plans there — and elsewhere in the state.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
-      "link": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 16:49:36 GMT",
-      "snippet": "Iranian authorities say they expect millions of people to take part in funeral commemorations for Ayatollah Ali Khamenei.",
+      "source": "NPR News",
+      "title": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
+      "link": "https://www.npr.org/2026/07/05/g-s1-132046/paul-pelosi-hit-and-run-california-car-damage",
+      "publishedAt": "Sun, 05 Jul 2026 06:28:42 -0400",
+      "snippet": "The husband of former House Speaker Nancy Pelosi was involved in a hit-and-run in California that left a parked car with \"major\" damage, authorities said Saturday.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
-      "link": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 04:50:06 GMT",
-      "snippet": "The couple tied the knot in a star-studded ceremony officiated by comedian Adam Sandler at Madison Square Garden.",
+      "source": "NPR News",
+      "title": "Pastor freed from prison in China weeks after Trump requested his release",
+      "link": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request",
+      "publishedAt": "Sun, 05 Jul 2026 04:30:07 -0400",
+      "snippet": "A pastor of a prominent underground church who was detained in China in October has been released, less than two months after U.S. President Donald Trump brought up his case when meeting Chinese leader Xi Jinping.",
       "tier": 1
     },
     {
@@ -200,10 +224,10 @@
     },
     {
       "source": "NPR News",
-      "title": "Storms prompt National Mall evacuations ahead of Trump&apos;s July 4th speech",
+      "title": "Trump addresses nation and fireworks light up National Mall after storm delay",
       "link": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
       "publishedAt": "Sat, 04 Jul 2026 12:42:10 -0400",
-      "snippet": "Attendees gathered at the National Mall to mark America&apos;s 250th birthday were ordered to seek shelter due to the \"severe storms\" rolling into the area, just hours before the fireworks show was scheduled to take place.",
+      "snippet": "President Trump lauded America&apos;s storied history on Saturday night in a speech marking the 250th anniversary of its independence, while also praising his war in Iran, railing against \"communists,\" and vowing to restrict mail-in ballots.",
       "tier": 1
     },
     {
@@ -244,30 +268,6 @@
       "link": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
       "publishedAt": "Sat, 04 Jul 2026 01:44:19 -0400",
       "snippet": "Cape Verde didn&apos;t win a match at the World Cup, and somehow, that didn&apos;t seem to matter. The African team&apos;s debut on this stage was unforgettable.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Dayslong funeral for slain Supreme Leader Ayatollah Ali Khamenei begins in Tehran",
-      "link": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
-      "publishedAt": "Sat, 04 Jul 2026 01:04:16 -0400",
-      "snippet": "Khamenei, who ruled Iran for more than three decades, was killed in an airstrike on Feb. 28 at the start of the U.S.-Israeli war against Iran.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Reflections on America&apos;s 250th birthday",
-      "link": "https://www.npr.org/2026/07/04/nx-s1-5876246/reflections-on-americas-250th-birthday",
-      "publishedAt": "Sat, 04 Jul 2026 00:00:00 -0400",
-      "snippet": "NPR member station reporters across the U.S. asked people how they are thinking about their country on its semiquincentennial.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
-      "link": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
-      "publishedAt": "Fri, 03 Jul 2026 17:03:00 -0400",
-      "snippet": "Superfans and sleuths appear to have their hunches confirmed on Friday, as dozens of black cars dropped off elegantly dressed guests outside of Madison Square Garden in New York City. The wedding bash is expected to last into Saturday morning.",
       "tier": 1
     },
     {
@@ -440,18 +440,106 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-      "link": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-top-1022-rdf",
+      "title": "South Korea plans future fund fueled by chip boom",
+      "link": "https://www.dw.com/en/south-korea-plans-future-fund-fueled-by-chip-boom/a-77836747?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.",
+      "snippet": "South Korea plans to channel windfall tax revenue from its booming semiconductor industry into a new future fund. The money would help finance major industrial projects and to support younger generations.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "US 250th Independence Day: Thunderstorms disrupt events",
-      "link": "https://www.dw.com/en/us-250th-independence-day-thunderstorms-disrupt-events/live-77833580?maca=en-rss-en-top-1022-rdf",
+      "title": "Why US train travel lags behind Asia and Europe",
+      "link": "https://www.dw.com/en/why-us-train-travel-lags-behind-asia-and-europe/a-77430370?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The US is celebrating its 250th birthday with a massive fireworks display and military flyovers in the capital. But an approaching thunderstorm prompted an evacuation in Washington, DC, after hours of intense heat.",
+      "snippet": "As flights get pricier and gas prices stay high, more US travelers are turning to trains — and hitting a system built for freight, not people.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran: Pressure on persecuted Baha&apos;i community intensifies",
+      "link": "https://www.dw.com/en/iran-pressure-on-persecuted-baha-i-community-intensifies/a-77824095?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Arrests, torture, mock executions: War has seen the Iranian regime crack down on dissidents of all kinds. Members of the country&apos;s Baha&apos;i faith have long been persecuted, but their situation is now worsening.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Top Iranian officials attend day 2 of Ali Khamenei&apos;s funeral",
+      "link": "https://www.dw.com/en/top-iranian-officials-attend-day-2-of-ali-khamenei-s-funeral/a-77836567?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Three of Ayatollah Ali Khamenei&apos;s sons made their first public appearances in months on Sunday. But the son who succeeded him as Iran&apos;s supreme leader, Motjaba Khamanei, was nowhere to be seen.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Indian passport slips one spot in global ranking",
+      "link": "https://www.dw.com/en/india-news-indian-passport-slips-one-spot-in-global-ranking/live-77836287?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Indian passport has slipped one spot below last year&apos;s ranking on the Global Passport Index. Follow DW for more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "China frees pastor after Trump raised case with Xi",
+      "link": "https://www.dw.com/en/china-frees-pastor-after-trump-raised-case-with-xi/a-77836084?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "China has released the pastor of a prominent underground church after US President Donald Trump pressed his case with Chinese leader Xi Jinping. His family hailed the move as a hopeful sign for religious freedom.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump set to put NATO unity to the test at Turkey summit",
+      "link": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "NATO Secretary-General Mark Rutte is working to keep the alliance united and Donald Trump engaged. But disputes over burden sharing, US military commitments, and the Iran war are creating a major test for NATO unity.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Albania PM Rama: Protests a stage for anti-Trump forces",
+      "link": "https://www.dw.com/en/albania-pm-rama-protests-a-stage-for-anti-trump-forces/a-77833383?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Protesters in Albania say their government is selling the country its nature out to foreign investors and luxury developers. Albanian Prime Minister Edi Rama tells DW why he thinks people are so upset.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Jehovah&apos;s Witnesses fight German state for Holocaust archive",
+      "link": "https://www.dw.com/en/jehovah-s-witnesses-fight-german-state-for-holocaust-archive/a-77806830?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Jehovah&apos;s Witnesses have secured a partial victory in a dispute over a unique archive documenting the community&apos;s persecution by the Nazi regime. It comes after a new memorial to the victims was unveiled in Berlin.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US 250th Independence Day: Trump takes center stage",
+      "link": "https://www.dw.com/en/us-250th-independence-day-trump-takes-center-stage/live-77833580?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US is celebrating its 250th birthday with a fireworks display and military flyovers in the capital. President Donald Trump delivers a late-night address after thunderstorms prompted an evacuation order.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Venezuela earthquake death toll nears 3,000 as hope to find survivors dims",
+      "link": "https://www.dw.com/en/venezuela-earthquake-death-toll-nears-3-000-as-hope-to-find-survivors-dims/a-77835156?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "International rescue teams have begun closing up operations as deaths in Venezuela double quakes approach 3,000. Families are still looking for signs of their missing loved ones.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "The moral test US founding father Thomas Jefferson failed?",
+      "link": "https://www.dw.com/en/the-moral-test-us-founding-father-thomas-jefferson-failed/a-77833752?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Polish general and freedom fighter Thaddeus Kosciuszko presented US founding father Thomas Jefferson with a moral test. Historians still disagree on whether Jefferson passed or not.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+      "link": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The long-range strikes are the latest salvo in Ukraine’s expanding campaign to inflict economic damage on Russia and hinder its war machine.",
       "tier": 2
     },
     {
@@ -500,94 +588,6 @@
       "link": "https://www.dw.com/en/australia-s-great-barrier-reef-again-avoids-in-danger-label/a-77829982?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "UNESCO acknowledged Australia&apos;s efforts towards the Great Barrier Reef&apos;s health but raised concerns over mass bleaching. For now, the popular marine site seems to have dodged the \"endangered\" tag.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump set to put NATO unity to the test at Turkey summit",
-      "link": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "NATO Secretary-General Mark Rutte is working to keep the alliance united and Donald Trump engaged. But disputes over burden sharing, US military commitments, and the Iran war are creating a major test for NATO unity.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Kielce pogrom in Poland: 80th anniversary of 1946 massacre",
-      "link": "https://www.dw.com/en/kielce-pogrom-in-poland-80th-anniversary-of-1946-massacre/a-77826002?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Just over a year after World War II ended, a mob in the Polish city of Kielce killed around 40 Jews, some of them Holocaust survivors. A lie about ritual child murder escalated the violence.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US: President Trump pardons 11 people, including Clean Air Act violators",
-      "link": "https://www.dw.com/en/us-president-trump-pardons-11-people-including-clean-air-act-violators/a-77829438?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Donald Trump has granted pardons to nine people convicted of violating a key environmental law. The US President has also pardoned an associate of convicted felon and former lobbyist Jack Abramoff.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran: Khamenei&apos;s funeral ceremonies officially begin",
-      "link": "https://www.dw.com/en/iran-khamenei-s-funeral-ceremonies-officially-begin/a-77816592?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Huge crowds have gathered in Tehran to pay their final respects to Iran&apos;s supreme leader, who was killed in an airstrike at the start of the US-Israeli campaign against Iran.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Heat wave upends July Fourth celebrations across US",
-      "link": "https://www.dw.com/en/heat-wave-upends-july-fourth-celebrations-across-us/a-77827949?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A dangerous heat wave has disrupted July Fourth events across the United States, including Donald Trump&apos;s flagship Great American State Fair, as the nation prepares to mark its 250th birthday.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Taylor Swift, Travis Kelce tie knot in star-studded ceremony",
-      "link": "https://www.dw.com/en/taylor-swift-travis-kelce-tie-knot-in-star-studded-ceremony/a-77812947?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The couple got married in a major star-studded celebration at Madison Square Garden over the Fourth of July weekend.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "NASA launches spacecraft to recover sinking telescope",
-      "link": "https://www.dw.com/en/nasa-launches-spacecraft-to-recover-sinking-telescope/a-77826514?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Swift telescope has been affected by recent solar storms and is sinking faster than ever, heading toward Earth. A NASA mission will try to capture it and boost its orbit.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Lyra McKee: 3 men acquitted of killing N. Irish journalist",
-      "link": "https://www.dw.com/en/lyra-mckee-3-men-acquitted-of-killing-n-irish-journalist/a-77825712?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "McKee was killed while covering clashes between Republicans and police in 2019. Judge Patricia Smyth said evidence was insufficient for a conviction, while McKee&apos;s family expressed disappointment.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Maltese tycoon faces trial over Caruana Galizia murder",
-      "link": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Maltese businessman accused of masterminding journalist Daphne Caruana Galizia’s 2017 murder is in court — seven years after his arrest. Five other men have already been found guilty for their roles in the murder.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pope Leo defends US immigrant history at 250th anniversary",
-      "link": "https://www.dw.com/en/pope-leo-defends-us-immigrant-history-at-250th-anniversary/a-77825299?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The first US pope said \"successive waves of immigrants\" played a role in shaping the United States, which marks its 250th anniversary on Saturday. Leo&apos;s remarks have made him a target of President Donald Trump.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "NATO summit: European members and Canada pledge long-term Ukraine aid",
-      "link": "https://www.dw.com/en/nato-summit-european-members-and-canada-pledge-long-term-ukraine-aid/a-77825447?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The NATO alliance&apos;s European members and Canada have signaled a readiness to fully take over the financing of Ukraine&apos;s fight against Russia.",
       "tier": 2
     }
   ]
