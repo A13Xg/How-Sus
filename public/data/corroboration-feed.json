@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T13:39:09.902Z",
+  "generatedAt": "2026-07-07T01:06:12.926Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,18 +32,66 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Ukraine warns of interceptor missile shortage as 19 killed in Kyiv region",
+      "title": "Trump confirms he asked Fifa to review Balogun ban",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 19:06:34 GMT",
+      "snippet": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 23:55:53 GMT",
+      "snippet": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
       "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 12:15:43 GMT",
+      "publishedAt": "Mon, 06 Jul 2026 21:02:37 GMT",
       "snippet": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-      "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 12:07:44 GMT",
-      "snippet": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
+      "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 07 Jul 2026 00:46:03 GMT",
+      "snippet": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+      "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 19:06:26 GMT",
+      "snippet": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 17:22:38 GMT",
+      "snippet": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Wildfire in southern France forces evacuation of 10,000 people",
+      "link": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 13:08:23 GMT",
+      "snippet": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "More than 1,000 arrested as part of global human trafficking crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 17:24:31 GMT",
+      "snippet": "Interpol says the vast majority of the 2,070 victims or potential victims identified were women being trafficked for sex.",
       "tier": 1
     },
     {
@@ -56,17 +104,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
-      "link": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 01:46:29 GMT",
-      "snippet": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "At least 25 killed in Sri Lanka prison riots",
+      "title": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
       "link": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 12:35:55 GMT",
+      "publishedAt": "Mon, 06 Jul 2026 14:19:26 GMT",
       "snippet": "The two days of violence at Negombo Prison are the worst prison riots in the country in years.",
       "tier": 1
     },
@@ -80,10 +120,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+      "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+      "link": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 01:46:29 GMT",
+      "snippet": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
       "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 00:20:20 GMT",
-      "snippet": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+      "publishedAt": "Mon, 06 Jul 2026 16:44:54 GMT",
+      "snippet": "The storm lashed the Mariana Islands, hitting Rota and prompting emergency warnings on Guam.",
       "tier": 1
     },
     {
@@ -96,42 +144,26 @@
     },
     {
       "source": "BBC World",
-      "title": "Thousands of forgotten WW1 soldiers recognised for first time",
-      "link": "https://www.bbc.co.uk/news/articles/cgqjpqjgxzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 05:04:06 GMT",
-      "snippet": "Nearly 10,000 soldiers' names are being added to the official database of war dead, a cherished step for many of their descendants.",
+      "title": "Why some African nations are turning down Trump aid money",
+      "link": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 07 Jul 2026 00:49:08 GMT",
+      "snippet": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 18:18:40 GMT",
-      "snippet": "The plane had 52 passengers and six crew onboard. No injuries were reported.",
+      "title": "Can China repeat its EV success with robotaxis?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 22:01:07 GMT",
+      "snippet": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Bangladesh courts China even as ties with India improve",
-      "link": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 00:02:29 GMT",
-      "snippet": "Relations between Dhaka and Delhi, that turned frosty under the interim government, are on the mend.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
-      "link": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 14:59:10 GMT",
-      "snippet": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 12:28:42 GMT",
-      "snippet": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
+      "title": "Why a Diljit Dosanjh film vanished from streaming after two days",
+      "link": "https://www.bbc.co.uk/news/articles/cly99z1w4gdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 22:06:29 GMT",
+      "snippet": "The film's troubled journey spans years of censorship disputes, court battles and an unexpected release on a streaming platform.",
       "tier": 1
     },
     {
@@ -144,50 +176,82 @@
     },
     {
       "source": "BBC World",
-      "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
-      "link": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 22:01:43 GMT",
-      "snippet": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
+      "title": "Is this a breakthrough moment for soccer in the US?",
+      "link": "https://www.bbc.co.uk/news/articles/cd6exx1xl4po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 11:19:47 GMT",
+      "snippet": "Victory for the national team against Belgium on Monday could mean the sport takes further strides among American audiences.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "The African fishermen who blame Chinese trawlers for their woes",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 23:30:40 GMT",
-      "snippet": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks.",
+      "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
+      "link": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 06 Jul 2026 16:23:44 GMT",
+      "snippet": "Huge crowds have lined the streets of Tehran for the funeral procession of Iran's late supreme leader, Ayatollah Ali Khamenei.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Why an anti-sacrilege law in India's Punjab has sparked controversy",
-      "link": "https://www.bbc.co.uk/news/articles/crlw1xrzd8yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 06 Jul 2026 08:35:56 GMT",
-      "snippet": "The dispute has revived one of Punjab's most sensitive political and religious issues ahead of state elections next year.",
+      "source": "NPR News",
+      "title": "Extreme heat on Independence Day will be America&apos;s new normal, experts say",
+      "link": "https://www.npr.org/2026/07/06/nx-s1-5883704/extreme-heat-july-4th-climate",
+      "publishedAt": "Mon, 06 Jul 2026 19:24:32 -0400",
+      "snippet": "In cities across the U.S., parades were canceled and events were delayed because of the heat. Meanwhile, emergency rooms saw a high number of people with heat-related illnesses.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "How Iran's new regime is very different to what came before",
-      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 05:40:07 GMT",
-      "snippet": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?",
+      "source": "NPR News",
+      "title": "This World Cup marks end of era for Ronaldo and other soccer greats",
+      "link": "https://www.npr.org/2026/07/06/g-s1-132202/world-cup-retire-ronaldo-neymar-ochoa-neuer",
+      "publishedAt": "Mon, 06 Jul 2026 17:31:21 -0400",
+      "snippet": "Some of the greatest footballers of a generation played their final World Cup match this summer.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
-      "link": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 23:33:27 GMT",
-      "snippet": "Space Force and Customs and Border Patrol are using a rodeo as a way to drive up recruitment numbers.",
+      "source": "NPR News",
+      "title": "USA set to take on Belgium in World Cup amid Trump red card controversy",
+      "link": "https://www.npr.org/2026/07/06/nx-s1-5883818/the-world-cup-red-card-controversy-has-the-world-seeing-the-u-s-in-a-new-light",
+      "publishedAt": "Mon, 06 Jul 2026 17:01:15 -0400",
+      "snippet": "Ahead of this evening&apos;s World Cup match between the U.S. and Belgium, the drama about the eligibility of U.S. striker Folarin Balogun continues to swirl following his red card in the previous match.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 01:53:01 GMT",
-      "snippet": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.",
+      "source": "NPR News",
+      "title": "Supreme Court lets Texas restrict minors&apos; access to app stores for the time being",
+      "link": "https://www.npr.org/2026/07/06/nx-s1-5883978/supreme-court-texas-app-store-minors",
+      "publishedAt": "Mon, 06 Jul 2026 16:15:17 -0400",
+      "snippet": "Texas&apos; App Store Accountability Act requires minors to have their parents&apos; permission to download most apps. The Supreme Court says the law can go into effect as lawsuits continue in lower courts.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Graham Platner faces growing calls to withdraw following allegation of sexual assault",
+      "link": "https://www.npr.org/2026/07/06/nx-s1-5875431/platner-sexual-assault-allegation-maine-senate",
+      "publishedAt": "Mon, 06 Jul 2026 16:09:36 -0400",
+      "snippet": "The Democratic candidate for Senate in Maine said he was assessing next steps after allegations of sexual assault were reported on Monday by Politico. Platner denied them as \"categorically untrue.\"",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Man sues DHS after agents tracked him down for sending a scathing email to ICE",
+      "link": "https://www.npr.org/2026/07/06/nx-s1-5883784/dhs-ice-critic-lawsuit-free-speech",
+      "publishedAt": "Mon, 06 Jul 2026 11:50:18 -0400",
+      "snippet": "Federal agents tried to track David Streever to his home and hotel, and left him a warning notice that a critical email he sent the former head of ICE may have been illegal. Now he&apos;s suing.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Militant LGBTQ+ rights group &apos;the Lavender Panthers&apos; was founded on this day in 1973",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/07/06/g-s1-131803/lgbtqia-group-lavender-panthers-founded-1973",
+      "publishedAt": "Mon, 06 Jul 2026 10:25:41 -0400",
+      "snippet": "\"Reverend Ray\" Broshears founded the queer vigilante group the Lavender Panthers in 1973. The group&apos;s impact is still felt today.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Historic World Cup furor at &apos;incomprehensible&apos; FIFA decision to let U.S. forward Balogun play",
+      "link": "https://www.npr.org/2026/07/06/g-s1-132108/world-cup-balogun-uefa-fifa-belgum-trump",
+      "publishedAt": "Mon, 06 Jul 2026 10:11:39 -0400",
+      "snippet": "The Belgian soccer federation is challenging FIFA&apos;s ruling to let Balogun play despite getting a red card in his previous game. Belgium&apos;s statement came just 11 hours before kickoff in Seattle. European soccer body UEFA criticizes FIFA&apos;s \"incomprehensible and unjus",
       "tier": 1
     },
     {
@@ -200,14 +264,6 @@
     },
     {
       "source": "NPR News",
-      "title": "These Medicare beneficiaries thought their drug plan was free. Then they lost it",
-      "link": "https://www.npr.org/2026/07/06/nx-s1-5879413/medicare-drug-plan-coverage-premiums-wellcare",
-      "publishedAt": "Mon, 06 Jul 2026 05:00:00 -0400",
-      "snippet": "Thousands of people lost coverage over as little as $8 in delinquent payments. They didn&apos;t know their zero-dollar premiums had gone up and they owed money. Most now can&apos;t get coverage until 2027.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
       "title": "Hate food waste? 7 creative ways to turn your leftovers into a new meal",
       "link": "https://www.npr.org/2026/07/06/nx-s1-5879248/hate-food-waste-7-creative-ways-to-turn-your-leftovers-into-a-new-meal",
       "publishedAt": "Mon, 06 Jul 2026 05:00:00 -0400",
@@ -215,219 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Marriage used to be a glide path to citizenship. Now there are more speed bumps",
-      "link": "https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change",
-      "publishedAt": "Mon, 06 Jul 2026 05:00:00 -0400",
-      "snippet": "Spouses of U.S. citizens have traditionally had a special place in immigration law. That&apos;s no longer the case, according to the administration and immigration lawyers.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Fast walkers in their 80s cut their risk of cognitive decline by half, a study finds",
-      "link": "https://www.npr.org/2026/07/06/nx-s1-5877419/walk-pace-gait-brain-cognitive-health",
-      "publishedAt": "Mon, 06 Jul 2026 05:00:00 -0400",
-      "snippet": "A new study of people 80 and older with exceptional gaits finds fast walkers have about a 50% lower risk of cognitive decline, showing the connection between physical health and brain health.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "The U.S. faces Belgium in the World Cup on the heels of Trump-Infantino red card call",
-      "link": "https://www.npr.org/2026/07/06/nx-s1-5879131/2026-world-cup-fifa-usmnt-belgium-round-of-16",
-      "publishedAt": "Mon, 06 Jul 2026 04:00:00 -0400",
-      "snippet": "The U.S. striker Folarin Balogun is expected to start against Belgium in a Round of 16 match after a surprise decision by FIFA to allow him to play despite receiving a red card last week.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Russian missile and drone attack on Ukraine&apos;s capital kills at least 12",
-      "link": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-12",
-      "publishedAt": "Mon, 06 Jul 2026 03:41:08 -0400",
-      "snippet": "Russia launched waves of missiles and drones at Kyiv early Monday, killing at least 12 people in an attack that exposed widening gaps in Ukraine&apos;s air defenses, authorities said.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Trump won spending promises from NATO last year. This week, he&apos;ll try to enforce them",
-      "link": "https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending",
-      "publishedAt": "Mon, 06 Jul 2026 02:06:17 -0400",
-      "snippet": "President Donald Trump is heading to Ankara, Turkey, for the annual NATO summit. Last year, he pushed NATO allies to spend more on defense. This year, his mission is to try to enforce those pledges.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Mexico&apos;s World Cup run ends with loss to England at Estadio Azteca",
-      "link": "https://www.npr.org/2026/07/06/g-s1-132079/mexico-world-cup-ends-loss-england",
-      "publishedAt": "Mon, 06 Jul 2026 01:32:57 -0400",
-      "snippet": "Playing at altitude with the passionate backing of 80,824 fans at Estadio Azteca, and with a man advantage for most of the second half, Mexico scored twice but could never equalize and lost 3-2.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Y si sí: the phrase uniting Mexico during the World Cup",
-      "link": "https://www.npr.org/2026/07/05/nx-s1-5881076/y-si-si-the-phrase-uniting-mexicos-world-cup-fans",
-      "publishedAt": "Sun, 05 Jul 2026 17:03:43 -0400",
-      "snippet": "Mexico&apos;s World Cup run has inspired a phrase heard across the country: \"Y si sí.\" Or in English: \"What if we can?\" Anamaria Sayre reports from Mexico City.",
+      "source": "PBS Headlines",
+      "title": "Can NATO allies deliver on promises to increase military spending?",
+      "link": "https://www.pbs.org/newshour/show/can-nato-allies-deliver-on-promises-to-increase-military-spending",
+      "publishedAt": "Mon, 06 Jul 2026 18:55:45 -0400",
+      "snippet": "President Trump is departing for a pivotal summit with NATO allies after a year in which he's questioned European countries' sovereignty and doubted the alliance's very utility. Nick Schifrin reports from Ankara, Turkey, where the NATO summit will take place.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH LIVE: Trump officially launches Trump Accounts for kids, ringing Wall Street opening bell",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-trump-officially-launches-trump-accounts-for-kids-ringing-wall-street-opening-bell",
-      "publishedAt": "Mon, 06 Jul 2026 09:26:33 -0400",
-      "snippet": "With high inflation hurting Trump's popularity, the Republican president has tried to get more Americans to focus on their 401(k) investments, claiming that his policies should get the credit for any gains, particularly as the November midterm elections draw closer.",
+      "title": "News Wrap: Funeral held for Iran's late Supreme Leader",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-funeral-held-for-irans-late-supreme-leader",
+      "publishedAt": "Mon, 06 Jul 2026 18:50:21 -0400",
+      "snippet": "In our news wrap Monday, hundreds of thousands attended a funeral procession for Iran's late Supreme Leader Ayatollah Ali Khamenei, Hamas dissolved its government in Gaza as it prepares to transfer power, officials in the Democratic Republic of the Congo say more than 500 people ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "White House report brands Smithsonian leadership as radical activists who can't be trusted",
-      "link": "https://www.pbs.org/newshour/politics/white-house-report-brands-smithsonian-leadership-as-radical-activists-who-cant-be-trusted",
-      "publishedAt": "Sun, 05 Jul 2026 18:21:08 -0400",
-      "snippet": "The report released late on Independence Day by the White House Domestic Policy Council comes in the midst of Trump's aggressive campaign to overhaul some of Washington's most sacred cultural and historic institutions.",
+      "title": "U.S. World Cup star's suspension lifted after Trump's call to FIFA president",
+      "link": "https://www.pbs.org/newshour/show/u-s-world-cup-stars-suspension-lifted-after-trumps-call-to-fifa-president",
+      "publishedAt": "Mon, 06 Jul 2026 18:45:26 -0400",
+      "snippet": "The United States takes on Belgium Monday with star striker Folarin Balogun on the pitch. Balogun was given a red card in last week's game against Bosnia and Herzegovina, meaning he would miss the next game. But President Trump intervened and FIFA reversed Balogun's suspension. A",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "AP report: FIFA lifts U.S. player Balogun's red card suspension at World Cup after Trump calls Infantino",
-      "link": "https://www.pbs.org/newshour/world/ap-report-fifa-lifts-u-s-player-baloguns-red-card-suspension-at-world-cup-after-trump-calls-infantino",
-      "publishedAt": "Sun, 05 Jul 2026 17:46:53 -0400",
-      "snippet": "\"Thank you to FIFA for doing what was right, and reversing a great injustice!\" Trump said in a statement on social media.",
+      "title": "Who could benefit the most from Trump's investment accounts for children",
+      "link": "https://www.pbs.org/newshour/show/who-could-benefit-the-most-from-trumps-investment-accounts-for-children",
+      "publishedAt": "Mon, 06 Jul 2026 18:40:17 -0400",
+      "snippet": "Trump Accounts are officially open. They're the first federal tax-advantaged investment accounts for kids. Some 87 companies, foundations, individuals and states have announced contributions to the accounts. The question is, can they deliver the benefits that are being promoted? ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "National Guard members on patrol in Memphis fatally shoot man during pursuit, police say",
-      "link": "https://www.pbs.org/newshour/nation/national-guard-members-on-patrol-in-memphis-fatally-shoot-man-during-pursuit-police-say",
-      "publishedAt": "Sun, 05 Jul 2026 17:16:46 -0400",
-      "snippet": "The soldiers in Memphis were responding with local police to reports of gunshots around 4 a.m. when they began pursuing an armed man fleeing on foot, the city's police department said.",
+      "title": "Trump administration takes major steps to roll back gun regulations",
+      "link": "https://www.pbs.org/newshour/show/trump-administration-takes-major-steps-to-roll-back-gun-regulations",
+      "publishedAt": "Mon, 06 Jul 2026 18:35:13 -0400",
+      "snippet": "During his race for the White House, President Trump pledged to expand Second Amendment rights nationwide. Now his administration is taking major steps to roll back gun restrictions put into place for public safety. Justice correspondent Ali Rogin discussed the administration's e",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide",
-      "link": "https://www.pbs.org/newshour/world/7-opec-countries-agree-to-expand-monthly-oil-production-modestly-as-prices-slide",
-      "publishedAt": "Sun, 05 Jul 2026 15:50:40 -0400",
-      "snippet": "The Organization of the Petroleum Exporting Countries and its allies announced on Sunday that seven countries would expand oil production by a combined total of 188,000 barrels per day in August.",
+      "title": "Tamara Keith and Carrie Dann on Platner facing calls to drop out of Maine Senate race",
+      "link": "https://www.pbs.org/newshour/show/tamara-keith-and-carrie-dann-on-platner-facing-calls-to-drop-out-of-maine-senate-race",
+      "publishedAt": "Mon, 06 Jul 2026 18:30:03 -0400",
+      "snippet": "NPR's Tamara Keith and Carrie Dann of the Cook Political Report join Amna Nawaz to discuss the latest political news, including Democrats in Maine scrambling and calling on Graham Platner to drop out of the Senate race as a sexual assault accuser comes forward, the direction of t",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Democrat Mallory McMorrow suspends her Michigan Senate campaign and scrambles the pivotal race",
-      "link": "https://www.pbs.org/newshour/politics/democrat-mallory-mcmorrow-suspends-her-michigan-senate-campaign-and-scrambles-the-pivotal-race",
-      "publishedAt": "Sun, 05 Jul 2026 15:20:06 -0400",
-      "snippet": "McMorrow's exit comes after many Democrats increasingly viewed her as a long shot for the nomination. It also creates a fresh dynamic in one of the country's most closely watched Senate races.",
+      "title": "What to know as ticks spread to new regions and bring new threats",
+      "link": "https://www.pbs.org/newshour/show/what-to-know-as-ticks-spread-to-new-regions-and-bring-new-threats",
+      "publishedAt": "Mon, 06 Jul 2026 18:25:29 -0400",
+      "snippet": "It's summertime, and ticks are out in full force. While in certain parts of the country, ticks have long been an issue, they're now spreading to new regions and bringing new threats. William Brangham discussed the blood-sucking terrors with Holly Gaff, a mathematical ecologist wh",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Unbearable heat suspected in 19 New Jersey deaths as high temperatures give way to thunderstorms",
-      "link": "https://www.pbs.org/newshour/nation/unbearable-heat-suspected-in-19-new-jersey-deaths-as-high-temperatures-give-way-to-thunderstorms",
-      "publishedAt": "Sun, 05 Jul 2026 14:45:17 -0400",
-      "snippet": "New Jersey officials said Saturday that they began seeing what they believe are heat-related deaths as early as Thursday with most occurring in the central and northern parts of the state.",
+      "title": "NATO chief demands allies present credible plans to reach defense spending targets",
+      "link": "https://www.pbs.org/newshour/world/nato-chief-demands-allies-present-credible-plans-to-reach-defense-spending-targets",
+      "publishedAt": "Mon, 06 Jul 2026 18:22:46 -0400",
+      "snippet": "NATO Secretary-General Mark Rutte on Monday demanded that members put forward \"clear, concrete and credible plans\" to reach the organization's defense spending targets at its annual summit in Ankara.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing",
-      "link": "https://www.pbs.org/newshour/world/nato-chief-faces-challenge-at-summit-as-trump-demands-loyalty-and-not-just-burden-sharing",
-      "publishedAt": "Sun, 05 Jul 2026 14:24:19 -0400",
-      "snippet": "Since he started work as NATO secretary-general almost two years ago, Mark Rutte has spent much of his time trying to keep the United States anchored to the world's biggest military alliance.",
+      "title": "Adam Met's Brief But Spectacular take on building fan-based movements",
+      "link": "https://www.pbs.org/newshour/show/adam-mets-brief-but-spectacular-take-on-building-fan-based-movements",
+      "publishedAt": "Mon, 06 Jul 2026 18:20:54 -0400",
+      "snippet": "Adam Met is best known as the bassist of the multi-platinum band AJR. But offstage, he's a climate scholar, educator and advocate. His recent book, \"Amplify: How to Use the Power of Connection to Engage, Take Action, and Build a Better World,\" explores how connection drives actio",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Residents in eastern Congo cling to hope as a new Ebola treatment trial begins",
-      "link": "https://www.pbs.org/newshour/world/residents-in-eastern-congo-cling-to-hope-as-a-new-ebola-treatment-trial-begins",
-      "publishedAt": "Sun, 05 Jul 2026 14:10:25 -0400",
-      "snippet": "At the Ebola treatment center inside Bunia's Evangelical Medical Center, in eastern Congo's Ituri province, the launch of the research was marked by urgency rather than ceremony.",
+      "title": "Canada selects German company to build submarine fleet as it boosts NATO spending",
+      "link": "https://www.pbs.org/newshour/world/canada-selects-german-company-to-build-submarine-fleet-as-it-boosts-nato-spending",
+      "publishedAt": "Mon, 06 Jul 2026 18:13:24 -0400",
+      "snippet": "The decision Monday came before Prime Minister Mark Carney headed to this week's NATO summit, where allies face pressure to back higher defense spending with concrete plans.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump's administration won't seek new bids to repair the Reflecting Pool",
-      "link": "https://www.pbs.org/newshour/politics/trumps-administration-wont-seek-new-bids-to-repair-the-reflecting-pool",
-      "publishedAt": "Sun, 05 Jul 2026 12:30:18 -0400",
-      "snippet": "Like President Donald Trump, Interior Secretary Doug Burgum said he was 100% sure that vandals caused the damage to the century-old Reflecting Pool on the National Mall.",
+      "title": "A new ICE facility could speed up deportations for families and kids",
+      "link": "https://www.pbs.org/newshour/politics/a-new-ice-facility-could-speed-up-deportations-for-families-and-kids",
+      "publishedAt": "Mon, 06 Jul 2026 17:56:53 -0400",
+      "snippet": "The Trump administration plans to open a 528-bed holding center for migrant families and unaccompanied children awaiting removal from the U.S., putting it next to a Louisiana airfield that has become the nation's largest hub of deportation flights.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Khamenei's other sons appear at his funeral in Iran as new supreme leader remains in hiding",
-      "link": "https://www.pbs.org/newshour/world/khameneis-other-sons-appear-at-his-funeral-in-iran-as-new-supreme-leader-remains-in-hiding",
-      "publishedAt": "Sun, 05 Jul 2026 12:12:14 -0400",
-      "snippet": "The funeral was in part a show of unity and defiance as Iran demands a measure of control over the Strait of Hormuz, a vital waterway for global energy that it shut down during the war.",
+      "title": "Cristiano Ronaldo's World Cup career ends after Mikel Merino's late goal sends Spain to quarterfinals",
+      "link": "https://www.pbs.org/newshour/world/cristiano-ronaldos-world-cup-career-ends-after-mikel-merinos-late-goal-sends-spain-to-quarterfinals",
+      "publishedAt": "Mon, 06 Jul 2026 17:54:28 -0400",
+      "snippet": "Spain advanced to the quarterfinals for the first time since winning its only World Cup title in 2010. La Roja will play either the United States or Belgium on Friday in Inglewood, California.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Trump delivers keynote address at 'Salute to America 250' event on the National Mall",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-delivers-keynote-address-at-salute-to-america-250-event-on-the-national-mall",
-      "publishedAt": "Sun, 05 Jul 2026 11:48:42 -0400",
-      "snippet": "Speaking in Washington after storms prompted a roughly two-hour evacuation of the National Mall, Trump honored veterans, including several from World War II and one of the first Black officers to lead a Special Forces team in combat in Vietnam.",
+      "title": "WATCH: Trump says Sikorsky is paying for a 'beautiful' granite helipad at the White House",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-sikorsky-is-paying-for-a-beautiful-granite-helipad-at-the-white-house",
+      "publishedAt": "Mon, 06 Jul 2026 17:41:44 -0400",
+      "snippet": "President Donald Trump said Monday that he's building a granite helipad on the White House lawn, insisting that the landing area is needed to accommodate new, more powerful presidential choppers.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Wildfires rage in Portugal, Greece and Spain while Greek authorities warn of toxic smoke",
-      "link": "https://www.pbs.org/newshour/world/wildfires-rage-in-portugal-greece-and-spain-while-greek-authorities-warn-of-toxic-smoke",
-      "publishedAt": "Sun, 05 Jul 2026 11:43:20 -0400",
-      "snippet": "Authorities urged residents in parts of Thessaloniki, Greece's second largest city, to remain indoors and shut their windows and doors due to toxic smoke from a burning recycling plant that was engulfed by a wildfire.",
+      "title": "Maine Senate candidate Platner says campaign is deciding 'best path forward' after new sexual assault allegation",
+      "link": "https://www.pbs.org/newshour/politics/maine-senate-candidate-platner-says-campaign-is-deciding-best-path-forward-after-new-sexual-assault-allegation",
+      "publishedAt": "Mon, 06 Jul 2026 16:35:49 -0400",
+      "snippet": "A woman who previously dated Maine Senate candidate Graham Platner said he drunkenly forced her to have sex after she told him to stop, according to a new Politico report.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Fireworks, heat, hot dogs and politics: America celebrates its 250th birthday",
-      "link": "https://www.pbs.org/newshour/nation/fireworks-heat-hot-dogs-and-politics-america-celebrates-its-250th-birthday",
-      "publishedAt": "Sat, 04 Jul 2026 18:01:44 -0400",
-      "snippet": "President Donald Trump plans to speak on the National Mall before what is being billed as a historically enormous fireworks show that will rain down over the nation's capital.",
+      "title": "Prince Harry's UK trip sparks media buzz over whether Meghan and kids will join him",
+      "link": "https://www.pbs.org/newshour/world/prince-harrys-uk-trip-sparks-media-buzz-over-whether-meghan-and-kids-will-join-him",
+      "publishedAt": "Mon, 06 Jul 2026 16:09:22 -0400",
+      "snippet": "King Charles III's estranged son is traveling to the land of his birth for a series of charity engagements that begin Tuesday.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "A child can drown in seconds. Doctors want more families to be prepared",
-      "link": "https://www.pbs.org/newshour/health/a-child-can-drown-in-seconds-doctors-want-more-families-to-be-prepared",
-      "publishedAt": "Sat, 04 Jul 2026 17:22:40 -0400",
-      "snippet": "About 4,000 to 5,000 Americans drown each year. Most are adults who die in natural bodies of water, such as lakes, ponds or oceans.",
+      "title": "As heat wave breaks, flash flood warnings issued for parts of New York City and Northeast",
+      "link": "https://www.pbs.org/newshour/nation/as-heat-wave-breaks-flash-flood-warnings-issued-for-parts-of-new-york-city-and-northeast",
+      "publishedAt": "Mon, 06 Jul 2026 15:59:02 -0400",
+      "snippet": "Flash flood warnings were issued Monday for parts of New York, Philadelphia and New Jersey as rounds of storms moved through the area.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Pope marks July 4 by praying in Lampedusa for migrants who died seeking freedom and prosperity",
-      "link": "https://www.pbs.org/newshour/world/pope-marks-july-4-by-praying-in-lampedusa-for-migrants-who-died-seeking-freedom-and-prosperity",
-      "publishedAt": "Sat, 04 Jul 2026 15:41:36 -0400",
-      "snippet": "In a letter sent to Americans on the July 4 anniversary, Leo insisted that protecting the unborn and all human life also means \"welcoming, protecting and assisting immigrants, whose hopes, sacrifices and contribution have formed part of the history of this country from its very b",
+      "title": "WATCH: Trump talks about White House renovation projects, Nicki Minaj at Rose Garden luncheon",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-talks-about-white-house-renovation-projects-nicki-minaj-at-rose-garden-luncheon",
+      "publishedAt": "Mon, 06 Jul 2026 15:54:21 -0400",
+      "snippet": "President Donald Trump said Monday he's putting \"a lot of love\" back into the White House.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Searing heat and storms mar holiday with 3 children dead in Wisconsin and utility outages widespread",
-      "link": "https://www.pbs.org/newshour/nation/searing-heat-and-storms-mar-holiday-with-3-children-dead-in-wisconsin-and-utility-outages-widespread",
-      "publishedAt": "Sat, 04 Jul 2026 15:22:44 -0400",
-      "snippet": "The tragedy in Wisconsin's Walworth County in a part of Southern Wisconsin that has long served as a favorite vacation getaway for residents of the Chicago area came with a storm that downed trees, ruptured power lines and made transportation treacherous and complicated across mu",
+      "title": "Affordable Care Act enrollment shrank dramatically in many states over the past year, new federal data shows",
+      "link": "https://www.pbs.org/newshour/health/affordable-care-act-enrollment-shrank-dramatically-in-many-states-over-the-past-year-new-federal-data-shows",
+      "publishedAt": "Mon, 06 Jul 2026 15:51:53 -0400",
+      "snippet": "Ohio and Oklahoma each lost nearly one-third of enrollees, according to new federal data that provides the first complete 50-state breakdown of sharp enrollment declines following the expiration of enhanced subsidies.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Far-right Alternative for Germany party reelects leaders as protesters and police clash",
-      "link": "https://www.pbs.org/newshour/world/far-right-alternative-for-germany-party-reelects-leaders-as-protesters-and-police-clash",
-      "publishedAt": "Sat, 04 Jul 2026 14:07:37 -0400",
-      "snippet": "Alternative for Germany, or AfD, sought to show unity as it voted to extend the terms of Alice Weidel and Tino Chrupalla, who have headed it for four years as co-leaders and ran unopposed Saturday.",
+      "title": "McConnell is 'continuing his recovery,' but details are scarce after a lengthy hospital stay",
+      "link": "https://www.pbs.org/newshour/politics/mcconnell-is-continuing-his-recovery-but-details-are-scarce-after-a-lengthy-hospital-stay",
+      "publishedAt": "Mon, 06 Jul 2026 15:36:38 -0400",
+      "snippet": "According to his staff, McConnell was admitted to the hospital on June 14.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Fireworks, heat and drought put this Fourth of July at high risk for wildfires",
-      "link": "https://www.pbs.org/newshour/nation/fireworks-heat-and-drought-put-this-fourth-of-july-at-high-risk-for-wildfires",
-      "publishedAt": "Sat, 04 Jul 2026 13:22:01 -0400",
-      "snippet": "Fireworks, from bottle rockets to Roman candles, start a lot of fires in the U.S. every year – 32,000 of them in 2023 alone. And each year there is a clear spike in human-caused fires on July 4.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Lionel Messi scores 20th World Cup goal, extends streak to 8 games and takes Golden Boot lead",
-      "link": "https://www.pbs.org/newshour/world/lionel-messi-scores-20th-world-cup-goal-extends-streak-to-8-games-and-takes-golden-boot-lead",
-      "publishedAt": "Sat, 04 Jul 2026 12:50:23 -0400",
-      "snippet": "Messi's goal in the 29th minute was the 20th of his World Cup career, extending his record and moving him two ahead of France's Kylian Mbappé on the all-time list.",
+      "title": "WATCH: Trump says he never talks to his kids about business as president but 'I think I'm allowed to'",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-he-never-talks-to-his-kids-about-business-as-president-but-i-think-im-allowed-to",
+      "publishedAt": "Mon, 06 Jul 2026 15:28:47 -0400",
+      "snippet": "President Donald Trump also offered a dubious history lesson, suggesting that, as president, George Washington had two desks — one for business matters and another for the presidency.",
       "tier": 1
     },
     {
@@ -440,10 +440,58 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Philippine Senate launches impeachment trial of Sara Duterte",
-      "link": "https://www.dw.com/en/philippine-senate-launches-impeachment-trial-of-sara-duterte/a-77848392?maca=en-rss-en-top-1022-rdf",
+      "title": "Microsoft to cut thousands of jobs, Xbox to be hit hard",
+      "link": "https://www.dw.com/en/microsoft-to-cut-thousands-of-jobs-xbox-to-be-hit-hard/a-77857704?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The trial against Sara Duterte is the latest escalation in a bitter feud between the Philippines&apos; leading political dynasties. The proceedings could have major implications for the country&apos;s 2028 presidential elections.",
+      "snippet": "The move will affect the company&apos;s gaming division, which has been facing the outcome of a \"not healthy\" business model. The jobs cut will not be replaced by AI, Microsoft&apos;s VP said.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Canada awards Germany major submarine contract",
+      "link": "https://www.dw.com/en/canada-awards-germany-major-submarine-contract/a-77857391?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Canadian PM Carney said the deal of up to 12 German-built submarines will be the \"largest in Canadian history.\" Germany had pushed hard for the order, which comes as Canada seeks stronger ties with Europe.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "NATO chief boasts European spending ahead of key summit",
+      "link": "https://www.dw.com/en/nato-chief-boasts-european-spending-ahead-of-key-summit/a-77857033?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Under pressure from Washington, the impetus is on European NATO members at this week&apos;s summit in Ankara to show they can deliver on defense spending commitments.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Emmanuel Macron visits Syria, 18 months after Assad&apos;s fall",
+      "link": "https://www.dw.com/en/emmanuel-macron-visits-syria-18-months-after-assad-s-fall/a-77856791?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The French president landed in Damascus on Monday evening. He&apos;s the first EU leader to visit the country since Bashar Assad&apos;s sudden downfall and the rise of former militant turned President Ahmed al-Sharaa.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Senegal&apos;s power struggle: Referendum to decide on constitutional reform",
+      "link": "https://www.dw.com/en/senegal-s-power-struggle-referendum-to-decide-on-constitutional-reform/a-77809238?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Senegal&apos;s constitional reform has caused considerable political uproar. The public will now be asked to vote on the proposed amendments. Under a new constitution, the powers of President Faye would be reduced.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Spain&apos;s &apos;running of the bulls&apos; festival opens in Pamplona",
+      "link": "https://www.dw.com/en/spain-s-running-of-the-bulls-festival-opens-in-pamplona/a-77855360?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Revelers poured red wine and held traditional red scarfs for the \"Chupinazo,\" the opening of a festival in northern Spain where hundreds of people are chased through narrow streets by massive fighting bulls.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Austrian court convicts 2 former Syrian officials of abuse",
+      "link": "https://www.dw.com/en/austrian-court-convicts-2-former-syrian-officials-of-abuse/a-77853458?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A Vienna court has convicted two former Syrian security officials, including the former intelligence chief in Raqqa, for offenses including torture and sexual assault against opponents of Bashar Assad&apos;s regime.",
       "tier": 2
     },
     {
@@ -452,6 +500,54 @@
       "link": "https://www.dw.com/en/world-cup-2026-trump-fifa-and-the-balogun-controversy/a-77848357?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "One of the few certainties of World Cup football has been rocked after Donald Trump lobbied FIFA to overturn a US red card suspension. The decision has caused outrage but it isn&apos;t completely without precedent.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Can India, Europe build a clean energy supply chain beyond China?",
+      "link": "https://www.dw.com/en/can-india-europe-build-a-clean-energy-supply-chain-beyond-china/a-77852031?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "With China dominating every step of the solar energy production chain, governments in India and Europe are looking to reduce their overreliance on a single supplier.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Weapons of long-ago conflicts still haunt people of Laos",
+      "link": "https://www.dw.com/en/weapons-of-long-ago-conflicts-still-haunt-people-of-laos/a-77851853?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As decommissioning teams seek out unexploded ordnance in paddy fields, forests and rural pastures, Laos prepares to host a review conference of the Convention on Cluster Munitions.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why migrants come to Germany for work and then leave again",
+      "link": "https://www.dw.com/en/why-migrants-come-to-germany-for-work-and-then-leave-again/a-77853162?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany has long attracted skilled workers to its labor market. The country has been much less successful at retaining them. So what is Germany doing wrong?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "From north to south, Africa braces for volatile El Nino year",
+      "link": "https://www.dw.com/en/from-north-to-south-africa-braces-for-volatile-el-nino-year/a-77826694?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The World Meteorological Association warns that the El Nino climate phenomenon could bring drought, floods and displacement to parts of Africa later this year. Are governments prepared?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Firefighters battle wildfires across southern Europe",
+      "link": "https://www.dw.com/en/firefighters-battle-wildfires-across-southern-europe/a-77851007?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Wildfires are raging across several parts of southern Europe. They come on the heels of massive heat waves in much of the region.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Philippine Senate launches impeachment trial of Sara Duterte",
+      "link": "https://www.dw.com/en/philippine-senate-launches-impeachment-trial-of-sara-duterte/a-77848392?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The trial against Sara Duterte is the latest escalation in a bitter feud between the Philippines&apos; leading political dynasties. The proceedings could have major implications for the country&apos;s 2028 presidential elections.",
       "tier": 2
     },
     {
@@ -492,102 +588,6 @@
       "link": "https://www.dw.com/en/china-tests-long-range-missile-in-south-pacific/a-77844998?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Beijing carried out the launch in what is known as a nuclear-free zone due to a longstanding treaty against testing nuclear missiles in the area.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why heat waves heighten the risk of blackouts",
-      "link": "https://www.dw.com/en/why-heat-waves-heighten-the-risk-of-blackouts/a-77824609?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "When extreme heat hits, people turn to AC, but what if the grid fails? From France to the US, heat waves are pushing power systems to the limit, raising blackout risks and energy prices when electricity is needed most.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Chinese Tianwen-2 space probe reaches asteroid for sampling",
-      "link": "https://www.dw.com/en/chinese-tianwen-2-space-probe-reaches-asteroid-for-sampling/a-77843539?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After a yearlong flight of a billion kilometers, a Chinese space probe is set to take samples from an asteroid. The mission is part of what President Xi Jinping calls the country&apos;s \"space dream.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Mumbai building collapse kills six, as heavy rains batter city",
-      "link": "https://www.dw.com/en/india-news-mumbai-building-collapse-kills-six-as-heavy-rains-batter-city/live-77843416?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Heavy monsoon rains triggered building collapses, landslides and widespread transport disruption in India&apos;s financial capital, with forecasters warning of more rain. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Federal Cabinet to approve draft 2027 budget",
-      "link": "https://www.dw.com/en/germany-news-federal-cabinet-to-approve-draft-2027-budget/live-77843535?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The budget draft provides for more borrowing than initially planned, as well as a big increase in defense spending. Meanwhile, three men are facing trial over a massive stash of illegal weapons. Follow DW for more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "European space telescope Euclid spots oldest quasars yet",
-      "link": "https://www.dw.com/en/european-space-telescope-euclid-spots-oldest-quasars-yet/a-77824462?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Think of quasars as time machines. Rare but revealing. They are light from the beginnings of the universe that let astronomers investigate how early galaxies formed.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Australia, Fiji sign defense pact to counter China in Pacific",
-      "link": "https://www.dw.com/en/australia-fiji-sign-defense-pact-to-counter-china-in-pacific/a-77842223?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Fiji, which had grown closer to Beijing under its former leadership, will now consult Canberra on security developments.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine: Several killed in renewed attacks on Kyiv",
-      "link": "https://www.dw.com/en/ukraine-several-killed-in-renewed-attacks-on-kyiv/a-77841452?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "At least 12 people were killed when Russian ballistic missiles hit the Ukrainian capital. This follows the large-scale attack on Kyiv last Thursday.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Super Typhoon Bavi hits US Pacific islands",
-      "link": "https://www.dw.com/en/super-typhoon-bavi-hits-us-pacific-islands/a-77840713?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Super Typhoon Bavi made landfall near Guam, a US territory located in the western Pacific Ocean. The storm brought powerful winds and heavy rain to the Northern Mariana Islands.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "World Cup: Trump thanks FIFA for suspending Balogun&apos;s red card ban",
-      "link": "https://www.dw.com/en/world-cup-trump-thanks-fifa-for-suspending-balogun-s-red-card-ban/a-77840972?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump reportedly called Gianni Infantino to ask him to lift Falorin Balogun&apos;s red card ban to allow him to play against Belgium. The Belgian FA has called the decision \"astonishing.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Far-right AfD reaffirms ambition to govern Germany",
-      "link": "https://www.dw.com/en/far-right-afd-reaffirms-ambition-to-govern-germany/a-77840272?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The AfD has strengthened its hardline leadership despite ongoing scrutiny from Germany&apos;s domestic intelligence agencies. Co-leader Alice Weidel says the far-right party is ready to govern after strong polling gains.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Wildfires rage in Portugal, Greece, France and Spain",
-      "link": "https://www.dw.com/en/wildfires-rage-in-portugal-greece-france-and-spain/a-77839526?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Six countries in southern Europe have been hit by wildfires. One of the blazes, in southwestern France, could affect Monday&apos;s third stage of the Tour de France, authorities warn.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Turkey steps up arrests ahead of NATO summit",
-      "link": "https://www.dw.com/en/turkey-steps-up-arrests-ahead-of-nato-summit/a-77839766?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Journalists, academics and members of left-wing groups have reportedly been detained during police raids in several Turkish provinces. Turkey&apos;s capital Ankara is set to host a major NATO summit this week.",
       "tier": 2
     }
   ]
