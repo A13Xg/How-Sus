@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T13:08:44.330Z",
+  "generatedAt": "2026-07-11T00:54:22.269Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,34 +32,90 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 23:18:18 GMT",
-      "snippet": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
+      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 14:08:26 GMT",
+      "snippet": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 20:47:41 GMT",
-      "snippet": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 23:03:11 GMT",
+      "snippet": "They think democracy has run its course - so they're setting up their own nations instead.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
       "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 10:42:13 GMT",
-      "snippet": "Headed for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+      "publishedAt": "Fri, 10 Jul 2026 13:53:11 GMT",
+      "snippet": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Man 'nearly sucked out of window mid-air' on Ryanair plane, passengers say",
+      "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+      "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 23:02:59 GMT",
+      "snippet": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Zulu king expresses regret after video captures tirade against his wife",
+      "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 16:42:11 GMT",
+      "snippet": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+      "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 22:38:03 GMT",
+      "snippet": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
       "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 12:31:08 GMT",
-      "snippet": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.",
+      "publishedAt": "Fri, 10 Jul 2026 16:42:24 GMT",
+      "snippet": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+      "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 21:30:57 GMT",
+      "snippet": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 00:17:54 GMT",
+      "snippet": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 22:54:16 GMT",
+      "snippet": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 00:17:15 GMT",
+      "snippet": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
       "tier": 1
     },
     {
@@ -72,98 +128,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
-      "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 12:38:38 GMT",
-      "snippet": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
+      "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
+      "link": "https://www.bbc.co.uk/news/articles/cx238gzzy74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 15:50:49 GMT",
+      "snippet": "Wells' body was found in the water near Mississippi's Horn Island days after he went on a boating trip there with friends.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-      "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 15:21:17 GMT",
-      "snippet": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
+      "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 00:46:15 GMT",
+      "snippet": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-      "link": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 14:37:19 GMT",
-      "snippet": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+      "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
+      "link": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 00:00:42 GMT",
+      "snippet": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-      "link": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 16:15:10 GMT",
-      "snippet": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "link": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 21:04:09 GMT",
-      "snippet": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
-      "link": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 17:01:15 GMT",
-      "snippet": "A former US Olympian canoeist denies accusations that he deliberately damaged the lining of the refurbished Lincoln Memorial Reflecting Pool.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
-      "link": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 20:40:11 GMT",
-      "snippet": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Wealthy AI workers send San Francisco house prices soaring",
-      "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 23:11:35 GMT",
-      "snippet": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Arizona toddler found alive in morgue after being declared dead from drowning",
-      "link": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 20:18:13 GMT",
-      "snippet": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Nato allies announce £37bn for new missile project",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 05:57:53 GMT",
-      "snippet": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
-      "link": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 08:49:45 GMT",
-      "snippet": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-      "link": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 15:09:08 GMT",
-      "snippet": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
+      "title": "Twelve men and 12 women enter a Buddhist temple - will the monks help them find love?",
+      "link": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 22:02:09 GMT",
+      "snippet": "Dating can be hard in South Korea. A group of monks hope a 30-hour rural retreat can help.",
       "tier": 1
     },
     {
@@ -176,18 +168,58 @@
     },
     {
       "source": "BBC World",
-      "title": "All the best looks from Paris Haute Couture Week 2026",
-      "link": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 09 Jul 2026 23:07:47 GMT",
-      "snippet": "Scorching temperatures in the French capital accompanied the hottest week in haute couture.",
+      "title": "Watch: Inside the 30-hour dating retreat run by monks",
+      "link": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 22:02:42 GMT",
+      "snippet": "Forget coffee or drinks, the latest dating trend in South Korea takes place somewhere very different, a Buddhist temple.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "We've saved £6,000 on holidays by swapping homes with strangers",
-      "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 08:26:00 GMT",
-      "snippet": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
+      "title": "Boxy forms and odd lights: US declassifies more UFO files",
+      "link": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 15:28:17 GMT",
+      "snippet": "The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
+      "link": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 18:04:39 GMT",
+      "snippet": "A Ukrainian intelligence agent who confessed to killing the woman suspected of trying to assassinate a multimillionaire in Monaco, has now claimed he did not pull the trigger.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins",
+      "publishedAt": "Fri, 10 Jul 2026 17:22:01 -0400",
+      "snippet": "In his withdrawal notice, Platner said \"people are desperate for change\" and that&apos;s why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Patriotic art gets the spotlight as NEA funding shifts. Cue &apos;The Ronald Reagan Overture&apos;",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5870578/ronald-reagan-250th-patriotic-art",
+      "publishedAt": "Fri, 10 Jul 2026 16:00:00 -0400",
+      "snippet": "Patriotic art and music is taking center stage this year under the Trump Administration, as funds shift away from DEI. For some orgs, like the Reagan Presidential Library, this is their wheelhouse.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
+      "publishedAt": "Fri, 10 Jul 2026 15:08:57 -0400",
+      "snippet": "Lorenzo Salgado Araujo was a 52-year-old Mexican national who worked in construction for more than three decades. The father of three was shot by Immigration and Customs Enforcement agents after they attempted to pull him over.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "A major housing bill is set to become law at midnight — even though Trump says he won&apos;t sign",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature",
+      "publishedAt": "Fri, 10 Jul 2026 10:55:21 -0400",
+      "snippet": "President Trump says he is refusing to sign the bill without Congress first passing his sweeping voter ID bill.",
       "tier": 1
     },
     {
@@ -216,34 +248,10 @@
     },
     {
       "source": "NPR News",
-      "title": "Shelling at night, gunfire by day in Israel&apos;s expanding zone of control in Gaza",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
-      "publishedAt": "Fri, 10 Jul 2026 05:00:00 -0400",
-      "snippet": "When the U.S. brokered a ceasefire last year, Israel controlled half of Gaza. Now Israeli forces have pushed deeper, and Palestinians are paying a deadly price.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
       "title": "Count Binface: The intergalactic warrior who could upend Britain&apos;s strangest election",
       "link": "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election",
       "publishedAt": "Fri, 10 Jul 2026 05:00:00 -0400",
       "snippet": "Meet Count Binface: the challenger from another planet taking on Nigel Farage as questions over the Reform UK leader&apos;s finances overshadow his election comeback.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount",
-      "publishedAt": "Fri, 10 Jul 2026 05:00:00 -0400",
-      "snippet": "Many schools rely on consumer fees funneled through the federal government to cut internet costs. FCC Chairman Brendan Carr called for ending this program before Donald Trump tapped him for the job.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Trump leans on &apos;communist&apos; messaging as economic angst drives Democrats",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5876512/trump-communist-messaging-economy-democrats",
-      "publishedAt": "Fri, 10 Jul 2026 05:00:00 -0400",
-      "snippet": "During the last election, when struggling to find a memorable attack line against Kamala Harris, Trump eventually landed on \"Comrade Kamala.\"",
       "tier": 1
     },
     {
@@ -256,178 +264,170 @@
     },
     {
       "source": "NPR News",
-      "title": "One of Spain&apos;s deadliest wildfires kills at least 12 people, with 23 others missing",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5888160/southern-spain-wildfire-almeria",
-      "publishedAt": "Fri, 10 Jul 2026 04:53:37 -0400",
-      "snippet": "Several victims of the fire in the southern province of Almeria, a popular holiday destination, were found inside burnt-out vehicles and were thought to have died while trying to flee the flames.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5883698/morning-news-brief",
-      "publishedAt": "Fri, 10 Jul 2026 04:49:10 -0400",
-      "snippet": "Fighting between U.S. and Iran appears to have stopped as Iran buried its Supreme Leader, TPS holders close to losing work permits, investigation continues into Mississippi teen&apos;s death.",
+      "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
+      "publishedAt": "Fri, 10 Jul 2026 05:00:00 -0400",
+      "snippet": "When the U.S. brokered a ceasefire last year, Israel controlled half of Gaza. Now Israeli forces have pushed deeper, and Palestinians are paying a deadly price.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How to protect your pets from the New World screwworm fly",
-      "link": "https://www.pbs.org/newshour/health/how-to-protect-your-pets-from-the-new-world-screwworm-fly",
-      "publishedAt": "Thu, 09 Jul 2026 19:45:31 -0400",
-      "snippet": "Two New World screwworm cases in dogs are among more than 30 confirmed instances in Texas and New Mexico, prompting warnings Wednesday from veterinarians and humane societies that pet owners need to remain vigilant to protect their animals.",
+      "title": "The EPA promised a MAHA agenda. It has yet to materialize, frustrating activists",
+      "link": "https://www.pbs.org/newshour/politics/the-epa-promised-a-maha-agenda-it-has-yet-to-materialize-frustrating-activists",
+      "publishedAt": "Fri, 10 Jul 2026 19:39:56 -0400",
+      "snippet": "After Make America Healthy Again activists drew up a petition to get him fired, EPA administrator Lee Zeldin pledged to release a formal agenda of MAHA priorities his agency would pursue. But eight months after its first mention, the so-called MAHA agenda is nowhere to be found.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Suspected Ebola patient put in Equatorial Guinea hotel with deportees from U.S., lawyers say",
-      "link": "https://www.pbs.org/newshour/world/suspected-ebola-patient-put-in-equatorial-guinea-hotel-with-deportees-from-u-s-lawyers-say",
-      "publishedAt": "Thu, 09 Jul 2026 19:31:30 -0400",
-      "snippet": "Migrants deported from the U.S. and detained in a hotel in Equatorial Guinea say that authorities there also have used the facility to quarantine at least one suspected Ebola patient, deportees and lawyers representing them said Thursday.",
+      "title": "Apple files lawsuit against OpenAI, accusing ChatGPT maker of stealing trade secrets",
+      "link": "https://www.pbs.org/newshour/nation/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secrets",
+      "publishedAt": "Fri, 10 Jul 2026 19:25:03 -0400",
+      "snippet": "Apple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between the iPhone maker and the artificial intelligence company.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Orb&aacute;n allies protest in Hungary against new prime minister's plans to oust President Sulyok",
-      "link": "https://www.pbs.org/newshour/world/orban-allies-protest-in-hungary-against-new-prime-ministers-plans-to-oust-president-sulyok",
-      "publishedAt": "Thu, 09 Jul 2026 19:21:41 -0400",
-      "snippet": "After defeating Orbán in a blowout election in April, bringing an end to his 16 years in power, Hungary's new pro-European prime minister, Péter Magyar, has taken action to dismantle what he calls Orbán's \"mafia\" by removing numerous political appointees and heads of institutions",
+      "title": "Graham Platner submits notice to formally withdraw from Maine Senate race",
+      "link": "https://www.pbs.org/newshour/politics/graham-platner-submits-notice-to-formally-withdraw-from-maine-senate-race",
+      "publishedAt": "Fri, 10 Jul 2026 19:19:21 -0400",
+      "snippet": "Maine is considered a key state for control of the narrowly divided Senate, and Democrats were desperate for a candidate capable of defeating Republican Sen. Susan Collins.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Renewed U.S.-Iran fighting threatens shipping and hopes of ending war",
-      "link": "https://www.pbs.org/newshour/show/renewed-u-s-iran-fighting-threatens-shipping-and-hopes-of-ending-war",
-      "publishedAt": "Thu, 09 Jul 2026 18:55:32 -0400",
-      "snippet": "The U.S.-Iran ceasefire is on the brink after another exchange of fire. Wednesday night, U.S. Central Command said it completed a new round of strikes against Iran. Neither side appears ready to return to talks, and Iran has not said it will allow free passage through the Strait ",
+      "title": "A look at the new regulations and incentives in the housing bill set to become law",
+      "link": "https://www.pbs.org/newshour/show/a-look-at-the-new-regulations-and-incentives-in-the-housing-bill-set-to-become-law",
+      "publishedAt": "Fri, 10 Jul 2026 18:55:19 -0400",
+      "snippet": "A sweeping new housing bill is set to become law, even without the president's signature. The measure passed Congress with bipartisan support, but President Trump refused to sign it in protest of the GOP Senate's failure to approve his election legislation, known as the SAVE Act.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Olympian pleads not guilty on Reflecting Pool damage charges",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-olympian-pleads-not-guilty-on-reflecting-pool-damage-charges",
-      "publishedAt": "Thu, 09 Jul 2026 18:50:26 -0400",
-      "snippet": "In our news wrap Thursday, three-time Olympic canoe racer David Hearn pleaded not guilty on charges he deliberately damaged the Reflecting Pool in Washington, Ukraine struck more energy targets inside Russia with long-range drones and authorities in southern China say flooding ha",
+      "title": "What we know about Mitch McConnell's health and hospitalization",
+      "link": "https://www.pbs.org/newshour/show/what-we-know-about-mitch-mcconnells-health-and-hospitalization",
+      "publishedAt": "Fri, 10 Jul 2026 18:53:30 -0400",
+      "snippet": "There are questions surrounding the health of Sen. Mitch McConnell after the Kentucky Republican's hospitalization on June 14. Lisa Desjardins reports on what we know.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Democrats search for Maine Senate candidate after allegations force Platner out",
-      "link": "https://www.pbs.org/newshour/show/democrats-search-for-maine-senate-candidate-after-allegations-force-platner-out",
-      "publishedAt": "Thu, 09 Jul 2026 18:45:09 -0400",
-      "snippet": "Maine Democrats are scrambling to pick a new Senate candidate as the scandal-plagued winner of last month's primary says he's withdrawing from the race. Graham Platner announced his decision to step away following new allegations of sexual assault. The Democrats have just 18 days",
+      "title": "Trump fires election commission members in latest attempt to control voting process",
+      "link": "https://www.pbs.org/newshour/show/trump-fires-election-commission-members-in-latest-attempt-to-control-voting-process",
+      "publishedAt": "Fri, 10 Jul 2026 18:50:00 -0400",
+      "snippet": "With planning for the midterm elections well underway, President Trump has ousted the remaining members of a bipartisan federal agency that helps state and local officials run smooth elections and certify voting equipment. White House correspondent Liz Landers explains what happe",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Rahm Emanuel on criticizing Netanyahu, calling for new approach to U.S.-Israel ties",
-      "link": "https://www.pbs.org/newshour/show/rahm-emanuel-on-criticizing-netanyahu-calling-for-new-approach-to-u-s-israel-ties",
-      "publishedAt": "Thu, 09 Jul 2026 18:40:23 -0400",
-      "snippet": "Rahm Emanuel delivered a pointed message in Tel Aviv about the future of the U.S.-Israel relationship. It comes as American public opinion, and the Democratic Party itself, are increasingly divided over support for Israel. Emanuel criticized Netanyahu's government, called for a n",
+      "title": "What we know about death of Nolan Wells, Black teen who went missing on Mississippi boat trip",
+      "link": "https://www.pbs.org/newshour/nation/what-we-know-about-death-of-nolan-wells-black-teen-who-went-missing-on-mississippi-boat-trip",
+      "publishedAt": "Fri, 10 Jul 2026 18:49:04 -0400",
+      "snippet": "The family of Nolan Wells, a Black teenager who was found dead after going missing on an island in Mississippi, made an emotional plea Friday for an honest, thorough investigation in a case that has captured national attention over its unanswered questions. \"We just want to know ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Some Medicare beneficiaries eligible for weight loss drug discounts",
-      "link": "https://www.pbs.org/newshour/show/some-medicare-beneficiaries-eligible-for-weight-loss-drug-discounts",
-      "publishedAt": "Thu, 09 Jul 2026 18:35:40 -0400",
-      "snippet": "The number of Americans taking a GLP-1 drug for weight loss is on the rise. A new Gallup poll shows 11% of adults say they are currently using one, a dramatic increase from just two years ago when just 3% said they were using them. That number could climb even higher as Medicare ",
+      "title": "News Wrap: DHS says man killed by ICE was not target of immigration operation",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-dhs-says-man-killed-by-ice-was-not-target-of-immigration-operation",
+      "publishedAt": "Fri, 10 Jul 2026 18:45:07 -0400",
+      "snippet": "In our news wrap Friday, the Department of Homeland Security says the man killed by an ICE agent in Houston was not the intended target of an immigration enforcement operation, the family of the teenager who died off the coast of Mississippi is calling for a thorough investigatio",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "As diplomacy stalls, families worry Americans imprisoned by Iran are forgotten",
-      "link": "https://www.pbs.org/newshour/show/as-diplomacy-stalls-families-worry-americans-imprisoned-by-iran-are-forgotten",
-      "publishedAt": "Thu, 09 Jul 2026 18:30:52 -0400",
-      "snippet": "As tensions with Iran continue to escalate, another issue that remains unresolved is the Americans still imprisoned there. U.S. officials say those cases remain part of ongoing diplomacy, but families worry their loved ones could be overshadowed by the broader crisis. Amna Nawaz ",
+      "title": "Where trans advocates are focusing efforts after recent court defeats",
+      "link": "https://www.pbs.org/newshour/show/where-trans-advocates-are-focusing-efforts-after-recent-court-defeats",
+      "publishedAt": "Fri, 10 Jul 2026 18:40:12 -0400",
+      "snippet": "The Supreme Court wrapped up one of its most consequential terms for shaping LGBTQ rights. In one of the major decisions, the justices upheld state bans on transgender athletes in girls' and women's sports. But more challenges are already emerging. Liz Landers reports on the lega",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What political satire can reveal about the strength of a democracy",
-      "link": "https://www.pbs.org/newshour/show/what-political-satire-can-reveal-about-the-strength-of-a-democracy",
-      "publishedAt": "Thu, 09 Jul 2026 18:25:59 -0400",
-      "snippet": "Satire plays a powerful role in challenging authority, exposing hypocrisy and testing the boundaries of free expression. It's among the forces Judy Woodruff explores in the podcast, \"In Pursuit of Happiness.\" She sat down with The Onion Network's Joshua Johnson and scholar Sophia",
+      "title": "Dry winter leaves farmers along Colorado River facing greater water shortages",
+      "link": "https://www.pbs.org/newshour/show/dry-winter-leaves-farmers-along-colorado-river-facing-greater-water-shortages",
+      "publishedAt": "Fri, 10 Jul 2026 18:35:24 -0400",
+      "snippet": "This past winter was an extraordinarily dry one in the western U.S. A lack of snowpack that normally feeds the Colorado River has only deepened the impact of a drought affecting tens of millions in seven states and Mexico. Accelerated by climate change, the drought is taking a bi",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Hermanos Guti&eacute;rrez perform 'Los Ojos del C&oacute;ndor' and reveal inspiration for new album",
-      "link": "https://www.pbs.org/newshour/show/hermanos-gutierrez-perform-los-ojos-del-condor-and-reveal-inspiration-for-new-album",
-      "publishedAt": "Thu, 09 Jul 2026 18:20:15 -0400",
-      "snippet": "The music of Hermanos Gutiérrez carries listeners across imagined landscapes, blending Latin, surf rock, folk and cinematic Western sounds into new instrumental journeys. Now the brothers are turning their gaze homeward, drawing on the traditions of their family's roots in Ecuado",
+      "title": "Brooks and Capehart on what's next for Democrats in the Maine Senate race",
+      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-whats-next-for-democrats-in-the-maine-senate-race",
+      "publishedAt": "Fri, 10 Jul 2026 18:30:39 -0400",
+      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including the fallout from this week's shakeup in the Maine Senate race, President Trump's comments at the NATO summit and Rahm Emanuel's criticism of Israeli Prime Mi",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What's next for immigrants with TPS after Supreme Court ruling?",
-      "link": "https://www.pbs.org/newshour/politics/whats-next-for-immigrants-with-tps-status-after-supreme-court-ruling",
-      "publishedAt": "Thu, 09 Jul 2026 18:14:20 -0400",
-      "snippet": "The legal status of nearly 1.3 million immigrants facing war or environmental disasters in their home countries is up in the air following a U.S. Supreme Court ruling on the Temporary Protected Status (TPS) program. In a 6-3 decision, the high court ruled last month that the Home",
+      "title": "Metro rider recounts encounter with Patriot Front members in D.C.",
+      "link": "https://www.pbs.org/newshour/show/metro-rider-recounts-encounter-with-patriot-front-members-in-d-c",
+      "publishedAt": "Fri, 10 Jul 2026 18:25:28 -0400",
+      "snippet": "America's 250th birthday produced memorable images of fireworks and military aircraft flying over D.C. monuments. But one set of photos has gained notoriety for other reasons. They capture masked members of the white supremacist Patriot Front group marching through parts of Washi",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "8 men indicted on conspiracy charges over planned attack on White House UFC event",
-      "link": "https://www.pbs.org/newshour/nation/8-men-indicted-on-conspiracy-charges-over-planned-attack-on-white-house-ufc-event",
-      "publishedAt": "Thu, 09 Jul 2026 17:44:34 -0400",
-      "snippet": "Eight men were indicted on murder and terrorism conspiracy charges Thursday for their alleged roles in a thwarted drone and sniper attack on the UFC cage-fighting show staged at the White House in June.",
+      "title": "'The Pitt' actress Brittany Allen on betting on herself and earning an Emmy nomination",
+      "link": "https://www.pbs.org/newshour/show/the-pitt-actress-brittany-allen-on-betting-on-herself-and-earning-an-emmy-nomination",
+      "publishedAt": "Fri, 10 Jul 2026 18:20:00 -0400",
+      "snippet": "For working actors, even a standout role on a hit show doesn't guarantee recognition. After HBO chose not to submit Brittany Allen for Emmy consideration for her guest role on \"The Pitt,\" she took matters into her own hands by submitting herself. The bet paid off, and she's now a",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Wally Funk, aviation pioneer who was oldest woman to travel into space, dies at 87",
-      "link": "https://www.pbs.org/newshour/science/wally-funk-aviation-pioneer-who-was-oldest-woman-to-travel-into-space-dies-at-87",
-      "publishedAt": "Thu, 09 Jul 2026 17:21:52 -0400",
-      "snippet": "Funk was one of 13 female pilots who went through the same tests as NASA's all-male astronaut corps in the early 1960s but never made it into space. In 2021, she got her chance aboard Amazon founder Jeff Bezos' Blue Origin rocket.",
+      "title": "This new bill hopes to 'put the brakes' on financial fraud targeting older Americans",
+      "link": "https://www.pbs.org/newshour/nation/this-new-bill-hopes-to-put-the-brakes-on-financial-fraud-targeting-older-americans",
+      "publishedAt": "Fri, 10 Jul 2026 18:09:15 -0400",
+      "snippet": "Financial abuse cost older victims nearly $2.4 billion in 2024, according to incidents reported to the Federal Trade Commission.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Judge dismisses suit challenging Sen. Tuberville's eligibility to run for Alabama governor",
-      "link": "https://www.pbs.org/newshour/politics/judge-dismisses-suit-challenging-sen-tubervilles-eligibility-to-run-for-alabama-governor",
-      "publishedAt": "Thu, 09 Jul 2026 17:12:13 -0400",
-      "snippet": "A judge on Thursday dismissed a lawsuit alleging U.S. Sen. Tommy Tuberville does not meet the residency requirement to run for governor of Alabama.",
+      "title": "Man partly sucked out of broken window on flight from Greece was pulled back by passengers",
+      "link": "https://www.pbs.org/newshour/world/man-partly-sucked-out-of-broken-window-on-flight-from-greece-was-pulled-back-by-passengers",
+      "publishedAt": "Fri, 10 Jul 2026 16:46:00 -0400",
+      "snippet": "The incident happened on a morning flight from the northern Greek city of Thessaloniki to Memmingen, near Munich, which was operated by Ryanair subsidiary Malta Air.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "New attacks raise questions about what comes next in the Iran war",
-      "link": "https://www.pbs.org/newshour/world/new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
-      "publishedAt": "Thu, 09 Jul 2026 16:46:25 -0400",
-      "snippet": "Whether it is a negotiation tactic or a signal of an escalation in fighting, mediators are scrambling to save the interim deal and the actions risk further inflaming tensions.",
+      "title": "Illnesses surge in quake-hit Venezuelan communities as humanitarian crisis builds",
+      "link": "https://www.pbs.org/newshour/world/illnesses-surge-in-quake-hit-venezuelan-communities-as-humanitarian-crisis-builds",
+      "publishedAt": "Fri, 10 Jul 2026 16:22:49 -0400",
+      "snippet": "Doctors treating people in the northern state of La Guaira on Thursday reported an increase in skin conditions and diarrheal diseases, as well as of requests for medications for the treatment of chronic illnesses, including diabetes and high blood pressure.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: White House columns appear to be Trump's latest project",
-      "link": "https://www.pbs.org/newshour/politics/watch-white-house-columns-appear-to-be-trumps-latest-project",
-      "publishedAt": "Thu, 09 Jul 2026 16:37:11 -0400",
-      "snippet": "Crews have draped tarps over the towering stone columns on the north side of the White House, where work is underway to scrape away decades of paint.",
+      "title": "Wildfire devastates southern Spain expat community, killing at least 12 with 23 missing",
+      "link": "https://www.pbs.org/newshour/world/wildfire-devastates-southern-spain-expat-community-killing-at-least-12-with-23-missing",
+      "publishedAt": "Fri, 10 Jul 2026 16:09:02 -0400",
+      "snippet": "The blaze, one of Spain's deadliest wildfires, broke out late Thursday in a semi-arid area near the Sierra de Los Filabres mountains in Almeria province, as the country has been dealing with soaring temperatures.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Mexico to seek criminal charges over deaths linked to ICE after fatal shooting of Houston man",
-      "link": "https://www.pbs.org/newshour/world/mexico-to-seek-criminal-charges-over-deaths-linked-to-ice-after-fatal-shooting-of-houston-man",
-      "publishedAt": "Thu, 09 Jul 2026 16:27:51 -0400",
-      "snippet": "Mexican Foreign Minister Roberto Velasco's announcement Thursday morning further escalated tensions with the United States, as Mexico's government has sharply criticized the treatment of its citizens under U.S. President Donald Trump's push to increase deportations.",
+      "title": "In any language: English speakers are tuning into World Cup broadcasts in Spanish",
+      "link": "https://www.pbs.org/newshour/world/in-any-language-english-speakers-are-tuning-into-world-cup-broadcasts-in-spanish",
+      "publishedAt": "Fri, 10 Jul 2026 15:13:08 -0400",
+      "snippet": "A sizable number of English-speaking people in the U.S. are doing something these days that might be considered a bit surprising: They're watching broadcasts of World Cup matches in Spanish on Telemundo, even though they have little idea — or in some cases, no idea — what the ann",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "South Florida's Palm Beach airport renamed President Donald J. Trump International",
-      "link": "https://www.pbs.org/newshour/politics/south-floridas-palm-beach-airport-renamed-president-donald-j-trump-international",
-      "publishedAt": "Thu, 09 Jul 2026 16:16:57 -0400",
-      "snippet": "Signs for the Palm Beach International Airport have been removed, while new signage goes up.",
+      "title": "Lawyers for man charged with killing Charlie Kirk try to sow doubt about DNA evidence",
+      "link": "https://www.pbs.org/newshour/nation/lawyers-for-man-charged-with-killing-charlie-kirk-try-to-sow-doubt-about-dna-evidence",
+      "publishedAt": "Fri, 10 Jul 2026 14:31:04 -0400",
+      "snippet": "A Utah judge is deciding whether prosecutors have enough evidence to put Robinson on trial on a charge of aggravated murder.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Democratic socialist Francesca Hong tests how far left voters will go in battleground Wisconsin",
-      "link": "https://www.pbs.org/newshour/politics/democratic-socialist-francesca-hong-tests-how-far-left-voters-will-go-in-battleground-wisconsin",
-      "publishedAt": "Thu, 09 Jul 2026 16:13:35 -0400",
-      "snippet": "Over the last month, Democratic socialists have notched victories in the liberal strongholds of New York City, Washington, D.C., and Denver.",
+      "title": "Crews are draining the Lincoln Memorial Reflecting Pool again as part of Trump's troubled revamp",
+      "link": "https://www.pbs.org/newshour/politics/crews-are-draining-the-lincoln-memorial-reflecting-pool-again-as-part-of-trumps-troubled-revamp",
+      "publishedAt": "Fri, 10 Jul 2026 14:08:23 -0400",
+      "snippet": "The president at first suggested his renovations would last a century. But, within weeks of the project originally reaching completion last month, the water was beset by an algae bloom and pieces of the new coating appeared to be peeling off the bottom.",
       "tier": 1
     },
     {
@@ -436,6 +436,102 @@
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Apple sues OpenAI over stealing &apos;trade secrets&apos;",
+      "link": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Apple has accused the company behind ChatGPT and two of its former employees of misappropriating its trade secrets to benefit OpenAI&apos;s foray into consumer hardware.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nigerian military rescues 46 abducted school children",
+      "link": "https://www.dw.com/en/nigerian-military-rescues-46-abducted-school-children/a-77912381?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The children were abducted some two months ago at three schools in the town of Orire in Nigeria&apos;s southwestern Oyo state.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "EU threatens Meta with hefty fine over &apos;addictive design&apos;",
+      "link": "https://www.dw.com/en/eu-threatens-meta-with-hefty-fine-over-addictive-design/a-77912229?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A preliminary investigation by the bloc has found the social media giant is not doing enough to protect children using its platforms. Meta rejects the accusations, which could cost it 6% of its annual revenue in fines.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: Bundestag passes controversial healthcare reform",
+      "link": "https://www.dw.com/en/germany-bundestag-passes-controversial-healthcare-reform/live-77899497?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The cost-cutting package has passed Germany&apos;s parliament despite fierce criticism from the opposition. Meanwhile, Alexander Zverev has become the first German man to reach the Wimbledon final since 1995. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Mayor of Berlin says he won&apos;t run for reelection",
+      "link": "https://www.dw.com/en/mayor-of-berlin-says-he-won-t-run-for-reelection/a-77910019?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Berlin Mayor Kai Wegner withdrew from the reelection race this fall. His decision to play tennis during the power outage in January was among missteps that has dented his reputation.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "UK police arrest murder suspect in Ann Widdecombe&apos;s death",
+      "link": "https://www.dw.com/en/uk-police-arrest-murder-suspect-in-ann-widdecombe-s-death/a-77910345?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Police in southwest England say they have arrested a 26-year-old man on suspicion of murdering politician Ann Widdecombe. Based on initial inquiries, they were not treating the case as terrorism or politically motivated.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump signals support for Patriot production in Ukraine",
+      "link": "https://www.dw.com/en/trump-signals-support-for-patriot-production-in-ukraine/a-77909681?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US President Donald Trump says he may let Ukraine produce Patriot air defense missiles. Analysts welcome the move as a sign of support for the country — but warn it could take years before production begins.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine&apos;s Bidnyi &apos;outraged&apos; by Russia&apos;s Olympic return",
+      "link": "https://www.dw.com/en/ukraine-s-bidnyi-outraged-by-russia-s-olympic-return/a-77903308?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In exclusive comments to DW, Ukraine&apos;s sports minister, Matviy Bidnyi, said he is outraged by the IOC opening the door to Russia&apos;s return to the Olympics",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Spain: Wildfire kills several amid heat wave",
+      "link": "https://www.dw.com/en/spain-wildfire-kills-several-amid-heat-wave/a-77898335?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The victims include British and other foreign nationals, authorities have said. The Spanish royal family and Prime Minister Pedro Sanchez expressed their deep sorrow over the loss of life.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Passenger partly sucked from Ryanair plane during flight",
+      "link": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A man was nearly sucked out the cabin window on a Ryanair flight from Greece to Germany. An initial loud bang was followed by a desperate rescue effort to save the passenger.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "When London stank to high heaven",
+      "link": "https://www.dw.com/en/when-london-stank-to-high-heaven/a-77892633?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In 1858, London sweltered through an unbearable heat wave. The River Thames reeked so badly it left people gasping for air. \"The Great Stink\" went down in history — and ultimately gave London a modern sewer system.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Vietnam&apos;s baby bonuses unlikely to stop the aging clock",
+      "link": "https://www.dw.com/en/vietnam-s-baby-bonuses-unlikely-to-stop-the-aging-clock/a-77901363?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Vietnam has joined Southeast Asia&apos;s push to raise birth rates, but experts say the greater challenge lies in adapting economies and welfare systems to an aging population.",
       "tier": 2
     },
     {
@@ -460,14 +556,6 @@
       "link": "https://www.dw.com/en/why-the-world-cup-can-be-good-for-your-mental-health/a-77889619?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The World Cup can offer more than just entertainment, it can also benefit your mental well-being. DW explains why.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: Bundestag passes controversial healthcare reform",
-      "link": "https://www.dw.com/en/germany-bundestag-passes-controversial-healthcare-reform/live-77899497?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The cost-cutting package passed Germany&apos;s lower house, with protests against it expected to take place. Elsewhere, Foreign Minister Johann Wadephul will meet his Slovenian counterpart in Berlin. Follow DW for more.",
       "tier": 2
     },
     {
@@ -500,94 +588,6 @@
       "link": "https://www.dw.com/en/california-s-largest-lake-is-turning-to-dust/a-77864212?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The Salton Sea is drying up, worsening air pollution for people living near its shores. Authorities are working to stabilize the lakebed and lock down the dust. But for some families, it&apos;s too late.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Prime Minister Modi embarks on maiden trip to New Zealand",
-      "link": "https://www.dw.com/en/india-news-prime-minister-modi-embarks-on-maiden-trip-to-new-zealand/live-77899386?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Indian Prime Minister Narendra Modi is concluding a tri-country tour with a visit to New Zealand. On his docket are bilateral talks on trade, commerce and defense. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: Former supreme leader buried amid new escalation",
-      "link": "https://www.dw.com/en/iran-war-former-supreme-leader-buried-amid-new-escalation/live-77899274?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Iran buried the late Ayatollah Ali Khamenei following six days of funeral proceedings and amid a renewed escalation. Meanwhile, some tankers continue transiting the Strait of Hormuz. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bayeux Tapestry arrives in British Museum for historic exhibition",
-      "link": "https://www.dw.com/en/bayeux-tapestry-arrives-in-british-museum-for-historic-exhibition/a-77899496?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After nearly 1,000 years, the medieval masterpiece is back on British soil. The Bayeux Tapestry was transferred from France to London in a highly secretive operation and will be on display in September.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Spain battles deadly wildfire amid heat wave",
-      "link": "https://www.dw.com/en/spain-battles-deadly-wildfire-amid-heat-wave/a-77898335?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Spain has mobilized military emergency units to work with regional firefighters to control the blaze. The Spanish royal family and Prime Minister Pedro Sanchez expressed their deep sorrow over the loss of life.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK: Police attempt to remove loyalist bonfire &apos;hate display&apos;",
-      "link": "https://www.dw.com/en/uk-police-attempt-to-remove-loyalist-bonfire-hate-display/a-77898043?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A loyalist bonfire in Northern Ireland was lit a day early before police could remove a replica mosque from its top. Political and religious leaders had condemned what organizers insisted was a \"political protest.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US: Charlie Kirk murder suspect &apos;regretted&apos; act, roommate says",
-      "link": "https://www.dw.com/en/us-charlie-kirk-murder-suspect-regretted-act-roommate-says/a-77896524?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Prosecutors in the Charlie Kirk murder case released details from an interview with the suspect&apos;s roommate, where he allegedly admitted to the murder and that he regretted it.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Mali rebels attack convoy of soldiers, Russian mercenaries",
-      "link": "https://www.dw.com/en/mali-rebels-attack-convoy-of-soldiers-russian-mercenaries/a-77895811?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The convoy was bringing hundreds of personnel in reinforcement in northern Mali, where the Malian army and Russian paramilitaries are fighting jihadist and separatist militants.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU lawmakers pave way for &apos;digital euro&apos; negotiations",
-      "link": "https://www.dw.com/en/eu-lawmakers-pave-way-for-digital-euro-negotiations/a-77895581?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The digital euro has been touted as the EU&apos;s best chance at breaking its dependence on US payment systems like Visa and Mastercard, as well as Apple Pay and Google Pay.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine denies involvement in Nord Stream blasts",
-      "link": "https://www.dw.com/en/ukraine-denies-involvement-in-nord-stream-blasts/a-77894652?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ukraine&apos;s prosecutor general proposed forming a joint investigative team with Germany. Berlin has indicted a former Ukrainian soldier over the blasts and says he was working on behalf of Ukrainian entities.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Abbas sets Palestinian legislative elections for November",
-      "link": "https://www.dw.com/en/abbas-sets-palestinian-legislative-elections-for-november/a-77890456?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Palestinian Authority has announced it will soon hold its first elections in twenty years. However, questions remain about whether it has the means and legitimacy to do so.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Africa: Driven home by anti-migrant protests",
-      "link": "https://www.dw.com/en/south-africa-driven-home-by-anti-migrant-protests/a-77889650?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Two women tell DW how anti-migrant protests upended their lives in South Africa, forcing them to return to Zambia and rebuild from scratch.",
       "tier": 2
     }
   ]
