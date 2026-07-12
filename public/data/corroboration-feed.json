@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T12:41:53.137Z",
+  "generatedAt": "2026-07-12T00:59:35.837Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,50 +32,106 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 11:42:46 GMT",
-      "snippet": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 00:15:22 GMT",
+      "snippet": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "China's second typhoon in a week makes landfall",
+      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 17:41:56 GMT",
+      "snippet": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 23:58:40 GMT",
+      "snippet": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 16:11:33 GMT",
+      "snippet": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
       "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 09:01:15 GMT",
+      "publishedAt": "Sat, 11 Jul 2026 15:03:45 GMT",
       "snippet": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Meet the crypto billionaires building a world where money buys you a vote",
-      "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 23:03:11 GMT",
-      "snippet": "They think democracy has run its course - so they're setting up their own nations instead.",
+      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 21:56:52 GMT",
+      "snippet": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "China braced for second typhoon in a week as Bavi approaches landfall",
-      "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 12:06:47 GMT",
-      "snippet": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 18:00:09 GMT",
+      "snippet": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Tourist speedboat capsizes in Vietnam, killing 15",
+      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
+      "link": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 00:49:24 GMT",
+      "snippet": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "South Africa World Cup midfielder Adams dies aged 25",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 14:47:47 GMT",
+      "snippet": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+      "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 14:19:34 GMT",
+      "snippet": "\"I feel happy and elated… I feel joy,\" the head of the local teachers' union tells the BBC.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
       "link": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 12:05:57 GMT",
+      "publishedAt": "Sat, 11 Jul 2026 13:44:03 GMT",
       "snippet": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 22:54:16 GMT",
-      "snippet": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+      "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+      "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 13:11:52 GMT",
+      "snippet": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Landmark US housing bill becomes law despite Trump protest",
+      "link": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 13:35:09 GMT",
+      "snippet": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
       "tier": 1
     },
     {
@@ -96,14 +152,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
-      "link": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 23:02:35 GMT",
-      "snippet": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Meta pulls new AI image feature after days of backlash",
       "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 11 Jul 2026 01:45:59 GMT",
@@ -120,74 +168,66 @@
     },
     {
       "source": "BBC World",
-      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 22:38:03 GMT",
-      "snippet": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 22:54:16 GMT",
+      "snippet": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "New species named after Cape Verde goalkeeper Vozinha",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 19:30:06 GMT",
-      "snippet": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
+      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
+      "link": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 23:27:31 GMT",
+      "snippet": "With men’s fertility increasingly in the spotlight, we meet the men using unproven “hacks” promoted by influencers to up their sperm counts.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 00:17:15 GMT",
-      "snippet": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
+      "title": "How men with female surnames are standing up to ridicule in Kenya",
+      "link": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 23:27:45 GMT",
+      "snippet": "Children often inherit their father's first name as a surname, but traditions are changing and causing upset.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 13:53:11 GMT",
-      "snippet": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+      "source": "NPR News",
+      "title": "In a nailbiter, England moves on to the World Cup semifinals, defeating Norway 2-1",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5890169/2026-world-cup-fifa-england-norway-quarterfinal",
+      "publishedAt": "Sat, 11 Jul 2026 19:46:50 -0400",
+      "snippet": "England&apos;s Jude Bellingham has done it again. Scoring both of his team&apos;s goals in a thrilling quarterfinal against Norway that needed extra time. It was the first World Cup meeting between the two.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 16:42:24 GMT",
-      "snippet": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
+      "source": "NPR News",
+      "title": "Palestinian aid worker who organized World Cup screenings killed in Israeli strike",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike",
+      "publishedAt": "Sat, 11 Jul 2026 17:09:56 -0400",
+      "snippet": "Palestinians are mourning Mohammed al-Wahidi, a beloved aid worker in Gaza. He was killed by as Israeli airstrike while en route to a World Cup screening which he organized.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Zulu king expresses regret after video captures tirade against his wife",
-      "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 16:42:11 GMT",
-      "snippet": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+      "source": "NPR News",
+      "title": "This English professor has run with the bulls in Spain for two decades",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5887431/this-english-professor-has-run-with-the-bulls-in-spain-for-two-decades",
+      "publishedAt": "Sat, 11 Jul 2026 17:08:27 -0400",
+      "snippet": "When Bill Hillmann was 19 years old, he read Ernest Hemingway&apos;s The Sun Also Rises . That book inspired him to pursue two dreams: a career in literature and to run with the bulls in Pamplona, Spain.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "The photo that shows who's really on top in Le Pen's party",
-      "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 23:02:59 GMT",
-      "snippet": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
+      "source": "NPR News",
+      "title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
+      "link": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
+      "publishedAt": "Sat, 11 Jul 2026 12:35:24 -0400",
+      "snippet": "The Times says federal agents turned up on the doorsteps of several of its journalists to force grand jury testimony next week over their coverage of the Air Force One plane gifted to Trump by Qatar.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Dating can be hard in South Korea - so the monks stepped in",
-      "link": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 22:02:09 GMT",
-      "snippet": "Dating can be hard in South Korea. A group of monks hope a 30-hour rural retreat can help.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
-      "link": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 00:00:42 GMT",
-      "snippet": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
+      "source": "NPR News",
+      "title": "The biggest steam locomotive is whistle-stopping across the U.S.",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam",
+      "publishedAt": "Sat, 11 Jul 2026 11:14:42 -0400",
+      "snippet": "Huge crowds of train fans turn out as the 1940s era Big Boy steam locomotive is making a rare trip cross country.",
       "tier": 1
     },
     {
@@ -216,14 +256,6 @@
     },
     {
       "source": "NPR News",
-      "title": "Shy on the dance floor? Virtual reality &apos;partners&apos; aim to help you find your groove",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings",
-      "publishedAt": "Sat, 11 Jul 2026 05:00:00 -0400",
-      "snippet": "VR dance lesson apps like Dance Guru and Trip the Light offer a judgment-free way to learn partner dancing.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
       "title": "With the white nationalist group Patriot Front, what you see is not what you get",
       "link": "https://www.npr.org/2026/07/11/nx-s1-5888571/patriot-front-washington-dc",
       "publishedAt": "Sat, 11 Jul 2026 05:00:00 -0400",
@@ -232,42 +264,90 @@
     },
     {
       "source": "NPR News",
-      "title": "Spain edges Belgium and will face France in World Cup semifinal",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal",
-      "publishedAt": "Sat, 11 Jul 2026 02:58:56 -0400",
-      "snippet": "Spain and France will meet Tuesday in Arlington, Texas, in a matchup anticipated for years. Neither team has lost at this year&apos;s World Cup.",
+      "title": "Shy on the dance floor? Virtual reality &apos;partners&apos; aim to help you find your groove",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings",
+      "publishedAt": "Sat, 11 Jul 2026 05:00:00 -0400",
+      "snippet": "VR dance lesson apps like Dance Guru and Trip the Light offer a judgment-free way to learn partner dancing.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Trump threatens Iran after Ayatollah Ali Khamenei&apos;s funeral saw calls for his killing",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
-      "publishedAt": "Sat, 11 Jul 2026 02:34:09 -0400",
-      "snippet": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
+      "source": "PBS Headlines",
+      "title": "Guggenheim Museum among NYC buildings that tested positive for Legionnaires' amid disease outbreak",
+      "link": "https://www.pbs.org/newshour/health/guggenheim-museum-among-nyc-buildings-that-tested-positive-for-legionnaires-amid-disease-outbreak",
+      "publishedAt": "Sat, 11 Jul 2026 19:21:44 -0400",
+      "snippet": "The city health department on Friday released a list of 31 buildings on the Upper East Side that have been ordered to clean and disinfect their cooling towers as the city deals with the latest outbreak of the disease.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Trump administration rolls back a key protection for imperiled wildlife",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5890025/trump-administration-imperiled-wildlife",
-      "publishedAt": "Sat, 11 Jul 2026 01:48:40 -0400",
-      "snippet": "The Trump administration finalized a rule Friday that changes how agencies enforce the Endangered Species Act. The administration narrowed the definition of \"harm\" under the landmark law.",
+      "source": "PBS Headlines",
+      "title": "Sen. Whitehouse announces whistleblower allegations of construction problems at Kennedy Center",
+      "link": "https://www.pbs.org/newshour/politics/sen-whitehouse-announces-whistleblower-allegations-of-construction-problems-at-kennedy-center",
+      "publishedAt": "Sat, 11 Jul 2026 18:14:27 -0400",
+      "snippet": "Sheldon Whitehouse of Rhode Island said in a release on Saturday that he had received a whistleblower disclosure from the Government Accountability Project.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins",
-      "publishedAt": "Fri, 10 Jul 2026 17:22:01 -0400",
-      "snippet": "In his withdrawal notice, Platner said \"people are desperate for change\" and that&apos;s why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27.",
+      "source": "PBS Headlines",
+      "title": "Judge tosses remnants of Proud Boys seditious conspiracy case after Trump's broad clemency",
+      "link": "https://www.pbs.org/newshour/politics/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trumps-broad-clemency",
+      "publishedAt": "Sat, 11 Jul 2026 16:49:26 -0400",
+      "snippet": "The judge who presided over the Proud Boys leaders' trial saw no basis to preserve the convictions after Trump's sweeping act of clemency last year.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Patriotic art gets the spotlight as NEA funding shifts. Cue &apos;The Ronald Reagan Overture&apos;",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5870578/ronald-reagan-250th-patriotic-art",
-      "publishedAt": "Fri, 10 Jul 2026 16:00:00 -0400",
-      "snippet": "Patriotic art and music is taking center stage this year under the Trump Administration, as funds shift away from DEI. For some orgs, like the Reagan Presidential Library, this is their wheelhouse.",
+      "source": "PBS Headlines",
+      "title": "Rep. Ro Khanna says he was detained by the Israeli military and settlers in the West Bank",
+      "link": "https://www.pbs.org/newshour/politics/rep-ro-khanna-says-he-was-detained-by-the-israeli-military-and-settlers-in-the-west-bank",
+      "publishedAt": "Sat, 11 Jul 2026 15:37:13 -0400",
+      "snippet": "A representative for Khanna, a California Democrat who is an outspoken progressive, said the confrontation occurred Wednesday in the middle of a three-day tour of the West Bank.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "New York Times reporters are subpoenaed after Air Force One stories, raising press freedom concerns",
+      "link": "https://www.pbs.org/newshour/politics/new-york-times-reporters-are-subpoenaed-after-air-force-one-stories-raising-press-freedom-concerns",
+      "publishedAt": "Sat, 11 Jul 2026 13:13:39 -0400",
+      "snippet": "The subpoenas seek to force the reporters to testify before a federal grand jury in Manhattan next week, the Times said, adding that federal agents delivered some subpoenas to the reporters at their homes.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated",
+      "link": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated",
+      "publishedAt": "Sat, 11 Jul 2026 12:36:23 -0400",
+      "snippet": "Bavi previously brought strong winds and rain to Japan's southern islands and Taiwan. It was the second typhoon to impact China in just over a week's time.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "UK police make new arrest over killing of former politician Ann Widdecombe",
+      "link": "https://www.pbs.org/newshour/world/uk-police-release-man-arrested-over-killing-of-former-politician-ann-widdecombe",
+      "publishedAt": "Sat, 11 Jul 2026 12:14:10 -0400",
+      "snippet": "Devon and Cornwall Police said the suspect was arrested more than 200 miles from the southwest England village where Widdecombe was found dead.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Fate of Strait of Hormuz challenges talks as Trump and Iran's supreme leader trade threats",
+      "link": "https://www.pbs.org/newshour/world/fate-of-strait-of-hormuz-challenges-talks-as-trump-and-irans-supreme-leader-trade-threats",
+      "publishedAt": "Sat, 11 Jul 2026 12:01:44 -0400",
+      "snippet": "President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "U.S. citizen working for humanitarian organization in Congo tests positive for Ebola",
+      "link": "https://www.pbs.org/newshour/world/u-s-citizen-working-for-humanitarian-organization-in-congo-tests-positive-for-ebola",
+      "publishedAt": "Sat, 11 Jul 2026 11:36:11 -0400",
+      "snippet": "The CDC said it was working with the person's employer, U.S. agencies, the public health authorities and Congolese partners to prevent further transmission and identify close contacts.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Missouri flooding leaves one dead, while rescuers helicopter more than 200 to safety at summer camp",
+      "link": "https://www.pbs.org/newshour/nation/missouri-flooding-leaves-one-dead-while-rescuers-helicopter-more-than-200-to-safety-at-summer-camp",
+      "publishedAt": "Sat, 11 Jul 2026 11:22:34 -0400",
+      "snippet": "Several other states also faced the potential for severe thunderstorms and flash flooding as the slow moving storms moved southward.",
       "tier": 1
     },
     {
@@ -351,86 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Brooks and Capehart on what's next for Democrats in the Maine Senate race",
-      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-whats-next-for-democrats-in-the-maine-senate-race",
-      "publishedAt": "Fri, 10 Jul 2026 18:30:39 -0400",
-      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including the fallout from this week's shakeup in the Maine Senate race, President Trump's comments at the NATO summit and Rahm Emanuel's criticism of Israeli Prime Mi",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Metro rider recounts encounter with Patriot Front members in D.C.",
-      "link": "https://www.pbs.org/newshour/show/metro-rider-recounts-encounter-with-patriot-front-members-in-d-c",
-      "publishedAt": "Fri, 10 Jul 2026 18:25:28 -0400",
-      "snippet": "America's 250th birthday produced memorable images of fireworks and military aircraft flying over D.C. monuments. But one set of photos has gained notoriety for other reasons. They capture masked members of the white supremacist Patriot Front group marching through parts of Washi",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "'The Pitt' actress Brittany Allen on betting on herself and earning an Emmy nomination",
-      "link": "https://www.pbs.org/newshour/show/the-pitt-actress-brittany-allen-on-betting-on-herself-and-earning-an-emmy-nomination",
-      "publishedAt": "Fri, 10 Jul 2026 18:20:00 -0400",
-      "snippet": "For working actors, even a standout role on a hit show doesn't guarantee recognition. After HBO chose not to submit Brittany Allen for Emmy consideration for her guest role on \"The Pitt,\" she took matters into her own hands by submitting herself. The bet paid off, and she's now a",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "This new bill hopes to 'put the brakes' on financial fraud targeting older Americans",
-      "link": "https://www.pbs.org/newshour/nation/this-new-bill-hopes-to-put-the-brakes-on-financial-fraud-targeting-older-americans",
-      "publishedAt": "Fri, 10 Jul 2026 18:09:15 -0400",
-      "snippet": "Financial abuse cost older victims nearly $2.4 billion in 2024, according to incidents reported to the Federal Trade Commission.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Man partly sucked out of broken window on flight from Greece was pulled back by passengers",
-      "link": "https://www.pbs.org/newshour/world/man-partly-sucked-out-of-broken-window-on-flight-from-greece-was-pulled-back-by-passengers",
-      "publishedAt": "Fri, 10 Jul 2026 16:46:00 -0400",
-      "snippet": "The incident happened on a morning flight from the northern Greek city of Thessaloniki to Memmingen, near Munich, which was operated by Ryanair subsidiary Malta Air.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Illnesses surge in quake-hit Venezuelan communities as humanitarian crisis builds",
-      "link": "https://www.pbs.org/newshour/world/illnesses-surge-in-quake-hit-venezuelan-communities-as-humanitarian-crisis-builds",
-      "publishedAt": "Fri, 10 Jul 2026 16:22:49 -0400",
-      "snippet": "Doctors treating people in the northern state of La Guaira on Thursday reported an increase in skin conditions and diarrheal diseases, as well as of requests for medications for the treatment of chronic illnesses, including diabetes and high blood pressure.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Wildfire devastates southern Spain expat community, killing at least 12 with 23 missing",
-      "link": "https://www.pbs.org/newshour/world/wildfire-devastates-southern-spain-expat-community-killing-at-least-12-with-23-missing",
-      "publishedAt": "Fri, 10 Jul 2026 16:09:02 -0400",
-      "snippet": "The blaze, one of Spain's deadliest wildfires, broke out late Thursday in a semi-arid area near the Sierra de Los Filabres mountains in Almeria province, as the country has been dealing with soaring temperatures.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "In any language: English speakers are tuning into World Cup broadcasts in Spanish",
-      "link": "https://www.pbs.org/newshour/world/in-any-language-english-speakers-are-tuning-into-world-cup-broadcasts-in-spanish",
-      "publishedAt": "Fri, 10 Jul 2026 15:13:08 -0400",
-      "snippet": "A sizable number of English-speaking people in the U.S. are doing something these days that might be considered a bit surprising: They're watching broadcasts of World Cup matches in Spanish on Telemundo, even though they have little idea — or in some cases, no idea — what the ann",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Lawyers for man charged with killing Charlie Kirk try to sow doubt about DNA evidence",
-      "link": "https://www.pbs.org/newshour/nation/lawyers-for-man-charged-with-killing-charlie-kirk-try-to-sow-doubt-about-dna-evidence",
-      "publishedAt": "Fri, 10 Jul 2026 14:31:04 -0400",
-      "snippet": "A Utah judge is deciding whether prosecutors have enough evidence to put Robinson on trial on a charge of aggravated murder.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Crews are draining the Lincoln Memorial Reflecting Pool again as part of Trump's troubled revamp",
-      "link": "https://www.pbs.org/newshour/politics/crews-are-draining-the-lincoln-memorial-reflecting-pool-again-as-part-of-trumps-troubled-revamp",
-      "publishedAt": "Fri, 10 Jul 2026 14:08:23 -0400",
-      "snippet": "The president at first suggested his renovations would last a century. But, within weeks of the project originally reaching completion last month, the water was beset by an algae bloom and pieces of the new coating appeared to be peeling off the bottom.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,10 +440,66 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Spain wildfire: Firefighters begin to contain deadly blaze",
+      "link": "https://www.dw.com/en/spain-wildfire-firefighters-begin-to-contain-deadly-blaze/a-77919977?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Firefighters have started to rein in the wildfire in Spain&apos;s southern Andalusia region that killed 12 people. The affected region is home to one of the largest expat communities.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Heat is especially hard on people taking antidepressants",
+      "link": "https://www.dw.com/en/heat-is-especially-hard-on-people-taking-antidepressants/a-77912086?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "High temperatures can increase the risk of dizziness, dehydration, exhaustion and other heat-related problems for people taking antidepressants.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Typhoon Bavi hits China after battering Taiwan, Japan",
+      "link": "https://www.dw.com/en/typhoon-bavi-hits-china-after-battering-taiwan-japan/a-77914270?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Bavi has forced hundreds of thousands to evacuate in China, knocked out power in Japan and Taiwan, and triggered deadly landslides in the Philippines.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Vietnam: Indian tourists killed in boat capsize",
+      "link": "https://www.dw.com/en/vietnam-indian-tourists-killed-in-boat-capsize/a-77916717?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Indian embassy released the names of all 32 Indians who were aboard the boat that capsized near Phu Quoc island in Vietnam. At least 15 of them died.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: Left-wing group says it is behind railway sabotage",
+      "link": "https://www.dw.com/en/germany-left-wing-group-says-it-is-behind-railway-sabotage/a-77916758?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The \"Angry Birds Commando\" group said they placed incendiary devices on a railroad between the two busy cities of Cologne and Düsseldorf. The group blamed industrial technology for the destruction of the environment.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany&apos;s richest man takes on Big Tech",
+      "link": "https://www.dw.com/en/germany-s-richest-man-takes-on-big-tech/a-77893723?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Dieter Schwarz made his fortune from supermarkets, becoming Germany&apos;s wealthiest person. Now he wants to take on Google, Microsoft and Amazon and an entire region stands to benefit.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Russia hits Ukraine&apos;s Kyiv, Odesa in fresh attacks",
+      "link": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The strikes come with Ukraine running low on munitions needed to counter Russia&apos;s ballistic missiles. Ukrainian President Zelenskyy urged NATO members to deliver on promises made at the Ankara summit this week.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Iran&apos;s Mojtaba Khamenei vows revenge for father&apos;s killing",
       "link": "https://www.dw.com/en/iran-s-mojtaba-khamenei-vows-revenge-for-father-s-killing/live-77913349?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Iran&apos;s supreme leader said Iran \"demands\" retribution for his father&apos;s assassination in an airstrike. Meanwhile, Trump has threatened to \"completely decimate\" Iran should it attempt to assassinate him. DW has more.",
+      "snippet": "Iran&apos;s supreme leader said Iran \"demands\" retribution for his father&apos;s assassination in an airstrike. Meanwhile, Trump has threatened to \"completely decimate\" Iran should it attempt to assassinate him.",
       "tier": 2
     },
     {
@@ -452,14 +508,6 @@
       "link": "https://www.dw.com/en/india-news-telangana-man-accused-of-stalking-minor-kills-6/live-77915146?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "In Telangana, a man suspected of killing six people has absconded. The victims included a girl who had accused the suspect of stalking. Follow DW for more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Typhoon Bavi: Taiwan, Japan and China face disruption after 17 killed in Philippines",
-      "link": "https://www.dw.com/en/typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-philippines/a-77914270?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The storm has triggered deadly landslides in the Philippines, knocked out power in Japan and Taiwan, and forced hundreds of thousands to evacuate in China ahead of its expected landfall.",
       "tier": 2
     },
     {
@@ -540,54 +588,6 @@
       "link": "https://www.dw.com/en/germany-bundestag-passes-controversial-healthcare-reform/live-77899497?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The cost-cutting package has passed Germany&apos;s parliament despite fierce criticism from the opposition. Meanwhile, Alexander Zverev has become the first German man to reach the Wimbledon final since 1995. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Mayor of Berlin says he won&apos;t run for reelection",
-      "link": "https://www.dw.com/en/mayor-of-berlin-says-he-won-t-run-for-reelection/a-77910019?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Berlin Mayor Kai Wegner withdrew from the reelection race this fall. His decision to play tennis during the power outage in January was among missteps that has dented his reputation.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK police arrest murder suspect in Ann Widdecombe&apos;s death",
-      "link": "https://www.dw.com/en/uk-police-arrest-murder-suspect-in-ann-widdecombe-s-death/a-77910345?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Police in southwest England say they have arrested a 26-year-old man on suspicion of murdering politician Ann Widdecombe. Based on initial inquiries, they were not treating the case as terrorism or politically motivated.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump signals support for Patriot production in Ukraine",
-      "link": "https://www.dw.com/en/trump-signals-support-for-patriot-production-in-ukraine/a-77909681?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump says he may let Ukraine produce Patriot air defense missiles. Analysts welcome the move as a sign of support for the country — but warn it could take years before production begins.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine&apos;s Bidnyi &apos;outraged&apos; by Russia&apos;s Olympic return",
-      "link": "https://www.dw.com/en/ukraine-s-bidnyi-outraged-by-russia-s-olympic-return/a-77903308?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In exclusive comments to DW, Ukraine&apos;s sports minister, Matviy Bidnyi, said he is outraged by the IOC opening the door to Russia&apos;s return to the Olympics",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Spain: Wildfire kills several amid heat wave",
-      "link": "https://www.dw.com/en/spain-wildfire-kills-several-amid-heat-wave/a-77898335?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The victims include British and other foreign nationals, authorities have said. The Spanish royal family and Prime Minister Pedro Sanchez expressed their deep sorrow over the loss of life.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Passenger partly sucked from Ryanair plane during flight",
-      "link": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A man was nearly sucked out the cabin window on a Ryanair flight from Greece to Germany. An initial loud bang was followed by a desperate rescue effort to save the passenger.",
       "tier": 2
     }
   ]
