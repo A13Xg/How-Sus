@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T00:51:50.658Z",
+  "generatedAt": "2026-07-15T12:52:11.535Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,18 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
-      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 20:10:37 GMT",
-      "snippet": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 12:26:38 GMT",
+      "snippet": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 23:17:27 GMT",
+      "snippet": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
       "tier": 1
     },
     {
@@ -48,26 +56,90 @@
     },
     {
       "source": "BBC World",
+      "title": "Russian attacks kill six as Ukraine targets Black Sea oil tankers",
+      "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 12:19:30 GMT",
+      "snippet": "Overnight Russia attacked sites in Odesa and Sumy, while Ukraine attacked 20 Russian vessels in the Black Sea.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
+      "link": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 11:44:28 GMT",
+      "snippet": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "link": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 10:50:09 GMT",
+      "snippet": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Air India crash report likely to be ready in October, say investigators",
+      "link": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 09:45:21 GMT",
+      "snippet": "The crash killed 260 people, including 241 on board, with only one passenger surviving.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "China economic growth falls sharply, missing target",
+      "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 10:21:48 GMT",
+      "snippet": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Heatwave prompts Italy's delivery riders to strike for extra rights",
+      "link": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 11:38:37 GMT",
+      "snippet": "Delivery riders in Milan, Bologna and Florence want to protect their health and their wages.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Sierra Leone drops treason charge against ex-president over attempted coup",
+      "link": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 11:43:15 GMT",
+      "snippet": "Ernest Bai Koroma was arrested in 2023 after gunmen broke into an armoury and some jails, freeing inmates.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Seven Britons among those killed in Spain wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 12:21:32 GMT",
+      "snippet": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Boss of fake government agency arrested in Nigeria after weeks on the run",
+      "link": "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 09:42:09 GMT",
+      "snippet": "The case has gripped Nigeria since President Bola Tinubu ordered a corruption investigation last week.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "China detains US scientist who studied North Korea nuclear tests",
+      "link": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 02:14:37 GMT",
+      "snippet": "Chen Youlin's family says he has been wrongfully detained for nearly two years on spying charges.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Israeli strike on police post in north Gaza kills seven, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 14 Jul 2026 17:13:27 GMT",
       "snippet": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
-      "link": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 13:22:09 GMT",
-      "snippet": "Production will stop for two years at the mine which employs more than 4,000 people.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-      "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 19:40:23 GMT",
-      "snippet": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
       "tier": 1
     },
     {
@@ -80,10 +152,34 @@
     },
     {
       "source": "BBC World",
+      "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
+      "link": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 13:22:09 GMT",
+      "snippet": "Production will stop for two years at the mine which employs more than 4,000 people.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
       "link": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 14 Jul 2026 15:37:52 GMT",
       "snippet": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 19:40:23 GMT",
+      "snippet": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US Congress takes next step to make daylight saving time permanent",
+      "link": "https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 15 Jul 2026 11:30:44 GMT",
+      "snippet": "The House of Representatives passed a Trump-backed bill that would end decades of Americans having to reset their clocks twice a year.",
       "tier": 1
     },
     {
@@ -95,179 +191,91 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
-      "link": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 11:21:48 GMT",
-      "snippet": "The ministers claimed the piece, which cited their luxury bungalow deals, had tarnished their reputation.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
-      "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 05:00:03 GMT",
-      "snippet": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
-      "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 02:26:45 GMT",
-      "snippet": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Hungary parliament votes to remove president from office",
-      "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 20:39:14 GMT",
-      "snippet": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-      "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 18:52:46 GMT",
-      "snippet": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-      "link": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 10:02:43 GMT",
-      "snippet": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Colombian national killed by ICE agent during operation in Maine",
-      "link": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 19:11:37 GMT",
-      "snippet": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 01:43:57 GMT",
-      "snippet": "Hamish Tait is accused of abusing 136 children at five childcare facilities over a 16-year period.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "EU bans gold imports from Sudan to curb money financing the war",
-      "link": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 08:32:49 GMT",
-      "snippet": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
-      "link": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 17:21:21 GMT",
-      "snippet": "The man and his grandson appeared a safe distance away from the bison before it quickly chased them down.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
-      "link": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 22:03:16 GMT",
-      "snippet": "The environmental activist has been on a hunger strike for 16 days and is getting visibly weaker.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US burrito giant Chipotle opening first outlet in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 02:42:51 GMT",
-      "snippet": "Other US fast-food brands have struggled to succeed in the countries their dishes originated in.",
+      "source": "NPR News",
+      "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
+      "link": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
+      "publishedAt": "Wed, 15 Jul 2026 08:40:50 -0400",
+      "snippet": "The oldest bridge in Paris was draped in fabric last month to appear like a mountain cave, in an installation by the artist JR. Unlike a real cave, though, it didn&apos;t provide respite from a brutal heat wave.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Spain sparkles to shock France 2-0 and advance to the World Cup final",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5893692/2026-world-cup-fifa-spain-france-semifinal",
-      "publishedAt": "Tue, 14 Jul 2026 16:59:10 -0400",
-      "snippet": "Spain is back in the men&apos;s World Cup final for the first time since 2010. That&apos;s also when Spain won its only World Cup title. France had hoped to reach the final for the third straight tournament.",
+      "title": "Acting AG Todd Blanche faces a key test. And, ICE pauses most traffic stops",
+      "link": "https://www.npr.org/2026/07/15/g-s1-133652/up-first-newsletter-todd-blanche-iran-strait-of-hormuz-ice-traffic-stops",
+      "publishedAt": "Wed, 15 Jul 2026 08:04:13 -0400",
+      "snippet": "Acting Attorney General Todd Blanche is set to appear before the Senate for his confirmation hearing. And, Immigration and Customs Enforcement has paused most traffic stops after recent deadly shootings.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "How do young people feel about AI? 7 teens weigh in",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school",
-      "publishedAt": "Tue, 14 Jul 2026 16:00:00 -0400",
-      "snippet": "What&apos;s it like to grow up and learn in the age of AI? NPR put that question to seven teenagers across the country.",
+      "title": "How to keep cool in this year&apos;s extreme summer heat even without air conditioning",
+      "link": "https://www.npr.org/2026/07/15/g-s1-133383/extreme-summer-heat-air-conditioning",
+      "publishedAt": "Wed, 15 Jul 2026 07:19:28 -0400",
+      "snippet": "\"Extreme heat\" is in the forecast this summer. How do people cope if they don&apos;t have air conditioning? Here are suggestions from a heat researcher who grew up in a very hot, AC-less place.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston",
-      "publishedAt": "Tue, 14 Jul 2026 15:54:53 -0400",
-      "snippet": "U.S. Immigration and Customs Enforcement will pause non-urgent vehicle stops after two deadly shootings in less than a week, Maine U.S. Sen. Angus King&apos;s office tells NPR.",
+      "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
+      "publishedAt": "Wed, 15 Jul 2026 05:56:31 -0400",
+      "snippet": "Iran threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "E. Jean Carroll receives $5.6 million from Trump in sexual abuse and defamation case",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5893598/e-jean-carroll-trump-sexual-abuse-defamation",
-      "publishedAt": "Tue, 14 Jul 2026 14:00:35 -0400",
-      "snippet": "The payment comes three years after a jury found President Trump liable for sexually abusing and defaming the writer.",
+      "title": "Todd Blanche faces high-stakes confirmation hearing for attorney general",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5891870/todd-blanche-senate-confirmation-attorney-general",
+      "publishedAt": "Wed, 15 Jul 2026 05:00:00 -0400",
+      "snippet": "Blanche won Senate confirmation early in President Trump&apos;s second term to serve as the No. 2 official at the Justice Department. Now he faces a contentious hearing as he seeks the top job.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Environmental groups sue government to stop a big change to the Endangered Species Act",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5891858/trump-esa-harm-endangered-species-act-threatened-lawsuit",
-      "publishedAt": "Tue, 14 Jul 2026 12:46:18 -0400",
-      "snippet": "By altering the definition of the word \"harm\" as used by the Endangered Species Act, the Trump administration may limit how wildlife is protected in the United States. Environmental groups are suing.",
+      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
+      "publishedAt": "Wed, 15 Jul 2026 05:00:00 -0400",
+      "snippet": "AI is a fast-growing business expense. Some companies are cutting costs by switching to cheaper Chinese AI models.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Investigative journalist reports on the abuse inside ICE&apos;s largest detention facility",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5893335/investigative-journalist-reports-on-the-abuse-inside-ices-largest-detention-facility",
-      "publishedAt": "Tue, 14 Jul 2026 11:41:07 -0400",
-      "snippet": "The New Yorker writer Jonathan Blitzer says thousands of people are being held in tents in the El Paso desert, where inhumane conditions have become a tool to pressure people to accept deportation.",
+      "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing",
+      "publishedAt": "Wed, 15 Jul 2026 05:00:00 -0400",
+      "snippet": "Trump&apos;s nominee faces the Senate health committee for her confirmation hearing on July 15. If confirmed, she will lead an agency dealing with workforce and leadership shortages and new layers of political review.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Some international artists are skipping U.S. tours. Others may follow suit",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us",
-      "publishedAt": "Tue, 14 Jul 2026 10:46:11 -0400",
-      "snippet": "The visa process for visiting artists has always been complicated and expensive. Under the current administration, it&apos;s gotten significantly worse.",
+      "title": "Democrats&apos; witness opposing Blanche&apos;s confirmation is more than an Epstein survivor",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5850397/jeffrey-epstein-todd-blanche-dani-bensky-survivor-victims-sexual-abuse-trafficking",
+      "publishedAt": "Wed, 15 Jul 2026 05:00:00 -0400",
+      "snippet": "Dani Bensky and a group of women who were abused by Jeffrey Epstein have formed a bond they call a \"survivor sisterhood.\" They live in two worlds, of advocacy and everyday life and motherhood.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Inflation slowed sharply -- but it may not last",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve",
-      "publishedAt": "Tue, 14 Jul 2026 10:40:20 -0400",
-      "snippet": "Annual inflation hit 3.5% in June, down from May&apos;s more than three-year high — but the resumption of the conflict with Iran threaten to push up inflation as energy costs once again spike.",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief",
+      "publishedAt": "Wed, 15 Jul 2026 04:50:19 -0400",
+      "snippet": "Acting Attorney General Todd Blanche to appear for confirmation hearing, U.S. restarts blockade against Iran amid standoff over the Strait of Hormuz, ICE suspends traffic stops after deadly shootings.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
-      "link": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger",
-      "publishedAt": "Tue, 14 Jul 2026 08:18:58 -0400",
-      "snippet": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger.",
+      "title": "Mystery bidder buys T. rex nicknamed &apos;Gus&apos; for a record $50 million",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5894586/mystery-bidder-buys-t-rex",
+      "publishedAt": "Wed, 15 Jul 2026 02:25:26 -0400",
+      "snippet": "A Tyrannosaurus rex fossil billed as one of the world&apos;s largest and most complete specimens was sold for a record $50.1 million Tuesday to a mystery bidder.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Family of a man shot by agents responding to a 911 call seeks answers",
-      "link": "https://www.npr.org/2026/07/14/nx-s1-5891873/family-of-a-man-shot-by-agents-responding-to-a-911-call-seeks-answers",
-      "publishedAt": "Tue, 14 Jul 2026 07:26:15 -0400",
-      "snippet": "A troubling pattern of federal agents fatally shooting civilians is developing, with deaths in Maine, Texas and Tennessee. The family of a man shot by agents told NPR they want answers.",
+      "source": "PBS Headlines",
+      "title": "Google's AI search features pose 'unacceptable risk' to children, new report finds",
+      "link": "https://www.pbs.org/newshour/nation/googles-ai-search-features-pose-unacceptable-risk-to-children-new-report-finds",
+      "publishedAt": "Wed, 15 Jul 2026 05:00:00 -0400",
+      "snippet": "Common Sense Media found that across more than 2,600 test interactions, Google's two built-in AI search functions routinely failed to recognize risky and harmful behavior.",
       "tier": 1
     },
     {
@@ -423,14 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "WATCH: Trump says FBI is 'wasting their time' if agency is investigating Sen. Graham's death",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-fbi-is-wasting-their-time-if-agency-is-investigating-sen-grahams-death",
-      "publishedAt": "Tue, 14 Jul 2026 15:27:28 -0400",
-      "snippet": "President Donald Trump said he doesn't know why the FBI is looking into Sen. Lindsey Graham's death.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,24 +440,128 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "How Turkey&apos;s 2016 coup attempt changed the country for good",
-      "link": "https://www.dw.com/en/how-turkey-s-2016-coup-attempt-changed-the-country-for-good/a-77955154?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran: Alleged Ahmadinejad plot highlights info war",
+      "link": "https://www.dw.com/en/iran-alleged-ahmadinejad-plot-highlights-info-war/a-77967268?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Ten years ago, parts of the Turkish military attempted to overthrow the government of President Erdogan. The consequences of the failed coup continue to shape Turkey to this day. A look back.",
+      "snippet": "Reports that Israel explored a regime-change scenario involving former Iranian President Mahmoud Ahmadinejad reveal how the Iran war has also become a struggle over narratives and perception.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "US troop withdrawal from Iraq set for September, 30",
+      "title": "Germany news: Coalition has &apos;found its footing,&apos; Merz says",
+      "link": "https://www.dw.com/en/germany-news-coalition-has-found-its-footing-merz-says/live-77965417?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "German Chancellor Friedrich Merz said recent reforms show his coalition is making progress. Meanwhile, arrests were made after police carry out drug raids in western Germany and the Netherlands. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine: Kyiv and EU agree on new drone production deal",
+      "link": "https://www.dw.com/en/ukraine-kyiv-and-eu-agree-on-new-drone-production-deal/live-77962795?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ukraine and the EU have agreed on a drone deal combining Kyiv’s know-how with the bloc&apos;s scale-up power. Meanwhile, Russian attacks caused more fatalities in Odesa as Moscow increasingly targets the port. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "England vs. Argentina: A football rivalry full of history",
+      "link": "https://www.dw.com/en/england-vs-argentina-a-football-rivalry-full-of-history/a-77962179?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "From the Falkland Islands to Diego Maradona and David Beckham, there is so much history between the two 2026 World Cup semifinalists.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "San Francisco: 1 dead, 3 missing in Alcatraz boat sinking",
+      "link": "https://www.dw.com/en/san-francisco-1-dead-3-missing-in-alcatraz-boat-sinking/a-77962333?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A search-and-rescue operation is underway after the three-deck pontoon vessel sank off the famous prison island, which is now a tourist destination.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Running dry: How to store more groundwater for dry seasons",
+      "link": "https://www.dw.com/en/running-dry-how-to-store-more-groundwater-for-dry-seasons/a-77501486?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "More frequent weather extremes are leading to water shortages during droughts, and flooding during heavy rain. But groundwater storage can help secure water for dry seasons while mitigating extreme rain.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why investors are suddenly fleeing Indonesia",
+      "link": "https://www.dw.com/en/why-investors-are-suddenly-fleeing-indonesia/a-77847180?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Indonesia, one of Asia&apos;s biggest economies, risks losing its emerging-market status as President Prabowo Subianto&apos;s spending plans rattle investors. Will the man who promised to deliver 8% growth rein in his ambitions?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Palestinians in Gaza: Stuck between Hamas and Israel",
+      "link": "https://www.dw.com/en/palestinians-in-gaza-stuck-between-hamas-and-israel/a-77956421?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Hamas is planning to transfer control of Gaza&apos;s civilian administration to Palestinian technocrats as part of the fragile US ceasefire. How is that affecting the daily lives of people living in Gaza?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Landmark trade deal with UK takes effect",
+      "link": "https://www.dw.com/en/india-news-landmark-trade-deal-with-uk-takes-effect/live-77961587?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The free trade agreement allows zero-duty market access for nearly 99% of India&apos;s exports to the UK. Meanwhile, US senators have proposed a new bill to impose 100% tariffs on India for buying oil from Russia.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Volodymyr Zelenskyy pushes for new government in Ukraine",
+      "link": "https://www.dw.com/en/volodymyr-zelenskyy-pushes-for-new-government-in-ukraine/a-77959640?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ukrainian Prime Minister Yulia Svyrydenko stepped down after barely a year in office. President Volodymyr Zelenskyy is already in talks with potential successors. What can Ukraine expect from the Cabinet reshuffle?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "150 years of the Bayreuth Festival: Confronting a troubled legacy",
+      "link": "https://www.dw.com/en/150-years-of-the-bayreuth-festival-confronting-a-troubled-legacy/a-77848272?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Should the past be confronted — or avoided? Why the Wagner festival&apos;s handling of its Nazi-era legacy remains a contentious issue in its 150th anniversary year.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Border controls scrapped between Spain and Gibraltar",
+      "link": "https://www.dw.com/en/border-controls-scrapped-between-spain-and-gibraltar/a-77961013?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As the end of border controls took effect, the old chain-link fence between Spain and Gibraltar was taken down. This historic decision allows for greater freedom of movement for people and goods.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: US launches fresh wave of strikes",
+      "link": "https://www.dw.com/en/iran-war-us-launches-fresh-wave-of-strikes/live-77960667?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US military announced a new wave of attacks on Iran, it says is aimed at \"degrading\" Iranian military capability. The strikes come after the US military said it would begin enforcing a naval blockade. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How the 2016 coup attempt changed Turkey for good",
+      "link": "https://www.dw.com/en/how-the-2016-coup-attempt-changed-turkey-for-good/a-77955154?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ten years ago, parts of the Turkish military attempted to overthrow the government of President Recep Tayyip Erdogan. The consequences of the failed coup continue to shape Turkey to this day. DW looks back.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US troop withdrawal from Iraq set for September 30",
       "link": "https://www.dw.com/en/us-troop-withdrawal-from-iraq-set-for-september-30/a-77959648?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The planned US withdrawal is linked to the disarmament of influential, Iran-backed militias in Iraq.",
+      "snippet": "The planned US withdrawal is linked to the disarmament of influential Iran-backed militias in Iraq.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Iranian newspaper threatens Germany&apos;s Chancellor Merz",
-      "link": "https://www.dw.com/en/iranian-newspaper-threatens-germany-s-chancellor-merz/a-77958683?maca=en-rss-en-top-1022-rdf",
+      "title": "Iranian newspaper threatens German Chancellor Merz",
+      "link": "https://www.dw.com/en/iranian-newspaper-threatens-german-chancellor-merz/a-77958683?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "A major Iranian newspaper has published a threat of \"retaliation\" against German Chancellor Friedrich Merz. Politicians have expressed concern, and the German government has issued a cautious response.",
       "tier": 2
@@ -483,111 +587,7 @@
       "title": "Ebola outbreak much larger than official figures, WHO says",
       "link": "https://www.dw.com/en/ebola-outbreak-much-larger-than-official-figures-who-says/a-77951823?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The outbreak, which has infected almost 2,000 people and killed over 700, could be at least two to four times larger than official figures, the UN health agency warned. The current outbreak is in the DRC and Uganda.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine parliament accepts PM Svyrydenko&apos;s resignation",
-      "link": "https://www.dw.com/en/ukraine-parliament-accepts-pm-svyrydenko-s-resignation/a-77954364?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "It comes as President Volodymyr Zelenskyy moves to reshuffle the cabinet as Ukraine was \"changing its political strategy.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: US launches new round of strikes",
-      "link": "https://www.dw.com/en/iran-war-us-launches-new-round-of-strikes/live-77942892?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US military said the strikes were \"to continue degrading Iranian capabilities.\" Iran meanwhile has said the US renewed blockade \"dismantles\" the truce deal.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "As the world rearms, South Korea aims to cash in",
-      "link": "https://www.dw.com/en/as-the-world-rearms-south-korea-aims-to-cash-in/a-77950625?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Weapons and military equipment produced in South Korea are sought-after due to their reliability, speedy delivery times and relatively low prices. Global demand for weapons has surged after Russia&apos;s invasion of Ukraine.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Nigeria offers clues to new US Africa strategy",
-      "link": "https://www.dw.com/en/nigeria-offers-clues-to-new-us-africa-strategy/a-77950547?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The withdrawal of US troops from Nigeria after the killing of an \"Islamic State\" leader may be less about leaving Africa than redefining how Washington fights terrorism on the continent.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Micronutrients are good, a balanced diet is better",
-      "link": "https://www.dw.com/en/micronutrients-are-good-a-balanced-diet-is-better/a-77925409?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Chronic illnesses, heart disease, obesity ― we know eating too much of the wrong foods can be unhealthy. But what about \"good\" foods: Is modern farming diluting micronutrients in our fruit and vegetables?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine targets another 11 Russian ships in Sea of Azov",
-      "link": "https://www.dw.com/en/ukraine-targets-another-11-russian-ships-in-sea-of-azov/a-77949717?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ukraine said it struck tankers and cargo vessels in the Sea of Azov, in the latest strikes on Russian commercial shipping. Moscow&apos;s Agriculture Ministry said \"alternative shipping routes\" are being sought.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bastille Day: France holds parade with Ukraine in focus",
-      "link": "https://www.dw.com/en/bastille-day-france-holds-parade-with-ukraine-in-focus/a-77945107?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The celebrations featured troops and warplanes from around Europe in a show of support for Ukraine, as it fends off Russia&apos;s ongoing invasion. It was Emmanuel Macron&apos;s last Bastille Day as France&apos;s president.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Military conscientious objections spike",
-      "link": "https://www.dw.com/en/germany-news-military-conscientious-objections-spike/live-77945300?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The number of people applying for conscientious objection to military service has risen sharply and there were around 5,100 heat-related deaths recorded in June alone.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "France arrests arson suspects amid Fontainebleau forest fire",
-      "link": "https://www.dw.com/en/france-arrests-arson-suspects-amid-fontainebleau-forest-fire/a-77946073?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Firefighters are attempting to tackle a major fire burning since Sunday in the much-visited Fontainebleau forest, near France&apos;s capital Paris. Two people have been arrested for suspected arson.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s Ahr Valley: Rebuilding better after deadly flood",
-      "link": "https://www.dw.com/en/germany-s-ahr-valley-rebuilding-better-after-deadly-flood/a-77810916?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "New walls, redesigned bridges and restored floodplains: Towns in a small German valley are testing how they can survive the next extreme flood.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Sonam Wangchuk&apos;s hunger strike tests Modi",
-      "link": "https://www.dw.com/en/india-news-sonam-wangchuk-s-hunger-strike-tests-modi/live-77944096?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Indian activist Sonam Wangchuks has been fasting in protest of Education Minister Dharmendra Pradhan since over two weeks. As his health deteriorates, the pressure piles up on Prime Minister Narendra Modi.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Death toll in Bangkok bar fire reaches 30",
-      "link": "https://www.dw.com/en/death-toll-in-bangkok-bar-fire-reaches-30/a-77944364?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As Bangkok kicks-off an investigation into a fire in a bar last Sunday, three people among the wounded have died. The number of deaths from the blaze now stand at 30.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US: 12 states challenge Paramount&apos;s buyout of Warner",
-      "link": "https://www.dw.com/en/us-12-states-challenge-paramount-s-buyout-of-warner/a-77943078?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The states have filed a lawsuit arguing that a merger of Hollywood giant studios Paramount and Warner would \"extinguish competition\" and increase consumer prices.",
+      "snippet": "The outbreak, which has infected almost 2,000 people and killed more than 700, could be at least two to four times larger than official figures, the UN health agency warned. The current outbreak is in the DRC and Uganda.",
       "tier": 2
     }
   ]
