@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T00:56:14.872Z",
+  "generatedAt": "2026-07-17T12:46:45.625Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,114 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Blasts reported in Iran as US launches new wave of strikes",
+      "title": "Iran accuses US of hitting civilian infrastructure",
       "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 23:57:26 GMT",
-      "snippet": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.",
+      "publishedAt": "Fri, 17 Jul 2026 10:57:50 GMT",
+      "snippet": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 11:37:00 GMT",
+      "snippet": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "More than 500 Rohingya vanished at sea - what happened?",
+      "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 03:07:11 GMT",
+      "snippet": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
+      "link": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 05:16:34 GMT",
+      "snippet": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Philippines condemns monkey video on Chinese media as racist",
+      "link": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 02:37:45 GMT",
+      "snippet": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump Media to sell instant access to 'market-moving' social posts",
+      "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 07:25:31 GMT",
+      "snippet": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Uganda suspends school trips after 20 pupils die in bus crash",
+      "link": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 12:25:15 GMT",
+      "snippet": "Thousands die on Uganda's roads each year but this is one of its deadliest incidents involving children.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
+      "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 02:15:23 GMT",
+      "snippet": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great Lakes.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "China hits out at British Steel nationalisation",
+      "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 11:07:45 GMT",
+      "snippet": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Olympic cyclist admits to driving despite ban after crash that killed wife",
+      "link": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 05:09:14 GMT",
+      "snippet": "Rohan Dennis pleaded guilty to driving while disqualified after police pulled him over last month.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
+      "link": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 02:56:45 GMT",
+      "snippet": "Media reports say Laos will press charges of up to one year in jail against those allegedly responsible.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Pele's 1958 World Cup final shirt sells for $4.9m",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn8n7dejqy2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 20:42:30 GMT",
+      "snippet": "A shirt worn by Pele during the 1958 World Cup final has sold for $4.9m (£3.6m) at a Sotheby's auction in New York.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 17 Jul 2026 03:09:55 GMT",
+      "snippet": "Lettuce from one supplier is being removed indefinitely \"out of an abundance of caution\", the company says.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "White House teleprompter operator accused of making $100k from Trump speech bets",
+      "link": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 18:52:35 GMT",
+      "snippet": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
       "tier": 1
     },
     {
@@ -48,22 +152,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 13:08:28 GMT",
-      "snippet": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Fifa 'assessing match reports' over Falklands banner",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 18:44:43 GMT",
-      "snippet": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
       "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 16 Jul 2026 17:22:31 GMT",
@@ -72,26 +160,18 @@
     },
     {
       "source": "BBC World",
-      "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
-      "link": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 18:52:35 GMT",
-      "snippet": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
-      "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 19:58:55 GMT",
-      "snippet": "Smoke from more than 800 blazes has affected cities from Toronto to New York, as well as the US Midwest.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
       "link": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 16 Jul 2026 21:22:09 GMT",
       "snippet": "The US vice president says he thinks some Israeli politicians are trying to detail efforts to end the conflict.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 13:08:28 GMT",
+      "snippet": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
       "tier": 1
     },
     {
@@ -111,163 +191,83 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "'Moment of joy' as Uganda discharges last Ebola patient",
-      "link": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 17:15:32 GMT",
-      "snippet": "The good news from Uganda comes as the WHO chief warns the virus in DR Congo is spreading fast.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
-      "link": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 12:44:26 GMT",
-      "snippet": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Children among dead at Algeria foster care home blaze - president",
-      "link": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 16:14:45 GMT",
-      "snippet": "Eleven people have died and 19 other have suffered injuries in the overnight fire, the authorities say.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
-      "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 23:02:49 GMT",
-      "snippet": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n9q538z2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 11:18:51 GMT",
-      "snippet": "Companies are now required to verify a person's identity electronically to curb theft and forgery.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "JD Vance says Welsh castle was 'coolest thing I've ever seen'",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8g5z83glo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 16:08:28 GMT",
-      "snippet": "The US Vice-President writes in his new book that a visit to north Wales in 2013 changed his perspective.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Chip giant TSMC pledges another $100bn to expand US production",
-      "link": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 10:23:00 GMT",
-      "snippet": "The company says it will create \"high-tech, high-paying jobs\", and raises its total commitment to the US to $265bn.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Actor Sam Neill died from pneumonia, agent confirms",
-      "link": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 04:28:22 GMT",
-      "snippet": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US military to start screening for testosterone deficiency, Hegseth says",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 09:10:38 GMT",
-      "snippet": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "More people around the world now favour China over the US, Pew study suggests",
-      "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 17:02:41 GMT",
-      "snippet": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
+      "source": "NPR News",
+      "title": "Takeaways from Trump&apos;s primetime speech. And, at least 2 dead in major Texas flooding",
+      "link": "https://www.npr.org/2026/07/17/g-s1-134162/up-first-newsletter-trump-speech-illegal-voting-texas-flooding-wildfires-air-quality",
+      "publishedAt": "Fri, 17 Jul 2026 07:27:01 -0400",
+      "snippet": "President Trump gave a primetime speech raising claims of voting vulnerabilities but offered no new evidence. And, at least 2 people have died in major flooding in Texas.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "White House says ICE traffic stops will continue after deadly shootings",
-      "link": "https://www.npr.org/2026/07/16/nx-s1-5896396/ice-traffic-stops-shootings",
-      "publishedAt": "Thu, 16 Jul 2026 17:31:23 -0400",
-      "snippet": "The comments came following widespread reports earlier in the week that those stops would be put on pause after two immigrants were fatally shot by ICE agents in early July.",
+      "title": "Photos: When the World Cup came to town",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/07/17/g-s1-133556/world-cup-watch-party-photos",
+      "publishedAt": "Fri, 17 Jul 2026 07:17:24 -0400",
+      "snippet": "NPR member station photographers captured images of World Cup watch parties outside stadium gates, on street corners and in public parks and squares as the World Cup became, for a brief period, a part of local life.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Flood sirens blare in South Central Texas as rivers reach perilous heights",
-      "link": "https://www.npr.org/2026/07/16/nx-s1-5896458/flood-sirens-texas-rivers-reach-dangerous-heights",
-      "publishedAt": "Thu, 16 Jul 2026 17:30:03 -0400",
-      "snippet": "Flood sirens blared early Thursday in Comfort, Texas, as the Guadalupe River rose more than 30 feet in three hours, the U.S. Geological Survey said. The storm could bring even more rainfall than last year&apos;s deadly Fourth of July floods.",
+      "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+      "link": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+      "publishedAt": "Fri, 17 Jul 2026 07:13:58 -0400",
+      "snippet": "The U.S. and Iran expanded their targets in the latest round of strikes on Friday, as fighting over the control of the Strait of Hormuz reignites fears of an all-out war.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "After years of false claims on voting, Trump to give an address on election integrity",
-      "link": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
-      "publishedAt": "Thu, 16 Jul 2026 16:50:26 -0400",
-      "snippet": "President Trump, who for years has sowed doubt about the security of American elections, is scheduled to give a primetime address Thursday night about election integrity. Trump has long contended, without evidence, that he won the 2020 election",
+      "title": "&apos;Superworms&apos; help scientists with a vexing task: Cleaning animal specimens",
+      "link": "https://www.npr.org/2026/07/17/nx-s1-5896494/superworms-clean-animal-specimens-skeleton-research",
+      "publishedAt": "Fri, 17 Jul 2026 07:00:00 -0400",
+      "snippet": "The larvae of a beetle native to South and Central America, the critters are the perfect solution to sticky problem: How to prepare an animal skeleton for scientific use.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
-      "link": "https://www.npr.org/2026/07/16/nx-s1-5894857/wildfire-smoke-fires-ontario-minnesota",
-      "publishedAt": "Thu, 16 Jul 2026 16:32:27 -0400",
-      "snippet": "Orange skies and heavy smoke covered large parts of the U.S. on Thursday as Canada and Minnesota grapple with wildfires. Hazardous air quality is expected to continue.",
+      "title": "Trump&apos;s team says &apos;no children&apos; died from USAID cuts. Consider these 3 cases",
+      "link": "https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths",
+      "publishedAt": "Fri, 17 Jul 2026 06:37:02 -0400",
+      "snippet": "Both Marco Rubio and Elon Musk, who led the effort to sunset the foreign aid agency, have said that no deaths have been linked to the cutting of its funding. These parents tell a different story.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Why Orthodox Jews are opposing the new daylight saving bill in Congress",
-      "link": "https://www.npr.org/2026/07/16/g-s1-133961/why-orthodox-jews-are-opposing-the-new-daylight-saving-bill-in-congress",
-      "publishedAt": "Thu, 16 Jul 2026 13:24:31 -0400",
-      "snippet": "Orthodox Jewish organizations say the bill, if passed, would force morning prayer services to start after 9 a.m. in some parts of the country, making observant Jews late for work and school.",
+      "title": "What will the Pentagon begin screening &apos;war fighters&apos; for? The quiz knows",
+      "link": "https://www.npr.org/2026/07/17/g-s1-133804/pentagon-trump-world-cup-netflix-sam-neill-news-quiz",
+      "publishedAt": "Fri, 17 Jul 2026 05:02:00 -0400",
+      "snippet": "Plus: Jurassic Park , U.K. politics, conspiracy theories, Pete Hegseth and numismatics.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Officials probe whether White House teleprompter operator profited off Trump&apos;s words",
-      "link": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
-      "publishedAt": "Thu, 16 Jul 2026 13:10:29 -0400",
-      "snippet": "It&apos;s the first known instance of officials investigating suspected insider trading on a prediction market from inside the White House.",
+      "title": "Republican campaigns see immigration as a winning issue for midterms",
+      "link": "https://www.npr.org/2026/07/17/g-s1-133702/midterm-election-ads-immigration-republicans-democrats",
+      "publishedAt": "Fri, 17 Jul 2026 05:00:00 -0400",
+      "snippet": "Republicans are spending more money and running more ads on immigration than Democrats are ahead of the November midterm elections, according to an NPR analysis of advertisement data.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Hong Kong official warns booksellers on security risks after raids",
-      "link": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
-      "publishedAt": "Thu, 16 Jul 2026 09:31:33 -0400",
-      "snippet": "The police operation marks the third round of arrests targeting independent bookstores in four months.",
+      "title": "Kalshi says it&apos;s not a sportsbook even as World Cup bets surge",
+      "link": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
+      "publishedAt": "Fri, 17 Jul 2026 05:00:00 -0400",
+      "snippet": "The betting site Kalshi emerged as a dominant sports betting platform during the World Cup. But the company avoids billions of dollars in taxes by insisting it is not a sports gambling operator.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trump wants a permanent fence around the D.C. park known for White House protests",
-      "link": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
-      "publishedAt": "Thu, 16 Jul 2026 08:13:23 -0400",
-      "snippet": "The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It&apos;s long been a popular spot for protesters, who worry barriers will change that.",
+      "title": "Federal Reserve looks for &apos;secret sauce&apos; behind a successful Wisconsin tool maker",
+      "link": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
+      "publishedAt": "Fri, 17 Jul 2026 05:00:00 -0400",
+      "snippet": "Business is booming for Snap-on, a Wisconsin company that has made tools for professional mechanics for more than a century. It recently got a fact-finding visit from the head of the Chicago Federal Reserve Bank.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Zelenskyy fires Ukraine&apos;s tech-savvy defense minister in government reshuffle",
-      "link": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
-      "publishedAt": "Thu, 16 Jul 2026 07:33:11 -0400",
-      "snippet": "Ukraine&apos;s President Volodymyr Zelenskyy has fired the country&apos;s popular defense minister, Mykhailo Fedorov, who pushed for innovation on the battlefield through use of drones and turned the tables on Russia.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "The political risks from war in Iran. And, ICE&apos;s use of force is rising, report finds",
-      "link": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force",
-      "publishedAt": "Thu, 16 Jul 2026 07:29:01 -0400",
-      "snippet": "The political implications the war in Iran is having on the GOP. And, a new report has found that ICE officers&apos; use of force is not rare since President Trump took office for his second term.",
+      "title": "For one father and son, Alaskan blanket toss is a family tradition",
+      "link": "https://www.npr.org/2026/07/17/nx-s1-5891637/father-and-son-reminisce-on-their-high-flying-sport",
+      "publishedAt": "Fri, 17 Jul 2026 04:41:48 -0400",
+      "snippet": "A father and son discuss an old Alaskan whaling tradition known as the blanket toss.",
       "tier": 1
     },
     {
@@ -424,10 +424,10 @@
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH LIVE: Trump to address nation from White House",
+      "title": "WATCH: Trump delivers primetime address on election system",
       "link": "https://www.pbs.org/newshour/politics/watch-live-trump-to-address-nation-from-white-house",
       "publishedAt": "Thu, 16 Jul 2026 16:07:22 -0400",
-      "snippet": "President Donald Trump is expected to deliver an address Thursday from the White House.",
+      "snippet": "President Trump has used a primetime address to once again raise doubts about the results of past elections, reviving a subject he's long used to make unproven claims and deny his loss in the 2020 election.",
       "tier": 1
     },
     {
@@ -440,10 +440,138 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Ukraine: Several killed and injured in Russian strikes",
+      "link": "https://www.dw.com/en/ukraine-several-killed-and-injured-in-russian-strikes/a-78007862?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russia carried out deadly strikes across Ukraine overnight that hit residential areas, while Ukraine said drone strikes in the Black Sea hit 12 Russian vessels.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Meet Andy Burnham, Britain&apos;s next prime minister",
+      "link": "https://www.dw.com/en/meet-andy-burnham-britain-s-next-prime-minister/a-77664543?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Andy Burnham was confirmed as Keir Starmer&apos;s successor as British prime minister. The former Manchester mayor became a leading figure in the Labour Party and one of the UK&apos;s most popular politicians.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Fact check: Trump revives US election fraud claims",
+      "link": "https://www.dw.com/en/fact-check-trump-revives-us-election-fraud-claims/a-77999807?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In a primetime address, US President Donald Trump alleged Chinese voter interference in the 2020 US election. DW examined the declassified documents behind his claims.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How new PM Andy Burnham will change UK&apos;s international role",
+      "link": "https://www.dw.com/en/how-new-pm-andy-burnham-will-change-uk-s-international-role/a-77994989?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "From northwest England to the global stage: Andy Burnham becomes Britain&apos;s new prime minister on Monday. How will the former mayor of Manchester tackle international affairs?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Japan: Superstitions make some homes hard to sell or rent",
+      "link": "https://www.dw.com/en/japan-superstitions-make-some-homes-hard-to-sell-or-rent/a-78005455?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Many Japanese people are reluctant to buy or rent homes where a sudden or violent death has occurred. To reassure prospective buyers and tenants, property owners are calling in \"ghost investigators.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "The EU climate policy the world copied is under fire — what&apos;s at stake?",
+      "link": "https://www.dw.com/en/the-eu-climate-policy-the-world-copied-is-under-fire-what-s-at-stake/a-77979725?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The EU Commission has proposed to weaken Europe&apos;s emissions trading system, a global blueprint for pricing carbon and cutting CO2. How effective is the scheme and where does it fall short?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How AI and satellites help fight wildfires",
+      "link": "https://www.dw.com/en/how-ai-and-satellites-help-fight-wildfires/a-77966509?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Wildfires are currently raging in Europe, Canada, and elsewhere. To successfully fight these fires, speed is essential. Early detection from space and AI-powered data analysis can help.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran&apos;s oil supply threat extends beyond Strait of Hormuz",
+      "link": "https://www.dw.com/en/iran-s-oil-supply-threat-extends-beyond-strait-of-hormuz/a-77980704?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Oil and gas producers in the Gulf are seeking alternatives to the Strait of Hormuz as traffic again comes under fire. But is Iran also turning its attention to the pipelines meant to bypass the waterway?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "New Bundesliga broadcasting deal in the US: Reach over money",
+      "link": "https://www.dw.com/en/new-bundesliga-broadcasting-deal-in-the-us-reach-over-money/a-77979741?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Bundesliga has a new home on American screens after Germany&apos;s top football league left ESPN. The new deal is a sign of the times.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "China: Landslide buries buildings, traps people",
+      "link": "https://www.dw.com/en/china-landslide-buries-buildings-traps-people/a-77999378?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "An undetermined number of people have been reported trapped under a landslide in southwest China. Rescue efforts are ongoing.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: US hits bridges as Tehran retaliates across region",
+      "link": "https://www.dw.com/en/iran-war-us-hits-bridges-as-tehran-retaliates-across-region/live-77996555?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US launched a sixth night of strikes on Iran, with Tehran saying attacks on bridges killed several people. Iran has fired retaliatory strikes on US targets across the region. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Mandela Day: Has South Africa failed his vision?",
+      "link": "https://www.dw.com/en/mandela-day-has-south-africa-failed-his-vision/a-77980740?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Three decades after apartheid, many South Africans say Nelson Mandela&apos;s vision remains unfulfilled. Inequality, xenophobia and anti-migrant protests continue to test his legacy.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Macron and Merz lead bilateral cabinet talks",
+      "link": "https://www.dw.com/en/germany-news-macron-and-merz-lead-bilateral-cabinet-talks/live-77998510?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Berlin and Paris are seeking to deepen security cooperation as ministers meet in western Germany. Meanwhile, a court has delivered its verdict on an alleged supporter of the far-right NSU terror group. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Modi silent as Sonam Wangchuk hunger strike enters 20th day",
+      "link": "https://www.dw.com/en/india-news-modi-silent-as-sonam-wangchuk-hunger-strike-enters-20th-day/live-77997484?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As Sonam Wangchuk&apos;s hunger strike entered its 20th day and the \"Cockroach\" party continued its protest, Prime Minister Narendra Modi faced criticism for his reluctance to hold press conferences. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Xi Jinping calls for international cooperation in AI development at WAIC in Shanghai",
+      "link": "https://www.dw.com/en/xi-jinping-calls-for-international-cooperation-in-ai-development-at-waic-in-shanghai/a-77997024?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Xi Jinping marked his first in-person attendance at the World ​Artificial Intelligence Conference (WAIC) in Shanghai, where he shared China&apos;s vision of AI diplomacy to challenge US dominance in the sector.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Donald Trump accuses China of meddling in US elections",
+      "link": "https://www.dw.com/en/donald-trump-accuses-china-of-meddling-in-us-elections/a-77996793?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US President Donald Trump has again claimed he has evidence of interference in the 2020 presidential election, this time alleging China obtained 220 million voter records. China rejects the claim.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Iran war: US military attacks Iran for sixth night running",
       "link": "https://www.dw.com/en/iran-war-us-military-attacks-iran-for-sixth-night-running/live-77976690?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "US Central Command said that a new wave of strikes was launched on Iran. It follows retaliatory strikes from Iran on sites in Jordan and Gulf states. DW has more.",
+      "snippet": "US Central Command said that a new wave of strikes was launched on Iran. It follows retaliatory strikes from Iran on sites in Jordan and Gulf states.",
       "tier": 2
     },
     {
@@ -460,134 +588,6 @@
       "link": "https://www.dw.com/en/why-gulf-states-are-investing-billions-in-africa/a-77971459?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Wealthy Gulf states are investing billions in African countries. But the nations involved all have different objectives. What&apos;s behind the investments and what&apos;s in it for African countries?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fact check: Claims linking statins to dementia are false",
-      "link": "https://www.dw.com/en/fact-check-claims-linking-statins-to-dementia-are-false/a-77970650?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Viral posts claim that a drug widely used to lower cholesterol is contributing to a dementia epidemic. DW Fact Check examined the scientific evidence.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Italy: Ex-highway head sentenced to 12 years for deadly bridge collapse",
-      "link": "https://www.dw.com/en/italy-ex-highway-head-sentenced-to-12-years-for-deadly-bridge-collapse/a-77995618?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The collapse of the Morandi bridge in Genoa in 2018 killed 43. The court found the former Italian highway CEO guilty of neglecting maintenance despite prior warnings and sentenced him to 12 years in prison.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Monaco assassination plot takes a new turn",
-      "link": "https://www.dw.com/en/monaco-assassination-plot-takes-a-new-turn/a-77983714?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A woman suspected of plotting to assassinate a Ukrainian-Cypriot businessman in Monaco has been found dead in Ukraine. Two men with ties to Ukraine&apos;s intelligence services have now been brought into custody.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why America&apos;s hospitals keep looking to India for nurses",
-      "link": "https://www.dw.com/en/why-america-s-hospitals-keep-looking-to-india-for-nurses/a-77983988?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Thousands of Indian nurses aspire to work in the US, navigating yearslong visa backlogs to fill a growing healthcare workforce shortage.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "As the world rearms, South Korea aims to cash in",
-      "link": "https://www.dw.com/en/as-the-world-rearms-south-korea-aims-to-cash-in/a-77950625?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Weapons and military equipment produced in South Korea are sought-after due to their reliability, speedy delivery times and relatively low prices. Global demand for weapons has surged after Russia&apos;s invasion of Ukraine.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany massively expands federal police powers",
-      "link": "https://www.dw.com/en/germany-massively-expands-federal-police-powers/a-77993148?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The German government has expanded the powers of its federal police, especially in the use of surveillance, AI, and drone defenses. But experts warn of constitutional challenges.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: Gender switch neo-Nazi sent to men&apos;s prison",
-      "link": "https://www.dw.com/en/germany-gender-switch-neo-nazi-sent-to-men-s-prison/a-77991930?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Far-right provocateur Marla Svenja Liebich was transferred to a men&apos;s prison after being extradited from the Czech Republic. Authorities say the decision took into account the safety of prisoners at a women&apos;s facility.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Algeria: Fire at orphanage kills 11, including children",
-      "link": "https://www.dw.com/en/algeria-fire-at-orphanage-kills-11-including-children/a-77991351?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A fire at an orphanage in the province of Algiers has killed 11 people and injured 19 more, authorities said. President Abdelmadjid Tebboune expressed his condolences amid his trip to Berlin.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU court endorses Spanish PM&apos;s contentious Catalan amnesty",
-      "link": "https://www.dw.com/en/eu-court-endorses-spanish-pm-s-contentious-catalan-amnesty/a-77981590?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The EU&apos;s top court has backed a Spanish law giving amnesty to Catalan separatists over the independence referendum. The deal let Prime Minister Pedro Sanchez stay in office in 2023 and prompted major opposition protests.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany may make it illegal to deny Israel&apos;s right to exist",
-      "link": "https://www.dw.com/en/germany-may-make-it-illegal-to-deny-israel-s-right-to-exist/a-77980283?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany&apos;s upper house of parliament, the Bundesrat, has introduced a bill seeking to ban the questioning of Israel&apos;s right to exist. It is now up to the lower house to decide whether to turn it into law.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "The EU climate policy the world copied is under fire — what&apos;s at stake?",
-      "link": "https://www.dw.com/en/the-eu-climate-policy-the-world-copied-is-under-fire-what-s-at-stake/a-77979725?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The emissions trading system became a global blueprint for pricing carbon and cutting CO2. Now industry groups are pushing back against tougher climate rules. How effective is the scheme and where does it fall short?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "What&apos;s behind the Iran regime&apos;s &apos;revenge propaganda&apos;?",
-      "link": "https://www.dw.com/en/what-s-behind-the-iran-regime-s-revenge-propaganda/a-77981122?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Calls for revenge over the death of Ayatollah Ali Khamenei are growing louder in Iran. Through increasingly harsh rhetoric, the leadership is seeking to mobilize supporters at home while warning opponents abroad.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US slaps 25% tariffs on Brazil with election looming",
-      "link": "https://www.dw.com/en/us-slaps-25-tariffs-on-brazil-with-election-looming/a-77978372?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US will impose a 25% tariff on most imports from Brazil starting later this month. It&apos;s the first action in the Trump administration&apos;s new tariff strategy, after the Supreme Court struck down its prior impositions.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine lawmakers approve Koretskyi as new PM amid protests",
-      "link": "https://www.dw.com/en/ukraine-lawmakers-approve-koretskyi-as-new-pm-amid-protests/live-77980338?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "It is President Volodymyr Zelenskyy&apos;s second Cabinet shakeup in a year. He faces criticism for dismissing reformist Defense Minister Mykhailo Fedorov.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Inland shipping under strain as rivers run low",
-      "link": "https://www.dw.com/en/germany-news-inland-shipping-under-strain-as-rivers-run-low/live-77978527?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Drastically low water levels in Germany&apos;s rivers has disrupted shipping on several major rivers. Meanwhile, police have recorded a striking rise in e-scooter crashes causing injury or death.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK calls for FIFA investigation over Argentina banner",
-      "link": "https://www.dw.com/en/uk-calls-for-fifa-investigation-over-argentina-banner/a-77980457?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Following their 2-1 World Cup semifinal victory over England, Argentine players held up a banner claiming the Falkland Islands belong to Argentina. Political messages are banned under FIFA rules.",
       "tier": 2
     }
   ]
