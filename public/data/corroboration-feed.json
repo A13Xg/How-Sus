@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T12:40:19.862Z",
+  "generatedAt": "2026-07-19T00:57:47.795Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,34 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 00:18:47 GMT",
+      "snippet": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
       "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 11:55:54 GMT",
+      "publishedAt": "Sat, 18 Jul 2026 13:06:25 GMT",
       "snippet": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 18 Jul 2026 23:59:26 GMT",
+      "snippet": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Hungary's president agrees to stand down after parliament backs removal",
+      "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 18 Jul 2026 19:34:16 GMT",
+      "snippet": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
       "tier": 1
     },
     {
@@ -48,18 +72,10 @@
     },
     {
       "source": "BBC World",
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 11:48:44 GMT",
-      "snippet": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 01:29:47 GMT",
-      "snippet": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+      "title": "German politician resigns over surrogacy child controversy",
+      "link": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 18 Jul 2026 15:23:31 GMT",
+      "snippet": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
       "tier": 1
     },
     {
@@ -76,6 +92,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 18 Jul 2026 11:10:20 GMT",
       "snippet": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "link": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 18 Jul 2026 17:29:50 GMT",
+      "snippet": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
       "tier": 1
     },
     {
@@ -167,27 +191,43 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Olympic cyclist admits to driving despite ban after crash that killed wife",
-      "link": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 05:09:14 GMT",
-      "snippet": "Rohan Dennis pleaded guilty to driving while disqualified after police pulled him over last month.",
+      "source": "NPR News",
+      "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
+      "link": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
+      "publishedAt": "Sat, 18 Jul 2026 16:06:35 -0400",
+      "snippet": "Kerr announced his bid to break the world record months in advance, and pulled off the plan in London on Saturday.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
-      "link": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 05:10:44 GMT",
-      "snippet": "\"Anya\" gives the BBC a rare account of how sex-criminal financier Epstein lured and abused his “assistants”.",
+      "source": "NPR News",
+      "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
+      "link": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
+      "publishedAt": "Sat, 18 Jul 2026 14:15:42 -0400",
+      "snippet": "Wildfire smoke and unhealthy air persist and shift direction, as Trump demands explanation from Canada.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "What this desert city can teach the world about tackling heat deaths",
-      "link": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 23:56:08 GMT",
-      "snippet": "Maricopa County in Arizona has some of the hottest temperatures, but it has reduced the number of heat-related deaths.",
+      "source": "NPR News",
+      "title": "U.S. launches new airstrikes to &apos;punish&apos; Iran for troop deaths",
+      "link": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
+      "publishedAt": "Sat, 18 Jul 2026 14:14:11 -0400",
+      "snippet": "Two U.S. service members were killed in action while \"partner forces defended against Iranian ballistic missile and drone attacks,\" U.S. Central Command said Saturday.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Reporter&apos;s Notebook: Finding World Cup joy in speaking to women who love soccer",
+      "link": "https://www.npr.org/2026/07/18/nx-s1-5897607/2026-world-cup-fifa-argentina-spain-women-fans",
+      "publishedAt": "Sat, 18 Jul 2026 11:30:00 -0400",
+      "snippet": "Tune into World Cup coverage, and you are likely to see waves of male, screaming, sweaty fans. But one of the joys of covering this World Cup has been speaking to women who love soccer.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Why is it so hard for the U.S. to win wars?",
+      "link": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
+      "publishedAt": "Sat, 18 Jul 2026 08:45:13 -0400",
+      "snippet": "U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning.",
       "tier": 1
     },
     {
@@ -231,43 +271,91 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "ICE shared Medicaid data it wasn&apos;t supposed to have with Palantir",
-      "link": "https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data",
-      "publishedAt": "Fri, 17 Jul 2026 19:32:02 -0400",
-      "snippet": "The revelations came out in a federal court case brought by Democratic states challenging ICE&apos;s access to Medicaid data to aid in deportation efforts.",
+      "source": "PBS Headlines",
+      "title": "Taylor Farms recalls lettuce shipped to 27 states over cyclospora risk",
+      "link": "https://www.pbs.org/newshour/health/taylor-farms-recalls-lettuce-shipped-to-27-states-over-cyclospora-risk",
+      "publishedAt": "Sat, 18 Jul 2026 18:26:59 -0400",
+      "snippet": "Products with the potential to be contaminated with the diarrhea-causing parasite were shipped to 27 states including Texas, Florida, Pennsylvania, Illinois and New Jersey.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies",
-      "link": "https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette",
-      "publishedAt": "Fri, 17 Jul 2026 18:36:02 -0400",
-      "snippet": "Ashley Brouillette has identified her ex-husband, David Brouillette, as the officer who fatally shot Joan Sebastián Durán Guerrero in Biddeford, Maine, on Monday. She said she learned he was the officer responsible when he called her on Wednesday.",
+      "source": "PBS Headlines",
+      "title": "Darline Graham's career centered disability. Now she could help shape national policy",
+      "link": "https://www.pbs.org/newshour/politics/darline-grahams-career-centered-disability-now-she-could-help-shape-national-policy",
+      "publishedAt": "Sat, 18 Jul 2026 17:21:19 -0400",
+      "snippet": "To former colleagues and the disability advocates who have worked with her, there is little doubt in Darline Graham's capabilities.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Spain could make World Cup history: The first to win men&apos;s and women&apos;s trophies back-to-back",
-      "link": "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men",
-      "publishedAt": "Fri, 17 Jul 2026 16:17:27 -0400",
-      "snippet": "The Spanish Men&apos;s National Team will face Argentina in Sunday&apos;s World Cup final. The country&apos;s women&apos;s team lifted its first World Cup trophy in 2023.",
+      "source": "PBS Headlines",
+      "title": "Thunderstorms will clear wildfire smoke from Northeast ahead of World Cup final, meteorologists say",
+      "link": "https://www.pbs.org/newshour/nation/thunderstorms-will-clear-wildfire-smoke-from-northeast-ahead-of-world-cup-final-meteorologists-say",
+      "publishedAt": "Sat, 18 Jul 2026 16:02:57 -0400",
+      "snippet": "Warnings of unhealthy air quality remained in effect Saturday across a wide swath of the United States.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Move over, Super Bowl? There&apos;s an even bigger – and splashier – World Cup halftime show coming",
-      "link": "https://www.npr.org/2026/07/17/nx-s1-5897510/bts-bieber-madonna-shakira-world-cup-halftime-show",
-      "publishedAt": "Fri, 17 Jul 2026 15:24:52 -0400",
-      "snippet": "The show, which will begin somewhere around 3:45 PM ET, will air in the U.S. on Fox, Fox One and in Spanish on Telemundo, as well as on the Fox Sports app and streaming in Spanish on Peacock. It&apos;s expected to run for about 11 minutes.",
+      "source": "PBS Headlines",
+      "title": "U.S. cancels automatic protections for imperiled animals as critics warn of extinctions",
+      "link": "https://www.pbs.org/newshour/nation/u-s-cancels-automatic-protections-for-imperiled-animals-as-critics-warn-of-extinctions",
+      "publishedAt": "Sat, 18 Jul 2026 14:43:58 -0400",
+      "snippet": "Instead of receiving automatic protections, imperiled species will need individualized protection plans once they are added to the threatened species list.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "China signals possible return of U.S. trade privileges for Hong Kong",
-      "link": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
-      "publishedAt": "Fri, 17 Jul 2026 15:16:16 -0400",
-      "snippet": "The decision comes two months after President Donald Trump met with Xi Jinping, potentially warming ties ahead of Xi&apos;s expected U.S. visit.",
+      "source": "PBS Headlines",
+      "title": "David Crowley reenters battleground Wisconsin's Democratic governor primary with Gov. Evers' backing",
+      "link": "https://www.pbs.org/newshour/politics/david-crowley-reenters-battleground-wisconsins-democratic-governor-primary-with-gov-evers-backing",
+      "publishedAt": "Sat, 18 Jul 2026 14:17:43 -0400",
+      "snippet": "Gov. Tony Evers initially declined to endorse in the race but threw his weight behind Crowley and resuscitated his bid to lead the swing state known for razor-thin election margins.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Texas Hill Country floods test new warning systems after last year's deadly disaster",
+      "link": "https://www.pbs.org/newshour/nation/texas-hill-country-floods-test-new-warning-systems-after-last-years-deadly-disaster",
+      "publishedAt": "Sat, 18 Jul 2026 13:53:32 -0400",
+      "snippet": "Residents in some hard-hit areas said a year of preparation did make a difference. Newly installed flood sirens sounded in the darkness. Phones buzzed with alerts that weren't sent out last year.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Safety fears limit Ebola response in Congo, with more than 12 attacks on health facilities and workers recorded",
+      "link": "https://www.pbs.org/newshour/world/safety-fears-limit-ebola-response-in-congo-with-more-than-12-attacks-on-health-facilities-and-workers-recorded",
+      "publishedAt": "Sat, 18 Jul 2026 13:34:04 -0400",
+      "snippet": "Many of the attacks have been carried out by angry mobs who have stormed treatment centers or targeted response teams in the field, Pierre Akilimali, incident manager for the Ebola response, said at a press briefing.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Ukrainian drones hit warehouses and other sites across Russia, killing 9 and wounding over 60",
+      "link": "https://www.pbs.org/newshour/world/ukrainian-drones-hit-warehouses-and-other-sites-across-russia-killing-9-and-wounding-over-60",
+      "publishedAt": "Sat, 18 Jul 2026 13:21:36 -0400",
+      "snippet": "Kyiv's forces have pressed their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth y",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "First death reported in Legionnaires' disease outbreak in New York City",
+      "link": "https://www.pbs.org/newshour/health/first-death-reported-in-legionnaires-disease-outbreak-in-new-york-city",
+      "publishedAt": "Sat, 18 Jul 2026 12:00:05 -0400",
+      "snippet": "Investigators are still trying to pinpoint the source of the outbreak on Manhattan's Upper East Side that has infected at least 67 people and hospitalized dozens, according to city Health Department data.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "U.S. military launches new airstrikes to punish Iran for deaths of US troops",
+      "link": "https://www.pbs.org/newshour/world/us-military-launches-new-airstrikes-to-punish-iran-for-deaths-of-us-troops",
+      "publishedAt": "Sat, 18 Jul 2026 11:34:19 -0400",
+      "snippet": "Since the war began, 16 U.S. service members have now been killed and over 430 wounded.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Wildfire smoke from Canada and Minnesota pushes farther into the U.S. and engulfs D.C. in haze",
+      "link": "https://www.pbs.org/newshour/nation/wildfire-smoke-from-canada-and-minnesota-pushes-farther-into-the-u-s-and-engulfs-d-c-in-haze",
+      "publishedAt": "Sat, 18 Jul 2026 11:20:12 -0400",
+      "snippet": "Warnings of dangerous conditions were expected to remain in effect through Saturday across a wide swath of the U.S., though there's potential for temporary improvement with storms forecast in some affected areas during the weekend.",
       "tier": 1
     },
     {
@@ -343,94 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Why the ancient story of 'The Odyssey' still resonates today",
-      "link": "https://www.pbs.org/newshour/show/why-the-ancient-story-of-the-odyssey-still-resonates-today",
-      "publishedAt": "Fri, 17 Jul 2026 18:30:19 -0400",
-      "snippet": "Christopher Nolan's \"The Odyssey\" is shaping up to be one of the biggest movies of the year. The highly anticipated film is already breaking ticket-sales records. Jeffrey Brown takes a look at what's driving the excitement and why a story that's nearly 3,000 years old continues t",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "The surprising role of conspiracy theories in the American Revolution",
-      "link": "https://www.pbs.org/newshour/show/the-surprising-role-of-conspiracy-theories-in-the-american-revolution",
-      "publishedAt": "Fri, 17 Jul 2026 18:25:55 -0400",
-      "snippet": "Conspiracy theories may seem like a modern phenomenon, but they've been a part of America's story since the nation's founding. On Judy Woodruff's \"In Pursuit of Happiness\" podcast, she speaks with journalist and author Jesse Walker about the surprising role conspiracy thinking pl",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Japan enshrines in law male-only succession for its shrinking imperial family",
-      "link": "https://www.pbs.org/newshour/world/japan-enshrines-in-law-male-only-succession-for-its-shrinking-imperial-family",
-      "publishedAt": "Fri, 17 Jul 2026 18:19:37 -0400",
-      "snippet": "Royal watchers and experts fear the new measures could doom the 1,500-year-old hereditary institution by insisting that only males can be emperor.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump administration races to rebuild tariff wall knocked down by Supreme Court",
-      "link": "https://www.pbs.org/newshour/politics/trump-administration-races-to-rebuild-tariff-wall-knocked-down-by-supreme-court",
-      "publishedAt": "Fri, 17 Jul 2026 17:23:20 -0400",
-      "snippet": "The U.S. Treasury last year swelled with revenue from President Donald Trump's double-digit taxes on imports from almost every country on earth. But the money dried up after the Supreme Court struck down the biggest and boldest of Trump's tariffs in February. The question now is:",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump urges Darline Graham to run for full Senate term as funeral planned for her brother",
-      "link": "https://www.pbs.org/newshour/politics/trump-urges-darline-graham-to-run-for-full-senate-term-as-funeral-planned-for-her-brother",
-      "publishedAt": "Fri, 17 Jul 2026 16:30:54 -0400",
-      "snippet": "President Donald Trump said Friday that Darline Graham, the sister of the late Lindsey Graham, has his support to run for a full term to replace her brother in the U.S. Senate.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Fact-checking Trump's address on China, the 2020 election and what documents show",
-      "link": "https://www.pbs.org/newshour/politics/fact-checking-trumps-address-on-china-the-2020-election-and-what-documents-show",
-      "publishedAt": "Fri, 17 Jul 2026 16:20:23 -0400",
-      "snippet": "President Donald Trump quoted years-old intelligence community documents, including some that had been declassified or partially redacted, without noting a distinction between what China may have planned versus what analysts say it did.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "As U.S. strikes bridges in Iran, it targets a water desalination plant in Kuwait",
-      "link": "https://www.pbs.org/newshour/world/as-u-s-strikes-bridges-in-iran-it-targets-a-water-desalination-plant-in-kuwait",
-      "publishedAt": "Fri, 17 Jul 2026 15:41:09 -0400",
-      "snippet": "The United States expanded its airstrike campaign against Iran early Friday by hitting more bridges, energy sites and collapsing a tower at a key Iranian port.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "A Putin critic is convicted on charges that will keep him from campaigning for Russia's parliament",
-      "link": "https://www.pbs.org/newshour/world/a-putin-critic-is-convicted-on-charges-that-will-keep-him-from-campaigning-for-russias-parliament",
-      "publishedAt": "Fri, 17 Jul 2026 15:14:01 -0400",
-      "snippet": "The verdict underlined the determination by authorities to stamp out any remaining sign of dissent ahead of September's vote as the fuel crisis caused by Ukrainian strikes on oil facilities across Russia threatened to erode public support for the Kremlin.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope",
-      "link": "https://www.pbs.org/newshour/world/andy-burnham-is-declared-leader-of-uks-labour-party-pledges-to-restore-hope",
-      "publishedAt": "Fri, 17 Jul 2026 14:41:55 -0400",
-      "snippet": "The former mayor of Greater Manchester was the only contender in the center-left party's leadership contest to replace departing Prime Minister Keir Starmer, who was forced out by a rebellion within his party.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Landslide in southwestern China kills at least 8 and leaves 34 missing",
-      "link": "https://www.pbs.org/newshour/world/landslide-in-southwestern-china-kills-at-least-8-and-leaves-34-missing",
-      "publishedAt": "Fri, 17 Jul 2026 14:16:49 -0400",
-      "snippet": "The landslide occurred around 9:08 a.m. on the outer edge of the Chongqing municipality, when massive amounts of rocks and soil washed downslope, burying more than 10 residential buildings, state broadcaster CCTV said.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump cites national security to stop offshore wind development. Here's what to know",
-      "link": "https://www.pbs.org/newshour/politics/trump-cites-national-security-to-stop-offshore-wind-development-heres-what-to-know",
-      "publishedAt": "Fri, 17 Jul 2026 13:49:00 -0400",
-      "snippet": "President Donald Trump's administration has worked to stop offshore wind development on the grounds that it's a national security risk since late last year.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,10 +440,26 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Ukrainian drone strikes on Russian warehouses kill 7",
-      "link": "https://www.dw.com/en/ukrainian-drone-strikes-on-russian-warehouses-kill-7/a-78018446?maca=en-rss-en-top-1022-rdf",
+      "title": "France&apos;s Mbappe sets World Cup scoring record with 22 goals",
+      "link": "https://www.dw.com/en/france-s-mbappe-sets-world-cup-scoring-record-with-22-goals/a-78022308?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Ukrainian drones have struck warehouses, an oil depot and other targets across Russia, killing seven night-shift workers. Kyiv said the facilities supplied components used to make drones and navigation equipment.",
+      "snippet": "Kylian Mbappe has moved past Lionel Messi on the all-time World Cup goal-scoring record in a spectacular match for third place. England won the game 6-4.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Cuban dissident artist arrives in US after 5 years in prison",
+      "link": "https://www.dw.com/en/cuban-dissident-artist-arrives-in-us-after-5-years-in-prison/a-78021940?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Luis Manuel Otero Alcantara, a prominent Cuban artist and dissident, was detained in July 2021 as he attempted to join unprecedented mass protests across the communist island.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Hungary&apos;s president signs amendment ending his own term",
+      "link": "https://www.dw.com/en/hungary-s-president-signs-amendment-ending-his-own-term/a-78021311?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "An ally of former PM Viktor Orban has signed a constitutional amendment ending his own term as head of state. Tamas Sulyok criticized the law, while lawmakers insist he has impeded national progress by staying in office.",
       "tier": 2
     },
     {
@@ -452,6 +468,54 @@
       "link": "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Surrogacy is not permitted in Germany and the conservative Christian Democratic Union (CDU) opposes its legalization. Spahn and his husband had their child through a surrogate mother in the US.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Norway: Huge fire destroys 100 homes, sparks evacuations",
+      "link": "https://www.dw.com/en/norway-huge-fire-destroys-100-homes-sparks-evacuations/a-78019089?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Firefighters from other areas of Norway were drafted in to help tackle the blaze in the southern city of Drammen.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Israel: How real is threat of gender segregation on street?",
+      "link": "https://www.dw.com/en/israel-how-real-is-threat-of-gender-segregation-on-street/a-78020879?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "An Israeli city, with a large ultra-Orthodox Jewish population, wants to separate men and women on certain streets. Israeli politicians voted to allow university courses to do the same.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran: US attacks show Trump&apos;s word is &apos;utterly worthless&apos;",
+      "link": "https://www.dw.com/en/iran-us-attacks-show-trump-s-word-is-utterly-worthless/live-78015388?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Iran has issued a written statement attributed to new Supreme Leader Mojtaba Khamenei. It rebukes the recent US strikes and warns of \"unforgettable lessons.\" DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine drones target Russian warehouses and oil sites",
+      "link": "https://www.dw.com/en/ukraine-drones-target-russian-warehouses-and-oil-sites/a-78018446?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ukrainian drones have struck warehouses, an oil depot and other targets across Russia, killing nine people and injuring over 80 more. Kyiv said its strikes targeted suppliers for Moscow&apos;s ongoing invasion of Ukraine.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Reproductive medicine laws in Germany &apos;shockingly unjust&apos;",
+      "link": "https://www.dw.com/en/reproductive-medicine-laws-in-germany-shockingly-unjust/a-68199876?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Infertility affects one in six women in Germany. However, access to reproductive medicine is not available to all. Surrogacy as well as egg donation are banned.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why did Jens Spahn&apos;s surrogacy spark debate in Germany?",
+      "link": "https://www.dw.com/en/why-did-jens-spahn-s-surrogacy-spark-debate-in-germany/a-78009366?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Jens Spahn, a key ally of Chancellor Friedrich Merz, is stepping down amid a controversy surrounding his decision to have a child via a surrogate mother. He had opposed legalizing surrogacy in Germany.",
       "tier": 2
     },
     {
@@ -512,18 +576,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran threatens &apos;full-scale&apos; offensive if US keeps bombing",
-      "link": "https://www.dw.com/en/iran-threatens-full-scale-offensive-if-us-keeps-bombing/live-78015388?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "An Iranian general warned no border will be safe if the US strikes continue past the next few days. Meanwhile, the US rejected Tehran&apos;s claims that two oil tankers exploded near the Strait of Hormuz. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "India: Police move activist Sonam Wangchuk to hospital on court orders",
       "link": "https://www.dw.com/en/india-police-move-activist-sonam-wangchuk-to-hospital-on-court-orders/a-78015393?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "New Delhi&apos;s police have asked people to vacate the Jantar Mantar site where Wangchuk, students and supporters of the Cockroach Janata Party have been camping in protest of the education minister.",
+      "snippet": "New Delhi&apos;s police have asked people to vacate the Jantar Mantar site where Wangchuk, students and supporters of the Cockroach Janat Party have been camping in protest of the education minister.",
       "tier": 2
     },
     {
@@ -532,62 +588,6 @@
       "link": "https://www.dw.com/en/taco-bell-lettuce-tied-to-diarrhea-causing-parasite-outbreak/a-78015079?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "US health officials linked iceberg lettuce served at Taco Bell to an outbreak of the parasite cyclospora, which causes “explosive” diarrhea. Health officials warn that the contamination may go beyond the fast-food chain.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Gaza officials say several killed in Israeli strike",
-      "link": "https://www.dw.com/en/gaza-officials-say-several-killed-in-israeli-strike/a-78014902?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Palestinian health and civil defense officials said at least eight people were killed while attending a funeral. Israel&apos;s military said it had struck a \"terrorist cell\" from the Islamic Jihad militant group.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s 5,000 heat deaths: What the numbers reveal",
-      "link": "https://www.dw.com/en/germany-s-5-000-heat-deaths-what-the-numbers-reveal/a-78010353?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "More than 5,100 people in Germany died from heat-related causes this year until the end of June, the Robert Koch Institute reports. But how can researchers prove that someone died because of soaring temperatures?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Canada wildfires: Smoke choking major US cities",
-      "link": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Trump has blamed Canada for the wildfires and their impact on the US, threatening extra tariffs on the US neighbor. FIFA World Cup organizers are \"monitoring closely\" the smoky conditions.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Japan revises imperial succession rules, but still excludes women",
-      "link": "https://www.dw.com/en/japan-revises-imperial-succession-rules-but-still-excludes-women/a-78009893?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Parliament has adjusted imperial succession laws in the country, seeking to ensure the royal line endures, but maintained the bar on women emperors. A popular princess, Aiko, would be next in line if sex was no issue.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why the US is going after the International Criminal Court",
-      "link": "https://www.dw.com/en/why-the-us-is-going-after-the-international-criminal-court/a-78006596?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US Secretary of State Marco Rubio has ramped up his criticism of the International Criminal Court in The Hague. His gloves-off approach could have far-reaching consequences for the tribunal.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "West Indies cricket legend Sir Garfield Sobers dies",
-      "link": "https://www.dw.com/en/west-indies-cricket-legend-sir-garfield-sobers-dies/a-78013119?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Sir Garfield Sobers, considered one of the game&apos;s greatest all-rounders, has died aged 89. The International Cricket Council said he was one of the \"greatest cricketers to have ever graced the game.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Uganda halts school trips as bus crash kills 20 kids",
-      "link": "https://www.dw.com/en/uganda-halts-school-trips-as-bus-crash-kills-20-kids/a-78010176?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A school bus in Uganda has crashed during its return to Kampala from a trip to the Sipi Falls. The government has temporarily halted all school trips in response, as families mourn at least 20 dead children and an adult.",
       "tier": 2
     }
   ]
