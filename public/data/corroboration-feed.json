@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T00:56:45.282Z",
+  "generatedAt": "2026-07-25T12:44:50.579Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,18 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 21:47:16 GMT",
-      "snippet": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 06:41:42 GMT",
+      "snippet": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 06:34:40 GMT",
+      "snippet": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
       "tier": 1
     },
     {
@@ -56,9 +64,25 @@
     },
     {
       "source": "BBC World",
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 22:49:59 GMT",
+      "snippet": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "ICC top prosecutor removed over sexual misconduct allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 21:02:30 GMT",
+      "snippet": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
       "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 00:13:22 GMT",
+      "publishedAt": "Sat, 25 Jul 2026 02:14:50 GMT",
       "snippet": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
       "tier": 1
     },
@@ -72,18 +96,10 @@
     },
     {
       "source": "BBC World",
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 18:13:02 GMT",
-      "snippet": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "ICC top prosecutor removed over sexual misconduct allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 21:02:30 GMT",
-      "snippet": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 02:23:09 GMT",
+      "snippet": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
       "tier": 1
     },
     {
@@ -92,14 +108,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 24 Jul 2026 12:40:44 GMT",
       "snippet": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 22:49:59 GMT",
-      "snippet": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
       "tier": 1
     },
     {
@@ -120,33 +128,17 @@
     },
     {
       "source": "BBC World",
-      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
-      "link": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 11:53:49 GMT",
-      "snippet": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "India's 'cockroach' protesters hold talks with government as stalemate continues",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 10:31:10 GMT",
-      "snippet": "The meeting came hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
-      "link": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 08:30:58 GMT",
-      "snippet": "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
+      "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 20:37:21 GMT",
+      "snippet": "The outage affected gamers' ability to launch games, apps or network features on their PlayStation.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
       "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 23:11:13 GMT",
+      "publishedAt": "Sat, 25 Jul 2026 10:14:41 GMT",
       "snippet": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
       "tier": 1
     },
@@ -160,7 +152,7 @@
     },
     {
       "source": "BBC World",
-      "title": "'The dogs were getting upset': How LA band Muna survived their worst ever gig",
+      "title": "The pop band who went from playing for rescue dogs to selling out arenas",
       "link": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 24 Jul 2026 23:01:10 GMT",
       "snippet": "The group discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
@@ -176,6 +168,14 @@
     },
     {
       "source": "BBC World",
+      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+      "link": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 11:53:49 GMT",
+      "snippet": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
       "link": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 24 Jul 2026 01:59:49 GMT",
@@ -184,10 +184,66 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-      "link": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 12:58:40 GMT",
-      "snippet": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
+      "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+      "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 23 Jul 2026 04:49:24 GMT",
+      "snippet": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
+      "link": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning",
+      "publishedAt": "Sat, 25 Jul 2026 08:05:34 -0400",
+      "snippet": "Back in the &apos;90s, I learned the art of staying cool in Egypt. At that time, air conditioning was not common. In the extremely hot summer of 2026, how are people managing?",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Opinion: New Jersey pizza, the fuel of world champions",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions",
+      "publishedAt": "Sat, 25 Jul 2026 08:00:00 -0400",
+      "snippet": "What do World Cup champions crave after a win? Pizza from an Orange, N.J., bagel shop. BXJ made 46 pies for the Spanish team after their victory.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Sextortion: That&apos;s the threat for women who are simply trying to buy clean water",
+      "link": "https://www.npr.org/2026/07/25/g-s1-133450/sexual-violence-women-clean-water-nairobi-kenya",
+      "publishedAt": "Sat, 25 Jul 2026 07:59:19 -0400",
+      "snippet": "Water is often a scarce commodity in Nairobi&apos;s largest slum. The only source may be a local cartel — and with that comes the risk of sexual threats and attacks.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Why these cancer patients face a lonely fight",
+      "link": "https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria",
+      "publishedAt": "Sat, 25 Jul 2026 07:51:44 -0400",
+      "snippet": "As Nigeria grapples with a rapid rise in cancer cases, patients say they often feel as if they are on their own.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump is hellbent on tariffs. Here are 5 implications",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation",
+      "publishedAt": "Sat, 25 Jul 2026 05:00:00 -0400",
+      "snippet": "Trump&apos;s determination to find new legal justifications for his tariffs threatens to prolong the uncertainty facing the U.S. and global economies.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race",
+      "publishedAt": "Sat, 25 Jul 2026 05:00:00 -0400",
+      "snippet": "Democrats are hoping to move past Platner&apos;s scandal-plagued campaign as they look to unseat Republican incumbent Susan Collins. The apparent front-runner is former Maine Senate President Troy Jackson.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump returns to correspondents&apos; dinner 3 months after shooting",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
+      "publishedAt": "Sat, 25 Jul 2026 01:04:00 -0400",
+      "snippet": "President Donald Trump returned to the rescheduled White House Correspondents&apos; Association dinner Friday night, delivering a rambling, hour-long speech.",
       "tier": 1
     },
     {
@@ -215,59 +271,11 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "How The Illharmonic&apos;s mix of hip-hop and classical builds community, one show at a time",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5863498/the-illharmonic-orchestra-hip-hop-classical-music",
-      "publishedAt": "Fri, 24 Jul 2026 16:00:00 -0400",
-      "snippet": "The Illharmonic Orchestra blends hip-hop and classical music during live performances. Its leaders tell NPR&apos;s Juana Summers how they build community with their shows, which feature all-Black musicians.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "A former nun explains why she ran away from her &apos;Cloistered&apos; life",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5904598/a-former-nun-explains-why-she-ran-away-from-her-cloistered-life",
-      "publishedAt": "Fri, 24 Jul 2026 09:48:04 -0400",
-      "snippet": "Catherine Coldstream entered a Carmelite monastery at age 24, and lived a life of prayer and obedience for 12 years. Her memoir is C loistered: My Years as a Nun. Originally published March 20, 2024.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
-      "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
-      "publishedAt": "Fri, 24 Jul 2026 07:37:58 -0400",
-      "snippet": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
-      "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
-      "publishedAt": "Fri, 24 Jul 2026 07:30:08 -0400",
-      "snippet": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "U.S. allies hit with new tariffs object to Trump&apos;s forced labor allegations",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
-      "publishedAt": "Fri, 24 Jul 2026 06:31:08 -0400",
-      "snippet": "Australia and the European Union were among U.S. trade partners who criticized the tariffs.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "What animal is the deformed-but-adorable Jimothy? The quiz knows — do you?",
-      "link": "https://www.npr.org/2026/07/24/g-s1-134821/jimothy-ai-uk-mamdani-strait-iran-news-quiz",
-      "publishedAt": "Fri, 24 Jul 2026 05:01:00 -0400",
-      "snippet": "Also: Ryan Gosling&apos;s regrets, Zohran Mamdani&apos;s exhortations and the Smithsonian&apos;s alleged wokeness.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "A defiant Trump imposes replacement tariffs on biggest U.S. trading partners",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada",
-      "publishedAt": "Fri, 24 Jul 2026 05:00:00 -0400",
-      "snippet": "The administration timed a new set of tariffs on all of its largest trading partners to take effect at the same time the old, global tariff ended.",
+      "source": "PBS Headlines",
+      "title": "Fact-checking Mullin's claim that foreign adversaries can access voting machines in U.S. elections",
+      "link": "https://www.pbs.org/newshour/politics/fact-checking-mullins-claim-that-foreign-adversaries-can-access-voting-machines-in-u-s-elections",
+      "publishedAt": "Sat, 25 Jul 2026 08:00:26 -0400",
+      "snippet": "Mullin's comments about foreign adversaries accessing voting machines reflect concerns that security and election technology experts have long had. But so far, there's no proof of such attempts.",
       "tier": 1
     },
     {
@@ -423,19 +431,83 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Teen pleads guilty to murder in a 2024 shooting that left 4 dead at Georgia's Apalachee High School",
-      "link": "https://www.pbs.org/newshour/nation/teen-pleads-guilty-to-murder-in-a-2024-shooting-that-left-4-dead-at-georgias-apalachee-high-school",
-      "publishedAt": "Fri, 24 Jul 2026 13:09:34 -0400",
-      "snippet": "A teenager has pleaded guilty to all 55 counts, including murder, in a shooting nearly two years ago at Apalachee High School in Georgia that killed two students and two teachers.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Could &apos;mesh networks&apos; help overcome authoritarians&apos; internet blocks?",
+      "link": "https://www.dw.com/en/could-mesh-networks-help-overcome-authoritarians-internet-blocks/a-78055915?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In authoritarian countries, the state is often either monitoring online communications or has the ability to shut them down in a political crisis. But there are other ways that activists can keep in touch.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Niger still seeking stability after 3 years of military rule",
+      "link": "https://www.dw.com/en/niger-still-seeking-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The military government in Niger promised social, security, and economic improvements when it took power in 2023. Three years down the line, there are mixed reviews on its performance.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Europe wildfires rage on, forcing 200,000 from homes",
+      "link": "https://www.dw.com/en/europe-wildfires-rage-on-forcing-200-000-from-homes/a-78109406?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Hot, arid weather and strong winds have continued to fuel wildfires in France, Spain and Italy, devastating huge swaths of land and forcing mass evacuations. As national emergencies are declared, the danger remains.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Eco wins: Cities, creatures, and tech are saving the day",
+      "link": "https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "From an AI-powered cute little pangolin, heat mapping to cool down cities and animals reducing wildfire risks by doing their thing, these real-world climate hacks are helping communities stay ahead of a changing planet.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India: Cockroaches end protest after minister resigns",
+      "link": "https://www.dw.com/en/india-cockroaches-end-protest-after-minister-resigns/live-78108089?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "India&apos;s Cockroach movement says it is ending its protests following talks with the government. That&apos;s hours after Education Minister Dharmendra Pradhan announced his resignation. Follow DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: Houthis vow response to &apos;dangerous escalation&apos; by Saudi Arabia",
+      "link": "https://www.dw.com/en/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/live-78107211?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Iran-backed Houthi rebels in Yemen claim that civilian sites were targeted in Saudi strikes on the Yemeni port city of Hodeida. Saudi Arabia says it hit military targets. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump addresses rescheduled White House Correspondents&apos; Dinner",
+      "link": "https://www.dw.com/en/trump-addresses-rescheduled-white-house-correspondents-dinner/a-78107209?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The event was originally scheduled for April but was disrupted by the alleged attempted assassination of Donald Trump. His hourlong speech combined jokes with attacks on members of the press.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Starship completes 1st test flight since SpaceX IPO",
+      "link": "https://www.dw.com/en/starship-completes-1st-test-flight-since-spacex-ipo/a-78107347?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Starship splashed down in the Indian Ocean to complete its 13th test flight and its first since Elon Musk&apos;s SpaceX went public in June.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran war: Saudi-led coalition attacks Yemen&apos;s Hodeida port city",
+      "link": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The strikes come after the Iran-backed Houthis attacked several Saudi oil tankers in the Red Sea in recent days. The escalation comes as the US and Iran also vie for control of the vital Strait of Hormuz. DW has more.",
       "tier": 2
     },
     {
@@ -496,14 +568,6 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Niger still seeks stability, after 3 years of military rule",
-      "link": "https://www.dw.com/en/niger-still-seeks-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The military government in Niger had promised social, security and economic improvements when it took power in 2023. Three years down the line, there are mixed reviews on its performance.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "UNESCO adds Lebanese, West Bank sites to endangered list",
       "link": "https://www.dw.com/en/unesco-adds-lebanese-west-bank-sites-to-endangered-list/a-78102475?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -524,70 +588,6 @@
       "link": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Pakistan-administered Kashmir heads to the polls after weeks of deadly protests over seats reserved for displaced people from India-administered Kashmir. One local group has called for the elections to be boycotted.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why Iran&apos;s Pickaxe Mountain is a tough target for the US",
-      "link": "https://www.dw.com/en/why-iran-s-pickaxe-mountain-is-a-tough-target-for-the-us/a-78100313?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Donald Trump has threatened to attack a suspected Iranian nuclear site buried deep under a mountain. Pickaxe Mountain remains one of the biggest unanswered questions surrounding Iran&apos;s nuclear program.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Top court rules out mass admission revocations",
-      "link": "https://www.dw.com/en/germany-news-top-court-rules-out-mass-admission-revocations/live-78101249?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "An Afghan woman has won victory over Germany&apos;s Interior Ministry after it cancelled her admission. Elsewhere, consumer confidence and VW profits are down, while violent extremist crime is up. Follow DW for the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Turkey: What chances does Ozel&apos;s new opposition party have?",
-      "link": "https://www.dw.com/en/turkey-what-chances-does-ozel-s-new-opposition-party-have/a-78091681?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After being removed as head of Turkey&apos;s main opposition CHP in May, Ozgur Ozel has announced the formation of a new party. Dozens of lawmakers have followed him, but will he be able to challenge President Erdogan?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why Trump&apos;s &apos;forced labor&apos; tariffs leave the world puzzled",
-      "link": "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After the US Supreme Court struck down Donald Trump&apos;s emergency tariffs, the White House has turned to another trade law linked to alleged human rights abuses.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ousted Turkish opposition leader forms second-largest party",
-      "link": "https://www.dw.com/en/ousted-turkish-opposition-leader-forms-second-largest-party/a-78099282?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "With 90 lawmakers defecting alongside him, Ozgur Ozel&apos;s New Party has automatically become the second-largest group in Turkey&apos;s parliament. He leaves behind deep devisions and judicial challenges against the CHP.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fighting wildfires is getting harder — these tips could help",
-      "link": "https://www.dw.com/en/fighting-wildfires-is-getting-harder-these-tips-could-help/a-78091968?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "With Spain declaring a national emergency, France seeking EU assistance and Canada dealing with more than 900 hot spots, wildfires are out of control. How can we stop our forests from burning out of control?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How vanilla&apos;s history is not so … &apos;vanilla&apos;",
-      "link": "https://www.dw.com/en/how-vanilla-s-history-is-not-so-…-vanilla/a-78035296?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Long before \"vanilla\" meant bland, the bean&apos;s fandom spanned Mesoamerican elites to European courts. But it owes its ubiquity to a 12-year-old enslaved boy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Jürgen Klopp and Germany: A partnership long in the making",
-      "link": "https://www.dw.com/en/jürgen-klopp-and-germany-a-partnership-long-in-the-making/a-77805100?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In one of the worst-kept secrets in football, the former Dortmund and Liverpool boss has been named head coach of the German men&apos;s national team.",
       "tier": 2
     }
   ]
