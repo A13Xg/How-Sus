@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T01:01:53.618Z",
+  "generatedAt": "2026-07-26T12:44:43.243Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,18 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "More than 300,000 flee wildfires in France and Spain",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 00:54:06 GMT",
-      "snippet": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 11:41:04 GMT",
+      "snippet": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 11:29:07 GMT",
+      "snippet": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
       "tier": 1
     },
     {
@@ -48,18 +56,18 @@
     },
     {
       "source": "BBC World",
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 17:44:46 GMT",
-      "snippet": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 10:26:05 GMT",
+      "snippet": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 06:34:40 GMT",
-      "snippet": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 17:44:46 GMT",
+      "snippet": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
       "tier": 1
     },
     {
@@ -76,6 +84,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 24 Jul 2026 23:01:06 GMT",
       "snippet": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 06:34:40 GMT",
+      "snippet": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
       "tier": 1
     },
     {
@@ -144,6 +160,14 @@
     },
     {
       "source": "BBC World",
+      "title": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 03:58:51 GMT",
+      "snippet": "They have seen a flurry of recent wins, but Michigan will test their ability to win back working-class voters in crucial states.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "The notorious Cameroonian prison with its own record label",
       "link": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 26 Jul 2026 00:24:30 GMT",
@@ -167,27 +191,59 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-      "link": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 23:30:07 GMT",
-      "snippet": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+      "source": "NPR News",
+      "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
+      "link": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
+      "publishedAt": "Sun, 26 Jul 2026 06:00:00 -0400",
+      "snippet": "A year after President Trump signed a law ending six decades of federal funding of public media, it&apos;s a time of reinvention, innovation and clear anxiety at public tv and radio stations nationwide.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 22:15:14 GMT",
-      "snippet": "Formerly the preserve of the rich, tennis is booming in the basketball- and boxing-obsessed country.",
+      "source": "NPR News",
+      "title": "Lebanese displaced by war turn to satellites to check their homes",
+      "link": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
+      "publishedAt": "Sun, 26 Jul 2026 06:00:00 -0400",
+      "snippet": "Unable to return home, some Lebanese displaced by Israel&apos;s invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "CJP protest: The youth movement India's Modi didn't see coming",
-      "link": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 13:26:04 GMT",
-      "snippet": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years - why?",
+      "source": "NPR News",
+      "title": "Climate change is now threatening a pillar of childhood: summer break",
+      "link": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+      "publishedAt": "Sun, 26 Jul 2026 05:00:00 -0400",
+      "snippet": "When summer rolls around, many parents scramble to sign up their young kids for outdoor activities. But what do you do when extreme heat and wildfire smoke increasingly make the outdoors dangerous?",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "ADHD looks different in women and poses unique health risks",
+      "link": "https://www.npr.org/2026/07/26/nx-s1-5821101/adhd-women-health-diagnosis-missed-treatment",
+      "publishedAt": "Sun, 26 Jul 2026 05:00:00 -0400",
+      "snippet": "For decades, ADHD was viewed as a childhood condition that mostly affected boys. Researchers now know ADHD manifests differently in girls, but many still go undiagnosed until adulthood.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Meet the robots programmed by kids to speak their Indigenous languages",
+      "link": "https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages",
+      "publishedAt": "Sun, 26 Jul 2026 05:00:00 -0400",
+      "snippet": "Many Native American languages are endangered. With the help of his mentor, a 12-year-old in Michigan hopes to help preserve his language through robotics.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+      "publishedAt": "Sat, 25 Jul 2026 21:10:56 -0400",
+      "snippet": "Berlin police said they have identified a suspect who \"is known to police\" and has links to \"Islamist circles.\"",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "France and Spain fires force more than 200,000 to flee homes",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
+      "publishedAt": "Sat, 25 Jul 2026 21:05:45 -0400",
+      "snippet": "At least one person has died in a fire in Spain, according to officials.",
       "tier": 1
     },
     {
@@ -212,62 +268,6 @@
       "link": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning",
       "publishedAt": "Sat, 25 Jul 2026 08:05:34 -0400",
       "snippet": "Back in the &apos;90s, I learned the art of staying cool in Egypt. At that time, air conditioning was not common. In the extremely hot summer of 2026, how are people managing?",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Opinion: New Jersey pizza, the fuel of world champions",
-      "link": "https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions",
-      "publishedAt": "Sat, 25 Jul 2026 08:00:00 -0400",
-      "snippet": "What do World Cup champions crave after a win? Pizza from an Orange, N.J., bagel shop. BXJ made 46 pies for the Spanish team after their victory.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Some women who can&apos;t afford water are often pressured to provide sex for it",
-      "link": "https://www.npr.org/2026/07/25/g-s1-133450/sexual-violence-women-clean-water-nairobi-kenya",
-      "publishedAt": "Sat, 25 Jul 2026 07:59:19 -0400",
-      "snippet": "Water is often a scarce commodity in Nairobi&apos;s largest slum. The only source may be a local cartel — and with that comes the risk of sexual threats and attacks.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Cancer rates are rising faster here than anywhere else. Are healthcare systems ready?",
-      "link": "https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria",
-      "publishedAt": "Sat, 25 Jul 2026 07:51:44 -0400",
-      "snippet": "As Nigeria grapples with a rapid rise in cancer cases, patients say they often feel as if they are on their own.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Trump is hellbent on tariffs. Here are 5 implications",
-      "link": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation",
-      "publishedAt": "Sat, 25 Jul 2026 05:00:00 -0400",
-      "snippet": "Trump&apos;s determination to find new legal justifications for his tariffs threatens to prolong the uncertainty facing the U.S. and global economies.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
-      "link": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race",
-      "publishedAt": "Sat, 25 Jul 2026 05:00:00 -0400",
-      "snippet": "Democrats are hoping to move past Graham Platner&apos;s scandal-plagued campaign as they look to unseat Susan Collins. In Jackson, they chose a nominee with a similar economic populist message as Platner.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "&apos;The show must go on.&apos; Trump makes jabs at rescheduled White House Correspondents&apos; dinner",
-      "link": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
-      "publishedAt": "Sat, 25 Jul 2026 01:04:00 -0400",
-      "snippet": "President Trump used his speech to attack his political opponents, members of the media and even members of his own cabinet.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits",
-      "publishedAt": "Fri, 24 Jul 2026 18:26:21 -0400",
-      "snippet": "A dozen states and the Writers Guild of America had challenged the merger.",
       "tier": 1
     },
     {
@@ -440,6 +440,70 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Sudan civil war: Civilians used as &apos;human shields&apos;",
+      "link": "https://www.dw.com/en/sudan-civil-war-civilians-used-as-human-shields/a-78089487?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The situation in the besieged city of El Obeid in Sudan is worsening by the day, with rights organizations warning of mass atrocities. Children are traumatized and do not dare go to school.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Middle East: No fresh US strikes on Iran for a second day",
+      "link": "https://www.dw.com/en/middle-east-no-fresh-us-strikes-on-iran-for-a-second-day/live-78117732?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Two days have passed without any strikes by the US and Iran. Fighting between Yemen&apos;s Houthis and Saudi Arabia has added another layer to the complex Middle East crisis. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Vietnamese vessel sinks in South China Sea, 17 missing",
+      "link": "https://www.dw.com/en/vietnamese-vessel-sinks-in-south-china-sea-17-missing/a-78118211?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A Vietnamese-registered cargo ship carrying 62 crew members sank near Yongshu Reef in the South China Sea, one of the world&apos;s most important and contested maritime spaces.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
+      "link": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The attack at a Berlin Pride event is only the most recent incident on a long list where vehicles were used as weapons. The US, Canada, and China also saw similar attacks in recent years.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Home minister backs Pradhan after resignation",
+      "link": "https://www.dw.com/en/india-news-home-minister-backs-pradhan-after-resignation/live-78117719?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Hours after India&apos;s education minister resigned amid youth protests, India&apos;s home minister spoke out in his defense. Meanwhile, Cockroach party&apos;s leader thanked &apos;cockroaches&apos; across India. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany classifies Berlin Pride ramming as &apos;terror attack&apos;",
+      "link": "https://www.dw.com/en/germany-classifies-berlin-pride-ramming-as-terror-attack/live-78117180?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Police believe the 21-year-old suspect, named as Abdul B., has links to the Islamist scene. One person was killed and several others injured in the attack. Follow DW for more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Brazil denies entry to senior Trump officials ahead of elections",
+      "link": "https://www.dw.com/en/brazil-denies-entry-to-senior-trump-officials-ahead-of-elections/a-78117458?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Brazil rejected visas for two planned US envoys, alleging that Washington was seeking to shape Brazil&apos;s upcoming presidential election. The development adds to a deepening political tension between Brazil and the US.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Berlin: 1 dead, 16 injured after car ramming at CSD Pride event",
+      "link": "https://www.dw.com/en/berlin-1-dead-16-injured-after-car-ramming-at-csd-pride-event/a-78116146?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A citywide manhunt is underway after a van drove into a crowd during Pride celebrations, known locally as Christopher Street Day (CSD). Police have identified a suspect tied to Berlin&apos;s \"Islamist scene.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "WAFCON 2026: What you need to know",
       "link": "https://www.dw.com/en/wafcon-2026-what-you-need-to-know/a-77956787?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -524,70 +588,6 @@
       "link": "https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "From an AI-powered cute little pangolin, heat mapping to cool down cities and animals reducing wildfire risks by doing their thing, these real-world climate hacks are helping communities stay ahead of a changing planet.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: &apos;Cockroaches&apos; end protest after Education Minister Dharmendra Pradhan resigns",
-      "link": "https://www.dw.com/en/india-news-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "India&apos;s Cockroach movement says it is ending its protests following talks with the government. That&apos;s hours after Education Minister Dharmendra Pradhan announced his resignation.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: Houthis vow response to &apos;dangerous escalation&apos; by Saudi Arabia",
-      "link": "https://www.dw.com/en/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/live-78107211?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Iran-backed Houthi rebels in Yemen claim that civilian sites were targeted in Saudi strikes on the Yemeni port city of Hodeida. Saudi Arabia says it hit military targets. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump addresses rescheduled White House Correspondents&apos; Dinner",
-      "link": "https://www.dw.com/en/trump-addresses-rescheduled-white-house-correspondents-dinner/a-78107209?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The event was originally scheduled for April but was disrupted by the alleged attempted assassination of Donald Trump. His hourlong speech combined jokes with attacks on members of the press.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Starship completes 1st test flight since SpaceX IPO",
-      "link": "https://www.dw.com/en/starship-completes-1st-test-flight-since-spacex-ipo/a-78107347?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Starship splashed down in the Indian Ocean to complete its 13th test flight and its first since Elon Musk&apos;s SpaceX went public in June.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: Saudi-led coalition attacks Yemen&apos;s Hodeida port city",
-      "link": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The strikes come after the Iran-backed Houthis attacked several Saudi oil tankers in the Red Sea in recent days. The escalation comes as the US and Iran also vie for control of the vital Strait of Hormuz. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Paramount agrees to delay Warner Bros. merger amid lawsuit",
-      "link": "https://www.dw.com/en/paramount-agrees-to-delay-warner-bros-merger-amid-lawsuit/a-78107061?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Paramount has agreed to freeze its merger with Warner Bros. Discovery until as late as June 2027. Twelve states have argued that the deal would create a \"media behemoth\" that would harm the US entertainment industry.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "ICC votes to dismiss Chief Prosecutor Karim Khan",
-      "link": "https://www.dw.com/en/icc-votes-to-dismiss-chief-prosecutor-karim-khan/a-78092577?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Members of the International Criminal Court have voted to remove Chief Prosecutor Karim Khan amid allegations of sexual misconduct. Khan has denied the accusations.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Poland&apos;s main opposition collapses over far-right slide",
-      "link": "https://www.dw.com/en/poland-s-main-opposition-collapses-over-far-right-slide/a-78106475?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A power struggle within Poland&apos;s main opposition force has come to a head. But a move to expel former Prime Minister Mateusz Morawiecki may greatly weaken the right-wing party&apos;s popularity.",
       "tier": 2
     }
   ]
