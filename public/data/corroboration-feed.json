@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T01:01:44.287Z",
+  "generatedAt": "2026-07-27T13:23:50.549Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,90 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 18:40:08 GMT",
-      "snippet": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+      "title": "Oil price dives as US and Iran pause attacks",
+      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 11:50:23 GMT",
+      "snippet": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 12:33:31 GMT",
+      "snippet": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+      "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 10:46:50 GMT",
+      "snippet": "Police say two suspects were shooting at each other and one of them is in custody and one at large.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
+      "link": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 11:03:15 GMT",
+      "snippet": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World Cup.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 10:59:13 GMT",
+      "snippet": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Millions see leaked copy of The Odyssey movie on X",
+      "link": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 09:21:10 GMT",
+      "snippet": "Film studio Universal takes down a high-quality bootleg version of the film, which appeared on X.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 09:59:15 GMT",
+      "snippet": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'Dr Death', Body Worlds creator Gunther von Hagens, dies at 81",
+      "link": "https://www.bbc.co.uk/news/articles/czjlnrn47lwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 12:28:07 GMT",
+      "snippet": "The family of the anatomist vowed to carry out his wish for his body to be preserved using the plastination technique he developed himself.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US deports Kenyan former NFL player Daniel Adongo",
+      "link": "https://www.bbc.co.uk/news/articles/c74gzg27v8no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 10:56:36 GMT",
+      "snippet": "The authorities say the ex-sportsman had overstayed his visa and had been arrested multiple times.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky arrives in UK ahead of meeting Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 12:33:40 GMT",
+      "snippet": "The Ukrainian president will be the new prime minister's first international visitor since taking office.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Argentine leader calls Brazilian president a 'thief' and a 'convict'",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 10:19:34 GMT",
+      "snippet": "Javier Milei spoke at a campaign rally for right-wing presidential candidate Flávio Bolsonaro, who is running against Lula.",
       "tier": 1
     },
     {
@@ -48,18 +128,18 @@
     },
     {
       "source": "BBC World",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 20:34:23 GMT",
-      "snippet": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+      "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 07:37:11 GMT",
+      "snippet": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-      "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 00:27:58 GMT",
-      "snippet": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+      "title": "Infantino tells Fifa critics to 'meditate, pray or watch football'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 08:07:28 GMT",
+      "snippet": "Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the World Cup.",
       "tier": 1
     },
     {
@@ -72,122 +152,106 @@
     },
     {
       "source": "BBC World",
-      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 21:30:20 GMT",
-      "snippet": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+      "title": "Australian court upholds racial discrimination ruling against Pauline Hanson",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k5v9202wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 06:14:06 GMT",
+      "snippet": "One Nation leader loses bid to overturn ruling that she racially discriminated against Senator Mehreen Faruqi.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 13:51:07 GMT",
-      "snippet": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+      "link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 02:08:36 GMT",
+      "snippet": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 17:44:46 GMT",
-      "snippet": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "title": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 10:19:36 GMT",
+      "snippet": "The company's shares soared by nearly 470% in its market debut, as the AI boom drives chip demand.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 00:06:53 GMT",
-      "snippet": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "title": "How 'fire-generated thunderstorms' make wildfires more deadly",
+      "link": "https://www.bbc.co.uk/news/articles/c2350xnl4j5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 11:11:07 GMT",
+      "snippet": "Certain types of severe wildfire can create pyrocumulonimbus - something that Nasa calls the \"fire-breathing dragon of clouds\".",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 23:01:06 GMT",
-      "snippet": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+      "title": "Musk takes 'crusade' to Europe with Armie Hammer film",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4w5nwk00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 09:52:21 GMT",
+      "snippet": "Musk has backed a film called Citizen Vigilante featuring an American vigilante tearing across an unnamed European country.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 06:34:40 GMT",
-      "snippet": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "source": "NPR News",
+      "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+      "link": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
+      "publishedAt": "Mon, 27 Jul 2026 07:45:56 -0400",
+      "snippet": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 22:49:59 GMT",
-      "snippet": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "source": "NPR News",
+      "title": "France continues to fight devastating wildfires, while progress is made in Spain",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
+      "publishedAt": "Mon, 27 Jul 2026 06:50:09 -0400",
+      "snippet": "In southern France a wildfire in the region of Gironde is still active, while two major fires in central Spain are finally coming under control, ahead of the fourth heat wave of the summer.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "ICC top prosecutor removed over sexual misconduct allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 21:02:30 GMT",
-      "snippet": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+      "source": "NPR News",
+      "title": "Baltimore will turn 911 into more than just an emergency number",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
+      "publishedAt": "Mon, 27 Jul 2026 05:00:00 -0400",
+      "snippet": "Baltimore is rethinking what it means to call 911, and who responds. Callers who don&apos;t need police will get help finding social services and healthcare before they actually fall into crisis.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-      "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 02:14:50 GMT",
-      "snippet": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
+      "source": "NPR News",
+      "title": "Kalshi attacks a Wisconsin law banning election bets as &apos;voter suppression&apos;",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
+      "publishedAt": "Mon, 27 Jul 2026 05:00:00 -0400",
+      "snippet": "The spat between the leading prediction market company and a key battleground state could be a glimpse into the next major fight between states and the fast-growing industry.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 20:23:58 GMT",
-      "snippet": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "source": "NPR News",
+      "title": "In Memphis, an &apos;anti-crime&apos; task force quietly turned into an ICE crackdown",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force",
+      "publishedAt": "Mon, 27 Jul 2026 05:00:00 -0400",
+      "snippet": "The influx of federal agents into the city last fall led to widespread immigration arrests – a majority without criminal convictions. President Trump has said he wants to replicate it elsewhere.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
-      "link": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 22:06:46 GMT",
-      "snippet": "World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.",
+      "source": "NPR News",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5901889/morning-news-brief",
+      "publishedAt": "Mon, 27 Jul 2026 04:43:38 -0400",
+      "snippet": "Three people were killed in a shooting at a Seattle food festival Sunday, U.S and Iran pause airstrikes, with less than 100 days left until Election Day, a look at how the midterms are shaping up.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 03:58:51 GMT",
-      "snippet": "They have seen a flurry of recent wins, but Michigan will test their ability to win back working-class voters in crucial states.",
+      "source": "NPR News",
+      "title": "Can the U.S. and Iran take the off-ramp?",
+      "link": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
+      "publishedAt": "Mon, 27 Jul 2026 01:57:59 -0400",
+      "snippet": "The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "The notorious Cameroonian prison with its own record label",
-      "link": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 00:24:30 GMT",
-      "snippet": "New Bell's inmates have become mini stars, recording songs and music videos from the confines of the jail.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Would you pay $58.5m to live in this iconic New York building?",
-      "link": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 00:05:03 GMT",
-      "snippet": "With its renovation nearly complete, the Flatiron is ready for its next - and most extravagant - phase of life.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "What Love Island tells us about the changing face of dating",
-      "link": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 23:31:49 GMT",
-      "snippet": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
+      "source": "NPR News",
+      "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5907379/2026-midterm-election-senate-races",
+      "publishedAt": "Mon, 27 Jul 2026 01:13:24 -0400",
+      "snippet": "For Democrats to take control of the U.S. Senate, they have to flip four seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
       "tier": 1
     },
     {
@@ -204,70 +268,6 @@
       "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
       "publishedAt": "Sun, 26 Jul 2026 13:16:06 -0400",
       "snippet": "The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
-      "link": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
-      "publishedAt": "Sun, 26 Jul 2026 06:00:00 -0400",
-      "snippet": "A year after President Trump signed a law ending six decades of federal funding of public media, it&apos;s a time of reinvention, innovation and clear anxiety at public tv and radio stations nationwide.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Lebanese displaced by war turn to satellites to check their homes",
-      "link": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
-      "publishedAt": "Sun, 26 Jul 2026 06:00:00 -0400",
-      "snippet": "Unable to return home, some Lebanese displaced by Israel&apos;s invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "ADHD looks different in women and poses unique health risks",
-      "link": "https://www.npr.org/2026/07/26/nx-s1-5821101/adhd-women-health-diagnosis-missed-treatment",
-      "publishedAt": "Sun, 26 Jul 2026 05:00:00 -0400",
-      "snippet": "For decades, ADHD was viewed as a childhood condition that mostly affected boys. Researchers now know ADHD manifests differently in girls, but many still go undiagnosed until adulthood.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Meet the robots programmed by kids to speak their Indigenous languages",
-      "link": "https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages",
-      "publishedAt": "Sun, 26 Jul 2026 05:00:00 -0400",
-      "snippet": "Many Native American languages are endangered. With the help of his mentor, a 12-year-old in Michigan hopes to help preserve his language through robotics.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Climate change is now threatening a pillar of childhood: summer break",
-      "link": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-      "publishedAt": "Sun, 26 Jul 2026 05:00:00 -0400",
-      "snippet": "When summer rolls around, many parents scramble to sign up their young kids for outdoor activities. But what do you do when extreme heat and wildfire smoke increasingly make the outdoors dangerous?",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Suspect in Berlin Pride vehicle attack is dead, police say",
-      "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-      "publishedAt": "Sat, 25 Jul 2026 21:10:56 -0400",
-      "snippet": "Germany&apos;s interior minister Alexander Dobrindt described the incident as a likely \"Islamic terror attack,\" and named the suspect as Abdul Ballout, who was born in Germany and has Lebanese roots.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "France and Spain fires force more than 300,000 to flee homes",
-      "link": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
-      "publishedAt": "Sat, 25 Jul 2026 21:05:45 -0400",
-      "snippet": "In France, around 50,000 people were evacuated from their homes overnight into Sunday, according to interior minister Laurent Nuñez. At least one person has died in a fire in Spain, officials said .",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Biden ghostwriter tapes to be released",
-      "link": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
-      "publishedAt": "Sat, 25 Jul 2026 15:36:18 -0400",
-      "snippet": "Former President Joe Biden is declining to appeal a court ruling that allows the Justice Department to publicize recordings of conversations between him and a writer collaborating on his memoir.",
       "tier": 1
     },
     {
@@ -440,10 +440,114 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Christopher Street Day attack in Berlin: What we know so far",
-      "link": "https://www.dw.com/en/christopher-street-day-attack-in-berlin-what-we-know-so-far/a-78122611?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany: Islamist terror attack on Berlin Pride parade triggers political debate",
+      "link": "https://www.dw.com/en/germany-islamist-terror-attack-on-berlin-pride-parade-triggers-political-debate/a-78130195?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "On Saturday, a vehicle drove into a crowd near Berlin Pride celebrations in what is being regarded as an attack on the LGBTQ+ community. The main suspect has since been confronted and shot dead.",
+      "snippet": "Following the terrorist attack on Berlin&apos;s Pride parade, the Christopher Street Day parade, politicians and security experts are demanding consequences.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "&apos;Amnesia&apos; about measles risk and low vaccination rates have helped US infections grow",
+      "link": "https://www.dw.com/en/amnesia-about-measles-risk-and-low-vaccination-rates-have-helped-us-infections-grow/a-78104276?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The latest US data shows measles cases up to mid-July 2026 totaled more than all the cases in 2025. Experts blame a fall in vaccination and warn people have forgotten measles can be life-threatening.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "FIFA boss Infantino takes aim at World Cup critics",
+      "link": "https://www.dw.com/en/fifa-boss-infantino-takes-aim-at-world-cup-critics/a-78128599?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In a strongly worded open statement, FIFA President Gianni Infantino has hit out at those he says were too \"consumed by hate and criticism\" to enjoy the tournament. Infantino brushed off a number of corruption concerns.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran rules out US talks as Hormuz Strait remains closed",
+      "link": "https://www.dw.com/en/iran-rules-out-us-talks-as-hormuz-strait-remains-closed/live-78127467?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Iran has not asked to resume talks with the US, Foreign Ministry spokesperson Esmaeil Baghaei said. He added that the Strait of Hormuz remains closed and that messages are being relayed through mediators. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Car ramming attacks: Why do they keep happening?",
+      "link": "https://www.dw.com/en/car-ramming-attacks-why-do-they-keep-happening/a-71827106?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Cars are being used as weapons, to ram, kill and maim innocent people. The reasons why are not always clear, nor are solutions to preventing such attacks.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "France: Macron holds crisis talks as wildfires spread",
+      "link": "https://www.dw.com/en/france-macron-holds-crisis-talks-as-wildfires-spread/a-78128027?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As France and Spain battle some of their worst wildfires in years, the French government is holding a crisis meeting. A fire-generated storm cloud over France has added to fears of more outbreaks.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "The plague is as deadly today as in the Middle Ages",
+      "link": "https://www.dw.com/en/the-plague-is-as-deadly-today-as-in-the-middle-ages/a-78106528?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Most people have only heard of the plague as the disease that ravaged Europe in the Middle Ages. But it&apos;s still around today, such as in Madagascar, and just as lethal as ever.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: Berlin Pride attack prompts calls for clampdown",
+      "link": "https://www.dw.com/en/germany-berlin-pride-attack-prompts-calls-for-clampdown/live-78127668?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "German conservatives are calling for a tougher course on suspected Islamists after the deadly Christopher Street Day attack in Berlin. The presumed attacker was released from detention this May. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Greta Thunberg expresses solidarity with CJP protesters",
+      "link": "https://www.dw.com/en/india-news-greta-thunberg-expresses-solidarity-with-cjp-protesters/live-78126203?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Greta Thunberg attended a celebratory rally organized by Indian students in London after major successes for the CJP movement. Follow DW for more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US: At least three killed in shooting in Seattle",
+      "link": "https://www.dw.com/en/us-at-least-three-killed-in-shooting-in-seattle/a-78124829?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A shooting at a Seattle food festival left at least three people dead and four others wounded. The police took the suspect into custody.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Congo Ebola death toll tops 1,400 as vaccine trials start",
+      "link": "https://www.dw.com/en/congo-ebola-death-toll-tops-1-400-as-vaccine-trials-start/a-78124937?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "DR Congo&apos;s Ebola outbreak has continued to grow, with confirmed infections reaching 3,200 and a fatality rate of nearly one in two. Scientists are racing to test the first vaccines against the rare Bundibugyo strain.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Brazil recalls ambassador to Argentina over Milei&apos;s remarks",
+      "link": "https://www.dw.com/en/brazil-recalls-ambassador-to-argentina-over-milei-s-remarks/a-78123444?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "During a visit to Brazil to support far-right presidential candidate Flavio Bolsonaro, Argentina&apos;s president called the Brazilian leader a \"convict\" and a \"thief.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Berlin Pride ramming: Police shoot suspect dead",
+      "link": "https://www.dw.com/en/berlin-pride-ramming-police-shoot-suspect-dead/live-78117180?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Police said the suspect was shot dead in an operation, after the incident was classified as an \"Islamist terrorist\" attack. One person was killed and several others injured in the attack.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Berlin Pride attack: What we know so far",
+      "link": "https://www.dw.com/en/berlin-pride-attack-what-we-know-so-far/a-78122611?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "On Saturday, a vehicle drove into a crowd near a Christopher Street Day celebration in what is being regarded as an attack on the LGBTQ+ community. The main suspect has since been confronted and shot dead.",
       "tier": 2
     },
     {
@@ -456,8 +560,8 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
-      "link": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-top-1022-rdf",
+      "title": "Berlin Pride: Latest in string of deadly vehicle attacks",
+      "link": "https://www.dw.com/en/berlin-pride-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The attack at a Berlin Pride event is only the most recent incident on a long list where vehicles were used as weapons. The US, Canada, and China also saw similar attacks in recent years.",
       "tier": 2
@@ -484,110 +588,6 @@
       "link": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Pakistan-administered Kashmir heads to the polls after weeks of deadly protests over seats reserved for displaced people from India-administered Kashmir. One local group has called for the elections to be boycotted.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Sudan civil war: Civilians used as &apos;human shields&apos;",
-      "link": "https://www.dw.com/en/sudan-civil-war-civilians-used-as-human-shields/a-78089487?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The situation in the besieged city of El Obeid in Sudan is worsening by the day, with rights organizations warning of mass atrocities. Children are traumatized and do not dare go to school.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Middle East: No fresh US strikes on Iran for a second day",
-      "link": "https://www.dw.com/en/middle-east-no-fresh-us-strikes-on-iran-for-a-second-day/live-78117732?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Two days have passed without any strikes by the US and Iran. Fighting between Yemen&apos;s Houthis and Saudi Arabia has added another layer to the complex Middle East crisis. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Vietnamese vessel sinks in South China Sea, 17 missing",
-      "link": "https://www.dw.com/en/vietnamese-vessel-sinks-in-south-china-sea-17-missing/a-78118211?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A Vietnamese-registered cargo ship carrying 62 crew members sank near Yongshu Reef in the South China Sea, one of the world&apos;s most important and contested maritime spaces.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Modi announces task force to reform exams",
-      "link": "https://www.dw.com/en/india-news-modi-announces-task-force-to-reform-exams/live-78117719?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The prime minister&apos;s announcement comes after the resignation of his education minister in the wake of student-led protests organized by the Cockroach Janta Party.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Brazil denies entry to senior Trump officials ahead of elections",
-      "link": "https://www.dw.com/en/brazil-denies-entry-to-senior-trump-officials-ahead-of-elections/a-78117458?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Brazil rejected visas for two planned US envoys, alleging that Washington was seeking to shape Brazil&apos;s upcoming presidential election. The development adds to a deepening political tension between Brazil and the US.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Berlin: 1 dead, 16 injured after car ramming at CSD Pride event",
-      "link": "https://www.dw.com/en/berlin-1-dead-16-injured-after-car-ramming-at-csd-pride-event/a-78116146?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A citywide manhunt is underway after a van crashed into a crowd during Pride celebrations, known locally as Christopher Street Day (CSD). Police have identified a suspect tied to Berlin&apos;s \"Islamist scene.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "WAFCON 2026: What you need to know",
-      "link": "https://www.dw.com/en/wafcon-2026-what-you-need-to-know/a-77956787?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Several months after it was supposed to start and with more teams than first planned, WAFCON 2026 is finally set to begin. The hosts want a maiden title while a tournament outsider have one of its best players.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Flavio Bolsonaro gets party nod to run against Brazil&apos;s Lula",
-      "link": "https://www.dw.com/en/flavio-bolsonaro-gets-party-nod-to-run-against-brazil-s-lula/a-78115503?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Flavio Bolsonaro won support from Argentine President Javier Milei and Israeli Prime Minister Benjamin Netanyahu, though tariffs imposed by Donald Trump&apos;s administration could complicate his path to the presidency.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Serbia&apos;s LGBTQ+ community faces &apos;epidemic of violence&apos;",
-      "link": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Documented cases of violence against LGBTQ+ people in Serbia have never been higher. The attacks are part of a larger shift in society targeting marginalized people.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Europe wildfires rage on, forcing more than 250,000 from homes",
-      "link": "https://www.dw.com/en/europe-wildfires-rage-on-forcing-more-than-250-000-from-homes/a-78109406?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "From the outskirts of Bordeaux to communities near Madrid, fast-moving wildfires in France and Spain are driving mass evacuations, destroying homes, and claiming lives.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Lenacapavir will slow HIV infections if there&apos;s enough of it and it reaches at-risk groups",
-      "link": "https://www.dw.com/en/lenacapavir-will-slow-hiv-infections-if-there-s-enough-of-it-and-it-reaches-at-risk-groups/a-78075943?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Lenacapavir is one injection, twice a year. It&apos;s a big improvement for people in high-risk groups, currently taking a pill a day against HIV infection. But its long-term impact depends on it reaching those very people.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Tour de France final stage shortened due to wildfires",
-      "link": "https://www.dw.com/en/tour-de-france-final-stage-shortened-due-to-wildfires/a-78114336?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Security personnel assigned to the race have been redeployed to help contain major blazes near Bordeaux, reducing Sunday&apos;s final stage.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Dozens dead after buses collide in eastern Syria",
-      "link": "https://www.dw.com/en/dozens-dead-after-buses-collide-in-eastern-syria/a-78113913?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The crash on a route notorious for deadly accidents prompted a large-scale rescue operation.",
       "tier": 2
     }
   ]
