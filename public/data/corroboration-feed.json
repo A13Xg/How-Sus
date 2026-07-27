@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T12:44:43.243Z",
+  "generatedAt": "2026-07-27T01:01:44.287Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,18 +32,50 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 11:41:04 GMT",
-      "snippet": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 18:40:08 GMT",
+      "snippet": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 11:29:07 GMT",
-      "snippet": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
+      "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 19:21:26 GMT",
+      "snippet": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 20:34:23 GMT",
+      "snippet": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 00:27:58 GMT",
+      "snippet": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 21:23:53 GMT",
+      "snippet": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 21:30:20 GMT",
+      "snippet": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
       "tier": 1
     },
     {
@@ -52,14 +84,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 25 Jul 2026 13:51:07 GMT",
       "snippet": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 10:26:05 GMT",
-      "snippet": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
       "tier": 1
     },
     {
@@ -128,34 +152,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 02:23:09 GMT",
-      "snippet": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US hits dozens of countries with new wave of tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 12:40:44 GMT",
-      "snippet": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria's president approves largest military expansion in recent times",
-      "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 15:22:56 GMT",
-      "snippet": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "World chess chief faces endgame after EU announces Russia war sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 16:08:51 GMT",
-      "snippet": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
+      "title": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 22:06:46 GMT",
+      "snippet": "World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.",
       "tier": 1
     },
     {
@@ -192,6 +192,22 @@
     },
     {
       "source": "NPR News",
+      "title": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
+      "link": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires",
+      "publishedAt": "Sun, 26 Jul 2026 14:13:30 -0400",
+      "snippet": "The route for the iconic cycling race&apos;s final stage was shortened because security and police were reassigned to assist with wildfires in southwest France.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+      "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+      "publishedAt": "Sun, 26 Jul 2026 13:16:06 -0400",
+      "snippet": "The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
       "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
       "link": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
       "publishedAt": "Sun, 26 Jul 2026 06:00:00 -0400",
@@ -204,14 +220,6 @@
       "link": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
       "publishedAt": "Sun, 26 Jul 2026 06:00:00 -0400",
       "snippet": "Unable to return home, some Lebanese displaced by Israel&apos;s invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Climate change is now threatening a pillar of childhood: summer break",
-      "link": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-      "publishedAt": "Sun, 26 Jul 2026 05:00:00 -0400",
-      "snippet": "When summer rolls around, many parents scramble to sign up their young kids for outdoor activities. But what do you do when extreme heat and wildfire smoke increasingly make the outdoors dangerous?",
       "tier": 1
     },
     {
@@ -232,18 +240,26 @@
     },
     {
       "source": "NPR News",
-      "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
-      "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-      "publishedAt": "Sat, 25 Jul 2026 21:10:56 -0400",
-      "snippet": "Berlin police said they have identified a suspect who \"is known to police\" and has links to \"Islamist circles.\"",
+      "title": "Climate change is now threatening a pillar of childhood: summer break",
+      "link": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+      "publishedAt": "Sun, 26 Jul 2026 05:00:00 -0400",
+      "snippet": "When summer rolls around, many parents scramble to sign up their young kids for outdoor activities. But what do you do when extreme heat and wildfire smoke increasingly make the outdoors dangerous?",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "France and Spain fires force more than 200,000 to flee homes",
+      "title": "Suspect in Berlin Pride vehicle attack is dead, police say",
+      "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+      "publishedAt": "Sat, 25 Jul 2026 21:10:56 -0400",
+      "snippet": "Germany&apos;s interior minister Alexander Dobrindt described the incident as a likely \"Islamic terror attack,\" and named the suspect as Abdul Ballout, who was born in Germany and has Lebanese roots.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "France and Spain fires force more than 300,000 to flee homes",
       "link": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
       "publishedAt": "Sat, 25 Jul 2026 21:05:45 -0400",
-      "snippet": "At least one person has died in a fire in Spain, according to officials.",
+      "snippet": "In France, around 50,000 people were evacuated from their homes overnight into Sunday, according to interior minister Laurent Nuñez. At least one person has died in a fire in Spain, officials said .",
       "tier": 1
     },
     {
@@ -255,19 +271,27 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "India&apos;s &apos;cockroach&apos; movement ousts minister, but can Modi calm youth?",
-      "link": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
-      "publishedAt": "Sat, 25 Jul 2026 10:48:22 -0400",
-      "snippet": "Led by Gen-Z youth across India, the movement has become perhaps the biggest challenge to Prime Minister Narendra Modi during his 12 years in office.",
+      "source": "PBS Headlines",
+      "title": "Firefighters race to control massive blazes approaching major cities in France and Spain",
+      "link": "https://www.pbs.org/newshour/world/firefighters-race-to-control-massive-blazes-approaching-major-cities-in-france-and-spain",
+      "publishedAt": "Sun, 26 Jul 2026 16:58:36 -0400",
+      "snippet": "A raging wildfire in southwest France forced the evacuation of 55,000 people overnight Sunday, bringing the total forced out of their homes to a staggering 220,000 in one region alone, as flames crept ever closer to the wine region city of Bordeaux. Neighboring Spain oversaw its ",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
-      "link": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning",
-      "publishedAt": "Sat, 25 Jul 2026 08:05:34 -0400",
-      "snippet": "Back in the &apos;90s, I learned the art of staying cool in Egypt. At that time, air conditioning was not common. In the extremely hot summer of 2026, how are people managing?",
+      "source": "PBS Headlines",
+      "title": "Suspect in deadly Berlin Pride attack is killed in confrontation with police",
+      "link": "https://www.pbs.org/newshour/world/suspect-in-deadly-berlin-pride-attack-is-killed-in-confrontation-with-police",
+      "publishedAt": "Sun, 26 Jul 2026 16:39:24 -0400",
+      "snippet": "The suspect in the deadly Berlin Pride attack that left one person dead and 29 injured was shot and killed by police during a confrontation on Sunday in a suburb of the city, authorities said.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "As Hegseth pursues a 'High-T' military, here's what to know about testosterone replacement",
+      "link": "https://www.pbs.org/newshour/health/as-hegseth-pursues-a-high-t-military-heres-what-to-know-about-testosterone-replacement",
+      "publishedAt": "Sun, 26 Jul 2026 09:00:43 -0400",
+      "snippet": "Defense Secretary Pete Hegseth said he plans to test U.S. service members' testosterone levels each year. But when it comes to testosterone levels, optimization isn't so straightforward.",
       "tier": 1
     },
     {
@@ -407,35 +431,59 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Police boat crashes into central London bridge, sending officers into River Thames",
-      "link": "https://www.pbs.org/newshour/world/police-boat-crashes-into-central-london-bridge-sending-officers-into-river-thames",
-      "publishedAt": "Fri, 24 Jul 2026 16:09:29 -0400",
-      "snippet": "A police boat crashed into Westminster Bridge in central London on Friday, tossing officers into the River Thames and injuring five of the crew, the Metropolitan Police said.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "WATCH: What to know about India's youth-led Gen Z 'cockroach' protests",
-      "link": "https://www.pbs.org/newshour/world/watch-what-to-know-about-indias-youth-led-gen-z-cockroach-protests",
-      "publishedAt": "Fri, 24 Jul 2026 15:49:48 -0400",
-      "snippet": "What began as outrage over leaked national entrance exams has exploded into one of India's biggest youth-led protest movements in years.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "WATCH LIVE: Trump speaks at White House Correspondents' Dinner after attack disrupted April event",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-white-house-correspondents-dinner-after-attack-disrupted-april-event",
-      "publishedAt": "Fri, 24 Jul 2026 15:31:06 -0400",
-      "snippet": "Call it White House Dinner 2.0, or Take Two, or, in Trump's own words, a \"HOT ticket.\" The big unknown is whether Trump will bring the fighting words against the press he'd planned to deliver in April — before the event descended into chaos when a gunman stormed a security checkp",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Christopher Street Day attack in Berlin: What we know so far",
+      "link": "https://www.dw.com/en/christopher-street-day-attack-in-berlin-what-we-know-so-far/a-78122611?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "On Saturday, a vehicle drove into a crowd near Berlin Pride celebrations in what is being regarded as an attack on the LGBTQ+ community. The main suspect has since been confronted and shot dead.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany&apos;s Transport Minister Schnieder to asks Merz to remove him",
+      "link": "https://www.dw.com/en/germany-s-transport-minister-schnieder-to-asks-merz-to-remove-him/a-78121920?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Schnieder plans to ask Chancellor Merz to remove him after describing as \"undignified\" the circumstances surrounding a cabinet reshuffle in which he was widely expected to be removed.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
+      "link": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The attack at a Berlin Pride event is only the most recent incident on a long list where vehicles were used as weapons. The US, Canada, and China also saw similar attacks in recent years.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Israeli settlers torch mosques in occupied West Bank",
+      "link": "https://www.dw.com/en/israeli-settlers-torch-mosques-in-occupied-west-bank/a-78120749?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Israeli settlers in the occupied West Bank attacked two mosques Sunday, setting them ablaze and scrawling graffiti. The incident follows a Friday clash that left four Palestinians and two Israeli soldiers dead.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Wildfires spread in France and Spain forcing more to flee",
+      "link": "https://www.dw.com/en/wildfires-spread-in-france-and-spain-forcing-more-to-flee/a-78119908?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Spain&apos;s prime minister warned of \"difficult hours ahead,\" as France&apos;s interior minister called the blaze near Bordeaux \"unpredictable.\" Evacuations in both countries continued as high winds keep fires moving.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
+      "link": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Pakistan-administered Kashmir heads to the polls after weeks of deadly protests over seats reserved for displaced people from India-administered Kashmir. One local group has called for the elections to be boycotted.",
       "tier": 2
     },
     {
@@ -464,26 +512,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
-      "link": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-top-1022-rdf",
+      "title": "India news: Modi announces task force to reform exams",
+      "link": "https://www.dw.com/en/india-news-modi-announces-task-force-to-reform-exams/live-78117719?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The attack at a Berlin Pride event is only the most recent incident on a long list where vehicles were used as weapons. The US, Canada, and China also saw similar attacks in recent years.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Home minister backs Pradhan after resignation",
-      "link": "https://www.dw.com/en/india-news-home-minister-backs-pradhan-after-resignation/live-78117719?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Hours after India&apos;s education minister resigned amid youth protests, India&apos;s home minister spoke out in his defense. Meanwhile, Cockroach party&apos;s leader thanked &apos;cockroaches&apos; across India. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany classifies Berlin Pride ramming as &apos;terror attack&apos;",
-      "link": "https://www.dw.com/en/germany-classifies-berlin-pride-ramming-as-terror-attack/live-78117180?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Police believe the 21-year-old suspect, named as Abdul B., has links to the Islamist scene. One person was killed and several others injured in the attack. Follow DW for more.",
+      "snippet": "The prime minister&apos;s announcement comes after the resignation of his education minister in the wake of student-led protests organized by the Cockroach Janta Party.",
       "tier": 2
     },
     {
@@ -499,7 +531,7 @@
       "title": "Berlin: 1 dead, 16 injured after car ramming at CSD Pride event",
       "link": "https://www.dw.com/en/berlin-1-dead-16-injured-after-car-ramming-at-csd-pride-event/a-78116146?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A citywide manhunt is underway after a van drove into a crowd during Pride celebrations, known locally as Christopher Street Day (CSD). Police have identified a suspect tied to Berlin&apos;s \"Islamist scene.\"",
+      "snippet": "A citywide manhunt is underway after a van crashed into a crowd during Pride celebrations, known locally as Christopher Street Day (CSD). Police have identified a suspect tied to Berlin&apos;s \"Islamist scene.\"",
       "tier": 2
     },
     {
@@ -556,38 +588,6 @@
       "link": "https://www.dw.com/en/dozens-dead-after-buses-collide-in-eastern-syria/a-78113913?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The crash on a route notorious for deadly accidents prompted a large-scale rescue operation.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Industry hemorrhaging 15,000 jobs a month",
-      "link": "https://www.dw.com/en/germany-news-industry-hemorrhaging-15-000-jobs-a-month/live-78101249?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Industry boss Tanja Gönner says the situation is critical but offers opportunity. Meanwhile, politicians head to the Bayreuth Festival and security services warn of racist fight clubs. Follow DW for the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Could &apos;mesh networks&apos; help overcome authoritarians&apos; internet blocks?",
-      "link": "https://www.dw.com/en/could-mesh-networks-help-overcome-authoritarians-internet-blocks/a-78055915?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In authoritarian countries, the state is often either monitoring online communications or has the ability to shut them down in a political crisis. But there are other ways that activists can keep in touch.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Niger still seeking stability after 3 years of military rule",
-      "link": "https://www.dw.com/en/niger-still-seeking-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The military government in Niger promised social, security, and economic improvements when it took power in 2023. Three years down the line, there are mixed reviews on its performance.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Eco wins: Cities, creatures, and tech are saving the day",
-      "link": "https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "From an AI-powered cute little pangolin, heat mapping to cool down cities and animals reducing wildfire risks by doing their thing, these real-world climate hacks are helping communities stay ahead of a changing planet.",
       "tier": 2
     }
   ]
