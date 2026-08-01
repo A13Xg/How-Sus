@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T13:03:43.410Z",
+  "generatedAt": "2026-08-01T00:59:14.297Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,34 +32,26 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
       "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 12:39:39 GMT",
-      "snippet": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.",
+      "publishedAt": "Fri, 31 Jul 2026 17:03:47 GMT",
+      "snippet": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 07:03:29 GMT",
-      "snippet": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 15:18:31 GMT",
+      "snippet": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-      "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 04:25:49 GMT",
-      "snippet": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "AC Milan and Italy great Baresi dies aged 66",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 09:44:48 GMT",
-      "snippet": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+      "title": "Body of US climber the latest recovered after Pakistan avalanche",
+      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 20:22:46 GMT",
+      "snippet": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
       "tier": 1
     },
     {
@@ -68,6 +60,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 31 Jul 2026 10:32:17 GMT",
       "snippet": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 14:26:07 GMT",
+      "snippet": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
       "tier": 1
     },
     {
@@ -192,6 +192,54 @@
     },
     {
       "source": "NPR News",
+      "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying &apos;botched installation&apos; to blame",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
+      "publishedAt": "Fri, 31 Jul 2026 19:24:36 -0400",
+      "snippet": "The government had accused David Hearn of ripping a piece of sealant after a $14-million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Climate adaptation at its limits, says one scientist",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
+      "publishedAt": "Fri, 31 Jul 2026 16:28:46 -0400",
+      "snippet": "A climate scientist says Earth is \"passing the limits of adaptation\" when it comes to withstanding the effects of climate change.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Drone delivery helps in Rwanda, but only so much",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
+      "publishedAt": "Fri, 31 Jul 2026 16:28:41 -0400",
+      "snippet": "A U.S. company in Rwanda has been providing medical supplies via drone. But even state-of-the-art technology can&apos;t overcome a weak health care infrastructure.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
+      "publishedAt": "Fri, 31 Jul 2026 13:48:26 -0400",
+      "snippet": "Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: \"The opportunities for abuse and disinfo are literally boundless,\" said one.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Keeping cool without AC: Our readers share their tips",
+      "link": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
+      "publishedAt": "Fri, 31 Jul 2026 10:44:47 -0400",
+      "snippet": "We asked our readers to tell us how they&apos;ve fended off heat without the refrigerant blasts of an air conditioner. Here&apos;s what they shared.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "In Nebraska, Americans begin to lose Medicaid under Trump&apos;s work rules",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska",
+      "publishedAt": "Fri, 31 Jul 2026 09:22:40 -0400",
+      "snippet": "Nebraska&apos;s Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs, said roughly 200 people will lose health coverage on Aug. 1.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
       "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
       "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
       "publishedAt": "Fri, 31 Jul 2026 07:30:26 -0400",
@@ -208,14 +256,6 @@
     },
     {
       "source": "NPR News",
-      "title": "Democrats show divisions on Israel amid competitive midterm elections",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-      "publishedAt": "Fri, 31 Jul 2026 05:00:00 -0400",
-      "snippet": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
       "title": "450K borrowers say they were ripped off. Their student loans are being erased",
       "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
       "publishedAt": "Fri, 31 Jul 2026 05:00:00 -0400",
@@ -224,210 +264,170 @@
     },
     {
       "source": "NPR News",
-      "title": "Trump&apos;s noncitizen voter data remains a mystery. But the claims raise midterm fears",
+      "title": "Trump&apos;s claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
       "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
       "publishedAt": "Fri, 31 Jul 2026 05:00:00 -0400",
       "snippet": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don&apos;t know where the numbers came from, and some worry what the claims may portend for the midterms.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
-      "publishedAt": "Fri, 31 Jul 2026 05:00:00 -0400",
-      "snippet": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5901900/morning-news-brief",
-      "publishedAt": "Fri, 31 Jul 2026 04:49:30 -0400",
-      "snippet": "President Trump says he may pull Todd Blanche&apos;s nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pace.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Thousands in France allowed to return home as Europe tackles wildfires and heatwave",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5913353/france-wildfires-bordeaux-europe-heatwave",
-      "publishedAt": "Fri, 31 Jul 2026 04:45:07 -0400",
-      "snippet": "Firefighters in the Gironde region of France said the situation had \"stabilized\", after a week of wildfires caused by a major heatwave across Europe.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "&apos;I can do this&apos;: Woman with cancer reflects on her life and facing death",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5910511/i-can-do-this-woman-with-cancer-reflects-on-her-life-and-facing-death",
-      "publishedAt": "Fri, 31 Jul 2026 04:44:53 -0400",
-      "snippet": "For StoryCorps, Karán Founds-Benton talks to her friend about her cancer diagnosis and facing death.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
-      "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
-      "publishedAt": "Fri, 31 Jul 2026 02:02:00 -0400",
-      "snippet": "At least 18 migrants have died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured in. The crisis boiled over Thursday and overnight.",
+      "source": "PBS Headlines",
+      "title": "Huge blankets of seaweed are smothering coastlines from the Caribbean to Mexico",
+      "link": "https://www.pbs.org/newshour/science/huge-blankets-of-seaweed-are-smothering-coastlines-from-the-caribbean-to-mexico",
+      "publishedAt": "Fri, 31 Jul 2026 20:41:22 -0400",
+      "snippet": "Some 27 million metric tons of self-sustaining sargassum have been recorded in the Atlantic, Caribbean and Gulf of Mexico in July, according to a report released Friday by the University of South Florida's Optical Oceanography Lab.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Attorney for Nolan Wells' family says experts will review a July 4 boat distress call",
-      "link": "https://www.pbs.org/newshour/nation/attorney-for-nolan-wells-family-says-experts-will-review-a-july-4-boat-distress-call",
-      "publishedAt": "Thu, 30 Jul 2026 20:02:08 -0400",
-      "snippet": "Speaking at the National Urban League Conference on Thursday, the civil rights attorney Ben Crump said Wells' family had retained audio engineering experts to review the recording.",
+      "title": "U.S. will make visa bond program permanent, affecting mostly African countries",
+      "link": "https://www.pbs.org/newshour/politics/u-s-will-make-visa-bond-program-permanent-affecting-mostly-african-countries",
+      "publishedAt": "Fri, 31 Jul 2026 20:38:11 -0400",
+      "snippet": "A draft notice published Friday in the Federal Register says a nearly year-long review \"provided sufficient data\" to suggest the bond program effectively enforces compliance with visa conditions, and would be made permanent.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "In Missouri, Cori Bush and Wesley Bell's primary rematch sets up key test for Democrats",
-      "link": "https://www.pbs.org/newshour/politics/in-missouri-cori-bush-and-wesley-bells-primary-rematch-sets-up-key-test-for-democrats",
-      "publishedAt": "Thu, 30 Jul 2026 19:37:33 -0400",
-      "snippet": "A progressive firebrand who started her political career as a Black Lives Matter organizer in Ferguson, Bush served two terms before losing a primary challenge to Wesley Bell, a moderate local prosecutor.",
+      "title": "Arizona, California and Nevada would share cuts under federal proposal for Colorado River",
+      "link": "https://www.pbs.org/newshour/nation/arizona-california-and-nevada-would-share-cuts-under-federal-proposal-for-colorado-river",
+      "publishedAt": "Fri, 31 Jul 2026 20:21:26 -0400",
+      "snippet": "The U.S. Bureau of Reclamation proposal spares four other states from facing mandatory cuts for now.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Copenhagen's famed Noma restaurant prepares to reopen without chef Redzepi at helm",
-      "link": "https://www.pbs.org/newshour/world/copenhagens-famed-noma-restaurant-prepares-to-reopen-without-chef-redzepi-at-helm",
-      "publishedAt": "Thu, 30 Jul 2026 19:08:18 -0400",
-      "snippet": "Denmark's iconic Noma restaurant is set to reopen on Aug. 5 with neither its founder and celebrity chef René Redzepi at the helm nor its three stars in the Michelin Guide.",
+      "title": "Social media companies sued over deaths of 4 teens amid rising pressure over child safety",
+      "link": "https://www.pbs.org/newshour/nation/social-media-companies-sued-over-deaths-of-4-teens-amid-rising-pressure-over-child-safety",
+      "publishedAt": "Fri, 31 Jul 2026 20:11:39 -0400",
+      "snippet": "The families of four teenagers who died by suicide are suing Meta, TikTok, Snapchat and YouTube over what they describe as \"years of escalating harms\" from using their platforms that eventually resulted in their deaths.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Seattle mayor says police chief has resigned after criticism of festival shooting response",
-      "link": "https://www.pbs.org/newshour/nation/seattle-mayor-says-police-chief-has-resigned-after-criticism-of-festival-shooting-response",
-      "publishedAt": "Thu, 30 Jul 2026 18:55:35 -0400",
-      "snippet": "Seattle's police chief has resigned amid criticism of the city's response to a fatal shootout at a food festival last weekend, Mayor Katie Wilson said Thursday.",
+      "title": "What's in the proposed deal to disarm Hamas and withdraw Israeli forces from Gaza",
+      "link": "https://www.pbs.org/newshour/show/whats-in-the-proposed-deal-to-disarm-hamas-and-withdraw-israeli-forces-from-gaza",
+      "publishedAt": "Fri, 31 Jul 2026 18:55:35 -0400",
+      "snippet": "There is a major development in the effort to bring lasting peace to Gaza. Hamas says it has agreed to a U.S.-backed framework that would ultimately see the militant group give up its weapons and control of Gaza, while Israeli forces withdraw from the territory. Nick Shifrin repo",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "U.S. and Iran strikes intensify as war opens new fronts",
-      "link": "https://www.pbs.org/newshour/show/u-s-and-iran-strikes-intensify-as-war-opens-new-fronts",
-      "publishedAt": "Thu, 30 Jul 2026 18:55:23 -0400",
-      "snippet": "Strikes and counterstrikes between the U.S. and Iran intensified on Thursday, fueling fears the conflict could spread across the entire region. For the first time in five months, suspected military action expanded to Egypt with a drone strike that now marks a new front in the war",
+      "title": "Tens of thousands of migrants enter Spanish territory, then return to Morocco",
+      "link": "https://www.pbs.org/newshour/show/tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
+      "publishedAt": "Fri, 31 Jul 2026 18:50:28 -0400",
+      "snippet": "Spain is rushing troops and resources to one of its territories in North Africa, after tens of thousands of migrants crossed the border from Morocco into the small city of Ceuta. Geoff Bennett reports.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How shipping risks from Ukraine and Iran wars are converging",
-      "link": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging",
-      "publishedAt": "Thu, 30 Jul 2026 18:52:44 -0400",
-      "snippet": "The blockade of the Strait of Hormuz, through which nearly all Middle Eastern oil flows, has prompted Saudi Arabia to call for a maritime defense coalition to protect Red Sea shipping. For perspective on the proposal, Geoff Bennett spoke with Ian Ralby. He's a global maritime sec",
+      "title": "News Wrap: Death toll from Japan earthquake rises to 34",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-death-toll-from-japan-earthquake-rises-to-34",
+      "publishedAt": "Fri, 31 Jul 2026 18:45:12 -0400",
+      "snippet": "In our news wrap Friday, this week's powerful earthquake in Japan has claimed at least 34 lives, a sweltering heat dome descended over much of the West, a Marine Corps fighter jet crashed at Miramar Air Station in California and President Trump says the U.S. has not yet agreed to",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Breaking down the GDP report as U.S. economy slows in 2nd quarter",
-      "link": "https://www.pbs.org/newshour/show/breaking-down-the-gdp-report-as-u-s-economy-slows-in-2nd-quarter",
-      "publishedAt": "Thu, 30 Jul 2026 18:50:52 -0400",
-      "snippet": "In a sign that the war in Iran may be weighing on economic growth, the U.S. economy saw a slowdown in the second quarter. That's according to a new report today from the Commerce Department. It all comes after the Federal Reserve kept interest rates unchanged, despite three disse",
+      "title": "Justice Department drops criminal case against Olympian over damaged Reflecting Pool",
+      "link": "https://www.pbs.org/newshour/politics/justice-department-drops-criminal-case-against-olympian-over-damaged-reflecting-pool",
+      "publishedAt": "Fri, 31 Jul 2026 18:43:32 -0400",
+      "snippet": "Government lawyers said in a 20-page court filing that information provided since the indictment of David Hearn shows that the damage was the result of a \"flawed installation by the contractor\" as well as \"the rush to complete the project prior to events associated with the Ameri",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Russian drone and missile attack kills 10 in Ukraine",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-russian-drone-and-missile-attack-kills-10-in-ukraine",
-      "publishedAt": "Thu, 30 Jul 2026 18:45:56 -0400",
-      "snippet": "In our news wrap Thursday, an overnight barrage of Russian drones and missiles killed at least 10 people in Ukraine, the Georgia father whose teenage son killed four people in a 2024 school shooting was sentenced to 15 years in prison and two of soccer's regional governing bodies",
+      "title": "How Iranians are living through months of war and government crackdowns",
+      "link": "https://www.pbs.org/newshour/show/how-iranians-are-living-through-months-of-war-and-government-crackdowns",
+      "publishedAt": "Fri, 31 Jul 2026 18:40:06 -0400",
+      "snippet": "As the Iran war enters its sixth month, the toll continues to grow. The UN says more than 2,500 children have been killed or injured in Iran alone. Amna Nawaz discussed more with New York Times reporter Yeganeh Torbati, whose reporting has focused on the lives of ordinary Iranian",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Wildfires near Bordeaux threaten to squeeze France's struggling wine industry",
-      "link": "https://www.pbs.org/newshour/world/wildfires-near-bordeaux-threaten-to-squeeze-frances-struggling-wine-industry",
-      "publishedAt": "Thu, 30 Jul 2026 18:42:16 -0400",
-      "snippet": "Bordeaux's legendary wine has seen consumption plunge as young people turn to other beverages and competition from vineyards abroad has grown, while Trump's tariffs have given winemakers an added hangover.",
+      "title": "Western states face more water cutbacks as Colorado River shrinks",
+      "link": "https://www.pbs.org/newshour/show/western-states-face-more-water-cutbacks-as-colorado-river-shrinks",
+      "publishedAt": "Fri, 31 Jul 2026 18:35:41 -0400",
+      "snippet": "After years of battles over its use — and a long-running drought — states that rely on the Colorado River are facing the prospect of further cutbacks. Years of gridlock among the states prompted the federal government to step in. A new blueprint lays out new requirements for mana",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Blanche's AG nomination on hold over opposition to DOJ's 'anti-weaponization fund'",
-      "link": "https://www.pbs.org/newshour/show/blanches-ag-nomination-on-hold-over-opposition-to-dojs-anti-weaponization-fund",
-      "publishedAt": "Thu, 30 Jul 2026 18:40:48 -0400",
-      "snippet": "Acting Attorney General Todd Blanche's nomination to lead the Department of Justice full-time is in limbo. Two Republican senators, John Cornyn of Texas and Thom Tillis of North Carolina, say they will oppose Blanche's nomination unless the DOJ kills a $1.8 billion fund to provid",
+      "title": "Unaccompanied migrant children at risk of losing legal representation",
+      "link": "https://www.pbs.org/newshour/show/unaccompanied-migrant-children-at-risk-of-losing-legal-representation",
+      "publishedAt": "Fri, 31 Jul 2026 18:30:05 -0400",
+      "snippet": "Thousands of unaccompanied migrant children could lose legal representation, now that a federal contract with legal aid groups representing the minors is expiring. That contract, held by the non-profit Acacia Center for Justice, had funded legal services for unaccompanied childre",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Missouri couple murdered in Guatemala after husband was deported",
-      "link": "https://www.pbs.org/newshour/show/missouri-couple-murdered-in-guatemala-after-husband-was-deported-2",
-      "publishedAt": "Thu, 30 Jul 2026 18:35:28 -0400",
-      "snippet": "A Missouri couple who had illegally immigrated to the United States was killed in Guatemala after the husband was deported and the wife self-deported. Now two communities in two countries are reeling and searching for answers. Lisa Desjardins discussed more with Brian Munoz of St",
+      "title": "Brooks and Capehart on Blanche's stalled nomination and Trump's 'anti-weaponization fund'",
+      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-blanches-stalled-nomination-and-trumps-anti-weaponization-fund",
+      "publishedAt": "Fri, 31 Jul 2026 18:25:01 -0400",
+      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including Todd Blanche's stalled confirmation to be attorney general, Trump's 'anti-weaponization fund,' turmoil inside the Democratic National Committee and the Refle",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Violence surges in West Bank as Israeli settlers escalate attacks on Palestinians",
-      "link": "https://www.pbs.org/newshour/show/violence-surges-in-west-bank-as-israeli-settlers-escalate-attacks-on-palestinians",
-      "publishedAt": "Thu, 30 Jul 2026 18:30:34 -0400",
-      "snippet": "Violence surged in the West Bank this past weekend when Palestinians say Israeli settlers burned two mosques following deadly clashes. The UN accuses Israeli settlers of increasing their attacks and footprint in the West Bank, the land that Palestinians hope will be their future ",
+      "title": "Local arts groups that shape community culture face financial pressure",
+      "link": "https://www.pbs.org/newshour/show/local-arts-groups-that-shape-community-culture-face-financial-pressure",
+      "publishedAt": "Fri, 31 Jul 2026 18:20:46 -0400",
+      "snippet": "Larger theater companies, venues and museums typically get more attention. But in cities and rural areas, it's smaller arts organizations that are closest to and address the needs of their communities. Now, many are struggling as they face economic pressures. Jeffrey Brown report",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Group urges Congress to adopt proportional representation to end redistricting battles",
-      "link": "https://www.pbs.org/newshour/show/group-urges-congress-to-adopt-proportional-representation-to-end-redistricting-battles",
-      "publishedAt": "Thu, 30 Jul 2026 18:25:33 -0400",
-      "snippet": "As high-profile battles over redistricting have become a fixture in political headlines, a group of scholars is sounding the alarm on the consequences of gerrymandering. In an open letter to Congress, they are urging lawmakers to consider proportional representation. Amna Nawaz d",
+      "title": "Why states want to change 'Sell By' labels on food",
+      "link": "https://www.pbs.org/newshour/show/why-states-want-to-change-sell-by-labels-on-food",
+      "publishedAt": "Fri, 31 Jul 2026 18:15:03 -0400",
+      "snippet": "Changes are coming to the commonly used sell-by dates on groceries in at least one state. PBS News multiplatform reporter Tim McPhillips spoke to two experts to get their take on the food labels and how you can save both your food and your money.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How music has helped tell America's story from the very beginning",
-      "link": "https://www.pbs.org/newshour/show/how-music-has-helped-tell-americas-story-from-the-very-beginning",
-      "publishedAt": "Thu, 30 Jul 2026 18:20:33 -0400",
-      "snippet": "Music has helped tell America's story from the very beginning, reflecting our triumphs, struggles and the many cultures and traditions that have shaped the country. On her \"In Pursuit of Happiness\" podcast, Judy Woodruff sat down with music historian Ted Gioia and music journalis",
+      "title": "Marine Corps says F-35B jet crashed in California, pilot in stable condition after ejecting",
+      "link": "https://www.pbs.org/newshour/nation/marine-corps-says-f-35b-jet-crashed-in-california-pilot-in-stable-condition-after-ejecting",
+      "publishedAt": "Fri, 31 Jul 2026 18:10:54 -0400",
+      "snippet": "The U.S. Marine Corps says the pilot of an F-35B stealth fighter is expected to live after ejecting from the jet before it crashed in California. The jet went down Friday near the Miramar air base in San Diego.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Hope dwindles for rescue after southwestern Japan earthquake as death toll climbs to 25",
-      "link": "https://www.pbs.org/newshour/world/hope-dwindles-for-rescue-after-southwestern-japan-earthquake-as-death-toll-climbs-to-25",
-      "publishedAt": "Thu, 30 Jul 2026 18:18:57 -0400",
-      "snippet": "Time was running out to find survivors, as rescuers continued to work in the Kumamoto area on Japan's southern main island of Kyushu, where the magnitude 7.1 earthquake hit Tuesday. The number of people missing was unclear.",
+      "title": "Authorities release early Nancy Guthrie ransom note, hoping someone recognizes writing style",
+      "link": "https://www.pbs.org/newshour/nation/authorities-release-early-nancy-guthrie-ransom-note-hoping-someone-recognizes-writing-style",
+      "publishedAt": "Fri, 31 Jul 2026 17:53:47 -0400",
+      "snippet": "Authorities released an early ransom note in the investigation into the disappearance of Nancy Guthrie in hopes that someone will recognize the writing style. A second note released Friday indicated Guthrie died shortly after she was kidnapped.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "At least 9 die as thousands of migrants breach Morocco's border with Ceuta, Spain says",
-      "link": "https://www.pbs.org/newshour/world/at-least-9-die-as-thousands-of-migrants-breach-moroccos-border-with-ceuta-spain-says",
-      "publishedAt": "Thu, 30 Jul 2026 18:02:25 -0400",
-      "snippet": "Spain will deploy its military to restore order at its border with Morocco in Ceuta after thousands of migrants streamed into the tiny Spanish territory, with at least nine dying in the attempt.",
+      "title": "Most of the 60,000 migrants who crossed into territory of Ceuta have left voluntarily, Spain says",
+      "link": "https://www.pbs.org/newshour/world/most-of-the-60000-migrants-who-crossed-into-spanish-territory-of-ceuta-have-left-voluntarily",
+      "publishedAt": "Fri, 31 Jul 2026 16:13:09 -0400",
+      "snippet": "Many young Moroccans who crossed into Ceuta told The Associated Press that they had hoped to find better work opportunities in Spain but were returning given the mayhem in Ceuta.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Fastest growing Ebola outbreak is worsening hunger in eastern Congo, UN agency chief warns",
-      "link": "https://www.pbs.org/newshour/world/fastest-growing-ebola-outbreak-is-worsening-hunger-in-eastern-congo-un-agency-chief-warns",
-      "publishedAt": "Thu, 30 Jul 2026 16:43:46 -0400",
-      "snippet": "The long-running conflict in eastern Congo has driven nearly 10 million people into crisis or emergency levels of hunger, with Ituri — the epicenter of the Ebola outbreak — among the most affected with 1.9 million in need of food, according to the World Food Program.",
+      "title": "Who is Kathryn Ruemmler? Former Obama White House attorney interviewed about Epstein emails",
+      "link": "https://www.pbs.org/newshour/politics/who-is-kathryn-ruemmler-former-obama-white-house-attorney-interviewed-about-epstein-emails",
+      "publishedAt": "Fri, 31 Jul 2026 15:07:23 -0400",
+      "snippet": "Ruemmler called Epstein, whom she first met in 2014, a \"masterful liar\" in her opening remarks to the panel, adding that she didn't see evidence of criminal conduct by Epstein.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How views on Trump's handling of Iran have shifted, according to this poll",
-      "link": "https://www.pbs.org/newshour/politics/how-views-on-trumps-handling-of-iran-have-shifted-according-to-this-poll",
-      "publishedAt": "Thu, 30 Jul 2026 16:07:15 -0400",
-      "snippet": "Most Americans say the war in Iran has not been worth fighting, and President Donald Trump's approval rating on Iran has fallen slightly since last month, according to a new AP-NORC poll.",
+      "title": "Quake survivors in southwestern Japan sleep in cars in sweltering heat as death toll rises to 34",
+      "link": "https://www.pbs.org/newshour/world/quake-survivors-in-southwestern-japan-sleep-in-cars-in-sweltering-heat-as-death-toll-rises-to-34",
+      "publishedAt": "Fri, 31 Jul 2026 14:41:26 -0400",
+      "snippet": "Rescuers raced to find those still missing after the quake triggered a mall explosion, toppled a factory chimney and flattened homes.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump's attacks on mail balloting and concerns over delays turn midterms spotlight on Postal Service",
-      "link": "https://www.pbs.org/newshour/politics/trumps-attacks-on-mail-balloting-and-concerns-over-delays-turn-midterms-spotlight-on-postal-service",
-      "publishedAt": "Thu, 30 Jul 2026 15:29:39 -0400",
-      "snippet": "Roughly six weeks before the first midterm ballots are mailed out, the U.S. Postal Service is emerging as a pivotal player in an election season that will determine control of Congress.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Mandela Barnes drops out of Democratic primary race for Wisconsin governor",
-      "link": "https://www.pbs.org/newshour/politics/mandela-barnes-drops-out-of-democratic-primary-race-for-wisconsin-governor",
-      "publishedAt": "Thu, 30 Jul 2026 15:13:12 -0400",
-      "snippet": "The former lieutenant governor made the announcement in a video posted on his Facebook page as democratic socialist Francesca Hong has garnered strong support from the liberal wing of the party.",
+      "title": "Hamas says it will disarm if Israel halts strikes and withdraws from Gaza, but obstacles remain",
+      "link": "https://www.pbs.org/newshour/world/hamas-says-it-will-disarm-if-israel-halts-strikes-and-withdraws-from-gaza-but-obstacles-remain",
+      "publishedAt": "Fri, 31 Jul 2026 14:21:40 -0400",
+      "snippet": "Hamas said that laying down its heavy weapons, which would come later in the process, was contingent on the creation of a Palestinian state, something Israel's current government adamantly rejects.",
       "tier": 1
     },
     {
@@ -436,6 +436,70 @@
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "FIFA chief Infantino abandons World Cup sell-off plans after backlash",
+      "link": "https://www.dw.com/en/fifa-chief-infantino-abandons-world-cup-sell-off-plans-after-backlash/a-78198144?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Europe&apos;s governing body, UEFA, had threatened to boycott FIFA tournaments, including the World Cup, unless Gianni Infantino withdrew his plans to sell stakes in FIFA competitions to private equity investors.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "DR Congo Ebola outbreak becomes world&apos;s second-largest ever",
+      "link": "https://www.dw.com/en/dr-congo-ebola-outbreak-becomes-world-s-second-largest-ever/a-78196627?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "DR Congo’s fast-spreading Ebola outbreak has exceeded 3,500 cases, overtaking the country’s deadliest epidemic and becoming the world’s second-largest ever. The Bundibugyo strain has no approved vaccine or treatment.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "UK court allows plans for Chinese &apos;super&apos; embassy to advance",
+      "link": "https://www.dw.com/en/uk-court-allows-plans-for-chinese-super-embassy-to-advance/a-78194764?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A court dismissed a legal challenge against Beijing&apos;s new embassy in London, which could become the largest in the UK. The case, brought by a neighborhood association, argued the embassy poses a security threat.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why Europe&apos;s wildfires are getting harder to stop",
+      "link": "https://www.dw.com/en/why-europe-s-wildfires-are-getting-harder-to-stop/a-78194776?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Wildfires may start with a single spark, but experts say climate change, drought and decades of forest management decisions have created the conditions for Europe&apos;s biggest blazes.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Sudan civil war: When drones strike the classroom",
+      "link": "https://www.dw.com/en/sudan-civil-war-when-drones-strike-the-classroom/a-78089487?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Children in Sudan&apos;s besieged city of el-Obeid are afraid to go to school as drone attacks hit civilian infrastructure. Aid groups warn of a worsening humanitarian crisis.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "From petitions to memes: How students made dissent visible",
+      "link": "https://www.dw.com/en/from-petitions-to-memes-how-students-made-dissent-visible/a-78146908?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "From imperial China to present-day India, student movements have repeatedly adapted the tools and symbols of their age to challenge authority.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Humanoid robots: Trump&apos;s latest China trade battle?",
+      "link": "https://www.dw.com/en/humanoid-robots-trump-s-latest-china-trade-battle/a-78181288?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers to catch up.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Unemployment tops 3 million as industry slumps",
+      "link": "https://www.dw.com/en/germany-news-unemployment-tops-3-million-as-industry-slumps/live-78191048?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Over three million people are currently unemployed in Germany, with 1.1 million drawing unemployment checks, authorities say. Also, sales of air conditioners have doubled as heat continues to crush cities.",
       "tier": 2
     },
     {
@@ -472,10 +536,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Ceuta: Spain scrambles after thousands breach exclave border",
-      "link": "https://www.dw.com/en/ceuta-spain-scrambles-after-thousands-breach-exclave-border/live-78191601?maca=en-rss-en-top-1022-rdf",
+      "title": "Ceuta: Spain says most migrants have returned to Morocco",
+      "link": "https://www.dw.com/en/ceuta-spain-says-most-migrants-have-returned-to-morocco/live-78191601?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Spanish police and troops are trying to shore up Ceuta&apos;s border to Morocco after Thursday&apos;s mass breach. Prime Minister Pedro Sanchez is also inbound, as Spain&apos;s neighbors implement temporary border checks. DW has more.",
+      "snippet": "Spain&apos;s government said that an estimated 48,300 migrants were back in Morocco on Friday evening. Italy has temporarily suspended its Schengen free-travel pact with Spain. DW has more.",
       "tier": 2
     },
     {
@@ -524,70 +588,6 @@
       "link": "https://www.dw.com/en/epstein-files-how-victims-remain-exposed-to-identification/a-78137137?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "US officials vowed to revise redactions after files exposed information that identified survivors of sexual abuse by Jeffrey Epstein and his associates. A DW investigation found that sensitive information remains online.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Japan: Death toll rises to 34 after deadly earthquake",
-      "link": "https://www.dw.com/en/japan-death-toll-rises-to-34-after-deadly-earthquake/live-78155782?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Rescuers are searching for survivors after a magnitude 7.1 earthquake struck southern Japan, killing at least 34 people and causing widespread damage. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Giving birth in Serbia: &apos;You leave your dignity at the door&apos;",
-      "link": "https://www.dw.com/en/giving-birth-in-serbia-you-leave-your-dignity-at-the-door/a-78181183?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A months-long DW investigation into childbirth in Serbia revealed a striking pattern in women&apos;s negative experiences, the widespread use of practices not universally recommended by the WHO and a system under pressure.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pakistan: Bodies found after international mountaineers vanish on Broad Peak",
-      "link": "https://www.dw.com/en/pakistan-bodies-found-after-international-mountaineers-vanish-on-broad-peak/a-78185586?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Rescuers were looking for an international group of climbers, including famous mountaineer Nirmal Purja, following a suspected avalanche at Pakistan&apos;s Broad Peak mountain. Authorities say several bodies have been found.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India: Lawmakers endorse tough exam leak bill after Cockroach protests",
-      "link": "https://www.dw.com/en/india-lawmakers-endorse-tough-exam-leak-bill-after-cockroach-protests/a-78184817?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Facing pressure from the youth-led CJP movement, India&apos;s government pushed through a bill to combat \"paper mafias\" leaking exam questions. But opposition lawmakers walked out before the bill was passed in Rajya Sabha.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Anthropic says Claude AI hacked three companies during tests",
-      "link": "https://www.dw.com/en/anthropic-says-claude-ai-hacked-three-companies-during-tests/a-78184070?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Three separate versions of Claude AI broke out of cybertesting environments and hacked three firms, its developer Anthropic said. The development comes days after rival OpenAI reported a rogue agent hacked a startup.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Middle East: Germany welcomes Hamas disarmament plan",
-      "link": "https://www.dw.com/en/middle-east-germany-welcomes-hamas-disarmament-plan/live-78183794?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Hamas \"must never again pose a threat to Israel,\" Germany&apos;s Foreign Minister Johann Wadephul has said. Meanwhile, Iran&apos;s military says it hit two \"non-compliant oil tankers.\" DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Are Iran and Ukraine wars getting tangled in Caspian Sea?",
-      "link": "https://www.dw.com/en/are-iran-and-ukraine-wars-getting-tangled-in-caspian-sea/a-78178784?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Tehran has threatened a response after a Ukrainian strike on an Iranian cargo ship in the Caspian Sea that Kyiv says was carrying weapons to Russia. Still, Ukraine says it wants to avoid escalation with Tehran.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Spain will send troops to Ceuta to help with border security",
-      "link": "https://www.dw.com/en/spain-will-send-troops-to-ceuta-to-help-with-border-security/a-78177638?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Authorities in the Spanish city of Ceuta asked Madrid to declare a national emergency and send military assistance. Crowds of people breached the border of the territory next to Morocco as police lost control.",
       "tier": 2
     }
   ]
