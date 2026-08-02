@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T00:59:30.874Z",
+  "generatedAt": "2026-08-02T12:43:11.317Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,34 +32,26 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 11:12:00 GMT",
+      "snippet": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
       "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 00:55:16 GMT",
+      "publishedAt": "Sun, 02 Aug 2026 10:32:28 GMT",
       "snippet": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 20:09:27 GMT",
-      "snippet": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Call for 'full review' as pressure grows on Infantino",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 17:07:46 GMT",
-      "snippet": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 00:29:55 GMT",
-      "snippet": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 11:49:40 GMT",
+      "snippet": "The vessel with at least 250 people on board caught fire off Madura island.",
       "tier": 1
     },
     {
@@ -72,10 +64,18 @@
     },
     {
       "source": "BBC World",
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 22:57:55 GMT",
-      "snippet": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 22:23:20 GMT",
+      "snippet": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 00:29:55 GMT",
+      "snippet": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
       "tier": 1
     },
     {
@@ -88,6 +88,14 @@
     },
     {
       "source": "BBC World",
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 22:57:55 GMT",
+      "snippet": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
       "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 01 Aug 2026 23:03:15 GMT",
@@ -96,10 +104,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Russian ship defies sanctions to send military vehicles to Mali",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 23:03:23 GMT",
-      "snippet": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 10:54:44 GMT",
+      "snippet": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
       "tier": 1
     },
     {
@@ -112,10 +120,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
       "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 15:25:30 GMT",
-      "snippet": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "publishedAt": "Sun, 02 Aug 2026 10:11:26 GMT",
+      "snippet": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
       "tier": 1
     },
     {
@@ -128,31 +136,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 00:02:18 GMT",
-      "snippet": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 13:35:39 GMT",
-      "snippet": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-      "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 02:21:29 GMT",
-      "snippet": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+      "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
       "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 01 Aug 2026 21:03:42 GMT",
       "snippet": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
@@ -170,7 +154,7 @@
       "source": "BBC World",
       "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
       "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 22:06:18 GMT",
+      "publishedAt": "Sun, 02 Aug 2026 07:58:51 GMT",
       "snippet": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
       "tier": 1
     },
@@ -188,6 +172,70 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 01 Aug 2026 10:02:43 GMT",
       "snippet": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 15:18:31 GMT",
+      "snippet": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Fastest runner to cross the Alps says it was an incredible experience",
+      "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 10:59:55 GMT",
+      "snippet": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
+      "link": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+      "publishedAt": "Sun, 02 Aug 2026 08:00:00 -0400",
+      "snippet": "Hours of video analyzed in an 18-month investigation reveal what really happened the night Antonio Mays Jr. was shot at the Capitol Hill Occupied Protest, and how protesters mistook him for a threat.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Why is the rate of premature births so high in this community?",
+      "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
+      "publishedAt": "Sun, 02 Aug 2026 07:03:47 -0400",
+      "snippet": "About 1 in 4 babies in the Pakistani fishing settlement of Rehri Goth are born prematurely. Researchers are trying to figure out how to bring the numbers down.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "We asked a first grader to interview his hero: A bird scientist",
+      "link": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist",
+      "publishedAt": "Sun, 02 Aug 2026 05:00:00 -0400",
+      "snippet": "NPR asked an aspiring scientist in Philadelphia to interview an adult who is living his dream about his career in conservation science.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "What Cyclospora does inside the gut and how it gets there",
+      "link": "https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak",
+      "publishedAt": "Sun, 02 Aug 2026 05:00:00 -0400",
+      "snippet": "Cyclospora , the parasite that has sickened thousands this summer in the U.S., requires time in the human digestive tract to reproduce.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
+      "link": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
+      "publishedAt": "Sun, 02 Aug 2026 04:01:27 -0400",
+      "snippet": "Police who responded to the shooting found the body of the suspected gunman in an area near the restaurant.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump says he&apos;s cancelling Iran strikes, deal pending",
+      "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+      "publishedAt": "Sun, 02 Aug 2026 03:34:27 -0400",
+      "snippet": "Trump said Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"",
       "tier": 1
     },
     {
@@ -220,54 +268,6 @@
       "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
       "publishedAt": "Sat, 01 Aug 2026 14:33:27 -0400",
       "snippet": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Opinion: Remembering Margo Howard",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard",
-      "publishedAt": "Sat, 01 Aug 2026 08:00:00 -0400",
-      "snippet": "Margo Howard had a lot of life experience and used it to offer advice for years as \"Dear Prudence\" for Slate. She died this week at the age of 86.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "How these slum dwellers went from one-room shacks to beautiful new apartments",
-      "link": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
-      "publishedAt": "Sat, 01 Aug 2026 07:14:58 -0400",
-      "snippet": "It&apos;s a bold new experiment and it&apos;s already won a prize. Residents in a jam-packed slum, many of them living in one-room tin shacks, help design their apartments in a brand new building.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
-      "publishedAt": "Sat, 01 Aug 2026 07:00:00 -0400",
-      "snippet": "The FDA is poised to render a decision on Moderna&apos;s mRNA-based flu shot, which could be the first of its kind to market. The decision is expected to reverberate throughout the biotech industry.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Lebanese who fled the Israeli invasion visit to see what&apos;s left",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
-      "publishedAt": "Sat, 01 Aug 2026 06:00:00 -0400",
-      "snippet": "Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration",
-      "publishedAt": "Sat, 01 Aug 2026 06:00:00 -0400",
-      "snippet": "Thousands of unaccompanied immigrant children are set to lose legal representation. The federal contract that pays for legal access expired Friday.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
-      "publishedAt": "Sat, 01 Aug 2026 05:36:05 -0400",
-      "snippet": "The death toll in Spain&apos;s Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier.",
       "tier": 1
     },
     {
@@ -440,8 +440,80 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "13 dead after small tourist plane crashes in Peru",
-      "link": "https://www.dw.com/en/13-dead-after-small-tourist-plane-crashes-in-peru/a-78204342?maca=en-rss-en-top-1022-rdf",
+      "title": "Indonesia: At least 5 dead in ferry fire",
+      "link": "https://www.dw.com/en/indonesia-at-least-5-dead-in-ferry-fire/a-78206895?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Search and rescue officials report some 41 missing after a fire on a ferry near the Indonesia island of Madura. The cause of the blaze remains unclear.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
+      "link": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spoken out against the violence and warned of the danger from Russia.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: Islamism and right-wing extremism — a story of mutual radicalization",
+      "link": "https://www.dw.com/en/germany-islamism-and-right-wing-extremism-a-story-of-mutual-radicalization/a-78194607?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Following the attack on a Berlin Pride festival, the focus in Germany is turning to Islamist terrorism. An expert warns: Looking only at Islamists overlooks the parallels with right-wing extremism.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: As temperatures rise, so does climate skepticism",
+      "link": "https://www.dw.com/en/germany-as-temperatures-rise-so-does-climate-skepticism/a-78206354?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Some 98% of active climate scientists say climate change is happening, and is man-made. Nonetheless, a new study shows the number of climate-change skeptics in Germany has increased. Why is that?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "China: Dozens dead in Gansu flash floods",
+      "link": "https://www.dw.com/en/china-dozens-dead-in-gansu-flash-floods/a-78206328?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Chinese authorities will launch an investigation into the floods, amid warnings of further landslides as the rainy weather continues.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "On the front line of Europe&apos;s battle against wildfires",
+      "link": "https://www.dw.com/en/on-the-front-line-of-europe-s-battle-against-wildfires/a-78204324?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "French firefighters have won out over a massive blaze, with almost 200,000 evacuees returning home. But Europe&apos;s climate-fueled wildfire season is far from over.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "No new Iran strikes for now amid deal hopes — Trump",
+      "link": "https://www.dw.com/en/no-new-iran-strikes-for-now-amid-deal-hopes-trump/live-78201442?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Donald Trump says the US and Israel have agreed to hold off on strikes on Iran if a peace deal is reached \"rapidly.\" Iran has vowed a decisive response to any new aggression. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US: Multiple dead in shooting at In-N-Out Burger in Idaho",
+      "link": "https://www.dw.com/en/us-multiple-dead-in-shooting-at-in-n-out-burger-in-idaho/a-78205684?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Multiple people were killed in a shooting at an In-N-Out Burger restaurant in southern Idaho. The suspected shooter is dead, police said.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Hungary to shut sole nuclear plant for first time on Sunday",
+      "link": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Record-low water levels on the Danube forced the Paks plant offline, leaving Hungary facing a potential power crunch.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "13 killed in tourist plane crash in Peru",
+      "link": "https://www.dw.com/en/13-killed-in-tourist-plane-crash-in-peru/a-78204342?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The plane was taking tourists to see the Nazca Lines, a group of geoglyphs etched into the deserts of southern Peru.",
       "tier": 2
@@ -496,14 +568,6 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran warns neighbors against being US &apos;defensive shield&apos;",
-      "link": "https://www.dw.com/en/iran-warns-neighbors-against-being-us-defensive-shield/live-78201442?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Iran has warned regional states against helping the US as Washington weighs possible \"very hard\" new strikes. Meanwhile, the Tehran-backed Houthis claim to have diverted eight Saudi tankers from the Red Sea. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Greece battles wildfires, including near Athens",
       "link": "https://www.dw.com/en/greece-battles-wildfires-including-near-athens/a-78201243?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -524,70 +588,6 @@
       "link": "https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Across Southeast Asia, illegal cryptocurrency miners are stealing vast amounts of electricity, straining national grids, and exposing links to organized crime.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ceuta: Spain demands EU meeting, blasts &apos;selfish&apos; response",
-      "link": "https://www.dw.com/en/ceuta-spain-demands-eu-meeting-blasts-selfish-response/live-78191601?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After Italy temporarily suspended the Schengen deal with Spain, Spanish PM Pedro Sanchez said his county was being \"attacked\" from within the EU, stressing that Madrid fully restored control over its border. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany weighs the future of minijobs",
-      "link": "https://www.dw.com/en/germany-weighs-the-future-of-minijobs/a-78147900?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany&apos;s popular minijob system allows millions of workers, including students, to avoid paying income tax or social security contributions. But a reform is on the cards that may soon end this advantage.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine: Zelenskyy says Patriot missile shortage costs lives",
-      "link": "https://www.dw.com/en/ukraine-zelenskyy-says-patriot-missile-shortage-costs-lives/a-78198568?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "At least nine people died, and more than 20 were injured after Russia struck Ukraine&apos;s capital with ballistic missiles. President Volodymyr Zelenskyy blames a lack of interceptor missiles for the deaths.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India: Modi says he forgives &apos;children&apos; who abused him",
-      "link": "https://www.dw.com/en/india-modi-says-he-forgives-children-who-abused-him/a-78200008?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Modi shared a video message in which he described CJP protesters as \"misguided children\" who deserve guidance.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UEFA &apos;rebuilding trust&apos; after FIFA scraps World Cup sell-out plans",
-      "link": "https://www.dw.com/en/uefa-rebuilding-trust-after-fifa-scraps-world-cup-sell-out-plans/a-78198144?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Europe&apos;s governing body, UEFA has called Gianni Infantino&apos;s decision to abandon his plans to sell stakes in FIFA competitions to private equity investors a \"victory for the whole game.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "DR Congo Ebola outbreak becomes world&apos;s second-largest ever",
-      "link": "https://www.dw.com/en/dr-congo-ebola-outbreak-becomes-world-s-second-largest-ever/a-78196627?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "DR Congo’s fast-spreading Ebola outbreak has exceeded 3,500 cases, overtaking the country’s deadliest epidemic and becoming the world’s second-largest ever. The Bundibugyo strain has no approved vaccine or treatment.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK court allows plans for Chinese &apos;super&apos; embassy to advance",
-      "link": "https://www.dw.com/en/uk-court-allows-plans-for-chinese-super-embassy-to-advance/a-78194764?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A court dismissed a legal challenge against Beijing&apos;s new embassy in London, which could become the largest in the UK. The case, brought by a neighborhood association, argued the embassy poses a security threat.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why Europe&apos;s wildfires are getting harder to stop",
-      "link": "https://www.dw.com/en/why-europe-s-wildfires-are-getting-harder-to-stop/a-78194776?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Wildfires may start with a single spark, but experts say climate change, drought and decades of forest management decisions have created the conditions for Europe&apos;s biggest blazes.",
       "tier": 2
     }
   ]
