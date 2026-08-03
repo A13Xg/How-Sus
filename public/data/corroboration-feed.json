@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T12:43:11.317Z",
+  "generatedAt": "2026-08-03T00:59:09.368Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,26 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 20:36:37 GMT",
+      "snippet": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
       "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 02 Aug 2026 11:12:00 GMT",
       "snippet": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 15:50:59 GMT",
+      "snippet": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
       "tier": 1
     },
     {
@@ -48,7 +64,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 15:48:00 GMT",
+      "snippet": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Five dead and 41 missing after Indonesia ferry catches fire",
       "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 02 Aug 2026 11:49:40 GMT",
       "snippet": "The vessel with at least 250 people on board caught fire off Madura island.",
@@ -64,10 +88,10 @@
     },
     {
       "source": "BBC World",
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 22:23:20 GMT",
-      "snippet": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
+      "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+      "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 16:37:02 GMT",
+      "snippet": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
       "tier": 1
     },
     {
@@ -88,15 +112,7 @@
     },
     {
       "source": "BBC World",
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 22:57:55 GMT",
-      "snippet": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+      "title": "Why Uganda is winning the battle against Ebola as virus spreads in DR Congo",
       "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 01 Aug 2026 23:03:15 GMT",
       "snippet": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
@@ -112,14 +128,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 05:01:56 GMT",
-      "snippet": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
       "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 02 Aug 2026 10:11:26 GMT",
@@ -128,10 +136,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-      "link": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 16:16:16 GMT",
-      "snippet": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 22:23:20 GMT",
+      "snippet": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
       "tier": 1
     },
     {
@@ -147,7 +155,7 @@
       "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
       "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 01 Aug 2026 23:56:19 GMT",
-      "snippet": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
+      "snippet": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
       "tier": 1
     },
     {
@@ -176,26 +184,42 @@
     },
     {
       "source": "BBC World",
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 15:18:31 GMT",
-      "snippet": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Fastest runner to cross the Alps says it was an incredible experience",
-      "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 10:59:55 GMT",
-      "snippet": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
+      "title": "At the scene of deadly Moscow bomb blast",
+      "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 16:52:35 GMT",
+      "snippet": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
-      "link": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+      "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
+      "link": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon",
+      "publishedAt": "Sun, 02 Aug 2026 19:38:05 -0400",
+      "snippet": "A defunct part of a Falcon 9 rocket could slam into the moon at more than 5,000 miles per hour, according to scientists.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
+      "link": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
+      "publishedAt": "Sun, 02 Aug 2026 14:31:34 -0400",
+      "snippet": "The bank is asking a judge to permanently dismiss a lawsuit from Trump-affiliated businesses, arguing a monthslong internal review — not the Jan. 6 riot — explains why hundreds of accounts were shut down in 2021.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
+      "link": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
+      "publishedAt": "Sun, 02 Aug 2026 09:35:43 -0400",
+      "snippet": "There are at least three fires in and around the city. Large parts of Spokane are under Level 3 evacuation orders, which read: \"Leave NOW! This may be your only notice.\"",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
+      "link": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
       "publishedAt": "Sun, 02 Aug 2026 08:00:00 -0400",
-      "snippet": "Hours of video analyzed in an 18-month investigation reveal what really happened the night Antonio Mays Jr. was shot at the Capitol Hill Occupied Protest, and how protesters mistook him for a threat.",
+      "snippet": "An 18-month investigation by The Seattle Times, KUOW and NPR&apos;s Embedded podcast and a review of more than a dozen videos from the night of the shooting reveal the most comprehensive view to date of how the chaotic scene unfolded. And they show how a Black teenager who came t",
       "tier": 1
     },
     {
@@ -247,27 +271,91 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
-      "publishedAt": "Sat, 01 Aug 2026 18:23:39 -0400",
-      "snippet": "A mountaineering team with climbers from around the world, including the U.S., was attempting to climb one of the tallest peaks on earth.",
+      "source": "PBS Headlines",
+      "title": "Senate leaders reach funding deal to avoid shutdown during campaign season",
+      "link": "https://www.pbs.org/newshour/politics/senate-leaders-reach-funding-deal-to-avoid-shutdown-during-campaign-season",
+      "publishedAt": "Sun, 02 Aug 2026 18:49:31 -0400",
+      "snippet": "The Senate is likely to vote on the measure before leaving Washington at week's end for its traditional August recess, a period that many lawmakers want to spend shoring up their reelection prospects rather than working in the nation's capital.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-      "publishedAt": "Sat, 01 Aug 2026 16:27:32 -0400",
-      "snippet": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine&apos;s missile defense systems.",
+      "source": "PBS Headlines",
+      "title": "Ken Martin hunkers down at the Democratic National Committee as a storm gathers around party leader",
+      "link": "https://www.pbs.org/newshour/politics/ken-martin-hunkers-down-at-the-democratic-national-committee-as-a-storm-gathers-around-party-leader",
+      "publishedAt": "Sun, 02 Aug 2026 18:11:04 -0400",
+      "snippet": "Desperate to save his job as chair of the Democratic National Committee, he is avoiding media appearances, monitoring his critics' social media posts and refusing — at least so far — to make any substantive changes at his troubled organization.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Spain&apos;s Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
-      "publishedAt": "Sat, 01 Aug 2026 14:33:27 -0400",
-      "snippet": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.",
+      "source": "PBS Headlines",
+      "title": "Trump frequently announces he's halting strikes in Iran. But they keep happening",
+      "link": "https://www.pbs.org/newshour/politics/trump-frequently-announces-hes-halting-strikes-in-iran-but-they-keep-happening",
+      "publishedAt": "Sun, 02 Aug 2026 17:29:47 -0400",
+      "snippet": "The abrupt shifts have been a defining feature of the five-month conflict that has sent prices of oil and basic goods soaring — and the announcements to date have been upended by renewed attacks days or even hours afterward.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes",
+      "link": "https://www.pbs.org/newshour/nation/eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of-5000-homes",
+      "publishedAt": "Sun, 02 Aug 2026 16:58:10 -0400",
+      "snippet": "The fires burned more than 8.2 square miles around Spokane, the second largest city in Washington, and were among dozens across the western U.S. — stretching the ability of federal, state and local agencies to fight them.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory",
+      "link": "https://www.pbs.org/newshour/world/ceuta-grapples-with-aftermath-of-border-surge-after-most-migrants-leave-the-spanish-territory",
+      "publishedAt": "Sun, 02 Aug 2026 14:44:04 -0400",
+      "snippet": "Most of the 60,000 migrants who swam, scrambled and later charged into the tiny Spanish exclave in North Africa this week had walked back to Morocco by Sunday, but some stayed on in the hills surrounding the city.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Fact-checking Trump's claims about how the Iran war is going",
+      "link": "https://www.pbs.org/newshour/world/fact-checking-trumps-claims-about-how-the-iran-war-is-going",
+      "publishedAt": "Sun, 02 Aug 2026 13:12:26 -0400",
+      "snippet": "Even as a ceasefire was crumbling, leading the U.S. to wage new attacks on Iran, President Donald Trump touted the United States' war as a success.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Israel says it has serious concerns with Hamas disarmament deal",
+      "link": "https://www.pbs.org/newshour/world/israel-says-it-has-serious-concerns-with-hamas-disarmament-deal",
+      "publishedAt": "Sun, 02 Aug 2026 12:43:14 -0400",
+      "snippet": "Doron Spielman, spokesperson for the Israeli Prime Minister's office, told The Associated Press that Israel's intelligence assessment is that Hamas remains committed to rebuilding its military rather than genuinely demilitarizing.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House",
+      "link": "https://www.pbs.org/newshour/politics/sen-bernie-moreno-says-former-son-in-law-max-miller-should-not-serve-in-the-house",
+      "publishedAt": "Sun, 02 Aug 2026 12:15:43 -0400",
+      "snippet": "Miller said Sunday that he will remain in his race for reelection before a Wednesday deadline to replace him.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Moscow mayor calls a deadly bomb attack on a restaurant a 'terrorist act'",
+      "link": "https://www.pbs.org/newshour/world/moscow-mayor-calls-a-deadly-bomb-attack-on-a-restaurant-a-terrorist-act",
+      "publishedAt": "Sun, 02 Aug 2026 12:05:12 -0400",
+      "snippet": "A woman attempted to smuggle the bomb into the establishment, but a security guard refused to let her in before the bomb exploded, Russian state media reported.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "2 killed when firefighting helicopters collide near Athens as Europe's wildfire emergency rages",
+      "link": "https://www.pbs.org/newshour/world/2-killed-when-firefighting-helicopters-collide-near-athens-as-europes-wildfire-emergency-rages",
+      "publishedAt": "Sun, 02 Aug 2026 11:49:26 -0400",
+      "snippet": "The four crew members were recovered after the collision, the Greek fire department said, adding that two were recovered safely, while the other two were unconscious.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say",
+      "link": "https://www.pbs.org/newshour/nation/suspect-in-shooting-at-idaho-fast-food-restaurant-died-from-self-inflicted-gunshot-wound-police-say",
+      "publishedAt": "Sun, 02 Aug 2026 11:23:09 -0400",
+      "snippet": "Investigators are confident that the gunman, identified as 24-year-old Chad Williams, acted alone during the shooting Saturday in Twin Falls, Police Chief Matthew Hicks said at a news conference.",
       "tier": 1
     },
     {
@@ -343,99 +431,67 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Huge blankets of seaweed are smothering coastlines from the Caribbean to Mexico",
-      "link": "https://www.pbs.org/newshour/science/huge-blankets-of-seaweed-are-smothering-coastlines-from-the-caribbean-to-mexico",
-      "publishedAt": "Fri, 31 Jul 2026 20:41:22 -0400",
-      "snippet": "Some 27 million metric tons of self-sustaining sargassum have been recorded in the Atlantic, Caribbean and Gulf of Mexico in July, according to a report released Friday by the University of South Florida's Optical Oceanography Lab.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "U.S. will make visa bond program permanent, affecting mostly African countries",
-      "link": "https://www.pbs.org/newshour/politics/u-s-will-make-visa-bond-program-permanent-affecting-mostly-african-countries",
-      "publishedAt": "Fri, 31 Jul 2026 20:38:11 -0400",
-      "snippet": "A draft notice published Friday in the Federal Register says a nearly year-long review \"provided sufficient data\" to suggest the bond program effectively enforces compliance with visa conditions, and would be made permanent.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Arizona, California and Nevada would share cuts under federal proposal for Colorado River",
-      "link": "https://www.pbs.org/newshour/nation/arizona-california-and-nevada-would-share-cuts-under-federal-proposal-for-colorado-river",
-      "publishedAt": "Fri, 31 Jul 2026 20:21:26 -0400",
-      "snippet": "The U.S. Bureau of Reclamation proposal spares four other states from facing mandatory cuts for now.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Social media companies sued over deaths of 4 teens amid rising pressure over child safety",
-      "link": "https://www.pbs.org/newshour/nation/social-media-companies-sued-over-deaths-of-4-teens-amid-rising-pressure-over-child-safety",
-      "publishedAt": "Fri, 31 Jul 2026 20:11:39 -0400",
-      "snippet": "The families of four teenagers who died by suicide are suing Meta, TikTok, Snapchat and YouTube over what they describe as \"years of escalating harms\" from using their platforms that eventually resulted in their deaths.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "What's in the proposed deal to disarm Hamas and withdraw Israeli forces from Gaza",
-      "link": "https://www.pbs.org/newshour/show/whats-in-the-proposed-deal-to-disarm-hamas-and-withdraw-israeli-forces-from-gaza",
-      "publishedAt": "Fri, 31 Jul 2026 18:55:35 -0400",
-      "snippet": "There is a major development in the effort to bring lasting peace to Gaza. Hamas says it has agreed to a U.S.-backed framework that would ultimately see the militant group give up its weapons and control of Gaza, while Israeli forces withdraw from the territory. Nick Shifrin repo",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Tens of thousands of migrants enter Spanish territory, then return to Morocco",
-      "link": "https://www.pbs.org/newshour/show/tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
-      "publishedAt": "Fri, 31 Jul 2026 18:50:28 -0400",
-      "snippet": "Spain is rushing troops and resources to one of its territories in North Africa, after tens of thousands of migrants crossed the border from Morocco into the small city of Ceuta. Geoff Bennett reports.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "News Wrap: Death toll from Japan earthquake rises to 34",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-death-toll-from-japan-earthquake-rises-to-34",
-      "publishedAt": "Fri, 31 Jul 2026 18:45:12 -0400",
-      "snippet": "In our news wrap Friday, this week's powerful earthquake in Japan has claimed at least 34 lives, a sweltering heat dome descended over much of the West, a Marine Corps fighter jet crashed at Miramar Air Station in California and President Trump says the U.S. has not yet agreed to",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Justice Department drops criminal case against Olympian over damaged Reflecting Pool",
-      "link": "https://www.pbs.org/newshour/politics/justice-department-drops-criminal-case-against-olympian-over-damaged-reflecting-pool",
-      "publishedAt": "Fri, 31 Jul 2026 18:43:32 -0400",
-      "snippet": "Government lawyers said in a 20-page court filing that information provided since the indictment of David Hearn shows that the damage was the result of a \"flawed installation by the contractor\" as well as \"the rush to complete the project prior to events associated with the Ameri",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "How Iranians are living through months of war and government crackdowns",
-      "link": "https://www.pbs.org/newshour/show/how-iranians-are-living-through-months-of-war-and-government-crackdowns",
-      "publishedAt": "Fri, 31 Jul 2026 18:40:06 -0400",
-      "snippet": "As the Iran war enters its sixth month, the toll continues to grow. The UN says more than 2,500 children have been killed or injured in Iran alone. Amna Nawaz discussed more with New York Times reporter Yeganeh Torbati, whose reporting has focused on the lives of ordinary Iranian",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Western states face more water cutbacks as Colorado River shrinks",
-      "link": "https://www.pbs.org/newshour/show/western-states-face-more-water-cutbacks-as-colorado-river-shrinks",
-      "publishedAt": "Fri, 31 Jul 2026 18:35:41 -0400",
-      "snippet": "After years of battles over its use — and a long-running drought — states that rely on the Colorado River are facing the prospect of further cutbacks. Years of gridlock among the states prompted the federal government to step in. A new blueprint lays out new requirements for mana",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Unaccompanied migrant children at risk of losing legal representation",
-      "link": "https://www.pbs.org/newshour/show/unaccompanied-migrant-children-at-risk-of-losing-legal-representation",
-      "publishedAt": "Fri, 31 Jul 2026 18:30:05 -0400",
-      "snippet": "Thousands of unaccompanied migrant children could lose legal representation, now that a federal contract with legal aid groups representing the minors is expiring. That contract, held by the non-profit Acacia Center for Justice, had funded legal services for unaccompanied childre",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pakistan: Suicide bomber kills 14 at anti-militancy protest",
+      "link": "https://www.dw.com/en/pakistan-suicide-bomber-kills-14-at-anti-militancy-protest/a-78209642?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A suicide bomber has killed over a dozen people including police in an attack during a demonstration of citizens against militancy. More than 18 people were injured in the attack.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine hits targets deep inside Russia, killing eight",
+      "link": "https://www.dw.com/en/ukraine-hits-targets-deep-inside-russia-killing-eight/a-78208850?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ukrainian drone strikes inside Russia killed eight people overnight in attacks that targeted military and civilian infrastructure. Russia said Moscow&apos;s forces downed 635 drones in the assault.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ceuta: Most who breached border have left, Spain says",
+      "link": "https://www.dw.com/en/ceuta-most-who-breached-border-have-left-spain-says/live-78191601?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Nearly all of the more than 50,000 migrants who breached the border this week have returned to Morocco, according to Spanish officials. At least 72 people died in the border rush. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Greece: Fire brigade helicopters collide as wildfires spread",
+      "link": "https://www.dw.com/en/greece-fire-brigade-helicopters-collide-as-wildfires-spread/a-78207952?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The crew of one of the helicopters is reported to be safe but the search for the second is ongoing. Prime Minister Mitsotakis has warned of \"extremely difficult\" days ahead, while one expert has referred to a \"megafire.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Small insects, big damage: The global ant trade is booming",
+      "link": "https://www.dw.com/en/small-insects-big-damage-the-global-ant-trade-is-booming/a-78186729?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Legal or not, the trade in African ants bound for Europe is booming. What do hobbyists find appealing about these insects, and what risks does the trade pose to ecosystems, including power outages?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: DB hampered by &apos;organized irresponsibility&apos;",
+      "link": "https://www.dw.com/en/germany-news-db-hampered-by-organized-irresponsibility/live-78199317?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "DB chief Evelyn Palla wants to overcome the culture of &apos;&apos;organized irresponsibility\" by empowering new decision-makers within the railway operator. Bavarian brass musicians have wrapped up a 72-hour concert. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Moscow restaurant blast a &apos;brutal terror attack,&apos; mayor says",
+      "link": "https://www.dw.com/en/moscow-restaurant-blast-a-brutal-terror-attack-mayor-says/a-78205022?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The deadly explosion outside an upscale Moscow restaurant at Kudrinskaya Square was a \"brutal terror attack,\" Moscow Mayor Sergei Sobyanin said, promising the perpetrators would be punished. But many questions remain.",
       "tier": 2
     },
     {
@@ -507,7 +563,7 @@
       "title": "Hungary to shut sole nuclear plant for first time on Sunday",
       "link": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Record-low water levels on the Danube forced the Paks plant offline, leaving Hungary facing a potential power crunch.",
+      "snippet": "Record-low water levels on the Danube forced the Paks plant offline, leaving Hungary facing a potential power crunch. In neighboring Serbia, energy production at two hydroelectric plants has also been reduced.",
       "tier": 2
     },
     {
@@ -528,66 +584,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Big turnout for Pride after Berlin attack",
-      "link": "https://www.dw.com/en/germany-news-big-turnout-for-pride-after-berlin-attack/live-78199317?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Several German cities are holding Pride events a week after a deadly attack on a march in Berlin. A forest fire is burning out of control in Bavaria. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Germany&apos;s long road to equality for same-sex couples",
       "link": "https://www.dw.com/en/germany-s-long-road-to-equality-for-same-sex-couples/a-78193914?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "In 2001, same-sex couples in Germany were able to register a civil partnership for the first time. The Civil Partnership Act was a crucial step toward \"marriage for all,\" which was introduced in 2017.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany widens deportations to Afghanistan",
-      "link": "https://www.dw.com/en/germany-widens-deportations-to-afghanistan/a-78173466?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Earlier this week, Germany for the first time deported a man with no criminal record to Kabul. Faridoon Tofan, who is currently in deportation detention, fears the same fate.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Famed climber Nirmal Purja among 10 killed in avalanche",
-      "link": "https://www.dw.com/en/famed-climber-nirmal-purja-among-10-killed-in-avalanche/a-78185586?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A major search was launched after an avalanche struck the expedition high on Pakistan&apos;s Broad Peak. The confirmation ended hopes of a rescue and marked the loss of one of the world&apos;s best-known high-altitude climbers.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "More women die in heatwaves, but biology &apos;isn&apos;t main cause&apos;",
-      "link": "https://www.dw.com/en/more-women-die-in-heatwaves-but-biology-isn-t-main-cause/a-78187451?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In country after country, more women are dying from the heat than men. But researchers say biology isn&apos;t the main reason. Age, working conditions, and unequal access to rest may drive the gap.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Greece battles wildfires, including near Athens",
-      "link": "https://www.dw.com/en/greece-battles-wildfires-including-near-athens/a-78201243?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Firefighters were battling blazes in over 70 locations across Greece. Strong winds continue to fan the flames, adding to the firefighters&apos; struggles.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "War in Ukraine: Why Crimea has become a strategic target",
-      "link": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ukraine has stepped up attacks on Russian logistics centers and energy facilities in Crimea. What are the consequences for local supplies, and how does Kyiv hope this strategy will affect the course of the war?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How crypto miners are stealing power in Southeast Asia",
-      "link": "https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Across Southeast Asia, illegal cryptocurrency miners are stealing vast amounts of electricity, straining national grids, and exposing links to organized crime.",
       "tier": 2
     }
   ]
