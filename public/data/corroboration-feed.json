@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T00:56:36.092Z",
+  "generatedAt": "2026-08-04T13:05:57.683Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,42 +32,106 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 18:04:30 GMT",
-      "snippet": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+      "title": "More than 150 migrants rescued after boat catches fire in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 11:19:08 GMT",
+      "snippet": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 19:42:55 GMT",
-      "snippet": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+      "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 11:19:01 GMT",
+      "snippet": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 15:57:27 GMT",
-      "snippet": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+      "title": "Analysis: Trump challenged by cold reality from top allies",
+      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 09:11:39 GMT",
+      "snippet": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 16:27:43 GMT",
-      "snippet": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+      "title": "What will happen when a SpaceX rocket collides with the Moon?",
+      "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 09:13:37 GMT",
+      "snippet": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 20:05:46 GMT",
-      "snippet": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+      "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 10:34:45 GMT",
+      "snippet": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Guatemala volcano eruption sends lava spewing into the air",
+      "link": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 10:56:50 GMT",
+      "snippet": "The Fuego stratovolcano is one of the most active in Central America and popular with hikers.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+      "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 09:23:06 GMT",
+      "snippet": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Arson arrest made over largest of Washington state's wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 09:32:12 GMT",
+      "snippet": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
+      "link": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 10:04:53 GMT",
+      "snippet": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "France wildfires reveal hundreds of WW2 shells in village",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 04:22:12 GMT",
+      "snippet": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 23:25:14 GMT",
+      "snippet": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 23:14:12 GMT",
+      "snippet": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 09:08:40 GMT",
+      "snippet": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
       "tier": 1
     },
     {
@@ -80,10 +144,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 07:49:33 GMT",
-      "snippet": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
+      "title": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 07:13:40 GMT",
+      "snippet": "Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 16:27:43 GMT",
+      "snippet": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
       "tier": 1
     },
     {
@@ -96,178 +168,114 @@
     },
     {
       "source": "BBC World",
-      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-      "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 08:40:22 GMT",
-      "snippet": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+      "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 15:57:27 GMT",
+      "snippet": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Russian anti-war politician says he has fled the country",
-      "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 15:41:08 GMT",
-      "snippet": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
+      "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 20:05:46 GMT",
+      "snippet": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "US and Japan take action to prop up yen in rare joint move",
-      "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 07:30:52 GMT",
-      "snippet": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Sudan army drone strike on court session kills 35, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 10:29:24 GMT",
-      "snippet": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 03:32:21 GMT",
-      "snippet": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'What was my fault?': How India's exam paper leak ended young lives",
-      "link": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 23:35:54 GMT",
-      "snippet": "Two families reveal the human toll of India's medical entrance examination paper leak.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
-      "link": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 05:31:55 GMT",
-      "snippet": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-      "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 23:56:19 GMT",
-      "snippet": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 07:58:51 GMT",
-      "snippet": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "At the scene of deadly Moscow bomb blast",
-      "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 16:52:35 GMT",
-      "snippet": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Fastest runner to cross the Alps says it was an incredible experience",
-      "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 10:59:55 GMT",
-      "snippet": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-      "link": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 10:20:10 GMT",
-      "snippet": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
+      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 07:49:33 GMT",
+      "snippet": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "These are some of the last pristine ocean ecosystems. Now, they&apos;re losing protections",
-      "link": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed",
-      "publishedAt": "Mon, 03 Aug 2026 18:53:15 -0400",
-      "snippet": "The largest conservation areas in the U.S. are in the Pacific Ocean, where tiny islands are epicenters of biodiversity. The Trump administration is now opening their waters to commercial fishing, sparking a battle over some of the country&apos;s most pristine ecosystems.",
+      "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+      "link": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+      "publishedAt": "Tue, 04 Aug 2026 07:29:23 -0400",
+      "snippet": "Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
-      "link": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
-      "publishedAt": "Mon, 03 Aug 2026 17:17:49 -0400",
-      "snippet": "After a months-long investigation, the ethics committee recommended censure for Edwards because of \"persistent unprofessional and inappropriate conduct towards two young female staffers.\"",
+      "title": "They&apos;re a world leader in using drones for healthcare. But drones can&apos;t do it all",
+      "link": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
+      "publishedAt": "Tue, 04 Aug 2026 07:05:10 -0400",
+      "snippet": "Drones carrying medical supplies constantly crisscross the skies of Rwanda. The Trump administration is giving a major grant to the effort — and at the same time cutting aid to the country.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
-      "link": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
-      "publishedAt": "Mon, 03 Aug 2026 15:33:05 -0400",
-      "snippet": "Prosecutors dropped their case against David Hearn on Friday, blaming Reflecting Pool damage on a \"botched installation\" rather than vandalism. That has implications for other people who were charged.",
+      "title": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
+      "link": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
+      "publishedAt": "Tue, 04 Aug 2026 06:56:56 -0400",
+      "snippet": "The suspect was arrested in connection with one of three wildfires in Spokane, Wash., that have destroyed hundreds of homes and displaced nearly a quarter of the city&apos;s residents.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
-      "link": "https://www.npr.org/2026/08/03/nx-s1-5910714/brazil-cuba-migration",
-      "publishedAt": "Mon, 03 Aug 2026 15:05:41 -0400",
-      "snippet": "For years, many Cubans hoping to leave the island looked to the United States. Now, with legal pathways largely closed, a growing number are heading to Brazil instead.",
+      "title": "The sneaky economics of healthwashing",
+      "link": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
+      "publishedAt": "Tue, 04 Aug 2026 06:30:00 -0400",
+      "snippet": "Why food companies love labels like \"organic\" and \"high protein,\" why our brains are misled by them — and how to avoid paying extra for marketing.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Photos: Wildfires in Spokane lead to thousands of evacuations",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
-      "publishedAt": "Mon, 03 Aug 2026 14:45:00 -0400",
-      "snippet": "Wildfires in Spokane have destroyed hundreds of homes and led to evacuation orders for 60,000 people.",
+      "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
+      "publishedAt": "Tue, 04 Aug 2026 05:00:00 -0400",
+      "snippet": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Two people in Michigan have died after becoming ill with cyclosporiasis",
-      "link": "https://www.npr.org/2026/08/03/g-s1-137048/michigan-cyclosporiasis-deaths-cyclospora-outbreak",
-      "publishedAt": "Mon, 03 Aug 2026 13:46:16 -0400",
-      "snippet": "They are the first reported deaths linked to a massive outbreak of the intestinal illness that began in May.",
+      "title": "Why Texas is betting &apos;Y&apos;all Street&apos; can take on Wall Street",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
+      "publishedAt": "Tue, 04 Aug 2026 05:00:00 -0400",
+      "snippet": "Dallas&apos;s financial industry is growing, amid a larger Texas business boom. But can it really steal New York&apos;s crown?",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Washington wildfires destroy homes, force thousands to evacuate",
-      "link": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
-      "publishedAt": "Mon, 03 Aug 2026 10:28:44 -0400",
-      "snippet": "Spokane Mayor Lisa Brown says nearly half of the city&apos;s neighborhoods have either been evacuated or are at risk as the fires remain uncontained.",
+      "title": "Medicaid work rule leaves homeless people in the cold",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5918346/medicaid-work-requirement-montana-homeless",
+      "publishedAt": "Tue, 04 Aug 2026 05:00:00 -0400",
+      "snippet": "Conservatives who have long pushed for Medicaid work requirements often said vulnerable people would get a pass. But the federal government&apos;s list of exemptions left off homeless people.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S. men&apos;s national team coach Mauricio Pochettino will stay through 2030 World Cup",
-      "link": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
-      "publishedAt": "Mon, 03 Aug 2026 10:05:24 -0400",
-      "snippet": "Pochettino came on in 2024 to right the ship ahead of this year&apos;s World Cup, in which he led the team to a record three wins and helped ignite enthusiasm in millions of fans before a round of 16 exit.",
+      "title": "A veteran was detained by the National Guard in her front yard. Now she&apos;s suing",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5918354/national-guard-dc-veteran-detained",
+      "publishedAt": "Tue, 04 Aug 2026 05:00:00 -0400",
+      "snippet": "Military veteran and D.C. resident Anna King has filed a $3 million lawsuit against the Idaho National Guard, saying three guard members assaulted her while detaining her in front of her home.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Todd Blanche rescinds &apos;anti-weaponization fund&apos;. And, Trump calls off striking Iran",
-      "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
-      "publishedAt": "Mon, 03 Aug 2026 07:57:06 -0400",
-      "snippet": "Acting Attorney General Todd Blanche rescinds President Trump&apos;s anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
+      "title": "5 states have primary elections on Tuesday. These are the races to watch",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
+      "publishedAt": "Tue, 04 Aug 2026 05:00:00 -0400",
+      "snippet": "From Michigan&apos;s Senate and governor primary to Missouri&apos;s 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "What would it take to get peptides on the shelf?",
-      "link": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
-      "publishedAt": "Mon, 03 Aug 2026 07:00:00 -0400",
-      "snippet": "An FDA advisory panel recently voted to green-light some popular peptides. The decision brought enormous attention to the market for these products — and concerns about the unregulated supply.",
+      "title": "Nauru, the world&apos;s 3rd-smallest country, changes its name to Naoero",
+      "link": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
+      "publishedAt": "Tue, 04 Aug 2026 02:59:01 -0400",
+      "snippet": "The Pacific Island country of Nauru has changed its name to the Republic of Naoero, its president said, matching the spelling and pronunciation in the national language.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "WATCH LIVE: Senate Judiciary Committee votes on Blanche nomination for attorney general",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-senate-judiciary-committee-votes-on-blanche-nomination-for-attorney-general",
+      "publishedAt": "Tue, 04 Aug 2026 09:00:43 -0400",
+      "snippet": "The Senate Judiciary Committee's vote follows a deal struck late Sunday between Blanche and GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina, who had demanded written assurances about the settlement of Trump's lawsuit against the Internal Revenue Service over his ",
       "tier": 1
     },
     {
@@ -296,7 +304,7 @@
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH LIVE: Massachusetts' U.S. Senate Democratic primary debate",
+      "title": "WATCH: Massachusetts' U.S. Senate Democratic primary debate",
       "link": "https://www.pbs.org/newshour/politics/watch-live-massachusetts-u-s-senate-democratic-primary-debate",
       "publishedAt": "Mon, 03 Aug 2026 18:44:33 -0400",
       "snippet": "Sen. Ed Markey and Rep. Seth Moulton are participating in a one-hour debate Monday, ahead of Massachusetts' Democratic primary for U.S. Senate on Sept. 1.",
@@ -423,19 +431,99 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "WATCH: Trump says new talks are 'last chance' for Iran to forge a deal",
-      "link": "https://www.pbs.org/newshour/world/watch-trump-says-new-talks-are-last-chance-for-iran-to-forge-a-deal",
-      "publishedAt": "Mon, 03 Aug 2026 15:51:58 -0400",
-      "snippet": "Trump said in the Oval Office on Monday he expects negotiations that will reopen the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear program will begin in the next day or two.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Guatemala: Towns evacuated as Fuego volcano erupts",
+      "link": "https://www.dw.com/en/guatemala-towns-evacuated-as-fuego-volcano-erupts/a-78230836?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The country&apos;s disaster energy issued in second-highest warning level and urged residents to seek shelter. Onlookers have also been warned to stop climbing a nearby volcano to take videos of the eruption.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Tennis star Sabalenka supports sport&apos;s new sex test policy",
+      "link": "https://www.dw.com/en/tennis-star-sabalenka-supports-sport-s-new-sex-test-policy/a-78228069?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The world number one women&apos;s tennis player supports the WTA&apos;s new sex testing rules. Others are more critical of the policy.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iran: Is Reza Pahlavi&apos;s political star fading?",
+      "link": "https://www.dw.com/en/iran-is-reza-pahlavi-s-political-star-fading/a-78219536?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Once seen as a leading opposition figure, Pahlavi now faces questions about his political relevance in Western capitals and inside Iran.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine drone strikes kill five near Moscow, Russia says",
+      "link": "https://www.dw.com/en/ukraine-drone-strikes-kill-five-near-moscow-russia-says/live-78227405?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russian officials say Ukrainian drones have killed five people, hitting industrial and warehouse sites near Moscow and St Petersburg. Meanwhile, a soldier has killed four people in Russian-controlled Crimea. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "South Korea: 16 dead amid record heat wave, President Lee urges action",
+      "link": "https://www.dw.com/en/south-korea-16-dead-amid-record-heat-wave-president-lee-urges-action/a-78225858?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "President Lee Jae Myung called on officials to take prompt action as extreme weather conditions became \"normal.\" Authorities extended their first-ever heat wave warning ⁠for all of Seoul on Tuesday.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Three lions die of heatstroke at Tokyo zoo",
+      "link": "https://www.dw.com/en/three-lions-die-of-heatstroke-at-tokyo-zoo/a-78226382?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The zoo said that 10 of its 16 lions have been ill. Japan has been experiencing an extreme heat wave since late July.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Hedgehog triggers police alert",
+      "link": "https://www.dw.com/en/germany-news-hedgehog-triggers-police-alert/live-78225796?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Police called out after a supermarket burglar alarm went off found an unlikely culprit. Germany&apos;s flag carrier, Lufthansa, has turned in poor quarterly results. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India: Bangladesh presses Delhi over Sheikh Hasina speech",
+      "link": "https://www.dw.com/en/india-bangladesh-presses-delhi-over-sheikh-hasina-speech/live-78225515?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Dhaka has warned New Delhi that giving a political platform to Bangladesh&apos;s former leader could hurt the improving ties between the nations. Meanwhile, Assam is reeling from devastating floods. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Venezuela earthquake death toll crosses 6,000",
+      "link": "https://www.dw.com/en/venezuela-earthquake-death-toll-crosses-6-000/a-78224912?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The updated death toll comes weeks after the 7.2 and 7.5 magnitude quakes hit on June 24, causing massive damage to people and property.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Cuba: Further blackouts disrupt energy restoration attempts",
+      "link": "https://www.dw.com/en/cuba-further-blackouts-disrupt-energy-restoration-attempts/a-78224862?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Authorities say unfavorable weather in the Caribbean has hampered efforts to restore power to Cuba&apos;s national grid amid repeated blackouts. Many Cubans now have power only for a few hours a day.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US: 25 states sue over Trump&apos;s new tariffs",
+      "link": "https://www.dw.com/en/us-25-states-sue-over-trump-s-new-tariffs/a-78224794?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The coalition of largely Democratic-led states is challenging the Trump administration&apos;s argument that tariffs will address imports produced by alleged \"forced labor\" abroad. The White House insists the move is legal.",
       "tier": 2
     },
     {
@@ -451,7 +539,7 @@
       "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
       "link": "https://www.dw.com/en/dry-danube-river-threatens-nuclear-power-in-romania-hungary/a-78223402?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Hungary&apos;s Paks nuclear power plant was operating at about 10% of capacity because of a lack of cooling riverwater. In Romania, the military blew up a rock outcrop in a bid to improve water flow to the Cernavoda plant.",
+      "snippet": "Hungary&apos;s Paks nuclear power plant was operating at about 10% of capacity because of a lack of cooling river water. In Romania, the military blew up a rock outcrop in a bid to improve water flow to the Cernavoda plant.",
       "tier": 2
     },
     {
@@ -459,7 +547,7 @@
       "title": "Iran war: Trump tells Iranian leaders to make deal or surrender",
       "link": "https://www.dw.com/en/iran-war-trump-tells-iranian-leaders-to-make-deal-or-surrender/live-78210315?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "President Donald Trump declared that the US military blockade would continue until Iran either made a deal or went for \"total surrender.\" Follow DW for more.",
+      "snippet": "President Donald Trump declared that the US military blockade would continue until Iran either made a deal or went for \"total surrender.\"",
       "tier": 2
     },
     {
@@ -472,10 +560,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Growing impact of extreme heat on informal workers in Asia&apos;s cities",
-      "link": "https://www.dw.com/en/growing-impact-of-extreme-heat-on-informal-workers-in-asia-s-cities/a-78220714?maca=en-rss-en-top-1022-rdf",
+      "title": "Extreme heat costs Asia&apos;s poorest workers health and wages",
+      "link": "https://www.dw.com/en/extreme-heat-costs-asia-s-poorest-workers-health-and-wages/a-78220714?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "When temperatures soar across Asia&apos;s cities, informal workers face a choice: risk their health or lose their income. For many, the effects don&apos;t end when the workday is over.",
+      "snippet": "From Delhi to Quezon, as temperatures soar across Asia&apos;s cities, informal workers face a choice: risk their health or lose their income. For many, the effects don&apos;t end when the workday is over.",
       "tier": 2
     },
     {
@@ -500,94 +588,6 @@
       "link": "https://www.dw.com/en/can-pm-modi-reconnect-with-india-s-gen-z/a-78216627?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Student protests exposed a growing disconnect between PM Narendra Modi&apos;s BJP and young Indians. Experts say Instagram reels alone won&apos;t close it.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Indian court acquits ex-wrestling chief of harassment",
-      "link": "https://www.dw.com/en/indian-court-acquits-ex-wrestling-chief-of-harassment/a-78215415?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "While the court ruled in lawmaker Brij Bhushan Sharan Singh&apos;s favor, female athletes say their legal battle is not over. The case sparked months of protests by India&apos;s leading female wrestlers.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "What happens next for Infantino and FIFA?",
-      "link": "https://www.dw.com/en/what-happens-next-for-infantino-and-fifa/a-78213350?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "FIFA President Gianni Infantino is under pressure after the failure of his plan to create a commercial subsidiary for the World Cup. But will he be ousted? And what is needed for that to happen?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Russia: Bridge-building with North Korea",
-      "link": "https://www.dw.com/en/russia-bridge-building-with-north-korea/a-78212053?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In the far east, well away from world events, Russia and North Korea are building their first road connection. The project has set alarm bells ringing in Ukraine.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Calls intensify to consider Meta Glasses ban",
-      "link": "https://www.dw.com/en/germany-news-calls-intensify-to-consider-meta-glasses-ban/live-78212257?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Both rights groups and regulators say the new AI tech is dangerous to consumers. At the same time, debate is heating up over pension reforms.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Myanmar: Aung San Suu Kyi meets Red Cross official, junta says",
-      "link": "https://www.dw.com/en/myanmar-aung-san-suu-kyi-meets-red-cross-official-junta-says/a-78211532?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Myanmar’s military-led government released images from the 81-year-old Nobel laureate’s meeting with ICRC’s resident representative for Myanmar, Arnaud de Baecque.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fact check: Russian disinformation targets German elections",
-      "link": "https://www.dw.com/en/fact-check-russian-disinformation-targets-german-elections/a-78193305?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ahead of four elections in Germany this fall, dozens of fake posts are circulating online aimed at discrediting candidates and portraying Germany as divided. Analysts warn that Russia is now targeting local candidates.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Cuba suffers yet another nationwide blackout",
-      "link": "https://www.dw.com/en/cuba-suffers-yet-another-nationwide-blackout/a-78210761?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Cuba&apos;s electricity grid has collapsed again after three nationwide blackouts in July. The power failure comes amid a US-imposed oil blockade on the communist island.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "The economic toll of Spain&apos;s wildfires",
-      "link": "https://www.dw.com/en/the-economic-toll-of-spain-s-wildfires/a-78186441?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Devastating wildfires are ravaging Spain&apos;s tourism, economy and nature. Could the country have done more to prevent them?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "5.0 magnitude earthquake strikes Egypt",
-      "link": "https://www.dw.com/en/5-0-magnitude-earthquake-strikes-egypt/a-78210318?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The quake occurred at 3 a.m. local time about 22 miles north ⁠of the Egyptian city of Suez, the US Geological Survey said.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Man arrested over death of British woman found in suitcase in Athens",
-      "link": "https://www.dw.com/en/man-arrested-over-death-of-british-woman-found-in-suitcase-in-athens/a-78210183?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The body of Scottish national Elisabeth-Jane Ross was discovered last month in a suitcase in a derelict building in Athens.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pakistan: Suicide bomber kills 14 at anti-militancy protest",
-      "link": "https://www.dw.com/en/pakistan-suicide-bomber-kills-14-at-anti-militancy-protest/a-78209642?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A suicide bomber has killed over a dozen people including police in an attack during a demonstration of citizens against militancy. More than 18 people were injured in the attack.",
       "tier": 2
     }
   ]
