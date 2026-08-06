@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T14:40:45.869Z",
+  "generatedAt": "2026-08-06T03:45:59.492Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,34 +32,74 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 12:26:26 GMT",
-      "snippet": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 01:19:59 GMT",
+      "snippet": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Infantino sorry for errors but stays Fifa president",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 21:37:08 GMT",
+      "snippet": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 18:19:51 GMT",
+      "snippet": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+      "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 23:28:06 GMT",
+      "snippet": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Drone carrying explosives found at German airport, police say",
       "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 14:32:27 GMT",
+      "publishedAt": "Wed, 05 Aug 2026 20:01:51 GMT",
       "snippet": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 14:39:45 GMT",
-      "snippet": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
+      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 06 Aug 2026 02:33:33 GMT",
+      "snippet": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
-      "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 11:19:24 GMT",
-      "snippet": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
+      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 20:03:36 GMT",
+      "snippet": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+      "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 19:02:06 GMT",
+      "snippet": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 18:38:46 GMT",
+      "snippet": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
       "tier": 1
     },
     {
@@ -72,74 +112,34 @@
     },
     {
       "source": "BBC World",
+      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
+      "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 11:19:24 GMT",
+      "snippet": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
       "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 05 Aug 2026 12:33:43 GMT",
-      "snippet": "The player only realised he binned the life-changing ticket after family told him the numbers he played for years had been drawn.",
+      "snippet": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Mexican influencer shot dead during livestream",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 11:00:47 GMT",
-      "snippet": "César Gastélum, who was known for comedy and lifestyle posts, was killed at close range by a man on a motorbike.",
+      "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
+      "link": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 14:58:41 GMT",
+      "snippet": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Pakistan restricts international media reporting",
-      "link": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 11:19:42 GMT",
-      "snippet": "Anyone working for foreign media, including Pakistanis, will now need permission to report from anywhere outside three major cities.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 03:44:30 GMT",
-      "snippet": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
-      "link": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 08:29:30 GMT",
-      "snippet": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria's president orders a 80% salary increase for junior soldiers",
-      "link": "https://www.bbc.co.uk/news/articles/cj031jp3g6jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 12:52:19 GMT",
-      "snippet": "The announcement comes as Nigeria's security forces struggle to contain multiple threats.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
-      "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 07:04:45 GMT",
-      "snippet": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Afghan boxer appears in court in connection with death of Scottish woman",
-      "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 09:22:52 GMT",
-      "snippet": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Ross from Edinburgh.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-      "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 13:58:01 GMT",
-      "snippet": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+      "title": "El-Sayed's victory sends tremors through Democratic Party",
+      "link": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 16:04:16 GMT",
+      "snippet": "His win in Michigan sets up a high-stakes contest in November, testing a left-wing candidate's popularity in a swing state.",
       "tier": 1
     },
     {
@@ -176,18 +176,74 @@
     },
     {
       "source": "BBC World",
-      "title": "How to avoid the worst of the Italian heat",
-      "link": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 18:21:00 GMT",
-      "snippet": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave.",
+      "title": "AI or real? BBC analyses viral China disaster videos",
+      "link": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 22:00:32 GMT",
+      "snippet": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
-      "link": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 23:13:04 GMT",
-      "snippet": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
+      "title": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
+      "link": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 19:00:32 GMT",
+      "snippet": "Kyiv's depleted air defences meant many of the missiles were not intercepted - like the one that hit Anastasiia's home.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
+      "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
+      "publishedAt": "Wed, 05 Aug 2026 16:43:29 -0400",
+      "snippet": "Hasina&apos;s speech marked the second anniversary of her ouster. She fled Bangladesh by helicopter following nearly two months of protests in 2024 that left nearly 1,400 people dead, according to the United Nations.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Small Texas law firm set to receive $150M to represent unaccompanied migrant children",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
+      "publishedAt": "Wed, 05 Aug 2026 16:23:02 -0400",
+      "snippet": "The firm, Houston-based Burke Law Group has only two attorneys who specialize in immigration and asylum cases. Two of its founders have ties to the Trump administration.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
+      "publishedAt": "Wed, 05 Aug 2026 16:00:24 -0400",
+      "snippet": "Schwartz takes command of a public health agency that has lost thousands of employees, amid layoffs, resignations and leadership turmoil.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
+      "publishedAt": "Wed, 05 Aug 2026 13:41:17 -0400",
+      "snippet": "New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump&apos;s conflicts of interest and whether he&apos;s exploiting the power of the presidency for self-enrichment.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
+      "link": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
+      "publishedAt": "Wed, 05 Aug 2026 13:14:46 -0400",
+      "snippet": "A judge has granted the Justice Department&apos;s bid to drop a landmark case against leaders of the Oath Keepers, as former prosecutors warn about the dangers of denying the violence of Jan. 6.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Pakistan&apos;s ruling party leads in Kashmir vote despite boycott call by banned group",
+      "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
+      "publishedAt": "Wed, 05 Aug 2026 12:06:06 -0400",
+      "snippet": "Candidates backed by twice-elected former Prime Minister Nawaz Sharif&apos;s Pakistan Muslim League-N party have won 24 of the 34 seats decided in the first two phases of voting, the election commission, said Wednesday.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Under China&apos;s new &apos;unity&apos; law, Tibetans fight to preserve language and culture",
+      "link": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
+      "publishedAt": "Wed, 05 Aug 2026 11:26:43 -0400",
+      "snippet": "A 73-year-old retired nurse&apos;s decision to learn to write Tibetan language offers a glimpse into how some embrace their language and cultural identity in Tibet.",
       "tier": 1
     },
     {
@@ -208,226 +264,170 @@
     },
     {
       "source": "NPR News",
-      "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+      "title": "A Russian barrage in Ukraine&apos;s capital kills 17 as air defenses fall short",
       "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
       "publishedAt": "Wed, 05 Aug 2026 06:15:44 -0400",
-      "snippet": "Russian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine&apos;s President Volodymyr Zelenskyy said.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Progressives see biggest win yet in Michigan while Trump flexes power over GOP",
-      "link": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
-      "publishedAt": "Wed, 05 Aug 2026 06:08:28 -0400",
-      "snippet": "Progressives notched major wins in Michigan while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Nicotine pouches can be marketed as &apos;lower risk&apos; than cigarettes. Is that dangerous?",
-      "link": "https://www.npr.org/2026/08/05/nx-s1-5919626/smoking-fda-nicotine-cigarettes-tobacco",
-      "publishedAt": "Wed, 05 Aug 2026 05:00:00 -0400",
-      "snippet": "The FDA allowed some Zyn nicotine pouches to be marketed as \"lower risk\" than cigarettes. Public health experts agree they can help current smokers, but worry young people may become addicted.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "House Ethics Committee opens investigation into Ohio Republican Max Miller",
-      "link": "https://www.npr.org/2026/08/05/nx-s1-5918342/house-ethics-committee-opens-investigation-into-ohio-republican-max-miller",
-      "publishedAt": "Wed, 05 Aug 2026 04:45:42 -0400",
-      "snippet": "The House Ethics Committee has opened an investigation into Rep. Max Miller, after the Ohio Republican asked for a probe of the domestic abuse allegations that have swirled around his reelection bid.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Appalachia&apos;s black lung rates highest in nearly 50 years as miners&apos; protections stall",
-      "link": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
-      "publishedAt": "Wed, 05 Aug 2026 04:01:00 -0400",
-      "snippet": "Rates are now as bad as the 1970s, with thousands of miners sick and dying. Mining experts blame toxic silica dust, now more common in mines.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here&apos;s what to know",
-      "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
-      "publishedAt": "Wed, 05 Aug 2026 00:00:00 -0400",
-      "snippet": "For their commissioner of the future, MLS owners chose a soccer native. Berg&apos;s team is seen as one of MLS&apos;s best-run franchises, and he has embraced rule changes designed to modernize the league.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
-      "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
-      "publishedAt": "Tue, 04 Aug 2026 20:30:48 -0400",
-      "snippet": "The Los Angeles County Sheriff&apos;s Department said Jeanine John Taele, 38, was taking photos and video and had a 16-round magazine with ammunition in his pocket.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "SpaceX&apos;s revenue rises as its once-soaring stock price drifts back to Earth",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
-      "publishedAt": "Tue, 04 Aug 2026 18:02:03 -0400",
-      "snippet": "On their first earnings call since SpaceX&apos;s June public offering, executives said the company is pouring funds into rocket development, Starlink satellites and AI.",
+      "snippet": "Ukraine&apos;s depleted air defenses failed to stop any of Moscow&apos;s incoming missiles overnight.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Abdul El-Sayed wins Michigan Senate primary in major victory for Democrats' progressive wing",
-      "link": "https://www.pbs.org/newshour/politics/el-sayed-campaign-says-stevens-has-called-to-concede-in-michigan-senate-primary",
-      "publishedAt": "Wed, 05 Aug 2026 09:58:47 -0400",
-      "snippet": "The real test of El-Sayed's and progressives' strength will now come in a November matchup against Republican Mike Rogers, a former congressman who ran unopposed for the GOP nomination.",
+      "title": "WATCH LIVE: Sen. Paul holds contempt vote after Fauci invokes 5th Amendment",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-sen-paul-holds-contempt-vote-after-fauci-invokes-5th-amendment",
+      "publishedAt": "Wed, 05 Aug 2026 19:45:23 -0400",
+      "snippet": "A contempt finding could open the door to an investigation into whether Dr. Anthony Fauci had a valid constitutional right against self-incrimination when he refused to answer dozens of questions from lawmakers at a committee hearing last week focused on his handling of the COVID",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Iran and Oman make progress on deal to reopen Strait of Hormuz, officials say",
-      "link": "https://www.pbs.org/newshour/world/iran-and-oman-make-progress-on-deal-to-reopen-strait-of-hormuz-officials-say",
-      "publishedAt": "Tue, 04 Aug 2026 19:51:49 -0400",
-      "snippet": "Under the emerging agreement, ships would enter the Persian Gulf through an Iranian-controlled route and exit through a route controlled by Oman, with service fees charged for providing security and preserving the maritime environment, two regional officials told The Associated P",
+      "title": "What El-Sayed's primary win means for Democrats in November",
+      "link": "https://www.pbs.org/newshour/show/what-el-sayeds-primary-win-means-for-democrats-in-november",
+      "publishedAt": "Wed, 05 Aug 2026 18:55:28 -0400",
+      "snippet": "A progressive who has never held elected office defeated an establishment-backed congresswoman in Michigan's Democratic Senate primary. Abdul El-Sayed defeated Haley Stevens in a race that exposed divisions within the party. He will face Republican Mike Rogers in November's gener",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Man charged with arson as Washington wildfires devastate Spokane area",
-      "link": "https://www.pbs.org/newshour/show/man-charged-with-arson-as-washington-wildfires-devastate-spokane-area",
-      "publishedAt": "Tue, 04 Aug 2026 18:55:49 -0400",
-      "snippet": "Firefighters in eastern Washington are struggling to gain the upper hand on the wildfires devastating the Spokane area. The three blazes have forced tens of thousands to flee and destroyed more than 700 buildings. Authorities arrested a man suspected of starting the fire consider",
+      "title": "Russian missile attacks on Kyiv expose weakness in Ukraine's air defense",
+      "link": "https://www.pbs.org/newshour/show/russian-missile-attacks-on-kyiv-expose-weakness-in-ukraines-air-defense",
+      "publishedAt": "Wed, 05 Aug 2026 18:45:17 -0400",
+      "snippet": "A massive Russian missile attack killed nearly two dozen people in Ukraine overnight. Such strikes have become almost routine this summer as Moscow looks to exploit a critical air defense shortage in Ukraine. U.S.-made Patriots are the only air defense weapon capable of shooting ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Blanche nomination clears Senate Judiciary Committee",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-blanche-nomination-clears-senate-judiciary-committee",
-      "publishedAt": "Tue, 04 Aug 2026 18:50:03 -0400",
-      "snippet": "In our news wrap Tuesday, acting Attorney General Todd Blanche is a step closer to securing the job permanently after the Senate Judiciary Committee narrowly approved his nomination, civil rights groups are demanding answers after a man from El Salvador died in ICE custody and Ir",
+      "title": "News Wrap: Senate confirms Dr. Erica Schwartz as CDC director",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-senate-confirms-dr-erica-schwartz-as-cdc-director",
+      "publishedAt": "Wed, 05 Aug 2026 18:45:03 -0400",
+      "snippet": "In our news wrap Wednesday, the Senate confirmed Dr. Erica Schwartz as the new director of the CDC, FAA officials are investigating an incident involving President Trump's helicopter and a commercial aircraft, Iran says it's in the final stage of drafting a deal with Oman that wo",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Reflecting Pool case highlights disconnect between Trump's claims and court record",
-      "link": "https://www.pbs.org/newshour/show/reflecting-pool-case-highlights-disconnect-between-trumps-claims-and-court-record",
-      "publishedAt": "Tue, 04 Aug 2026 18:45:57 -0400",
-      "snippet": "U.S. Attorney Jeanine Pirro dropped charges related to the Reflecting Pool after determining that the damage to the pool was not vandalism. That was in stark contrast to what she said weeks ago. It follows a pattern of disconnect between what the president and administration offi",
+      "title": "Retired Army colonel explains why Patriot missiles are so valuable and in short supply",
+      "link": "https://www.pbs.org/newshour/show/retired-army-colonel-explains-why-patriot-missiles-are-so-valuable-and-in-short-supply",
+      "publishedAt": "Wed, 05 Aug 2026 18:42:22 -0400",
+      "snippet": "To discuss the air defense shortage in Ukraine and the impact on its ability to defend itself from Russia, Amna Nawaz spoke with retired Army Col. Robert Hamilton. He's now president of the Delphi Global Research Center, a military consulting firm.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Senate faces long to-do list and little time before recess",
-      "link": "https://www.pbs.org/newshour/show/senate-faces-long-to-do-list-and-little-time-before-recess",
-      "publishedAt": "Tue, 04 Aug 2026 18:40:44 -0400",
-      "snippet": "The Senate is just days away from taking its month-long August recess, but Congress is also rapidly running out of time to avoid a government shutdown this fall and handle a host of other items. Lawmakers are scrambling to take action on everything from funding the Iran war to re",
+      "title": "What scientists are learning after SpaceX debris crashed into the moon",
+      "link": "https://www.pbs.org/newshour/show/what-scientists-are-learning-after-spacex-debris-crashed-into-the-moon",
+      "publishedAt": "Wed, 05 Aug 2026 18:40:19 -0400",
+      "snippet": "A four-ton upper stage of a SpaceX rocket is believed to have hit the moon at 5,400 mph. The SpaceX rocket launched a pair of lunar landers last year, but the company's scientists say a combination of solar activity and gravity put it on a collision course with the moon. Geoff Be",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How satellites and AI cameras are detecting wildfires before they get out of control",
-      "link": "https://www.pbs.org/newshour/show/how-satellites-and-ai-cameras-are-detecting-wildfires-before-they-get-out-of-control",
-      "publishedAt": "Tue, 04 Aug 2026 18:35:29 -0400",
-      "snippet": "This year is becoming one of the worst for U.S. wildfires in at least a decade. There have been more fires and more acreage burned at this point in the year compared to any in the last ten. With fire seasons growing longer, early detection is critical. Special correspondent Ben T",
+      "title": "Tennessee secretary of state on redistricting, election security and low voter turnout",
+      "link": "https://www.pbs.org/newshour/show/tennessee-secretary-of-state-on-redistricting-election-security-and-low-voter-turnout",
+      "publishedAt": "Wed, 05 Aug 2026 18:35:49 -0400",
+      "snippet": "Voters head to the polls in Tennessee on Thursday. This year's primaries come after the Supreme Court cleared the way for the state to redraw its congressional maps. But even as officials are making final preparations, President Trump continues to question election integrity, pot",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Paid early access to Trump's posts raises insider trading questions",
-      "link": "https://www.pbs.org/newshour/show/paid-early-access-to-trumps-posts-raises-insider-trading-questions",
-      "publishedAt": "Tue, 04 Aug 2026 18:30:25 -0400",
-      "snippet": "President Trump is selling early access to his social media posts. Truth Social launched a subscription service giving a first look at posts from the president. The price tag is reportedly up to $100,000 a month. Critics are raising alarms over paying customers seeing market-movi",
+      "title": "How new findings on ovarian cancer origins may help reduce risk",
+      "link": "https://www.pbs.org/newshour/show/how-new-findings-on-ovarian-cancer-origins-may-help-reduce-risk",
+      "publishedAt": "Wed, 05 Aug 2026 18:30:54 -0400",
+      "snippet": "One of the deadliest forms of cancer for women may not start where we once believed. Researchers now know nearly all fatal ovarian cancers begin in the fallopian tubes, not the ovaries. Stephanie Sy discusses with Dr. Rebecca Stone, a professor in the Johns Hopkins Department of ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "The science behind using the arts to combat loneliness and social isolation",
-      "link": "https://www.pbs.org/newshour/show/the-science-behind-using-the-arts-to-combat-loneliness-and-social-isolation",
-      "publishedAt": "Tue, 04 Aug 2026 18:25:09 -0400",
-      "snippet": "A new program in Charlotte, North Carolina, is using the arts to tackle loneliness and social isolation. Paul Solman reports on prescriptions for art instead of medicine for our series at the intersection of art and health, part of our CANVAS coverage.",
+      "title": "How the Battle of the Little Bighorn reshaped U.S. policy toward Native Americans",
+      "link": "https://www.pbs.org/newshour/show/how-the-battle-of-the-little-bighorn-reshaped-u-s-policy-toward-indigenous-people",
+      "publishedAt": "Wed, 05 Aug 2026 18:25:15 -0400",
+      "snippet": "It's been 150 years since the Battle of the Little Bighorn, one of the most famous and enduring events in American history. While Native Americans were victorious, the battle reshaped the government's policy toward Indigenous people and still resonates so deeply for so many today",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Annie Jacobsen and Geoff Bennett discuss 'Biological War' on 'Settle In'",
-      "link": "https://www.pbs.org/newshour/show/annie-jacobsen-and-geoff-bennett-discuss-biological-war-on-settle-in",
-      "publishedAt": "Tue, 04 Aug 2026 18:20:52 -0400",
-      "snippet": "What would happen if the next major national security threat wasn't a missile or a bomb but a deliberately engineered pathogen? That's the premise of \"Biological War: A Scenario,\" the new book by Pulitzer Prize-winning investigative journalist Annie Jacobsen. Geoff Bennett discus",
+      "title": "AP Report: Trump's immigration crackdown has detained more than 50 military spouses and parents",
+      "link": "https://www.pbs.org/newshour/nation/ap-report-trumps-immigration-crackdown-has-detained-more-than-50-military-spouses-and-parents",
+      "publishedAt": "Wed, 05 Aug 2026 17:55:35 -0400",
+      "snippet": "President Donald Trump's administration has detained dozens of parents and spouses of active-duty U.S. troops as it rolls back immigration protections for military families to pursue its mass deportation agenda, an Associated Press investigation found.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "National Guard deployment to Washington through 2029 will cost roughly $1.4 billion, estimate shows",
-      "link": "https://www.pbs.org/newshour/politics/national-guard-deployment-to-washington-through-2029-will-cost-roughly-1-4-billion-estimate-shows",
-      "publishedAt": "Tue, 04 Aug 2026 17:42:30 -0400",
-      "snippet": "The cost estimate is for fiscal years 2027-2029 and came in response to questions from Massachusetts Democratic Sen. Elizabeth Warren.",
+      "title": "British Columbia is logging its last old-growth forests. Protesters are sleeping in the road to stop it",
+      "link": "https://www.pbs.org/newshour/world/british-columbia-is-logging-its-last-old-growth-forests-protesters-are-sleeping-in-the-road-to-stop-it",
+      "publishedAt": "Wed, 05 Aug 2026 17:29:59 -0400",
+      "snippet": "Trees that took a millennium to grow can be felled in under an hour.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "House Ethics Committee opens investigation into domestic abuse allegations against Ohio Rep. Max Miller",
-      "link": "https://www.pbs.org/newshour/politics/house-ethics-committee-opens-investigation-into-domestic-abuse-allegations-against-ohio-rep-max-miller",
-      "publishedAt": "Tue, 04 Aug 2026 17:32:29 -0400",
-      "snippet": "Before the Ethics Committee issued its statement Tuesday, Miller said he was requesting an investigation into the allegations by his ex-wife \"to clear my name.\"",
+      "title": "Russian barrage in Ukraine's capital region kills 17 as air defenses fall short",
+      "link": "https://www.pbs.org/newshour/world/russian-barrage-in-ukraines-capital-region-kills-17-as-air-defenses-fall-short",
+      "publishedAt": "Wed, 05 Aug 2026 17:20:48 -0400",
+      "snippet": "Russian attacks on Kyiv and its surrounding region killed 17 people and wounded dozens, President Volodymyr Zelenskyy said Wednesday, as Ukraine's depleted air defenses failed to stop any of Moscow's incoming missiles overnight.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump administration revokes visa of Brazil's ambassador to US in escalation of spat with Lula",
-      "link": "https://www.pbs.org/newshour/world/trump-administration-revokes-visa-of-brazils-ambassador-to-us-in-escalation-of-spat-with-lula",
-      "publishedAt": "Tue, 04 Aug 2026 17:05:27 -0400",
-      "snippet": "Officials said the step had been delayed several times to give Brazilian President Luiz Inácio Lula da Silva room to back down, something he did not do.",
+      "title": "France is banning unsolicited telemarketing calls starting next week",
+      "link": "https://www.pbs.org/newshour/world/france-is-banning-unsolicited-telemarketing-calls-starting-next-week",
+      "publishedAt": "Wed, 05 Aug 2026 16:52:25 -0400",
+      "snippet": "France next week will ban unsolicited telemarketing calls under a new law aimed at protecting consumers from intrusive sales pitches and shielding vulnerable people from fraudulent commercial practices.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump's arch could disrupt the significance of many of Washington's historical sites, National Park Service says",
-      "link": "https://www.pbs.org/newshour/nation/trumps-arch-could-disrupt-the-significance-of-many-of-washingtons-historical-sites-national-park-service-says",
-      "publishedAt": "Tue, 04 Aug 2026 16:50:38 -0400",
-      "snippet": "The report says the arch would break alignment between the Lincoln Memorial, Memorial Bridge and Arlington House, formerly Confederate Gen. Robert E. Lee's home.",
+      "title": "Man arrested at Trump's California golf course faces illegal weapons charges",
+      "link": "https://www.pbs.org/newshour/nation/man-arrested-at-trumps-california-golf-course-faces-illegal-weapons-charges",
+      "publishedAt": "Wed, 05 Aug 2026 16:34:03 -0400",
+      "snippet": "A California man who was arrested at President Donald Trump's Los Angeles-area golf course was pretending to be part of the security detail preparing for Trump's visit and had a stash of illegal weapons in his car and home, authorities said.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Russia and Ukraine trade drone attacks with 5 people killed in each country",
-      "link": "https://www.pbs.org/newshour/world/russia-and-ukraine-trade-drone-attacks-with-5-people-killed-in-each-country",
-      "publishedAt": "Tue, 04 Aug 2026 16:39:41 -0400",
-      "snippet": "The U.N. children's agency on Tuesday urged both countries to uphold international humanitarian law requiring the protection of children, citing recent deaths in Russia's Belgorod and Krasnodar regions, as well as in Ukraine's Dnipropetrovsk and Sumy regions.",
+      "title": "U.S. offers $25 million reward targeting US citizen who reportedly leads Mexico's most powerful cartel",
+      "link": "https://www.pbs.org/newshour/world/u-s-offers-25-million-reward-targeting-us-citizen-who-reportedly-leads-mexicos-most-powerful-cartel",
+      "publishedAt": "Wed, 05 Aug 2026 16:08:36 -0400",
+      "snippet": "The U.S. government on Wednesday offered a $25 million reward for information leading to the capture of Juan Carlos González, or \"Pelón,\" scaling up pressure on a U.S. citizen who has emerged as the figurehead of Mexico's most powerful cartel.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "3 FBI agents fired over Trump investigation get broad backing in lawsuit against administration",
-      "link": "https://www.pbs.org/newshour/politics/3-fbi-agents-fired-over-trump-investigation-get-broad-backing-in-lawsuit-against-administration",
-      "publishedAt": "Tue, 04 Aug 2026 15:41:47 -0400",
-      "snippet": "The agents were terminated as part of a broader personnel purge by FBI Director Kash Patel that has targeted employees who investigated Trump or are perceived as being against the administration's interest.",
+      "title": "Senate confirms Dr. Erica Schwartz as CDC director, bringing new leadership to troubled agency",
+      "link": "https://www.pbs.org/newshour/politics/senate-confirms-dr-erica-schwartz-as-cdc-director-bringing-new-leadership-to-troubled-agency",
+      "publishedAt": "Wed, 05 Aug 2026 15:51:57 -0400",
+      "snippet": "The Senate on Wednesday confirmed Dr. Erica Schwartz as director of the Centers for Disease Control and Prevention, placing her in charge of a public health agency beleaguered by political meddling and low morale.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Live Results: Kansas midterm primaries",
-      "link": "https://www.pbs.org/newshour/politics/live-results-kansas-midterm-primaries",
-      "publishedAt": "Tue, 04 Aug 2026 15:38:14 -0400",
-      "snippet": "Kansas Republicans will narrow down a crowded field for governor in a state primary Tuesday as they look to retake the state's top office after eight years of Democratic rule.",
+      "title": "State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe",
+      "link": "https://www.pbs.org/newshour/politics/state-of-new-mexico-sues-justice-department-and-todd-blanche-saying-they-blocked-its-epstein-probe",
+      "publishedAt": "Wed, 05 Aug 2026 15:33:38 -0400",
+      "snippet": "The state of New Mexico sued the Department of Justice and Acting Attorney General Todd Blanche on Wednesday, saying the federal government blocked the state's ability to investigate the sex crimes of financier Jeffrey Epstein at a ranch there.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Live Results: Missouri midterm primaries",
-      "link": "https://www.pbs.org/newshour/politics/live-results-missouri-midterm-primaries",
-      "publishedAt": "Tue, 04 Aug 2026 15:35:36 -0400",
-      "snippet": "A St. Louis-area congressman faces a Democratic primary rematch Tuesday against the former congresswoman he previously ousted.",
+      "title": "Takeaways from Tuesday's elections in Michigan and more",
+      "link": "https://www.pbs.org/newshour/politics/takeaways-from-tuesdays-elections-in-michigan-and-more",
+      "publishedAt": "Wed, 05 Aug 2026 14:55:49 -0400",
+      "snippet": "Democrats need to rack up as many wins as possible to take back the U.S. Senate, so the party has little room for error.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "4 questions about the high-stakes Michigan Democratic primary",
-      "link": "https://www.pbs.org/newshour/politics/4-questions-about-the-high-stakes-michigan-democratic-primary",
-      "publishedAt": "Tue, 04 Aug 2026 15:27:31 -0400",
-      "snippet": "What matters to Michigan voters right now? Here's what we found.",
+      "title": "The Danube River's water is dropping so low that World War II ships are emerging",
+      "link": "https://www.pbs.org/newshour/world/the-danube-rivers-water-is-dropping-so-low-that-world-war-ii-ships-are-emerging",
+      "publishedAt": "Wed, 05 Aug 2026 14:17:55 -0400",
+      "snippet": "In the middle of the river separating Serbia and Romania near the Serbian port of Prahovo, a rusty hull is now visible along with a broken mast where the Nazi flag used to fly.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Live Results: Virginia midterm primaries",
-      "link": "https://www.pbs.org/newshour/politics/live-results-virginia-midterm-primaries",
-      "publishedAt": "Tue, 04 Aug 2026 15:23:33 -0400",
-      "snippet": "For the third time in nine months, Virginia residents will vote in a statewide election on Tuesday.",
+      "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
+      "link": "https://www.pbs.org/newshour/politics/faa-is-investigating-why-a-plane-was-allowed-to-take-off-as-trumps-helicopter-approached",
+      "publishedAt": "Wed, 05 Aug 2026 14:11:23 -0400",
+      "snippet": "The White House emphasized that President Trump was not in danger during the incident.",
       "tier": 1
     },
     {
@@ -440,10 +440,66 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Explosive drone defused at Leipzig airport",
-      "link": "https://www.dw.com/en/germany-news-explosive-drone-defused-at-leipzig-airport/live-78241747?maca=en-rss-en-top-1022-rdf",
+      "title": "US: Abdul El-Sayed wins contentious Michigan Senate primary",
+      "link": "https://www.dw.com/en/us-abdul-el-sayed-wins-contentious-michigan-senate-primary/a-78258380?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A German airport was disrupted for hours after an explosive-laden drone was discovered near one of the runways. Investigators are examining a possible political motive. DW has the latest.",
+      "snippet": "Progressive Abdul El-Sayed defeated moderate Haley Stevens in a contest seen as a proxy war for the future ideological direction of the Democratic party.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Will Russia start a fresh mobilization drive?",
+      "link": "https://www.dw.com/en/will-russia-start-a-fresh-mobilization-drive/a-78253252?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russia is preparing a new mobilization campaign to boost troop numbers, Ukrainian officials and independent Russian media outlets report. The Kremlin denies this.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "WHO&apos;s Tedros vists DR Congo as Ebola outbreak accelerates",
+      "link": "https://www.dw.com/en/who-s-tedros-vists-dr-congo-as-ebola-outbreak-accelerates/a-78258054?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The head of the World Health Organization warned that \"we must urgently and massively scale up all our efforts\" against the latest Ebola outbreak, with new cases doubling in some hotspots in the past week alone.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: Court jails far-right youth terror cell members",
+      "link": "https://www.dw.com/en/germany-court-jails-far-right-youth-terror-cell-members/a-78253691?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A Hamburg court has handed down stiff prison sentences to members of the far-right terrorist group \"Last Wave of Defense.\" Politicians are warning that those drawn into extremist violence are getting younger.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: Leipzig explosive drone &apos;new level of danger&apos; — Minister",
+      "link": "https://www.dw.com/en/germany-leipzig-explosive-drone-new-level-of-danger-minister/live-78241747?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany&apos;s Interior Minister Dobrindt, who cut his summer break short to deal with the Leipzig Airport situation, said the incident was being treated as a \"hybrid attack scenario.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Fears of renewed conflict in Ethiopia",
+      "link": "https://www.dw.com/en/fears-of-renewed-conflict-in-ethiopia/a-78242293?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Military activity in and around the disputed city of Alamata has sparked concerns that the fragile peace that followed the 2020–2022 Tigray War could unravel.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India&apos;s Gen Z protest enters a new online battle",
+      "link": "https://www.dw.com/en/india-s-gen-z-protest-enters-a-new-online-battle/a-78253169?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The streets are quiet, but a fight over the legacy of the Cockroach Janta Party movement is intensifying across Instagram, memes and social media.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Middle East: Israel strikes southern Lebanon, accuses Hezbollah of &apos;blatant&apos; ceasefire violation",
+      "link": "https://www.dw.com/en/middle-east-israel-strikes-southern-lebanon-accuses-hezbollah-of-blatant-ceasefire-violation/live-78251565?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Israel&apos;s military says it is conducting \"precision strikes\" against Hezbollah in southern Lebanon, after calling on residents of Mansouri to evacuate.",
       "tier": 2
     },
     {
@@ -532,62 +588,6 @@
       "link": "https://www.dw.com/en/turkish-court-orders-x-to-block-imamoglu-candidacy-account/a-78239919?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Ekrem Imamoglu, a member of the main opposition Republican People&apos;s Party, is widely seen as the main challenger to Turkish President Recep Tayyip Erdogan&apos;s 23-year rule.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine: Russian strikes on Kyiv, surrounding region kill at least 17",
-      "link": "https://www.dw.com/en/ukraine-russian-strikes-on-kyiv-surrounding-region-kill-at-least-17/a-78238963?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "At least 17 were killed as explosions rocked Kyiv and the surrounding region overnight. Russian missiles tore through residential buildings and warehouses, part of an intensifying campaign against Ukraine&apos;s capital.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "AI ecosystem&apos;s &apos;circular&apos; investment: risk or advantage?",
-      "link": "https://www.dw.com/en/ai-ecosystem-s-circular-investment-risk-or-advantage/a-78186917?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Amid talk of an AI sector bubble, one aspect is under scrutiny. Many big AI players are invested in smaller ones, who then buy the bigger firm&apos;s products. This brings risks and advantages.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "White House revokes visa of Brazil&apos;s ambassador to US",
-      "link": "https://www.dw.com/en/white-house-revokes-visa-of-brazil-s-ambassador-to-us/a-78238439?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The move was in response to Brazil delaying formal diplomatic approval of the US ambassador to Brasilia and denying visas to several US diplomats. Brazil has rejected the decision.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Gaza peace plan: Will US pressure Israel to accept it?",
-      "link": "https://www.dw.com/en/gaza-peace-plan-will-us-pressure-israel-to-accept-it/a-78237611?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Reports suggest US President Donald Trump would be \"very disappointed\" if Israel doesn&apos;t agree to a new peace plan for Gaza, announced last week. But how far would the US go to make that happen?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Italy: Garbage workers help woman find €1 million jackpot",
-      "link": "https://www.dw.com/en/italy-garbage-workers-help-woman-find-€1-million-jackpot/a-78237944?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A woman who won €1 million mistakenly threw her lottery ticket in a trash bin in Bitonto, southern Italy — prompting her local sanitation company to launch an hourslong search.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Who is responsible for the Ceuta border surge?",
-      "link": "https://www.dw.com/en/who-is-responsible-for-the-ceuta-border-surge/a-78237295?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Tens of thousands of migrants crossed into the Spanish exclave of Ceuta several days ago. DW interviewed two experts to understand what may have caused the incident.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Middle East: India says commercial ship sunk off Yemen",
-      "link": "https://www.dw.com/en/middle-east-india-says-commercial-ship-sunk-off-yemen/live-78235099?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "India reported an attack on a \"defenseless\" commercial ship which caused it to capsize and sink, but noted the crew were safe. Meanwhile, Lebanon and Israel met for talks despite Hezbollah&apos;s objections.",
       "tier": 2
     }
   ]
