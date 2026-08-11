@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T13:49:43.070Z",
+  "generatedAt": "2026-08-11T02:31:53.243Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,42 +32,66 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "At least 132 killed in Colombia's largest earthquake in years",
+      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 01:59:40 GMT",
+      "snippet": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada flight cancelled after child refuses to wear seat belt",
+      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 21:06:27 GMT",
+      "snippet": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 12:54:13 GMT",
-      "snippet": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
+      "publishedAt": "Mon, 10 Aug 2026 14:34:25 GMT",
+      "snippet": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Evidence that South African special forces murdered top detective shared with BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 23:05:29 GMT",
-      "snippet": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:43:08 GMT",
+      "snippet": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "China evacuates one million from homes as massive storm arrives",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 07:23:54 GMT",
-      "snippet": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 19:17:11 GMT",
+      "snippet": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 09:51:07 GMT",
-      "snippet": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 16:52:47 GMT",
+      "snippet": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 12:23:21 GMT",
-      "snippet": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
+      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 17:50:29 GMT",
+      "snippet": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 02:10:44 GMT",
+      "snippet": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
       "tier": 1
     },
     {
@@ -80,74 +104,42 @@
     },
     {
       "source": "BBC World",
-      "title": "India police fire tear gas at protesters seeking exam reforms",
-      "link": "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 10:41:04 GMT",
-      "snippet": "Thousands of students and job seekers have gathered in Jharkhand state, weeks after the \"cockroach\" protests took place in Delhi.",
+      "title": "New train service connects Finland and Sweden for first time in decades",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 18:28:11 GMT",
+      "snippet": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-      "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 05:16:40 GMT",
-      "snippet": "Forensics revealed that the \"realistic\" looking body was in fact not human.",
+      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 18:19:41 GMT",
+      "snippet": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Battle for Mali base has killed dozens of militants, army says",
-      "link": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 12:32:26 GMT",
-      "snippet": "The army says it was involved in fierce fighting but disputes that Islamists took control of the garrison.",
+      "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 22:31:42 GMT",
+      "snippet": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 21:25:04 GMT",
-      "snippet": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "title": "The transgender controversy surrounding the WNBA",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 15:34:56 GMT",
+      "snippet": "After the Indiana Fever's Sophie Cunningham said it was \"common sense\" to ban transgender women from women's sports, a row has emerged in the WNBA - with former NBA players saying eligibility rules mean they can enter the 2027 Draft.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 09:33:25 GMT",
-      "snippet": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 16:18:10 GMT",
-      "snippet": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ancient Roman shipwreck discovered off Sicily coast",
-      "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 12:27:26 GMT",
-      "snippet": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 03:33:51 GMT",
-      "snippet": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ecuador charges ex-minister over presidential candidate assassination case",
-      "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 15:34:04 GMT",
-      "snippet": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+      "title": "The lonely Chinese men being conned by fake brides",
+      "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 22:02:21 GMT",
+      "snippet": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China.",
       "tier": 1
     },
     {
@@ -168,18 +160,26 @@
     },
     {
       "source": "BBC World",
-      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-      "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 03:00:44 GMT",
-      "snippet": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+      "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
+      "link": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 20:55:34 GMT",
+      "snippet": "At least 111 people have been killed and dozens more injured after the 7.4 temblor hit the western part of the country, according to local officials.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 01:10:50 GMT",
-      "snippet": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
+      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+      "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 18:24:45 GMT",
+      "snippet": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Young girl finds whale stranded on Australian beach",
+      "link": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 01:31:10 GMT",
+      "snippet": "The humpback whale later successfully freed itself after the tide rose in Queensland, Australia.",
       "tier": 1
     },
     {
@@ -188,6 +188,54 @@
       "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 09 Aug 2026 21:26:56 GMT",
       "snippet": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Alabama heads into a second primary election after redistricting",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
+      "publishedAt": "Mon, 10 Aug 2026 18:43:05 -0400",
+      "snippet": "Alabama voters are again selecting candidates for four Congressional districts after the state changed the district map to favor Republicans. The redistricting is causing confusion among voters.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight",
+      "publishedAt": "Mon, 10 Aug 2026 16:49:00 -0400",
+      "snippet": "The ex-Olympian accused of damaging the reflecting pool tells NPR the experience has been \"Orwellian\" and \"Kafkaesque.\" And it&apos;s not over yet: His lawyers are fighting to close the case permanently.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump and RFK Jr. try again to upend vaccines for kids",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
+      "publishedAt": "Mon, 10 Aug 2026 16:25:02 -0400",
+      "snippet": "President Trump signed an executive order on Monday about vaccines, saying children should get fewer. His administration has been blocked in the courts from changing the vaccine schedule.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "&apos;The Nerd Reich&apos; tracks the &apos;unmasking of Silicon Valley&apos;s true politics&apos;",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
+      "publishedAt": "Mon, 10 Aug 2026 13:38:12 -0400",
+      "snippet": "Journalist Gil Durán argues that a small circle of Silicon Valley billionaires and venture capitalists have concluded that democracy is in their way — and that they should be governing in its place.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
+      "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
+      "publishedAt": "Mon, 10 Aug 2026 12:08:06 -0400",
+      "snippet": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Does spending money make you feel bad? Read this comic",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
+      "publishedAt": "Mon, 10 Aug 2026 10:20:35 -0400",
+      "snippet": "If spending — or not spending — money makes you feel shame or regret, you might be grappling with financial guilt. Financial planner Lauryn Williams breaks down three types and how to deal.",
       "tier": 1
     },
     {
@@ -208,26 +256,10 @@
     },
     {
       "source": "NPR News",
-      "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+      "title": "People with disabilities say Medicaid income limits can stifle career advancement",
       "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
       "publishedAt": "Mon, 10 Aug 2026 07:00:00 -0400",
       "snippet": "Medicaid will have new work requirements next year. But some people with disabilities, who already work, say they&apos;d like to work more, but risk losing their Medicaid coverage if they earn too much.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-      "publishedAt": "Mon, 10 Aug 2026 05:00:00 -0400",
-      "snippet": "Lindell, of \"MyPillow,\" plays up his ties to Trump, who endorsed him for Tuesday&apos;s primary. But the state Republican convention backed one of his opponents.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
-      "publishedAt": "Mon, 10 Aug 2026 05:00:00 -0400",
-      "snippet": "In a new report, former Interlochen students detail some 70 allegations of sexual abuse by nearly 50 adults employed or affiliated with the school. One of the former students tells his story to NPR.",
       "tier": 1
     },
     {
@@ -239,195 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Voters are sick of the 2-party system. A new poll shows they&apos;re open to big changes",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-      "publishedAt": "Mon, 10 Aug 2026 05:00:00 -0400",
-      "snippet": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party&apos;s vote share.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Who really needs testosterone?",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
-      "publishedAt": "Mon, 10 Aug 2026 05:00:00 -0400",
-      "snippet": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "The FAA wants to reboot the nation&apos;s airspace. This airline shows how it might work",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
-      "publishedAt": "Mon, 10 Aug 2026 05:00:00 -0400",
-      "snippet": "When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
-      "publishedAt": "Mon, 10 Aug 2026 04:58:22 -0400",
-      "snippet": "Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public.",
+      "source": "PBS Headlines",
+      "title": "Taylor Farms recalls several jalape&ntilde;o products over salmonella concerns",
+      "link": "https://www.pbs.org/newshour/health/taylor-farms-recalls-several-jalapeno-products-over-salmonella-concerns",
+      "publishedAt": "Mon, 10 Aug 2026 19:59:14 -0400",
+      "snippet": "Guacamole, pico de gallo and taco dip are some of the prepared foods included in the recall. The announcement comes a few weeks after Taylor Farms voluntarily recalled its iceberg lettuce products sourced from central Mexico because of a potential link to a multistate cyclospora ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How to spot the Perseid meteor shower, a summer light show that promises to dazzle",
-      "link": "https://www.pbs.org/newshour/science/how-to-spot-the-perseid-meteor-shower-a-summer-light-show-that-promises-to-dazzle",
-      "publishedAt": "Sun, 09 Aug 2026 18:05:27 -0400",
-      "snippet": "The meteor shower's peak Wednesday night into Thursday morning coincides with a total solar eclipse across Spain, Iceland and Greenland and a six-planet parade — though the best time to view the fireballs will come after totality.",
+      "title": "Contiguous U.S. broke its record for hottest month ever in July, NOAA says",
+      "link": "https://www.pbs.org/newshour/nation/contiguous-u-s-broke-its-record-for-hottest-month-ever-in-july-noaa-says",
+      "publishedAt": "Mon, 10 Aug 2026 19:53:13 -0400",
+      "snippet": "Although it was unusually cool in Alaska, hotter-than-normal conditions blanketed the Lower 48, with the most excessive heat in the Mountain West, Southwest, Northern Plains and Southeast.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Watchdog for $46 billion tribal gambling industry can't enforce the law without a chairperson",
-      "link": "https://www.pbs.org/newshour/nation/watchdog-for-46-billion-tribal-gambling-industry-cant-enforce-the-law-without-a-chairperson",
-      "publishedAt": "Sun, 09 Aug 2026 17:32:55 -0400",
-      "snippet": "Tribal gambling brought in a record $46 billion in 2025, nearly triple the annual casino revenue of gambling powerhouse Nevada.",
+      "title": "What we know about the death of Tasia Fortune in Mississippi",
+      "link": "https://www.pbs.org/newshour/nation/what-we-know-about-the-death-of-tasia-fortune-in-mississippi",
+      "publishedAt": "Mon, 10 Aug 2026 19:46:15 -0400",
+      "snippet": "The hanging death of Tasia Fortune, whose body was found outside an abandoned house, has shaken her family and community in Mississippi, where two other people have been found hanging from trees in less than a year.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "El-Sayed spoke with Obama as Michigan Democrats look to unite after a bitter Senate primary",
-      "link": "https://www.pbs.org/newshour/politics/el-sayed-spoke-with-obama-as-michigan-democrats-look-to-unite-after-a-bitter-senate-primary",
-      "publishedAt": "Sun, 09 Aug 2026 14:54:24 -0400",
-      "snippet": "\"I was grateful for his advice. It was very warm, very inviting, and I know that he knows the critical role that Michigan is going to play,\" El-Sayed told NBC's \"Meet the Press.\"",
+      "title": "7.4-magnitude earthquake rocks Colombia, crumbling homes and buildings",
+      "link": "https://www.pbs.org/newshour/show/7-4-magnitude-earthquake-rocks-colombia-crumbling-homes-and-buildings",
+      "publishedAt": "Mon, 10 Aug 2026 18:55:25 -0400",
+      "snippet": "A powerful and deadly earthquake hit Colombia on Monday, killing at least 111 people, toppling buildings and leaving a trail of destruction. Geoff Bennett reports.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Climate change may be making us lonelier. How heat waves and extreme weather disrupt social connections",
-      "link": "https://www.pbs.org/newshour/health/climate-change-may-be-making-us-lonelier-how-heat-waves-and-extreme-weather-disrupt-social-connections",
-      "publishedAt": "Sun, 09 Aug 2026 14:23:55 -0400",
-      "snippet": "As extreme weather becomes more common and disruptive, the effects can impair relationships, interrupt routines and communication, and damage gathering places and the foundations of community traditions.",
+      "title": "News Wrap: Trump signs order calling for MMR vaccine split into 3 shots",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-calling-for-mmr-vaccine-split-into-3-shots",
+      "publishedAt": "Mon, 10 Aug 2026 18:50:06 -0400",
+      "snippet": "In our news wrap Monday, President Trump signed an executive order calling for fewer childhood vaccines and spacing out shots across separate doctor visits, Tropical Storm Dolphin made landfall in eastern China and President Trump's Board of Peace says it's in discussions with Is",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Israel rejects Trump's Gaza plan, more details emerge on the Strait of Hormuz and other Mideast news",
-      "link": "https://www.pbs.org/newshour/world/israel-rejects-trumps-gaza-plan-more-details-emerge-on-the-strait-of-hormuz-and-other-mideast-news",
-      "publishedAt": "Sun, 09 Aug 2026 13:55:18 -0400",
-      "snippet": "Here's a look at developments across the Middle East.",
+      "title": "Iran demands U.S. pay for war damage before agreeing to reopen Strait of Hormuz",
+      "link": "https://www.pbs.org/newshour/show/iran-demands-u-s-pay-for-war-damage-before-agreeing-to-reopen-strait-of-hormuz",
+      "publishedAt": "Mon, 10 Aug 2026 18:45:55 -0400",
+      "snippet": "Iran doubled down on keeping the Strait of Hormuz closed until the U.S. meets a sweeping list of demands. President Trump scoffed at those conditions, especially paying reparations to Iran for damages caused by five months of U.S.-Israeli bombardments. The impasse comes as war ap",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Health officials urge caution for Gulf Coast beachgoers during surge of deadly bacterial infections",
-      "link": "https://www.pbs.org/newshour/health/health-officials-urge-caution-for-gulf-coast-beachgoers-during-surge-of-deadly-bacterial-infections",
-      "publishedAt": "Sun, 09 Aug 2026 13:35:21 -0400",
-      "snippet": "Louisiana has confirmed nine cases of Vibrio vulnificus infections this year, the state's health department said last week in a news release. All were hospitalized, and five died.",
+      "title": "State voting officials join CISA security call with election 85 days away",
+      "link": "https://www.pbs.org/newshour/show/state-voting-officials-join-cisa-security-call-with-election-85-days-away",
+      "publishedAt": "Mon, 10 Aug 2026 18:40:59 -0400",
+      "snippet": "CISA, the federal agency tasked with protecting the cybersecurity of the nation's critical infrastructure, held a conference call with state election officials to discuss the upcoming midterms. Despite President Trump's claims about the risk of hackers targeting voting systems, t",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump's immigration crackdown looms over Minnesota's bruising Senate primary",
-      "link": "https://www.pbs.org/newshour/politics/trumps-immigration-crackdown-looms-over-minnesotas-bruising-senate-primary",
-      "publishedAt": "Sun, 09 Aug 2026 13:18:47 -0400",
-      "snippet": "Months later, confrontations between immigration agents and protestors in Minneapolis remain the backdrop to Minnesota's Democratic primary for U.S. Senate on Tuesday, which features establishment-backed U.S. Rep. Angie Craig and the more progressive Lt. Gov. Peggy Flanagan.",
+      "title": "What Meta's new open-source AI model means for the future of artificial intelligence",
+      "link": "https://www.pbs.org/newshour/show/what-metas-new-open-source-ai-model-means-for-the-future-of-artificial-intelligence",
+      "publishedAt": "Mon, 10 Aug 2026 18:35:05 -0400",
+      "snippet": "Meta, the company behind Facebook and Instagram, has released a free artificial intelligence tool. The release was accompanied by a 14-page essay from CEO Mark Zuckerberg championing his view of how AI could transform our world and what protections are required. William Brangham ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Pilots of helicopter that crashed while fighting wildfire in Utah are dead, officials say",
-      "link": "https://www.pbs.org/newshour/nation/pilots-of-helicopter-that-crashed-while-fighting-wildfire-in-utah-are-dead-officials-say",
-      "publishedAt": "Sun, 09 Aug 2026 11:47:23 -0400",
-      "snippet": "The pilots were killed when their Sikorsky Skycrane helicopter went down Friday morning, according to the Sevier County Sheriff.",
+      "title": "Tamara Keith and Amy Walter on the energy behind outsider candidates",
+      "link": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-energy-behind-outsider-candidates",
+      "publishedAt": "Mon, 10 Aug 2026 18:30:23 -0400",
+      "snippet": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including where Democratic primary voters stand this election year, the energy behind outsider candidates, the strength of President Trump's end",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Joe Biden's prostate cancer has spread and is causing him pain, Hunter Biden says",
-      "link": "https://www.pbs.org/newshour/politics/joe-bidens-prostate-cancer-has-spread-and-is-causing-him-pain-hunter-biden-says",
-      "publishedAt": "Sun, 09 Aug 2026 11:32:05 -0400",
-      "snippet": "In a wide-ranging interview with the BBC broadcast late on Friday, Hunter Biden grew emotional as he discussed his father's condition, describing it as very sad to watch.",
+      "title": "Family of Marine veteran imprisoned in Russia warns he's near death",
+      "link": "https://www.pbs.org/newshour/show/family-of-marine-veteran-imprisoned-in-russia-warns-hes-near-death",
+      "publishedAt": "Mon, 10 Aug 2026 18:25:01 -0400",
+      "snippet": "The family of a U.S. Marine veteran imprisoned in Russia says his health is deteriorating and he may be on the brink of death. Robert Gilman was arrested in Russia in 2022 for allegedly hitting a Russian police officer. He was sentenced to four and a half years in prison, but tha",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Pakistan says new defense pact with Saudi Arabia and Turkey is 'purely defensive' and open to others",
-      "link": "https://www.pbs.org/newshour/world/pakistan-says-new-defense-pact-with-saudi-arabia-and-turkey-is-purely-defensive-and-open-to-others",
-      "publishedAt": "Sun, 09 Aug 2026 11:20:38 -0400",
-      "snippet": "The landmark Mecca Joint Defense Agreement was signed on Friday as the three countries seek to deepen security cooperation amid heightened tensions between the United States and Iran.",
+      "title": "Danube's critically low level reveals relics from the past",
+      "link": "https://www.pbs.org/newshour/show/danubes-critically-low-level-reveals-relics-from-the-past",
+      "publishedAt": "Mon, 10 Aug 2026 18:15:07 -0400",
+      "snippet": "In Europe, a climate crisis is unearthing history. Months of brutal heat waves have left the Danube River at a critically low level. But as the water vanishes, it's revealing remarkable relics from the past, including Nazi warships and even the fossilized bones of a woolly mammot",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Wildfires force 20,000 to flee as British Columbia declares state of emergency",
-      "link": "https://www.pbs.org/newshour/world/wildfires-force-20000-to-flee-as-british-columbia-declares-state-of-emergency",
-      "publishedAt": "Sat, 08 Aug 2026 18:39:49 -0400",
-      "snippet": "Premier David Eby announced the emergency as more than 100 wildfires burned across the province, nearly half of them out of control in hot, windy weather and prolonged drought.",
+      "title": "This Medicare Part D subsidy is expiring. We answered your questions",
+      "link": "https://www.pbs.org/newshour/health/this-medicare-part-d-subsidy-is-expiring-we-answered-your-questions",
+      "publishedAt": "Mon, 10 Aug 2026 18:15:05 -0400",
+      "snippet": "The Trump administration's move to discontinue the subsidy is raising concerns among Medicare Part D enrollees about how much they'll pay for coverage.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "ICE says it expects to equip every field officer with body cameras by the end of August",
-      "link": "https://www.pbs.org/newshour/nation/ice-says-it-expects-to-equip-every-field-officer-with-body-cameras-by-the-end-of-august",
-      "publishedAt": "Sat, 08 Aug 2026 16:24:10 -0400",
-      "snippet": "The agency defended its body-worn camera policy amid questions about provisions allowing ICE leadership to withhold or indefinitely delay footage after serious injuries or deaths in custody.",
+      "title": "How pop culture and social media are changing how people talk",
+      "link": "https://www.pbs.org/newshour/show/how-pop-culture-and-social-media-are-changing-how-people-talk",
+      "publishedAt": "Mon, 10 Aug 2026 18:10:49 -0400",
+      "snippet": "Judy Woodruff has been speaking to a host of experts about the country's 250th anniversary for her \"In Pursuit of Happiness\" podcast. That includes conversations about the roles satire, national parks and music have played in our history. The latest episode looks at how American ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How Troy Jackson went from Maine logger to Democratic nominee for Senate against Susan Collins",
-      "link": "https://www.pbs.org/newshour/politics/how-troy-jackson-went-from-maine-logger-to-democratic-nominee-for-senate-against-susan-collins",
-      "publishedAt": "Sat, 08 Aug 2026 15:05:04 -0400",
-      "snippet": "Jackson's campaign has focused on his ties to Aroostook County, a sprawling, wooded region known as \"The County\" to Mainers.",
+      "title": "Todd Blanche sworn in as attorney general after bruising confirmation battle",
+      "link": "https://www.pbs.org/newshour/politics/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-battle",
+      "publishedAt": "Mon, 10 Aug 2026 16:39:24 -0400",
+      "snippet": "With the confirmation fight behind him, Blanche now faces the challenge of having to navigate the demands of a president who has made no secret his desire to use the law enforcement agency to target his political foes.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "A New Mexico judge ordered new child safeguards for Meta. Advocates hope other courts follow",
-      "link": "https://www.pbs.org/newshour/nation/a-new-mexico-judge-ordered-new-child-safeguards-for-meta-advocates-hope-other-courts-follow",
-      "publishedAt": "Sat, 08 Aug 2026 14:40:47 -0400",
-      "snippet": "The judge's order showed a possible path forward for other court fights around the country as Meta faces mounting legal, regulatory and public pressure to do more to protect young people.",
+      "title": "WATCH: Trump signs executive order on childhood vaccine recommendations",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-on-childhood-vaccine-recommendations",
+      "publishedAt": "Mon, 10 Aug 2026 16:10:20 -0400",
+      "snippet": "The order recommends separating the MMR vaccine into three different shots administered in separate visits, and directs the nation's health department to improve vaccine research, says a White House fact sheet.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What are Zyn nicotine pouches and are they safe?",
-      "link": "https://www.pbs.org/newshour/health/what-are-zyn-nicotine-pouches-and-are-they-safe",
-      "publishedAt": "Sat, 08 Aug 2026 14:17:46 -0400",
-      "snippet": "The Food and Drug Administration is allowing the company Zyn to advertise some of its nicotine pouches as safer in some ways than smoking cigarettes.",
+      "title": "Congo's fast-moving Ebola outbreak started month before it was declared, WHO says",
+      "link": "https://www.pbs.org/newshour/health/congos-fast-moving-ebola-outbreak-started-month-before-it-was-declared-who-says",
+      "publishedAt": "Mon, 10 Aug 2026 14:34:03 -0400",
+      "snippet": "The World Health Organization says the fastest-growing Ebola outbreak started in February, months before it was officially declared in May.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "12-year-old girl dies after Thailand school shooting, bringing death toll to at least 8",
-      "link": "https://www.pbs.org/newshour/world/12-year-old-girl-dies-after-thailand-school-shooting-bringing-death-toll-to-at-least-8",
-      "publishedAt": "Sat, 08 Aug 2026 13:56:31 -0400",
-      "snippet": "A 14-year-old opened fire at around 10 a.m. Friday at Debsirin Nonthaburi School in Nonthaburi province northwest of the Thai capital before apparently taking his own life.",
+      "title": "Ukraine's drone chief says push to cripple Russia in Crimea is just getting started",
+      "link": "https://www.pbs.org/newshour/world/ukraines-drone-chief-says-push-to-cripple-russia-in-crimea-is-just-getting-started",
+      "publishedAt": "Mon, 10 Aug 2026 14:15:37 -0400",
+      "snippet": "Ukraine's drone forces could strike seven times more targets in Crimea if Western funding came faster, according to the commander leading Ukraine's drone war.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Lake Mead hits historic low water level as Colorado River struggles",
-      "link": "https://www.pbs.org/newshour/nation/lake-mead-hits-historic-low-water-level-as-colorado-river-struggles",
-      "publishedAt": "Sat, 08 Aug 2026 12:07:11 -0400",
-      "snippet": "The record follows a winter that produced the worst snowpack on record in the Colorado River Basin.",
+      "title": "Ukrainian drone attack on oil hub deep inside Russia kills 13, official says",
+      "link": "https://www.pbs.org/newshour/world/ukrainian-drone-attack-on-oil-hub-deep-inside-russia-kills-13-official-says",
+      "publishedAt": "Mon, 10 Aug 2026 14:08:41 -0400",
+      "snippet": "Authorities in Russia's Tatarstan region say a Ukrainian drone strike on the petroleum hub of Nizhnekamsk killed 13 people and wounded 78 others in one of the deadliest attacks of the 4-year-old war.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What to know about Trump's new attempt to limit birthright citizenship",
-      "link": "https://www.pbs.org/newshour/politics/what-to-know-about-trumps-new-attempt-to-limit-birthright-citizenship",
-      "publishedAt": "Sat, 08 Aug 2026 11:39:17 -0400",
-      "snippet": "A Supreme Court decision in June struck down a previous attempt at restricting birthright citizenship, but Thursday's orders were made with \"adjustments\" keeping the decision in mind, President Donald Trump said.",
+      "title": "NOAA says contiguous U.S. set record in July for hottest month ever",
+      "link": "https://www.pbs.org/newshour/science/noaa-says-contiguous-u-s-set-record-in-july-for-hottest-month-ever",
+      "publishedAt": "Mon, 10 Aug 2026 14:03:12 -0400",
+      "snippet": "The National Oceanic and Atmospheric Administration says the contiguous United States set a record for its hottest month ever in July.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Todd Blanche narrowly confirmed as Trump's attorney general in overnight vote",
-      "link": "https://www.pbs.org/newshour/politics/todd-blanche-narrowly-confirmed-as-trumps-attorney-general-in-overnight-vote",
-      "publishedAt": "Sat, 08 Aug 2026 11:18:05 -0400",
-      "snippet": "The Republican-led Senate voted 50-49 to make Blanche the second confirmed attorney general since Trump returned to the White House last year with a stated desire to use the law enforcement agency to investigate his political enemies.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Advocates for former U.S. Marine held for years in Russia say he is near death",
-      "link": "https://www.pbs.org/newshour/world/advocates-for-former-u-s-marine-held-for-years-in-russia-say-he-is-near-death",
-      "publishedAt": "Fri, 07 Aug 2026 19:41:17 -0400",
-      "snippet": "A former U.S. Marine held in Russia for more than four years on disputed charges is gravely ill and at risk of dying, his family and advocates said Friday.",
+      "title": "Thousands evacuated as wildfires burn across western U.S. and Canada",
+      "link": "https://www.pbs.org/newshour/nation/thousands-evacuated-as-wildfires-burn-across-western-u-s-and-canada",
+      "publishedAt": "Mon, 10 Aug 2026 13:51:12 -0400",
+      "snippet": "Wildfires are burning across the western U.S. and Canada, leaving some residents keeping a wary eye out for possible evacuation orders.",
       "tier": 1
     },
     {
@@ -436,6 +436,54 @@
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Turkey MPs back historic law on reintegrating PKK militants",
+      "link": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Turkey&apos;s parliament has taken a major step toward ending four decades of conflict with the PKK. The new law sets out how some militants can return to civilian life, but leaves Abdullah Ocalan&apos;s future unresolved.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Russia: Top court bans opposition anti-war party from vote",
+      "link": "https://www.dw.com/en/russia-top-court-bans-opposition-anti-war-party-from-vote/a-78313252?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Yabloko, Russia&apos;s only anti-war party, has been barred from September&apos;s parliamentary elections. The motion to bar Yabloko was filed by the nationalist pro-Kremlin party Rodina.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Colombia earthquake: Death toll rises to over 100",
+      "link": "https://www.dw.com/en/colombia-earthquake-death-toll-rises-to-over-100/a-78307841?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A powerful earthquake, measured at magnitude 7.4, has struck Colombia, killing dozens of people and trapping many under rubble. Cities including Cali, Pereira and Manizales were among the hardest-hit.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why the Rhine drought is bad news for Germany&apos;s recovery",
+      "link": "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany’s inland waterways still move around 5% of the nation&apos;s goods. With the Rhine at a critically low level, DW explores how the drought is hitting the economy where it hurts most.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Jharkhand police use tear gas, water cannons to disperse student protesters",
+      "link": "https://www.dw.com/en/india-news-jharkhand-police-use-tear-gas-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Police used force to disperse students marching towards the Jharkhand assembly, as protests over alleged irregularities in government recruitment exams entered their third week. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Which country is the new Mecca defense pact targeting?",
+      "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Observers suggest the new alliance between Saudi Arabia, Turkey and Pakistan won&apos;t result in any of the countries fighting for each other. Instead it&apos;s about preventing Iran and Israel from regional dominance, they say.",
       "tier": 2
     },
     {
@@ -451,7 +499,7 @@
       "title": "Middle East: Iran wants US concessions before opening Hormuz",
       "link": "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Iran&apos;s Foreign Ministry reiterated that the US must meet Tehran&apos;s demands before the Strait of Hormuz is reopened and that ships transiting through will be expected to pay a fee. Follow DW for more.",
+      "snippet": "Iran&apos;s Foreign Ministry reiterated that the US must meet Tehran&apos;s demands before the Strait of Hormuz is reopened. Meanwhile, Germany says Trump&apos;s plan for Gaza could get Hamas to put down its weapons. DW has more.",
       "tier": 2
     },
     {
@@ -464,8 +512,8 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "India: Student anger over alleged exam issues spreads to Jharkhand",
-      "link": "https://www.dw.com/en/india-student-anger-over-alleged-exam-issues-spreads-to-jharkhand/a-78304059?maca=en-rss-en-top-1022-rdf",
+      "title": "India: Anger over exam irregularities spreads to Jharkhand",
+      "link": "https://www.dw.com/en/india-anger-over-exam-irregularities-spreads-to-jharkhand/a-78304059?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Inspired by the Cockroach movement, young people in India&apos;s eastern state of Jharkhand are marching on the state assembly to demand transparency and a probe into alleged irregularities in civil service recruitment exams.",
       "tier": 2
@@ -492,14 +540,6 @@
       "link": "https://www.dw.com/en/thai-ex-lawmaker-shoots-local-official-dead-over-loan/a-78300045?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "A former lawmaker confessed to shooting a senior official at a government office over a money dispute, police have said. The incident came just days after Thailand&apos;s deadliest shooting in nearly four years.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Jharkhand police use tear gas, water cannons to disperse student protesters",
-      "link": "https://www.dw.com/en/india-news-jharkhand-police-use-tear-gas-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Police used force to disperse students marching towards the Jharkhand assembly, as protests over alleged irregularities in government recruitment exams entered their third week. DW has more.",
       "tier": 2
     },
     {
@@ -536,10 +576,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran War: Is Iran’s middle class being pushed into poverty?",
-      "link": "https://www.dw.com/en/iran-war-is-iran-s-middle-class-being-pushed-into-poverty/a-78266361?maca=en-rss-en-top-1022-rdf",
+      "title": "Is Iran&apos;s middle class being pushed into poverty?",
+      "link": "https://www.dw.com/en/is-iran-s-middle-class-being-pushed-into-poverty/a-78266361?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The war has intensified Iran’s economic crisis, squeezing household budgets, hurting businesses and raising fears that millions of middle-income families are slipping closer to poverty.",
+      "snippet": "The war has intensified Iran&apos;s economic crisis, squeezing household budgets, hurting businesses and raising fears that millions of middle-income families are slipping closer to poverty.",
       "tier": 2
     },
     {
@@ -548,46 +588,6 @@
       "link": "https://www.dw.com/en/western-europe-records-hottest-june-and-july-on-record/a-78298751?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Drought is gripping large parts of Europe, with soils unusually dry and major rivers running low. A strengthening El Nino could push global temperatures even higher later this year.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-      "link": "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Israeli prime minister says his country will not withdraw from Gaza until Hamas fully disarms, setting himself against a US-backed roadmap endorsed by the group.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Alleged Irish crime boss Kinahan charged with directing criminal organisation",
-      "link": "https://www.dw.com/en/alleged-irish-crime-boss-kinahan-charged-with-directing-criminal-organisation/a-78297919?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Daniel Kinahan is accused of leading the Kinahan organised crime group, an international network linked to drug trafficking and money laundering operations,",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Syria says deal agreed with Russia on future of military bases",
-      "link": "https://www.dw.com/en/syria-says-deal-agreed-with-russia-on-future-of-military-bases/a-78297584?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Under the agreement, Syria will take over management of two Russian bases that were used to support ousted leader Bashar Assad during the Syrian civil war.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Denmark: Several wounded in suspected gang shooting",
-      "link": "https://www.dw.com/en/denmark-several-wounded-in-suspected-gang-shooting/a-78297276?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Police said they believed that the incident was linked to a \"settling of scores\" within criminal networks.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Berlin to step up drone security research",
-      "link": "https://www.dw.com/en/germany-news-berlin-to-step-up-drone-security-research/live-78287439?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Interior Minister Alexander Dobrindt said Germany is moving to counter the threats posed by drones. Meanwhile, the transport minister said he wants Deutsche Bahn bonuses tied to punctuality targets.",
       "tier": 2
     }
   ]
