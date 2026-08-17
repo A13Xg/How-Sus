@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T12:37:34.380Z",
+  "generatedAt": "2026-08-17T00:39:43.306Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,66 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 17 Aug 2026 00:06:05 GMT",
+      "snippet": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 19:58:14 GMT",
+      "snippet": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 16 Aug 2026 10:52:08 GMT",
-      "snippet": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+      "publishedAt": "Sun, 16 Aug 2026 19:03:04 GMT",
+      "snippet": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 19:50:36 GMT",
+      "snippet": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 13:34:38 GMT",
+      "snippet": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
       "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 16 Aug 2026 08:23:38 GMT",
-      "snippet": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+      "publishedAt": "Sun, 16 Aug 2026 12:37:21 GMT",
+      "snippet": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 16 Aug 2026 08:49:32 GMT",
-      "snippet": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+      "title": "US commander says mental health a 'priority' on USS Lincoln",
+      "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 21:04:27 GMT",
+      "snippet": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 19:00:23 GMT",
+      "snippet": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
       "tier": 1
     },
     {
@@ -64,18 +104,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 16 Aug 2026 11:35:25 GMT",
-      "snippet": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 17 Aug 2026 00:20:51 GMT",
+      "snippet": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 20:58:31 GMT",
-      "snippet": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 11:35:25 GMT",
+      "snippet": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
       "tier": 1
     },
     {
@@ -88,18 +128,26 @@
     },
     {
       "source": "BBC World",
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 19:41:57 GMT",
-      "snippet": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 20:01:51 GMT",
+      "snippet": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 19:34:22 GMT",
-      "snippet": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 20:58:31 GMT",
+      "snippet": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 19:41:57 GMT",
+      "snippet": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
       "tier": 1
     },
     {
@@ -136,63 +184,63 @@
     },
     {
       "source": "BBC World",
-      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 17:47:42 GMT",
-      "snippet": "The fire burning through the major park was described as the country's worst in recent years.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "South Korea proposes talks to officially end war with North",
-      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 14:40:15 GMT",
-      "snippet": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "France's top court blocks social media ban for under-15s",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 16:35:06 GMT",
-      "snippet": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-      "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 17:36:27 GMT",
-      "snippet": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 23:16:43 GMT",
-      "snippet": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Five years after the Taliban swept to power, does the West have any influence?",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 17:00:14 GMT",
-      "snippet": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Secondhand book sales are booming. Is it because of AI?",
-      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 11:25:32 GMT",
-      "snippet": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+      "title": "Thailand has a gun problem - 10 million of them",
+      "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 16 Aug 2026 22:09:04 GMT",
+      "snippet": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "As Trump blocks Medicaid funds, one trans teen&apos;s mom asks: What&apos;s next?",
+      "title": "Multiple people dead as flooding continues in Indiana",
+      "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
+      "publishedAt": "Sun, 16 Aug 2026 16:38:40 -0400",
+      "snippet": "Some parts of Indiana received more than 11 inches of rainfall over three days, beginning Aug. 11, causing record floods. Several suburbs of Indianapolis also underwater.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+      "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "publishedAt": "Sun, 16 Aug 2026 16:20:22 -0400",
+      "snippet": "Jared Kushner, President Trump&apos;s son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+      "link": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
+      "publishedAt": "Sun, 16 Aug 2026 14:58:25 -0400",
+      "snippet": "The left-handed MLB pitcher was 31 years old when he tore the ulnar collateral ligament in his pitching elbow in 1974, an injury that had been a death knell for pitchers&apos; careers up to that point.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "A good – and bad – week for Italy&apos;s art police and museum security",
+      "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
+      "publishedAt": "Sun, 16 Aug 2026 12:27:54 -0400",
+      "snippet": "On Friday, Italian police said they&apos;d recovered three paintings stolen from a museum near the city of Parma. By Saturday night, thieves in Sicily had made off with four more masterpieces.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+      "link": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
+      "publishedAt": "Sun, 16 Aug 2026 11:47:58 -0400",
+      "snippet": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn&apos;t done punishing the Big Island with hurricane-force gusts.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "What really happened in Ceuta? Why we may never find out",
+      "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
+      "publishedAt": "Sun, 16 Aug 2026 11:38:22 -0400",
+      "snippet": "Hundreds of migrants have again attempted to cross from Morocco into the Spanish territory of Ceuta. This time, Moroccan officials fended them off, raising new questions about the crossing of July 30.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "&apos;What are we going to do?&apos; The mom of a trans teen grapples with Trump&apos;s Medicaid move",
       "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
       "publishedAt": "Sun, 16 Aug 2026 07:54:19 -0400",
       "snippet": "A longtime Republican living in California says the Trump administration&apos;s continuing actions to target transgender youth take a personal toll.",
@@ -216,14 +264,6 @@
     },
     {
       "source": "NPR News",
-      "title": "Doctors and women who&apos;ve had it call for more attention on postpartum psychosis",
-      "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
-      "publishedAt": "Sun, 16 Aug 2026 05:00:00 -0400",
-      "snippet": "The high-profile murder trial of Lindsay Clancy&apos;s has put the condition in the spotlight. Women who have had it call for more research and understanding of a difficult mental illness.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
       "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
       "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
       "publishedAt": "Sun, 16 Aug 2026 05:00:00 -0400",
@@ -231,43 +271,115 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "65 and older? Have a story to tell? Hit &apos;record&apos; and send NPR your podcast",
-      "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
-      "publishedAt": "Sun, 16 Aug 2026 05:00:00 -0400",
-      "snippet": "This fall, we&apos;re asking seniors to send us their stories in audio form. Our judges will pick the best ones and air them on NPR.",
+      "source": "PBS Headlines",
+      "title": "Firefighters battle massive wildfires in Belgium and Greece as 2 die on an island near Athens",
+      "link": "https://www.pbs.org/newshour/world/firefighters-battle-massive-wildfires-in-belgium-and-greece-as-2-die-on-an-island-near-athens",
+      "publishedAt": "Sun, 16 Aug 2026 18:37:06 -0400",
+      "snippet": "A blaze in eastern Belgium burned about 12 square miles in the High Fens, a large nature reserve, in one of the country's worst wildfires in recent history.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Are robotaxis finally here?",
-      "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
-      "publishedAt": "Sat, 15 Aug 2026 17:30:21 -0400",
-      "snippet": "Fully self-driving cars for hire have been hailed as the technology of the future for years now. That future has finally arrived -- but only in some cities.",
+      "source": "PBS Headlines",
+      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+      "link": "https://www.pbs.org/newshour/politics/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea",
+      "publishedAt": "Sun, 16 Aug 2026 18:01:52 -0400",
+      "snippet": "Trump said in a social media post that the exercises slated to begin this week are costly and \"send a signal that is totally inappropriate and hostile\" to North Korea, which he said \"has been unthreatening and respectful\" while Trump has been in the White House.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "State Department spokesperson on Iran war and U.S. visa revocations",
-      "link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
-      "publishedAt": "Sat, 15 Aug 2026 17:20:51 -0400",
-      "snippet": "NPR&apos;s Rob Schmitz speaks with State Department spokesperson Tommy Pigott about the with Iran and the hundreds of thousands of foreign nationals who have had their U.S. visa revoked.",
+      "source": "PBS Headlines",
+      "title": "Lake Powell hits record low, threatening key water and electricity supply for millions",
+      "link": "https://www.pbs.org/newshour/nation/lake-powell-hits-record-low-threatening-key-water-and-electricity-supply-for-millions",
+      "publishedAt": "Sun, 16 Aug 2026 17:46:50 -0400",
+      "snippet": "The alarming milestone at Lake Powell comes about a week after the river's other major reservoir, Lake Mead, also hit a historic low.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-      "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
-      "publishedAt": "Sat, 15 Aug 2026 16:04:13 -0400",
-      "snippet": "Indiana, Illinois and surrounding states are preparing for another stretch of flooding through this weekend.",
+      "source": "PBS Headlines",
+      "title": "Fact-checking claims about Taylor Farms' donations to Trump-aligned groups",
+      "link": "https://www.pbs.org/newshour/politics/fact-checking-claims-about-taylor-farms-donations-to-trump-aligned-groups",
+      "publishedAt": "Sun, 16 Aug 2026 17:18:10 -0400",
+      "snippet": "Social media users looked into donations the company and its leadership made and drew assumptions about how those influenced the Trump administration's outbreak response.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Families of USS Lincoln crew say Trump should be &apos;ashamed&apos; of conditions on board",
-      "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
-      "publishedAt": "Sat, 15 Aug 2026 14:21:32 -0400",
-      "snippet": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
+      "source": "PBS Headlines",
+      "title": "Colombian president asks Trump to suspend tariffs to help earthquake recovery",
+      "link": "https://www.pbs.org/newshour/world/colombian-president-asks-trump-to-suspend-tariffs-to-help-earthquake-recovery",
+      "publishedAt": "Sun, 16 Aug 2026 16:51:34 -0400",
+      "snippet": "De la Espriella took office earlier this month just days before the 7.4 magnitude quake struck.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain's Ceuta",
+      "link": "https://www.pbs.org/newshour/world/moroccan-security-forces-arrest-nearly-300-migrants-trying-to-reach-spains-ceuta",
+      "publishedAt": "Sun, 16 Aug 2026 16:34:41 -0400",
+      "snippet": "The latest attempt comes two weeks after tens of thousands of would-be migrants, driven by poverty and misinformation, rushed toward Ceuta in one of the deadliest migration crises to hit the region.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Chronic pain is missing from America's heat warnings",
+      "link": "https://www.pbs.org/newshour/health/chronic-pain-is-missing-from-americas-heat-warnings",
+      "publishedAt": "Sun, 16 Aug 2026 14:41:36 -0400",
+      "snippet": "The results of a new study suggest that chronic pain deserves a place in how the country prepares people for extreme weather. They also show that rural residents may be the least protected.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Kushner has rare meeting with Hamas' leader on Gaza road map. A meeting with Netanyahu is next",
+      "link": "https://www.pbs.org/newshour/world/kushner-has-rare-meeting-with-hamas-leader-on-gaza-road-map-a-meeting-with-netanyahu-is-next",
+      "publishedAt": "Sun, 16 Aug 2026 14:11:31 -0400",
+      "snippet": "The talks aim to salvage the new 15-point, U.S.-backed road map for Hamas to disarm in Gaza and Israel to withdraw from the Palestinian territory shattered by war.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "At least 7 people have died from days of heavy rain and record-setting flooding in Indiana",
+      "link": "https://www.pbs.org/newshour/nation/at-least-6-people-have-died-from-days-of-storms-and-record-setting-flooding-in-indiana",
+      "publishedAt": "Sun, 16 Aug 2026 13:50:54 -0400",
+      "snippet": "A 4-year-old boy, two men and three women were among those who had died since the storms began Aug. 11, said Liz Woods, a spokesperson for the state Department of Homeland Security.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Republicans won the redistricting competition. Don't tell that to this California congressman",
+      "link": "https://www.pbs.org/newshour/politics/republicans-won-the-redistricting-competition-dont-tell-that-to-this-california-congressman",
+      "publishedAt": "Sun, 16 Aug 2026 13:37:25 -0400",
+      "snippet": "President Donald Trump last year told GOP-controlled states to redraw their maps before this year's midterm elections to increase the number of winnable seats for Republicans in order to help the party hold onto the U.S. House.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Thieves steal 4 Renaissance artworks in a Sicilian museum heist during an Italian holiday",
+      "link": "https://www.pbs.org/newshour/arts/thieves-steal-4-renaissance-artworks-in-a-sicilian-museum-heist-during-an-italian-holiday",
+      "publishedAt": "Sun, 16 Aug 2026 13:14:44 -0400",
+      "snippet": "Art expert Alberto Fiz estimated the value of the stolen works at 70 million euros ($81 million) to 80 million euros ($92 million).",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Rescuers in Indonesia recover more bodies in earthquake aftermath, raising death toll to 53",
+      "link": "https://www.pbs.org/newshour/world/rescuers-in-indonesia-recover-more-bodies-in-earthquake-aftermath-raising-death-toll-to-53",
+      "publishedAt": "Sun, 16 Aug 2026 11:25:05 -0400",
+      "snippet": "More than 900 homes were destroyed and 450 more damaged in East Nusa Tenggara province, forcing about 5,000 people into temporary shelters.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+      "link": "https://www.pbs.org/newshour/world/ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6-people-in-russia",
+      "publishedAt": "Sun, 16 Aug 2026 11:05:50 -0400",
+      "snippet": "Kyiv has stepped up its attacks on Russia this year, with long-range missiles and swarms of drones targeting military industries and energy facilities.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
+      "link": "https://www.pbs.org/newshour/nation/lala-is-again-a-tropical-storm-sending-drenching-rain-and-winds-across-the-hawaiian-islands",
+      "publishedAt": "Sun, 16 Aug 2026 10:44:14 -0400",
+      "snippet": "A search-and-rescue mission was launched after flash floods apparently swept several occupied homes off their foundations in coastal communities, authorities said.",
       "tier": 1
     },
     {
@@ -319,123 +431,35 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
-      "link": "https://www.pbs.org/newshour/world/israeli-airstrikes-on-southern-lebanon-kill-11-people-health-ministry-says",
-      "publishedAt": "Sat, 15 Aug 2026 11:47:14 -0400",
-      "snippet": "Israel and the Lebanese government announced a \"framework agreement\" on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon in exchange for the disarmament of the Iran-backed Hezbollah militant group.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Lala strengthens into a hurricane and bears down on Hawaii's Big Island with heavy rain, winds",
-      "link": "https://www.pbs.org/newshour/nation/hawaiis-big-island-lashed-by-rain-and-wind-as-tropical-storm-lala-closes-in",
-      "publishedAt": "Sat, 15 Aug 2026 11:17:14 -0400",
-      "snippet": "The National Hurricane Center said Lala's maximum sustained winds increased to 75 mph, making it a Category 1 hurricane.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 and toppling buildings",
-      "link": "https://www.pbs.org/newshour/world/magnitude-7-7-earthquake-strikes-off-indonesias-coast-killing-at-least-47-and-toppling-buildings",
-      "publishedAt": "Sat, 15 Aug 2026 11:01:06 -0400",
-      "snippet": "Authorities issued a tsunami warning and urged coastal residents to move to higher ground, but later lifted the warning when Indonesia's meteorological agency said monitoring showed no significant sea-level changes that posed a threat to coastal communities.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Army temporarily halts Apache helicopter training missions after deadly Texas crash",
-      "link": "https://www.pbs.org/newshour/nation/army-temporarily-halts-apache-helicopter-training-missions-after-deadly-texas-crash",
-      "publishedAt": "Fri, 14 Aug 2026 19:34:27 -0400",
-      "snippet": "No cause of the Wednesday crash has been released because the investigation has just begun. A safety investigation team from the Army Combat Readiness Center in Fort Rucker, Alabama, is trying to determine what happened, the Army said.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Jason Arday, youngest Black professor at Cambridge, found dead at 41 after resignation",
-      "link": "https://www.pbs.org/newshour/world/jason-arday-youngest-black-professor-at-cambridge-found-dead-at-41-after-resignation",
-      "publishedAt": "Fri, 14 Aug 2026 19:25:02 -0400",
-      "snippet": "A British sociologist who resigned last week from the University of Cambridge following weeks of public accusations of plagiarism and media scrutiny was found dead Friday.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "New aircraft carrier en route to Middle East after issues reported aboard USS Abraham Lincoln",
-      "link": "https://www.pbs.org/newshour/world/new-aircraft-carrier-en-route-to-middle-east-after-issues-reported-aboard-uss-abraham-lincoln",
-      "publishedAt": "Fri, 14 Aug 2026 19:10:05 -0400",
-      "snippet": "The Lincoln has been supporting the U.S. war against Iran, and its deployment has included a record-setting uninterrupted time at sea of more than 240 days.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
-      "link": "https://www.pbs.org/newshour/show/luigi-mangione-reveals-motive-for-ceos-killing-after-pleading-guilty-in-federal-case",
-      "publishedAt": "Fri, 14 Aug 2026 18:57:22 -0400",
-      "snippet": "In a surprise turn, Luigi Mangione pleaded guilty to the shooting death of UnitedHealthcare CEO Brian Thompson. Mangione admitted he stalked and shot Thompson in 2024 outside a Hilton hotel in Manhattan. He potentially faces life in prison. The 28-year-old is also still facing st",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump dismisses concerns over conditions on long-deployed USS Abraham Lincoln",
-      "link": "https://www.pbs.org/newshour/show/trump-dismisses-concerns-over-conditions-on-long-deployed-uss-abraham-lincoln",
-      "publishedAt": "Fri, 14 Aug 2026 18:55:06 -0400",
-      "snippet": "Reports from sailors and their families describe concerning conditions aboard the USS Abraham Lincoln. The ship has been at sea since last November, a record-length deployment. White House correspondent Liz Landers reports.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Quick-thinking controller helps 2 planes with same flight number avoid possible disaster",
-      "link": "https://www.pbs.org/newshour/nation/quick-thinking-controller-helps-2-planes-with-same-flight-number-avoid-possible-disaster",
-      "publishedAt": "Fri, 14 Aug 2026 18:50:56 -0400",
-      "snippet": "A potential disaster was averted Friday when a Phoenix air traffic controller recognized two American Airlines jets mistakenly were flying the same flight number and acted quickly to avoid confusion and keep them a safe distance apart.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "News Wrap: Record-breaking heat wave grips Europe",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-record-breaking-heat-wave-grips-europe",
-      "publishedAt": "Fri, 14 Aug 2026 18:50:43 -0400",
-      "snippet": "In our news wrap Friday, a heat wave is breaking records across Europe, record-breaking rainfall triggered flooding across several cities in Japan, Hawaii is preparing for significant rain and strong winds from Tropical Storm Lala and authorities in Italy recovered a trio of stol",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Congo Ebola outbreak on track to become deadliest in history",
-      "link": "https://www.pbs.org/newshour/show/congo-ebola-outbreak-on-track-to-become-deadliest-in-history",
-      "publishedAt": "Fri, 14 Aug 2026 18:45:49 -0400",
-      "snippet": "The Ebola outbreak in the Democratic Republic of Congo continues to worsen, with the number of confirmed cases climbing to over 4,600. At least 2,100 people have died, a death toll that was reached almost three times faster than the outbreak over a decade ago. William Brangham di",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Greece toughens stance on illegal migration with new deportation plan",
-      "link": "https://www.pbs.org/newshour/show/greece-toughens-stance-on-illegal-migration-with-new-deportation-plan",
-      "publishedAt": "Fri, 14 Aug 2026 18:40:56 -0400",
-      "snippet": "Eleven years into a migration crisis, Greece is trying to stop boats crossing from North Africa to the Greek island of Crete. Five European Union countries have made a breakthrough in their efforts to deport migrants crossing the Mediterranean Sea. Uganda in East Africa has agree",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Brooks and Atkins Stohr on 'woke' politics in America",
-      "link": "https://www.pbs.org/newshour/show/brooks-and-atkins-stohr-on-woke-politics-in-america",
-      "publishedAt": "Fri, 14 Aug 2026 18:30:52 -0400",
-      "snippet": "David Brooks of The Atlantic and Kimberly Atkins Stohr of the Boston Globe join William Brangham to discuss the week in politics, including the surprising result in Wisconsin's Democratic primary, the status of 'woke' politics in America and the stalemate between the U.S. and Ira",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Palestinians besieged in West Bank village of Qusra fear Israeli settlers will seize their homes",
-      "link": "https://www.pbs.org/newshour/world/palestinians-besieged-in-west-bank-village-of-qusra-fear-israeli-settlers-will-seize-their-homes",
-      "publishedAt": "Fri, 14 Aug 2026 17:43:06 -0400",
-      "snippet": "The standoff in Qusra between Palestinian families and Israeli settlers who apparently want to push them out entered a new stage Friday as activists supporting the Palestinians marched toward the besieged homes to replenish their dwindling food and water supply.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "UAE, Saudi Arabia, others condemn Israel&apos;s rejection of Trump Gaza plan",
+      "link": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine attacks Wildberries, Russia&apos;s biggest online market",
+      "link": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Since mid-July, Ukraine has been targeting warehouses of Russia&apos;s largest online retailer Wildberries almost every day. Ukraine says it&apos;s disrupting front-line shipments. But experts say it&apos;s disrupting Russia&apos;s economy.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Hundreds flee as Belgium battles wildfire at German border",
+      "link": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A rapidly spreading wildfire has scorched about 2,700 hectares in the High Fens nature reserve near Belgium&apos;s border with Germany. The German town of Monschau has also warned residents of possible evacuation orders.",
       "tier": 2
     },
     {
@@ -459,7 +483,7 @@
       "title": "Troops from North Korea to boost Russia&apos;s Ukraine forces",
       "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Intelligence agencies report that North Korea is preparing to send up to 50,000 troops to Russia. But military experts doubt that this will make a fundamental difference in the course of Russia&apos;s war with Ukraine.",
+      "snippet": "Intelligence agencies report that North Korea is preparing to send up to 50,000 troops to Russia. But military experts doubt this will make a fundamental difference in the course of Russia&apos;s war with Ukraine.",
       "tier": 2
     },
     {
@@ -467,7 +491,7 @@
       "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
       "link": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The Category 1 storm passed over Hawaii&apos;s Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads to flood and turned rivers into raging torrents.",
+      "snippet": "The Category 1 storm passed over Hawaii&apos;s Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood and turned rivers into raging torrents.",
       "tier": 2
     },
     {
@@ -512,8 +536,8 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Climate action doesn&apos;t seem to be a priority for Germany — despite heat-related deaths and drought. Why aren&apos;t more people taking to the streets?",
-      "link": "https://www.dw.com/en/climate-action-doesn-t-seem-to-be-a-priority-for-germany-despite-heat-related-deaths-and-drought-why-aren-t-more-people-taking-to-the-streets/a-78374727?maca=en-rss-en-top-1022-rdf",
+      "title": "In Germany, record heat meets climate action fatigue",
+      "link": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Climate action does not seem to be a priority for the German government — despite record temperatures, heat-related deaths and drought. Why aren&apos;t more people taking to the streets in protest?",
       "tier": 2
@@ -560,34 +584,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany increasingly revokes refugee status for Syrians",
-      "link": "https://www.dw.com/en/germany-increasingly-revokes-refugee-status-for-syrians/live-78378773?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany: Evacuated villagers return after Eifel wildfire eases",
+      "link": "https://www.dw.com/en/germany-evacuated-villagers-return-after-eifel-wildfire-eases/live-78378773?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "In the first half of 2026, 23.2% of reviews ended with protection being revoked or withdrawn, according to a government response to a parliamentary question by the socialist Left Party. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US: FDA recalls 19 million eggs over salmonella risk",
-      "link": "https://www.dw.com/en/us-fda-recalls-19-million-eggs-over-salmonella-risk/a-78378361?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness or death.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Indonesia: Dozens dead after earthquake off Flores island",
-      "link": "https://www.dw.com/en/indonesia-dozens-dead-after-earthquake-off-flores-island/a-78377990?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "At least 47 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershocks. A tsunami warning has been lifted.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Donald Trump to declare Hormuz US territory &apos;soon&apos;",
-      "link": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared since Iran closed Hormuz in response to US and Israeli attacks.",
+      "snippet": "Most residents evacuated from the village of Gey have returned home after firefighters brought a major wildfire in Germany&apos;s Eifel region largely under control. DW has more.",
       "tier": 2
     }
   ]
