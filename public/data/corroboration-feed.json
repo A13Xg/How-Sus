@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T00:39:44.252Z",
+  "generatedAt": "2026-08-21T12:38:20.846Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,42 +32,122 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 18:55:14 GMT",
-      "snippet": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 05:00:57 GMT",
+      "snippet": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 23:16:45 GMT",
-      "snippet": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 11:31:51 GMT",
+      "snippet": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 17:14:55 GMT",
-      "snippet": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 05:47:32 GMT",
+      "snippet": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 22:01:26 GMT",
-      "snippet": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+      "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 09:53:47 GMT",
+      "snippet": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Dozens dead after boat capsizes in north-western Nigeria",
+      "title": "Panama Canal to cut number of ships passing through due to El Niño",
+      "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 06:46:08 GMT",
+      "snippet": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
+      "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 10:03:17 GMT",
+      "snippet": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
+      "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 11:57:37 GMT",
+      "snippet": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 10:46:09 GMT",
+      "snippet": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 06:33:32 GMT",
+      "snippet": "The collection documents key moments in Gandhi’s freedom movement as well as his personal relationship with close aide.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Five missing after fire in Swiss Alpine town",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 07:06:16 GMT",
+      "snippet": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 02:33:27 GMT",
+      "snippet": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
       "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 20:27:36 GMT",
-      "snippet": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
+      "publishedAt": "Fri, 21 Aug 2026 10:48:01 GMT",
+      "snippet": "The overloaded boat was taking people, including many children, to farms to harvest rice.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan executes man who killed five in Pachinko parlour fire",
+      "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 02:49:27 GMT",
+      "snippet": "This is the first time since June 2025 that the country has enacted capital punishment.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Australian hiker's body recovered as officials apologise for misreporting she was alive",
+      "link": "https://www.bbc.co.uk/news/articles/c0rdk5kg4r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 04:54:21 GMT",
+      "snippet": "The body of Lily Hooper, 18, has been airlifted from a national park in the Southern Highlands following an eight-day search.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 05:30:18 GMT",
+      "snippet": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others.",
       "tier": 1
     },
     {
@@ -80,194 +160,130 @@
     },
     {
       "source": "BBC World",
-      "title": "FBI arrests woman over alleged plot to bomb New York capitol building",
-      "link": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 21:03:30 GMT",
-      "snippet": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers.",
+      "title": "What happened to Harry and Meghan's American dream?",
+      "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 02:57:34 GMT",
+      "snippet": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 22:43:42 GMT",
-      "snippet": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
+      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 00:04:10 GMT",
+      "snippet": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 10:14:47 GMT",
-      "snippet": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 23:16:45 GMT",
+      "snippet": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 02:05:20 GMT",
-      "snippet": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Assad officer extradited to Syria on war crimes charges for first time",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 12:38:35 GMT",
-      "snippet": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 06:08:02 GMT",
-      "snippet": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 13:04:15 GMT",
-      "snippet": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Togo charges two French journalists over incorrect documents, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 16:00:27 GMT",
-      "snippet": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 07:08:35 GMT",
-      "snippet": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Why Nigeria's one-time political giant may face extinction",
-      "link": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 23:21:22 GMT",
-      "snippet": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 05:01:24 GMT",
-      "snippet": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
-      "link": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 23:11:14 GMT",
-      "snippet": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trial of mum accused of killing her three children puts postpartum psychosis on the map",
-      "link": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 16:30:55 GMT",
-      "snippet": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 05:00:39 GMT",
-      "snippet": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+      "title": "Why the US economy is ringing alarm bells",
+      "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 08:38:18 GMT",
+      "snippet": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Record cyclosporiasis outbreak tests the response of a &apos;weakened&apos; health system",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
-      "publishedAt": "Thu, 20 Aug 2026 15:54:19 -0400",
-      "snippet": "From state and local food-safety response to the federal health agencies that fund that work, a record-breaking year for cyclosporiasis cases runs up against the Trump administration&apos;s cuts last year.",
+      "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+      "publishedAt": "Fri, 21 Aug 2026 07:42:10 -0400",
+      "snippet": "The Iranian regime has dismissed President Trump&apos;s threats to crush the country economically, saying that years of U.S. sanctions have failed.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
-      "publishedAt": "Thu, 20 Aug 2026 15:22:20 -0400",
-      "snippet": "In some tight midterm races, how farmers frustrated with the war and rising costs vote could make a difference.",
+      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+      "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
+      "publishedAt": "Fri, 21 Aug 2026 07:25:10 -0400",
+      "snippet": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump&apos;s ballroom.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "3 things to know about the $40 trillion federal debt",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
-      "publishedAt": "Thu, 20 Aug 2026 12:50:41 -0400",
-      "snippet": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year.",
+      "title": "What to know about this weekend&apos;s IndyCar race on the National Mall",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
+      "publishedAt": "Fri, 21 Aug 2026 05:01:00 -0400",
+      "snippet": "Why is the car race in this part of D.C.? Will it be streaming? Who&apos;s paying for it? Here&apos;s what to know before the Freedom 250 Grand Prix hits the National Mall this weekend.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "What to know about Dr. Heidi Overton, Trump&apos;s pick to lead the FDA",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
-      "publishedAt": "Thu, 20 Aug 2026 12:49:11 -0400",
-      "snippet": "Dr. Heidi Overton is currently working as a White House policy aide. If confirmed, she would lead an agency of 18,000 staffers who study and regulate food, drugs, medical devices, tobacco and more.",
+      "title": "Federal government thins the herds of wild horses in Colorado",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
+      "publishedAt": "Fri, 21 Aug 2026 05:00:00 -0400",
+      "snippet": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "D.C.&apos;s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
-      "publishedAt": "Thu, 20 Aug 2026 11:18:21 -0400",
-      "snippet": "Sunday&apos;s course takes high-speed cars right past the National Gallery of Art and three Smithsonian museums. Art experts worry about the works inside, but organizers say they don&apos;t expect damage.",
+      "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
+      "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+      "publishedAt": "Fri, 21 Aug 2026 05:00:00 -0400",
+      "snippet": "Experts warn Trump&apos;s transactional approach to alliance will erode political trust",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-      "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-      "publishedAt": "Thu, 20 Aug 2026 07:30:18 -0400",
-      "snippet": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
+      "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
+      "publishedAt": "Fri, 21 Aug 2026 05:00:00 -0400",
+      "snippet": "In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. A surge in such activity underscores the growing resistance to this police surveillance technology.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "North Korea fires a suspected missile toward the sea, Japan says",
-      "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-      "publishedAt": "Thu, 20 Aug 2026 05:24:45 -0400",
-      "snippet": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
+      "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+      "publishedAt": "Fri, 21 Aug 2026 05:00:00 -0400",
+      "snippet": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental-health challenges of prolonged confinement and isolation aboard an aircraft carrier.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-      "publishedAt": "Thu, 20 Aug 2026 05:00:00 -0400",
-      "snippet": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out.",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
+      "publishedAt": "Fri, 21 Aug 2026 04:46:00 -0400",
+      "snippet": "Trump threatens economic pressure campaign against Iran, SCOTUS to weigh in on whether Trump&apos;s ballroom project, investors dump stocks and bonds despite government&apos;s efforts to calm market.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-      "publishedAt": "Thu, 20 Aug 2026 05:00:00 -0400",
-      "snippet": "Many people don&apos;t pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy.",
+      "title": "Mom and best friend remember girl killed in a mass shooting one year later",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5938076/mom-and-best-friend-remember-girl-killed-in-a-mass-shooting-one-year-later",
+      "publishedAt": "Fri, 21 Aug 2026 04:44:49 -0400",
+      "snippet": "For StoryCorps, a mother remembers her daughter who was killed in a mass shooting by speaking with her daughter&apos;s best friend.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Privacy advocates call on Maryland to investigate data brokers",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-      "publishedAt": "Thu, 20 Aug 2026 05:00:00 -0400",
-      "snippet": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies.",
+      "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
+      "publishedAt": "Fri, 21 Aug 2026 02:41:33 -0400",
+      "snippet": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "State lawmaker Aisha Wahab wins California special election to replace former Rep. Swalwell",
+      "link": "https://www.pbs.org/newshour/politics/state-lawmaker-aisha-wahab-wins-california-special-election-to-replace-former-rep-swalwell",
+      "publishedAt": "Thu, 20 Aug 2026 21:12:20 -0400",
+      "snippet": "Swalwell, a Democrat who was running for California governor, ended his campaign and resigned from Congress in April after he was accused of sexual assault and harassment, which he denies.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Karmelo Anthony's lawyer asks for new trial over track meet killing as new details emerge",
+      "link": "https://www.pbs.org/newshour/nation/karmelo-anthonys-lawyer-asks-for-new-trial-over-track-meet-killing-as-new-details-emerge",
+      "publishedAt": "Thu, 20 Aug 2026 20:57:53 -0400",
+      "snippet": "The Texas prosecutor who oversaw Karmelo Anthony's conviction in a deadly stabbing at a high school track meet said Thursday that both sides had agreed to hold back evidence that risked further inflaming a case already boiling with racial tensions and death threats.",
       "tier": 1
     },
     {
@@ -415,27 +431,115 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Magnitude 6.7 earthquake shakes Peru's southern Andes, USGS says",
-      "link": "https://www.pbs.org/newshour/world/magnitude-6-7-earthquake-shakes-perus-southern-andes-usgs-says",
-      "publishedAt": "Thu, 20 Aug 2026 14:55:44 -0400",
-      "snippet": "The USGS said the quake occurred at 1 p.m. local time and was centered 38 kilometers (24 miles) northwest of the city of Upahuacho, in the Parinacochas province of the Ayacucho region.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "North Korea fires barrage of missiles toward the sea after dismissing overture from Trump",
-      "link": "https://www.pbs.org/newshour/world/north-korea-fires-barrage-of-missiles-toward-the-sea-after-dismissing-overture-from-trump",
-      "publishedAt": "Thu, 20 Aug 2026 14:42:58 -0400",
-      "snippet": "North Korea launched a barrage of ballistic missiles toward the sea on Thursday, South Korea's military said, a day after the North shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "DRC Ebola outbreak &apos;growing exponentially,&apos; UN says",
+      "link": "https://www.dw.com/en/drc-ebola-outbreak-growing-exponentially-un-says/a-78457248?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Ebola outbreak in the DRC is rapidly spreading in an area \"bigger than France,\" according to a senior UN official. The WHO is providing the country with thousands of vaccine doses in a bid to contain the virus.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
+      "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea&apos;s response sends a signal that it wants maximum concessions in return for talks with the US.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Bauhaus Manifesto: Broad alliance promoting artistic freedom",
+      "link": "https://www.dw.com/en/bauhaus-manifesto-broad-alliance-promoting-artistic-freedom/a-78456460?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Weeks before Saxony-Anhalt&apos;s state election, representatives from German cultural, crafts, architecture, design and church sectors unite to promote freedom, openness and creativity.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Berlin losing its appeal for many Germans",
+      "link": "https://www.dw.com/en/germany-news-berlin-losing-its-appeal-for-many-germans/live-78454653?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Fewer than a third of Germans find their capital city \"fascinating\", a sharp fall from 20 years ago, a survey has found. Germany is also mulling further action against Russia over the Leipzig drone incident. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ronaldinho to make football comeback aged 46",
+      "link": "https://www.dw.com/en/ronaldinho-to-make-football-comeback-aged-46/a-78453950?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "More than a decade after his last professional appearance, Brazilian superstar Ronaldinho is set for a comeback. The former world player of the year is to play in Italy’s third tier.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why is Israel&apos;s military presence growing in Syria?",
+      "link": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The recent Israeli attack on a Syrian airbase is just one of many Israeli incursions into Syria. In southern Syria, locals say Israeli troops have detained them, destroyed infrastructure and set up military bases.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Panama Canal to cap ship transits due to El Nino drought",
+      "link": "https://www.dw.com/en/panama-canal-to-cap-ship-transits-due-to-el-nino-drought/a-78453054?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Panama Canal will cut daily transits of ships from September because of low rainfall and amid an intensifying El Nino event.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Alaska charter flight crash kills 8",
+      "link": "https://www.dw.com/en/alaska-charter-flight-crash-kills-8/a-78453258?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A small ‌Cessna 441 plane operated by a private charter company crashed near a US military-managed radar site in Alaska. All on board have reportedly died.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: CJP team assaulted while inspecting school &apos;in a buffalo shed&apos; in Rajasthan",
+      "link": "https://www.dw.com/en/india-news-cjp-team-assaulted-while-inspecting-school-in-a-buffalo-shed-in-rajasthan/live-78453085?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Cockroach Janta Party said a party team was assaulted and pelted with stones in Rajasthan while inspecting a government school. CJP alleged BJP-linked outsiders were behind the attack. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Morocco: Migrants caught between Ceuta dreams and reality",
+      "link": "https://www.dw.com/en/morocco-migrants-caught-between-ceuta-dreams-and-reality/a-78443537?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Moroccan city of Fnideq is next to Spanish-controlled Ceuta. In Fnideq, would-be migrants dream of crossing to a better life, even as locals who witnessed recent mass migration surges say it&apos;s way too risky.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Guatemala says it received nearly 2,300 US-deported Mexicans",
+      "link": "https://www.dw.com/en/guatemala-says-it-received-nearly-2-300-us-deported-mexicans/a-78452443?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US President Donald Trump&apos;s administration is ramping up third country deportations, with Mexican deportees being sent to Guatemala and reportedly Honduras in the past year.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Hong Kong convicts Tiananmen vigil leaders",
+      "link": "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The two pro-democracy Tiananmen activists were found guilty of inciting subversion. The high-profile case has been widely criticized for highlighting the deterioration of freedom of expression.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pakistan: Former PM Khan briefly moved to private hospital",
+      "link": "https://www.dw.com/en/pakistan-former-pm-khan-briefly-moved-to-private-hospital/a-78451553?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Khan was examined by a team of doctors before being moved back to prison. The former PM&apos;s supporters say his health has deteriorated during more than ​three years behind bars since being removed from office in 2022.",
       "tier": 2
     },
     {
@@ -452,14 +556,6 @@
       "link": "https://www.dw.com/en/nigeria-dozens-dead-after-boat-capsizes-in-sokoto/a-78449903?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "At least 50 people — many of them reportedly children — have died in a boat accident in northwestern Nigeria.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why is Israel&apos;s military presence growing in Syria?",
-      "link": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The recent Israeli attack on a Syrian airbase is just one of many Israeli incursions into Syria. In southern Syria, locals say Israeli troops have detained them, destroyed infrastructure and set up military bases.",
       "tier": 2
     },
     {
@@ -488,106 +584,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Why are Germany&apos;s gas storage levels so low?",
-      "link": "https://www.dw.com/en/why-are-germany-s-gas-storage-levels-so-low/a-78440677?maca=en-rss-en-top-1022-rdf",
+      "title": "Why Germany&apos;s gas storage levels are so low",
+      "link": "https://www.dw.com/en/why-germany-s-gas-storage-levels-are-so-low/a-78440677?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Germany&apos;s gas storage facilities are only 50% full as traders bet that wholesale prices will fall if the Iran war ends. With around three months until winter, DW asks whether the country can refill its reserves in time.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How do teenagers keep accessing guns in Southeast Asia?",
-      "link": "https://www.dw.com/en/how-do-teenagers-keep-accessing-guns-in-southeast-asia/a-78446354?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Recent deadly shootings in Thailand and the Philippines have put gun laws under scrutiny while raising questions about a broader problem of firearm access, accountability and enforcement.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Romania destroys drone near gas project, blames Russia",
-      "link": "https://www.dw.com/en/romania-destroys-drone-near-gas-project-blames-russia/a-78447040?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Two F-16 fighter jets scrambled after spotting a drone \"loaded with explosives\" near a Black Sea gas project. EU chief Ursula von der Leyen said the incident was part of \"an escalating campaign of threats.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Israel warns Turkey against &apos;dangerous adventures in Syria&apos;",
-      "link": "https://www.dw.com/en/israel-warns-turkey-against-dangerous-adventures-in-syria/a-78443259?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Turkey says it will continue supporting Syria&apos;s sovereignty after Israel bombed a Syrian air base and accused Turkish President Erdogan of dragging his country into \"dangerous adventures\" there.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bangladesh lawmakers elect BNP&apos;s Alamgir as president",
-      "link": "https://www.dw.com/en/bangladesh-lawmakers-elect-bnp-s-alamgir-as-president/a-78438534?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The longtime opposition figure&apos;s party came to power after the 2024 revolution, which ousted the government of Sheikh Hasina.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "In Iran, contact with foreigners could soon be a crime",
-      "link": "https://www.dw.com/en/in-iran-contact-with-foreigners-could-soon-be-a-crime/a-78443425?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A new bill would impose sweeping restrictions and penalties for ties with foreign institutions and contacts with foreign-based media, making it even more difficult to access information within Iran.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Munich prosecutors close fatal 1970 antisemitic arson case",
-      "link": "https://www.dw.com/en/munich-prosecutors-close-fatal-1970-antisemitic-arson-case/a-78440307?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Prosecutors and police in Munich believe they have identified the man who set a 1970 fire at a Jewish community center and old people&apos;s home that killed seven people. But he died in 2020, so prosecution is not possible.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Africa&apos;s ANC faces voter backlash",
-      "link": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Anti-migrant violence, economic stagnation and corruption allegations are eroding support for South Africa&apos;s ruling ANC ahead of local elections in November, opening the door to new coalition possibilities.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How DW fact-checks fake news",
-      "link": "https://www.dw.com/en/how-dw-fact-checks-fake-news/a-64950646?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Disinformation spreads fast. Step inside DW&apos;s fact-checking process and see how the team puts online claims to the test.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How Europe can better protect against extreme wildfires",
-      "link": "https://www.dw.com/en/how-europe-can-better-protect-against-extreme-wildfires/a-78435243?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In another summer of European wildfires that have even seen wetlands burning, scientists say the situation is set to worsen in the future. What&apos;s needed is fire prevention and climate protection.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine: Several killed in &apos;massive&apos; Russian strikes on Kyiv",
-      "link": "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The strikes on the Ukrainian capital and its surrounding regions also injured dozens, damaged buildings and caused power cuts. In neighboring Poland, the military started preventive operations to protect its airspace.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bernadette Amani &apos;living her dream&apos; at Bayern Munich",
-      "link": "https://www.dw.com/en/bernadette-amani-living-her-dream-at-bayern-munich/a-78141213?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Bernadette Amani is heading into her first full season with Bayern Munich, having joined the club in January. Making a living at football is something she never imagined possible while growing up in rural Ivory Coast.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "North Korea fires possible ballistic missiles toward sea",
-      "link": "https://www.dw.com/en/north-korea-fires-possible-ballistic-missiles-toward-sea/a-78440280?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The launch came hours after US President Trump announced plans to meet Kim Jong Un later this year.",
       "tier": 2
     }
   ]
