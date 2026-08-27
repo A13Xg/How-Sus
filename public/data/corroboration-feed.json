@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T12:38:45.654Z",
+  "generatedAt": "2026-08-27T02:03:21.314Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,34 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+      "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 11:32:11 GMT",
+      "snippet": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
       "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 12:32:47 GMT",
-      "snippet": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+      "publishedAt": "Wed, 26 Aug 2026 14:42:03 GMT",
+      "snippet": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+      "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 15:42:45 GMT",
+      "snippet": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 22:02:18 GMT",
+      "snippet": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
       "tier": 1
     },
     {
@@ -48,18 +72,18 @@
     },
     {
       "source": "BBC World",
-      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 11:02:22 GMT",
-      "snippet": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
       "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 26 Aug 2026 08:17:45 GMT",
       "snippet": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+      "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 19:19:46 GMT",
+      "snippet": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
       "tier": 1
     },
     {
@@ -72,10 +96,10 @@
     },
     {
       "source": "BBC World",
-      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-      "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 12:17:12 GMT",
-      "snippet": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
+      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 18:22:41 GMT",
+      "snippet": "It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials.",
       "tier": 1
     },
     {
@@ -84,6 +108,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 26 Aug 2026 10:29:36 GMT",
       "snippet": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+      "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 12:17:12 GMT",
+      "snippet": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 13:49:55 GMT",
+      "snippet": "It is thought to be part of efforts to consolidate the former coup leader's control.",
       "tier": 1
     },
     {
@@ -128,72 +168,96 @@
     },
     {
       "source": "BBC World",
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 19:48:14 GMT",
-      "snippet": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+      "link": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 23:08:43 GMT",
+      "snippet": "On Saturday, Iceland will vote on EU membership talks, amid economic and geopolitical tensions.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Brain disease in dead NFL players 'higher than previously shown'",
-      "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 11:54:40 GMT",
-      "snippet": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
+      "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 23:11:24 GMT",
+      "snippet": "Many communities are living in fear of being kidnapped for ransom as the crisis spreads further south.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 11:53:36 GMT",
-      "snippet": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "The heart, hope and steely determination behind a musical legacy",
-      "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 11:32:11 GMT",
-      "snippet": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Canada's retaliation tests the limit of American power under Trump",
-      "link": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 08:47:18 GMT",
-      "snippet": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 23:50:53 GMT",
-      "snippet": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
-      "link": "https://www.bbc.co.uk/news/articles/c99d08j3kz1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 25 Aug 2026 22:37:50 GMT",
-      "snippet": "Students are seeking prescription drugs because they fear failure, a teen tells the BBC.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "India's sugar squeeze threatens its biggest season for sweets",
-      "link": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 06:30:24 GMT",
-      "snippet": "Domestic sugar prices have jumped nearly 40%, forcing India to import 1 million tonnes of the sweetener.",
+      "title": "The question dominating Indian politics: Is it worse when women swear?",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 23:03:31 GMT",
+      "snippet": "Rahul Gandhi's comments renew the debate over gender disparity in reactions to insults hurled at PM Narendra Modi.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
-      "link": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
+      "title": "Drugstores say Medicare&apos;s $50 obesity drug program is catching on",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs",
+      "publishedAt": "Wed, 26 Aug 2026 17:11:42 -0400",
+      "snippet": "The Bridge program, which began July 1, makes some Medicare beneficiaries eligible for obesity drugs for $50 a month. CVS and Walgreens say they&apos;ve each already filled 100,000 such prescriptions.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Immigration arrests soar, hitting 50,000 in July",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5945127/immigration-arrests-record",
+      "publishedAt": "Wed, 26 Aug 2026 14:08:05 -0400",
+      "snippet": "Since taking over in March, DHS Secretary Markwayne Mullin has pivoted from the confrontational style of immigration enforcement of his predecessor, Kristi Noem. The latest data is reflective of a strategy that is working",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
+      "link": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
+      "publishedAt": "Wed, 26 Aug 2026 13:36:13 -0400",
+      "snippet": "Pilgrims came to Iraq from all over the world in August. Many Iraqi and Iranian pilgrims walked hundreds of miles in extreme heat to mark the event. Outside the shrines, the atmosphere is almost festive.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "States try new tactics to bring down high hospital prices",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana",
+      "publishedAt": "Wed, 26 Aug 2026 13:29:13 -0400",
+      "snippet": "Indiana is the latest state to experiment with limiting what hospitals can charge, to try to get a handle on high health costs.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Judge clears the way for Postal Service work on Trump&apos;s mail-in voting order for now",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots",
+      "publishedAt": "Wed, 26 Aug 2026 13:15:17 -0400",
+      "snippet": "A federal judge in Boston canceled a nationwide ruling that blocked U.S. Postal Service work on President Trump&apos;s order to limit mail-in voting for the midterm election. But a new block may come soon.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Will Trump&apos;s latest beef plan make your hamburger cheaper? Not much, experts say",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs",
+      "publishedAt": "Wed, 26 Aug 2026 10:58:58 -0400",
+      "snippet": "The proposal comes weeks before the midterm elections, when food prices and the cost of living are expected to be major issues on voters&apos; minds.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "How Dolly Parton wrote the story of a changing America",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
+      "publishedAt": "Wed, 26 Aug 2026 09:46:34 -0400",
+      "snippet": "Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Meta, states agree to $17 billion settlement in child safety trial",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
+      "publishedAt": "Wed, 26 Aug 2026 09:33:39 -0400",
+      "snippet": "The social media giant also agreed to make sweeping changes to Instagram and Facebook.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "At least 98 killed and hundreds missing after flash floods in Nepal and China",
+      "link": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
       "publishedAt": "Wed, 26 Aug 2026 08:27:19 -0400",
       "snippet": "The disaster is linked to climate change, with experts noting the region&apos;s vulnerability to extreme weather.",
       "tier": 1
@@ -207,227 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
-      "publishedAt": "Wed, 26 Aug 2026 05:02:00 -0400",
-      "snippet": "This illustrated guide has evidence-backed advice on how to support fertility for both men and women, including which foods to eat and which activities to avoid.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "She got an electric bill for $1,373. She&apos;s not alone",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
-      "publishedAt": "Wed, 26 Aug 2026 05:01:00 -0400",
-      "snippet": "The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Okla., people are having their power cut when they can&apos;t pay their bills.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Hollywood&apos;s summer box office is glowing, but the numbers come with startling caveats",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
-      "publishedAt": "Wed, 26 Aug 2026 05:00:00 -0400",
-      "snippet": "Theaters have had something for everyone this summer, and fans are paying top dollar for premium formats like IMAX. There are also fewer moviegoers, fewer movies and fewer screens than there were pre-COVID.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Hospital nursery fire kills 14 newborns in Pakistan&apos;s capital, officials order immediate inquiry",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
-      "publishedAt": "Wed, 26 Aug 2026 03:34:59 -0400",
-      "snippet": "A fire erupted early Wednesday in a nursery for newborns at a major government hospital in Pakistan&apos;s capital, killing 14 babies, according to hospital officials and the government.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Test your global economic knowledge with this quick Planet Money quiz!",
-      "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
-      "publishedAt": "Wed, 26 Aug 2026 03:30:00 -0400",
-      "snippet": "Every country tells a different economic story. It&apos;s time to test your knowledge of the big ideas we&apos;ve collected on our World Tour. Eight questions stand between you and your Summer School diploma.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Target faces renewed backlash for Halloween costume with &apos;minstrel show features&apos;",
-      "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
-      "publishedAt": "Wed, 26 Aug 2026 01:45:58 -0400",
-      "snippet": "Retailer Target pulled a children&apos;s Halloween costume from its shelves after widespread social media backlash, apologizing for selling a garment critics said evoked racist minstrel caricatures.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
-      "publishedAt": "Wed, 26 Aug 2026 01:45:34 -0400",
-      "snippet": "It is believed to be one of the largest mass kidnappings in Haiti in recent years, and one gang leader is threatening to kill the hostages if authorities kill any gang members as they try to secure the community nestled in the hills above Port-au-Prince.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
-      "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
-      "publishedAt": "Tue, 25 Aug 2026 18:50:57 -0400",
-      "snippet": "The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks.",
+      "source": "PBS Headlines",
+      "title": "$17B Meta settlement puts focus on youth mental health crisis, Colorado AG says",
+      "link": "https://www.pbs.org/newshour/show/17b-meta-settlement-puts-focus-on-youth-mental-health-crisis-colorado-ag-says",
+      "publishedAt": "Wed, 26 Aug 2026 18:55:13 -0400",
+      "snippet": "Meta agreed to pay up to $17 billion in a settlement, putting to rest a trial where dozens of states accused it of deliberately endangering children through their platforms. The company behind Facebook and Instagram agreed to implement digital guardrails for minors and is asking ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Canada retaliates with tariffs against U.S. as relations deteriorate",
-      "link": "https://www.pbs.org/newshour/show/canada-retaliates-with-tariffs-against-u-s-as-relations-deteriorate",
-      "publishedAt": "Tue, 25 Aug 2026 18:55:27 -0400",
-      "snippet": "Canada imposed retaliatory tariffs against the United States as the two neighbors slide toward an all-out trade war. The tariffs will hit a range of U.S. products, from industrial goods to everyday items. At the same time, President Trump is threatening Canada with even steeper t",
+      "title": "Wall of mud and debris floods communities in Nepal and Tibet",
+      "link": "https://www.pbs.org/newshour/show/wall-of-mud-and-debris-floods-communities-in-nepal-and-tibet",
+      "publishedAt": "Wed, 26 Aug 2026 18:50:35 -0400",
+      "snippet": "A devastating flood in Nepal and Tibet has left a trail of death and destruction. Torrential rains sent a wall of mud and debris crashing through communities with little warning. Geoff Bennett reports.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Canadian trade minister says reaching deal with U.S. in best interest for both countries",
-      "link": "https://www.pbs.org/newshour/show/canadian-trade-minister-says-reaching-deal-with-u-s-in-best-interest-for-both-countries",
-      "publishedAt": "Tue, 25 Aug 2026 18:52:52 -0400",
-      "snippet": "To discuss the trade war and deteriorating relations between the U.S. and Canada, Amna Nawaz spoke with Canadian trade representative Dominic LeBlanc, a central figure in negotiations with the United States.",
+      "title": "News Wrap: States sue USPS, challenging Trump's order on mail-in voting",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-states-sue-usps-challenging-trumps-order-on-mail-in-voting",
+      "publishedAt": "Wed, 26 Aug 2026 18:45:22 -0400",
+      "snippet": "In our news wrap Wednesday, Democratic-controlled states filed a new lawsuit against the U.S. Postal Service, challenging President Trump's executive order on mail-in voting, Iran says it would bar all military vessels from passing through the Strait of Hormuz as part of a potent",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: 2 unvaccinated people die from measles in Pennsylvania",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-2-unvaccinated-people-die-from-measles-in-pennsylvania",
-      "publishedAt": "Tue, 25 Aug 2026 18:49:25 -0400",
-      "snippet": "In our news wrap Tuesday, two unvaccinated people in Lancaster County, Pennsylvania, have died from measles, the Trump administration is threatening to demolish the Kennedy Center if its plans to renovate the arts center are not allowed to proceed and a federal judge rejected a b",
+      "title": "How data centers became a major issue in the midterms",
+      "link": "https://www.pbs.org/newshour/show/how-data-centers-became-a-major-issue-in-the-midterms",
+      "publishedAt": "Wed, 26 Aug 2026 18:40:01 -0400",
+      "snippet": "While there are many issues dividing voters this midterm season, one seems to be uniting them: opposition to AI data centers. Candidates who've taken notice are racing to shape policy around these centers, which could be a defining issue in some races. Lisa Desjardins discussed w",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Constitutional law professor explains Supreme Court's ruling on mail-in voting",
-      "link": "https://www.pbs.org/newshour/show/constitutional-law-professor-explains-supreme-courts-ruling-on-mail-in-voting",
-      "publishedAt": "Tue, 25 Aug 2026 18:45:45 -0400",
-      "snippet": "The Supreme Court on Monday issued an emergency order that allows the Trump administration to move forward, for now, with plans to restrict mail-in voting ahead of the midterm elections in November. Opponents say it will bring chaos to the election process only days before ballot",
+      "title": "Custody fight erupts after surrogate refuses abortion for baby with heart condition",
+      "link": "https://www.pbs.org/newshour/show/custody-fight-erupts-after-surrogate-refuses-abortion-for-baby-with-heart-condition",
+      "publishedAt": "Wed, 26 Aug 2026 18:35:02 -0400",
+      "snippet": "This week, a Texas court heard arguments in a legal fight between a California couple and their surrogate over a newborn with a serious heart condition. The case has drawn the attention of anti-abortion activists pushing for new restrictions on surrogacy. Amna Nawaz discussed the",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "New study reveals widespread signs of brain trauma among former NFL players",
-      "link": "https://www.pbs.org/newshour/show/new-study-reveals-widespread-signs-of-brain-trauma-among-former-nfl-players",
-      "publishedAt": "Tue, 25 Aug 2026 18:40:59 -0400",
-      "snippet": "At least one in four NFL players has CTE when they die, according to a new study that examined the brains of former pro players. CTE is a brain disease thought to be caused by years of sustained head trauma and can only be diagnosed after an autopsy of the brain. Amna Nawaz spoke",
+      "title": "In one of the nation's hottest cities, bags of ice are helping save lives",
+      "link": "https://www.pbs.org/newshour/show/how-bags-of-ice-are-helping-save-lives-in-phoenix",
+      "publishedAt": "Wed, 26 Aug 2026 18:30:03 -0400",
+      "snippet": "Extreme heat is the deadliest weather-related threat in the U.S. In Phoenix, heat kills more people than homicides each year. So the city is turning to an unlikely lifesaver: bags of ice. And the fire department is creating a new model in the battle against heatstroke. For our se",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "A look at the devastating impact of USAID cuts in rural Afghanistan",
-      "link": "https://www.pbs.org/newshour/show/a-look-at-the-devastating-impact-of-usaid-cuts-in-rural-afghanistan",
-      "publishedAt": "Tue, 25 Aug 2026 18:35:51 -0400",
-      "snippet": "It's been 18 months since the Trump administration made cuts to foreign aid. One of the countries hardest-hit is Afghanistan. The five years since the U.S. withdrawal have been grim for the people there, and Refugees International attributes over 160 deaths during the last 18 mon",
+      "title": "Army to build microreactors at 5 bases as U.S. seeks to ramp up nuclear power",
+      "link": "https://www.pbs.org/newshour/nation/army-to-build-microreactors-at-5-bases-as-u-s-seeks-to-ramp-up-nuclear-power",
+      "publishedAt": "Wed, 26 Aug 2026 18:27:58 -0400",
+      "snippet": "Five companies selected by the Army will be awarded up to $2.2 billion in total over five years to own, construct and operate the microreactors, if they hit set milestones along the way for their performance.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Remembering Dolly Parton, whose artistry and generosity touched generations",
-      "link": "https://www.pbs.org/newshour/show/remembering-dolly-parton-whose-artistry-and-generosity-touched-generations",
-      "publishedAt": "Tue, 25 Aug 2026 18:30:37 -0400",
-      "snippet": "The world is mourning the passing of the queen of country, Dolly Parton. Her enormous legacy spans not only music, but the world of movies and entertainment, health care, philanthropy and education. Amna Nawaz takes a look at Parton's extraordinary life.",
+      "title": "Target faces renewed backlash after selling a Halloween costume with 'minstrel show features'",
+      "link": "https://www.pbs.org/newshour/nation/target-faces-renewed-backlash-after-selling-a-halloween-costume-with-minstrel-show-features",
+      "publishedAt": "Wed, 26 Aug 2026 18:26:07 -0400",
+      "snippet": "This incident comes as Target's sales are rebounding after previous controversies and a rollback of diversity efforts.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Dolly Parton's greatest songs, and the stories behind them",
-      "link": "https://www.pbs.org/newshour/arts/dolly-partons-greatest-songs-and-the-stories-behind-them",
-      "publishedAt": "Tue, 25 Aug 2026 18:23:07 -0400",
-      "snippet": "Dolly Parton was more than a musician, actor, author, philanthropist, or theme-park entrepreneur. Parton, who died Tuesday at age 80, occupied a space in our global cultural imagination — a figure of American mythology, someone best described as larger-than-life and then a little",
+      "title": "Trump faces backlash from ranchers over plan to import beef",
+      "link": "https://www.pbs.org/newshour/show/trump-faces-backlash-from-ranchers-over-plan-to-import-beef",
+      "publishedAt": "Wed, 26 Aug 2026 18:25:33 -0400",
+      "snippet": "Backlash is mounting over President Trump's plan to pause tariffs on imported ground beef. The announcement has drawn sharp criticism from both ranchers and Republican politicians, who say the cheap imports will undercut struggling American producers and weaken the industry in th",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Rollins defends Trump's trade war with Canada while acknowledging 'concern' from farmers",
-      "link": "https://www.pbs.org/newshour/politics/watch-rollins-defends-trumps-trade-war-with-canada-while-acknowledging-concern-from-farmers",
-      "publishedAt": "Tue, 25 Aug 2026 18:10:57 -0400",
-      "snippet": "Agriculture Secretary Brooke Rollins acknowledged American farmers' concerns over the escalating trade war with Canada Tuesday but insisted the United States will come out on top.",
+      "title": "Maui residents face health struggles 3 years after wildfires",
+      "link": "https://www.pbs.org/newshour/show/maui-residents-face-health-struggles-3-years-after-wildfires",
+      "publishedAt": "Wed, 26 Aug 2026 18:20:53 -0400",
+      "snippet": "Just over three years ago, the deadliest U.S. wildfire in more than a century devastated the Hawaiian island of Maui. New research suggests the toll of the disaster may be far greater than the lives lost and property burned. Stephanie Sy reports on a landmark study aiming to trac",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "UN and Red Cross step up call for international rules on 'killer robot' weapons systems",
-      "link": "https://www.pbs.org/newshour/world/un-and-red-cross-step-up-call-for-international-rules-on-killer-robot-weapons-systems",
-      "publishedAt": "Tue, 25 Aug 2026 17:40:34 -0400",
-      "snippet": "The United Nations and the International Committee of the Red Cross on Tuesday ratcheted up a joint call for countries to adopt bans and restrictions on use of autonomous weapons systems — often known as \"killer robots\" — warning that \"the risks have intensified.\"",
+      "title": "Martina McBride shares her favorite Dolly Parton memories",
+      "link": "https://www.pbs.org/newshour/show/martina-mcbride-shares-her-favorite-dolly-parton-memories",
+      "publishedAt": "Wed, 26 Aug 2026 18:15:37 -0400",
+      "snippet": "Tributes continued to pour in for Dolly Parton a day after her death. Singer-songwriter Martina McBride, named female vocalist of the year four times by the Country Music Association and three times by the Academy of Country Music, joined Amna Nawaz to discuss her friend and fell",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "For families of Pan Am 103 victims, delayed trial prolongs nearly 4-decade wait for justice",
-      "link": "https://www.pbs.org/newshour/nation/for-families-of-pan-am-103-victims-delayed-trial-prolongs-nearly-4-decade-wait-for-justice",
-      "publishedAt": "Tue, 25 Aug 2026 17:13:14 -0400",
-      "snippet": "The monumental collection of 76 statues in Suse Lowenstein's backyard captures the moment she and other women learned their loved ones were killed when Pan Am Flight 103 was blown out of the sky over Lockerbie, Scotland, in 1988.",
+      "title": "U.S. declares drought disaster for parts of Puerto Rico after driest month on record for San Juan",
+      "link": "https://www.pbs.org/newshour/nation/u-s-declares-drought-disaster-for-parts-of-puerto-rico-after-driest-month-on-record-for-san-juan",
+      "publishedAt": "Wed, 26 Aug 2026 17:16:00 -0400",
+      "snippet": "July was the driest month on record for San Juan in more than 120 years and the second hottest for the island's capital.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Kurdish-led group in Syria says it has dissolved after merging with the army",
-      "link": "https://www.pbs.org/newshour/world/kurdish-led-group-in-syria-says-it-has-dissolved-after-merging-with-the-army",
-      "publishedAt": "Tue, 25 Aug 2026 16:38:47 -0400",
-      "snippet": "The commander of the Kurdish-led Syrian Democratic Forces on Tuesday announced the official dissolution of the group, which once controlled a de facto autonomous zone in Syria's northeast.",
+      "title": "Sal Veder, Pulitzer Prize-winning photographer who shot iconic photo of soldier returning from Vietnam, dies at age 99",
+      "link": "https://www.pbs.org/newshour/nation/sal-veder-pulitzer-prize-winning-photographer-who-shot-iconic-photo-of-soldier-returning-from-vietnam-dies-at-age-99",
+      "publishedAt": "Wed, 26 Aug 2026 16:55:19 -0400",
+      "snippet": "The famous photo shows Lt. Col. Robert L. Stirm reuniting with his family in March 1973 at Travis Air Force Base after being a prisoner of war in Vietnam.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "A tornado tears through a village in southern France, wrecking 300 homes",
-      "link": "https://www.pbs.org/newshour/world/a-tornado-tears-through-a-village-in-southern-france-wrecking-300-homes",
-      "publishedAt": "Tue, 25 Aug 2026 16:19:10 -0400",
-      "snippet": "A tornado ripped through a small village in southern France, damaging about 300 homes, destroying several cars and injuring dozens of people, authorities said Tuesday.",
+      "title": "Judge denies Minnesota bid to extradite ICE officer from Texas, paving way for his release from custordy",
+      "link": "https://www.pbs.org/newshour/nation/judge-denies-minnesota-bid-to-extradite-ice-officer-from-texas-paving-way-for-his-release-from-custordy",
+      "publishedAt": "Wed, 26 Aug 2026 15:45:06 -0400",
+      "snippet": "Minnesota officials believe Castro could flee to Mexico, citing calls he made from jail to a woman in Mexico, talking \"about marrying her and buying a house in Mexico when he is released,\" according to the lawsuit.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Putin decree lets Russia take control of infrastructure damaged in Ukrainian drone attacks",
-      "link": "https://www.pbs.org/newshour/world/putin-decree-lets-russia-take-control-of-infrastructure-damaged-in-ukrainian-drone-attacks",
-      "publishedAt": "Tue, 25 Aug 2026 16:01:58 -0400",
-      "snippet": "Russian President Vladimir Putin has decreed that the state can temporarily seize control of critical infrastructure facilities if private owners fail to protect them from Ukrainian drone attacks or rebuild them after the strikes.",
+      "title": "What the Lindsay Clancy trial reveals about a broken postpartum mental health system",
+      "link": "https://www.pbs.org/newshour/nation/what-the-lindsay-clancy-trial-reveals-about-a-broken-postpartum-mental-health-system",
+      "publishedAt": "Wed, 26 Aug 2026 15:29:47 -0400",
+      "snippet": "Lindsay Clancy's murder trial hasn't just dominated headlines for its tragic story and true crime fascination. For many, it has prompted a groundswell of recognition and outrage around the barriers women face when seeking care, the lack of research on postpartum mental health con",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Evacuations ordered in rural Texas as wildfire mushrooms within hours",
-      "link": "https://www.pbs.org/newshour/nation/evacuations-ordered-in-rural-texas-as-wildfire-mushrooms-within-hours",
-      "publishedAt": "Tue, 25 Aug 2026 15:32:55 -0400",
-      "snippet": "Evacuations were being ordered Tuesday in rural Texas where a wildfire has ballooned in size, burning through ranchland and forcing schools to delay or cancel classes.",
+      "title": "Trump-endorsed Mike Mazzei wins GOP nomination for Oklahoma governor",
+      "link": "https://www.pbs.org/newshour/politics/trump-endorsed-mike-mazzei-wins-gop-nomination-for-oklahoma-governor",
+      "publishedAt": "Wed, 26 Aug 2026 14:57:07 -0400",
+      "snippet": "Tulsa businessman Mike Mazzei narrowly won the Republican nomination for Oklahoma governor on Tuesday after getting a boost from President Donald Trump's social media attacks on Mazzei's rival, state Attorney General Gentner Drummond.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Watchdog files bar complaint against Pirro over efforts to indict Democrats for video urging troops to resist illegal orders",
-      "link": "https://www.pbs.org/newshour/nation/watchdog-files-bar-complaint-against-pirro-over-efforts-to-indict-democrats-for-video-urging-troops-to-resist-illegal-orders",
-      "publishedAt": "Tue, 25 Aug 2026 14:27:24 -0400",
-      "snippet": "The center claims Pirro and her subordinates abused their prosecutorial powers to seek baseless indictments against President Donald Trump's perceived political enemies.",
+      "title": "Zelenskyy gives Ukraine's Order of Freedom award to Musk for Starlink's role in war effort",
+      "link": "https://www.pbs.org/newshour/world/zelenskyy-gives-ukraines-order-of-freedom-award-to-musk-for-starlinks-role-in-war-effort",
+      "publishedAt": "Wed, 26 Aug 2026 14:09:37 -0400",
+      "snippet": "Starlink has become deeply embedded in Ukraine's military operations, with commanders and soldiers relying on satellite connectivity to communicate and coordinate operations.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Dolly Parton, beloved music star, actor and philanthropist, dies at 80",
-      "link": "https://www.pbs.org/newshour/arts/dolly-parton-beloved-music-star-actor-and-philanthropist-dies-at-80",
-      "publishedAt": "Tue, 25 Aug 2026 14:15:46 -0400",
-      "snippet": "Dolly Parton, the country music icon whose soaring vibrato vocals, poignant songwriting and sparkling costumes defined her rise from a log cabin in the Tennessee mountains to the height of stardom and acclaim, has died.",
+      "title": "Democratic-backed Maryland redistricting amendment can't go on November ballot, court rules",
+      "link": "https://www.pbs.org/newshour/politics/democratic-backed-maryland-redistricting-amendment-cant-go-on-november-ballot-court-rules",
+      "publishedAt": "Wed, 26 Aug 2026 13:46:15 -0400",
+      "snippet": "A Maryland court has ruled against a proposed constitutional amendment that could have paved the way for Democrats to redraw the state's congressional districts ahead of the 2028 elections.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "ICE arrests jump to nearly 50,000 in July, highest monthly total of Trump's crackdown",
-      "link": "https://www.pbs.org/newshour/nation/ice-arrests-jump-to-nearly-50000-in-july-highest-monthly-total-of-trumps-crackdown",
-      "publishedAt": "Tue, 25 Aug 2026 13:38:24 -0400",
-      "snippet": "Texas and Florida accounted for nearly 20,000 of the July arrests. The agency has been bolstered by billions of dollars from Congress and has hired 12,000 new deportation officers and agents.",
+      "title": "The Kremlin says the CIA director held talks in Moscow with his intelligence counterparts",
+      "link": "https://www.pbs.org/newshour/politics/the-kremlin-says-the-cia-director-held-talks-in-moscow-with-his-intelligence-counterparts",
+      "publishedAt": "Wed, 26 Aug 2026 13:01:15 -0400",
+      "snippet": "The Kremlin said Wednesday that CIA Director John Ratcliffe held talks in Moscow with his intelligence counterparts, a rare and secretive visit at a time when relations with Washington remain strained over Russia's war in Ukraine.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "With gas stuck above $4, U.S. consumer confidence falls to lowest level in 7 months",
-      "link": "https://www.pbs.org/newshour/economy/with-gas-stuck-above-4-u-s-consumer-confidence-falls-to-lowest-level-in-7-months",
-      "publishedAt": "Tue, 25 Aug 2026 13:26:05 -0400",
-      "snippet": "The Conference Board said Tuesday that its consumer confidence index dipped to 89.4 in August from 90.2 in July.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Australia's music industry bans AI-generated tracks from official charts",
-      "link": "https://www.pbs.org/newshour/arts/australias-music-industry-bans-ai-generated-tracks-from-official-charts",
-      "publishedAt": "Tue, 25 Aug 2026 12:44:27 -0400",
-      "snippet": "Australia's recorded music industry will bar tracks wholly generated by artificial intelligence from official charts as burgeoning generative technologies threaten artists' livelihoods, a representative said on Tuesday.",
+      "title": "Meta reaches $17 billion settlement with states in landmark trial over teen social media addiction",
+      "link": "https://www.pbs.org/newshour/nation/meta-reaches-17-billion-settlement-with-states-in-landmark-trial-over-teen-social-media-addiction",
+      "publishedAt": "Wed, 26 Aug 2026 12:42:52 -0400",
+      "snippet": "Meta has agreed to pay $17 billion and add stronger child-safety measures to its Facebook and Instagram platforms to end a landmark trial over teen social media addiction and settle claims filed by 47 states, state attorneys general announced Wednesday.",
       "tier": 1
     },
     {
@@ -436,6 +436,94 @@
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "France: Car rams crowd at bus stop in Caen",
+      "link": "https://www.dw.com/en/france-car-rams-crowd-at-bus-stop-in-caen/a-78518309?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "At least one person was killed and several injured when a car drove into a bus shelter in the northern French city of Caen.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine airstrike on bus in Russian-occupied Luhansk kills 9",
+      "link": "https://www.dw.com/en/ukraine-airstrike-on-bus-in-russian-occupied-luhansk-kills-9/a-78516673?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russian authorities in the occupied territory say the drone attack caused injuries. Kyiv also destroyed another Wildberries warehouse.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "No, this wasn&apos;t a \"completely normal summer\", despite far-right climate denial",
+      "link": "https://www.dw.com/en/no-this-wasn-t-a-completely-normal-summer-despite-far-right-climate-denial/a-78513682?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Some political messaging denies the role of human-caused climate change in this summer&apos;s extreme heat. The science tells a different story.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Tim Curry, of &apos;The Rocky Horror Picture Show,&apos; dies at 80",
+      "link": "https://www.dw.com/en/tim-curry-of-the-rocky-horror-picture-show-dies-at-80/a-78514945?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The gender-bending role as Dr. Frank-N-Furter put Curry on the map in 1975. He then went on to play a number of villainous roles like Gomez Addams, Pennywise and Bill Sikes, but also Mozart and William Shakespeare.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "This extremely successful author polarizes German readers",
+      "link": "https://www.dw.com/en/this-extremely-successful-author-polarizes-german-readers/a-78500452?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "She&apos;s young and she says what she thinks: Caroline Wahl is topping Germany&apos;s bestseller lists with her novels. But she has also faced public backlash.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Saxony-Anhalt: an AfD stronghold in Germany&apos;s east",
+      "link": "https://www.dw.com/en/saxony-anhalt-an-afd-stronghold-in-germany-s-east/a-78482588?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Saxony-Anhalt is a structurally weak, predominantly rural state. Could it become the first German state to be governed by the far-right AfD?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Frankfurt Airport workers die after malaria infection",
+      "link": "https://www.dw.com/en/frankfurt-airport-workers-die-after-malaria-infection/a-78512056?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "An unusual cluster of malaria cases at Frankfurt Airport infected six employees, two fatally. Mosquitos brought in on an aircraft are thought to have caused the infections.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Meta settles in US states lawsuit on teen user addiction",
+      "link": "https://www.dw.com/en/meta-settles-in-us-states-lawsuit-on-teen-user-addiction/a-78512157?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Meta has agreed to pay what could amount to billions of dollars and to implement platform usage limitations on young users in a lawsuit brought by US states. The challenge revolved around addiction issues and overuse.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Reports: UEFA backs off FIFA boycott threat",
+      "link": "https://www.dw.com/en/reports-uefa-backs-off-fifa-boycott-threat/a-78511519?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "UEFA is reportedly set to withdraw a threat to boycott FIFA tournaments over a plan to partially privatize football tournaments. The Under-20 Women&apos;s World Cup is to be hosted by Poland next month.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Could Syria become the focus of an Israeli-Turkish conflict?",
+      "link": "https://www.dw.com/en/could-syria-become-the-focus-of-an-israeli-turkish-conflict/a-78507781?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "An Israeli attack on a Syrian military airfield just recently demonstrated once again that Syria is becoming a key battleground for the rivalry between regional powers. At the forefront: Israel and Turkey.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Zambia after the polls: A test for democracy in Africa",
+      "link": "https://www.dw.com/en/zambia-after-the-polls-a-test-for-democracy-in-africa/a-78509362?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Zambia&apos;s democratic institutions are under scrutiny, as the opposition continues to dispute the election results and courts remain closed. Weeks after the election, Zambia’s election story might be far from over.",
       "tier": 2
     },
     {
@@ -467,7 +555,7 @@
       "title": "Deadly flash flood wipes away villages in Nepal, Tibet",
       "link": "https://www.dw.com/en/deadly-flash-flood-wipes-away-villages-in-nepal-tibet/a-78505576?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Hundreds of people were reported missing, including 291 international tourists. Rescue helicopters have been unable to land in affected areas due to high floodwaters.",
+      "snippet": "Dozens have died and hundreds were reported missing, including 341 foreign tourists. Rescue helicopters have been unable to land in affected areas due to high floodwaters.",
       "tier": 2
     },
     {
@@ -488,10 +576,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "NYC: Mamdani opposes rally with Hindu nationalist leader",
-      "link": "https://www.dw.com/en/nyc-mamdani-opposes-rally-with-hindu-nationalist-leader/a-78502850?maca=en-rss-en-top-1022-rdf",
+      "title": "Why Mamdani opposes RSS chief Mohan Bhagwat&apos;s NYC event",
+      "link": "https://www.dw.com/en/why-mamdani-opposes-rss-chief-mohan-bhagwat-s-nyc-event/a-78502850?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "NYC Mayor Zohran Mamdani voiced opposition to an upcoming event featuring RSS chief Mohan Bhagwat, calling the Hindu nationalist group&apos;s ideology \"exclusionary\" while acknowledging the city can&apos;t block a private event.",
+      "snippet": "Zohran Mamdani called the Hindu nationalist group&apos;s ideology \"exclusionary\" ahead of Mohan Bhagwat&apos;s New York event.&#10;But can the mayor do anything to stop it?",
       "tier": 2
     },
     {
@@ -500,94 +588,6 @@
       "link": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-at-least-14-infants/a-78503056?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "A fire broke out in the third floor of a maternity ward in Islamabad. Pakistani Prime Minister Shehbaz Sharif has called for an immediate investigation into the tragedy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why landmines are back in force despite international bans",
-      "link": "https://www.dw.com/en/why-landmines-are-back-in-force-despite-international-bans/a-78501702?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Russia&apos;s war on Ukraine has prompted several European countries to abandon a landmark 1990s landmine treaty. DW examines what is at stake.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US military kills 4 in Caribbean boat strike",
-      "link": "https://www.dw.com/en/us-military-kills-4-in-caribbean-boat-strike/a-78502726?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US military killed four people in a strike on a suspected drug-smuggling boat in the Caribbean, the latest in a campaign that has killed more than 200 people and drawn condemnation from rights groups.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "China: Dissident artist jailed for satirical Mao sculptures",
-      "link": "https://www.dw.com/en/china-dissident-artist-jailed-for-satirical-mao-sculptures/a-78502724?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Sculptor Gao Zhen was charged under China&apos;s \"Law on the Protection ⁠of Heroes ​and Martyrs.\" His supporters have called for his immediate release.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Haiti: UN chief condemns Haiti attack that killed 47",
-      "link": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The UN Secretary General has condemned a violent attack that left at least 47 dead and saw over 50 more kidnapped.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Remembering Dolly Parton: 8 facts about the icon",
-      "link": "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Dolly Parton was one of the world&apos;s most successful artists. On Tuesday, her family announced that she passed away at 80. Here are some important and extraordinary facts about the country music superstar.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US country music legend Dolly Parton dies aged 80",
-      "link": "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Representatives of the country music legend told US media that Dolly Parton died after a \"brief battle with cancer.\" Parton&apos;s career spans more than half a century and includes a wide array of smash hits.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Grain exports stall as Ukraine steps up attacks on Russia&apos;s Black Sea ports",
-      "link": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ukrainian drone strikes on Russian infrastructure on the Black Sea are disrupting grain and oil exports from the port of Novorossiysk and other key hubs.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "CIA director in Moscow for meetings — US media reports",
-      "link": "https://www.dw.com/en/cia-director-in-moscow-for-meetings-us-media-reports/a-78500042?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US media outlets say John Ratcliffe was in Russia to attend meetings. Flight tracking websites had earlier detected the arrival of a US military transport plane at Moscow&apos;s Vnukovo Airport.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Houthi strikes threaten to pull Yemen back into full-scale war",
-      "link": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Iran-backed Houthis are using regional warfare to increase pressure on Saudi Arabia, while their attacks risk reopening Yemen&apos;s own conflict and disrupting shipping in the Red Sea.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Canada announces retaliatory tariffs on US goods",
-      "link": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Canada&apos;s government said it would impose tariffs on some 700 US goods as of next month, amid the latest trade spat between Donald Trump and Mark Carney.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Schalke coach looks to Bosnia bond in Bundesliga return",
-      "link": "https://www.dw.com/en/schalke-coach-looks-to-bosnia-bond-in-bundesliga-return/a-78486008?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After three seasons in the second division, Schalke are back in the Bundesliga. Just a year ago, few would have guessed that their revival would largely be &apos;Made in Bosnia.&apos;",
       "tier": 2
     }
   ]
