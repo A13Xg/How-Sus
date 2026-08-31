@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T12:35:39.698Z",
+  "generatedAt": "2026-08-31T01:08:17.268Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,34 +32,74 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Iceland votes against restarting talks on joining EU",
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 20:02:43 GMT",
+      "snippet": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 23:53:03 GMT",
+      "snippet": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Iceland votes against restarting EU membership talks",
       "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 10:49:11 GMT",
-      "snippet": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
+      "publishedAt": "Sun, 30 Aug 2026 16:11:44 GMT",
+      "snippet": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 11:25:11 GMT",
+      "publishedAt": "Sun, 30 Aug 2026 17:49:31 GMT",
       "snippet": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
-      "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 00:17:25 GMT",
-      "snippet": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 23:52:27 GMT",
+      "snippet": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "WhatsApp chat used to send cash for crime and extremism",
-      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 04:59:56 GMT",
-      "snippet": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 18:53:53 GMT",
+      "snippet": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Zambian opposition leader charged with treason",
+      "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 17:06:15 GMT",
+      "snippet": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia says it helped to repel Niger attempted coup",
+      "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 16:33:17 GMT",
+      "snippet": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "British woman killed in stabbing at German railway station",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 16:11:46 GMT",
+      "snippet": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
       "tier": 1
     },
     {
@@ -72,26 +112,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Zambian opposition leader charged with treason",
-      "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 09:08:23 GMT",
-      "snippet": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
       "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 29 Aug 2026 17:52:42 GMT",
       "snippet": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 29 Aug 2026 03:54:11 GMT",
-      "snippet": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
       "tier": 1
     },
     {
@@ -112,14 +136,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 29 Aug 2026 00:32:17 GMT",
-      "snippet": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 30 Aug 2026 04:01:02 GMT",
@@ -136,58 +152,74 @@
     },
     {
       "source": "BBC World",
-      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
-      "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 29 Aug 2026 08:48:34 GMT",
-      "snippet": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
+      "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+      "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 16:48:13 GMT",
+      "snippet": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 13:50:34 GMT",
-      "snippet": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
+      "title": "They fell in love - then had to check they weren't brother and sister",
+      "link": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 23:03:51 GMT",
+      "snippet": "A French couple - both conceived by sperm donors - wanted children. But with home DNA tests illegal, how could they be sure they were not related?",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 19:05:23 GMT",
-      "snippet": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
+      "title": "WhatsApp chat used to launder cash for crime and extremism",
+      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 04:59:56 GMT",
+      "snippet": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Canada poaches dozens of top US researchers for its universities",
-      "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 23:47:38 GMT",
-      "snippet": "Researchers in fields like climate and medicine are being lured north by new research funding.",
+      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 18:30:32 GMT",
+      "snippet": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Berlin is being blackmailed by hackers, mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 21:29:01 GMT",
-      "snippet": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 29 Aug 2026 01:14:13 GMT",
+      "snippet": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 17:29:16 GMT",
-      "snippet": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
+      "source": "NPR News",
+      "title": "Families of pilgrims likely caught in floods are desperate for news from Nepal",
+      "link": "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal",
+      "publishedAt": "Sun, 30 Aug 2026 19:32:39 -0400",
+      "snippet": "Four days after catastrophic floods wiped out villages along the Nepal-China border, thousands are still missing. Families look for answers but hear nothing.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Greenland says findings on genocide allegation not final",
-      "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 28 Aug 2026 19:57:50 GMT",
-      "snippet": "Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s.",
+      "source": "NPR News",
+      "title": "Canada claps back at Trump&apos;s efforts to rename Lake Ontario as &apos;Lake America&apos;",
+      "link": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+      "publishedAt": "Sun, 30 Aug 2026 10:36:44 -0400",
+      "snippet": "Ontario Premier Doug Ford has unveiled a giant billboard reading: \"Lake Ontario — Now and Always.\" But tech giant Google has said it is renaming the lake for U.S. users, as President Trump demanded.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
+      "link": "https://www.npr.org/2026/08/30/nx-s1-5945683/exclusive-meet-the-inaugural-winner-of-fat-marmot-week",
+      "publishedAt": "Sun, 30 Aug 2026 08:45:00 -0400",
+      "snippet": "Dawn was crowned fattest marmot by popular vote.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Politics chat: more tariffs, mail-in voting order, Kushner-Jeffries meeting",
+      "link": "https://www.npr.org/2026/08/30/nx-s1-5948115/politics-chat-more-tariffs-mail-in-voting-order-kushner-jeffries-meeting",
+      "publishedAt": "Sun, 30 Aug 2026 08:02:26 -0400",
+      "snippet": "Real economic sanctions on Canada and economic threats to countries trading with Iran may work against Republicans in the midterm elections.",
       "tier": 1
     },
     {
@@ -200,7 +232,7 @@
     },
     {
       "source": "NPR News",
-      "title": "NASA has successfully launched its newest space telescope",
+      "title": "&apos;A glorious dawn launch&apos;: NASA&apos;s newest space telescope has left the Earth",
       "link": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
       "publishedAt": "Sun, 30 Aug 2026 06:30:00 -0400",
       "snippet": "The tour-bus-sized telescope aims to unravel cosmic mysteries and identify more than 100,000 planets beyond our solar system.",
@@ -239,35 +271,99 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
-      "link": "https://www.npr.org/2026/08/30/nx-s1-5949230/trump-administration-deports-afghan-central-african-republic",
-      "publishedAt": "Sun, 30 Aug 2026 04:32:13 -0400",
-      "snippet": "His family in Afghanistan had received threats from the Taliban because of the work performed by his brothers in support of the U.S. military.",
+      "source": "PBS Headlines",
+      "title": "Lake Ontario now called Lake America on Google Maps for U.S. users after Trump ordered name change",
+      "link": "https://www.pbs.org/newshour/nation/lake-ontario-now-called-lake-america-on-google-maps-for-u-s-users-after-trump-ordered-name-change",
+      "publishedAt": "Sun, 30 Aug 2026 18:38:24 -0400",
+      "snippet": "Google said in a blog post that the decision was based on its practice of using names assigned by the U.S. Geographic Names Information System, also known as GNIS.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "AI chatbots may be better than search engines in guarding against foreign propaganda",
-      "link": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
-      "publishedAt": "Sun, 30 Aug 2026 03:00:00 -0400",
-      "snippet": "In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared worse.",
+      "source": "PBS Headlines",
+      "title": "U.S. plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP",
+      "link": "https://www.pbs.org/newshour/world/u-s-plans-to-sanction-another-bank-in-effort-to-clamp-down-on-iran-transactions-bessent-tells-ap",
+      "publishedAt": "Sun, 30 Aug 2026 18:28:00 -0400",
+      "snippet": "\"This is going to be financial violence if we have to,\" Bessent said in the interview. \"We are showing people that we know who you are, you know who you are, and this has got to stop.\"",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Icelanders vote &apos;no&apos; to talks aimed at joining the EU in close referendum",
-      "link": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote",
-      "publishedAt": "Sat, 29 Aug 2026 21:47:44 -0400",
-      "snippet": "The vote against the EU led by 52.8 percent with nearly all votes counted, according to RÚV , Iceland&apos;s broadcaster.",
+      "source": "PBS Headlines",
+      "title": "Why Republicans are focusing on transgender issues in competitive 2026 campaigns",
+      "link": "https://www.pbs.org/newshour/politics/why-republicans-are-focusing-on-transgender-issues-in-competitive-2026-campaigns",
+      "publishedAt": "Sun, 30 Aug 2026 18:05:11 -0400",
+      "snippet": "Campaign ads in several midterm elections portray Democrats as \"radical\" on transgender youth medical care and sports participation. Republicans are leaning on a strategy that proved successful in 2024.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
-      "link": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
-      "publishedAt": "Sat, 29 Aug 2026 17:09:14 -0400",
-      "snippet": "The controversial commentator, who criticized feminism and Islam, was an enthusiastic supporter of President Trump&apos;s immigration crackdown. ICE says he was an \"illegal alien.\"",
+      "source": "PBS Headlines",
+      "title": "U.S. strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
+      "link": "https://www.pbs.org/newshour/world/ap-report-u-s-forces-strike-iranian-rocket-launchers-on-the-strait-of-hormuz-in-first-military-action-in-weeks",
+      "publishedAt": "Sun, 30 Aug 2026 17:25:40 -0400",
+      "snippet": "The fighting comes just days after the Trump administration said it would turn its focus to increasing economic pressure — rather than military action — to try to end its war with Iran.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Olivia Rodrigo's festival unites women and girls behind nonprofits promoting their well-being",
+      "link": "https://www.pbs.org/newshour/arts/olivia-rodrigos-festival-unites-women-and-girls-behind-nonprofits-promoting-their-well-being",
+      "publishedAt": "Sun, 30 Aug 2026 16:00:55 -0400",
+      "snippet": "All-star benefit concerts have proven popular for driving millions of dollars toward everything from refugee relief to pandemic response. But it's been decades since a young artist with Rodrigo's following brought her peers together for gender justice.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Karina becomes a Pacific hurricane well away from land and is forecast to become a major storm",
+      "link": "https://www.pbs.org/newshour/nation/tropical-storm-karina-strengthens-into-a-hurricane-in-the-pacific-could-be-a-major-storm",
+      "publishedAt": "Sun, 30 Aug 2026 15:27:19 -0400",
+      "snippet": "While Karina was expected to stay well away from land, swells from the storm were likely to cause dangerous surf and rip current conditions along parts of southwest Mexico and the Baja California Peninsula, the hurricane center said.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Lake Ontario to 'Lake America': Who gets to decide what goes on maps?",
+      "link": "https://www.pbs.org/newshour/nation/lake-ontario-to-lake-america-who-gets-to-decide-what-goes-on-maps",
+      "publishedAt": "Sun, 30 Aug 2026 14:16:37 -0400",
+      "snippet": "A geographer explains the politics and procedures behind renaming American places.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Inside the 24-hour mutiny that threatened Niger's ruling junta",
+      "link": "https://www.pbs.org/newshour/world/inside-the-24-hour-mutiny-that-threatened-nigers-ruling-junta",
+      "publishedAt": "Sun, 30 Aug 2026 13:52:33 -0400",
+      "snippet": "The unrest culminated in the arrest or killing of dozens of soldiers, some of whom were paraded in front of the cameras live on state television.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "1 dead and 5 wounded in a shooting at a rave in Switzerland",
+      "link": "https://www.pbs.org/newshour/world/1-dead-and-5-wounded-in-a-shooting-at-a-rave-in-switzerland",
+      "publishedAt": "Sun, 30 Aug 2026 13:34:19 -0400",
+      "snippet": "Aargau cantonal police wrote earlier on X that a 22-year-old woman died of injuries at the scene. Four men and one woman, between 24 and 27 years old, were taken to the hospital with injuries ranging from minor to severe.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
+      "link": "https://www.pbs.org/newshour/world/nepal-warns-of-possible-fresh-flooding-as-communities-grapple-with-devastation",
+      "publishedAt": "Sun, 30 Aug 2026 11:58:55 -0400",
+      "snippet": "Flood warning notices were sent to people's phones early Sunday as rescue crews worked to clear a major highway connecting Kathmandu to one of the areas worst hit by Wednesday's catastrophic floods.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Ontario premier answers Trump's 'Lake America' with giant 'Lake Ontario' sign",
+      "link": "https://www.pbs.org/newshour/world/ontario-premier-answers-trumps-lake-america-with-giant-lake-ontario-sign",
+      "publishedAt": "Sun, 30 Aug 2026 11:37:07 -0400",
+      "snippet": "The 24-by-12-foot sign stands on 6-foot legs, putting its top about 18 feet above the ground — roughly two stories high.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "NASA's newest space telescope launches on a quest to explore the hidden universe",
+      "link": "https://www.pbs.org/newshour/science/nasas-newest-space-telescope-launches-on-a-quest-to-explore-the-hidden-universe",
+      "publishedAt": "Sun, 30 Aug 2026 11:23:02 -0400",
+      "snippet": "The bus-sized telescope — named after the late Nancy Grace Roman, NASA's first chief astronomer — will take more than three months to reach its destination.",
       "tier": 1
     },
     {
@@ -335,107 +431,51 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Russian strike on a Ukrainian warehouse kills 37 in the war's deadliest attack this year",
-      "link": "https://www.pbs.org/newshour/world/russian-strike-near-kyiv-kills-37-in-one-of-the-years-deadliest-attacks",
-      "publishedAt": "Sat, 29 Aug 2026 11:10:40 -0400",
-      "snippet": "The Friday night attack on the warehouse in Myla, a village in the Bucha district, came on the second of three days of nearly round-the-clock Russian strikes that have severely disrupted life in and around the Ukrainian capital.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump says U.S. has entered deal with Venezuela to control 65 billion barrels of its oil reserves",
-      "link": "https://www.pbs.org/newshour/politics/trump-says-u-s-has-entered-deal-with-venezuela-to-control-65-billion-barrels-of-its-oil-reserves",
-      "publishedAt": "Fri, 28 Aug 2026 19:35:32 -0400",
-      "snippet": "The announcement of the deal comes nearly nine months after the U.S. military at Trump's direction carried out an operation to capture Venezuela's president Nicolás Maduro and spirit him to the United States to face federal narcoterrorism and drug trafficking charges.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Devastating scale of Himalayan floods comes into focus as rescuers arrive",
-      "link": "https://www.pbs.org/newshour/show/devastating-scale-of-himalayan-floods-comes-into-focus-as-rescuers-arrive",
-      "publishedAt": "Fri, 28 Aug 2026 18:55:20 -0400",
-      "snippet": "Three days after a catastrophic wall of water, mud and rock tore through Nepal's Himalayan valleys, the scale of the disaster is still coming into focus. At least 579 people are now confirmed dead, nearly 2,000 remain missing, and the danger is not over. Authorities are closely w",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "NASA is preparing to launch the Nancy Grace Roman Space Telescope. Here's what to know",
-      "link": "https://www.pbs.org/newshour/science/nasa-is-preparing-to-launch-the-nancy-grace-roman-space-telescope-heres-what-to-know",
-      "publishedAt": "Fri, 28 Aug 2026 18:51:27 -0400",
-      "snippet": "NASA plans to soon launch a new space telescope that will survey a billion galaxies to trace how the universe evolved over time, all courtesy of America's spy program and decades of research into detector technology. Once in position, it will take data that astronomers hope will ",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "News Wrap: Friday marks 6 months since Iran war started",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-friday-marks-6-months-since-iran-war-started",
-      "publishedAt": "Fri, 28 Aug 2026 18:50:14 -0400",
-      "snippet": "In our news wrap Friday, it has been six months since the U.S. and Israel launched strikes on Iran, a conflict that President Trump said would last weeks, Trump honored the Artemis II crew with the Congressional Space Medal of Honor and Anthropic says it remains focused on workin",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Fed Chair Warsh not ruling out interest rate hike amid inflation concerns",
-      "link": "https://www.pbs.org/newshour/show/fed-chair-warsh-not-ruling-out-interest-rate-hike-amid-inflation-concerns",
-      "publishedAt": "Fri, 28 Aug 2026 18:45:12 -0400",
-      "snippet": "Federal Reserve Chair Kevin Warsh said there is still work to do on inflation. At the Fed's annual economic symposium in Jackson Hole, Wyoming, Warsh also said that although he is not committed to a rate hike, he is not ruling it out. Amna Nawaz discussed more with Nick Timiraos ",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Groundbreaking treatments and vaccines offer hope in fight against cancer",
-      "link": "https://www.pbs.org/newshour/show/groundbreaking-treatments-and-vaccines-offer-hope-in-fight-against-cancer",
-      "publishedAt": "Fri, 28 Aug 2026 18:40:50 -0400",
-      "snippet": "There have been several promising developments lately in cancer research and treatment, including a new drug approved by the FDA this week for advanced pancreatic cancer. William Brangham reports.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "National parks under strain from Trump's construction projects and political pressure",
-      "link": "https://www.pbs.org/newshour/show/national-parks-under-strain-from-trumps-construction-projects-and-political-pressure",
-      "publishedAt": "Fri, 28 Aug 2026 18:35:20 -0400",
-      "snippet": "Americans continue to flock to the national parks, with more than 320 million visitors in the last year alone. But that broad appeal is facing new political pressures, from orders to revise exhibits to President Trump's construction projects. Amna Nawaz discussed the state of nat",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Brooks and Capehart on Trump's 'forever trade war'",
-      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-forever-trade-war",
-      "publishedAt": "Fri, 28 Aug 2026 18:30:06 -0400",
-      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including President Trump's trade war and dispute with Canada, the legal fight over mail-in ballots, the public backlash to AI and data centers and the loss of Dolly P",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Riley Downing sings about the overlooked corners of American life in 'Landfill Poetry'",
-      "link": "https://www.pbs.org/newshour/show/riley-downing-sings-about-the-overlooked-corners-of-american-life-in-landfill-poetry",
-      "publishedAt": "Fri, 28 Aug 2026 18:25:50 -0400",
-      "snippet": "Riley Downing is a founding member of The Deslondes, the New Orleans Americana band known for its earthy mix of country soul and roots music. Now on his second solo album, \"Landfill Poetry,\" Downing turns stories from his days working as a trash collector in Missouri into songs a",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "National Park Service backs Trump's arch, despite its impact on key Washington sightlines",
-      "link": "https://www.pbs.org/newshour/politics/national-park-service-backs-trumps-arch-despite-its-impact-on-key-washington-sightlines",
-      "publishedAt": "Fri, 28 Aug 2026 18:20:58 -0400",
-      "snippet": "A new National Park Service report backs President Donald Trump's proposed arch, despite what it says are adverse effects to the sightline between a host of iconic landmarks in Washington, including the Washington Monument and Lincoln and Jefferson memorials.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Tennessee's governor boosts fan-led push to rename Nashville airport for Dolly Parton",
-      "link": "https://www.pbs.org/newshour/nation/tennessees-governor-boosts-fan-led-push-to-rename-nashville-airport-for-dolly-parton",
-      "publishedAt": "Fri, 28 Aug 2026 17:28:18 -0400",
-      "snippet": "Long before 80-year-old Parton died Tuesday, fans in January 2025 started an online petition calling for officials to rename Nashville International Airport in her honor. It got renewed attention following Parton's death, jumping to more than 155,000 signatures Friday.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Fact check: Germany&apos;s Merz misstates record in ARD interview",
+      "link": "https://www.dw.com/en/fact-check-germany-s-merz-misstates-record-in-ard-interview/a-78566319?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Migration, debt and electric vehicles: Chancellor Friedrich Merz made several misleading claims in his ARD summer interview. DW Fact check reviewed them live.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Merz warns of &apos;problems&apos; in Saxony-Anhalt under AfD",
+      "link": "https://www.dw.com/en/germany-news-merz-warns-of-problems-in-saxony-anhalt-under-afd/live-78555302?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Chancellor Friedrich Merz said that a victory for the far-right Alternative for Germany (AfD) party in next week&apos;s election in Saxony-Anhalt would seriously damage the eastern German state.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "NASA launches first telescope named after female scientist",
+      "link": "https://www.dw.com/en/nasa-launches-first-telescope-named-after-female-scientist/a-78565941?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Nancy Grace Roman Space Telescope, named after NASA&apos;s first Chief of Astronomy, will observe black holes, exoplanets and exploding stars.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany&apos;s Christian Churches take a stand against far right",
+      "link": "https://www.dw.com/en/germany-s-christian-churches-take-a-stand-against-far-right/a-78482465?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The AfD in Saxony-Anhalt has embarked on a confrontational course toward the churches. Representatives of the Catholic and Protestant churches are responding with a mix of anxiety and resolve.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "EU wants drones to spray pesticides — but it could backfire",
+      "link": "https://www.dw.com/en/eu-wants-drones-to-spray-pesticides-but-it-could-backfire/a-78557154?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The EU wants to lift a decades-old ban on spraying pesticides from the air, allowing drones to be used for greater precision. But experts warn the plan could lead to even more pesticides being used in agriculture.",
       "tier": 2
     },
     {
@@ -448,10 +488,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Ferry carrying over 260 people capsizes off Cyprus: reports",
-      "link": "https://www.dw.com/en/ferry-carrying-over-260-people-capsizes-off-cyprus-reports/a-78562769?maca=en-rss-en-top-1022-rdf",
+      "title": "Ferry carrying over 260 people capsizes off Cyprus",
+      "link": "https://www.dw.com/en/ferry-carrying-over-260-people-capsizes-off-cyprus/a-78562769?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A ‌rescue operation has been launched after a passenger ⁠boat carrying more than 260 people capsized off ‌northern Cyprus, media reported. ‌",
+      "snippet": "Several people have died after a passenger ⁠boat carrying more than 260 people capsized off ‌northern Cyprus. ‌",
       "tier": 2
     },
     {
@@ -483,7 +523,7 @@
       "title": "Manhunt underway after woman killed in Swiss rave shooting",
       "link": "https://www.dw.com/en/manhunt-underway-after-woman-killed-in-swiss-rave-shooting/a-78561106?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The shooting happened outside a rave in the northern Swiss town of Aarau. Police said they were still searching for the perpetrator or perpetrators.",
+      "snippet": "The shooting at a rave in the northern Swiss town of Aarau, near Zürich, left at least one person dead and five wounded. Police said they were still searching for the perpetrator or perpetrators.",
       "tier": 2
     },
     {
@@ -547,47 +587,7 @@
       "title": "India news: PM Modi in Uzbekistan on way to SCO summit",
       "link": "https://www.dw.com/en/india-news-pm-modi-in-uzbekistan-on-way-to-sco-summit/live-78554796?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Indian Prime Minister Narendra Modi is in Uzbekistan for a two-day state visit, after which he will go to Kyrgyzstan for the SCO Summit. Meanwhile, hundreds of Indians are still missing in Nepal. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Russian strike on ammunition depot near Kyiv kills dozens",
-      "link": "https://www.dw.com/en/russian-strike-on-ammunition-depot-near-kyiv-kills-dozens/a-78556008?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Hundreds were also forced to flee after a Russian attack near Ukraine&apos;s capital, Kyiv, sparked a huge fire and explosions. The strike was the second to hit an arms depot near Kyiv in less than two months.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Death toll from Nepal-Tibet floods rises to over 600",
-      "link": "https://www.dw.com/en/death-toll-from-nepal-tibet-floods-rises-to-over-600/a-78555290?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Heavy rain is complicating an already difficult rescue effort, as hundreds remain missing three days after deadly flash floods hit the Nepal-Tibet border region.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Niger&apos;s defense ministry says soldiers attempted mutiny",
-      "link": "https://www.dw.com/en/niger-s-defense-ministry-says-soldiers-attempted-mutiny/a-78554001?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Dozens of rebeling soldiers were killed or arrested, state media said. The attack posed the latest threat to Niger&apos;s military junta, led by Abdourahamane Tchiani, who seized power in a 2023 coup.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US, Ecuador forces strike alleged drug smuggling boat",
-      "link": "https://www.dw.com/en/us-ecuador-forces-strike-alleged-drug-smuggling-boat/a-78555711?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Tackling drug trafficking in Latin America is a key priority for Washington. In March, Ecuador joined a US-led coalition to combat the drug trade in the region.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Korea leans toward military conscription for women",
-      "link": "https://www.dw.com/en/south-korea-leans-toward-military-conscription-for-women/a-78547426?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Facing a population decline, fewer potential service members and calls for social equality to be extended to national military service, Korea is inching closer to breaking the taboo on women on the front line.",
+      "snippet": "Indian Prime Minister Narendra Modi is in Uzbekistan for a two-day state visit, after which he will go to Kyrgyzstan for the SCO Summit. Meanwhile, hundreds of Indians are still missing in Nepal.",
       "tier": 2
     }
   ]
