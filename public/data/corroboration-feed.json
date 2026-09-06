@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T04:50:26.821Z",
+  "generatedAt": "2026-09-06T15:34:41.420Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,34 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+      "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 06 Sep 2026 02:24:16 GMT",
-      "snippet": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
+      "publishedAt": "Sun, 06 Sep 2026 15:32:27 GMT",
+      "snippet": "Steve Witkoff tells reporters the US team felt \"encouraged\" by what he called a \"substantive\" and important discussion.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 09:56:39 GMT",
+      "snippet": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 14:07:35 GMT",
+      "snippet": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 08:05:22 GMT",
+      "snippet": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
       "tier": 1
     },
     {
@@ -44,22 +68,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 05 Sep 2026 22:44:07 GMT",
       "snippet": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 21:29:38 GMT",
-      "snippet": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-      "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 06 Sep 2026 01:54:29 GMT",
-      "snippet": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
       "tier": 1
     },
     {
@@ -76,14 +84,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 04 Sep 2026 22:48:38 GMT",
       "snippet": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "What different world maps get right - and what they get wrong",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 16:14:24 GMT",
-      "snippet": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
       "tier": 1
     },
     {
@@ -176,6 +176,14 @@
     },
     {
       "source": "BBC World",
+      "title": "What different world maps get right - and what they get wrong",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 12:09:54 GMT",
+      "snippet": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
       "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 05 Sep 2026 10:02:29 GMT",
@@ -183,11 +191,35 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Why are European countries moving their gold out of North America?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 01:42:09 GMT",
-      "snippet": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+      "source": "NPR News",
+      "title": "American Muslims are giving Texas barbecue a halal makeover",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+      "publishedAt": "Sun, 06 Sep 2026 06:00:00 -0400",
+      "snippet": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state&apos;s most iconic culinary traditions.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+      "publishedAt": "Sun, 06 Sep 2026 05:51:04 -0400",
+      "snippet": "U.S. envoys Steve Witkoff and Jared Kushner are set to arrive in Kyiv on Sunday in their first visit to the Ukrainian capital as part of a renewed push for peace in Russia&apos;s full-scale invasion of Ukraine.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "QUIZ: Ugh, I&apos;ll do it later. How much do you know about procrastination?",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
+      "publishedAt": "Sun, 06 Sep 2026 05:01:00 -0400",
+      "snippet": "Learn a few surprising facts about procrastination — and helpful tools to overcome it — with this quiz. It&apos;s based on social scientist Itamar Shatz&apos;s new book, Solving Procrastination .",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it&apos;s alive and well",
+      "link": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
+      "publishedAt": "Sun, 06 Sep 2026 04:44:48 -0400",
+      "snippet": "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes.",
       "tier": 1
     },
     {
@@ -200,10 +232,10 @@
     },
     {
       "source": "NPR News",
-      "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
+      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
       "publishedAt": "Sat, 05 Sep 2026 11:05:08 -0400",
-      "snippet": "One of the Iranian tankers struck was near a key area in Iran&apos;s oil-export system, according to U.S. Central Command.",
+      "snippet": null,
       "tier": 1
     },
     {
@@ -239,35 +271,19 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-      "publishedAt": "Sat, 05 Sep 2026 07:08:57 -0400",
-      "snippet": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia&apos;s invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded.",
+      "source": "PBS Headlines",
+      "title": "Volcanic island in Indonesia erupts, forcing the cancellation of hundreds of flights",
+      "link": "https://www.pbs.org/newshour/world/volcanic-island-in-indonesia-erupts-forcing-the-cancellation-of-hundreds-of-flights",
+      "publishedAt": "Sun, 06 Sep 2026 11:28:28 -0400",
+      "snippet": "No casualties were reported and no evacuation order was issued. The nearest settlement is more than 10 miles away, but authorities warned residents and visitors to stay at least 2 miles from the active crater.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
-      "publishedAt": "Sat, 05 Sep 2026 05:00:00 -0400",
-      "snippet": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Flock cameras draw opposition from across the political spectrum",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
-      "publishedAt": "Sat, 05 Sep 2026 05:00:00 -0400",
-      "snippet": "As political races heat up heading into the midterms, candidates from both parties are increasingly joining the fray to voice concerns over Flock surveillance cameras.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Philippines Vice President Sara Duterte posts bail after arrest",
-      "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
-      "publishedAt": "Sat, 05 Sep 2026 03:21:10 -0400",
-      "snippet": "Philippines Vice President Sara Duterte has posted bail after order issued for her arrest on charges she publicly threatened to arrange assassination of President Ferdinand Marcos Jr. and two others.",
+      "source": "PBS Headlines",
+      "title": "Trump administration makes another appeal to Supreme Court to allow mail ballot restrictions",
+      "link": "https://www.pbs.org/newshour/politics/trump-administration-makes-another-appeal-to-supreme-court-to-allow-mail-ballot-restrictions",
+      "publishedAt": "Sun, 06 Sep 2026 11:15:28 -0400",
+      "snippet": "The filing came after U.S. District Court Judge Indira Talwani extended an order against the Postal Service enforcing President Donald Trump's executive order for the November elections.",
       "tier": 1
     },
     {
@@ -415,27 +431,83 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "How Trump's attempt to restrict mail ballots is being challenged in court",
-      "link": "https://www.pbs.org/newshour/show/how-trumps-attempt-to-restrict-mail-ballots-is-being-challenged-in-court",
-      "publishedAt": "Fri, 04 Sep 2026 18:40:38 -0400",
-      "snippet": "A federal judge indefinitely extended her order to prevent the Trump administration from implementing new restrictions on mail-in ballots. The Trump plan would require states to use scannable ballot envelopes and to provide the federal government with lists of voters eligible to ",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Retired general calls Trump's proposed arch near Arlington a 'sacrilege'",
-      "link": "https://www.pbs.org/newshour/show/retired-general-calls-trumps-proposed-arch-near-arlington-a-sacrilege",
-      "publishedAt": "Fri, 04 Sep 2026 18:35:28 -0400",
-      "snippet": "The Trump administration plans to break ground within two weeks on a 250-foot arch just beyond the gates of Arlington National Cemetery. Critics say it would disrupt historic sightlines intended to symbolize the nation's reconciliation after the Civil War. Geoff Bennett spoke wit",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US envoys Witkoff, Kushner arrive in Kiyv after Putin talks",
+      "link": "https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The two US offcials are meeting Ukrainian President Volodymyr Zelenskyy in Kyiv, with national security advisors the UK, France, and Germany reportedly also in Ukraine for talks.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Rahul Gandhi backs student protests in Maharashtra",
+      "link": "https://www.dw.com/en/india-news-rahul-gandhi-backs-student-protests-in-maharashtra/live-79043198?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Opposition Rahul Gandhi has said that students are \"tormented\" by the ruling Bharatiya Janata Party. The Congress politician has demanded immediate action into the demands of Maharashtra student protesters. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany, Kosovo unite against ticks carrying deadly virus",
+      "link": "https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany has high-security labs while Kosovo has Hyalomma ticks and experience with the deadly Crimean-Congo hemorrhagic fever. Working together, German and Kosovar scientists are fighting the disease and its vectors.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany plans anti-drone shield over Leipzig attack — report",
+      "link": "https://www.dw.com/en/germany-plans-anti-drone-shield-over-leipzig-attack-report/a-79052604?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Several German cities will receive rapidly deployable units capable of defending against drone strikes on critical infrastructure, according to Bild am Sonntag newspaper.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How climate change and food insecurity could fuel future conflicts",
+      "link": "https://www.dw.com/en/how-climate-change-and-food-insecurity-could-fuel-future-conflicts/a-78871431?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Climate change, conflict, and trade tensions are putting pressure on the global food system. New research suggests the biggest risk is not food shortages, but whether societies can peacefully adapt to change.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Indonesia: Flights canceled as Anak Krakatau volcano erupts",
+      "link": "https://www.dw.com/en/indonesia-flights-canceled-as-anak-krakatau-volcano-erupts/a-79050871?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The spread of ash after the volcanic eruption of Anak Krakatau has impacted thousands of passengers, as flights were canceled at Jakarta&apos;s international airport.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
+      "link": "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Although the eastern state accounts for less than 3% of the nationwide electorate, the election outcome could serve as a bellwether about the far-right AfD&apos;s prospects in the rest of the country. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ebola: Why children are last to be treated in medical crises",
+      "link": "https://www.dw.com/en/ebola-why-children-are-last-to-be-treated-in-medical-crises/a-79050107?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In the latest Ebola outbreak in the Democratic Republic of Congo, children are more likely to die than adults. But it&apos;s not always due to the disease. Specific medicines for younger people are often harder to come by.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Hungary begins hunt for corrupt regime&apos;s billions",
+      "link": "https://www.dw.com/en/hungary-begins-hunt-for-corrupt-regime-s-billions/a-79047176?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Hungary&apos;s new prime minister promised he would recover billions stolen or diverted by the previous administration. A new \"super authority\" is about to begin that work. Its success or failure will have a big impact.",
       "tier": 2
     },
     {
@@ -512,82 +584,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "India news: 275 Indians still missing in Nepal floods",
-      "link": "https://www.dw.com/en/india-news-275-indians-still-missing-in-nepal-floods/live-79043198?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Official estimates say that 275 Indians continue to be unaccounted for in Nepal&apos;s flood catastrophe. Meanwhile, no Indian travelers are said to be stranded in flood-affected Tibet. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Germany news: Thousands march at Saxony-Anhalt rallies",
       "link": "https://www.dw.com/en/germany-news-thousands-march-at-saxony-anhalt-rallies/live-79041302?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Ahead of Saxony-Anhalt&apos;s state election on Sunday, a democracy festival by civil society groups has been held in Magdeburg. The far-right AfD organized its final campaign rally in the state capital.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "What would an AfD government in Saxony-Anhalt really mean?",
-      "link": "https://www.dw.com/en/what-would-an-afd-government-in-saxony-anhalt-really-mean/a-78869947?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Detention centers for deportation, mandatory work for asylum-seekers, vigilante groups — the AfD wants to drastically overhaul Saxony-Anhalt. What does the party have planned?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Tunisia: Judge orders arrest of journalist Mohamed Yousfi",
-      "link": "https://www.dw.com/en/tunisia-judge-orders-arrest-of-journalist-mohamed-yousfi/a-79040802?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A journalist and vocal critic of the Tunisian president, Mohamed Yousfi has been taken into custody ahead of an interview. A union called the arrest an attack on all journalists&apos; rights.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bolivia: Deadly explosion rocks military base in Viacha",
-      "link": "https://www.dw.com/en/bolivia-deadly-explosion-rocks-military-base-in-viacha/a-79040892?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The explosion occurred at an army base where fireworks were stored. The exact cause of the blast is under investigation.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UN approves world map reflecting true size of Africa",
-      "link": "https://www.dw.com/en/un-approves-world-map-reflecting-true-size-of-africa/a-79040629?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The UN General Assembly has voted to adopt a map that more accurately shows the size of the continents. Only the United States voted against the measure, which projects the country as smaller than on traditional maps.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Outrage as Maltese tycoon acquitted in journalist&apos;s murder",
-      "link": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Maltese businessman Yorgen Fenech has been found not guilty of complicity to murder journalist Daphne Caruana Galizia. Almost nine years after the attack, the question of who ordered her death remains unanswered.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Yemen: Fighting intensifies amid Houthi push in the west",
-      "link": "https://www.dw.com/en/yemen-fighting-intensifies-amid-houthi-push-in-the-west/a-79039588?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Houthi forces are trying to secure high ground and solidify their control of the entry to the Red Sea in the southwest. The Iran-backed militia abandoned a shaky truce with the Saudi-backed government-in-exile in July.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "In Saxony-Anhalt election, small parties will be kingmakers",
-      "link": "https://www.dw.com/en/in-saxony-anhalt-election-small-parties-will-be-kingmakers/a-78482460?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The far-right AfD has good odds of winning an absolute majority in Saxony-Anhalt&apos;s parliament this state election, enabling them to govern alone. It all depends on whether other parties make the cut.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s civil society alliance takes on the far right",
-      "link": "https://www.dw.com/en/germany-s-civil-society-alliance-takes-on-the-far-right/a-79009105?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Trade unions, churches and human rights activists are worried about the rise of the far-right AfD. How can civil society protect people who are threatened by far-right extremism?",
       "tier": 2
     }
   ]
