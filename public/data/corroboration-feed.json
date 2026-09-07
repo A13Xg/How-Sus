@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T04:56:27.107Z",
+  "generatedAt": "2026-09-07T17:46:39.401Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,50 +32,66 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 04:48:02 GMT",
-      "snippet": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote.",
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 07 Sep 2026 14:04:01 GMT",
+      "snippet": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-      "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 04:07:23 GMT",
-      "snippet": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
+      "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
+      "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 07 Sep 2026 14:50:50 GMT",
+      "snippet": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "title": "Israeli strikes in southern Lebanese village kill 12",
+      "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 07 Sep 2026 13:39:23 GMT",
+      "snippet": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Probe begins into why cargo plane overran Miami runway",
       "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 00:57:38 GMT",
-      "snippet": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "publishedAt": "Mon, 07 Sep 2026 09:54:40 GMT",
+      "snippet": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 06 Sep 2026 20:41:58 GMT",
-      "snippet": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 07 Sep 2026 15:27:50 GMT",
+      "snippet": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 06 Sep 2026 20:52:12 GMT",
-      "snippet": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 07 Sep 2026 09:31:26 GMT",
+      "snippet": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 06 Sep 2026 16:00:21 GMT",
-      "snippet": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 07 Sep 2026 05:31:06 GMT",
+      "snippet": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 07 Sep 2026 07:03:44 GMT",
+      "snippet": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
       "tier": 1
     },
     {
@@ -88,6 +104,30 @@
     },
     {
       "source": "BBC World",
+      "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
+      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 07 Sep 2026 14:57:16 GMT",
+      "snippet": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
+      "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 07 Sep 2026 15:40:47 GMT",
+      "snippet": "Anak Krakatau, which lies about 150km from capital Jakarta, began spewing lava and volvanic ash late on Friday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Tanzanian President Samia's husband dies in hospital",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 07 Sep 2026 16:23:02 GMT",
+      "snippet": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "China to pump $54bn into state banks and insurers to boost economy",
       "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 07 Sep 2026 02:26:12 GMT",
@@ -96,50 +136,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
       "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 06 Sep 2026 16:54:34 GMT",
-      "snippet": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "publishedAt": "Mon, 07 Sep 2026 10:31:01 GMT",
+      "snippet": "It's not clear how many people were inside the building - or if there are still people under the debris.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Australians will be able to switch off social media algorithms under planned legislation",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 07 Sep 2026 03:40:09 GMT",
-      "snippet": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
+      "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
+      "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 07 Sep 2026 04:07:23 GMT",
+      "snippet": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 06 Sep 2026 08:05:22 GMT",
-      "snippet": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 20:52:12 GMT",
+      "snippet": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 06 Sep 2026 17:00:56 GMT",
-      "snippet": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Prince William to attend King Harald's funeral in Norway",
-      "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 21:00:02 GMT",
-      "snippet": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 09:12:48 GMT",
-      "snippet": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+      "title": "How £725 game-show winnings kick-started Champions League coach's career",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 07 Sep 2026 08:04:12 GMT",
+      "snippet": "Lithuanian coach Valdas Dambrauskas cut his teeth in English football, and now returns in the Champions League with Sabah.",
       "tier": 1
     },
     {
@@ -167,43 +191,67 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
-      "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 23:54:07 GMT",
-      "snippet": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-      "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 23:20:00 GMT",
-      "snippet": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "What different world maps get right - and what they get wrong",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 06 Sep 2026 12:09:54 GMT",
-      "snippet": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "source": "NPR News",
+      "title": "As Nepal identifies those killed in the floods, questions grow over China&apos;s reporting",
+      "link": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
+      "publishedAt": "Mon, 07 Sep 2026 09:31:16 -0400",
+      "snippet": "One week after the deadly floods, very little is known about China&apos;s dead or missing. China&apos;s control over media and digital censorship is in stark contrast to open reporting in Nepal.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "title": "5 dead after crash at Miami Airport. And, Germany&apos;s far-right wins state election",
+      "link": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+      "publishedAt": "Mon, 07 Sep 2026 07:11:51 -0400",
+      "snippet": "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany&apos;s far-right AfD party achieves an electoral victory in a key state election.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "&apos;Her body temperature was 106&apos;: How heat is killing Americans in their homes",
+      "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+      "publishedAt": "Mon, 07 Sep 2026 05:00:00 -0400",
+      "snippet": "Heat kills thousands of people across the U.S. every year. The risk is especially high for the millions of Americans who live in manufactured housing like mobile homes and trailers.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "The first day of school: Bells, bikes, buses and big feelings",
+      "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+      "publishedAt": "Mon, 07 Sep 2026 05:00:00 -0400",
+      "snippet": "Fifth graders calm school kindergartners in Los Angeles. Kids take the \"bike bus\" in Oklahoma. High school students take in a new high school building in Oregon.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
+      "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
+      "publishedAt": "Mon, 07 Sep 2026 05:00:00 -0400",
+      "snippet": "The peptide is supposed to deliver flawless and firm skin, promote wound healing and other anti-aging effects. So what&apos;s the evidence behind GHK-Cu?",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
+      "publishedAt": "Mon, 07 Sep 2026 04:44:02 -0400",
+      "snippet": "Five people are dead after a cargo plane crash at Miami International Airport, Trump&apos;s top envoys go to Ukraine with hopes of restarting peace talks, Germany&apos;s far-right party wins landslide victory.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
       "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
       "publishedAt": "Sun, 06 Sep 2026 15:54:28 -0400",
-      "snippet": "Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami.",
+      "snippet": "An Amazon Prime cargo plane was landing at the airport around 2 p.m. ET on Sunday when it overran the runway, crashed and rammed into vehicles on the ground, according to FAA.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "German exit polls suggest far-right party has big lead in regional election",
-      "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
+      "title": "Germany&apos;s far-right achieves an electoral breakthrough in key state election",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
       "publishedAt": "Sun, 06 Sep 2026 12:36:48 -0400",
-      "snippet": "Exit polls show Germany&apos;s AfD taking a commanding lead in a regional election, but it remains unclear whether the far-right party can form the country&apos;s first state government since World War II.",
+      "snippet": "Germany&apos;s populist, far-right Alternative for Germany party has declared victory in the state of Saxony-Anhalt after more than doubling its share of the vote in the first of several regional elections this fall.",
       "tier": 1
     },
     {
@@ -223,51 +271,43 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "QUIZ: Ugh, I&apos;ll do it later. How much do you know about procrastination?",
-      "link": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
-      "publishedAt": "Sun, 06 Sep 2026 05:01:00 -0400",
-      "snippet": "Learn a few surprising facts about procrastination — and helpful tools to overcome it — with this quiz. It&apos;s based on social scientist Itamar Shatz&apos;s new book, Solving Procrastination .",
+      "source": "PBS Headlines",
+      "title": "Nepal holds a day of mourning after floods kill at least 1,300 people",
+      "link": "https://www.pbs.org/newshour/world/nepal-holds-a-day-of-mourning-after-floods-kill-at-least-1300-people",
+      "publishedAt": "Mon, 07 Sep 2026 13:33:20 -0400",
+      "snippet": "Monday was the 13th day since the flooding which killed more than 1,300 people in Nepal and Tibet and left some 5,000 missing, including foreigners, according to Nepal's disaster management agency.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it&apos;s alive and well",
-      "link": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
-      "publishedAt": "Sun, 06 Sep 2026 04:44:48 -0400",
-      "snippet": "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes.",
+      "source": "PBS Headlines",
+      "title": "King Charles clarifies status of Prince Harry and Meghan in a letter after their return to the UK",
+      "link": "https://www.pbs.org/newshour/world/king-charles-clarifies-status-of-prince-harry-and-meghan-in-a-letter-after-their-return-to-the-uk",
+      "publishedAt": "Mon, 07 Sep 2026 13:18:52 -0400",
+      "snippet": "King Charles III has reiterated that Prince Harry and his wife, Meghan, remain non-working members of the royal family following their return to the United Kingdom.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Jazz legend John Coltrane&apos;s Philadelphia house to become a cultural heritage site",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
-      "publishedAt": "Sat, 05 Sep 2026 17:01:10 -0400",
-      "snippet": "On the centennial of father&apos;s birth, Ravi Coltrane talks about turning the home where the jazz legend spent a crucial period in the 1950s into a cultural heritage and community space.",
+      "source": "PBS Headlines",
+      "title": "Russia shuts German consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident",
+      "link": "https://www.pbs.org/newshour/world/russia-shuts-german-consulate-in-st-petersburg-in-tit-for-tat-move-after-leipzig-drone-incident",
+      "publishedAt": "Mon, 07 Sep 2026 13:07:00 -0400",
+      "snippet": "Russia's Foreign Ministry has announced the closure of the German consulate in St. Petersburg, a move that reflects the ongoing tensions between the two countries.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "publishedAt": "Sat, 05 Sep 2026 11:05:08 -0400",
-      "snippet": null,
+      "source": "PBS Headlines",
+      "title": "'Widow's Bay' dominates with 8 Emmys at early ceremony, while 'The Pitt' takes 4",
+      "link": "https://www.pbs.org/newshour/arts/widows-bay-dominates-with-8-emmys-at-early-ceremony-while-the-pitt-takes-4",
+      "publishedAt": "Mon, 07 Sep 2026 13:00:41 -0400",
+      "snippet": "\"Widow's Bay\" ran away with eight early Emmys for its debut season Sunday at a ceremony eight days before the main awards show and telecast, while \"The Pitt\" had a strong second-year showing with four of its own.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Opinion: A sculpture in perpetual motion, removed",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
-      "publishedAt": "Sat, 05 Sep 2026 08:00:00 -0400",
-      "snippet": "\"Blue,\" a statue that&apos;s been on the grounds of the Kennedy Center in Washington, D.C. for 7 years has been dismantled and removed.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Trump administration to dig at triumphal arch site despite no final federal approvals",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-no-final-federal-approvals",
-      "publishedAt": "Sat, 05 Sep 2026 07:43:24 -0400",
-      "snippet": "The Trump administration says it will break ground on a 250-foot triumphal arch in Washington, D.C., without final federal approval and despite an ongoing lawsuit.",
+      "source": "PBS Headlines",
+      "title": "Federal investigators probe Amazon cargo jet's fiery runway crash that killed 5 in Miami",
+      "link": "https://www.pbs.org/newshour/nation/federal-investigators-probe-amazon-cargo-jets-fiery-runway-crash-that-killed-5-in-miami",
+      "publishedAt": "Mon, 07 Sep 2026 12:33:33 -0400",
+      "snippet": "Video of Sunday's landing appears to show the Boeing 767 remaining airborne well down the runway before touching down. Aviation experts said investigators will seek to determine exactly where the plane landed and, if it was beyond the normal touchdown zone, why the pilots did not",
       "tier": 1
     },
     {
@@ -391,46 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Trump's first major midterm money move: A $10 million Texas Senate ad blitz",
-      "link": "https://www.pbs.org/newshour/politics/trumps-first-major-midterm-money-move-a-10-million-texas-senate-ad-blitz",
-      "publishedAt": "Sat, 05 Sep 2026 16:44:35 -0400",
-      "snippet": "This is the first significant spending in a premier general election contest by MAGA, Inc., and reflects how a once-safe Republican seat in Texas may be viable for Democrats with the candidacy of James Talarico.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon",
-      "link": "https://www.pbs.org/newshour/world/months-after-ceasefire-israel-and-hezbollah-battle-over-a-strategic-hill-in-lebanon",
-      "publishedAt": "Sat, 05 Sep 2026 14:18:59 -0400",
-      "snippet": "In recent weeks, Ali Taher hill has been the scene of daily shelling and airstrikes by Israel's military. Hezbollah has repeatedly attacked Israeli forces in the area with drones.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses",
-      "link": "https://www.pbs.org/newshour/politics/kennedy-center-renews-call-for-trump-backed-shutdown-after-part-of-a-ceiling-collapses",
-      "publishedAt": "Sat, 05 Sep 2026 13:33:29 -0400",
-      "snippet": "No one was injured when a piece of the ceiling inside the Kennedy Center's grand foyer collapsed Friday evening, said Roma Daravi, the center's vice president for public relations.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "U.S.-Venezuela oil deal won't reduce domestic gasoline prices anytime soon, experts say",
-      "link": "https://www.pbs.org/newshour/economy/u-s-venezuela-oil-deal-wont-reduce-domestic-gasoline-prices-anytime-soon-experts-say",
-      "publishedAt": "Sat, 05 Sep 2026 13:17:40 -0400",
-      "snippet": "Oil experts told PolitiFact gains for consumers will not materialize any time soon, and would likely take years — long after November's midterm elections.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "For feminists, the deaths of Parton and Steinem days apart deliver a double dose of grief",
-      "link": "https://www.pbs.org/newshour/nation/for-feminists-the-deaths-of-parton-and-steinem-days-apart-deliver-a-double-dose-of-grief",
-      "publishedAt": "Sat, 05 Sep 2026 12:56:30 -0400",
-      "snippet": "Gloria Steinem and Dolly Parton's deaths eight days apart sent a double dose of grief around the world and across generations as many women (and some men!) asked who would take their places at the forefront of women's rights.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,10 +440,130 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Saxony-Anhalt: Preliminary official results show AfD tops vote",
-      "link": "https://www.dw.com/en/saxony-anhalt-preliminary-official-results-show-afd-tops-vote/live-78754934?maca=en-rss-en-top-1022-rdf",
+      "title": "Nicaragua challenges German arms exports to Israel at ICJ",
+      "link": "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The far-right Alternative for Germany (AfD) party won the Saxony-Anhalt state election but failed to secure an absolute majority in the state parliament. Follow DW.",
+      "snippet": "Germany has asked the International Court of Justice to dismiss the case on jurisdiction grounds. It also said its arms exports to Israel were documented, published, and subject to more stringent checks than most.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Saxony-Anhalt: Germany wakes up to &apos;unsettling&apos; AfD victory",
+      "link": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The far-right Alternative for Germany (AfD) party won the Saxony-Anhalt state election but without an absolute majority in parliament. Other European nations were wrestling with the impact of the results. Follow DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Can the AfD form a government in Saxony-Anhalt?",
+      "link": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Following its record election success, the far-right Alternative for Germany aims to form a government. What options does it have without the absolute majority?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Russia announces it is closing Germany&apos;s consulate in St. Petersburg",
+      "link": "https://www.dw.com/en/russia-announces-it-is-closing-germany-s-consulate-in-st-petersburg/a-79149908?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The tit-for-tat reaction comes after Germany said it is shutting down Russia&apos;s consulate in Bonn and its cultural center in Berlin.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
+      "link": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ratko Mladic, the former Bosnian Serb commander convicted of genocide in Srebrenica, has been buried in Belgrade. The funeral, broadcast live on TV, comes just days before President Vucic is expected to call an election.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Chancellor Merz says AfD result &apos;changes all of Germany&apos;",
+      "link": "https://www.dw.com/en/chancellor-merz-says-afd-result-changes-all-of-germany/a-79150560?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A visibly shaken but also determined Friedrich Merz spoke in Berlin about the AfD&apos;s election victory in Saxony-Anhalt and the CDU&apos;s bitter defeat. He insisted on sticking to his reforms.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Carbon capture tech exists. Scaling it up is the hard part",
+      "link": "https://www.dw.com/en/carbon-capture-tech-exists-scaling-it-up-is-the-hard-part/a-79147600?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Europe just opened a carbon capture and storage plant billed as the continent&apos;s largest. But global climate scenarios call for far more capacity than exists anywhere on Earth.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pakistan: Can creating new provinces fix governance?",
+      "link": "https://www.dw.com/en/pakistan-can-creating-new-provinces-fix-governance/a-79148059?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Pakistanis broadly agree that the country needs more responsive and effective government, but many question whether simply creating more provinces is the solution.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "EU&apos;s Von der Leyen pledges $232 million Greenland investment",
+      "link": "https://www.dw.com/en/eu-s-von-der-leyen-pledges-232-million-greenland-investment/a-79109197?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The EU is preparing a major investment package and closer political ties with the Danish Arctic territory amid Donald Trump&apos;s demand for greater US control of the mineral-rich island.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Threatening letters revive fears among Kashmiri Pandits",
+      "link": "https://www.dw.com/en/threatening-letters-revive-fears-among-kashmiri-pandits/a-79144481?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Leaked addresses and phone numbers have reignited fears among Hindu government employees who returned to Muslim-majority Kashmir under a rehabilitation scheme.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Russia opens first road bridge with North Korea",
+      "link": "https://www.dw.com/en/russia-opens-first-road-bridge-with-north-korea/a-79142595?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russia and North Korea have opened their first road bridge across the Tumen River as political, economic and military ties between the two countries deepen.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Middle East: Israeli strikes kill a dozen in Lebanon",
+      "link": "https://www.dw.com/en/middle-east-israeli-strikes-kill-a-dozen-in-lebanon/live-79133242?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Lebanon&apos;s Health Ministry said at least 12 were killed in overnight Israeli strikes in the south of the country. Meanwhile, traffic in the Strait of Hormuz has sunk to its lowest level since May. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine: Zelenskyy says war looks set to go on into winter",
+      "link": "https://www.dw.com/en/ukraine-zelenskyy-says-war-looks-set-to-go-on-into-winter/live-79135930?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ukrainian President Volodymyr Zelenskyy says there appears to be no end in sight in Russia&apos;s war against his country. His words come after another round of US-led diplomacy. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "UK government condemns &apos;thuggish&apos; anti-migrant protests in Portsmouth",
+      "link": "https://www.dw.com/en/uk-government-condemns-thuggish-anti-migrant-protests-in-portsmouth/a-79134048?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Hundreds gathered in Portsmouth after some refugees arrived by boat from France, a day after masked protesters disrupted traffic at the port of Dover.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Rescue efforts underway in deadly Delhi building collapse",
+      "link": "https://www.dw.com/en/india-news-rescue-efforts-underway-in-deadly-delhi-building-collapse/live-79123607?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The building was located in New Delhi&apos;s Satya Niketan, popular among students from nearby colleges and universities. At least 12 people have been rescued from the rubble. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Jamaica to petition King Charles over slavery reparations",
+      "link": "https://www.dw.com/en/jamaica-to-petition-king-charles-over-slavery-reparations/a-79123536?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Jamaica will ask King Charles III to refer questions about the legality of slavery and Britain&apos;s potential obligation to provide reparations.",
       "tier": 2
     },
     {
@@ -464,130 +584,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "AfD wants to form a government in Saxony-Anhalt — but how?",
-      "link": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Following its record-breaking success in the state election, the far-right AfD in Saxony-Anhalt is aiming to form a government.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Saxony-Anhalt: Digesting the AfD&apos;s landmark election win",
       "link": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "With well over 40% for the far-right Alternative for Germany (AfD), Saxony-Anhalt has witnessed a landmark election night. DW&apos;s reporters were on the ground.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fact check: Election fraud claims spread in Saxony-Anhalt",
-      "link": "https://www.dw.com/en/fact-check-election-fraud-claims-spread-in-saxony-anhalt/a-79093254?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "False and misleading claims are raising questions about the integrity of the election in Saxony-Anhalt. DW Fact Check takes a closer look.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Saxony-Anhalt&apos;s state election will have a nationwide impact",
-      "link": "https://www.dw.com/en/saxony-anhalt-s-state-election-will-have-a-nationwide-impact/a-78874569?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The election in the eastern state of Saxony-Anhalt could have dramatic consequences for Germany&apos;s federal government. Pollsters point to dissatisfaction with Chancellor Merz as one reason for his party&apos;s poor showing.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fact check: Germany&apos;s postal voting system isn&apos;t rigged",
-      "link": "https://www.dw.com/en/fact-check-germany-s-postal-voting-system-isn-t-rigged/a-78958438?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ahead of Germany&apos;s state elections in September, rumors began circulating on social media claiming that postal voting is not secure — claims that have also been made about other elections. Here&apos;s why they&apos;re wrong.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Saxony-Anhalt election: Why the AfD is so strong",
-      "link": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The AfD has emerged as the strongest party in Germany&apos;s eastern state of Saxony-Anhalt by a wide margin. What is driving support for the far right in this predominantly rural eastern German state?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Israeli strikes on Lebanon kill several despite truce",
-      "link": "https://www.dw.com/en/israeli-strikes-on-lebanon-kill-several-despite-truce/a-79065011?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Lebanon&apos;s President Joseph Aoun has appealed to the international community to \"take immediate action to stop these violations\" of the ceasefire agreement between Israel and Lebanon.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Rahul Gandhi backs student protests in Maharashtra",
-      "link": "https://www.dw.com/en/india-news-rahul-gandhi-backs-student-protests-in-maharashtra/live-79043198?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Opposition Rahul Gandhi has said that students are \"tormented\" by the ruling Bharatiya Janata Party. The Congress politician has demanded immediate action into the demands of Maharashtra student protesters. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany, Kosovo unite against ticks carrying deadly virus",
-      "link": "https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany has high-security labs while Kosovo has Hyalomma ticks and experience with the deadly Crimean-Congo hemorrhagic fever. Working together, German and Kosovar scientists are fighting the disease and its vectors.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany plans anti-drone shield over Leipzig attack — report",
-      "link": "https://www.dw.com/en/germany-plans-anti-drone-shield-over-leipzig-attack-report/a-79052604?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Several German cities will receive rapidly deployable units capable of defending against drone strikes on critical infrastructure, according to Bild am Sonntag newspaper.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How climate change and food insecurity could fuel future conflicts",
-      "link": "https://www.dw.com/en/how-climate-change-and-food-insecurity-could-fuel-future-conflicts/a-78871431?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Climate change, conflict, and trade tensions are putting pressure on the global food system. New research suggests the biggest risk is not food shortages, but whether societies can peacefully adapt to change.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Indonesia: Flights canceled as Anak Krakatau volcano erupts",
-      "link": "https://www.dw.com/en/indonesia-flights-canceled-as-anak-krakatau-volcano-erupts/a-79050871?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The spread of ash after the volcanic eruption of Anak Krakatau has impacted thousands of passengers, as flights were canceled at Jakarta&apos;s international airport.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ebola: Why children are last to be treated in medical crises",
-      "link": "https://www.dw.com/en/ebola-why-children-are-last-to-be-treated-in-medical-crises/a-79050107?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In the latest Ebola outbreak in the Democratic Republic of Congo, children are more likely to die than adults. But it&apos;s not always due to the disease. Specific medicines for younger people are often harder to come by.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Hungary begins hunt for corrupt regime&apos;s billions",
-      "link": "https://www.dw.com/en/hungary-begins-hunt-for-corrupt-regime-s-billions/a-79047176?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Hungary&apos;s new prime minister promised he would recover billions stolen or diverted by the previous administration. A new \"super authority\" is about to begin that work. Its success or failure will have a big impact.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US envoys meet with Putin, leave Russia for Kyiv",
-      "link": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Jared Kushner and Steve Witkoff met with Russian President Vladimir Putin in Moscow to try to revive talks to end the war in Ukraine. The US envoys are also scheduled to visit Kyiv on Sunday.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "German company successfully launches rocket to space",
-      "link": "https://www.dw.com/en/german-company-successfully-launches-rocket-to-space/a-79050717?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Bavaria-based Isar Aerospace managed to launch its Spectrum rocket into orbit, 18 months after its first attempt. This is the first such launch from European soil.",
       "tier": 2
     }
   ]
