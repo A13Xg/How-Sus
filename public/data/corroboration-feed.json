@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T04:55:47.848Z",
+  "generatedAt": "2026-09-10T16:32:20.176Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,18 +32,58 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 10 Sep 2026 04:08:07 GMT",
-      "snippet": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+      "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
+      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 10 Sep 2026 13:23:37 GMT",
+      "snippet": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Is Trump's $5,000 election pledge legal?",
+      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 10 Sep 2026 07:12:32 GMT",
+      "snippet": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Iran war won't end until after crucial November elections, says Trump",
       "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 10 Sep 2026 04:21:00 GMT",
+      "publishedAt": "Thu, 10 Sep 2026 10:43:53 GMT",
       "snippet": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 10 Sep 2026 06:30:19 GMT",
+      "snippet": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 10 Sep 2026 13:12:40 GMT",
+      "snippet": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Twenty-five dead after fire on cargo ship in eastern China",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 10 Sep 2026 12:24:54 GMT",
+      "snippet": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 10 Sep 2026 09:32:34 GMT",
+      "snippet": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
       "tier": 1
     },
     {
@@ -56,41 +96,25 @@
     },
     {
       "source": "BBC World",
-      "title": "Google picks Finland for its largest single investment in Europe",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 17:06:48 GMT",
-      "snippet": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
+      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+      "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 21:21:13 GMT",
+      "snippet": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 16:46:53 GMT",
-      "snippet": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran referred to UN Security Council for nuclear non-compliance",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 20:22:51 GMT",
-      "snippet": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 13:29:33 GMT",
-      "snippet": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
+      "link": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 19:09:13 GMT",
+      "snippet": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
       "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 15:01:58 GMT",
+      "publishedAt": "Thu, 10 Sep 2026 08:44:19 GMT",
       "snippet": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
       "tier": 1
     },
@@ -104,90 +128,130 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
-      "link": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 18:27:35 GMT",
-      "snippet": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
+      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 10 Sep 2026 04:43:54 GMT",
+      "snippet": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 10:20:40 GMT",
-      "snippet": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+      "title": "Four key takeaways from Republican midterms convention",
+      "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 10 Sep 2026 04:07:44 GMT",
+      "snippet": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 11:29:59 GMT",
-      "snippet": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
+      "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
+      "link": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 10 Sep 2026 09:35:46 GMT",
+      "snippet": "A survivor has told the BBC of the chaos onboard as the ferry caught fire near the popular tourist spot of Coron.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 20:28:04 GMT",
-      "snippet": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+      "title": "Why some experts increasingly fear AI will take over",
+      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 23:17:33 GMT",
+      "snippet": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Family of killed teen call for death penalty in D4vd trial",
-      "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 09:58:48 GMT",
-      "snippet": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
+      "title": "American football is coming to Australia - can it succeed?",
+      "link": "https://www.bbc.co.uk/news/articles/crerv93pv9yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 22:29:13 GMT",
+      "snippet": "The LA Rams will face the San Francisco 49ers in the first regular season American football game to be played Down Under.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Colombia's new president loosens gun control rules",
-      "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 11:01:41 GMT",
-      "snippet": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms.",
+      "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
+      "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 22:17:22 GMT",
+      "snippet": "Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar, and the neighbouring Israeli settlement of Maale Admumim.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 16:33:49 GMT",
-      "snippet": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+      "title": "Watch: Do Republicans blame Trump for high oil prices?",
+      "link": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 10 Sep 2026 01:37:31 GMT",
+      "snippet": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 12:06:40 GMT",
-      "snippet": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
+      "title": "Inside Thailand's school shooter drills following recent attacks",
+      "link": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 09 Sep 2026 22:32:07 GMT",
+      "snippet": "Police say they hope the drill will help prepare students, as concern grows over the increase in school shootings in South East Asia.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
-      "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 07:44:20 GMT",
-      "snippet": "The critically endangered apes were found far from their natural habitat in the eastern Indian state of Odisha.",
+      "source": "NPR News",
+      "title": "Barbara Keating died in the 9/11 attack. She&apos;s finally being laid to rest",
+      "link": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
+      "publishedAt": "Thu, 10 Sep 2026 11:44:12 -0400",
+      "snippet": "Barbara Keating died aboard one of the planes that hijackers slammed into the World Trade Center. Her remains were finally identified last year, and her family is gathering for a long-delayed funeral.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-      "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 08:21:39 GMT",
-      "snippet": "The billion dollar payout marks the largest divorce settlement in the country's history.",
+      "source": "NPR News",
+      "title": "&apos;I&apos;ve never seen anything like this&apos; -- A U.S. doctor treats Ebola&apos;s youngest victims",
+      "link": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
+      "publishedAt": "Thu, 10 Sep 2026 11:06:20 -0400",
+      "snippet": "Dr. Rupa Narra is a U.S. pediatrician who arrived in the Democratic Republic of Congo to help care for stricken children. Nothing could have prepared her for what she&apos;d face.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-      "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 09 Sep 2026 06:42:01 GMT",
-      "snippet": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
+      "source": "NPR News",
+      "title": "How did 9/11 reshape national security?",
+      "link": "https://www.npr.org/2026/09/10/nx-s1-5910729/how-did-9-11-reshape-national-security",
+      "publishedAt": "Thu, 10 Sep 2026 10:53:37 -0400",
+      "snippet": "Sept. 11 represented a new kind of national security threat, and a new national security architecture was created to confront it.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
+      "link": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
+      "publishedAt": "Thu, 10 Sep 2026 07:27:14 -0400",
+      "snippet": "President Trump tries to incentivize voters by promising $5,000 to Americans if the GOP wins the midterms. And, young conservatives reflect on the party one year after Charlie Kirk&apos;s death.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "One year after Charlie Kirk&apos;s death, Turning Point USA faces an uncertain future",
+      "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
+      "publishedAt": "Thu, 10 Sep 2026 05:00:00 -0400",
+      "snippet": "The death of Charlie Kirk was seen as a rallying call for young conservatives. One year later, the movement is wrestling with questions about its future.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "After Trump promised to pay $5,000 if Republicans win, here&apos;s what to expect Thursday",
+      "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
+      "publishedAt": "Thu, 10 Sep 2026 05:00:00 -0400",
+      "snippet": "President Trump promised to send every adult citizen $5,000, but only if Republicans maintain control of Congress in the midterm election, setting high expectations for the convention&apos;s final night.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Scientists say August was Earth&apos;s hottest month they&apos;ve measured",
+      "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
+      "publishedAt": "Thu, 10 Sep 2026 04:54:00 -0400",
+      "snippet": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast",
+      "link": "https://www.npr.org/2026/09/10/g-s1-142664/cargo-plane-miami-crash",
+      "publishedAt": "Thu, 10 Sep 2026 01:45:00 -0400",
+      "snippet": "For nearly two minutes, one of the pilots of the Amazon cargo plane that careened off a Miami runway repeatedly warned his counterpart they were going too fast, according to flight information.",
       "tier": 1
     },
     {
@@ -200,74 +264,18 @@
     },
     {
       "source": "NPR News",
-      "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
-      "link": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material",
-      "publishedAt": "Wed, 09 Sep 2026 16:42:19 -0400",
-      "snippet": "The formerly prominent, widely recorded conductor was sentenced Wednesday to nearly six years of probation for five counts of possession of child sex abuse material in Indianapolis.",
+      "title": "A huge 11th-century tapestry of the Norman Conquest has (carefully) traveled to England",
+      "link": "https://www.npr.org/2026/09/09/nx-s1-5891555/a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-engla",
+      "publishedAt": "Wed, 09 Sep 2026 17:43:51 -0400",
+      "snippet": "Part war propaganda, part comic strip, the 230-foot Bayeux Tapestry is back in England for the first time in 900 years. It depicts the 1066 Battle of Hastings, which ended Anglo-Saxon rule.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Fold the phone: Apple&apos;s new CEO unveils a foldable iPhone",
-      "link": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
-      "publishedAt": "Wed, 09 Sep 2026 14:39:57 -0400",
-      "snippet": "New Apple CEO John Ternus announces the iPhone Duo, which folds like a passport and is the most radical iPhone design update in nearly 20 years.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Special education head at Education Department abruptly resigns",
-      "link": "https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns",
-      "publishedAt": "Wed, 09 Sep 2026 13:48:56 -0400",
-      "snippet": "The leader of the Education Department&apos;s special education office told employees she is resigning after less than four months in the role and as the agency overall is morphing and shrinking.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Andrew Tate is denied bail and will remain in jail during his extradition fight",
-      "link": "https://www.npr.org/2026/09/09/nx-s1-5954174/andrew-tate-bail-extradition-jail",
-      "publishedAt": "Wed, 09 Sep 2026 13:23:15 -0400",
-      "snippet": "Prosecutors told the court that Andrew and Tristan Tate boasted about having multiple passports and flying on private jets. But the Tates&apos; lawyers argued they were only playing a role for their fans.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
-      "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
-      "publishedAt": "Wed, 09 Sep 2026 09:56:23 -0400",
-      "snippet": "The floating Olympic cauldron, held aloft by a giant glowing balloon, is still making regular appearances two years after the 2024 Paris Games, showing up all summer long in the nighttime Paris sky.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
-      "link": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
-      "publishedAt": "Wed, 09 Sep 2026 09:34:48 -0400",
-      "snippet": "Will artificial intelligence nibble around the edges of the economy or upend it altogether? A new, interactive model from Anthropic lets people tests their assumptions.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Whatever happened to the measles outbreak that shocked a country this year?",
-      "link": "https://www.npr.org/2026/09/09/g-s1-141466/measles-outbreak-vaccination-bangladesh",
-      "publishedAt": "Wed, 09 Sep 2026 09:04:43 -0400",
-      "snippet": "Bangladesh has seen over 50,000 confirmed or suspected cases of measles this year. The death toll among children just surpassed 1,000. How are officials trying to bring the outbreak under control?",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Trump officials propose sweeping changes to the census that would reshape voting maps",
-      "link": "https://www.npr.org/2026/09/09/nx-s1-5845147/trump-us-census-citizenship-question-race-categories",
-      "publishedAt": "Wed, 09 Sep 2026 08:58:43 -0400",
-      "snippet": "A Trump census proposal would stop asking about race and exclude millions of U.S. residents from a count that the 14th Amendment says must include the \"whole number of persons in each state.\"",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
-      "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
-      "publishedAt": "Wed, 09 Sep 2026 07:12:27 -0400",
-      "snippet": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year.",
+      "source": "PBS Headlines",
+      "title": "Foulkes defeats Rhode Island's McKee, 1st governor in 8 years to lose a primary",
+      "link": "https://www.pbs.org/newshour/politics/foulkes-defeats-rhode-islands-mckee-1st-governor-in-8-years-to-lose-a-primary",
+      "publishedAt": "Thu, 10 Sep 2026 09:21:04 -0400",
+      "snippet": "Rhode Island Gov. Dan McKee was dogged by questions about his administration's work to replace a critical bridge in the state capital that was abruptly closed due to safety problems in 2023.",
       "tier": 1
     },
     {
@@ -423,14 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Why 9/11 isn't a federal holiday, according to experts",
-      "link": "https://www.pbs.org/newshour/nation/why-9-11-isnt-a-federal-holiday-according-to-experts",
-      "publishedAt": "Wed, 09 Sep 2026 15:29:37 -0400",
-      "snippet": "Every year, Americans across the country remember the Sept. 11 terrorist attacks. Flags are flown at half-staff. People observe moments of silence. Loved ones read the names of thousands of victims aloud. Members of Congress have introduced several bills over the years in a push ",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,50 +440,122 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Philippines: Several killed, dozens missing after fire on ferry",
-      "link": "https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-top-1022-rdf",
+      "title": "African Parks: When conservation becomes a question of power",
+      "link": "https://www.dw.com/en/african-parks-when-conservation-becomes-a-question-of-power/a-78914372?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Footage released by the Coast Guard showed the vessel engulfed in flames as rescuers brought bodies ashore in body bags. The ship&apos;s manifest listed 134 passengers and crew.",
+      "snippet": "African Parks is dedicated to protecting wildlife on the continent across some vast areas. But the organization faces allegations of human rights abuses by rangers. Now, Prince Harry is stepping down from its board.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Finland: Google announces €13 billion AI, energy investment",
-      "link": "https://www.dw.com/en/finland-google-announces-€13-billion-ai-energy-investment/a-79208034?maca=en-rss-en-top-1022-rdf",
+      "title": "North Korea spends war windfall on arms, infrastructure",
+      "link": "https://www.dw.com/en/north-korea-spends-war-windfall-on-arms-infrastructure/a-79218305?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Google has announced a plan to expand AI data centers and buy massive amounts of nuclear energy. Finland&apos;s security services have warned of there are risks, but the right-wing government says the deal will bring jobs.",
+      "snippet": "The Ukraine war and Pyongyang&apos;s alliance with Moscow have delivered an economic boost to North Korea, allowing the regime to pursue a range of long-desired projects.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Norway&apos;s PM: Zelenskyy&apos;s plane almost hit by drone",
-      "link": "https://www.dw.com/en/norway-s-pm-zelenskyy-s-plane-almost-hit-by-drone/a-79207528?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany sets its sights on Russia&apos;s shadow fleet",
+      "link": "https://www.dw.com/en/germany-sets-its-sights-on-russia-s-shadow-fleet/a-79211123?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A drone nearly struck a plane carrying Ukrainian President Volodymyr Zelenskyy from Moldova to Oslo, according to Norway&apos;s prime minister. However, a Ukrainian source said the threat may have been overstated.",
+      "snippet": "The German government wants to follow other EU countries and take more decisive action against Russia&apos;s shadow fleet, accusing it of helping Moscow evade sanctions and carry out acts of sabotage.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "China: English to be removed as a graded core subject?",
-      "link": "https://www.dw.com/en/china-english-to-be-removed-as-a-graded-core-subject/a-79199629?maca=en-rss-en-top-1022-rdf",
+      "title": "How Celine Dion became a pop culture icon across generations",
+      "link": "https://www.dw.com/en/how-celine-dion-became-a-pop-culture-icon-across-generations/a-79213779?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A university professor is calling for English to no longer be taught as a graded core subject in Chinese schools. Opponents argue that, in a globalized world, knowing English is beneficial for the country and career.",
+      "snippet": "As the global star kicks off her anticipated Paris residency, here&apos;s how Celine Dion managed to gain younger followers while keeping her loyal older fans.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Ceuta: Documents show Spanish intelligence warned of crisis",
-      "link": "https://www.dw.com/en/ceuta-documents-show-spanish-intelligence-warned-of-crisis/a-79206505?maca=en-rss-en-top-1022-rdf",
+      "title": "Uganda: Traditional kingdom plunged into succession crisis",
+      "link": "https://www.dw.com/en/uganda-traditional-kingdom-plunged-into-succession-crisis/a-79214786?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Spain declassified documents that showed warnings issued a day before more than 70,000 migrants rushed the Ceuta border fence. Meanwhile, the EU announced funds to strengthen the border and return migrants to Morocco.",
+      "snippet": "A royal succession committee and the family of late King Oyo Nyimba of Toroo have put forward competing candidates. Questions have been raised as to whether the late monarch indeed had a son as his family claims.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany&apos;s connection to the September 11, 2001 attacks",
-      "link": "https://www.dw.com/en/germany-s-connection-to-the-september-11-2001-attacks/a-79202918?maca=en-rss-en-top-1022-rdf",
+      "title": "ECB raises interest rates to fight off inflation jump",
+      "link": "https://www.dw.com/en/ecb-raises-interest-rates-to-fight-off-inflation-jump/a-79215209?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The 9/11 attacks were partly planned in Hamburg, via the so-called Hamburg cell, whose members played key roles in the plot. A look back at a day that shook up Germany’s approach to national security.",
+      "snippet": "The European Central Bank raised borrowing costs and warned that inflation could remain high for an extended period. Energy markets and geopolitical tensions are still major concerns.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Are electric vehicles really bad for the environment?",
+      "link": "https://www.dw.com/en/are-electric-vehicles-really-bad-for-the-environment/a-79213336?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Some German politicians are calling for a delay to the EU plan to phase out gas-powered vehicles, saying cars must be judged on the entire carbon footprint. But the full picture still says EVs are more climate friendly.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Government proposes elected body for Ladakh",
+      "link": "https://www.dw.com/en/india-news-government-proposes-elected-body-for-ladakh/live-79212708?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The government has suggested creating an elected Union Territory body. However, Ladakh leaders have expressed disappointment over the slow pace of progress. Follow DW for more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Myanmar seeks closer foreign ties amid global isolation",
+      "link": "https://www.dw.com/en/myanmar-seeks-closer-foreign-ties-amid-global-isolation/a-79212234?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Myanmar coup leader Min Aung Hlaing has been on a diplomatic offensive since becoming president in April, but foreign friends may still be few and far between.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "China: Cargo ship fire kills at least 25",
+      "link": "https://www.dw.com/en/china-cargo-ship-fire-kills-at-least-25/a-79212704?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "At least five people are missing after a cargo ship caught fire at the port of Qingdao. The cause remains unclear.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Europe needs to compete in spaceflight, says France&apos;s Macron",
+      "link": "https://www.dw.com/en/europe-needs-to-compete-in-spaceflight-says-france-s-macron/a-79212006?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The French president called for setting goals like European cargo missions, lunar landings, and crewed spaceflight while urging the bloc to reduce its reliance on US and Russia.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Bayeux Tapestry goes on display at sold-out London exhibit",
+      "link": "https://www.dw.com/en/bayeux-tapestry-goes-on-display-at-sold-out-london-exhibit/a-79211449?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The nearly 1,000 year-old, 70-meter-long tapestry is considered a symbol of UK-France friendship. More than 100,000 tickets have been sold.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine&apos;s Zelenskyy arrives in Canada seeking air support",
+      "link": "https://www.dw.com/en/ukraine-s-zelenskyy-arrives-in-canada-seeking-air-support/a-79209534?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "President Volodymyr Zelenskyy is in the midst of a multi-nation tour to shore up his country&apos;s air defenses ahead of winter.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ecuador: Ex-president Bucaram sentenced in corruption case",
+      "link": "https://www.dw.com/en/ecuador-ex-president-bucaram-sentenced-in-corruption-case/a-79209321?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Abdala Bucaram, Ecuador&apos;s former president, was convicted for his role in the illegal sale of COVID-19 tests and medical supplies, receiving a prison sentence of over nine years.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany &apos;rebuilding pillars&apos; of national security",
+      "link": "https://www.dw.com/en/germany-rebuilding-pillars-of-national-security/live-79209302?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany&apos;s interior minister has defended plans to give security agencies greater investigative powers to counter hybrid threats. Meanwhile, German inflation rose as the ECB reconsiders interest rates. DW has the latest.",
       "tier": 2
     },
     {
@@ -496,98 +568,26 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Switzerland: Two killed in power plant explosion",
-      "link": "https://www.dw.com/en/switzerland-two-killed-in-power-plant-explosion/a-79205516?maca=en-rss-en-top-1022-rdf",
+      "title": "August hottest month ever recorded, says EU monitor",
+      "link": "https://www.dw.com/en/august-hottest-month-ever-recorded-says-eu-monitor/a-79208462?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A fire and subsequent explosion have killed two workers at a Swiss hydroelectric power plant. Authorities say the facility suffered major damage in the incident.",
+      "snippet": "The average global temperature in August broke the previous record set in 2023. Climate scientists say record summer heat in the northern hemisphere and warmer oceans are all part of a new normal.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Iran tightens social control with crackdown on cafes",
-      "link": "https://www.dw.com/en/iran-tightens-social-control-with-crackdown-on-cafes/a-79204988?maca=en-rss-en-top-1022-rdf",
+      "title": "Trump promises Americans $5,000 if Republicans win midterms",
+      "link": "https://www.dw.com/en/trump-promises-americans-5-000-if-republicans-win-midterms/a-79208399?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Authorities are keeping a close eye on cafes, fearing they could play a role in fostering anti-government sentiment.",
+      "snippet": "The US president gave a wide-ranging speech at the Republican midterm convention. He defended the war in Iran, trade wars and tariffs, and the White House ballroom. He also called Democrats evil and immigrants animals.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Ethiopia&apos;s constitutional reform: What does it mean — especially for Abiy?",
-      "link": "https://www.dw.com/en/ethiopia-s-constitutional-reform-what-does-it-mean-especially-for-abiy/a-79172262?maca=en-rss-en-top-1022-rdf",
+      "title": "Philippines: Several killed, dozens missing after fire on ferry",
+      "link": "https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Does Ethiopian Prime Minister Abiy Ahmed stand to benefit from a planned constitutional reform in the country? A new presidential system would reshape political power — and could give him even more power in office.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Oil prices rise as Middle East conflict escalates",
-      "link": "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The price of oil returned to triple digits in US dollars, as conflict in the Middle East threatens supply chains and puts a strain on global reserves.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Syria arms depot explosion kills at least 14",
-      "link": "https://www.dw.com/en/syria-arms-depot-explosion-kills-at-least-14/a-79203314?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The explosion struck near the Syrian city of Sarmada in Idlib province in the northwest. The Defense Ministry said the weapons and remnants from the war were being stored temporarily at the site before being relocated.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How Belarusians still find hope in a silenced country",
-      "link": "https://www.dw.com/en/how-belarusians-still-find-hope-in-a-silenced-country/a-79127285?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The documentary \"Letters From the Silenced Country\" depicts the ongoing repression under the authoritarian regime. Director Andrei Kutsila talked to DW ahead of the film&apos;s Venice premiere.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why we&apos;re still looking for dark matter",
-      "link": "https://www.dw.com/en/why-we-re-still-looking-for-dark-matter/a-79189395?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "When physicists said they may have spotted evidence of dark matter almost 100 years after it was proposed as a theory, the internet lit up. Here&apos;s why we&apos;re searching for the thing that holds everything else together.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Cambodia&apos;s floating schools hit by rising fuel costs",
-      "link": "https://www.dw.com/en/cambodia-s-floating-schools-hit-by-rising-fuel-costs/a-79202008?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Iran war has sent fuel prices higher in Cambodia, squeezing families who rely on fishing and boats for their livelihoods. For children living on Tonle Sap, rising fuel costs pose yet another barrier to education.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU proposes more restrictions for Airbnb, holiday rentals",
-      "link": "https://www.dw.com/en/eu-proposes-more-restrictions-for-airbnb-holiday-rentals/a-79202023?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The European Union wants tighter rules on short-term rentals to tackle housing shortages in tourist hotspots.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Syria: How the &apos;house of sisters&apos; threat split society",
-      "link": "https://www.dw.com/en/syria-how-the-house-of-sisters-threat-split-society/a-79192163?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Rumor has it that the &apos;house of sisters&apos; is where kidnapped women from other Syrian sects are forced to convert to Islam. Nobody knows if it really exists, but it&apos;s being used to create communal tensions anyway.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "LIV Golf in financial turmoil: what&apos;s next for the sport?",
-      "link": "https://www.dw.com/en/liv-golf-in-financial-turmoil-what-s-next-for-the-sport/a-79199569?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Six months after Saudi Arabia pulled funding from the breakaway organization, LIV Golf have filed for bankruptcy protection. Several of the world&apos;s best players signed on to LIV, so where does that leave golf?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Norway&apos;s King Harald V laid to rest in state funeral",
-      "link": "https://www.dw.com/en/norway-s-king-harald-v-laid-to-rest-in-state-funeral/a-79199812?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Heads of state from around the world came to Oslo to pay tribute to the late monarch.",
+      "snippet": "Footage released by the Coast Guard showed the vessel engulfed in flames as rescuers brought bodies ashore in body bags. The ship&apos;s manifest listed 134 passengers and crew.",
       "tier": 2
     }
   ]
