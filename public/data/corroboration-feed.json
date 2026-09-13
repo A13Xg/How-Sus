@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T12:35:51.991Z",
+  "generatedAt": "2026-09-13T01:08:24.006Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,6 +32,14 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 21:16:47 GMT",
+      "snippet": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 12 Sep 2026 12:15:50 GMT",
@@ -40,10 +48,34 @@
     },
     {
       "source": "BBC World",
-      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 11:27:44 GMT",
-      "snippet": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 21:25:28 GMT",
+      "snippet": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 19:36:50 GMT",
+      "snippet": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "French officials investigate if malicious act caused train derailment",
+      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 15:05:53 GMT",
+      "snippet": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 16:55:31 GMT",
+      "snippet": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
       "tier": 1
     },
     {
@@ -56,26 +88,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 20:34:29 GMT",
-      "snippet": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
       "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 03:02:28 GMT",
+      "publishedAt": "Sat, 12 Sep 2026 15:09:55 GMT",
       "snippet": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Passenger train derails in France leaving at least 44 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 21:25:32 GMT",
-      "snippet": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+      "title": "Record heatwaves in France set to make champagne stronger",
+      "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 13:00:32 GMT",
+      "snippet": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 20:27:25 GMT",
+      "snippet": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Bulgaria investigates fire at weapons site that owner calls sabotage",
+      "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 17:38:21 GMT",
+      "snippet": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
       "tier": 1
     },
     {
@@ -88,22 +128,6 @@
     },
     {
       "source": "BBC World",
-      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 10:00:05 GMT",
-      "snippet": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 00:43:00 GMT",
-      "snippet": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
       "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 12 Sep 2026 08:04:16 GMT",
@@ -112,18 +136,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 22:17:45 GMT",
-      "snippet": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 11 Sep 2026 20:34:29 GMT",
+      "snippet": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 17:32:44 GMT",
-      "snippet": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 10:00:05 GMT",
+      "snippet": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
       "tier": 1
     },
     {
@@ -160,34 +184,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Gen Zs recall first learning of 'deeply harrowing, terrifying' 9/11",
-      "link": "https://www.bbc.co.uk/news/articles/cgmrzzkjywlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 17:21:00 GMT",
-      "snippet": "They carry distinct memories not from the day itself, but from the moment - years later - they learned about the attacks.",
+      "title": "Céline Dion fans prepare for comeback concert in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 17:36:20 GMT",
+      "snippet": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "How global trade and oil prices could be hit by Houthi advance",
-      "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 16:13:39 GMT",
-      "snippet": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
+      "source": "NPR News",
+      "title": "Celine Dion returns to the stage after battling rare illness",
+      "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
+      "publishedAt": "Sat, 12 Sep 2026 19:54:06 -0400",
+      "snippet": "The Canadian singer opened up her 16-show residency in Paris at the Plenitude Arena. The entire series is sold out.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Has Trump won over voters with his midterm convention?",
-      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 06:16:54 GMT",
-      "snippet": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
+      "source": "NPR News",
+      "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
+      "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
+      "publishedAt": "Sat, 12 Sep 2026 14:29:18 -0400",
+      "snippet": "Nazira Haji Zada, a lawful permanent resident, conceded to being an \"alien terrorist.\" It marks the first case in the Alien Terrorist Removal Court.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Watch: Americans remember what they were doing on 9/11",
-      "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 11 Sep 2026 02:48:43 GMT",
-      "snippet": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
+      "source": "NPR News",
+      "title": "&apos;People are still afraid of those three letters&apos;: Fighting the stigma of HIV",
+      "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
+      "publishedAt": "Sat, 12 Sep 2026 09:03:20 -0400",
+      "snippet": "That&apos;s a quote from former rugby star Gareth Thomas, who is HIV positive. At the International AIDS Conference in Rio this year, he spoke out about the isolation and discrimination tied to the virus.",
       "tier": 1
     },
     {
@@ -211,7 +235,7 @@
       "title": "Trump meets Ireland&apos;s leaders before heading to his golf club in Doonbeg",
       "link": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
       "publishedAt": "Sat, 12 Sep 2026 06:55:14 -0400",
-      "snippet": "U.S. President Donald Trump has held talks in Dublin with Irish President Catherine Connolly and Ireland&apos;s Prime Minister Micheál Martin during a weekend visit centered on a major golf tournament.",
+      "snippet": "President Trump held talks in Dublin with Irish President Catherine Connolly and Ireland&apos;s Prime Minister Micheál Martin during a weekend visit centered on a major golf tournament.",
       "tier": 1
     },
     {
@@ -224,10 +248,10 @@
     },
     {
       "source": "NPR News",
-      "title": "Why are the people building the most powerful AI so worried about what it could do?",
-      "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+      "title": "Miami crash raises concerns about the jet&apos;s operator, and why it&apos;s flying for Amazon",
+      "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
       "publishedAt": "Sat, 12 Sep 2026 05:00:00 -0400",
-      "snippet": "As an Anthropic resignation and OpenAI agents&apos; hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures lag.",
+      "snippet": "The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon. Former pilots were sounding alarms even before Sunday&apos;s accident.",
       "tier": 1
     },
     {
@@ -240,34 +264,90 @@
     },
     {
       "source": "NPR News",
-      "title": "Miami crash raises concerns about the jet&apos;s operator, and why it&apos;s flying for Amazon",
-      "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
+      "title": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO",
+      "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
       "publishedAt": "Sat, 12 Sep 2026 05:00:00 -0400",
-      "snippet": "The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon. Former pilots were sounding alarms even before Sunday&apos;s accident.",
+      "snippet": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
-      "link": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
-      "publishedAt": "Sat, 12 Sep 2026 03:18:55 -0400",
-      "snippet": "Indian Prime Minister Narendra Modi hosts Russian President Vladimir Putin, Chinese President Xi Jinping and other leaders of the BRICS nations for a summit on trade, investment, and global conflicts.",
+      "source": "PBS Headlines",
+      "title": "Minnesota churches roiled by legal battle over ICE surveillance and right to protest",
+      "link": "https://www.pbs.org/newshour/nation/minnesota-churches-roiled-by-legal-battle-over-ice-surveillance-and-right-to-protest",
+      "publishedAt": "Sat, 12 Sep 2026 17:25:55 -0400",
+      "snippet": "Court cases involving Twin Cities churches and immigration enforcement highlight how the acrimonious debate continues to roil faith communities more than six months since the federal surge turned Minnesota into a symbol of defiance of the Trump administration's policies.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Yemen&apos;s Houthis capture a Red Sea island in threat to shipping",
-      "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
-      "publishedAt": "Sat, 12 Sep 2026 01:57:08 -0400",
-      "snippet": "Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut down a major oil pipeline as a precaution after it came under attack.",
+      "source": "PBS Headlines",
+      "title": "Anthropic CEO says AI industry needs to give safety measures time to catch up",
+      "link": "https://www.pbs.org/newshour/nation/anthropic-ceo-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up",
+      "publishedAt": "Sat, 12 Sep 2026 15:15:26 -0400",
+      "snippet": "\"I believe that if slowing down bought us even an extra year or two before models reach critical levels of capability, and we used that time to advance alignment, we could greatly reduce the risk that something goes seriously wrong,\" Dario Amodei said.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
-      "link": "https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah",
-      "publishedAt": "Fri, 11 Sep 2026 16:29:31 -0400",
-      "snippet": "Rosh Hashanah, the Jewish New Year, begins at sunset Friday. For many Jews around the world, a highlight of the holiday will be hearing the shofar: an animal&apos;s horn blown like a trumpet.",
+      "source": "PBS Headlines",
+      "title": "AP analysis: Justice Department went after protesters for felony assault, but juries and judges were unconvinced",
+      "link": "https://www.pbs.org/newshour/politics/ap-analysis-justice-department-went-after-protesters-for-felony-assault-but-juries-and-judges-were-unconvinced",
+      "publishedAt": "Sat, 12 Sep 2026 14:46:38 -0400",
+      "snippet": "The Associated Press' analysis focused on arrests made during protests last summer and fall in LA, Chicago, Portland and Washington, D.C. — cities with significant protests where President Donald Trump sought to or successfully deployed the National Guard.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Trump touches a nerve while in Ireland by saying reunification would be 'fantastic'",
+      "link": "https://www.pbs.org/newshour/politics/trump-touches-a-nerve-while-in-ireland-by-saying-reunification-would-be-fantastic",
+      "publishedAt": "Sat, 12 Sep 2026 13:11:01 -0400",
+      "snippet": "At a meeting with Irish Prime Minister Micheál Martin in Dublin, Trump said he would love to see the reunification of the Republic of Ireland with the United Kingdom's Northern Ireland.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
+      "link": "https://www.pbs.org/newshour/world/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-and-its-allies",
+      "publishedAt": "Sat, 12 Sep 2026 12:52:06 -0400",
+      "snippet": "A lightning advance by Houthi rebels threatens a crucial Red Sea shipping route. Drone attacks blamed on Iraqi militias have forced the closure of a major pipeline, and Iran is still disrupting the Strait of Hormuz.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit",
+      "link": "https://www.pbs.org/newshour/world/brics-leaders-voice-concern-over-middle-east-condemn-unilateral-sanctions-at-india-summit",
+      "publishedAt": "Sat, 12 Sep 2026 12:28:01 -0400",
+      "snippet": "The meeting, which included Iranian President Masoud Pezeshkian, voiced concern over \"deliberate attacks\" on civilian infrastructure and peaceful nuclear facilities under the U.N. atomic energy agency's safeguards.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Trump asks Smithsonian to install George Washington statues and exhibit",
+      "link": "https://www.pbs.org/newshour/politics/trump-asks-smithsonian-to-install-george-washington-statues-and-exhibit",
+      "publishedAt": "Sat, 12 Sep 2026 11:59:51 -0400",
+      "snippet": "Trump asked for an exhibit beginning now and continuing through Feb. 22, 2032, the 300th anniversary of Washington's birth. For Constitution Day on Sept. 17, Trump asked the institution to install the 11-foot statue of Washington featured at the recent Freedom 250 IndyCar race in",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Where have all the Atlantic hurricanes gone? El Ni&ntilde;o might bring record slow storm season",
+      "link": "https://www.pbs.org/newshour/science/where-have-all-the-atlantic-hurricanes-gone-el-nino-might-bring-record-slow-storm-season",
+      "publishedAt": "Sat, 12 Sep 2026 11:45:49 -0400",
+      "snippet": "On Saturday, 2026 set a record for the longest a season has begun without a storm that has reached winds of 74 mph to qualify as a hurricane — at least in the satellite era, said Nick Novella, a meteorologist at the government's Weather Prediction Center.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Attack that closed key Saudi pipeline is blamed on Iran-backed militias in Iraq",
+      "link": "https://www.pbs.org/newshour/world/attack-on-key-saudi-pipeline-is-blamed-on-iran-backed-militias-in-iraq",
+      "publishedAt": "Sat, 12 Sep 2026 11:31:05 -0400",
+      "snippet": "Though an umbrella group of Iran-backed militias in Iraq denied their involvement, Iraq's government confirmed the attacks had originated from its territory, pledged to investigate and dismissed two senior officials.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Man arrested in death of Tasia Fortune, woman found hanging from tree in Mississippi",
+      "link": "https://www.pbs.org/newshour/nation/mississippi-police-arrest-a-man-in-the-death-of-tasia-fortune",
+      "publishedAt": "Sat, 12 Sep 2026 11:07:22 -0400",
+      "snippet": "The state medical examiner's office determined Thursday evening that the death was a homicide, Brackney said, allowing police to execute the warrants they already had on hand.",
       "tier": 1
     },
     {
@@ -351,91 +431,51 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "WATCH: Trump leads RNC in pledge to 'cheat like hell' in November elections",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-leads-rnc-in-pledge-to-cheat-like-hell-in-november-elections",
-      "publishedAt": "Fri, 11 Sep 2026 17:56:18 -0400",
-      "snippet": "After President Donald Trump told attendees at the Republican midterm convention Thursday night that \"we want honesty in our elections,\" he led them in a pledge to \"cheat like hell\" and \"go out and vote\" in the midterm elections.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Chesapeake blue crabs had an unusual rebound after years of decline. Scientists don't know why",
-      "link": "https://www.pbs.org/newshour/science/chesapeake-blue-crabs-had-an-unusual-rebound-after-years-of-decline-scientists-dont-know-why",
-      "publishedAt": "Fri, 11 Sep 2026 17:25:25 -0400",
-      "snippet": "After half a decade of worryingly low numbers, the Chesapeake Bay's blue crab population appears to be fighting its way out of a slump. Scientists still have no clear explanation for why, and say the growth deserves cautious optimism.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trial remains elusive for purported mastermind accused of plotting 9/11 attacks",
-      "link": "https://www.pbs.org/newshour/world/trial-remains-elusive-for-purported-mastermind-accused-of-plotting-9-11-attacks",
-      "publishedAt": "Fri, 11 Sep 2026 16:42:04 -0400",
-      "snippet": "A judge recently set a 2028 date for Mohammed to finally be tried before a military tribunal, but some lawyers predict it will never happen — not that year or any other year.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "CIA releases dozens of presidential daily briefs on bin Laden and al-Qaida before Sept. 11",
-      "link": "https://www.pbs.org/newshour/politics/cia-releases-dozens-of-presidential-daily-briefs-on-bin-laden-and-al-qaida-before-sept-11",
-      "publishedAt": "Fri, 11 Sep 2026 15:58:22 -0400",
-      "snippet": "The documents illustrate security analysts' tracking of bin Laden's movements and support system, as well as concerns about possible threats to U.S. targets.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "PHOTOS: Americans mark 25th anniversary of 9/11",
-      "link": "https://www.pbs.org/newshour/nation/photos-americans-mark-25th-anniversary-of-9-11",
-      "publishedAt": "Fri, 11 Sep 2026 15:48:39 -0400",
-      "snippet": "Ceremonies were held at memorial sites in New York City, northern Virginia and southwestern Pennsylvania, where people laid wreaths and flowers, held moments of silence and loved ones read the names of the victims.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Afghan woman whose case was the first for a long-dormant court has been deported, officials say",
-      "link": "https://www.pbs.org/newshour/politics/afghan-woman-whose-case-was-the-first-for-a-long-dormant-court-has-been-deported-officials-say",
-      "publishedAt": "Fri, 11 Sep 2026 14:42:05 -0400",
-      "snippet": "Nazira Haji Zada, 47, was arrested in July at her Fort Worth, Texas, home and brought before the Alien Terrorist Removal Court on a Justice Department application to deport her from the U.S.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Ebola outbreak in Congo spreads to a 7th province",
-      "link": "https://www.pbs.org/newshour/world/ebola-outbreak-in-congo-spreads-to-a-7th-province",
-      "publishedAt": "Fri, 11 Sep 2026 14:16:58 -0400",
-      "snippet": "According to the governor of the northwestern province of Sud-Ubangi, Congo's national research institute tested a sample and found traces of the Bundibugyo virus, the rare kind of Ebola that caused the current outbreak.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Senators from both parties question OpenAI on breach of AI startup Hugging Face",
-      "link": "https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face",
-      "publishedAt": "Fri, 11 Sep 2026 13:56:42 -0400",
-      "snippet": "Sen. Josh Hawley, R-Mo., launched an investigation Thursday into OpenAI for its artificial intelligence system hacking into another AI company on its own.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Body camera video offers a rare look inside an immigration raid at a New York factory",
-      "link": "https://www.pbs.org/newshour/nation/body-camera-video-offers-a-rare-look-inside-an-immigration-raid-at-a-new-york-factory",
-      "publishedAt": "Fri, 11 Sep 2026 13:39:56 -0400",
-      "snippet": "The footage from September 2025 shows the raid at the Nutrition Bar Confectioners plant in Cato, New York, and offers a rare glimpse inside a workplace immigration sweep.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "U.S. officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown",
-      "link": "https://www.pbs.org/newshour/health/u-s-officials-declare-an-end-to-record-setting-cyclospora-outbreak-but-its-origin-is-still-unknown",
-      "publishedAt": "Fri, 11 Sep 2026 13:22:48 -0400",
-      "snippet": "Food and Drug Administration officials said they are confident that all recalled iceberg lettuce related to this specific outbreak is off the market.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Thousands protest against AfD in Düsseldorf",
+      "link": "https://www.dw.com/en/germany-news-thousands-protest-against-afd-in-düsseldorf/live-79223427?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Police said around 20,000 people demonstrated in Düsseldorf under the slogan \"Not a Step Back!\" to protest the Alternative for Germany (AfD) party and right-wing hate speech. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
+      "link": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Saudi Arabia has said it will not retaliate and wants Iraq to \"take the necessary measures.\" Baghdad is under pressure from the United States to rein in Iran-backed militias.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why are European banks moving gold out of United States?",
+      "link": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fears about the reliability of the US, but equally important is the need to keep gold closer to home in the event of a crisis.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine: Several killed in series of Russian strikes",
+      "link": "https://www.dw.com/en/ukraine-several-killed-in-series-of-russian-strikes/a-79245980?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Local authorities said several civilians were killed and dozens more wounded across Ukraine by Russian strikes. Meanwhile, the Kremlin has rejected Volodymyr Zelenskyy&apos;s proposal to meet with the Russian leader in Miami.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Bulgaria: Fire at factory making munitions for Ukraine",
+      "link": "https://www.dw.com/en/bulgaria-fire-at-factory-making-munitions-for-ukraine/a-79245062?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Bulgarian authorities are investigating a fire at a munitions factory for links to an explosion at a similar facility in August. Arms maker EMCO says no human error was involved, as investigators look at sabotage.",
       "tier": 2
     },
     {
@@ -451,7 +491,7 @@
       "title": "Uganda lays &apos;boy king&apos; Oyo to rest amid succession row",
       "link": "https://www.dw.com/en/uganda-lays-boy-king-oyo-to-rest-amid-succession-row/a-79243428?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A funeral is underway for King Oyo Nyimba, who was crowned in the Tooro Kingdom in 1995 aged just 3. His death at 34 has triggered a dispute over a successor, as rumors abound of possible heirs born out of wedlock.",
+      "snippet": "Uganda has buried King Oyo Nyimba, who was crowned in the Tooro Kingdom in 1995 aged just 3. His death at 34 has triggered a dispute over a successor, as rumors abound of possible heirs born out of wedlock.",
       "tier": 2
     },
     {
@@ -459,7 +499,7 @@
       "title": "BRICS summit leaders urge &apos;maximum restraint&apos; in Middle East",
       "link": "https://www.dw.com/en/brics-summit-leaders-urge-maximum-restraint-in-middle-east/live-79224239?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The joint declaration at the BRICS 2026 summit expressed &apos;deep concern&apos; over hostilities in the Middle East. China&apos;s President Xi Jinping said the Iran war was not in the bloc&apos;s interest. Follow DW for more.",
+      "snippet": "The joint declaration at the BRICS 2026 summit expressed &apos;deep concern&apos; over hostilities in the Middle East. China&apos;s President Xi Jinping said the Iran war was not in the bloc&apos;s interest.",
       "tier": 2
     },
     {
@@ -548,46 +588,6 @@
       "link": "https://www.dw.com/en/iran-pursues-cautious-escalation-ahead-of-us-midterms/a-79237061?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Tehran appears to be boosting pressure on Washington ahead of the crucial midterm vote, but shows little desire to return to a full-scale war.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India&apos;s BRICS strategy tested with Xi, Putin set to visit",
-      "link": "https://www.dw.com/en/india-s-brics-strategy-tested-with-xi-putin-set-to-visit/a-79231879?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "New Delhi&apos;s \"America Plus\" approach sees India deepening its ties with China and Russia, while also trying to keep BRICS from turning into an anti-Western platform.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
-      "link": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Houthi takeovers of Mokha, Dhubab and Perim in the Bab el-Mandeb Strait threaten to push Yemen deeper into the Middle East war. The Iran-backed group has made advances against Yemen&apos;s government and Saudi Arabia.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany charges 7 suspected Hamas members over attack plot",
-      "link": "https://www.dw.com/en/germany-charges-7-suspected-hamas-members-over-attack-plot/a-79230171?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Prosecutors say the suspects had moved beyond general preparations and were already pursuing a concrete plan for a deadly attack on Israeli or Jewish targets.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "9/11 conspiracy theories that continue to circulate",
-      "link": "https://www.dw.com/en/9-11-conspiracy-theories-that-continue-to-circulate/a-78896069?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A quarter-century after the September 11, 2001, attacks, they are still the focus of numerous conspiracy theories. Why do people believe them?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India looks to steer BRICS away from anti-Western turn",
-      "link": "https://www.dw.com/en/india-looks-to-steer-brics-away-from-anti-western-turn/a-79195234?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The BRICS summit 2026 takes place in Delhi this weekend. Unlike last year, Putin and Xi are expected to attend. Can India keep the expanded bloc united?",
       "tier": 2
     }
   ]
