@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T12:42:01.725Z",
+  "generatedAt": "2026-09-15T01:04:23.253Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -48,26 +48,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Thousands demand end to violence in Mexican cartel hotspot",
-      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 11:28:36 GMT",
-      "snippet": "The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 14 Sep 2026 08:36:09 GMT",
-      "snippet": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+      "snippet": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 13:30:38 GMT",
-      "snippet": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 14:08:12 GMT",
+      "snippet": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 11:28:36 GMT",
+      "snippet": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 21:29:12 GMT",
+      "snippet": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
       "tier": 1
     },
     {
@@ -76,6 +84,30 @@
       "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 14 Sep 2026 08:58:27 GMT",
       "snippet": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 16:48:10 GMT",
+      "snippet": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 16:23:42 GMT",
+      "snippet": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Body of missing runner found in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 14:58:48 GMT",
+      "snippet": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
       "tier": 1
     },
     {
@@ -100,6 +132,14 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 13 Sep 2026 19:34:36 GMT",
       "snippet": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 13:30:38 GMT",
+      "snippet": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
       "tier": 1
     },
     {
@@ -151,43 +191,75 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 21:19:11 GMT",
-      "snippet": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
+      "source": "NPR News",
+      "title": "See who&apos;s won an Emmy Award so far",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners",
+      "publishedAt": "Mon, 14 Sep 2026 19:55:49 -0400",
+      "snippet": "Law & Order: SVU star Mariska Hargitay is hosting the Emmy Awards on Monday night. We&apos;ll be updating this list as winners are announced.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 23:51:05 GMT",
-      "snippet": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+      "source": "NPR News",
+      "title": "The Supreme Court rejects Trump&apos;s mail voting restrictions for this year&apos;s midterms",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
+      "publishedAt": "Mon, 14 Sep 2026 19:38:40 -0400",
+      "snippet": "The Supreme Court has rejected the Trump administration&apos;s request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 18:20:22 GMT",
-      "snippet": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "source": "NPR News",
+      "title": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return",
+      "publishedAt": "Mon, 14 Sep 2026 18:36:33 -0400",
+      "snippet": "McConnell spent weeks in recovery before explaining he was \"briefly unconscious\" following the fall that sent him to the hospital and a weeks-long recovery process.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 13 Sep 2026 09:05:10 GMT",
-      "snippet": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+      "source": "NPR News",
+      "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
+      "publishedAt": "Mon, 14 Sep 2026 18:05:06 -0400",
+      "snippet": "Federal agents may have broken state laws after the Department of Homeland Security began surging personnel for what it called the Unlawful Voter Initiative, a federal whistleblower alleges.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 22:00:28 GMT",
-      "snippet": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
+      "source": "NPR News",
+      "title": "Trump&apos;s EPA repeals pollution limits on fossil fuel power plants",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants",
+      "publishedAt": "Mon, 14 Sep 2026 16:34:28 -0400",
+      "snippet": "The Trump administration is eliminating limits on climate-warming pollution from the nation&apos;s fossil fuel power plants. Environmental groups say this will impact the climate and public health.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Israel is &apos;dismantling Palestinian life&apos; says Israeli human rights group",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
+      "publishedAt": "Mon, 14 Sep 2026 16:34:20 -0400",
+      "snippet": "One of the country&apos;s leading human rights organizations says Israel is dismantling all aspects of Palestinian life at a breakneck rate. The group has extensively documented what it says are the mechanisms Israel has used to \"ethnically cleanse\" the West Bank of Palestinians.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "10 years after taking a knee, Colin Kaepernick is still waging a &apos;Perilous Fight&apos;",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
+      "publishedAt": "Mon, 14 Sep 2026 14:45:21 -0400",
+      "snippet": "The former 49ers quarterback created an uproar in 2016 when took a knee during the national anthem to protest police brutality. In The Perilous Fight he explains why he still wants to play football.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Kennedy Center says it&apos;s on the brink of bankruptcy, might close as early as Tuesday",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
+      "publishedAt": "Mon, 14 Sep 2026 14:25:04 -0400",
+      "snippet": "In two board resolutions made public Monday, the arts institution says it is in a dire financial and physical state — and that only President Trump can \"rescue\" it.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "The producer of Fleabag and Baby Reindeer&apos;s tip for finding a hit? Don&apos;t look for one",
+      "link": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
+      "publishedAt": "Mon, 14 Sep 2026 10:03:14 -0400",
+      "snippet": "Theatre producer Francesca Moody has a remarkable record of spotting shows that go on to have wide success. At the Edinburgh Fringe festival, she told NPR about what she looks for in a performance.",
       "tier": 1
     },
     {
@@ -199,235 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "This city led the way on reparations for Black people. Trump is trying to stop it",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration",
-      "publishedAt": "Mon, 14 Sep 2026 07:00:00 -0400",
-      "snippet": "Evanston, Ill., became the first U.S. city to compensate Black people for historical discrimination. The Justice Department is trying to kill its program before other cities follow suit.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "The powerful millionaires hiding in plain sight",
-      "link": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
-      "publishedAt": "Mon, 14 Sep 2026 06:30:00 -0400",
-      "snippet": "They own car dealerships, law firms, dental practices, and restaurant chains. Collectively, these overlooked business owners hold far more wealth than the Forbes 400 — and wield considerable political power.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Beijing hits back at Anthropic CEO&apos;s call to curb China&apos;s AI development",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development",
-      "publishedAt": "Mon, 14 Sep 2026 06:09:08 -0400",
-      "snippet": "China&apos;s Ministry of Foreign Affairs on Monday hit back at a call from the head of Anthropic for the U.S. to curb China&apos;s artificial intelligence capabilities.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "New Carlo Rovelli book challenges science&apos;s understanding of reality and the universe",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5968442/on-the-equality-of-all-things-physics-carlo-rovelli",
-      "publishedAt": "Mon, 14 Sep 2026 05:44:44 -0400",
-      "snippet": "In his latest book, the world-renowned physicist draws on science and philosophy to explore the notion that the university and reality are fully knowable.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "ChatGPT has a feature to help those in crisis. But where can you find it?",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
-      "publishedAt": "Mon, 14 Sep 2026 05:00:00 -0400",
-      "snippet": "Earlier this year, OpenAI launched a feature on ChatGPT meant to help people at risk of suicide connect with someone they trust for support. But its setup may prove challenging to someone in crisis.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
-      "publishedAt": "Mon, 14 Sep 2026 02:20:28 -0400",
-      "snippet": "Indonesian authorities intensified on Monday a search for people missing after a ferry overturned in bad weather in the Java Sea. At least six passengers were killed and 129 people are still missing.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
-      "link": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train",
-      "publishedAt": "Mon, 14 Sep 2026 01:46:26 -0400",
-      "snippet": "A Russian drone struck a train near the Ukraine-Poland border shortly after senior visiting officials, including the former prime ministers of the U.K. and Sweden, passed through.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
-      "link": "https://www.npr.org/2026/09/14/g-s1-143138/amazon-suspends-21-air-cargo-carrier",
-      "publishedAt": "Mon, 14 Sep 2026 01:26:01 -0400",
-      "snippet": "Amazon said it&apos;s decided to pause operations with 21 Air as the investigation into the crash continues. North Carolina-based 21 had flown packages for Amazon since 2024.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
-      "link": "https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications",
-      "publishedAt": "Sun, 13 Sep 2026 19:23:00 -0400",
-      "snippet": "Pennsylvania has announced its third measles-related death in less than three weeks. A local coroner says the 40-year-old woman was unvaccinated.",
+      "source": "PBS Headlines",
+      "title": "Mahmoud Khalil lawsuit says Columbia University failed to protect pro-Palestinian activists",
+      "link": "https://www.pbs.org/newshour/nation/mahmoud-khalil-lawsuit-says-columbia-university-failed-to-protect-pro-palestinian-activists",
+      "publishedAt": "Mon, 14 Sep 2026 19:02:54 -0400",
+      "snippet": "The university's \"deliberate indifference\" led to the doxing of multiple group members and Khalil's detention by immigration agents, according to the civil rights lawsuit filed in federal court in New York City.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What to know about recent dire AI predictions and calls for safeguards",
-      "link": "https://www.pbs.org/newshour/science/what-to-know-about-recent-dire-ai-predictions-and-calls-for-safeguards",
-      "publishedAt": "Mon, 14 Sep 2026 08:09:01 -0400",
-      "snippet": "New warnings from within the artificial intelligence industry have revived a long-running debate over whether advanced AI could escape human control and ultimately threaten humanity's survival, and whether the companies developing the technology are doing enough to prevent such a",
+      "title": "Trump pushes back as AI leaders fuel calls to rein in rapidly advancing technology",
+      "link": "https://www.pbs.org/newshour/show/trump-pushes-back-as-ai-leaders-fuel-calls-to-rein-in-rapidly-advancing-technology",
+      "publishedAt": "Mon, 14 Sep 2026 18:55:54 -0400",
+      "snippet": "President Trump rejected calls for greater oversight of artificial intelligence despite the dire warnings of some in the industry. The president's pushback comes after Anthropic CEO Dario Amodei published an essay arguing for a slowdown across leading AI companies, warning rapid ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Pennsylvania officials report state's 3rd death involving measles",
-      "link": "https://www.pbs.org/newshour/health/pennsylvania-officials-report-states-3rd-death-involving-measles",
-      "publishedAt": "Mon, 14 Sep 2026 07:52:04 -0400",
-      "snippet": "The 40-year-old woman died Saturday, Jefferson County Coroner Greg Furlong said in a Facebook post in which he called the death \"measles-related.\"",
+      "title": "News Wrap: Kennedy Center warns of 'fiscal collapse' without Trump's name on building",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-kennedy-center-warns-of-fiscal-collapse-without-trumps-name-on-building",
+      "publishedAt": "Mon, 14 Sep 2026 18:45:46 -0400",
+      "snippet": "In our news wrap Monday, officials at the Kennedy Center are warning of \"certain fiscal collapse\" unless President Trump's name is added to the exterior of the building, several state election officials tell the News Hour they are bracing for uncertainty over mail-in ballots ahea",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump says he's lifting 10% tariff on Irish whiskey because 'everybody's been bugging me'",
-      "link": "https://www.pbs.org/newshour/politics/trump-says-hes-lifting-10-tariff-on-irish-whiskey-because-everybodys-been-bugging-me",
-      "publishedAt": "Mon, 14 Sep 2026 07:43:27 -0400",
-      "snippet": "President Donald Trump announced in April that he was lifting certain tariffs on U.K. whiskey, which includes Scotch and spirits made in Northern Ireland, creating an imbalance with Ireland.",
+      "title": "WATCH: McConnell returns to the Senate for the first time since his June hospitalization",
+      "link": "https://www.pbs.org/newshour/politics/watch-mcconnell-returns-to-the-senate-for-the-first-time-since-his-june-hospitalization",
+      "publishedAt": "Mon, 14 Sep 2026 18:43:17 -0400",
+      "snippet": "Republican Sen. Mitch McConnell of Kentucky has returned to the Senate after a long absence. The 94-year-old senator has not been to the U.S. Capitol since June 14, when he was hospitalized for a fall in his home.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump says he'll consider releasing 9/11 records after families' request",
-      "link": "https://www.pbs.org/newshour/politics/trump-says-hell-consider-releasing-9-11-records-after-families-request",
-      "publishedAt": "Mon, 14 Sep 2026 07:34:03 -0400",
-      "snippet": "President Donald Trump said Sunday that he will look into requests from families of Sept. 11 victims to release records that could shed light on Saudi Arabia's alleged role in the attacks 25 years ago.",
+      "title": "Houthi gains in Yemen, attack on Saudi pipeline compound pressure on oil markets",
+      "link": "https://www.pbs.org/newshour/show/houthi-gains-in-yemen-attack-on-saudi-pipeline-compound-pressure-on-oil-markets",
+      "publishedAt": "Mon, 14 Sep 2026 18:40:45 -0400",
+      "snippet": "Yemen's Houthi rebels seized more islands in the strategically crucial Bab al-Mandab Strait and now control the west coast of the country. This comes as a crucial pipeline in Saudi Arabia will be out of commission for weeks. Ali Rogin discussed the latest with Michael Ratney, the",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
-      "link": "https://www.pbs.org/newshour/politics/trump-downplays-the-need-to-check-ai-development-and-says-he-doesnt-want-to-cede-edge-to-china",
-      "publishedAt": "Sun, 13 Sep 2026 18:08:25 -0400",
-      "snippet": "While acknowledging the need for some regulation, Trump provided no specifics about potential rules and attributed warnings about the technology moving too quickly and with little oversight to \"negative forces\" he did not identify.",
+      "title": "EPA repeals limits on greenhouse gas emissions from power plants",
+      "link": "https://www.pbs.org/newshour/show/epa-repeals-limits-on-greenhouse-gas-emissions-from-power-plants",
+      "publishedAt": "Mon, 14 Sep 2026 18:35:56 -0400",
+      "snippet": "The EPA announced it is repealing rules limiting greenhouse gas emissions from coal and gas-fired power plants. The move eliminates requirements that would have forced some power plants to sharply reduce their emissions, including through technologies such as carbon capture and s",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Inside a Philadelphia barbershop, Black men debate their political past and future",
-      "link": "https://www.pbs.org/newshour/politics/inside-a-philadelphia-barbershop-black-men-debate-their-political-past-and-future",
-      "publishedAt": "Sun, 13 Sep 2026 16:01:56 -0400",
-      "snippet": "Although Black men vote overwhelmingly Democratic, even small shifts in their support can help swing razor-thin elections. They are often some of the most scrutinized but least understood voters, a blind spot that political strategist Khalil Thompson wants to fix.",
+      "title": "Putin-tied Russian oligarch paid for Trump Jr.'s wedding celebrations",
+      "link": "https://www.pbs.org/newshour/show/putin-tied-russian-oligarch-paid-for-trump-jr-s-wedding-celebrations",
+      "publishedAt": "Mon, 14 Sep 2026 18:30:29 -0400",
+      "snippet": "A ProPublica report says a Russian oligarch with ties to Vladimir Putin helped fund Donald Trump Jr.'s wedding celebration in the Bahamas. According to the report, Umar Kremlev, a Russian businessman and president of the International Boxing Association, paid hundreds of thousand",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval",
-      "link": "https://www.pbs.org/newshour/politics/house-speaker-mike-johnson-says-trumps-5000-dividend-needs-congressional-approval",
-      "publishedAt": "Sun, 13 Sep 2026 15:36:17 -0400",
-      "snippet": "Trump made the unusual pitch at the party's midterm convention in Dallas last week, promising a \"Trump Dividend\" if voters keep the GOP in power on Capitol Hill.",
+      "title": "More than 1.2 million children have lost SNAP benefits since last July. Experts explain why",
+      "link": "https://www.pbs.org/newshour/nation/more-than-1-2-million-children-have-lost-snap-benefits-since-last-july-experts-explain-why",
+      "publishedAt": "Mon, 14 Sep 2026 18:29:53 -0400",
+      "snippet": "Experts say that the drop is a cause for worry, and that it's unlikely that the need for food assistance has dropped.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Partial returns show close race between Sweden's conservative government and left-wing opposition",
-      "link": "https://www.pbs.org/newshour/world/swedish-voters-go-to-polls-to-choose-a-new-parliament-as-hard-right-bids-for-role-in-government",
-      "publishedAt": "Sun, 13 Sep 2026 14:41:40 -0400",
-      "snippet": "Exit polls from public broadcaster SVT had initially shown the left-wing parties ahead by several percentage points but with two-thirds of the actual vote counted, the two blocs were nearly dead even.",
+      "title": "Tamara Keith and Amy Walter on Washington's response to AI and data center concerns",
+      "link": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-washingtons-response-to-ai-and-data-center-concerns",
+      "publishedAt": "Mon, 14 Sep 2026 18:25:57 -0400",
+      "snippet": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including how Washington is responding to AI and data center concerns, Mitch McConnell returning to the Senate and how midterm voters feel about af",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "The secret ballot has been an article of faith in U.S. elections. That's being tested in Georgia",
-      "link": "https://www.pbs.org/newshour/politics/the-secret-ballot-has-been-an-article-of-faith-in-u-s-elections-thats-being-tested-in-georgia",
-      "publishedAt": "Sun, 13 Sep 2026 14:19:30 -0400",
-      "snippet": "The system's vulnerability has been drawing increased attention, with election security advocates criticizing state election officials for failing to fix it before the November elections.",
+      "title": "Comedian Jenny Yang takes act to stages inside immigrant grocery stores",
+      "link": "https://www.pbs.org/newshour/show/comedian-jenny-yang-takes-act-to-stages-inside-immigrant-grocery-stores",
+      "publishedAt": "Mon, 14 Sep 2026 18:20:42 -0400",
+      "snippet": "As the challenges facing immigrant communities continue to make headlines, comedian and writer Jenny Yang is taking a different approach in her nationwide stand-up tour to raise awareness of those difficulties. Senior Arts Correspondent Jeffrey Brown caught up with her for our Ar",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed",
-      "link": "https://www.pbs.org/newshour/world/strike-on-iranian-cargo-ship-in-the-strait-of-hormuz-kills-1-iranian-media-say",
-      "publishedAt": "Sun, 13 Sep 2026 13:58:51 -0400",
-      "snippet": "The attack drew attention back to the strait after threats to shipping in the Red Sea intensified last week. Iran-backed Houthi rebels battling government forces in Yemen captured an island on the Bab el-Mandeb Strait, a crucial shipping alternative to the Strait of Hormuz.",
+      "title": "Turkish authorities launch crackdown on LGBTQ+ and HIV support groups",
+      "link": "https://www.pbs.org/newshour/world/turkish-authorities-launch-crackdown-on-lgbtq-and-hiv-support-groups",
+      "publishedAt": "Mon, 14 Sep 2026 18:05:16 -0400",
+      "snippet": "Turkish authorities cracked down on multiple LGBTQ+ groups and individuals early Sunday morning, detaining dozens of members, breaking into association offices and raiding popular hangouts.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Rep. Tom Tiffany swims to safety after plane makes emergency landing in a Wisconsin lake",
-      "link": "https://www.pbs.org/newshour/politics/rep-tom-tiffany-swims-to-safety-after-plane-makes-emergency-landing-in-a-wisconsin-lake",
-      "publishedAt": "Sun, 13 Sep 2026 12:12:04 -0400",
-      "snippet": "Tiffany said he and the pilot remained on top of the plane in Lake Wausau until it began sinking before deciding to try and swim to shore. He said they swam about 100 to 150 feet until they reached water shallow enough to stand in.",
+      "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure",
+      "link": "https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure",
+      "publishedAt": "Mon, 14 Sep 2026 17:57:49 -0400",
+      "snippet": "His comments Monday follow President Donald Trump's claim that Russia and Ukraine agreed not to target each other's energy infrastructure.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, saying attacks are causing a shortage",
-      "link": "https://www.pbs.org/newshour/world/trump-calls-on-ukraine-to-halt-strikes-on-russian-diesel-saying-attacks-are-causing-a-shortage",
-      "publishedAt": "Sun, 13 Sep 2026 11:58:37 -0400",
-      "snippet": "Ukraine has for months been targeting Russia's oil and gas industry with long-range strikes, prompting fuel rationing across the country and causing Moscow to ban diesel exports in July, one factor disrupting the global supply of diesel.",
+      "title": "Pope celebrates his 71st birthday but it's Vatican employees who get the gift",
+      "link": "https://www.pbs.org/newshour/world/pope-celebrates-his-71st-birthday-but-its-vatican-employees-who-get-the-gift",
+      "publishedAt": "Mon, 14 Sep 2026 16:30:23 -0400",
+      "snippet": "The Vatican published a papal decree repealing 2021 salary cuts that Pope Francis had imposed on many Vatican employees as part of the Holy See's COVID-19 cost-saving measures.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Federal judge rules Homeland Security plan for 50% FEMA staffing cuts was unlawful",
-      "link": "https://www.pbs.org/newshour/politics/federal-judge-rules-homeland-security-plan-for-50-fema-staffing-cuts-was-unlawful",
-      "publishedAt": "Sun, 13 Sep 2026 11:44:30 -0400",
-      "snippet": "The issue of the FEMA staffing was part of a much larger lawsuit filed by the American Federation of Government Employees and other labor groups, pushing back on efforts by the Trump administration to slash the federal workforce.",
+      "title": "Man pleads not guilty in the hanging death of Tasia Fortune in Mississippi",
+      "link": "https://www.pbs.org/newshour/nation/man-pleads-not-guilty-in-the-hanging-death-of-tasia-fortune-in-mississippi",
+      "publishedAt": "Mon, 14 Sep 2026 16:25:32 -0400",
+      "snippet": "A man charged with murder in the hanging of a Black woman in Mississippi pleaded not guilty Monday at his first court appearance.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia",
-      "link": "https://www.pbs.org/newshour/world/iran-backed-houthis-in-yemen-claim-new-attacks-on-saudi-arabia",
-      "publishedAt": "Sun, 13 Sep 2026 11:28:36 -0400",
-      "snippet": "The Yemeni government vowed to send more forces to the Red Sea coast after conceding a \"painful\" defeat last week when Houthis captured the port city of Mokha and an island on the Bab el-Mandeb Strait, a crucial shipping alternative to the Strait of Hormuz.",
+      "title": "Houthis seize 2 strategic Red Sea islands, and other Mideast developments",
+      "link": "https://www.pbs.org/newshour/world/houthis-seize-2-strategic-red-sea-islands-and-other-mideast-developments",
+      "publishedAt": "Mon, 14 Sep 2026 16:19:30 -0400",
+      "snippet": "Yemen's Houthi rebels have seized the strategic islands of Greater and Lesser Hanish in the southern Red Sea. This move strengthens their control over a key maritime shipping route.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Minnesota churches roiled by legal battle over ICE surveillance and right to protest",
-      "link": "https://www.pbs.org/newshour/nation/minnesota-churches-roiled-by-legal-battle-over-ice-surveillance-and-right-to-protest",
-      "publishedAt": "Sat, 12 Sep 2026 17:25:55 -0400",
-      "snippet": "Court cases involving Twin Cities churches and immigration enforcement highlight how the acrimonious debate continues to roil faith communities more than six months since the federal surge turned Minnesota into a symbol of defiance of the Trump administration's policies.",
+      "title": "After decades of insurgency, Muslim region in Philippines votes in its first parliamentary election",
+      "link": "https://www.pbs.org/newshour/world/after-decades-of-insurgency-muslim-region-in-philippines-votes-in-its-first-parliamentary-election",
+      "publishedAt": "Mon, 14 Sep 2026 16:07:09 -0400",
+      "snippet": "The vote on Monday marks a crucial step toward self-rule after decades of insurgency in the Bangsamoro Autonomous Region in Muslim Mindanao.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Anthropic CEO says AI industry needs to give safety measures time to catch up",
-      "link": "https://www.pbs.org/newshour/nation/anthropic-ceo-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up",
-      "publishedAt": "Sat, 12 Sep 2026 15:15:26 -0400",
-      "snippet": "\"I believe that if slowing down bought us even an extra year or two before models reach critical levels of capability, and we used that time to advance alignment, we could greatly reduce the risk that something goes seriously wrong,\" Dario Amodei said.",
+      "title": "WATCH LIVE: Patel testifies on FBI oversight before Senate panel amid troubled tenure",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-patel-testifies-on-fbi-oversight-before-senate-panel-amid-troubled-tenure",
+      "publishedAt": "Mon, 14 Sep 2026 15:48:46 -0400",
+      "snippet": "FBI Director Kash Patel is set to appear before the Senate Judiciary Committee on Tuesday for an oversight hearing on the nation's lead law enforcement agency.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "AP analysis: Justice Department went after protesters for felony assault, but juries and judges were unconvinced",
-      "link": "https://www.pbs.org/newshour/politics/ap-analysis-justice-department-went-after-protesters-for-felony-assault-but-juries-and-judges-were-unconvinced",
-      "publishedAt": "Sat, 12 Sep 2026 14:46:38 -0400",
-      "snippet": "The Associated Press' analysis focused on arrests made during protests last summer and fall in LA, Chicago, Portland and Washington, D.C. — cities with significant protests where President Donald Trump sought to or successfully deployed the National Guard.",
+      "title": "Live Results: Delaware midterm primaries",
+      "link": "https://www.pbs.org/newshour/politics/live-results-delaware-midterm-primaries",
+      "publishedAt": "Mon, 14 Sep 2026 15:38:50 -0400",
+      "snippet": "Delaware's Democratic U.S. senator, U.S. representative and state attorney general will go before voters in a state primary Tuesday as they seek reelection.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump touches a nerve while in Ireland by saying reunification would be 'fantastic'",
-      "link": "https://www.pbs.org/newshour/politics/trump-touches-a-nerve-while-in-ireland-by-saying-reunification-would-be-fantastic",
-      "publishedAt": "Sat, 12 Sep 2026 13:11:01 -0400",
-      "snippet": "At a meeting with Irish Prime Minister Micheál Martin in Dublin, Trump said he would love to see the reunification of the Republic of Ireland with the United Kingdom's Northern Ireland.",
+      "title": "Some Democrats recalibrating approach to transgender issues",
+      "link": "https://www.pbs.org/newshour/politics/some-democrats-recalibrating-approach-to-transgender-issues",
+      "publishedAt": "Mon, 14 Sep 2026 14:59:07 -0400",
+      "snippet": "An increasing number of Democratic leaders have begun to push back against their party's unflinching support for the transgender community this midterm season.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
-      "link": "https://www.pbs.org/newshour/world/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-and-its-allies",
-      "publishedAt": "Sat, 12 Sep 2026 12:52:06 -0400",
-      "snippet": "A lightning advance by Houthi rebels threatens a crucial Red Sea shipping route. Drone attacks blamed on Iraqi militias have forced the closure of a major pipeline, and Iran is still disrupting the Strait of Hormuz.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit",
-      "link": "https://www.pbs.org/newshour/world/brics-leaders-voice-concern-over-middle-east-condemn-unilateral-sanctions-at-india-summit",
-      "publishedAt": "Sat, 12 Sep 2026 12:28:01 -0400",
-      "snippet": "The meeting, which included Iranian President Masoud Pezeshkian, voiced concern over \"deliberate attacks\" on civilian infrastructure and peaceful nuclear facilities under the U.N. atomic energy agency's safeguards.",
+      "title": "Some Russians flee country, citing Ukraine war draft fears and loss of freedoms",
+      "link": "https://www.pbs.org/newshour/world/some-russians-flee-country-citing-ukraine-war-draft-fears-and-loss-of-freedoms",
+      "publishedAt": "Mon, 14 Sep 2026 14:49:19 -0400",
+      "snippet": "Some Russians have left the country this year amid rumors of a new mobilization of troops for the war in Ukraine as well as a crackdown on their personal freedoms.",
       "tier": 1
     },
     {
@@ -440,6 +440,102 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Germany news: Merz urges CDU discipline as pressure grows",
+      "link": "https://www.dw.com/en/germany-news-merz-urges-cdu-discipline-as-pressure-grows/live-79256902?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Chancellor Friedrich Merz has urged his party to stay disciplined as pressure grows over his leadership. Meanwhile, Germany&apos;s homeownership rate has fallen to its lowest level in 20 years. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Kremlin-linked Russian oligarch helped fund Trump Jr.&apos;s wedding celebration",
+      "link": "https://www.dw.com/en/kremlin-linked-russian-oligarch-helped-fund-trump-jr-s-wedding-celebration/a-79267341?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Trump&apos;s son and his wife confirmed reports that Umar Kremlev paid for parts of the festivities. Kremlev was awarded the \"Order of Friendship\" by Putin earlier this year.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Arctic power plays: EU searches for a new strategy",
+      "link": "https://www.dw.com/en/arctic-power-plays-eu-searches-for-a-new-strategy/a-79266739?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russia’s aggression, Trump’s threats against Greenland and the race for critical raw materials are pushing the Arctic to the top of Europe’s agenda.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine, Russia set for new round of US-mediated talks",
+      "link": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "New trilateral talks between Ukraine, Russia and the US could begin in October, according to Kyiv and Moscow. Few expect a breakthrough, but Ukraine is seeking a partial de-escalation to help it get through the winter.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump seeks halt to energy attacks by both Russia, Ukraine",
+      "link": "https://www.dw.com/en/trump-seeks-halt-to-energy-attacks-by-both-russia-ukraine/a-79265774?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Donald Trump, under fire for record US diesel prices, claims Russia and Ukraine have agreed to stop striking energy targets. Russia said nothing; Ukraine said \"we expect specifics from our partners\" on any such move.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Donald Trump dismisses concerns about dangers of AI",
+      "link": "https://www.dw.com/en/donald-trump-dismisses-concerns-about-dangers-of-ai/a-79264523?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The president called efforts to slow the development of artificial intelligence a \"sick conspiracy,\" claiming they only serve China. Market leaders have warned of the dangers of the pace of the technology&apos;s development.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Yemen&apos;s Houthis attack Saudis, seize crucial Red Sea islands",
+      "link": "https://www.dw.com/en/yemen-s-houthis-attack-saudis-seize-crucial-red-sea-islands/a-79263838?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Iran-backed Houthi rebels have tightened their grip on a key shipping route, capturing two strategic Red Sea islands. The closure of another global transport route is the latest ripple effect of the US war with Iran.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Women&apos;s Basketball World Cup: Can Germany harness a boom?",
+      "link": "https://www.dw.com/en/women-s-basketball-world-cup-can-germany-harness-a-boom/a-79263602?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany thrilled fans at the Women&apos;s Basketball World Cup. But even if this sparked a boom in the women&apos;s game, the infrastructure simply isn&apos;t ready for it.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "IPO &apos;for the people&apos; is out of reach for many in Nigeria",
+      "link": "https://www.dw.com/en/ipo-for-the-people-is-out-of-reach-for-many-in-nigeria/a-79263398?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Dangote seeks $1.6 billion from investors to finance a $14.3 billion expansion and thus double the oil refinery&apos;s capacity. The offer could give millions of Nigerians a stake in the company. But who can truly afford it?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine: AfD questions German aid, Berlin remains committed",
+      "link": "https://www.dw.com/en/ukraine-afd-questions-german-aid-berlin-remains-committed/a-79257524?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Emboldened by its win in Saxony-Anhalt, the far-right Alternative for Germany wants the government to change its Ukraine and Russia policies. Berlin is staying the course, but support is fading — especially in the east.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "The Crusades: How a medieval Holy War still shapes politics",
+      "link": "https://www.dw.com/en/the-crusades-how-a-medieval-holy-war-still-shapes-politics/a-79203784?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In 1095, the Catholic Church launched the Crusades: wars that left millions dead and whose legacy still shapes political and ideological conflicts.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nepal: thousands still missing as flood recovery begins",
+      "link": "https://www.dw.com/en/nepal-thousands-still-missing-as-flood-recovery-begins/a-79259980?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Himalayan nation is moving from rescue operations to recovery, facing a $4.8 billion reconstruction bill amid renewed calls for climate justice.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "EU leaders urge unity after Russian strike on train",
       "link": "https://www.dw.com/en/eu-leaders-urge-unity-after-russian-strike-on-train/a-79259807?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -448,18 +544,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Berlin businesswoman charged over alleged spying for Russia",
-      "link": "https://www.dw.com/en/berlin-businesswoman-charged-over-alleged-spying-for-russia/a-79258004?maca=en-rss-en-top-1022-rdf",
+      "title": "Berlin businesswoman charged with spying for Russia",
+      "link": "https://www.dw.com/en/berlin-businesswoman-charged-with-spying-for-russia/a-79258004?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Prosecutors say the Berlin marketing executive used her political and military contacts to help a Russian intelligence officer gain access to influential circles and seek information on German defense policy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Foreign minister seeks reset with Hungary",
-      "link": "https://www.dw.com/en/germany-news-foreign-minister-seeks-reset-with-hungary/live-79256902?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "German Foreign Minister Johann Wadephul is visiting Hungary as Berlin seeks to rebuild relations with Budapest. Meanwhile, Germany&apos;s homeownership rate has fallen to its lowest level in 20 years. DW has the latest.",
       "tier": 2
     },
     {
@@ -467,7 +555,7 @@
       "title": "India women&apos;s team refuse Asia Cup cricket trophy from Pakistan minister",
       "link": "https://www.dw.com/en/india-women-s-team-refuse-asia-cup-cricket-trophy-from-pakistan-minister/live-79254950?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "India&apos;s women&apos;s cricket team skipped the trophy presentation with Pakistani minister Mohsin Naqvi after beating Sri Lanka to win a record eighth Asia Cup title. DW has more.",
+      "snippet": "After beating Sri Lanka to win a record eighth Asia Cup title, the Indian women&apos;s cricket team skipped the trophy presentation with Pakistani Interior Minister Mohsin Naqvi.",
       "tier": 2
     },
     {
@@ -500,94 +588,6 @@
       "link": "https://www.dw.com/en/north-korea-says-recent-drill-shows-huge-destructive-power/a-79255028?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "North Korea carried out a coordinated live-fire exercise involving multiple weapons systems over the weekend. The drill came after the US, South Korea and Japan wrapped up five days of joint maritime exercises.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Can Iran replace sea trade with land routes?",
-      "link": "https://www.dw.com/en/can-iran-replace-sea-trade-with-land-routes/a-79211179?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Iran is shifting trade toward northern ports and land routes as its southern shipping faces a US blockade. Analysts say the corridors can keep essential goods moving, but cannot replace maritime trade.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "In cosmopolitan Berlin, elections still closed to foreigners",
-      "link": "https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A quarter of Berlin residents will have no say in the German capital&apos;s city-state election because they lack citizenship. That&apos;s the highest proportion of residents excluded from the election yet, and many are unhappy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Canada seeks &apos;unique alliance&apos; with EU, Carney says",
-      "link": "https://www.dw.com/en/canada-seeks-unique-alliance-with-eu-carney-says/a-79254541?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Mark Carney clarified Canada&apos;s EU ambitions amid a WSJ report that Ottawa was exploring an \"associate membership\" with the bloc.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: Merz&apos;s CDU comes out on top in Lower Saxony polls",
-      "link": "https://www.dw.com/en/germany-merz-s-cdu-comes-out-on-top-in-lower-saxony-polls/a-79254724?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Christian Democrats have emerged as the strongest party at local elections in the state of Lower Saxony. The vote was closely watched as an indicator of the strength of the far-right AfD, which came in third.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Cuban dance teacher ordered EU sabotage attacks from Russia",
-      "link": "https://www.dw.com/en/cuban-dance-teacher-ordered-eu-sabotage-attacks-from-russia/a-79225946?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In 2024, a Cuban man coordinated a series of arson attacks in four EU countries while operating on behalf of Russian intelligence services. DW Investigations tracked him back to a Latin dance studio in Russia.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump dismisses report China supplied intel to Iran",
-      "link": "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US president downplayed reports that Chinese entities had given Iran satellite imagery before a strike on a military base in Jordan that killed three American soldiers.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Sweden election &apos;very close&apos; as left bloc claims tight lead",
-      "link": "https://www.dw.com/en/sweden-election-very-close-as-left-bloc-claims-tight-lead/a-79248599?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The center-left opposition is narrowly ahead of the incumbent&apos;s right-wing bloc and could be poised to return to government after four years. The far-right Sweden Democrats surprisingly lost ground.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: CDU ahead in Lower Saxony local election",
-      "link": "https://www.dw.com/en/germany-cdu-ahead-in-lower-saxony-local-election/live-79223427?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The CDU is on course to win in municipal polls in the northwestern state of Lower Saxony that were seen as a gauge of support for the far-right AfD party.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s Zverev wins US Open in golden year",
-      "link": "https://www.dw.com/en/germany-s-zverev-wins-us-open-in-golden-year/a-79212706?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Alexander Zverev has won the US Open for the first time, defeating Ben Shelton in the final. It is Zverev&apos;s second Grand Slam win of 2026 after a long wait for his first title, but controversy still hangs over him.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Turkey: 162 arrested in LGBTQ+ raids",
-      "link": "https://www.dw.com/en/turkey-162-arrested-in-lgbtq-raids/a-79251409?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Turkish authorities have arrested at least 162 people in a weekend crackdown on the country&apos;s LGBTQ+ community. Ankara says police raids on gay bars and other venues are aimed at protecting family values.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine, Poland say Russia hit Warsaw-bound passenger train",
-      "link": "https://www.dw.com/en/ukraine-poland-say-russia-hit-warsaw-bound-passenger-train/a-79251428?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The strike hit a locomotive of a passenger train headed to Warsaw with reports that senior Western figures were at the station shortly before the attack.",
       "tier": 2
     }
   ]
