@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T01:03:46.920Z",
+  "generatedAt": "2026-09-17T12:41:38.095Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,6 +32,54 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:18 GMT",
+      "snippet": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 08:22:12 GMT",
+      "snippet": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ninth woman's body found as South African police investigate string of deaths",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 12:07:23 GMT",
+      "snippet": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Swedish PM Kristersson resigns after election loss",
+      "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 12:41:05 GMT",
+      "snippet": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "EU announces plan to restrict social media access for under-15s",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 10:00:14 GMT",
+      "snippet": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Aztec document goes on display in Mexico after 186 years abroad",
+      "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 11:00:41 GMT",
+      "snippet": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "US interest rates raised for first time in three years",
       "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 17 Sep 2026 00:40:17 GMT",
@@ -40,10 +88,50 @@
     },
     {
       "source": "BBC World",
-      "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 23:41:57 GMT",
-      "snippet": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+      "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:36 GMT",
+      "snippet": "There is no doubt over the outcome of this vote, but for the Kremlin they are still an important moment.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Abducted South African journalist found dead with gunshot wounds",
+      "link": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 06:46:31 GMT",
+      "snippet": "The body of veteran broadcaster Owen Ndlovu was found hours after armed men kidnapped him near Johannesburg.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "One dead after torrential rain and flash floods hit Barcelona region",
+      "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 08:39:30 GMT",
+      "snippet": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 11:05:29 GMT",
+      "snippet": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "India faces 100% tariff threat over Russian oil after US House vote",
+      "link": "https://www.bbc.co.uk/news/articles/c3lyrn4p870yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 05:33:29 GMT",
+      "snippet": "Trump’s tariff threat puts India’s Russian oil strategy- and its access to the US market - in a new bind.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/cm986j81ky55o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 05:05:09 GMT",
+      "snippet": "The government wants to reduce net overseas migration to 225,000 people by 2028.",
       "tier": 1
     },
     {
@@ -56,10 +144,10 @@
     },
     {
       "source": "BBC World",
-      "title": "EU chief backs plan for Canada to become 'associate member'",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 00:32:05 GMT",
-      "snippet": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 16 Sep 2026 23:41:57 GMT",
+      "snippet": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
       "tier": 1
     },
     {
@@ -103,171 +191,91 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 10:02:05 GMT",
-      "snippet": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-      "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 08:36:17 GMT",
-      "snippet": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 15:33:19 GMT",
-      "snippet": "The conservative activist was speaking to a crowd of thousands on the university campus when he was shot and killed by a gunman positioned on a roof.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 11:02:54 GMT",
-      "snippet": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US limits visas for South African officials over alleged anti-white discrimination",
-      "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 13:57:03 GMT",
-      "snippet": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 12:26:00 GMT",
-      "snippet": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
-      "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 11:50:09 GMT",
-      "snippet": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 13:29:39 GMT",
-      "snippet": "Olu Jacobs was one of Nigeria's most recognised actors, whose career spanned several decades.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
-      "link": "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 09:33:40 GMT",
-      "snippet": "South Korea's delegation slams the wooden containers housing its athletes at the Asian Games in Nagoya city.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 02:40:51 GMT",
-      "snippet": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Why Trump is all-in on AI despite the warnings",
-      "link": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 08:41:44 GMT",
-      "snippet": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
+      "source": "NPR News",
+      "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
+      "publishedAt": "Thu, 17 Sep 2026 08:33:36 -0400",
+      "snippet": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Here&apos;s why an Arizona medical examiner is working to track heat-related deaths",
-      "link": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
-      "publishedAt": "Wed, 16 Sep 2026 19:07:40 -0400",
-      "snippet": "No one across the U.S. is consistently tracking climate-fueled deaths. One medical examiner has a new protocol on heat-deaths.",
+      "title": "The Fed raises interest rates. And, EU proposes Canada become an &apos;associate member&apos;",
+      "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
+      "publishedAt": "Thu, 17 Sep 2026 06:54:18 -0400",
+      "snippet": "The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever \"associate member.\"",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump&apos;s desk",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
-      "publishedAt": "Wed, 16 Sep 2026 18:30:46 -0400",
-      "snippet": "The legislation was named for the late South Carolina Republican. It gives the president authority to impose tariffs on top importers of oil and natural gas from Russia, such as China and India.",
+      "title": "Pressure on global chokepoints drives Asia&apos;s increased use of Arctic Trade Routes",
+      "link": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
+      "publishedAt": "Thu, 17 Sep 2026 06:00:00 -0400",
+      "snippet": "Asian nations began pilot voyages over a decade ago to find routes to Europe and the Middle East that were faster and less vulnerable to chokepoints. The ongoing war has added impetus to those efforts.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "You&apos;d expect homeowners to save their stuff. Federal policy pays them to leave it",
-      "link": "https://www.npr.org/2026/09/16/g-s1-143708/video-houses-collapse-north-carolina-ocean",
-      "publishedAt": "Wed, 16 Sep 2026 17:20:59 -0400",
-      "snippet": "NPR dug into the upside-down world of FEMA flood insurance in coastal areas, and found many homeowners have no financial choice but to let their homes collapse.",
+      "title": "Why reshaping memories may hold the key to raising self-esteem",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem",
+      "publishedAt": "Thu, 17 Sep 2026 05:02:00 -0400",
+      "snippet": "In a new book, psychologist Marisa Franco explains why it&apos;s good to feel good about yourself — and shares a helpful memory technique that we&apos;ve turned into a printable worksheet.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Committee investigating Epstein holds billionaire Leon Black in contempt of Congress",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
-      "publishedAt": "Wed, 16 Sep 2026 17:12:27 -0400",
-      "snippet": "Billionaire investor Leon Black refused to appear before the committee investigating convicted sex offender Jeffrey Epstein for a deposition. Now it&apos;s up to the Department of Justice whether to pursue criminal charges.",
+      "title": "D.C. airspace is complicated. Experts say Trump&apos;s arch would add one more risk",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5950462/trump-arch-dca-planes-safety-concerns-faa",
+      "publishedAt": "Thu, 17 Sep 2026 05:01:00 -0400",
+      "snippet": "The Trump administration wants to build its 250-foot arch near one of the country&apos;s busiest runways. The FAA will determine whether that poses a hazard. But independent experts already have concerns.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trump administration plans ideological warning signs for Smithsonian",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
-      "publishedAt": "Wed, 16 Sep 2026 16:55:54 -0400",
-      "snippet": "The Interior Secretary says the move is necessary to combat what he calls ideological bias.",
+      "title": "People&apos;s houses are collapsing into the ocean. FEMA gives them no other option",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5844642/fema-homes-collapse-ocean-climate-north-carolina-maine",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:00 -0400",
+      "snippet": "Waterfront homes are collapsing along the coast. Homeowners generally have plenty of warning before their house buckles. So why aren&apos;t most houses removed, or at least emptied, before they fall?",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The &apos;burnerverse&apos; exploiting young women in college",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971222/the-burnerverse-exploiting-young-women-in-college",
-      "publishedAt": "Wed, 16 Sep 2026 16:50:17 -0400",
-      "snippet": "Wired reporter EJ Dickson speaks with NPR&apos;s Juana Summers about an online community that targets and harasses young women with their own nonconsensual, sexually explicit images.",
+      "title": "Pediatricians raise the alarm on the effect of Trump&apos;s immigration crackdown on kids",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5953989/immigration-crackdown-children-medical-care",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:00 -0400",
+      "snippet": "The Trump administration has been pursuing a quiet immigration crackdown strategy: limiting access to health care and public services. The American Academy of Pediatrics is sounding the alarm about the impact on children.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "EU rolls out red carpet to Canada to become its first &apos;associate member&apos;",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
-      "publishedAt": "Wed, 16 Sep 2026 16:08:27 -0400",
-      "snippet": "The European Union&apos;s top official backs the Canadian prime minister&apos;s push for his country to become the bloc&apos;s first \"associate member,\" as Brussels seeks to deepen ties amid pressure from the U.S.",
+      "title": "A Sikh truck driver is stabbed amid a rise in anti-South Asian rhetoric",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5971866/truck-driver-attack-wyoming-sikh-south-asian",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:00 -0400",
+      "snippet": "The driver said he was shaken by a violent encounter at a rest stop, which he described as unprovoked.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Congress is under pressure to act on AI — here&apos;s what that could look like",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
-      "publishedAt": "Wed, 16 Sep 2026 13:32:44 -0400",
-      "snippet": "Lawmakers are expressing broader willingness to regulate AI development, but the path forward may not be a quick one.",
+      "title": "Big questions - and key logistical details - loom ahead of China-U.S. summit",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5971293/trump-xi-summit-china",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:00 -0400",
+      "snippet": "Despite the lingering questions, China remains optimistic about the summit.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "DOJ charges Russian agents with plotting attacks, including in the U.S.",
-      "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
-      "publishedAt": "Wed, 16 Sep 2026 13:19:49 -0400",
-      "snippet": "The indictment says the defendants belong to a network that \"is one arm of the Russian Federation&apos;s apparatus used to carry out external attacks\" worldwide.",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5966387/morning-news-brief",
+      "publishedAt": "Thu, 17 Sep 2026 04:45:53 -0400",
+      "snippet": "The Fed raises interest rates for the first time in three years, protests over rising gas prices are being held around the world, Canada&apos;s prime minister speaks to European Parliament.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "A tumultuous congressional primary season closes with record departures and defeats",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat",
-      "publishedAt": "Wed, 16 Sep 2026 13:05:41 -0400",
-      "snippet": "Already, close to 100 lawmakers who started this Congress will not be around for the next one, according to an NPR analysis, driven by record-setting retirements and primary defeats.",
+      "source": "PBS Headlines",
+      "title": "Carney embraces EU associate membership proposal as Trump pushes Canada closer to Europe",
+      "link": "https://www.pbs.org/newshour/world/carney-embraces-eu-associate-membership-proposal-as-trump-pushes-canada-closer-to-europe",
+      "publishedAt": "Thu, 17 Sep 2026 08:36:44 -0400",
+      "snippet": "Canadian Prime Minister Mark Carney on Thursday embraced the prospect of his country becoming the European Union's first associate member, saying closer ties with the continent would ensure no country could control Canada's markets or undermine its sovereignty.",
       "tier": 1
     },
     {
@@ -423,19 +431,139 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "WATCH LIVE: House passes sweeping Russia sanctions bill, sending it to Trump",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-house-considers-bills-on-russia-sanctions-ai-data-center-costs",
-      "publishedAt": "Wed, 16 Sep 2026 13:14:15 -0400",
-      "snippet": "The House on Wednesday passed a broad package of sanctions targeting Russian officials and key pillars of its economy as lawmakers look to deprive President Vladimir Putin of the financial resources needed to wage the war against Ukraine.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Klopp wants Germany football team to &apos;reclaim the flag&apos;",
+      "link": "https://www.dw.com/en/klopp-wants-germany-football-team-to-reclaim-the-flag/a-79307610?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Jürgen Klopp says he wants his Germany team to reclaim pride in being German after recent political developments.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Serbia&apos;s President Vucic criticizes Kosovo war crimes verdict",
+      "link": "https://www.dw.com/en/serbia-s-president-vucic-criticizes-kosovo-war-crimes-verdict/a-79307654?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The conviction of four former Kosovo Liberation Army leaders has drawn sharply different reactions across the Balkans. Serbia has accused the court of failing to fully address crimes against Serbs.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "King Charles, Earl Spencer clash over Diana death once again",
+      "link": "https://www.dw.com/en/king-charles-earl-spencer-clash-over-diana-death-once-again/a-79305876?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Buckingham Palace has rejected criticisms of King Charles III in a new book from the brother of his late wife Princess Diana. Earl Charles Spencer has been a fierce critic of his former brother-in-law for decades.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Canada&apos;s Carney welcomes associate status idea in EU speech",
+      "link": "https://www.dw.com/en/canada-s-carney-welcomes-associate-status-idea-in-eu-speech/a-79306191?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Mark Carney wants to strengthen Canada&apos;s ties to the European Union amid a growing rift with the US under Donald Trump. The US president has threatened to halt trade with Europe if it makes Canada an associate EU member.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Jews once lived lived here: When houses tell stories",
+      "link": "https://www.dw.com/en/jews-once-lived-lived-here-when-houses-tell-stories/a-79264813?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Time and again, residents tracing the history of their homes discover the lives of Jewish predecessors who fled or were deported amid stories of suffering and loss.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Fiji declares HIV a national crisis, 1 in 60 adults carry it",
+      "link": "https://www.dw.com/en/fiji-declares-hiv-a-national-crisis-1-in-60-adults-carry-it/a-79300628?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Fiji&apos;s government estimates that HIV prevalence has almost tripled in the last five years. It&apos;s expanding testing, prevention and treatment services. In 2025 the tiny island recorded 16 times more new cases than in 2019.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Jürgen Klopp&apos;s first Germany squad includes 44 players",
+      "link": "https://www.dw.com/en/jürgen-klopp-s-first-germany-squad-includes-44-players/a-79289254?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany&apos;s new head coach Jürgen Klopp has named a huge squad for his first four games, splitting them into two groups. A host of new faces is included.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Australia to restrict student, backpacker visas in migration clampdown",
+      "link": "https://www.dw.com/en/australia-to-restrict-student-backpacker-visas-in-migration-clampdown/a-79302553?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Australian interior minister said reducing migration is needed to address housing pressures. The move comes amid a far-right surge in the polls.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Mysterious explosions reported in Frankfurt",
+      "link": "https://www.dw.com/en/germany-news-mysterious-explosions-reported-in-frankfurt/live-79300494?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A cafe and kiosk were damaged overnight in Frankfurt, in what police said are the latest in a series of mysterious blasts in the area. Meanwhile, diesel prices in Germany have hit an all-time high. More on DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: New Delhi denies claims world leaders fell ill after BRICS summit",
+      "link": "https://www.dw.com/en/india-news-new-delhi-denies-claims-world-leaders-fell-ill-after-brics-summit/live-79300604?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "India&apos;s foreign ministry rejected viral social media claims that leaders fell ill after the BRICS summit. Meanwhile, India defended its right to buy oil from diverse sources after the US passed a new sanctions bill.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Saint, sinner or feminist icon: How Mary Magdalene&apos;s image evolved through time",
+      "link": "https://www.dw.com/en/saint-sinner-or-feminist-icon-how-mary-magdalene-s-image-evolved-through-time/a-79293868?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "From \"Apostle of the Apostles\" to prostitute, Mary Magdalene has been assigned a wide variety of roles, as a new exhibition shows.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US extends visa denial for Palestinian officials ahead of UNGA",
+      "link": "https://www.dw.com/en/us-extends-visa-denial-for-palestinian-officials-ahead-of-unga/a-79300290?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US State Department extended its visa sanctions on Palestinian officials, ahead of the UN General Assembly. Palestinian Authority President Mahmoud Abbas will likely submit a video statement for the gathering.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "OpenAI discloses new &apos;concerning&apos; behavior",
+      "link": "https://www.dw.com/en/openai-discloses-new-concerning-behavior/a-79300180?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "New transparency reports from OpenAI show that some AI models have engaged in deceptive behavior, raising fresh questions about the safety, reliability, and governance of advanced artificial intelligence.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine: Russian strikes injure several in Kyiv, Odesa",
+      "link": "https://www.dw.com/en/ukraine-russian-strikes-injure-several-in-kyiv-odesa/a-79299579?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russian airstrikes hit apartment buildings and warehouses in Ukraine, injuring several people, including a child.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump threatens EU with further sanctions over Canada",
+      "link": "https://www.dw.com/en/trump-threatens-eu-with-further-sanctions-over-canada/a-79299548?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The EU had signaled that Canada is poised to become the bloc&apos;s first associate member. Trump called the idea both \"laughable\" and a \"hostile act.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How climate change worsened Nepal&apos;s deadly mountain collapse",
+      "link": "https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A glacier and rock collapse in Nepal killed nearly 1,400 people and left thousands missing. Scientists say decades of warming helped set the disaster in motion.",
       "tier": 2
     },
     {
@@ -460,134 +588,6 @@
       "link": "https://www.dw.com/en/us-fed-raises-key-rate-for-first-time-in-3-years/a-79297295?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "In an attempt to address the persistently high inflation in the world&apos;s largest economy, the US Federal Reserve increased interest rates by 25 basis points. The president, on the other hand, said they should be cut.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: Oktoberfest beer prices rise, outpacing inflation",
-      "link": "https://www.dw.com/en/germany-oktoberfest-beer-prices-rise-outpacing-inflation/a-79296932?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Oktoberfest&apos;s traditional beer mug, the Mass, will cost an average of €15.61 ($18.50) at this year&apos;s festival in Munich.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK: Village votes to &apos;secede&apos; in asylum center plan protest",
-      "link": "https://www.dw.com/en/uk-village-votes-to-secede-in-asylum-center-plan-protest/a-79295826?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Residents of Piddington, a tiny, remote village in Oxfordshire in England, have staged a \"referendum\" on leaving the UK. They are objecting to plans to open an asylum reception center at a disused military base nearby.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Can Canada and the EU build a deeper partnership?",
-      "link": "https://www.dw.com/en/can-canada-and-the-eu-build-a-deeper-partnership/a-79295388?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Canadian Prime Minister Carney is known for standing up to US President Donald Trump. Now he wants to forge a \"unique alliance\" with Europe. But what could such a partnership look like?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Chancellor Merz seeks CDU support as AfD encroaches",
-      "link": "https://www.dw.com/en/chancellor-merz-seeks-cdu-support-as-afd-encroaches/a-79290192?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Following the CDU&apos;s crushing defeat in the Saxony-Anhalt state election, many are expressing doubts about the party&apos;s leader, Chancellor Friedrich Merz. But the CDU doesn&apos;t appear to have a viable alternative.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Shock in Kosovo as Hague convicts former President Thaci",
-      "link": "https://www.dw.com/en/shock-in-kosovo-as-hague-convicts-former-president-thaci/a-79294916?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The conviction in The Hague of former President Hashim Thaci and three former Kosovo Liberation Army leaders has caused consternation in Kosovo — both among political leaders and on the streets. DW reports from Pristina.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "British-American writer Bonnie Greer dies aged 77",
-      "link": "https://www.dw.com/en/british-american-writer-bonnie-greer-dies-aged-77/a-79293174?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Chicago-born playwright Bonnie Greer, who became a familiar face in British political discourse later in life, has died. Her husband David Hutchins announced news of Greer&apos;s death.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Gaza: At least 21 dead, including children, in building collapse",
-      "link": "https://www.dw.com/en/gaza-at-least-21-dead-including-children-in-building-collapse/a-79293453?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The search for survivors has been hampered by Israeli restrictions on heavy machinery in the Gaza Strip. Authorities say 2,000 damaged buildings in the territory are occupied by families who have nowhere else to go.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Forgotten US court of &apos;secrecy&apos; could mean more deportations",
-      "link": "https://www.dw.com/en/forgotten-us-court-of-secrecy-could-mean-more-deportations/a-79291125?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The use of a secretive and long dormant court in the deportation of a woman from the US could have significant consequences. The Alien Terrorist Removal Court was just used for the first time in its 30-year history.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "After Neuer: Who will be Germany&apos;s new No. 1 goalkeeper?",
-      "link": "https://www.dw.com/en/after-neuer-who-will-be-germany-s-new-no-1-goalkeeper/a-79276377?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Following Manuel Neuer&apos;s retirement, there are many candidates to succeed him, but which goalkeeper will Jürgen Klopp choose? What factors will play a role? And will Neuer&apos;s future have an indirect influence?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How the Houthis are also putting Egypt under pressure",
-      "link": "https://www.dw.com/en/how-the-houthis-are-also-putting-egypt-under-pressure/a-79291103?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Houthis, a Yemeni rebel group, are expanding their control of maritime corridors in the Red Sea area. Their target is their avowed enemy Saudi Arabia. But the military moves also endanger Egypt.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran: Activists sound alarm as regime seizes Baha&apos;i assets",
-      "link": "https://www.dw.com/en/iran-activists-sound-alarm-as-regime-seizes-baha-i-assets/a-79291138?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Rights groups warn Iran is increasingly confiscating assets from government critics and members of the country&apos;s Baha&apos;i faith, but also actors, athletes and journalists living abroad.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Poland reaffirms support for Ukraine after drone strikes",
-      "link": "https://www.dw.com/en/poland-reaffirms-support-for-ukraine-after-drone-strikes/a-79291144?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After Russia&apos;s recent drone attacks on targets close to the Ukraine-Poland border, Warsaw has doubled down on its support for Kyiv and pledged a \"nonprovocative but serious response\" to Moscow.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Belarus to release 25 more prisoners as US eases sanctions",
-      "link": "https://www.dw.com/en/belarus-to-release-25-more-prisoners-as-us-eases-sanctions/a-79290676?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Belarus will release 25 more prisoners under an interim agreement with the United States, while Washington plans to lift sanctions on two Belarusian companies and pursue broader negotiations.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Congo&apos;s Ebola epidemic may have gone undetected for months",
-      "link": "https://www.dw.com/en/congo-s-ebola-epidemic-may-have-gone-undetected-for-months/a-79281803?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The deadliest Ebola outbreak on record in the Democratic Republic of Congo may have begun months before it was first declared in May.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: US bill sanctioning Russia could hit India with tariffs of up to 100%",
-      "link": "https://www.dw.com/en/india-news-us-bill-sanctioning-russia-could-hit-india-with-tariffs-of-up-to-100/live-79285577?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A new bill could give President Trump the power to impose tariffs of up to 100% on countries buying Russian oil and gas, potentially affecting major importer India.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Conservative state premiers rally behind Merz",
-      "link": "https://www.dw.com/en/germany-news-conservative-state-premiers-rally-behind-merz/live-79289786?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "All eight CDU state premiers have backed Friedrich Merz, urging the party to focus on rebuilding trust. Plus, Germany&apos;s coalition is weighing rapid relief as record fuel prices pile pressure on households. DW has more.",
       "tier": 2
     }
   ]
