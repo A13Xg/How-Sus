@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T12:39:34.531Z",
+  "generatedAt": "2026-09-22T01:03:10.431Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,42 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 08:56:27 GMT",
-      "snippet": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 14:14:16 GMT",
+      "snippet": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 22 Sep 2026 00:16:06 GMT",
+      "snippet": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 16:54:56 GMT",
+      "snippet": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "First UK charges brought over 1994 Rwanda genocide",
+      "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 17:48:23 GMT",
+      "snippet": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 20:26:41 GMT",
+      "snippet": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded.",
       "tier": 1
     },
     {
@@ -48,17 +80,17 @@
     },
     {
       "source": "BBC World",
-      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 12:21:02 GMT",
-      "snippet": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
+      "title": "Xhaka under investigation over Covid-19 certificate",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 15:24:51 GMT",
+      "snippet": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Seven Ethiopian rebel groups form new alliance",
       "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 11:46:39 GMT",
+      "publishedAt": "Mon, 21 Sep 2026 17:02:47 GMT",
       "snippet": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
       "tier": 1
     },
@@ -72,18 +104,26 @@
     },
     {
       "source": "BBC World",
-      "title": "British Museum bans visitors from photographing Bayeux Tapestry",
-      "link": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 12:21:40 GMT",
-      "snippet": "Visitors stopping to take pictures of the 68m medieval embroidery were holding up others, prompting the rule change.",
+      "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+      "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 20:21:18 GMT",
+      "snippet": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Three arrested in South Africa over one of nine women's body finds",
+      "title": "Two charged with woman's murder as South Africa police investigate eight other body finds",
       "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 12:22:00 GMT",
+      "publishedAt": "Mon, 21 Sep 2026 17:06:16 GMT",
       "snippet": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
+      "link": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 12:30:54 GMT",
+      "snippet": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations.",
       "tier": 1
     },
     {
@@ -112,9 +152,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+      "title": "Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose",
       "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 07:01:25 GMT",
+      "publishedAt": "Mon, 21 Sep 2026 19:01:36 GMT",
       "snippet": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
       "tier": 1
     },
@@ -151,43 +191,27 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 10:45:39 GMT",
-      "snippet": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+      "source": "NPR News",
+      "title": "What the equinox &apos;henge&apos; effect tells us about U.S. cities",
+      "link": "https://www.npr.org/2026/09/21/nx-s1-5973179/equinox-henge-sunrise-sunset",
+      "publishedAt": "Mon, 21 Sep 2026 15:50:13 -0400",
+      "snippet": "The fall equinox, which arrives Tuesday in the U.S., brings shorter days, and chances to witness alignment between Earth and the sun. It&apos;s a modern version of ancient observances of a celestial shift.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-      "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 19:04:11 GMT",
-      "snippet": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+      "source": "NPR News",
+      "title": "Aviation regulators turn to AI to help manage the nation&apos;s airspace",
+      "link": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
+      "publishedAt": "Mon, 21 Sep 2026 13:37:56 -0400",
+      "snippet": "The Federal Aviation Administration launched an ambitious $875-million-dollar push to make the U.S. airspace more efficient. But critics say it won&apos;t solve bigger problems with air traffic control.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Trump says triumphal arch will be military complex with drones and snipers",
-      "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 16:36:43 GMT",
-      "snippet": "Trump said the updated plans were at the request of the US military and for national security purposes.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-      "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 10:00:31 GMT",
-      "snippet": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Workers came across human remains – and unearthed a mass grave of 572 people",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j4kl80z56o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 22:28:15 GMT",
-      "snippet": "Workers in northern Sri Lanka accidentally uncovered the country's largest mass grave – and reopened wounds from its civil war.",
+      "source": "NPR News",
+      "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
+      "link": "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit",
+      "publishedAt": "Mon, 21 Sep 2026 12:40:28 -0400",
+      "snippet": "Paramount&apos;s owners have made concessions to 12 Democratic state attorneys general to settle a lawsuit that endangered the media company&apos;s bid for its larger Hollywood rival, Warner Bros. Discovery.",
       "tier": 1
     },
     {
@@ -196,14 +220,6 @@
       "link": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
       "publishedAt": "Mon, 21 Sep 2026 07:24:27 -0400",
       "snippet": "This week, world leaders convene for the U.N. General Assembly as war continues in Ukraine and the Gulf. And, President Trump has proposed that his arch serve as a military complex.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "German chancellor stands his ground after his party loses in state elections",
-      "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
-      "publishedAt": "Mon, 21 Sep 2026 05:00:00 -0400",
-      "snippet": "German Chancellor Freidrich Merz conceded that the night spells \"disaster\" for the political center, but assured the public he&apos;d push ahead with his federal agenda of tax and welfare reforms.",
       "tier": 1
     },
     {
@@ -220,6 +236,14 @@
       "link": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
       "publishedAt": "Mon, 21 Sep 2026 05:00:00 -0400",
       "snippet": "The U.S. gets nearly a third of its pork from Iowa. One family is making the switch from pigs to more sustainable specialty mushrooms and trying to show other pig farmers how they did it.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Germany&apos;s leader stands his ground after his party loses in state elections",
+      "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+      "publishedAt": "Mon, 21 Sep 2026 05:00:00 -0400",
+      "snippet": "German Chancellor Freidrich Merz conceded that the night spells \"disaster\" for the political center, but assured the public he&apos;d push ahead with his federal agenda of tax and welfare reforms.",
       "tier": 1
     },
     {
@@ -247,187 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "CNN, MS NOW and Politico will sue Trump after being barred from White House",
-      "link": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
-      "publishedAt": "Mon, 21 Sep 2026 04:39:38 -0400",
-      "snippet": "Reporters from CNN, MS NOW and Politico say they were prevented from entering the White House grounds after President Trump announced plans to ban all three outlets.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Federal immigration agent shoots and injures man in Austin, Texas",
-      "link": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
-      "publishedAt": "Sun, 20 Sep 2026 17:53:00 -0400",
-      "snippet": "The Department of Homeland Security said Monday it was leading the investigation into the officer involved in a shooting of \"an illegal alien from Venezuela\" during an operation in Austin, Texas.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
-      "link": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
-      "publishedAt": "Sun, 20 Sep 2026 17:39:24 -0400",
-      "snippet": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise concerns over wildlife poisonings in East Africa.",
+      "source": "PBS Headlines",
+      "title": "Press pool declines to cover Trump in protest of his ban on news outlets",
+      "link": "https://www.pbs.org/newshour/show/press-pool-declines-to-cover-trump-in-protest-of-his-ban-on-news-outlets",
+      "publishedAt": "Mon, 21 Sep 2026 18:55:26 -0400",
+      "snippet": "CNN, MS NOW and Politico are suing the Trump administration for stripping access to the White House, calling it a \"direct assault on the First Amendment.\" Monday, CNN was removed from its duties for the rotating pool of TV journalists covering the White House. The TV pool announc",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "World leaders meet at UN as planet grapples with war, runaway AI and climate shocks",
-      "link": "https://www.pbs.org/newshour/world/world-leaders-meet-at-un-as-planet-grapples-with-war-runaway-ai-and-climate-shocks",
-      "publishedAt": "Mon, 21 Sep 2026 08:07:52 -0400",
-      "snippet": "Under a global cloud of bitter divisions, world leaders meet at the United Nations this week facing new fears.",
+      "title": "Trump's attacks on free press echo rhetoric used by autocrats, Jodie Ginsberg says",
+      "link": "https://www.pbs.org/newshour/show/trumps-attacks-on-free-press-echo-rhetoric-used-by-autocrats-jodie-ginsberg-says",
+      "publishedAt": "Mon, 21 Sep 2026 18:50:37 -0400",
+      "snippet": "To discuss President Trump's decision to ban CNN, MS NOW and Politico from the White House, Amna Nawaz spoke with Jodie Ginsberg, CEO of the Committee to Protect Journalists.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "CNN, MS NOW, Politico say they've notified Trump they're suing over denied White House access",
-      "link": "https://www.pbs.org/newshour/politics/cnn-ms-now-politico-say-theyve-notified-trump-theyre-suing-over-denied-white-house-access",
-      "publishedAt": "Mon, 21 Sep 2026 07:39:54 -0400",
-      "snippet": "The actions were a clear escalation of President Donald Trump's long-running efforts — in the courts and through administrative action — to restrict news coverage by journalists he finds objectionable, and were the latest test of First Amendment protections in the United States.",
+      "title": "News Wrap: FAA issues ground stops at major East Coast airports due to equipment failure",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-faa-issues-ground-stops-at-major-east-coast-airports-due-to-equipment-failure",
+      "publishedAt": "Mon, 21 Sep 2026 18:45:16 -0400",
+      "snippet": "In our news wrap Monday, the FAA issued ground stops at a handful of major airports on the East Coast due to an equipment failure, Paramount settled antitrust concerns with a dozen states over its buyout of Warner Bros. Discovery and a Venezuelan man who was shot by an ICE office",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "ICE agent shoots and wounds man in Austin, Texas, officials say",
-      "link": "https://www.pbs.org/newshour/nation/ice-agent-shoots-and-wounds-man-in-austin-texas-officials-say",
-      "publishedAt": "Sun, 20 Sep 2026 17:46:19 -0400",
-      "snippet": "The unnamed man was in serious but stable condition at a hospital after being shot once in the torso on the city's north side, Austin Police Chief Lisa Davis said at a news conference.",
+      "title": "How abortion drug restrictions make it harder to treat other conditions",
+      "link": "https://www.pbs.org/newshour/show/how-abortion-drug-restrictions-make-it-harder-to-treat-other-conditions",
+      "publishedAt": "Mon, 21 Sep 2026 18:40:36 -0400",
+      "snippet": "For more than 25 years, mifepristone has been approved for abortion in the U.S. But mifepristone and a similar drug have also been proven to treat conditions like uterine fibroids and endometriosis. As anti-abortion groups lobby to further restrict these drugs, Special correspond",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Carney and Macron deepen ties as Canada turns toward Europe and away from U.S. dependence",
-      "link": "https://www.pbs.org/newshour/world/carney-and-macron-deepen-ties-as-canada-turns-toward-europe-and-away-from-u-s-dependence",
-      "publishedAt": "Sun, 20 Sep 2026 17:15:28 -0400",
-      "snippet": "Carney said the countries will task their space agencies and defense ministries to develop and share infrastructure, including launch systems and ground-based reception facilities. They also agreed to expand cooperation in energy, telecommunications, climate resilience and econom",
+      "title": "Appeals court favors Trump-backed Missouri congressional map, but Supreme Court will have final say",
+      "link": "https://www.pbs.org/newshour/politics/appeals-court-favors-trump-backed-missouri-congressional-map-but-supreme-court-will-have-final-say",
+      "publishedAt": "Mon, 21 Sep 2026 18:38:12 -0400",
+      "snippet": "A federal appeals panel has ruled in favor of new Missouri congressional districts backed by President Donald Trump. But there is no immediate impact from Monday's ruling.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Converse apologizes and pulls sneaker ad that critics said included racist imagery",
-      "link": "https://www.pbs.org/newshour/nation/converse-apologizes-and-pulls-sneaker-ad-that-critics-said-included-racist-imagery",
-      "publishedAt": "Sun, 20 Sep 2026 16:03:11 -0400",
-      "snippet": "Critics lashed out online, saying that a white triangular image created by lighting on K-pop singer Karina's skirt resembled a KKK hood and that the way she held the sneakers made them look like the dangling feet of a lynching victim.",
+      "title": "Tamara Keith and Amy Walter on Trump's media attacks",
+      "link": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-media-attacks",
+      "publishedAt": "Mon, 21 Sep 2026 18:35:30 -0400",
+      "snippet": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump banning some news outlets from the White House, Republicans publicly breaking with Trump and where parties are spending m",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "18 suspects accused in the 2021 killing of Haiti's president being extradited from Haiti to U.S.",
-      "link": "https://www.pbs.org/newshour/world/18-suspects-accused-in-the-2021-killing-of-haitis-president-being-extradited-from-haiti-to-u-s",
-      "publishedAt": "Sun, 20 Sep 2026 15:38:38 -0400",
-      "snippet": "The suspects who remain in Haiti awaiting trial included more than a dozen Colombian soldiers, a former Haitian police officer and Joseph Badio, a former Haiti Ministry of Justice employee who was part of an anti-corruption unit.",
+      "title": "Lindsay Clancy's attorney asks judge to investigate the lone juror who wanted to convict her",
+      "link": "https://www.pbs.org/newshour/nation/lindsay-clancys-attorney-asks-judge-to-investigate-the-lone-juror-who-wanted-to-convict-her",
+      "publishedAt": "Mon, 21 Sep 2026 18:31:52 -0400",
+      "snippet": "A motion filed Friday but made public Monday asks the court to question the juror about his alleged use of a cellphone during deliberations, his truthfulness on a questionnaire that prospective jurors filled out before the trial began and his truthfulness when jurors were questio",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Russia wraps up first wartime parliamentary election with Kremlin dominance all but assured",
-      "link": "https://www.pbs.org/newshour/world/russia-wraps-up-first-wartime-parliamentary-election-with-kremlin-dominance-all-but-assured",
-      "publishedAt": "Sun, 20 Sep 2026 14:12:27 -0400",
-      "snippet": "The vote included residents of four Ukrainian regions that Moscow illegally annexed after the war began but still doesn't fully control, as well as those in Crimea, the Black Sea peninsula that was illegally annexed by Russia in 2014.",
+      "title": "War correspondent Scott Anderson on the shifting landscape in the Middle East",
+      "link": "https://www.pbs.org/newshour/show/war-correspondent-scott-anderson-on-the-shifting-landscape-in-the-middle-east",
+      "publishedAt": "Mon, 21 Sep 2026 18:30:32 -0400",
+      "snippet": "Ten years ago, Scott Anderson's New York Times Magazine project, Fractured Lands, traced the lives of six people across the Middle East as war, dictatorship and the Arab Spring transformed the region. His latest book, \"King of Kings,\" examines the fall of Iran's last Shah in 1978",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen's growing civil war",
-      "link": "https://www.pbs.org/newshour/world/iran-backed-houthi-rebels-warn-against-joining-saudi-arabia-in-yemens-growing-civil-war",
-      "publishedAt": "Sun, 20 Sep 2026 13:53:16 -0400",
-      "snippet": "Mohamed al-Bukhaiti, a member of the Houthis' political bureau, said Washington reached out to the rebels after their rapid advance down Yemen's western coast to the Bab el-Mandeb Strait earlier this month.",
+      "title": "American Israeli held hostage by Hamas performs songs of survival and hope",
+      "link": "https://www.pbs.org/newshour/show/american-israeli-held-hostage-by-hamas-performs-songs-of-survival-and-hope",
+      "publishedAt": "Mon, 21 Sep 2026 18:25:28 -0400",
+      "snippet": "Recently, the small Israeli town of Nir Oz, devastated by the Oct. 7 terrorist attacks, held a unique concert. The singer was not a professional musician, but an American Israeli man who was kidnapped by Hamas and held in Gaza for nearly 500 days. Producer Karl Bostic and Nick Sc",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Alaskans will decide fate of ranked choice voting system after chaotic end to state's primary",
-      "link": "https://www.pbs.org/newshour/politics/alaskans-will-decide-fate-of-ranked-choice-voting-system-after-chaotic-end-to-states-primary",
-      "publishedAt": "Sun, 20 Sep 2026 13:34:29 -0400",
-      "snippet": "The August primary revealed some of the headaches related to a major change in how Alaska voters select their candidates and was the latest example of how the real-world experience of state voting changes don't always line up neatly with expectations.",
+      "title": "Britain's Burnham to meet Trump and make UN debut after offering UK military support for Saudis",
+      "link": "https://www.pbs.org/newshour/politics/britains-burnham-to-meet-trump-and-make-un-debut-after-offering-uk-military-support-for-saudis",
+      "publishedAt": "Mon, 21 Sep 2026 18:22:23 -0400",
+      "snippet": "Britain's Prime Minister Andy Burnham is set to meet U.S. President Donald Trump for the first time.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Merz vows to press ahead with reforms after party's historic defeat in 2 German state elections",
-      "link": "https://www.pbs.org/newshour/world/merz-vows-to-press-ahead-with-reforms-after-partys-historic-defeat-in-2-german-state-elections",
-      "publishedAt": "Sun, 20 Sep 2026 12:50:46 -0400",
-      "snippet": "Should the Christian Democratic Union stay below 5% in the final vote count, it would mean that the party would fail for the first time to win seats in a state legislature anywhere in Germany.",
+      "title": "These copper vests are helping injured penguins heal faster",
+      "link": "https://www.pbs.org/newshour/show/these-copper-vests-are-helping-injured-penguins-heal-faster",
+      "publishedAt": "Mon, 21 Sep 2026 18:20:31 -0400",
+      "snippet": "An innovative treatment is helping injured penguins get back on their feet in Chile. Stephanie Sy reports on these special suits.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
-      "link": "https://www.pbs.org/newshour/economy/federal-reserve-rate-hike-reflects-new-world-of-sticky-inflation-and-faster-growth",
-      "publishedAt": "Sun, 20 Sep 2026 12:28:25 -0400",
-      "snippet": "The low interest-rate, low-inflation world that lasted for nearly 15 years after the Great Recession is over and a higher-priced, higher-rate world is taking its place.",
+      "title": "Voting groups sound alarm on funding shortfalls that they say could affect midterm turnout",
+      "link": "https://www.pbs.org/newshour/politics/voting-groups-sound-alarm-on-funding-shortfalls-that-they-say-could-affect-midterm-turnout",
+      "publishedAt": "Mon, 21 Sep 2026 18:11:28 -0400",
+      "snippet": "Several of the nation's largest left-leaning voter engagement and racial justice organizations are facing steep funding shortfalls and staffing cutbacks.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Ukraine fires over 1,000 drones at Russia, including 'largest ever' attack on Moscow",
-      "link": "https://www.pbs.org/newshour/world/ukraine-fires-over-1000-drones-at-russia-including-largest-ever-attack-on-moscow",
-      "publishedAt": "Sun, 20 Sep 2026 11:54:32 -0400",
-      "snippet": "Moscow's mayor described the wave of drones as the \"largest ever\" drone attack on the Russian capital and said there had been damage to the Moscow Oil Refinery and a residential building.",
+      "title": "WATCH LIVE: Judy Woodruff and Jamelle Bouie discuss the freedom of the press at Monticello",
+      "link": "https://www.pbs.org/newshour/nation/watch-live-judy-woodruff-and-jamelle-bouie-discuss-the-freedom-of-the-press-at-monticello",
+      "publishedAt": "Mon, 21 Sep 2026 18:03:10 -0400",
+      "snippet": "This event streams live at 6 p.m ET on Sept 21, 2026 in the player above. More about the event: At a pivotal moment for the nation, this conversation will consider the role of journalism in sustaining a free society and the challenges facing the press in 2026 and beyond. The even",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "North Korea launches 2 ballistic missiles toward the sea and dials up pressure on the U.S.",
-      "link": "https://www.pbs.org/newshour/world/north-korea-launches-2-ballistic-missiles-toward-the-sea-and-dials-up-pressure-on-the-u-s",
-      "publishedAt": "Sun, 20 Sep 2026 11:39:58 -0400",
-      "snippet": "The launches were the latest in a series of weapons demonstrations by North Korea even after President Donald Trump scaled back a joint military exercise with South Korea last month in an apparent effort to revive diplomacy with the North's leader, Kim Jong Un.",
+      "title": "Up to 30 shots fired after man opened fire on officer outside Ontario synagogue",
+      "link": "https://www.pbs.org/newshour/world/up-to-30-shots-fired-after-man-opened-fire-on-officer-outside-ontario-synagogue",
+      "publishedAt": "Mon, 21 Sep 2026 17:00:58 -0400",
+      "snippet": "A 29-year-old man opened fire on a police officer outside an Ontario synagogue during Yom Kippur, leading to a shootout with up to 30 shots fired.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens concert",
-      "link": "https://www.pbs.org/newshour/arts/ed-sheeran-says-situation-in-gaza-is-catastrophic-and-unjustifiable-as-he-opens-concert",
-      "publishedAt": "Sun, 20 Sep 2026 11:21:22 -0400",
-      "snippet": "Sheeran said he wants his music and shows to be about unity and humanity, not politics. But he said the attacks in Israel of Oct. 7, 2023, were horrific and what is happening in Gaza \"catastrophic and unjustifiable.\"",
+      "title": "Jury convicts Vermont man of attempted murder in shooting of 3 Palestinian students",
+      "link": "https://www.pbs.org/newshour/nation/jury-convicts-vermont-man-of-attempted-murder-in-shooting-of-3-palestinian-students",
+      "publishedAt": "Mon, 21 Sep 2026 16:37:53 -0400",
+      "snippet": "A jury on Monday convicted a Vermont man of attempted murder in the shootings of three Palestinian college students who were walking near his home, rejecting an insanity defense rooted in his claims that he was acting on orders from the CIA and Mossad.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers",
-      "link": "https://www.pbs.org/newshour/politics/trump-says-his-planned-arch-would-become-a-military-complex-able-to-host-drones-and-snipers",
-      "publishedAt": "Sun, 20 Sep 2026 11:08:03 -0400",
-      "snippet": "Trump has also been calling the new White House ballroom a \"military complex\" and arguing it is necessary for national security purposes.",
+      "title": "Trump shows off new White House helipad, but networks skip coverage during First Amendment fight",
+      "link": "https://www.pbs.org/newshour/politics/trump-shows-off-new-white-house-helipad-but-networks-skip-coverage-during-first-amendment-fight",
+      "publishedAt": "Mon, 21 Sep 2026 16:26:50 -0400",
+      "snippet": "President Trump has unveiled a new White House helicopter landing pad while trying to downplay a First Amendment firestorm.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "For Palestinian aid groups, Macklemore's $1M pledge brings relief and attention to ongoing suffering",
-      "link": "https://www.pbs.org/newshour/arts/for-palestinian-aid-groups-macklemores-1m-pledge-brings-relief-and-attention-to-ongoing-suffering",
-      "publishedAt": "Sat, 19 Sep 2026 18:09:41 -0400",
-      "snippet": "Macklemore committed to donate his net earnings from Ed Sheeran's Loop Tour after he was dropped for making pro-Palestinian comments onstage at New Jersey's MetLife Stadium.",
+      "title": "Pope will retrace his missionary footsteps in Peru and finally visit Argentina in November",
+      "link": "https://www.pbs.org/newshour/world/pope-will-retrace-his-missionary-footsteps-in-peru-and-finally-visit-argentina-in-november",
+      "publishedAt": "Mon, 21 Sep 2026 16:23:28 -0400",
+      "snippet": "Pope Leo XIV will retrace his steps as a missionary priest when he returns to Peru in November in his longest trip to date that will also take him to Uruguay and Argentina, where his Argentine predecessor Pope Francis never returned.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with a ballistic missile",
-      "link": "https://www.pbs.org/newshour/world/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-a-ballistic-missile",
-      "publishedAt": "Sat, 19 Sep 2026 16:45:21 -0400",
-      "snippet": "The growing conflict near another important global shipping corridor has brought new pressures for markets.",
+      "title": "Firefighting helicopter crashes near Yosemite, killing both pilots",
+      "link": "https://www.pbs.org/newshour/nation/firefighting-helicopter-crashes-near-yosemite-killing-both-pilots",
+      "publishedAt": "Mon, 21 Sep 2026 16:12:24 -0400",
+      "snippet": "Two helicopter pilots were killed when their aircraft crashed Sunday afternoon while conducting water drops on a wildfire at Yosemite National Park, officials say.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Michigan city defends itself against accusations of favoring Muslim holidays over other faiths",
-      "link": "https://www.pbs.org/newshour/nation/michigan-city-defends-itself-against-accusations-of-favoring-muslim-holidays-over-other-faiths",
-      "publishedAt": "Sat, 19 Sep 2026 16:30:57 -0400",
-      "snippet": "A statement from the Detroit suburb issued by a spokesperson came in response to a lawsuit on Thursday that accused the city and its mayor of spending thousands of dollars to celebrate Muslim holidays while ignoring Christian and Jewish holidays.",
+      "title": "States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal",
+      "link": "https://www.pbs.org/newshour/nation/states-settle-lawsuit-over-paramount-warner-merger-clearing-key-hurdle-for-81-billion-deal",
+      "publishedAt": "Mon, 21 Sep 2026 15:53:59 -0400",
+      "snippet": "The agreement calls for Paramount to increase domestic production and establish monitoring of editorial independence of the company's news operations.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak",
-      "link": "https://www.pbs.org/newshour/world/congo-begins-ebola-vaccinations-for-health-workers-in-the-epicenter-of-the-outbreak",
-      "publishedAt": "Sat, 19 Sep 2026 14:48:50 -0400",
-      "snippet": "Health workers and other front-line workers in the Ebola response are being prioritized to receive the Ervebo vaccine that was effective in past Ebola outbreaks caused by a different, more common type of virus.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Russian election observer loses consciousness during arrest by police, opposition party says",
-      "link": "https://www.pbs.org/newshour/world/russian-election-observer-loses-consciousness-during-arrest-by-police-opposition-party-says",
-      "publishedAt": "Sat, 19 Sep 2026 14:31:20 -0400",
-      "snippet": "The three-day election, which began Friday and ends Sunday, features virtually no opposition and is all but certain to secure the Kremlin's political dominance.",
+      "title": "Technical problems at a key air traffic center disrupt flights across Northeast",
+      "link": "https://www.pbs.org/newshour/nation/technical-problems-at-a-key-air-traffic-center-disrupt-flights-across-northeast",
+      "publishedAt": "Mon, 21 Sep 2026 15:44:49 -0400",
+      "snippet": "On Monday morning, the primary circuit that carries data into that air traffic control facility failed, affecting flights for Philadelphia as well as Kennedy, LaGuardia and Newark airports, the Federal Aviation Administration said.",
       "tier": 1
     },
     {
@@ -440,18 +440,66 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Trial starts of ex-Transport Minister Scheuer",
-      "link": "https://www.dw.com/en/germany-news-trial-starts-of-ex-transport-minister-scheuer/live-79351160?maca=en-rss-en-top-1022-rdf",
+      "title": "US-China rivalry is reshaping global trade — and Europe is caught in the middle.",
+      "link": "https://www.dw.com/en/us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-middle/a-79356540?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Former Transport Minister Andreas Scheuer is being tried for perjury related to a failed car toll scheme. And cherry farmers have brought in a bumper harvest. DW has more.",
+      "snippet": "China&apos;s Xi Jinping is traveling to Washington this week. Regardless of what comes from his talks with US President Trump, the EU will likely remain stuck between erratic US trade policy and Beijing&apos;s export machine.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Taliban says three killed in new Pakistan airstrikes on Afghanistan",
-      "link": "https://www.dw.com/en/taliban-says-three-killed-in-new-pakistan-airstrikes-on-afghanistan/a-79350604?maca=en-rss-en-top-1022-rdf",
+      "title": "US news outlets sue Trump over White House ban",
+      "link": "https://www.dw.com/en/us-news-outlets-sue-trump-over-white-house-ban/a-79362618?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The Afghan border provinces of Kunar and Paktika were reportedly struck. Pakistan last carried out deadly strikes on Afghanistan in June.",
+      "snippet": "CNN, MS NOW, and Politico say the ban against them threatens press freedom and the right to independent journalism.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nuclear power is back on Southeast Asia&apos;s energy agenda",
+      "link": "https://www.dw.com/en/nuclear-power-is-back-on-southeast-asia-s-energy-agenda/a-79358744?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Rising electricity demand, shocks in energy security and climate commitments are reviving long-stalled plans for nuclear power across Southeast Asia. But proponents of nuclear energy still face major obstacles.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why gender-based violence persists in Southern Africa",
+      "link": "https://www.dw.com/en/why-gender-based-violence-persists-in-southern-africa/a-79356560?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A series of killings in South Africa has renewed scrutiny of efforts to combat violence against women. Activists say laws alone are not enough without effective implementation.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India&apos;s road rage: When cars become weapons",
+      "link": "https://www.dw.com/en/india-s-road-rage-when-cars-become-weapons/a-79355073?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Road disputes are turning violent across India, raising questions about status and impunity behind the wheel for drivers of expensive cars.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Russia: Putin party retains majority in controlled parliamentary vote",
+      "link": "https://www.dw.com/en/russia-putin-party-retains-majority-in-controlled-parliamentary-vote/a-79353231?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Vladimir Putin&apos;s United Russia won just under 58% of the vote, the electoral commission said. Meanwhile, Putin ally Ramzan Kadyrov won nearly 100% of the vote in elections in the Russian republic of Chechnya.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Trial starts of ex-Transport Minister Scheuer",
+      "link": "https://www.dw.com/en/germany-news-trial-starts-of-ex-transport-minister-scheuer/live-79351160?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Former Transport Minister Andreas Scheuer is being tried for perjury related to a failed car toll scheme. And cherry farmers have brought in a bumper harvest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pakistan says strikes in Afghanistan killed &apos;28 terrorists&apos;",
+      "link": "https://www.dw.com/en/pakistan-says-strikes-in-afghanistan-killed-28-terrorists/a-79350604?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Afghan border provinces of Kunar and Paktika were struck overnight. Pakistan said 28 militants were killed, Afghanistan said three civilians died. This follows soon after an attack on police in Kohat, Pakistan.",
       "tier": 2
     },
     {
@@ -540,54 +588,6 @@
       "link": "https://www.dw.com/en/peter-thiel-power-palantir-and-the-antichrist/a-79313426?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "He was early to back Facebook, early to back Donald Trump, and is one of the world’s richest people. But from his theories on the antichrist and AI to his distinctive politics, Peter Thiel is hard to pin down.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Russia: Ukrainian drone strike on Moscow kills 2",
-      "link": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "An oil refinery was hit in one of the largest attacks so far on the Russian capital, as the country holds a parliamentary election. Meanwhile, at least four people were killed in Russian strikes in Ukraine&apos;s Kyiv region.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ed Sheeran speaks on Gaza in concert after Macklemore controversy",
-      "link": "https://www.dw.com/en/ed-sheeran-speaks-on-gaza-in-concert-after-macklemore-controversy/a-79341971?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Sheeran called the Hamas-led attack in Israel \"horrific\" and described the war in Gaza as \"catastrophic and unjustifiable\" during his first concert since the Macklemore controversy erupted.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "In cosmopolitan Berlin, elections still closed to foreigners",
-      "link": "https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A quarter of Berlin residents will have no say in the German capital&apos;s city-state election because they lack citizenship. That&apos;s the highest proportion of residents excluded from the election yet, and many are unhappy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: PM Modi says developing nations unfairly blamed for emissions",
-      "link": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "PM Narendra Modi has told a climate conference that developed countries emit six times more CO2 than India. Meanwhile, an IIT Bombay professor has been accused of caste abuse. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Doctors offer Oktoberfest flu jabs",
-      "link": "https://www.dw.com/en/germany-news-doctors-offer-oktoberfest-flu-jabs/live-79335548?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Oktoberfest 2026 is underway but it&apos;s not just beer on offer in Munich this year; revelers can also get themselves a flu jab before heading to the tents. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Decolonizing perceptions about Africa",
-      "link": "https://www.dw.com/en/decolonizing-perceptions-about-africa/a-79331178?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As a UN resolution alters the standard global map to reflect the continent more accurately, initiatives to decolonize African schools and a campaign to present positive developments are changing the way Africa is seen.",
       "tier": 2
     }
   ]
