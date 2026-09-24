@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T01:03:32.284Z",
+  "generatedAt": "2026-09-24T12:43:33.274Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,18 +32,42 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 22:01:17 GMT",
-      "snippet": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 07:10:58 GMT",
+      "snippet": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 00:28:46 GMT",
-      "snippet": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 11:59:23 GMT",
+      "snippet": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Judge temporarily overturns Trump's White House media ban",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 10:29:35 GMT",
+      "snippet": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 09:28:33 GMT",
+      "snippet": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 06:47:12 GMT",
+      "snippet": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
       "tier": 1
     },
     {
@@ -56,17 +80,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 16:53:37 GMT",
-      "snippet": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
       "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 21:26:14 GMT",
+      "publishedAt": "Thu, 24 Sep 2026 10:11:15 GMT",
       "snippet": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
       "tier": 1
     },
@@ -76,6 +92,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 23 Sep 2026 12:31:31 GMT",
       "snippet": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 08:26:19 GMT",
+      "snippet": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
       "tier": 1
     },
     {
@@ -128,6 +152,14 @@
     },
     {
       "source": "BBC World",
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 23 Sep 2026 22:01:17 GMT",
+      "snippet": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
       "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 24 Sep 2026 00:15:46 GMT",
@@ -144,7 +176,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
       "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 23 Sep 2026 23:58:50 GMT",
       "snippet": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
@@ -159,115 +191,83 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Indians are discovering the thrill of shopping without paying",
-      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 23:14:10 GMT",
-      "snippet": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 22 Sep 2026 20:59:00 GMT",
-      "snippet": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "A red carpet and military flyover - How Trump welcomed Xi",
-      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 23:03:56 GMT",
-      "snippet": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: The arms race in space and how the UK is defending itself",
-      "link": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 21:29:04 GMT",
-      "snippet": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
+      "source": "NPR News",
+      "title": "Judge restores journalists&apos; White House access. And, Tucker Carlson on his MAGA split",
+      "link": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
+      "publishedAt": "Thu, 24 Sep 2026 07:10:14 -0400",
+      "snippet": "A judge has ordered that the Trump administration restore journalists&apos; access to White House. And, Tucker Carlson sits down with Morning Edition &apos;s Steve Inskeep for a Newsmakers interview.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Judge considers restoring journalists&apos; access to White House after Trump&apos;s ban",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico",
-      "publishedAt": "Wed, 23 Sep 2026 18:40:39 -0400",
-      "snippet": "Lawyers representing the White House and the three media outlets banned from the property sparred over the constitutional rights of journalists at a hearing in federal court Wednesday.",
+      "title": "Needy couples got cash and a spending plan. Results were good -- and bad",
+      "link": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
+      "publishedAt": "Thu, 24 Sep 2026 06:43:25 -0400",
+      "snippet": "In Liberia, joint financial planning boosted cash aid&apos;s benefits. It also had an unexpected consequence for some families.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trump and Xi meet at moment of global consequence",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
-      "publishedAt": "Wed, 23 Sep 2026 14:23:19 -0400",
-      "snippet": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
+      "title": "The Education Dept. hasn&apos;t been dismantled. It&apos;s become more inefficient, staff say",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going",
+      "publishedAt": "Thu, 24 Sep 2026 05:00:00 -0400",
+      "snippet": "Education staff are being scattered across several other federal agencies. Despite the Trump administration&apos;s claims, employees say it&apos;s adding bureaucracy and making it harder to serve students.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Iran&apos;s president gives a rare wartime speech at the U.N.",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
-      "publishedAt": "Wed, 23 Sep 2026 14:14:40 -0400",
-      "snippet": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to \"annihilate\" Iran.",
+      "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
+      "publishedAt": "Thu, 24 Sep 2026 05:00:00 -0400",
+      "snippet": "eBay became the latest online retailer to ban the sale of airbags and many of their components. Aftermarket parts can be risky if they turn out to be fake or defective.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood",
-      "link": "https://www.npr.org/2026/09/23/g-s1-144677/a-catholic-media-star-will-be-beatified-in-st-louis-moving-a-step-closer-to-sainthood",
-      "publishedAt": "Wed, 23 Sep 2026 14:09:31 -0400",
-      "snippet": "Bishop Fulton Sheen, who charmed millions of television viewers on his show L ife Is Worth Living,&apos; will come one step closer to being declared a saint.",
+      "title": "States threaten action against company earning millions off disabled vets",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5978816/va-mortgages-trajector-bankruptcy-investigations",
+      "publishedAt": "Thu, 24 Sep 2026 05:00:00 -0400",
+      "snippet": "The investigations by attorneys general follow a recent bankruptcy filing in the face of civil lawsuits, falling revenues, and impending debt payments.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "From cybersecurity to AI to Taiwan, what&apos;s at stake in Trump&apos;s summit with Xi",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
-      "publishedAt": "Wed, 23 Sep 2026 12:13:52 -0400",
-      "snippet": "As President Trump and China&apos;s President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
+      "title": "Warren demands Trump officials explain removing a ban on interference in census data",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
+      "publishedAt": "Thu, 24 Sep 2026 05:00:00 -0400",
+      "snippet": "Democratic Sen. Elizabeth Warren asked Trump officials to explain why the Census Bureau&apos;s parent agency cut a ban on political interference from its scientific integrity policy, as NPR first reported.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "It&apos;s getting harder to afford rent in the U.S., even for middle-income families",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
-      "publishedAt": "Wed, 23 Sep 2026 10:09:10 -0400",
-      "snippet": "Housing affordability challenges are spreading to higher income brackets, according to new research, which found one in five renters struggled last year to pay for their housing in full and on time.",
+      "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
+      "publishedAt": "Thu, 24 Sep 2026 05:00:00 -0400",
+      "snippet": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump&apos;s administration. These six graphics show how those changes have affected U.S. biomedical research.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
-      "link": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
-      "publishedAt": "Wed, 23 Sep 2026 09:31:47 -0400",
-      "snippet": "For anyone who grew up staring blankly at museum artwork, this is the fun that was missing: Coco leads interactive and (mostly) factual art history comedy tours.",
+      "title": "Judge orders Trump administration to restore journalists&apos; access to White House",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
+      "publishedAt": "Thu, 24 Sep 2026 02:21:06 -0400",
+      "snippet": "A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Is Nepal&apos;s flood a harbinger of what&apos;s to come in the Himalayas?",
-      "link": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower",
-      "publishedAt": "Wed, 23 Sep 2026 07:48:00 -0400",
-      "snippet": "Building dams and hydropower plants in the Himalayas holds great promise for providing electricity. In the wake of the Nepal disaster, experts are asking about the risks of such construction.",
+      "title": "Venezuela&apos;s acting leader promises elections at the &apos;right moment&apos;",
+      "link": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
+      "publishedAt": "Thu, 24 Sep 2026 01:40:49 -0400",
+      "snippet": "Venezuela&apos;s acting president, delivering her first address to the U.N. General Assembly since coming to power, promised elections and said the nation&apos;s people will determine the \"right moment.\"",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Dems have an edge over GOP, poll finds. And, ICE looks into &apos;mobile detention centers&apos;",
-      "link": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
-      "publishedAt": "Wed, 23 Sep 2026 07:13:32 -0400",
-      "snippet": "An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump. And, Immigration and Customs Enforcement is looking into \"mobile detention centers.\"",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump&apos;s foreign policy",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
-      "publishedAt": "Wed, 23 Sep 2026 06:48:47 -0400",
-      "snippet": "Deals, threats and oil are all on the table as the president&apos;s foreign policy takes center stage.",
+      "title": "OpenAI&apos;s breach of Australian health department website prompts rebuke",
+      "link": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
+      "publishedAt": "Thu, 24 Sep 2026 01:14:11 -0400",
+      "snippet": "Prime Minister Anthony Albanese said he was extremely concerned about OpenAI &apos;s breach of an Australian health department website that the artificial intelligence company took too long to reveal.",
       "tier": 1
     },
     {
@@ -283,7 +283,7 @@
       "title": "Xi arrives for state visit amid U.S.-China trade tensions and AI concerns",
       "link": "https://www.pbs.org/newshour/show/xi-arrives-for-state-visit-amid-u-s-china-trade-tensions-and-ai-concerns",
       "publishedAt": "Wed, 23 Sep 2026 18:50:01 -0400",
-      "snippet": "Chinese President Xi Jinping arrived in Washington Wednesday evening for his first state visit in more than a decade. At the same time, a federal judge heard arguments in a lawsuit brought by CNN, MS NOW and Politico challenging President Trump banning the outlets from the White ",
+      "snippet": "Chinese President Xi Jinping arrived in Washington Wednesday evening for his first state visit in more than a decade. At the same time, a federal judge heard arguments in a lawsuit brought by CNN, MS NOW and Politico challenging President Trump's ban on the outlets from the White",
       "tier": 1
     },
     {
@@ -440,6 +440,110 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "&apos;Pope fever&apos; takes hold as Pope Leo visits France",
+      "link": "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Pope Leo XIV is expected to draw large crowds during his visit to France. As part of his trip to Europe, he&apos;s also set to address the continent&apos;s future and some of the challenges ahead.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "UNGA: Netanyahu, Abbas to speak as Middle East dominates day",
+      "link": "https://www.dw.com/en/unga-netanyahu-abbas-to-speak-as-middle-east-dominates-day/live-79366211?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Israel&apos;s Netanyahu can expect to be greeted by protests, while the Palestinian Abbas will address the body via video after the US denied him a visa. Beyond the Middle East, rising sea levels will be on the day 3 agenda.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "As the EU advances free trade with Southeast Asia, why is there no ASEAN-wide deal?",
+      "link": "https://www.dw.com/en/as-the-eu-advances-free-trade-with-southeast-asia-why-is-there-no-asean-wide-deal/a-79388278?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "After years of arduous negotiations, the EU is closing on a string of bilateral trade deals with countries in Southeast Asia. And yet, a bloc-to-bloc agreement between the EU and ASEAN remains a distant prospect.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
+      "link": "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Bangladesh&apos;s absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina&apos;s exile in India remains a major obstacle to normalizing relations.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Cockroach party demands Election Commissioner Gyanesh Kumar&apos;s resignation",
+      "link": "https://www.dw.com/en/india-news-cockroach-party-demands-election-commissioner-gyanesh-kumar-s-resignation/live-79405879?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "CJP&apos;s Abhijeet Dipke has alleged that the removal of more than 130 million names from draft electoral rolls is designed to benefit the BJP and weaken opposition parties. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Poland says Starlink station fire &apos;act of sabotage&apos;",
+      "link": "https://www.dw.com/en/poland-says-starlink-station-fire-act-of-sabotage/a-79410745?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Polish Deputy Prime Minister Krzysztof Gawkowski said Warsaw believed the attack aimed to disrupt internet access for the Ukrainian military, calling it \"an element of the next phase of hybrid warfare.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Morocco: Center-right PAM leads in parliamentary election",
+      "link": "https://www.dw.com/en/morocco-center-right-pam-leads-in-parliamentary-election/a-79407710?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "PAM is part of Morocco&apos;s outgoing ruling coalition and was founded by an adviser to the king. The moderate Islamist Justice and Development Party surged amid increasing voter apathy.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Bundestag to discuss opt-out organ donation",
+      "link": "https://www.dw.com/en/germany-news-bundestag-to-discuss-opt-out-organ-donation/live-79406294?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Parliamentarians debate whether to change Germany&apos;s organ donation scheme amid a lack of supply. They will also consider reforms to expand the power of intelligence agencies. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: Economic institutes double growth forecast for 2026",
+      "link": "https://www.dw.com/en/germany-economic-institutes-double-growth-forecast-for-2026/a-78168080?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Experts predict German GDP will double to 1.3% this year but warn of structural difficulties ahead. The picture is complicated, they say, especially because of uncertainty in the energy sector.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US judge blocks Trump ban of CNN, MS NOW, Politico from White House, orders him to restore access",
+      "link": "https://www.dw.com/en/us-judge-blocks-trump-ban-of-cnn-ms-now-politico-from-white-house-orders-him-to-restore-access/a-79405693?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A judge has ordered President Trump to restore White House access to CNN, MS NOW and Politico after he banned the media outlets from the premises.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "OpenAI agent hacked Australia government portal: PM Albanese",
+      "link": "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The hack of Australian health data marks the world&apos;s first known AI-led breach of a government website.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany sets out plan to phase out fossil fuels by 2045",
+      "link": "https://www.dw.com/en/germany-sets-out-plan-to-phase-out-fossil-fuels-by-2045/a-79404028?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany sets out a plan to phase out coal, oil and gas by 2045, reaffirming a climate strategy focused on electrification.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump welcomes China&apos;s Xi for high-stakes summit",
+      "link": "https://www.dw.com/en/trump-welcomes-china-s-xi-for-high-stakes-summit/live-79404511?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Donald Trump welcomed Xi Jinping to the US by greeting him personally on the tarmac at Joint Base Andrews. The two are expected to discuss trade, AI, Taiwan and Iran during a three-day state visit.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Berlin Airport briefly suspends flights over drone sighting",
       "link": "https://www.dw.com/en/berlin-airport-briefly-suspends-flights-over-drone-sighting/a-79403865?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -484,110 +588,6 @@
       "link": "https://www.dw.com/en/who-is-skipping-the-un-general-assembly-and-why/a-79391652?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Xi Jinping, Vladimir Putin, Friedrich Merz, Giorgia Meloni and Mahmoud Abbas are among more than 50 leaders who won&apos;t make it to the UN General Assembly. Their reasons range from illness and domestic affairs to holidays.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Could a Left Party government in Berlin expropriate large real estate companies?",
-      "link": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The socialist Left Party won the Berlin election partly on the promise to implement the city&apos;s 2021 expropriation referendum as a way to solve the city&apos;s rent crisis. But can it really happen?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "China&apos;s 13-year-old swimming star raises questions on child athletes",
-      "link": "https://www.dw.com/en/china-s-13-year-old-swimming-star-raises-questions-on-child-athletes/a-79394183?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Three gold medals and three Asian Games records have catapulted China&apos;s Yu Zidi, 13, into the sporting spotlight. She is far from the first teen prodigy, but should teens be competing at elite level?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pakistan&apos;s jailed former PM Khan&apos;s sons told DW the authorities are cracking down ahead of new PTI protests",
-      "link": "https://www.dw.com/en/pakistan-s-jailed-former-pm-khan-s-sons-told-dw-the-authorities-are-cracking-down-ahead-of-new-pti-protests/a-79392147?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The sons of jailed Pakistani ex-PM Imran Khan told DW their father is in ill health while being isolated from family and doctors. Other relatives have been detained ahead of a planned opposition protest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Slovakia: PM Robert Fico&apos;s NATO Article 5 remarks spark criticism and raise questions about his country&apos;s NATO commitment",
-      "link": "https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Slovak Prime Minister Robert Fico says he fears war and will do everything he can to keep his country out of one. Critics say his remarks risk weakening NATO, the alliance that was designed to prevent such a war.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s oldest party, the center-left SPD, is in a difficult position following its success in the Mecklenburg-Western Pomerania state election",
-      "link": "https://www.dw.com/en/germany-s-oldest-party-the-center-left-spd-is-in-a-difficult-position-following-its-success-in-the-mecklenburg-western-pomerania-state-election/a-79376827?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Chancellor Friedrich Merz (CDU) has vowed to press ahead with controversial reforms, but resistance is mounting within his coalition partner, the SPD. How much dissent can a governing coalition tolerate?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ethiopia: Fighting resumes in Tigray",
-      "link": "https://www.dw.com/en/ethiopia-fighting-resumes-in-tigray/a-79394192?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Rebels in northern Ethiopia have seized regional airports and engaged government troops in Afar and Amhara. Observers fear deadly clashes could expand after rebels announced a new anti-government alliance.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "ICC convicts CAR ex-rebel leader of crimes against humanity",
-      "link": "https://www.dw.com/en/icc-convicts-car-ex-rebel-leader-of-crimes-against-humanity/a-79387178?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The International Criminal Court has found Mahamat Said Abdel Kani guilty of overseeing torture and other crimes. He headed a feared prison unit that held political prisoners.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "As the EU advances free trade with Southeast Asia, why is there no ASEAN-wide deal?",
-      "link": "https://www.dw.com/en/as-the-eu-advances-free-trade-with-southeast-asia-why-is-there-no-asean-wide-deal/a-79388278?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After years of arduous negotiations, the EU is closing on a string of bilateral trade deals with countries in Southeast Asia. And yet, a bloc-to-bloc agreement between the EU and ASEAN remains a distant prospect.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Munich, Berlin, Cologne-Rhine-Ruhr – Germany&apos;s three Olympic candidates",
-      "link": "https://www.dw.com/en/munich-berlin-cologne-rhine-ruhr-germany-s-three-olympic-candidates/a-79386915?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Munich, Berlin, or the Cologne-Rhine-Ruhr region? Germany aims to host the Olympic Games again. Three candidates are in the running, with one city considered the slight favorite.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Rome&apos;s Colosseum closes after worker falls to his death",
-      "link": "https://www.dw.com/en/rome-s-colosseum-closes-after-worker-falls-to-his-death/a-79387180?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The man had been working on a new lighting installation in the iconic Roman amphitheater. Italian authorities said they were working on determining the circumstances of the accident.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Hungary: EU Commission wants to unblock €4.2b in funding",
-      "link": "https://www.dw.com/en/hungary-eu-commission-wants-to-unblock-€4-2b-in-funding/a-79386848?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Commission&apos;s president has argued that Budapest is strengthening the rule of law with Viktor Orban finally out of office. Funds had been blocked over corruption allegations under Hungary&apos;s former government.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "OECD says growth &apos;resilient&apos; in 2026 despite Middle East war",
-      "link": "https://www.dw.com/en/oecd-says-growth-resilient-in-2026-despite-middle-east-war/a-79386625?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The OECD group of industrialized nations put its 2026 growth forecast at 2.9%. It said investment in AI was helping drive growth, while the war in the Middle East was fueling inflation.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Campus Project 2026: Georgia Takes Center Stage",
-      "link": "https://www.dw.com/en/campus-project-2026-georgia-takes-center-stage/a-79380639?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Beethovenfest exchange project brings German and Georgian musical traditions together. And the reasons go beyond music.",
       "tier": 2
     }
   ]
