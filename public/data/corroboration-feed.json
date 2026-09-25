@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T01:04:00.646Z",
+  "generatedAt": "2026-09-25T12:42:44.723Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,42 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 10:36:55 GMT",
+      "snippet": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 03:57:09 GMT",
+      "snippet": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 00:44:04 GMT",
+      "publishedAt": "Fri, 25 Sep 2026 11:44:44 GMT",
       "snippet": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 17:49:20 GMT",
-      "snippet": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+      "publishedAt": "Fri, 25 Sep 2026 01:10:35 GMT",
+      "snippet": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "title": "Hundreds of thousands expected in Paris as Pope begins France visit",
       "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 23:17:00 GMT",
-      "snippet": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+      "publishedAt": "Fri, 25 Sep 2026 12:39:19 GMT",
+      "snippet": "The highpoint of his trip will be a giant Mass attended by more than half a million people.",
       "tier": 1
     },
     {
@@ -60,6 +76,30 @@
       "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 24 Sep 2026 18:06:40 GMT",
       "snippet": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Jay-Z rape accuser says her allegation was false",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 10:51:28 GMT",
+      "snippet": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 06:48:07 GMT",
+      "snippet": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 19:32:59 GMT",
+      "snippet": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
       "tier": 1
     },
     {
@@ -80,14 +120,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 19:32:59 GMT",
-      "snippet": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
       "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 24 Sep 2026 17:55:44 GMT",
@@ -96,18 +128,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 15:37:45 GMT",
-      "snippet": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
       "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 24 Sep 2026 14:37:34 GMT",
       "snippet": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 15:37:45 GMT",
+      "snippet": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
       "tier": 1
     },
     {
@@ -136,138 +168,106 @@
     },
     {
       "source": "BBC World",
-      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 06:47:12 GMT",
-      "snippet": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
+      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+      "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 23:41:10 GMT",
+      "snippet": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
-      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 10:11:15 GMT",
-      "snippet": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 14:08:38 GMT",
+      "snippet": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 18:15:31 GMT",
-      "snippet": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 12:31:31 GMT",
-      "snippet": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Why India's Election Commission is in the eye of a storm - again",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 08:26:19 GMT",
-      "snippet": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "UK survivor of Canadian poison seller says he exploited her despair",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 21:16:00 GMT",
-      "snippet": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
-      "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 12:22:53 GMT",
-      "snippet": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 23 Sep 2026 22:01:17 GMT",
+      "snippet": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Long agenda, short meeting: Trump and Xi meet",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet",
-      "publishedAt": "Thu, 24 Sep 2026 18:10:00 -0400",
-      "snippet": "All Things Considered host Mary Louise Kelly talks with White House correspondent Emily Feng about the Trump/Xi summit.",
+      "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+      "link": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
+      "publishedAt": "Fri, 25 Sep 2026 07:18:52 -0400",
+      "snippet": "Trump and Xi&apos;s U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
-      "publishedAt": "Thu, 24 Sep 2026 15:46:53 -0400",
-      "snippet": "The vote on a war powers resolution introduced by Democrats came at a moment when some Republicans have begun to distance themselves from President Trump over the ongoing conflict.",
+      "title": "Why this Pokémon set is dropping in value",
+      "link": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
+      "publishedAt": "Fri, 25 Sep 2026 07:00:00 -0400",
+      "snippet": "How does one price a cemetery plot? Are they using dynamic pricing to figure it out? We tackle that question and many more in this week&apos;s Indicator newsletter.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "RFK Jr.&apos;s ethics filing reveals book deals worth millions of dollars",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5979867/rfk-ethics-book-deals",
-      "publishedAt": "Thu, 24 Sep 2026 13:51:40 -0400",
-      "snippet": "Health Secretary Robert F. Kennedy Jr.&apos;s annual financial disclosure reveals he has received two lucrative book advances and free flights from a friend while in office.",
+      "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
+      "publishedAt": "Fri, 25 Sep 2026 06:25:03 -0400",
+      "snippet": "Middle East crises in focus as U.N. General Assembly hears from Israel, the Palestinian Authority and Yemen.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Mortgage rates have just surpassed 7% for the first time in well over a year",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5977796/mortgage-rates-freddie-mac-homebuying",
-      "publishedAt": "Thu, 24 Sep 2026 12:01:44 -0400",
-      "snippet": "Rates have climbed more than a full percentage point since the U.S. war against Iran started.",
+      "title": "Mom! Mom! MOM! 3 ways to stay calm in stressful parenting moments",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5978936/how-to-manage-mom-rage",
+      "publishedAt": "Fri, 25 Sep 2026 05:01:00 -0400",
+      "snippet": "Parenthood can be overwhelming. A therapist and mom of three shares techniques to help calibrate your emotions — so you can show up better for yourself and your family.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The economic squeeze is pushing up poverty rates for older adults",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability",
-      "publishedAt": "Thu, 24 Sep 2026 11:00:00 -0400",
-      "snippet": "Despite lower poverty overall, the rate for seniors has been steadily rising in recent years. A new AARP survey sheds light on how those over 50 are struggling in the crucial time before retirement.",
+      "title": "Fill in the blank in the quiz: Trump&apos;s says his triumphal arch will include _____",
+      "link": "https://www.npr.org/2026/09/25/g-s1-144665/trump-arch-fat-bear-media-ai-news-quiz",
+      "publishedAt": "Fri, 25 Sep 2026 05:01:00 -0400",
+      "snippet": "Plus: It&apos;s a very special week! But which one?",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
-      "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
-      "publishedAt": "Thu, 24 Sep 2026 08:43:15 -0400",
-      "snippet": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low.",
+      "title": "Americans are confused and worried about elections. Will that impact turnout?",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5946736/voting-confusion-turnout",
+      "publishedAt": "Fri, 25 Sep 2026 05:00:00 -0400",
+      "snippet": "New polling shows many voters are concerned about the midterms. But prior elections show no clear link between voter concerns and fewer voters actually casting ballots.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Judge restores journalists&apos; White House access. And, Tucker Carlson on his MAGA split",
-      "link": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
-      "publishedAt": "Thu, 24 Sep 2026 07:10:14 -0400",
-      "snippet": "A judge has ordered that the Trump administration restore journalists&apos; access to White House. And, Tucker Carlson sits down with Morning Edition &apos;s Steve Inskeep for a Newsmakers interview.",
+      "title": "Is Switzerland&apos;s neutrality at a crossroads?",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5978905/swiss-referendum-neutrality-russia",
+      "publishedAt": "Fri, 25 Sep 2026 05:00:00 -0400",
+      "snippet": "Switzerland is voting on whether to tighten its famous neutrality — a move that could reshape its response to Russia and future conflicts.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Needy couples got cash and a spending plan. Results were good -- and bad",
-      "link": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
-      "publishedAt": "Thu, 24 Sep 2026 06:43:25 -0400",
-      "snippet": "In Liberia, joint financial planning boosted cash aid&apos;s benefits. It also had an unexpected consequence for some families.",
+      "title": "Years after storms, clean-up crews meticulously separate the sentimental from the wreckage",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5844641/hurricane-debris-north-carolina-texas-flood",
+      "publishedAt": "Fri, 25 Sep 2026 05:00:00 -0400",
+      "snippet": "Across the country, lost-and-found networks seek to reunite objects with disaster survivors. The work can take years. In some cases, it&apos;s impossible to pick up all the pieces.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
-      "publishedAt": "Thu, 24 Sep 2026 05:00:00 -0400",
-      "snippet": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump&apos;s administration. These six graphics show how those changes have affected U.S. biomedical research.",
+      "title": "The U.S. Strategic Petroleum Reserve is low. Here&apos;s why you should care",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-petroleum-reserve-low-level-venezuela",
+      "publishedAt": "Fri, 25 Sep 2026 05:00:00 -0400",
+      "snippet": "The U.S. has tapped into its strategic oil reserve to help drive down rising gasoline prices in the wake of the war with Iran. Can oil from Venezuela help fill it back up?",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Warren demands Trump officials explain removing a ban on interference in census data",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
-      "publishedAt": "Thu, 24 Sep 2026 05:00:00 -0400",
-      "snippet": "Democratic Sen. Elizabeth Warren asked Trump officials to explain why the Census Bureau&apos;s parent agency cut a ban on political interference from its scientific integrity policy, as NPR first reported.",
+      "title": "American farmers are hurting -- and worried about their futures",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
+      "publishedAt": "Fri, 25 Sep 2026 05:00:00 -0400",
+      "snippet": "Farmers who grow soybeans, corn, cotton and other crops are facing another year of losses as soaring fuel and fertilizer costs offset higher revenues.",
       "tier": 1
     },
     {
@@ -440,10 +440,106 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "UNGA: Gaza dominates agenda as Abbas, Netanyahu speak",
-      "link": "https://www.dw.com/en/unga-gaza-dominates-agenda-as-abbas-netanyahu-speak/live-79366211?maca=en-rss-en-top-1022-rdf",
+      "title": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?",
+      "link": "https://www.dw.com/en/iranian-president-pezeshkian-brought-a-diplomatic-tone-to-new-york-for-unga-what-did-his-remarks-signal/a-79428890?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Prime Minister Benjamin Netanyahu called accusing Israel of genocide in Gaza the \"greatest lie of the century.\" Many delegates walked out for his General Assembly speech. Mahmoud Abbas also spoke earlier. DW has more.",
+      "snippet": "Iran&apos;s president used his trip to New York this week for the UN General Assembly to signal openness to talks over the nuclear dispute. However, the chances of a major breakthrough on the war remain low.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "After Xi-Trump summit, US-China rivalry remains frozen. Is this to Beijing&apos;s advantage?",
+      "link": "https://www.dw.com/en/after-xi-trump-summit-us-china-rivalry-remains-frozen-is-this-to-beijing-s-advantage/a-79427127?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US president showcased White House construction projects and hosted a lavish dinner with tech CEOs, but the summit made little progress on key issues such as trade tensions and AI regulation.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pope Leo XIV begins four-day pilgrimage to France",
+      "link": "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The pope has landed in Paris, where he and President Macron will navigate the rules of religious state visits in secular France. Leo&apos;s trip will mix pilgrimage and politics on questions of morality and human existence.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Volkswagen, Audi to recall almost 1 million cars in Germany",
+      "link": "https://www.dw.com/en/volkswagen-audi-to-recall-almost-1-million-cars-in-germany/a-79426960?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Volkswagen and its subsidiary Audi are to recall nearly a million vehicles in Germany due to a potential steering fault.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why farmers are pairing crops with solar panels",
+      "link": "https://www.dw.com/en/why-farmers-are-pairing-crops-with-solar-panels/a-79233970?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "From cooler soil to paid grazing land, farmers are finding solar panels can do more than generate power.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Elections &apos;rigged,&apos; allege Rahul Gandhi and Cockroach party",
+      "link": "https://www.dw.com/en/india-news-elections-rigged-allege-rahul-gandhi-and-cockroach-party/live-79422469?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Cockroach party has urged India&apos;s opposition parties to stop contesting what it calls \"rigged\" elections and threatened nationwide protests over the Election Commission&apos;s voter-list revision. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Parliament approves fuel tax cut",
+      "link": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "German lawmakers hope to drive down fuel prices by cutting taxes on gas and diesel from October 1. Meanwhile, students in many cities are set to protest against military conscription. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Italy to ban burqa in schools, limit foreign pupils",
+      "link": "https://www.dw.com/en/italy-to-ban-burqa-in-schools-limit-foreign-pupils/a-79423432?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Prime Minister Giorgia Meloni’s government has passed new school rules capping the number of students who don&apos;t speak fluent Italian and banning face coverings.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ethiopia: Internet disrupted in Tigray amid conflict escalation",
+      "link": "https://www.dw.com/en/ethiopia-internet-disrupted-in-tigray-amid-conflict-escalation/a-79424191?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A web monitor reported an internet disruption in northern Ethiopia amid renewed fighting between the Tigray People&apos;s Liberation Front (TPLF) and the federal government.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How renewed fighting in Tigray could spread across the Horn of Africa",
+      "link": "https://www.dw.com/en/how-renewed-fighting-in-tigray-could-spread-across-the-horn-of-africa/a-79410333?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The fresh hostilities in Ethiopia&apos;s Tigray region come after months of growing animosity between rebel forces and the federal government. Horn of Africa expert Martin Plaut warns of possible regional spillover.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nepal&apos;s leader says his country is paying the price of climate change",
+      "link": "https://www.dw.com/en/nepal-s-leader-says-his-country-is-paying-the-price-of-climate-change/a-79421807?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Nepalese Prime Minister Balendra Shah called the devastating Nepal-Tibet floods a \"warning to the world\" — and questioned if the world had \"really heard that warning.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Jürgen Klopp starts Germany job with shaky Netherlands draw",
+      "link": "https://www.dw.com/en/jürgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A late Netherlands goal denied Jürgen Klopp a win in his first match as Germany coach. The former Liverpool and Borussia Dortmund boss has big ambitions, but the game showed he&apos;s going to need more time to achieve them.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "UNGA Day 4: Lebanese on deck after defiant Netanyahu speech",
+      "link": "https://www.dw.com/en/unga-day-4-lebanese-on-deck-after-defiant-netanyahu-speech/live-79366211?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A day after a divisive speech by Israeli Prime Minister Netanyahu, the prime minister of Lebanon will address the UN General Assembly. Leaders from Pakistan and Iraq are also set to speak on the meeting&apos;s 4th day.",
       "tier": 2
     },
     {
@@ -492,102 +588,6 @@
       "link": "https://www.dw.com/en/nigeria-us-agree-to-boost-mining-investment-on-sidelines-of-un-general-assembly/a-79417444?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "On the sidelines of the UN General Assembly, Nigeria and the US inked a new mining deal. Nigeria is home to deposits of lithium, gold, tin, gemstones, iron ore and phosphate.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Extremist parties are thriving ― and that scares people",
-      "link": "https://www.dw.com/en/extremist-parties-are-thriving-―-and-that-scares-people/a-79410960?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Far-right and far-left parties are celebrating success after success, leaving moderate politicians in the dust and worrying many Germans. Political psychology helps us understand what&apos;s behind growing polarization.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How renewed fighting in Tigray could spread across the Horn of Africa",
-      "link": "https://www.dw.com/en/how-renewed-fighting-in-tigray-could-spread-across-the-horn-of-africa/a-79410333?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The fresh hostilities in Ethiopia&apos;s Tigray region come after months of growing animosity between rebel forces and the federal government. Horn of Africa expert Martin Plaut warns of possible regional spillover.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump hosts Xi for state dinner with tech bosses",
-      "link": "https://www.dw.com/en/trump-hosts-xi-for-state-dinner-with-tech-bosses/live-79404511?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Donald Trump has rolled out the red carpet for Chinese leader Xi Jinping, with the two set for a lavish state dinner after their summit meeting. America&apos;s tech bosses and prominent Chinese executives are also present.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU to condemn war in Ukraine at G20 even if Putin attends",
-      "link": "https://www.dw.com/en/eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends/a-79413317?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Russian President Vladimir Putin has been invited to the G20 summit in Miami by the United States. Multiple members of the group have called for Moscow&apos;s exclusion over its invasion of Ukraine.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "AI systems shifted their answers toward both left- and right-leaning users in a study. Could sycophantic chatbots deepen political divides?",
-      "link": "https://www.dw.com/en/ai-systems-shifted-their-answers-toward-both-left-and-right-leaning-users-in-a-study-could-sycophantic-chatbots-deepen-political-divides/a-79377894?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A study shows chatbots mirror users&apos; politics, part of a broader tendency known as AI sycophancy. Researchers fear this could deepen polarization.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Berlin officially withdraws Olympics bid",
-      "link": "https://www.dw.com/en/germany-news-berlin-officially-withdraws-olympics-bid/live-79406294?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Berlin&apos;s decision to withdraw its Olympic bid means that only Munich and the western Rhine/Ruhr region are left in the running as potential Olympic hosts. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
-      "link": "https://www.dw.com/en/czech-pm-andrej-babis-reiterates-importance-of-nato-for-his-country-but-rejects-calls-to-increase-defense-spending/a-79411066?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US and NATO want Czechia to spend more on defense. Czech Prime Minister Andrej Babis says Prague cannot afford faster increases, despite growing warnings about the threat from Russia.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "&apos;Pope fever&apos; takes hold as Pope Leo visits France",
-      "link": "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Pope Leo XIV is expected to draw huge crowds during his visit to France. As part of his trip, he&apos;s also set to address Europe&apos;s future and some of the challenges ahead.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU finally clinching trade deals with Southeast Asian states",
-      "link": "https://www.dw.com/en/eu-finally-clinching-trade-deals-with-southeast-asian-states/a-79388278?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After years of arduous negotiations, the EU is closing on a string of bilateral trade deals with countries in Southeast Asia. And yet, a bloc-to-bloc agreement between the EU and ASEAN remains a distant prospect.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
-      "link": "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Bangladesh&apos;s absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina&apos;s exile in India remains a major obstacle to normalizing relations.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Cockroach party demands Election Commissioner Gyanesh Kumar&apos;s resignation",
-      "link": "https://www.dw.com/en/india-news-cockroach-party-demands-election-commissioner-gyanesh-kumar-s-resignation/live-79405879?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "CJP&apos;s Abhijeet Dipke has alleged that the removal of more than 130 million names from draft electoral rolls is designed to benefit the BJP and weaken opposition parties. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Poland says Starlink station fire &apos;act of sabotage&apos;",
-      "link": "https://www.dw.com/en/poland-says-starlink-station-fire-act-of-sabotage/a-79410745?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Polish Deputy Prime Minister Krzysztof Gawkowski said Warsaw believed the attack aimed to disrupt internet access for the Ukrainian military, calling it \"an element of the next phase of hybrid warfare.\"",
       "tier": 2
     }
   ]
