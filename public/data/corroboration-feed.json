@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T12:43:33.274Z",
+  "generatedAt": "2026-09-25T01:04:00.646Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,34 +32,106 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 07:10:58 GMT",
-      "snippet": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 00:44:04 GMT",
+      "snippet": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 17:49:20 GMT",
+      "snippet": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 23:17:00 GMT",
+      "snippet": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 18:06:40 GMT",
+      "snippet": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 19:02:36 GMT",
+      "snippet": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Priest killed and four injured in knife attack at Polish abbey",
+      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 19:18:12 GMT",
+      "snippet": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 19:32:59 GMT",
+      "snippet": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 17:55:44 GMT",
+      "snippet": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 15:37:45 GMT",
+      "snippet": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 14:37:34 GMT",
+      "snippet": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 11:59:23 GMT",
+      "publishedAt": "Thu, 24 Sep 2026 16:00:29 GMT",
       "snippet": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Judge temporarily overturns Trump's White House media ban",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 10:29:35 GMT",
-      "snippet": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
+      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 16:36:33 GMT",
+      "snippet": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 09:28:33 GMT",
-      "snippet": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 24 Sep 2026 15:42:07 GMT",
+      "snippet": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "tier": 1
     },
     {
@@ -72,18 +144,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 18:15:31 GMT",
-      "snippet": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
       "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 24 Sep 2026 10:11:15 GMT",
       "snippet": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 23 Sep 2026 18:15:31 GMT",
+      "snippet": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
       "tier": 1
     },
     {
@@ -119,75 +191,51 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 18:51:12 GMT",
-      "snippet": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
+      "source": "NPR News",
+      "title": "Long agenda, short meeting: Trump and Xi meet",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet",
+      "publishedAt": "Thu, 24 Sep 2026 18:10:00 -0400",
+      "snippet": "All Things Considered host Mary Louise Kelly talks with White House correspondent Emily Feng about the Trump/Xi summit.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 15:37:20 GMT",
-      "snippet": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
+      "source": "NPR News",
+      "title": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
+      "publishedAt": "Thu, 24 Sep 2026 15:46:53 -0400",
+      "snippet": "The vote on a war powers resolution introduced by Democrats came at a moment when some Republicans have begun to distance themselves from President Trump over the ongoing conflict.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Reports of violence against women in Gaza surge, UN agency finds",
-      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 05:02:26 GMT",
-      "snippet": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
+      "source": "NPR News",
+      "title": "RFK Jr.&apos;s ethics filing reveals book deals worth millions of dollars",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5979867/rfk-ethics-book-deals",
+      "publishedAt": "Thu, 24 Sep 2026 13:51:40 -0400",
+      "snippet": "Health Secretary Robert F. Kennedy Jr.&apos;s annual financial disclosure reveals he has received two lucrative book advances and free flights from a friend while in office.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 14:02:55 GMT",
-      "snippet": "One of those killed is believed to be a pregnant woman, police said.",
+      "source": "NPR News",
+      "title": "Mortgage rates have just surpassed 7% for the first time in well over a year",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5977796/mortgage-rates-freddie-mac-homebuying",
+      "publishedAt": "Thu, 24 Sep 2026 12:01:44 -0400",
+      "snippet": "Rates have climbed more than a full percentage point since the U.S. war against Iran started.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 22:01:17 GMT",
-      "snippet": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "source": "NPR News",
+      "title": "The economic squeeze is pushing up poverty rates for older adults",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability",
+      "publishedAt": "Thu, 24 Sep 2026 11:00:00 -0400",
+      "snippet": "Despite lower poverty overall, the rate for seniors has been steadily rising in recent years. A new AARP survey sheds light on how those over 50 are struggling in the crucial time before retirement.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
-      "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 00:15:46 GMT",
-      "snippet": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-      "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 24 Sep 2026 00:50:24 GMT",
-      "snippet": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
-      "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 23:58:50 GMT",
-      "snippet": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
-      "link": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 23 Sep 2026 23:42:38 GMT",
-      "snippet": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
+      "source": "NPR News",
+      "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
+      "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
+      "publishedAt": "Thu, 24 Sep 2026 08:43:15 -0400",
+      "snippet": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low.",
       "tier": 1
     },
     {
@@ -208,26 +256,10 @@
     },
     {
       "source": "NPR News",
-      "title": "The Education Dept. hasn&apos;t been dismantled. It&apos;s become more inefficient, staff say",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going",
+      "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
       "publishedAt": "Thu, 24 Sep 2026 05:00:00 -0400",
-      "snippet": "Education staff are being scattered across several other federal agencies. Despite the Trump administration&apos;s claims, employees say it&apos;s adding bureaucracy and making it harder to serve students.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
-      "publishedAt": "Thu, 24 Sep 2026 05:00:00 -0400",
-      "snippet": "eBay became the latest online retailer to ban the sale of airbags and many of their components. Aftermarket parts can be risky if they turn out to be fake or defective.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "States threaten action against company earning millions off disabled vets",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5978816/va-mortgages-trajector-bankruptcy-investigations",
-      "publishedAt": "Thu, 24 Sep 2026 05:00:00 -0400",
-      "snippet": "The investigations by attorneys general follow a recent bankruptcy filing in the face of civil lawsuits, falling revenues, and impending debt payments.",
+      "snippet": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump&apos;s administration. These six graphics show how those changes have affected U.S. biomedical research.",
       "tier": 1
     },
     {
@@ -239,195 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
-      "publishedAt": "Thu, 24 Sep 2026 05:00:00 -0400",
-      "snippet": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump&apos;s administration. These six graphics show how those changes have affected U.S. biomedical research.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Judge orders Trump administration to restore journalists&apos; access to White House",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
-      "publishedAt": "Thu, 24 Sep 2026 02:21:06 -0400",
-      "snippet": "A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Venezuela&apos;s acting leader promises elections at the &apos;right moment&apos;",
-      "link": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
-      "publishedAt": "Thu, 24 Sep 2026 01:40:49 -0400",
-      "snippet": "Venezuela&apos;s acting president, delivering her first address to the U.N. General Assembly since coming to power, promised elections and said the nation&apos;s people will determine the \"right moment.\"",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "OpenAI&apos;s breach of Australian health department website prompts rebuke",
-      "link": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
-      "publishedAt": "Thu, 24 Sep 2026 01:14:11 -0400",
-      "snippet": "Prime Minister Anthony Albanese said he was extremely concerned about OpenAI &apos;s breach of an Australian health department website that the artificial intelligence company took too long to reveal.",
+      "source": "PBS Headlines",
+      "title": "Trump administration appeals to Supreme Court as 3rd-country deportations are thrown into question",
+      "link": "https://www.pbs.org/newshour/politics/trump-administration-appeals-to-supreme-court-as-3rd-country-deportations-are-thrown-into-question",
+      "publishedAt": "Thu, 24 Sep 2026 20:58:15 -0400",
+      "snippet": "A ruling to halt deportations of people to countries other than their own threw a core immigration policy of the Trump administration into question, at least temporarily, and prompted a desperate appeal to the Supreme Court on Thursday.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "At UN General Assembly, Iran's president responds to Trump's 'annihilation' threat",
-      "link": "https://www.pbs.org/newshour/show/at-un-general-assembly-irans-president-responds-to-trumps-annihilation",
-      "publishedAt": "Wed, 23 Sep 2026 18:55:53 -0400",
-      "snippet": "The president of Iran told the United Nations General Assembly his country won't bend to U.S. intimidation. Masoud Pezeshkian spoke one day after President Trump threatened to escalate the war from the same stage. On the sidelines, U.S. and Iranian officials signaled no breakthro",
+      "title": "Congo faces health worker shortage as Ebola remains out of control, WHO says",
+      "link": "https://www.pbs.org/newshour/health/congo-faces-health-worker-shortage-as-ebola-remains-out-of-control-who-says",
+      "publishedAt": "Thu, 24 Sep 2026 20:13:56 -0400",
+      "snippet": "Congo is running short of health workers to staff treatment centers for history's fastest-growing Ebola outbreak, particularly in the eastern province of North Kivu where cases have surged 73% over three weeks, the World Health Organization said Wednesday.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Xi arrives for state visit amid U.S.-China trade tensions and AI concerns",
-      "link": "https://www.pbs.org/newshour/show/xi-arrives-for-state-visit-amid-u-s-china-trade-tensions-and-ai-concerns",
-      "publishedAt": "Wed, 23 Sep 2026 18:50:01 -0400",
-      "snippet": "Chinese President Xi Jinping arrived in Washington Wednesday evening for his first state visit in more than a decade. At the same time, a federal judge heard arguments in a lawsuit brought by CNN, MS NOW and Politico challenging President Trump's ban on the outlets from the White",
+      "title": "Son of Israel's ambassador to U.S. critically injured in attack in occupied West Bank",
+      "link": "https://www.pbs.org/newshour/world/son-of-israels-ambassador-to-u-s-critically-injured-in-attack-in-occupied-west-bank",
+      "publishedAt": "Thu, 24 Sep 2026 20:08:59 -0400",
+      "snippet": "The son of Israel's ambassador to the United States was gravely injured in a ramming attack in the occupied West Bank on Wednesday.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: FBI investigating hacking group's claim it breached jobs website",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-fbi-investigating-hacking-groups-claim-it-breached-jobs-website",
-      "publishedAt": "Wed, 23 Sep 2026 18:45:42 -0400",
-      "snippet": "In our news wrap Wednesday, the FBI says it's investigating a claim by a criminal hacking group that it stole \"very sensitive data\" from the bureau's job website, Hurricane Polo off Mexico's western coast has strengthened into one of the most powerful storms in decades and a fede",
+      "title": "African leaders press United Nations for permanent seats on Security Council",
+      "link": "https://www.pbs.org/newshour/world/african-leaders-press-united-nations-for-permanent-seats-on-security-council",
+      "publishedAt": "Thu, 24 Sep 2026 19:40:16 -0400",
+      "snippet": "As in years past, African leaders attending the U.N. General Assembly this year are demanding a reform of the powerful Security Council that would include permanent seats for countries from the continent in the global body's highest decision-making structure.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "New poll reveals how Trump's low approval might affect midterms",
-      "link": "https://www.pbs.org/newshour/show/new-poll-reveals-how-trumps-low-approval-might-affect-midterms",
-      "publishedAt": "Wed, 23 Sep 2026 18:40:41 -0400",
-      "snippet": "With voting for the midterm elections already underway, President Trump is asking voters to pretend he's on the ballot. A new PBS News/NPR/Marist poll finds that people are, but that could be bad news for the president. We found Democratic congressional candidates hold a signific",
+      "title": "AI, trade, Iran and Taiwan top agenda at Trump-Xi summit",
+      "link": "https://www.pbs.org/newshour/show/ai-trade-iran-and-taiwan-top-agenda-at-trump-xi-summit",
+      "publishedAt": "Thu, 24 Sep 2026 18:55:06 -0400",
+      "snippet": "President Trump hosted Xi Jinping at the White House on the Chinese leader's first trip to Washington in more than 10 years. The pair held two meetings, and while the status of the press pool was still in doubt, they delivered remarks. Trump and the First Lady will host a State D",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Former Kansas GOP governor explains why he's backing Democrat Adam Hamilton for Senate",
-      "link": "https://www.pbs.org/newshour/show/former-kansas-gop-governor-explains-why-hes-backing-democrat-adam-hamilton-for-senate",
-      "publishedAt": "Wed, 23 Sep 2026 18:35:05 -0400",
-      "snippet": "Former Kansas Gov. Bill Graves, a Republican, crossed party lines to endorse Democrat Adam Hamilton in his bid to unseat Republican Sen. Roger Marshall. Graves said the country is facing \"increasing partisan gridlock and division\" and that it's \"time Kansas does something differe",
+      "title": "Experts analyze what's at stake in the Trump-Xi summit",
+      "link": "https://www.pbs.org/newshour/show/experts-analyze-whats-at-stake-in-the-trump-xi-summit",
+      "publishedAt": "Thu, 24 Sep 2026 18:50:44 -0400",
+      "snippet": "To discuss Chinese President Xi Jinping's visit to Washington, Amna Nawaz spoke with Nicholas Burns and Samm Sacks. Burns is a former U.S. ambassador to China and is now at Harvard University. Sacks is a senior fellow at the Institute for America, China and the Future of Global A",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Moldova's PM on confronting Russian threats and backing Ukraine",
-      "link": "https://www.pbs.org/newshour/show/moldovas-pm-on-confronting-russian-threats-and-backing-ukraine",
-      "publishedAt": "Wed, 23 Sep 2026 18:30:12 -0400",
-      "snippet": "Moldova is an Eastern European nation of almost three million people nestled between NATO member Romania and Ukraine. It has become a stage for Russian interference and drone incursions. Moldovan Prime Minister Vasile Tofan spoke with Nick Schifrin about Russia's attempts to sway",
+      "title": "News Wrap: Netanyahu calls allegations of genocide in Gaza 'the biggest lie'",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-netanyahu-calls-allegations-of-genocide-in-gaza-the-biggest-lie",
+      "publishedAt": "Thu, 24 Sep 2026 18:45:08 -0400",
+      "snippet": "In our news wrap Thursday, Israeli Prime Minister Benjamin Netanyahu delivered a fiery speech at the U.N. General Assembly and dismissed allegations of genocide in Gaza, eight people were killed in the latest barrage of Russian drones and missiles in Ukraine and Texas election of",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What's making it harder for American family farms to survive",
-      "link": "https://www.pbs.org/newshour/show/whats-making-it-harder-for-american-family-farms-to-survive",
-      "publishedAt": "Wed, 23 Sep 2026 18:25:55 -0400",
-      "snippet": "For generations, the family farm has been central to the American story. But these days, farmers are struggling with sharply higher costs and crushing debt on top of the same economic pressures the rest of the country feels. Judy Woodruff reports on what it takes to keep a farm g",
+      "title": "How the diesel price spike is rippling through nearly every part of the economy",
+      "link": "https://www.pbs.org/newshour/show/how-the-diesel-price-spike-is-rippling-through-nearly-every-part-of-the-economy",
+      "publishedAt": "Thu, 24 Sep 2026 18:40:03 -0400",
+      "snippet": "A rapid surge in the price of diesel fuel is straining businesses and threatening to raise costs across the economy. It's also putting pressure on President Trump to bring relief at the pump, including through a diesel export ban that's been pushed by some Republican lawmakers ah",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Marlon James explores how homophobia shaped life in Jamaica in 'The Disappearers'",
-      "link": "https://www.pbs.org/newshour/show/marlon-james-explores-how-homophobia-shaped-life-in-jamaica-in-the-disappearers",
-      "publishedAt": "Wed, 23 Sep 2026 18:20:58 -0400",
-      "snippet": "Marlon James' new novel, \"The Disappearers,\" was shortlisted for the Booker Prize. It tells the story of a group of gay men trying to make their way, and stay alive, in the homophobic culture of Jamaica in the 1980s and 90s. It's raw, violent and sexually explicit, while also lea",
+      "title": "'We want more guardrails,' Kalshi CEO says as calls grow for prediction market regulation",
+      "link": "https://www.pbs.org/newshour/show/we-want-more-guardrails-kalshi-ceo-says-as-calls-grow-for-prediction-market-regulation",
+      "publishedAt": "Thu, 24 Sep 2026 18:35:57 -0400",
+      "snippet": "As prediction markets continue to expand, they are drawing attention in Washington and states across the country. Companies like Kalshi and Polymarket allow people to trade contracts tied to the outcomes of real-world events, including elections. Liz Landers discussed the growing",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Maine Dems hammer Collins over report of pay-to-play probe. GOP senator calls it 'completely false'",
-      "link": "https://www.pbs.org/newshour/politics/maine-dems-hammer-collins-over-report-of-pay-to-play-probe-gop-senator-calls-it-completely-false",
-      "publishedAt": "Wed, 23 Sep 2026 18:17:35 -0400",
-      "snippet": "Maine Democrats on Wednesday assailed U.S. Sen. Susan Collins over a news report that the FBI investigated how much she knew about illegal campaign contributions that sent one of her donors to prison.",
+      "title": "In a warming climate, should air conditioning be a right?",
+      "link": "https://www.pbs.org/newshour/show/in-a-warming-climate-should-air-conditioning-be-a-right",
+      "publishedAt": "Thu, 24 Sep 2026 18:30:47 -0400",
+      "snippet": "Fall temperatures are finally cooling off much of the United States, but this past summer was yet another reminder that the climate is changing. Stephanie Sy reports on how some cities are considering whether residents should have a right to air conditioning. It's part of our ser",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "3 things to know about rising diesel prices and how they affect you",
-      "link": "https://www.pbs.org/newshour/economy/3-things-to-know-about-rising-diesel-prices-and-how-they-affect-you",
-      "publishedAt": "Wed, 23 Sep 2026 17:51:52 -0400",
-      "snippet": "Diesel prices have reached historic highs as a result of the U.S. war in Iran and Russia's war in Ukraine, and consumers will bear the brunt of the rising cost, experts say.",
+      "title": "Lock of hair settles questions about Thomas Jefferson and Sally Hemings",
+      "link": "https://www.pbs.org/newshour/show/lock-of-hair-settles-questions-about-thomas-jefferson-and-sally-hemings",
+      "publishedAt": "Thu, 24 Sep 2026 18:25:04 -0400",
+      "snippet": "Researchers say they have the most conclusive proof of Thomas Jefferson's paternity of Sally Hemings' children. A strand of hair found in Jefferson's Bible launched an investigation involving DNA scientists, historians, genealogists and descendants of both Jefferson and Hemings. ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "FBI investigates hackers' claim to have stolen employee data, compromised jobs website",
-      "link": "https://www.pbs.org/newshour/nation/fbi-investigates-hackers-claim-to-have-stolen-employee-data-compromised-jobs-website",
-      "publishedAt": "Wed, 23 Sep 2026 17:37:50 -0400",
-      "snippet": "The FBI said Wednesday it was investigating a criminal hacking group's claims that it had stolen \"very sensitive data\" belonging to thousands of agents and applicants and that it had compromised the bureau's jobs website.",
+      "title": "China's Xi says 2 giant pandas will arrive at Atlanta's zoo in the coming days",
+      "link": "https://www.pbs.org/newshour/world/chinas-xi-says-2-giant-pandas-will-arrive-at-atlantas-zoo-in-the-coming-days",
+      "publishedAt": "Thu, 24 Sep 2026 17:38:20 -0400",
+      "snippet": "Chinese President Xi Jinping said Thursday that two giant pandas from China will arrive at Zoo Atlanta in the coming days, bolstering a loan program that at one time had lapsed as part of tensions between Beijing and Washington.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "AI firm leaders tell UN Security Council that it could be a risk to all humanity",
-      "link": "https://www.pbs.org/newshour/world/ai-firm-leaders-tell-un-security-council-that-it-could-be-a-risk-to-all-humanity",
-      "publishedAt": "Wed, 23 Sep 2026 17:23:19 -0400",
-      "snippet": "The heads of major artificial intelligence firms pleaded with the United Nations on Wednesday to set controls over the burgeoning technology they are designing in order to save the world — or, at least, its people.",
+      "title": "8 sailors attempted suicide on Lincoln carrier group's long deployment, Navy leader says",
+      "link": "https://www.pbs.org/newshour/nation/8-sailors-attempted-suicide-on-lincoln-carrier-groups-long-deployment-navy-leader-says",
+      "publishedAt": "Thu, 24 Sep 2026 17:30:28 -0400",
+      "snippet": "Eight sailors attempted suicide while deployed with the USS Abraham Lincoln aircraft carrier strike group, which spent a record-setting uninterrupted time at sea supporting the Iran war, the Navy's top civilian leader said this week.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Judge questions Trump's ban of three prominent news outlets from White House",
-      "link": "https://www.pbs.org/newshour/politics/trump-administrations-ban-of-three-prominent-news-outlets-from-white-house-is-in-court",
-      "publishedAt": "Wed, 23 Sep 2026 16:19:22 -0400",
-      "snippet": "A federal judge weighing whether to block President Donald Trump's ban of three news outlets from White House grounds expressed some skepticism Wednesday in response to the government's defense of the move.",
+      "title": "ICE has wasted tens of millions of dollars with 'uninformed' detention plans, GAO finds",
+      "link": "https://www.pbs.org/newshour/politics/ice-has-wasted-tens-of-millions-of-dollars-with-uninformed-detention-plans-gao-finds",
+      "publishedAt": "Thu, 24 Sep 2026 17:09:58 -0400",
+      "snippet": "Among the misspending was nearly $3 million to erect tents at Guantanamo Bay that were never used, $20 million to maintain purchased warehouses that are now being sold without having housed a single detainee, and excessive rates paid to hold detainees at a deficient and now-shutt",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump's focus on noncitizen voting has led to 160 arrests. That shows it's rare, experts say",
-      "link": "https://www.pbs.org/newshour/politics/trumps-focus-on-noncitizen-voting-has-led-to-160-arrests-that-shows-its-rare-experts-say",
-      "publishedAt": "Wed, 23 Sep 2026 15:56:42 -0400",
-      "snippet": "The Trump administration's whole-of-government effort to find and prosecute noncitizens illegally on state voter rolls has resulted in about 1,600 voter fraud cases that have led to 160 arrests, Homeland Security Investigations senior official Matthew Millhollin said in a press b",
+      "title": "Russian strikes kill 8 civilians in Ukraine as UN debates how to end the war",
+      "link": "https://www.pbs.org/newshour/world/russian-strikes-kill-8-civilians-in-ukraine-as-un-debates-how-to-end-the-war",
+      "publishedAt": "Thu, 24 Sep 2026 16:34:13 -0400",
+      "snippet": "Ukrainian President Volodymyr Zelenskyy appealed in a speech at the United Nations late Wednesday for countries to starve Russia of revenue through sanctions and trade bans, denying Moscow the money it needs to prolong the war.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-      "link": "https://www.pbs.org/newshour/politics/sen-bernie-sanders-unveils-bill-to-ban-artificial-superintelligence-and-create-department-of-ai",
-      "publishedAt": "Wed, 23 Sep 2026 14:10:58 -0400",
-      "snippet": "Two leading progressive lawmakers, Sen. Bernie Sanders and Rep. Greg Casar, are unveiling legislation Wednesday that would ban artificial superintelligence and create a federal agency to oversee advanced AI.",
+      "title": "WATCH: Israeli Prime Minister Netanyahu addresses 2026 UN General Assembly",
+      "link": "https://www.pbs.org/newshour/world/watch-israeli-prime-minister-netanyahu-addresses-2026-un-general-assembly",
+      "publishedAt": "Thu, 24 Sep 2026 15:51:13 -0400",
+      "snippet": "Netanyahu said attacking Iran \"was one of the easiest decisions I've ever had to make\" and denounced as \"moral cowards\" a mass of delegates who walked out of the U.N. General Assembly when he took the podium to speak.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Mississippi police make 2nd arrest in death of Tasia Fortune, seek 3rd suspect",
-      "link": "https://www.pbs.org/newshour/nation/mississippi-police-make-2nd-arrest-in-death-of-tasia-fortune-seek-3rd-suspect",
-      "publishedAt": "Wed, 23 Sep 2026 13:55:12 -0400",
-      "snippet": "Police in Mississippi have arrested a second man in the death of a Black woman found hanging from a tree and have issued an arrest warrant for a third suspect.",
+      "title": "WATCH: Palestinian President Abbas addresses 2026 UN General Assembly",
+      "link": "https://www.pbs.org/newshour/world/watch-palestinian-president-abbas-addresses-2026-un-general-assembly",
+      "publishedAt": "Thu, 24 Sep 2026 15:43:02 -0400",
+      "snippet": "Abbas made the prerecorded remarks from his office in Ramallah after the United States denied him and other top Palestinian officials visas to attend the gathering for the second year in a row.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Senior NATO commander warns Putin is becoming more cavalier and open to risk as Ukraine war drags on",
-      "link": "https://www.pbs.org/newshour/world/senior-nato-commander-warns-putin-is-becoming-more-cavalier-and-open-to-risk-as-ukraine-war-drags-on",
-      "publishedAt": "Wed, 23 Sep 2026 13:03:12 -0400",
-      "snippet": "Air Chief Marshal Sir John Stringer spoke to The Associated Press at a security conference in Estonia amid warnings from some European leaders that Moscow is planning to test NATO's collective defense pact with bolder attacks that have already included sabotage and espionage.",
+      "title": "WATCH: Senate rejects war powers resolution to halt military action in Iran as gas prices upend midterms",
+      "link": "https://www.pbs.org/newshour/politics/senate-to-vote-on-war-powers-resolution-to-halt-military-action-in-iran-as-gas-prices-upend-midterms",
+      "publishedAt": "Thu, 24 Sep 2026 12:49:23 -0400",
+      "snippet": "The Senate tally, 49-50, coming days after Trump's bombastic address to the United Nations in which he threatened to \"annihilate\" Iran, was likely the last chance for lawmakers to go on record about the war ahead of November.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Polo off Mexican coast is among 'the strongest storms ever'",
-      "link": "https://www.pbs.org/newshour/nation/polo-off-mexican-coast-is-among-the-strongest-storms-ever",
-      "publishedAt": "Wed, 23 Sep 2026 12:11:43 -0400",
-      "snippet": "The U.S. National Hurricane Center in Miami has called Polo an \"extremely dangerous\" storm and forecast the system would turn sharply to the northwest before moving west-northwest over the next several days.",
+      "title": "New York sues prediction market Polymarket, calling it an unlicensed gambling operation that puts residents at risk",
+      "link": "https://www.pbs.org/newshour/nation/new-york-sues-prediction-market-polymarket-calling-it-an-unlicensed-gambling-operation-that-puts-residents-at-risk",
+      "publishedAt": "Thu, 24 Sep 2026 12:09:20 -0400",
+      "snippet": "Prediction market platforms have argued states do not have the authority to govern them because they are already regulated at the federal level by the U.S. Commodity Futures Trading Commission.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Harvey Weinstein is sentenced to 15 years in prison for 2006 sex crime in New York",
-      "link": "https://www.pbs.org/newshour/nation/harvey-weinstein-is-sentenced-to-15-years-in-prison-for-2006-sex-crime-in-new-york",
-      "publishedAt": "Wed, 23 Sep 2026 11:57:27 -0400",
-      "snippet": "Weinstein was sentenced Wednesday to 15 years in prison for sexually assaulting a TV production assistant in 2006, capping a yearslong legal odyssey that a judge said cemented the disgraced movie mogul's reputation as \"the literal face of the #MeToo movement.\"",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "China's Xi kicks off state visit to Washington with a rare planeside welcome from Trump",
-      "link": "https://www.pbs.org/newshour/world/chinas-xi-kicks-off-state-visit-to-washington-with-a-rare-planeside-welcome-from-trump",
-      "publishedAt": "Wed, 23 Sep 2026 11:16:26 -0400",
-      "snippet": "Chinese President Xi Jinping arrived in Washington on Wednesday, where he was met with a rare planeside greeting from President Donald Trump after their top officials agreed to extend a trade truce until January.",
+      "title": "Energy Department will spend nearly $2 billion to squeeze more electricity from the nation's aging power grid",
+      "link": "https://www.pbs.org/newshour/politics/energy-department-will-spend-nearly-2-billion-to-squeeze-more-electricity-from-the-aging-power-grid",
+      "publishedAt": "Thu, 24 Sep 2026 11:56:47 -0400",
+      "snippet": "The money will go toward 31 projects across 26 states that are expected to produce more than 23 gigawatts of additional electricity capacity — enough to power 16 million homes.",
       "tier": 1
     },
     {
@@ -440,24 +440,128 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "UNGA: Gaza dominates agenda as Abbas, Netanyahu speak",
+      "link": "https://www.dw.com/en/unga-gaza-dominates-agenda-as-abbas-netanyahu-speak/live-79366211?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Prime Minister Benjamin Netanyahu called accusing Israel of genocide in Gaza the \"greatest lie of the century.\" Many delegates walked out for his General Assembly speech. Mahmoud Abbas also spoke earlier. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?",
+      "link": "https://www.dw.com/en/three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-president-in-samarkand/a-79413301?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The era of Russian presidents is coming to an end at the World Chess Federation (FIDE). Two Germans and one Kazakh are up for election. Among the issues at play are money, Kremlin influence, and unanswered questions.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ethiopia&apos;s military says it killed hundreds of TPLF rebels",
+      "link": "https://www.dw.com/en/ethiopia-s-military-says-it-killed-hundreds-of-tplf-rebels/a-79419173?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The TPLF fought against against the Ethiopian military from 2020 to 2022 in a conflict that saw hundreds of thousands of civilians killed. A resumption of fighting has sparked fears of another brutal war.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "After several difficult years, economists now expect German economy to grow",
+      "link": "https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany&apos;s economy is growing again, but recovery remains on shaky ground. High government spending is keeping the economy afloat, while energy prices, a shortage of skilled workers and debt continue to weigh on it.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "CNN, MS NOW, Politico regain access to White House",
+      "link": "https://www.dw.com/en/cnn-ms-now-politico-regain-access-to-white-house/a-79405693?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A federal judge has ordered President Trump to restore White House access to CNN, MS NOW and Politico after he banned the media outlets from the premises. Hours later, the media announced they had been granted access.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Houthi advances in Yemen drive displacement, deepen humanitarian crisis",
+      "link": "https://www.dw.com/en/houthi-advances-in-yemen-drive-displacement-deepen-humanitarian-crisis/a-79414280?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "With more than 132,000 people already displaced by the latest fighting and Houthi territorial gains, Yemen is on the brink of slipping back into a full-fledged humanitarian emergency. DW spoke with people on the ground.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nigeria, US agree to boost mining investment on sidelines of UN General Assembly",
+      "link": "https://www.dw.com/en/nigeria-us-agree-to-boost-mining-investment-on-sidelines-of-un-general-assembly/a-79417444?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "On the sidelines of the UN General Assembly, Nigeria and the US inked a new mining deal. Nigeria is home to deposits of lithium, gold, tin, gemstones, iron ore and phosphate.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Extremist parties are thriving ― and that scares people",
+      "link": "https://www.dw.com/en/extremist-parties-are-thriving-―-and-that-scares-people/a-79410960?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Far-right and far-left parties are celebrating success after success, leaving moderate politicians in the dust and worrying many Germans. Political psychology helps us understand what&apos;s behind growing polarization.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How renewed fighting in Tigray could spread across the Horn of Africa",
+      "link": "https://www.dw.com/en/how-renewed-fighting-in-tigray-could-spread-across-the-horn-of-africa/a-79410333?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The fresh hostilities in Ethiopia&apos;s Tigray region come after months of growing animosity between rebel forces and the federal government. Horn of Africa expert Martin Plaut warns of possible regional spillover.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump hosts Xi for state dinner with tech bosses",
+      "link": "https://www.dw.com/en/trump-hosts-xi-for-state-dinner-with-tech-bosses/live-79404511?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Donald Trump has rolled out the red carpet for Chinese leader Xi Jinping, with the two set for a lavish state dinner after their summit meeting. America&apos;s tech bosses and prominent Chinese executives are also present.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "EU to condemn war in Ukraine at G20 even if Putin attends",
+      "link": "https://www.dw.com/en/eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends/a-79413317?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Russian President Vladimir Putin has been invited to the G20 summit in Miami by the United States. Multiple members of the group have called for Moscow&apos;s exclusion over its invasion of Ukraine.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "AI systems shifted their answers toward both left- and right-leaning users in a study. Could sycophantic chatbots deepen political divides?",
+      "link": "https://www.dw.com/en/ai-systems-shifted-their-answers-toward-both-left-and-right-leaning-users-in-a-study-could-sycophantic-chatbots-deepen-political-divides/a-79377894?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A study shows chatbots mirror users&apos; politics, part of a broader tendency known as AI sycophancy. Researchers fear this could deepen polarization.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Berlin officially withdraws Olympics bid",
+      "link": "https://www.dw.com/en/germany-news-berlin-officially-withdraws-olympics-bid/live-79406294?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Berlin&apos;s decision to withdraw its Olympic bid means that only Munich and the western Rhine/Ruhr region are left in the running as potential Olympic hosts. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
+      "link": "https://www.dw.com/en/czech-pm-andrej-babis-reiterates-importance-of-nato-for-his-country-but-rejects-calls-to-increase-defense-spending/a-79411066?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US and NATO want Czechia to spend more on defense. Czech Prime Minister Andrej Babis says Prague cannot afford faster increases, despite growing warnings about the threat from Russia.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "&apos;Pope fever&apos; takes hold as Pope Leo visits France",
       "link": "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Pope Leo XIV is expected to draw large crowds during his visit to France. As part of his trip to Europe, he&apos;s also set to address the continent&apos;s future and some of the challenges ahead.",
+      "snippet": "Pope Leo XIV is expected to draw huge crowds during his visit to France. As part of his trip, he&apos;s also set to address Europe&apos;s future and some of the challenges ahead.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "UNGA: Netanyahu, Abbas to speak as Middle East dominates day",
-      "link": "https://www.dw.com/en/unga-netanyahu-abbas-to-speak-as-middle-east-dominates-day/live-79366211?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Israel&apos;s Netanyahu can expect to be greeted by protests, while the Palestinian Abbas will address the body via video after the US denied him a visa. Beyond the Middle East, rising sea levels will be on the day 3 agenda.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "As the EU advances free trade with Southeast Asia, why is there no ASEAN-wide deal?",
-      "link": "https://www.dw.com/en/as-the-eu-advances-free-trade-with-southeast-asia-why-is-there-no-asean-wide-deal/a-79388278?maca=en-rss-en-top-1022-rdf",
+      "title": "EU finally clinching trade deals with Southeast Asian states",
+      "link": "https://www.dw.com/en/eu-finally-clinching-trade-deals-with-southeast-asian-states/a-79388278?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "After years of arduous negotiations, the EU is closing on a string of bilateral trade deals with countries in Southeast Asia. And yet, a bloc-to-bloc agreement between the EU and ASEAN remains a distant prospect.",
       "tier": 2
@@ -484,110 +588,6 @@
       "link": "https://www.dw.com/en/poland-says-starlink-station-fire-act-of-sabotage/a-79410745?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Polish Deputy Prime Minister Krzysztof Gawkowski said Warsaw believed the attack aimed to disrupt internet access for the Ukrainian military, calling it \"an element of the next phase of hybrid warfare.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Morocco: Center-right PAM leads in parliamentary election",
-      "link": "https://www.dw.com/en/morocco-center-right-pam-leads-in-parliamentary-election/a-79407710?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "PAM is part of Morocco&apos;s outgoing ruling coalition and was founded by an adviser to the king. The moderate Islamist Justice and Development Party surged amid increasing voter apathy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Bundestag to discuss opt-out organ donation",
-      "link": "https://www.dw.com/en/germany-news-bundestag-to-discuss-opt-out-organ-donation/live-79406294?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Parliamentarians debate whether to change Germany&apos;s organ donation scheme amid a lack of supply. They will also consider reforms to expand the power of intelligence agencies. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: Economic institutes double growth forecast for 2026",
-      "link": "https://www.dw.com/en/germany-economic-institutes-double-growth-forecast-for-2026/a-78168080?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Experts predict German GDP will double to 1.3% this year but warn of structural difficulties ahead. The picture is complicated, they say, especially because of uncertainty in the energy sector.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US judge blocks Trump ban of CNN, MS NOW, Politico from White House, orders him to restore access",
-      "link": "https://www.dw.com/en/us-judge-blocks-trump-ban-of-cnn-ms-now-politico-from-white-house-orders-him-to-restore-access/a-79405693?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A judge has ordered President Trump to restore White House access to CNN, MS NOW and Politico after he banned the media outlets from the premises.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "OpenAI agent hacked Australia government portal: PM Albanese",
-      "link": "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The hack of Australian health data marks the world&apos;s first known AI-led breach of a government website.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany sets out plan to phase out fossil fuels by 2045",
-      "link": "https://www.dw.com/en/germany-sets-out-plan-to-phase-out-fossil-fuels-by-2045/a-79404028?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany sets out a plan to phase out coal, oil and gas by 2045, reaffirming a climate strategy focused on electrification.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump welcomes China&apos;s Xi for high-stakes summit",
-      "link": "https://www.dw.com/en/trump-welcomes-china-s-xi-for-high-stakes-summit/live-79404511?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Donald Trump welcomed Xi Jinping to the US by greeting him personally on the tarmac at Joint Base Andrews. The two are expected to discuss trade, AI, Taiwan and Iran during a three-day state visit.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Berlin Airport briefly suspends flights over drone sighting",
-      "link": "https://www.dw.com/en/berlin-airport-briefly-suspends-flights-over-drone-sighting/a-79403865?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Airspace over the German capital was closed for about 45 minutes after a drone was spotted on the runway. Flights have resumed but are experiencing delays.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Harvey Weinstein resentenced to 15 years for sexual assault",
-      "link": "https://www.dw.com/en/harvey-weinstein-resentenced-to-15-years-for-sexual-assault/a-79403381?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The disgraced Hollywood mogul was found guilty of sexually assaulting former production assistant Miriam Haley. The man whose case spurred the #MeToo movement awaits a separate sentencing in a California rape case.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "New fighting in Ethiopia&apos;s Tigray region raises fears of a return to the country&apos;s civil war",
-      "link": "https://www.dw.com/en/new-fighting-in-ethiopia-s-tigray-region-raises-fears-of-a-return-to-the-country-s-civil-war/a-79400869?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Fighting in and around Tigray is testing Ethiopia&apos;s fragile 2022 peace deal. With old enemies forming new alliances, experts warn that the conflict could enter a dangerous new phase.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Eviction of 87-year-old woman sparks housing protests in Madrid",
-      "link": "https://www.dw.com/en/eviction-of-87-year-old-woman-sparks-housing-protests-in-madrid/a-79399342?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Police escorted Maricarmen Abascal from the apartment she had called home for more than seven decades. The case has reignited debate over Spain&apos;s housing crisis, rising rents and protections for long-term tenants.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump&apos;s Board of Peace proposes $2.45B for reconstruction in Gaza",
-      "link": "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The board has noted that the Palestinian enclave needs roughly $35.2 billion for full, medium-term reconstruction. Trump&apos;s plan for peace in Gaza has largely stalled since an agreement was reached almost a year ago.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Who is skipping the UN General Assembly — and why",
-      "link": "https://www.dw.com/en/who-is-skipping-the-un-general-assembly-and-why/a-79391652?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Xi Jinping, Vladimir Putin, Friedrich Merz, Giorgia Meloni and Mahmoud Abbas are among more than 50 leaders who won&apos;t make it to the UN General Assembly. Their reasons range from illness and domestic affairs to holidays.",
       "tier": 2
     }
   ]
