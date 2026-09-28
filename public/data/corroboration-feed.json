@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T12:40:27.134Z",
+  "generatedAt": "2026-09-28T01:12:52.541Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,34 +32,34 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 07:44:11 GMT",
-      "snippet": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 21:16:31 GMT",
+      "snippet": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 11:38:03 GMT",
-      "snippet": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+      "title": "Embattled Serbian president resigns, paving way for early elections",
+      "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 20:04:21 GMT",
+      "snippet": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Two bodies found after avalanche hits Himalayan climbing group",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 17:05:26 GMT",
+      "snippet": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Two mass shootings in South Africa leave 27 dead",
       "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 10:00:36 GMT",
+      "publishedAt": "Sun, 27 Sep 2026 14:09:22 GMT",
       "snippet": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 23:04:08 GMT",
-      "snippet": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
       "tier": 1
     },
     {
@@ -72,18 +72,58 @@
     },
     {
       "source": "BBC World",
-      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 27 Sep 2026 12:34:26 GMT",
-      "snippet": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+      "title": "Venezuela releases dozens of political prisoners as election calls grow",
+      "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 15:56:25 GMT",
+      "snippet": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "British national among six dead in building explosion close to Acropolis in Athens",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 12:47:25 GMT",
-      "snippet": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "title": "Switzerland rejects stricter interpretation of its neutrality",
+      "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 16:02:17 GMT",
+      "snippet": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 07:44:11 GMT",
+      "snippet": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 19:47:21 GMT",
+      "snippet": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 23:37:26 GMT",
+      "snippet": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 23:04:08 GMT",
+      "snippet": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
+      "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 16:35:41 GMT",
+      "snippet": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
       "tier": 1
     },
     {
@@ -92,14 +132,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 26 Sep 2026 15:48:51 GMT",
       "snippet": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Republic of Ireland to wear black armbands for Israel game",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 19:59:00 GMT",
-      "snippet": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
       "tier": 1
     },
     {
@@ -120,58 +152,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 15:12:25 GMT",
-      "snippet": "The independent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 12:47:25 GMT",
+      "snippet": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Brazil's Lula bans online gambling ahead of presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 15:46:40 GMT",
-      "snippet": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+      "title": "Why some Indian civil servants become heroes for doing their jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 23:01:37 GMT",
+      "snippet": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "White House bars CNN from travelling with Trump on Air Force One",
-      "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 19:16:14 GMT",
-      "snippet": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 23:27:22 GMT",
+      "snippet": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 23:20:48 GMT",
-      "snippet": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 26 Sep 2026 02:50:56 GMT",
-      "snippet": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 20:47:49 GMT",
-      "snippet": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 23:05:40 GMT",
-      "snippet": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "title": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
+      "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 27 Sep 2026 08:51:23 GMT",
+      "snippet": "Big Bang played London's Tottenham Hotspur Stadium, marking a long-awaited return for the group that helped build the blueprint for modern K-pop.",
       "tier": 1
     },
     {
@@ -183,11 +191,51 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 22:12:48 GMT",
-      "snippet": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+      "source": "NPR News",
+      "title": "Nantucket shipwreck uncovered by Nor&apos;easter",
+      "link": "https://www.npr.org/2026/09/27/nx-s1-5982785/nantucket-shipwreck-uncovered-by-noreaster",
+      "publishedAt": "Sun, 27 Sep 2026 20:30:26 -0400",
+      "snippet": "The local newspaper in Nantucket got a tip: &apos;I found what I believe to be a shipwreck uncovered by the storm.&apos;",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Scientists discover two new species of sea spiders along Canadian coastline",
+      "link": "https://www.npr.org/2026/09/27/nx-s1-5982026/new-sea-spider-species",
+      "publishedAt": "Sun, 27 Sep 2026 18:31:16 -0400",
+      "snippet": "So far, scientists have identified more than 1,300 species of sea spiders.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+      "link": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "publishedAt": "Sun, 27 Sep 2026 09:01:27 -0400",
+      "snippet": "On Saturday night, there were separate mass shootings near South Africa&apos;s two largest cities.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump wants to remove a question about race in the census. We look back at the history",
+      "link": "https://www.npr.org/2026/09/27/nx-s1-5966883/trump-wants-to-remove-a-question-about-race-in-the-census-we-look-back-at-the-history",
+      "publishedAt": "Sun, 27 Sep 2026 08:17:31 -0400",
+      "snippet": "The Trump administration wants to stop asking about race and ethnicity on the next U.S. census. Since 1790, the topic has been used to exclude people of color, and, more recently, for inclusion.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "As Congress debates college sports, athletes-turned-senators have a seat at the table",
+      "link": "https://www.npr.org/2026/09/27/nx-s1-5978973/protect-college-sports-act-senators-athletes",
+      "publishedAt": "Sun, 27 Sep 2026 08:06:24 -0400",
+      "snippet": "The Protect College Sports Act is on the brink of passing in the Senate, where a handful of former college athletes who are now senators on both sides of the aisle have an extra say in the debate.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Ohio governor&apos;s race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+      "link": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+      "publishedAt": "Sun, 27 Sep 2026 08:06:23 -0400",
+      "snippet": "The Ohio governor&apos;s race pits former presidential candidate Vivek Ramaswamy against Democrat Amy Acton, a former state health advisor. Democrats see a chance to win a state that usually votes Republican.",
       "tier": 1
     },
     {
@@ -200,7 +248,7 @@
     },
     {
       "source": "NPR News",
-      "title": "Photos: These shepherds climb down a mountain to go to night school",
+      "title": "Photos: This may be the most inspirational night school on Earth",
       "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
       "publishedAt": "Sun, 27 Sep 2026 07:53:42 -0400",
       "snippet": "Many thousands of boys and men in Lesotho take up the vital profession of herding but have to give up their education. A small network of schools on a shoestring budget is teaching them the ABCs.",
@@ -216,58 +264,98 @@
     },
     {
       "source": "NPR News",
-      "title": "Multiple arrests on suspicion of explosives offenses near U.K. base used by U.S. forces",
+      "title": "5 arrested near a U.K. air base used by U.S. on suspicion of preparing a terrorist act",
       "link": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces",
       "publishedAt": "Sun, 27 Sep 2026 06:49:36 -0400",
       "snippet": "Police evacuated homes Sunday near an air base in England used by the U.S. and arrested several men over suspected explosives offenses.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "These Democrats are running for Congress on Christian faith. Will it pay off?",
-      "link": "https://www.npr.org/2026/09/27/nx-s1-5979946/these-democrats-are-running-for-congress-on-christian-faith-will-it-pay-off",
-      "publishedAt": "Sun, 27 Sep 2026 06:00:00 -0400",
-      "snippet": "It&apos;s rare for Democrats to make religion a centerpiece of their campaigns. But this midterm election cycle, a number of candidates for Congress are doing just that.",
+      "source": "PBS Headlines",
+      "title": "Civil rights enforcement cuts mean fewer staff, closed offices, longer waits for students with disabilities",
+      "link": "https://www.pbs.org/newshour/education/civil-rights-enforcement-cuts-mean-fewer-staff-closed-offices-longer-waits-for-students-with-disabilities",
+      "publishedAt": "Sun, 27 Sep 2026 17:47:33 -0400",
+      "snippet": "Filing a civil rights complaint with the Office of Civil Rights can be parents' last stop. Following cuts and restructuring, this federal office is no longer serving that same resource.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
-      "link": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
-      "publishedAt": "Sat, 26 Sep 2026 17:13:54 -0400",
-      "snippet": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn&apos;t deliver.",
+      "source": "PBS Headlines",
+      "title": "2 giant pandas arrive in Atlanta under a U.S.-China government agreement",
+      "link": "https://www.pbs.org/newshour/nation/2-giant-pandas-arrive-in-atlanta-under-a-u-s-china-government-agreement",
+      "publishedAt": "Sun, 27 Sep 2026 16:52:51 -0400",
+      "snippet": "A new agreement between Zoo Atlanta and the China Wildlife Conservation Association makes Atlanta one of three zoos in the U.S. to house giant pandas, along with the San Diego Zoo and the Smithsonian's National Zoo in Washington, D.C.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not &apos;acceptable&apos;",
-      "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
-      "publishedAt": "Sat, 26 Sep 2026 16:08:28 -0400",
-      "snippet": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
+      "source": "PBS Headlines",
+      "title": "British PM Andy Burnham brings good vibes to his party's annual conference, but tough choices are coming",
+      "link": "https://www.pbs.org/newshour/world/british-pm-andy-burnham-brings-good-vibes-to-his-partys-annual-conference-but-tough-choices-are-coming",
+      "publishedAt": "Sun, 27 Sep 2026 16:40:45 -0400",
+      "snippet": "The governing Labour Party opened its annual conference beside the River Mersey in Liverpool on Sunday, with Burnham pledging to turn the page on a decade of economic and political turmoil.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
-      "link": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
-      "publishedAt": "Sat, 26 Sep 2026 13:10:04 -0400",
-      "snippet": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.",
+      "source": "PBS Headlines",
+      "title": "Hurricane Nolo still threatens Hawaii as Mexico's Baja braces for major Hurricane Polo",
+      "link": "https://www.pbs.org/newshour/nation/hurricane-nolo-gains-speed-as-it-moves-away-from-hawaii-but-high-winds-flash-floods-are-still-risk",
+      "publishedAt": "Sun, 27 Sep 2026 14:07:43 -0400",
+      "snippet": "Nolo was expected to continue strengthening and turn toward the northwest by Sunday night, though the National Hurricane Center said the center of the storm would remain well south and southwest of the Hawaiian Islands.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "OPINION: Trump&apos;s U.N. speech, a stark contrast with past presidents",
-      "link": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
-      "publishedAt": "Sat, 26 Sep 2026 08:00:00 -0400",
-      "snippet": "President Donald Trump mused openly before the United Nations about whether he should annihilate Iran. It&apos;s a stark contrast to how his predecessors have spoken about wielding US military power.",
+      "source": "PBS Headlines",
+      "title": "Supreme Court vote shadows Maine Sen. Susan Collins in her first race after abortion rights decision",
+      "link": "https://www.pbs.org/newshour/politics/supreme-court-vote-shadows-maine-sen-susan-collins-in-her-first-race-after-abortion-rights-decision",
+      "publishedAt": "Sun, 27 Sep 2026 13:38:17 -0400",
+      "snippet": "The Nov. 3 election will be the first time Collins is on the ballot since the Supreme Court's 2022 ruling that overturned Roe v. Wade, resulting in abortion being banned in much of the United States.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Windy weddings and rocky cruises: How East Coasters are braving the nor&apos;easter this weekend",
-      "link": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-east-coast-floods",
-      "publishedAt": "Sat, 26 Sep 2026 07:38:00 -0400",
-      "snippet": "Northeast states saw rising tides and widespread power outages on Saturday as the storm ripped through the region. Forecasters expect significant winds and rain throughout the weekend.",
+      "source": "PBS Headlines",
+      "title": "UN speakers' go-to quotes: Ancient texts, modern greats and a little Talking Heads",
+      "link": "https://www.pbs.org/newshour/world/un-speakers-go-to-quotes-ancient-texts-modern-greats-and-a-little-talking-heads",
+      "publishedAt": "Sun, 27 Sep 2026 13:19:56 -0400",
+      "snippet": "Speakers this week touched on homeland sayings, ancient texts, figures of moral authority and more — even a bit of Talking Heads (not TV pundits — the 1980s new wave band).",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Swiss reject tighter neutrality rules in referendum backed by right-wing populist party",
+      "link": "https://www.pbs.org/newshour/world/swiss-reject-tighter-neutrality-rules-in-referendum-backed-by-right-wing-populist-party",
+      "publishedAt": "Sun, 27 Sep 2026 12:43:47 -0400",
+      "snippet": "Final results from the Swiss government showed 70% of voters, and a majority in all 26 of the country's regions, rejected the plan.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Pope blasts assisted dying as 'false compassion' at French shrine known for miraculous cures",
+      "link": "https://www.pbs.org/newshour/world/pope-blasts-assisted-dying-as-false-compassion-at-french-shrine-known-for-miraculous-cures",
+      "publishedAt": "Sun, 27 Sep 2026 12:31:16 -0400",
+      "snippet": "On the third day of his visit to France, Leo again waded into the end-of-life debate unfolding in his native U.S. and countries around the world.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Eviction of 87-year-old sparks encampment protest in Madrid over housing crisis",
+      "link": "https://www.pbs.org/newshour/world/eviction-of-87-year-old-sparks-encampment-protest-in-madrid-over-housing-crisis",
+      "publishedAt": "Sun, 27 Sep 2026 11:40:37 -0400",
+      "snippet": "Tens of thousands marched through Madrid on Saturday to protest the eviction of María del Carmen Abascal from the apartment in the upscale Retiro neighborhood where she had lived for more than seven decades.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Powerful nor'easter floods Northeast, leaves over 130,000 without power as high tides threaten coast",
+      "link": "https://www.pbs.org/newshour/nation/powerful-noreaster-floods-northeast-leaves-over-130000-without-power-as-high-tides-threaten-coast",
+      "publishedAt": "Sun, 27 Sep 2026 11:15:14 -0400",
+      "snippet": "The slow-moving storm, which killed a New York City housing authority worker when a tree fell Saturday, was expected to linger through Sunday with heavy rain, strong winds and dangerous surf from New Jersey to New England.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "5 men arrested near UK air base used by U.S. in Iran war on suspicion of preparing a terrorist act",
+      "link": "https://www.pbs.org/newshour/world/uk-police-arrest-5-men-near-an-air-base-used-by-u-s-on-suspicion-of-preparing-a-terrorist-act",
+      "publishedAt": "Sun, 27 Sep 2026 11:02:02 -0400",
+      "snippet": "Fairford has been used by American bombers for strictly limited strikes against Iran under an agreement with former British Prime Minister Keir Starmer, who voiced opposition to the war after it was launched by the U.S. and Israel on Feb. 28.",
       "tier": 1
     },
     {
@@ -280,7 +368,7 @@
     },
     {
       "source": "PBS Headlines",
-      "title": "Hurricane Nolo expected to unleash powerful winds and flash flooding on Hawaii",
+      "title": "Hurricane Nolo skirts Hawaii but could still unleash powerful winds and flash flooding",
       "link": "https://www.pbs.org/newshour/nation/hurricane-nolo-expected-to-unleash-powerful-winds-and-flash-flooding-on-hawaii",
       "publishedAt": "Sat, 26 Sep 2026 17:36:55 -0400",
       "snippet": "While direct landfall by the storm's center was not expected, forecasters said it could cause life-threatening flooding and mudslides, with parts of the Big Island expected to see rainfall totals up to 20 inches.",
@@ -296,7 +384,7 @@
     },
     {
       "source": "PBS Headlines",
-      "title": "German and Russian foreign ministers have rare meeting at United Nations General Assembly",
+      "title": "Russia's top diplomat rejects German calls to ease off its 'dangerous' escalation toward the country",
       "link": "https://www.pbs.org/newshour/world/german-and-russian-foreign-ministers-have-rare-meeting-at-united-nations-general-assembly",
       "publishedAt": "Sat, 26 Sep 2026 15:08:31 -0400",
       "snippet": "Lavrov was dismissive after the German and Russian foreign ministers met Saturday on the sidelines of the meeting, holding what's believed to be the first such tête-à-tête since Russia's full-scale invasion of Ukraine in 2022.",
@@ -343,99 +431,51 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Trump rejects Iran's proposal to reopen the Strait of Hormuz, and other Middle East news",
-      "link": "https://www.pbs.org/newshour/world/trump-rejects-irans-proposal-to-reopen-the-strait-of-hormuz-and-other-middle-east-news",
-      "publishedAt": "Sat, 26 Sep 2026 11:53:23 -0400",
-      "snippet": "Iran offered this week to reopen the strait and resume talks on its nuclear program in seven days if the U.S. lifts its naval blockade of Iranian ports, waives sanctions on Iranian oil sales and observes a ceasefire that would include Lebanon.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Powerful nor'easter causes coastal flooding and knocks out power to parts of the northeast U.S.",
-      "link": "https://www.pbs.org/newshour/nation/roads-flood-in-new-jersey-inundate-some-homes-as-major-signs-of-noreaster-take-shape",
-      "publishedAt": "Sat, 26 Sep 2026 11:20:15 -0400",
-      "snippet": "Tens of millions of people were in the path of the nor'easter, which was forecast to affect the Mid-Atlantic area and New England throughout the weekend.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Hacks by autonomous AI agents raise thorny questions of legal accountability",
-      "link": "https://www.pbs.org/newshour/science/hacks-by-autonomous-ai-agents-raise-thorny-questions-of-legal-accountability",
-      "publishedAt": "Fri, 25 Sep 2026 19:02:57 -0400",
-      "snippet": "What happens when the hackers aren't human? That's the question at the center of a public policy debate following disclosures by leading tech companies that their AI models went rogue and hacked into other organizations.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "What the Supreme Court's voter-citizenship database decision means for the midterms",
-      "link": "https://www.pbs.org/newshour/show/what-the-supreme-courts-voter-citizenship-database-decision-means-for-the-midterms",
-      "publishedAt": "Fri, 25 Sep 2026 18:55:46 -0400",
-      "snippet": "The Supreme Court revived a controversial voter-citizenship database less than two months ahead of the midterm elections. In the ruling, the court sided with the Trump administration, which is seeking to use the Department of Homeland Security's SAVE database to review state vote",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "News Wrap: Xi wraps up 3-day state visit with Trump",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-xi-wraps-up-3-day-state-visit-with-trump",
-      "publishedAt": "Fri, 25 Sep 2026 18:45:24 -0400",
-      "snippet": "In our news wrap Friday, Chinese President Xi wrapped up a three-day state visit with President Trump that was heavy on pageantry and light on policy announcements, tens of millions of people along the East Coast could see flooding, rough surf and high winds due to a powerful nor",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Mexico's foreign secretary on Trump, cartel violence and U.S. trade talks",
-      "link": "https://www.pbs.org/newshour/show/mexicos-foreign-secretary-on-trump-cartel-violence-and-u-s-trade-talks",
-      "publishedAt": "Fri, 25 Sep 2026 18:40:01 -0400",
-      "snippet": "President Trump struck the United States-Mexico-Canada Agreement in his first term, but threw out that trade agreement after retaking office last year. He imposed steep tariffs on both neighbors and even started a trade war with Canada. To discuss trade talks between the countrie",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Health care costs a major concern for voters ahead of midterms",
-      "link": "https://www.pbs.org/newshour/show/health-care-costs-a-major-concern-for-voters-ahead-of-midterms",
-      "publishedAt": "Fri, 25 Sep 2026 18:35:56 -0400",
-      "snippet": "Health care is at the center of a political debate as millions of Americans struggle with rising costs. Enrollment in the marketplaces created by the ACA dropped this year, mainly due to the expiration of federal credits. Vice President Vance also announced plans to cancel covera",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Supreme Court rejects Trump-backed Missouri congressional map for third time",
-      "link": "https://www.pbs.org/newshour/politics/supreme-court-rejects-trump-backed-missouri-congressional-map-for-third-time",
-      "publishedAt": "Fri, 25 Sep 2026 18:34:43 -0400",
-      "snippet": "The justices halted a federal appeals court ruling that would have revived the Republican-friendly map for the November elections, which will determine control of Congress. There were no noted dissents.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Wrongfully detained Iranian American journalist remains jailed in Iran after 2 years",
-      "link": "https://www.pbs.org/newshour/show/wrongfully-detained-iranian-american-journalist-remains-jailed-in-iran-after-2-years",
-      "publishedAt": "Fri, 25 Sep 2026 18:30:50 -0400",
-      "snippet": "This week marks two years that Iranian American journalist Reza Valizadeh has been detained in Iran. For a decade, he worked for Radio Farda — an independent, but U.S.-funded Farsi-language news service. During a trip to Iran to visit family, Valizadeh was arrested and sentenced ",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Violence has displaced more than half a million Mexican households in past 5 years",
-      "link": "https://www.pbs.org/newshour/world/violence-has-displaced-more-than-half-a-million-mexican-households-in-past-5-years",
-      "publishedAt": "Fri, 25 Sep 2026 18:27:25 -0400",
-      "snippet": "Until now, Mexico's government did not share comprehensive data on people who have been forced to flee their homes due to ongoing violence in many parts of Mexico, leaving civil society groups piecing together information to get a wider view of the problem.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "GOP's big bet on Texas Latino voters could backfire in midterms",
-      "link": "https://www.pbs.org/newshour/show/gops-big-bet-on-texas-latino-voters-could-backfire-in-midterms",
-      "publishedAt": "Fri, 25 Sep 2026 18:25:40 -0400",
-      "snippet": "Texas Republicans redrew the state's congressional map last year, making a bet that Latino voters who broke for President Trump in 2024 could be the foundation for victory in 2026. But as Liz Landers reports, immigration crackdowns and rising everyday costs in South Texas may be ",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Serbian President Aleksandar Vucic announces resignation",
+      "link": "https://www.dw.com/en/serbian-president-aleksandar-vucic-announces-resignation/a-79450358?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Aleksandar Vucic will now be running to be prime minister in the upcoming snap parliamentary elections slated for next month.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Yemen: Houthis report deadly Saudi strikes on Taiz market",
+      "link": "https://www.dw.com/en/yemen-houthis-report-deadly-saudi-strikes-on-taiz-market/a-79450102?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Houthi-run health ministry accused the Saudi Air Force of committing an \"abominable crime,\" vowing to retaliate. The Houthis&apos; account of the attack cannot be independently verified.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Avalanche in Nepal leaves 2 dead, several missing",
+      "link": "https://www.dw.com/en/avalanche-in-nepal-leaves-2-dead-several-missing/a-79450101?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "An avalanche has struck the Himlung Himal base camp in Nepal after days of severe weather. Two guides are confirmed dead and at least 14 people remain missing in the remote region.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "UK: 5 arrested after &apos;major incident&apos; near Fairford air base",
+      "link": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Scores of homes were evacuated in the UK town of Whelford, near an air base used by the US military, with bomb disposal teams checking \"suspicious vehicles\" at the scene. Police said five men had been arrested.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Two people killed as bus crashes on way to Oktoberfest",
+      "link": "https://www.dw.com/en/two-people-killed-as-bus-crashes-on-way-to-oktoberfest/a-79450016?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The bus was traveling from Italy to Munich, carrying 33 Filipino tourists who wanted to visit the famous beer festival. One of the dozens injured remains in life-threatening condition.",
       "tier": 2
     },
     {
@@ -448,6 +488,22 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "European cities seek ways of boosting affordable housing",
+      "link": "https://www.dw.com/en/european-cities-seek-ways-of-boosting-affordable-housing/a-79438939?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In many major urban centers of Europe, the housing shortage has become an explosive social issue. DW looks into various models that have been put in place across the continent.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Switzerland: Voters reject stricter view of neutrality",
+      "link": "https://www.dw.com/en/switzerland-voters-reject-stricter-view-of-neutrality/a-79446996?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Early projections show Swiss voters rejecting a stricter application of the country&apos;s vaunted neutrality. Swiss neutrality has been enshrined in the constitution since 1848.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Germany news: Are Germans giving up their beloved meat and sausages?",
       "link": "https://www.dw.com/en/germany-news-are-germans-giving-up-their-beloved-meat-and-sausages/live-79441034?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -456,26 +512,18 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "UK reports &apos;major incident,&apos; arrests near Fairford air base",
-      "link": "https://www.dw.com/en/uk-reports-major-incident-arrests-near-fairford-air-base/a-79447992?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Multiple buildings were evacuated in the UK town of Whelford, near an air base used by the US military, with UK police saying bomb disposal teams were checking vehicles on the scene. Several men had been arrested.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Northern Ireland: Pro-UK march to go through Catholic area",
       "link": "https://www.dw.com/en/northern-ireland-pro-uk-march-to-go-through-catholic-area/a-79447441?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Northern Ireland: Pro-UK march to go through Catholic area",
+      "snippet": "It&apos;s the first time the march has been allowed to go through the area since 1997. Overnight, a court ruling allowed it to take place after a series of last-minute legal challenges that reached Belfast&apos;s High Court.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "India news: Assam Police detain CJP&apos;s Ashutosh Ranka",
-      "link": "https://www.dw.com/en/india-news-assam-police-detain-cjp-s-ashutosh-ranka/live-79440869?maca=en-rss-en-top-1022-rdf",
+      "title": "India news: Kolkata&apos;s SRFTI students allege violent attack",
+      "link": "https://www.dw.com/en/india-news-kolkata-s-srfti-students-allege-violent-attack/live-79440869?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Ranka has criticized Assam Chief Minister Himanta Biswa Sarma over schools, land rights and electoral boundaries. DW has more.",
+      "snippet": "Students at Kolkata&apos;s Satyajit Ray Film and Television Institute say they were attacked with knives after confronting an outside group over a meeting they allege was affiliated with the right-wing Hindu RSS.",
       "tier": 2
     },
     {
@@ -540,54 +588,6 @@
       "link": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Massive data centers needed to run AI are triggering protests across Europe. Their operators counter that they boost digital sovereignty and energy independence.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "China, US agree to set up channel for AI safety incidents",
-      "link": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Following the summit between US President Donald Trump and Chinese President Xi Jinping, the two superpowers pledged to set up a \"communication channel\" for AI incidents and boost coordination on military matters.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump rejects Iran proposal to reopen Strait of Hormuz",
-      "link": "https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump says he has rejected an Iranian proposal to reopen the Strait of Hormuz and put an end to hostilities. \"I&apos;d like to make a deal, too,\" he said. \"But that deal would not be acceptable.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Paris: Pope Leo XIV celebrates Mass before huge crowd",
-      "link": "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The pope addressed around 700,000 people during a Mass at the Place de la Concorde, near the Champs-Elysees. Leo XIV is on a four-day visit to France.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Russia expected to intensify hybrid war on Europe",
-      "link": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More governments are calling these attacks deliberate acts of aggression.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s FM Wadephul meets Lavrov on UNGA sidelines",
-      "link": "https://www.dw.com/en/germany-s-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "It&apos;s the first such meeting since Russia launched the invasion of Ukraine in February 2022. DW has the latest on day 5 of the UN General Assembly debate.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pakistan: Suicide attack at police stop kills at least 11",
-      "link": "https://www.dw.com/en/pakistan-suicide-attack-at-police-stop-kills-at-least-11/a-79443050?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The blast was claimed by the Pakistani Taliban, which has stepped up attacks on Pakistani security forces in recent years.",
       "tier": 2
     }
   ]
