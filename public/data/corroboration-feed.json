@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:11:43.373Z",
+  "generatedAt": "2026-09-30T12:49:27.816Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,18 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 16:23:58 GMT",
-      "snippet": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 12:42:34 GMT",
+      "snippet": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 11:36:23 GMT",
+      "snippet": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
       "tier": 1
     },
     {
@@ -48,34 +56,82 @@
     },
     {
       "source": "BBC World",
-      "title": "South Africa to clean up high-risk areas after 12 women killed",
-      "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 22:33:39 GMT",
-      "snippet": "The deaths sparked a national outcry about the scale of violence against women in the country.",
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 05:02:50 GMT",
+      "snippet": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 08:59:38 GMT",
+      "snippet": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
       "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 29 Sep 2026 22:33:13 GMT",
-      "snippet": "The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.",
+      "snippet": "Hundreds of riders were allegedly injured on X2, which has seats that spin 360 degrees.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
-      "link": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 12:43:04 GMT",
-      "snippet": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
+      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 05:24:52 GMT",
+      "snippet": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-      "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 12:39:18 GMT",
-      "snippet": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
+      "title": "Botswana condemned for slaughtering elephants for independence celebrations",
+      "link": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 12:06:28 GMT",
+      "snippet": "The government authorises the hunting of 23 elephants and dozens of other wild animals for independence day feasts.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
+      "link": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 29 Sep 2026 23:39:58 GMT",
+      "snippet": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 11:25:12 GMT",
+      "snippet": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
+      "link": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 08:45:45 GMT",
+      "snippet": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Singapore launches matchmaking service for government workers",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 09:42:36 GMT",
+      "snippet": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'Backpack' declared Alaska's Fat Bear Week winner",
+      "link": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 05:01:04 GMT",
+      "snippet": "\"Backpack\" defeated a bear known only as \"910\" in the final round of the annual competition.",
       "tier": 1
     },
     {
@@ -88,186 +144,130 @@
     },
     {
       "source": "BBC World",
-      "title": "First female prime minister named in Morocco after winning elections",
-      "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 17:14:10 GMT",
-      "snippet": "Her appointment by the king makes her only the second woman to lead a government in the Arab world.",
+      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 04:21:11 GMT",
+      "snippet": "The owner said he chose the name because he wanted to run the \"best Chinese restaurant\" in South Korea.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Dutch police arrest suspected member of group that claimed FBI hack",
-      "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 15:40:10 GMT",
-      "snippet": "The suspect, 24, was arrested before the alleged cyber attack took place.",
+      "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 06:41:35 GMT",
+      "snippet": "Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 19:36:41 GMT",
-      "snippet": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
+      "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
+      "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 08:40:01 GMT",
+      "snippet": "The murders of 12 women near Johannesburg has caused a outcry about the scale of violence against women.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Eiffel Tower chief to quit after female staff replaced by men during religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/crn8e069v7p7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 16:56:50 GMT",
-      "snippet": "The company that runs the Eiffel Tower said the removal of female staff during the visit earlier this month was \"unacceptable\".",
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 30 Sep 2026 04:01:52 GMT",
+      "snippet": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
-      "link": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 17:31:30 GMT",
-      "snippet": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt.",
+      "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
+      "link": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 29 Sep 2026 12:43:04 GMT",
+      "snippet": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Nigerian dances non-stop for seven days in world record bid",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 14:50:09 GMT",
-      "snippet": "Crowds cheered on Ben Dancer as completed his challenge and he has now gone to hospital for a check-up",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-      "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 21:09:00 GMT",
-      "snippet": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Man charged over AI image of crocodile in Singapore reservoir",
-      "link": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 13:08:55 GMT",
-      "snippet": "The defendant could face jail or a fine after the image sparked a search operation in the city’s largest reservoir.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Former American Idol contestant and pastor found guilty of murdering wife",
-      "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 22:13:36 GMT",
-      "snippet": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-      "link": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 12:20:02 GMT",
-      "snippet": "National Rally President Jordan Bardella says he will sue for libel over comments he is accused of making as a young activist.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump rules out joint US-China venture to develop AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 21:45:01 GMT",
-      "snippet": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 03:50:40 GMT",
-      "snippet": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 29 Sep 2026 10:34:53 GMT",
-      "snippet": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.",
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 29 Sep 2026 23:33:34 GMT",
+      "snippet": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
-      "link": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
-      "publishedAt": "Tue, 29 Sep 2026 15:19:37 -0400",
-      "snippet": "The Supreme Court allowed the Trump administration to resume deportations of migrants to countries that are not identified in their removal orders. It also plans to hear full arguments on the case.",
+      "title": "FBI hunting the hackers who stole its employees&apos; sensitive data",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
+      "publishedAt": "Wed, 30 Sep 2026 08:29:05 -0400",
+      "snippet": "The FBI says it&apos;s addressing a massive data breach, vowing to go after the hackers they believe are responsible.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Lindsay Clancy&apos;s lawyer now questions whether she killed her 3 children",
-      "link": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
-      "publishedAt": "Tue, 29 Sep 2026 14:00:50 -0400",
-      "snippet": "Lindsay Clancy&apos;s lawyer is arguing that there wasn&apos;t enough evidence to prove she killed her three children. It&apos;s a striking turn after a lengthy trial that focused more on her mental state than on whether she took their lives.",
+      "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+      "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+      "publishedAt": "Wed, 30 Sep 2026 07:13:17 -0400",
+      "snippet": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Potential Taiwan tension sparked &apos;last minute&apos; change in Trump-Xi National Archives visit",
-      "link": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
-      "publishedAt": "Tue, 29 Sep 2026 13:17:04 -0400",
-      "snippet": "The sudden change was precipitated because of Chinese displeasure over one document that the U.S. had planned to show.",
+      "title": "Travel plans? Here&apos;s what to know as measles exposures reach trains and games",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation",
+      "publishedAt": "Wed, 30 Sep 2026 07:00:00 -0400",
+      "snippet": "Measles is traveling, with outbreaks in Pennsylvania, Ohio and New York, and exposures on transportation and in sports. What should you know before getting on a plane or train?",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "This startup wants to prove gene-editing embryos is safe for making healthy babies",
-      "link": "https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech",
-      "publishedAt": "Tue, 29 Sep 2026 13:00:08 -0400",
-      "snippet": "Origin Genomics aims to prove that the potential benefits of its technology for editing disease-causing genes in human embryos outweigh the risks.",
+      "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
+      "publishedAt": "Wed, 30 Sep 2026 05:01:00 -0400",
+      "snippet": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "This year&apos;s MacArthur Fellows include researchers who fuse science and justice",
-      "link": "https://www.npr.org/2026/09/29/nx-s1-5983444/this-years-macarthur-fellows-include-researchers-who-fuse-science-and-justice",
-      "publishedAt": "Tue, 29 Sep 2026 12:03:34 -0400",
-      "snippet": "The MacArthur Foundation has just announced its latest batch of 20 fellows. Among the recipients of the $800,000 \"no-strings-attached\" fellowships are researchers who were recognized for their work at the intersection of science and justice.",
+      "title": "The moment you&apos;ve been waiting for: America&apos;s best student podcasts",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5930430/student-podcast-challenge-2026-finalists",
+      "publishedAt": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "snippet": "We&apos;ve listened to nearly 1,500 podcasts from all around the U.S. and narrowed them down to 10 middle school and 10 high school finalists.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Meet the 20 scholars and artists who&apos;ve just won MacArthur Fellowships",
-      "link": "https://www.npr.org/2026/09/29/nx-s1-5980447/macarthur-genius-grants-2026-fellows",
-      "publishedAt": "Tue, 29 Sep 2026 12:01:00 -0400",
-      "snippet": "A historian who studies wage gaps between races and a saxophonist whose live performances include a chef are among the latest recipients of the philanthropic group&apos;s annual, no-strings-attached $800,000 grants.",
+      "title": "What&apos;s behind HHS claims that gender-affirming care &apos;may&apos; radicalize",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
+      "publishedAt": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "snippet": "The report is the agency&apos;s latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangerous.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
-      "link": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects",
-      "publishedAt": "Tue, 29 Sep 2026 07:36:24 -0400",
-      "snippet": "The Trump administration has weakened fuel efficiency standards for new cars. And, prosecutors have reopened a Cornell University fraternity rape case.",
+      "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
+      "publishedAt": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "snippet": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a Michigan woman illuminates the wrenching decisions families and guardians face.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "How to hide your spending habits from retailers (so you don&apos;t get ripped off)",
-      "link": "https://www.npr.org/2026/09/29/nx-s1-5983457/4-ways-to-avoid-getting-ripped-off-according-to-a-pricing-expert",
-      "publishedAt": "Tue, 29 Sep 2026 05:01:00 -0400",
-      "snippet": "Companies have changed the way they price their products — and shoppers are getting deliberately overcharged. Here are steps you can take to ensure you are getting the best deal.",
+      "title": "The 2026 Student Podcast Challenge Honorable Mentions",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5984991/student-podcast-challenge-2026-honorable-mentions",
+      "publishedAt": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "snippet": "Here are the honorable mentions from this year&apos;s Student Podcast Challenge, chosen from nearly 1,500 entries.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
-      "link": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
-      "publishedAt": "Tue, 29 Sep 2026 05:00:00 -0400",
-      "snippet": "Turkey&apos;s bid for regional influence comes as the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel and continue with the seven-month-old war on Iran.",
+      "title": "Montana starts enforcing Medicaid work requirements on Oct 1. Patients are confused",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5946766/montana-early-medicaid-work-requirements-patients-confused",
+      "publishedAt": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "snippet": "In most states, people with Medicaid coverage will have to prove they&apos;re working, volunteering or studying, starting Jan. 1. But Montana is starting that early, and it&apos;s sowing confusion and anxiety.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/09/29/nx-s1-5979951/morning-news-brief",
-      "publishedAt": "Tue, 29 Sep 2026 04:47:43 -0400",
-      "snippet": "Five men arrested on terror charges near U.K. air base released on bail, Trump administration rolls back fuel efficiency standards for new vehicles, prosecutors reopen Cornell fraternity rape case.",
+      "title": "One year after the end of the EV tax credit, is the future still electric?",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5979915/ev-hybrid-sales-2026-federal-tax-credit",
+      "publishedAt": "Wed, 30 Sep 2026 05:00:00 -0400",
+      "snippet": "Congress got rid of a $7,500 federal tax credit for new electric vehicle buyers. One year later, are people still buying EVs?",
       "tier": 1
     },
     {
@@ -440,6 +440,110 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Flydubai pilot investigated over possible attempt to crash Tel Aviv-bound flight",
+      "link": "https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Israeli media say authorities are investigating whether a Flydubai pilot tried to crash an Israel-bound plane before it diverted to Saudi Arabia.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Is US President Donald Trump right to rename AI as &apos;Super Intelligence&apos;?",
+      "link": "https://www.dw.com/en/is-us-president-donald-trump-right-to-rename-ai-as-super-intelligence/a-79430388?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Donald Trump thinks the name artificial intelligence sounds \"fake\" and has ordered US agencies to use \"Super Intelligence\" instead. Yet, tech firms and researchers have little reason to play along.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Eurovision seeks to expand brand despite frictions",
+      "link": "https://www.dw.com/en/eurovision-seeks-to-expand-brand-despite-frictions/a-79401752?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The 2026 Eurovision Song Contest was marred by boycotts in protest against Israel&apos;s participation in the midst of its war on Gaza. It still aims to keep growing.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "South Korea: Lost shark draws over half a million visitors",
+      "link": "https://www.dw.com/en/south-korea-lost-shark-draws-over-half-a-million-visitors/a-79482014?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The South Korean port of Busan says that a stranded shark has become a major tourist draw. It&apos;s also named the ocean predator an honorary ambassador to the city.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Eiffel Tower chief Patrick Branco Ruivo to step down after female staff excluded during Hindu group&apos;s visit",
+      "link": "https://www.dw.com/en/eiffel-tower-chief-patrick-branco-ruivo-to-step-down-after-female-staff-excluded-during-hindu-group-s-visit/a-79482406?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "An investigation found management failures led to female Eiffel Tower staff being excluded during a Hindu group&apos;s visit.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Key opposition leaders meet to discuss poll body row",
+      "link": "https://www.dw.com/en/india-news-key-opposition-leaders-meet-to-discuss-poll-body-row/live-79481549?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "India&apos;s opposition leaders meet in New Delhi to push back against voter roll revisions and discuss poll body chief Gyanesh Kumar. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Cabinet approves care reform bill",
+      "link": "https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The German Cabinet has approved a draft bill on reforming the care system after long debate. Police have launched raids across Germany targeting Hells Angels gangs and a money-laundering network. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "El Nino is a &apos;postcard from the future&apos; — and could cause 451,000 excess heat deaths",
+      "link": "https://www.dw.com/en/el-nino-is-a-postcard-from-the-future-and-could-cause-451-000-excess-heat-deaths/a-79430945?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The current El Nino could cause 451,000 excess heat deaths. Researchers warn it offers a glimpse of temperatures that may become normal within 20 years.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US troops exit Iraq after more than a decade",
+      "link": "https://www.dw.com/en/us-troops-exit-iraq-after-more-than-a-decade/a-79481523?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The current deployment began in 2014 in an effort to combat &apos;Islamic State&apos; extremists. Iran, which has sought a complete removal of the US military from the Middle East, celebrated the withdrawal.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "&apos;Alternative Nobel&apos; honors women&apos;s rights activists, AI researcher",
+      "link": "https://www.dw.com/en/alternative-nobel-honors-women-s-rights-activists-ai-researcher/a-79481171?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Right Livelihood Award has gone to a female AI researcher and women fighting repression. The Sweden-based prize has been dubbed an \"alternative Nobel.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Hungary&apos;s reckoning with Orban&apos;s corrupt system picks up speed with high-profile arrests",
+      "link": "https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed-with-high-profile-arrests/a-79473714?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Hungary&apos;s Prime Minister Peter Magyar vowed to dismantle Orban&apos;s corrupt networks. High-profile figures are being arrested and many Hungarians are pushing for swift accountability, but the rule of law takes time.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "North Korea denies South&apos;s claim, calls DMZ blast a &apos;farce&apos;",
+      "link": "https://www.dw.com/en/north-korea-denies-south-s-claim-calls-dmz-blast-a-farce/a-79481164?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "North Korean leader Kim Jong Un&apos;s sister Kim Yo Jong has accused Seoul of conspiracy after it blamed Pyongyang for the blast in the DMZ.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump says AI companies agree to &apos;self-police&apos;",
+      "link": "https://www.dw.com/en/trump-says-ai-companies-agree-to-self-police/a-79480781?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Donald Trump said the US won&apos;t \"stifle\" the development of AI, which he sees as \"bigger than the Industrial Revolution.\" The agreement comes amid mounting concerns over AI safety after recent hacking incidents.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Morocco: King appoints first woman prime minister",
       "link": "https://www.dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -484,110 +588,6 @@
       "link": "https://www.dw.com/en/satirist-launches-site-naming-cornell-students-accused-in-gang-rape-lawsuit/a-79475382?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Writer Toby Morton is using a new website to amplify allegations in a high-profile sexual assault lawsuit involving seven Cornell students. The reopening of the case is causing an outcry on social media.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Senegal&apos;s Youth Olympics makes Olympics in Africa &apos;logical&apos;",
-      "link": "https://www.dw.com/en/senegal-s-youth-olympics-makes-olympics-in-africa-logical/a-79468975?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Youth Olympics are to be hosted in Africa for the first time ever. The edition in Senegal is also a chance to prove the continent can host a full Olympics in the future.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK PM Burnham seeks &apos;hope again&apos; at Labour Party conference",
-      "link": "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Andy Burnham is seeking a delicate balance between optimism and realism at Labour&apos;s annual party conference. He promised hope and an end to \"politics as usual\" but also an \"honest conversation\" about difficult dilemmas.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "North Korea has recently completed two road bridges easing transport to strategic allies Russia and China",
-      "link": "https://www.dw.com/en/north-korea-has-recently-completed-two-road-bridges-easing-transport-to-strategic-allies-russia-and-china/a-79473981?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Two recently opened bridges are expected to ease trade and transport between North Korea and its powerful neighbors. The new connections come as Pyongyang builds strategic ties with China and Russia.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Women and children displaced by Nepal&apos;s floods say safe housing, privacy and stability remain out of reach",
-      "link": "https://www.dw.com/en/women-and-children-displaced-by-nepal-s-floods-say-safe-housing-privacy-and-stability-remain-out-of-reach/a-79474014?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Families living in temporary shelters in northern Nepal say safety and privacy remain out of reach as concerns about trafficking and abuse mount.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Spain agrees on measures to fix housing crisis, ban eviction",
-      "link": "https://www.dw.com/en/spain-agrees-on-measures-to-fix-housing-crisis-ban-eviction/a-79467953?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Spain&apos;s cabinet ministers said they have consensus on new measures to curb the housing crisis in the country after the eviction of 87-year-old Maricarmen last week from her apartment sparked protests.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Albania: As corruption cases multiply, experts question whether the anti-corruption drive is addressing the causes or just the symptoms.",
-      "link": "https://www.dw.com/en/albania-as-corruption-cases-multiply-experts-question-whether-the-anti-corruption-drive-is-addressing-the-causes-or-just-the-symptoms/a-79473031?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "From a former president to the ex-intelligence chief, Albania is prosecuting senior officials at a rate once thought impossible. But do more prosecutions mean less corruption or simply better enforcement?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Israel bans Arab parties from election: What you need to know",
-      "link": "https://www.dw.com/en/israel-bans-arab-parties-from-election-what-you-need-to-know/a-79461211?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Israel&apos;s push to ban Arab parties from standing in the upcoming election has been called \"another nail in the coffin of democracy.\" Is there a legal basis for doing this, and what could it mean for Arab voters?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US ban on Canadian alcohol, dairy products and motorcycles takes effect as trade dispute escalates",
-      "link": "https://www.dw.com/en/us-ban-on-canadian-alcohol-dairy-products-and-motorcycles-takes-effect-as-trade-dispute-escalates/a-79471701?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Donald Trump&apos;s ban on nearly $1 billion worth of Canadian goods has come into force, further escalating a trade dispute between the longtime allies.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years",
-      "link": "https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years/a-79462926?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As the US completes its military withdrawal from Iraq, Baghdad declares a new era of sovereignty. But as US troops leave, questions remain over militias, foreign forces and the country&apos;s future security.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Global trade weathers Iran, Ukraine and Trump&apos;s tariffs",
-      "link": "https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Over the past six years, COVID, two wars and Donald Trump&apos;s tariffs have shaken world trade. With globalization already stalling, is this a temporary shock or the start of a great reversal?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Malaysia repatriates Myanmar migrants despite UN warnings",
-      "link": "https://www.dw.com/en/malaysia-repatriates-myanmar-migrants-despite-un-warnings/a-79470814?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Malaysia has started repatriating about 1,500 Myanmar nationals, defying warnings from the UN and rights groups. Malaysia, facing an uptick in anti-migrant sentiment, says the program is strictly voluntary.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "AI: Concern as Germany plans to double data center capacity",
-      "link": "https://www.dw.com/en/ai-concern-as-germany-plans-to-double-data-center-capacity/a-79407981?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany is rewriting the rules to attract data center investment from AI companies. But local communities are becoming increasingly skeptical.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Spain grows fruit and vegetables for Europe — but it&apos;s running out of water",
-      "link": "https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Spain&apos;s southern coast produces up to 25% of Europe&apos;s fruit and vegetables. But amid intensive farming, climate change and illegal wells, the water it takes to grow them is drying up.",
       "tier": 2
     }
   ]
