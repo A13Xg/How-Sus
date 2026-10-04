@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T01:37:44.570Z",
+  "generatedAt": "2026-10-04T14:19:47.300Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,34 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 17:48:42 GMT",
-      "snippet": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 12:09:04 GMT",
+      "snippet": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 13:33:05 GMT",
+      "snippet": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 06:19:17 GMT",
+      "snippet": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 11:03:20 GMT",
+      "snippet": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
       "tier": 1
     },
     {
@@ -48,50 +72,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 14:27:33 GMT",
-      "snippet": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 16:16:49 GMT",
-      "snippet": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 13:34:11 GMT",
+      "publishedAt": "Sun, 04 Oct 2026 03:42:15 GMT",
       "snippet": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT",
-      "snippet": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 17:48:42 GMT",
+      "snippet": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Medical plane with 6 on board missing off Massachusetts coast",
+      "title": "Debris found from plane that went missing off US coast",
       "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 21:16:21 GMT",
+      "publishedAt": "Sun, 04 Oct 2026 03:49:06 GMT",
       "snippet": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Why has Brazil accused the US of election interference?",
-      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 13:52:13 GMT",
-      "snippet": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "title": "US father and son arrested after 'gas station heroin' deaths",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 22:39:06 GMT",
+      "snippet": "They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US.",
       "tier": 1
     },
     {
@@ -100,6 +108,14 @@
       "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 03 Oct 2026 10:58:51 GMT",
       "snippet": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT",
+      "snippet": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
       "tier": 1
     },
     {
@@ -120,79 +136,79 @@
     },
     {
       "source": "BBC World",
-      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 03:09:13 GMT",
-      "snippet": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 23:30:06 GMT",
+      "snippet": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-      "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 21:00:41 GMT",
-      "snippet": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
+      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "link": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 23:37:46 GMT",
+      "snippet": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Women given shorts at Oktoberfest to prevent upskirting",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 23:16:03 GMT",
-      "snippet": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 02 Oct 2026 23:37:13 GMT",
+      "snippet": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-      "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 23:06:00 GMT",
-      "snippet": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+      "title": "Joker persona helps Cong 'feel the fear' in opponents",
+      "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckq5x5de46ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 07:07:09 GMT",
+      "snippet": "Wang Cong dismisses critics who say she is not deserving of facing Natalia Silva for the flyweight world title at UFC 332 on Saturday.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
-      "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 05:53:51 GMT",
-      "snippet": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
+      "title": "Rare tornado whips through small Australian town",
+      "link": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 04:15:36 GMT",
+      "snippet": "The twister was caught on camera in Ulladulla, New South Wales, damaging property and downing trees.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 02:23:07 GMT",
-      "snippet": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "title": "Why has Brazil accused the US of election interference?",
+      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 13:52:13 GMT",
+      "snippet": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 09:08:06 GMT",
-      "snippet": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "OpenAI fires workers for 'mishandling sensitive information'",
-      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 08:20:32 GMT",
-      "snippet": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 01 Oct 2026 19:59:24 GMT",
-      "snippet": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+      "title": "Will Spain's housing crisis lead to a snap election?",
+      "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 12:26:30 GMT",
+      "snippet": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Coast Guard searching for missing medical plane carrying 6 people",
+      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
+      "publishedAt": "Sun, 04 Oct 2026 06:00:00 -0400",
+      "snippet": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
+      "publishedAt": "Sun, 04 Oct 2026 05:00:00 -0400",
+      "snippet": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Coast Guard finds debris from medical plane carrying 6 people",
       "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
       "publishedAt": "Sat, 03 Oct 2026 18:31:04 -0400",
       "snippet": "Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing.",
@@ -224,18 +240,18 @@
     },
     {
       "source": "NPR News",
-      "title": "All&apos;s fair in love and &apos;War&apos; — a well-cast, classy-trashy divorce drama",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
-      "publishedAt": "Sat, 03 Oct 2026 07:00:00 -0400",
-      "snippet": "HBO&apos;s War is intended to be an anthology series about two dueling London law firms. The first season stars Dominic West and Sienna Miller as a high-profile couple in the midst of a very nasty divorce.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
       "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
       "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
       "publishedAt": "Sat, 03 Oct 2026 07:00:00 -0400",
       "snippet": "Beloved for its dinosaurs, Philadelphia&apos;s storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "All&apos;s fair in love and &apos;War&apos; — a well-cast, classy-trashy divorce drama",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
+      "publishedAt": "Sat, 03 Oct 2026 07:00:00 -0400",
+      "snippet": "HBO&apos;s War is intended to be an anthology series about two dueling London law firms. The first season stars Dominic West and Sienna Miller as a high-profile couple in the midst of a very nasty divorce.",
       "tier": 1
     },
     {
@@ -252,22 +268,6 @@
       "link": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
       "publishedAt": "Sat, 03 Oct 2026 05:00:00 -0400",
       "snippet": "When the 2025 conclave began, no one expected an American pope. But by its end, Cardinal Robert Prevost had become Pope Leo. Here&apos;s a look behind the scenes.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "4 ways to battle performance anxiety, according to a confidence coach",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
-      "publishedAt": "Sat, 03 Oct 2026 05:00:00 -0400",
-      "snippet": "Worried about stumbling before a high-stakes event, like a race or a job interview? Psychologist Cindra Kamphoff offers creative strategies to overcome the jitters and build confidence in the moment.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "How the system failed us: Former foster youth tell their stories",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5939829/foster-care-youth-disabilities-failure-voices",
-      "publishedAt": "Sat, 03 Oct 2026 05:00:00 -0400",
-      "snippet": "Former foster youth with disabilities tell their stories — of how they got through foster care",
       "tier": 1
     },
     {
@@ -440,10 +440,90 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Torrential rain and flooding leave 2 dead and 1 missing in Spain&apos;s Catalonia region",
+      "link": "https://www.dw.com/en/torrential-rain-and-flooding-leave-2-dead-and-1-missing-in-spain-s-catalonia-region/a-79536990?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Authorities warned of extreme danger around Barcelona and Girona, with rivers at risk of overflowing and residents urged to stay indoors.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Voting in Brazil&apos;s 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+      "link": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Japan: US Marine arrested in Okinawa on suspicion of murder",
+      "link": "https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Japanese government has lodged an official protest with Washington after a US Marine was arrested on suspicion of murdering a woman in Okinawa — where incidents involving US service personnel are not uncommon.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
+      "link": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Polls have opened in Bosnia and Herzegovina, where voters are taking part in parliamentary, presidential and local elections.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Police order probe amid sexual harassment allegations against officers at Delhi protest",
+      "link": "https://www.dw.com/en/india-news-police-order-probe-amid-sexual-harassment-allegations-against-officers-at-delhi-protest/live-79527537?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Three women journalists say police officers sexually harassed them as they covered protests demanding the resignation of India&apos;s election chief. Meanwhile, LGBTQIA influencer Mad Sandhu was shot dead in Amritsar.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Latvia election: Pro-Ukraine PM Kulbergs set to retain power after historic victory for his United List party",
+      "link": "https://www.dw.com/en/latvia-election-pro-ukraine-pm-kulbergs-set-to-retain-power-after-historic-victory-for-his-united-list-party/a-79527253?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Latvia&apos;s prime minister, Andris Kulbergs, looks set to retain power after his party appeared to score the country&apos;s biggest election victory since independence.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Many believe Merkel more capable than Merz",
+      "link": "https://www.dw.com/en/germany-news-many-believe-merkel-more-capable-than-merz/live-79528092?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Nearly half of Germans view former Chancellor Angela Merkel as better suited to handle Germany&apos;s challenges than current Chancellor Friedrich Merz. Also, today is the last day of Oktoberfest in Munich. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany&apos;s Merz visits Kyiv as Russia strikes bridge",
+      "link": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As air raid sirens sounded in Kyiv, Chancellor Merz called on President Putin to end his \"senseless war\" and announced new measures to support Ukraine, including plans for joint Ukrainian-German drone production.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
+      "link": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could spill over into the wider region.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Peru: Fire burning on road to Machu Picchu kills 1",
+      "link": "https://www.dw.com/en/peru-fire-burning-on-road-to-machu-picchu-kills-1/a-79534344?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "One person has died and two others have suffered burns in a fire near the main access route to the historic sanctuary of Machu Picchu.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "AI giants &apos;not being nearly careful enough,&apos; warns outgoing OpenAI safety engineer",
       "link": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Days after President Donald Trump signed a voluntary pact with artificial intelligence giants, a former OpenAI worker said his industry needs the same safeguards as nuclear power or aviation.",
+      "snippet": "Days after US President Donald Trump signed a voluntary pact with artificial intelligence giants, a former OpenAI worker said his industry needs the same safeguards as nuclear power or aviation.",
       "tier": 2
     },
     {
@@ -460,14 +540,6 @@
       "link": "https://www.dw.com/en/tennessee-s-prison-chief-resigns-after-botched-execution-of-murderer-christa-pike/a-79532481?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Prison commissioner Frank Strada insisted his team followed protocol, even after two doses of anesthetic failed to kill convicted murderer Christa Pike. He is set to leave his post this month.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Latvia: Ruling party leads in exit polls amid populist gains",
-      "link": "https://www.dw.com/en/latvia-ruling-party-leads-in-exit-polls-amid-populist-gains/a-79527253?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "According to an exit poll by public broadcaster LSM, Latvian Prime Minister Andris Kulbergs&apos; centerist party, United List, was projected to win 35.6% of the vote.",
       "tier": 2
     },
     {
@@ -512,82 +584,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "On German Unity Day, Steinmeier laments &apos;bitter setbacks&apos;",
-      "link": "https://www.dw.com/en/on-german-unity-day-steinmeier-laments-bitter-setbacks/live-79528092?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany&apos;s president has used his final Unity Day speech to warn the hopes of the reunification era have suffered \"bitter setbacks.\" DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Cockroach Janta Party announces Delhi march for October 10, calls for election chief&apos;s resignation",
-      "link": "https://www.dw.com/en/india-news-cockroach-janta-party-announces-delhi-march-for-october-10-calls-for-election-chief-s-resignation/live-79527537?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Cockroach Janta Party has called for a protest in Delhi if Chief Election Commissioner Gyanesh Kumar does not resign. After the Indian men&apos;s cricket team struck gold, all eyes are on their hockey counterparts.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Flydubai co-pilot attempted &apos;terrorist attack,&apos; UAE says",
       "link": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The man, who stabbed his fellow pilot on an Israel-bound Flydubai flight, was reportedly barred from flying in his native Oman over security concerns.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Morocco&apos;s first female head of government: Symbol or real reform?",
-      "link": "https://www.dw.com/en/morocco-s-first-female-head-of-government-symbol-or-real-reform/a-79521808?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Fatima Zahra Mansouri has been chosen as Morocco&apos;s first female prime minister. Is her appointment a kind of symbolism, to show Morocco in a positive light? Or could Mansouri bring genuine changes for Moroccan women?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bosnia and Herzegovina is still shaped by war, separatism, EU ambitions",
-      "link": "https://www.dw.com/en/bosnia-and-herzegovina-is-still-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Bosnia and Herzegovina is governed by a system established after the Bosnian war — more than 30 years ago. Ethnic divisions, a complex administration and European integration all shape the country&apos;s political reality.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "German reunification: How inequality is shaping a new East German identity",
-      "link": "https://www.dw.com/en/german-reunification-how-inequality-is-shaping-a-new-east-german-identity/a-79518541?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A new study highlights persistent structural disparities in wealth and leadership positions between East and West Germany, 36 years after reunification.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Australia: Car crashes into rugby fans, 10 injured",
-      "link": "https://www.dw.com/en/australia-car-crashes-into-rugby-fans-10-injured/a-79526643?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The driver has been identified as an 18-year-old man who is said to have been \"revving\" when he lost control of his car.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US, Australia suspend consular services in Brazil",
-      "link": "https://www.dw.com/en/us-australia-suspend-consular-services-in-brazil/a-79526311?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US and Australia have announced a halt to their consular services in Brazil beginning Friday. The news comes two days before Brazilians head to the polls to vote in the high-stakes presidential election.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Christa Pike unconscious after failed execution — attorneys",
-      "link": "https://www.dw.com/en/christa-pike-unconscious-after-failed-execution-attorneys/a-79526118?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Lawyers for Christa Pike said she&apos;s unconscious and on a ventilator after a botched execution attempt. Pike is believed to be the first person to have survived the administration of lethal drugs in the modern era.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "North Korea fires ballistic missile into sea, Seoul says",
-      "link": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "North Korea fired a ballistic missile toward the sea off its east coast, the South Korean military has said.",
       "tier": 2
     }
   ]
