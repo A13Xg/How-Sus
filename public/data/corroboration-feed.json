@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T14:19:47.300Z",
+  "generatedAt": "2026-10-05T01:14:32.168Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -40,10 +40,58 @@
     },
     {
       "source": "BBC World",
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 14:25:32 GMT",
+      "snippet": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 16:51:30 GMT",
+      "snippet": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 05 Oct 2026 00:27:06 GMT",
+      "snippet": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
       "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 04 Oct 2026 13:33:05 GMT",
       "snippet": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 16:24:48 GMT",
+      "snippet": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Indian police accused of sexually harassing journalists at protest",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 17:01:19 GMT",
+      "snippet": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 14:36:57 GMT",
+      "snippet": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
       "tier": 1
     },
     {
@@ -56,18 +104,10 @@
     },
     {
       "source": "BBC World",
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
       "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 11:03:20 GMT",
+      "publishedAt": "Sun, 04 Oct 2026 20:14:49 GMT",
       "snippet": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 00:11:25 GMT",
-      "snippet": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
       "tier": 1
     },
     {
@@ -80,18 +120,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 17:48:42 GMT",
-      "snippet": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "title": "Rescuers suspend search for survivors after plane went missing off US coast",
+      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 23:29:18 GMT",
+      "snippet": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Debris found from plane that went missing off US coast",
-      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 03:49:06 GMT",
-      "snippet": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 00:11:25 GMT",
+      "snippet": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
       "tier": 1
     },
     {
@@ -104,39 +144,7 @@
     },
     {
       "source": "BBC World",
-      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-      "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 10:58:51 GMT",
-      "snippet": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT",
-      "snippet": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Riot police clash with students as education protests rage in France",
-      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 21:13:27 GMT",
-      "snippet": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Kim wins Asian Games gold to secure military exemption",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 08:51:14 GMT",
-      "snippet": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "title": "Why Canada is wargaming a (long shot) US invasion",
       "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 03 Oct 2026 23:30:06 GMT",
       "snippet": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
@@ -156,14 +164,6 @@
       "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 02 Oct 2026 23:37:13 GMT",
       "snippet": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Joker persona helps Cong 'feel the fear' in opponents",
-      "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckq5x5de46ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 07:07:09 GMT",
-      "snippet": "Wang Cong dismisses critics who say she is not deserving of facing Natalia Silva for the flyweight world title at UFC 332 on Saturday.",
       "tier": 1
     },
     {
@@ -188,6 +188,54 @@
       "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 03 Oct 2026 12:26:30 GMT",
       "snippet": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Brazil&apos;s presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+      "publishedAt": "Sun, 04 Oct 2026 20:17:35 -0400",
+      "snippet": "Now there are two: Brazil heads into a runoff after a first round that failed to fully energize voters, setting the stage for a more polarized contest that Washington is watching very closely.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Brazil votes, with Lula facing Bolsonaro&apos;s son",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+      "publishedAt": "Sun, 04 Oct 2026 17:52:09 -0400",
+      "snippet": "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they&apos;ll face each other again on Oct. 25.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+      "publishedAt": "Sun, 04 Oct 2026 14:36:48 -0400",
+      "snippet": "Trump said Clayton will lead the White House&apos;s new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Cornell president calls gang rape allegations &apos;deeply disturbing&apos;",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
+      "publishedAt": "Sun, 04 Oct 2026 11:41:07 -0400",
+      "snippet": "Cornell president Michael I. Kotlikoff said his university \"must do better\" in a video statement. \"This is a defining moment in Cornell&apos;s history,\" he added.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+      "publishedAt": "Sun, 04 Oct 2026 11:15:09 -0400",
+      "snippet": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "How the Cornell case is affecting women who have experienced sexual assault",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
+      "publishedAt": "Sun, 04 Oct 2026 10:51:27 -0400",
+      "snippet": "The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences — and call for a wider reckoning over sexual violence.",
       "tier": 1
     },
     {
@@ -223,51 +271,99 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Opinion: A Hawk is not the same as a Hawkeye",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
-      "publishedAt": "Sat, 03 Oct 2026 08:00:00 -0400",
-      "snippet": "This was emphasized to people watching a Senate hearing this week, where confusion over two basketball teams was on display.",
+      "source": "PBS Headlines",
+      "title": "AP report: U.S. Air Force removes all bombers from British air base targeted by a suspected terror attack",
+      "link": "https://www.pbs.org/newshour/world/ap-report-u-s-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack",
+      "publishedAt": "Sun, 04 Oct 2026 17:37:37 -0400",
+      "snippet": "The U.S. Air Force has brought home its bombers stationed at a U.S.-run military air base in England used to strike Iran following an investigation into a planned terror attack at the RAF Fairford base.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
-      "publishedAt": "Sat, 03 Oct 2026 07:47:09 -0400",
-      "snippet": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR&apos;s Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.",
+      "source": "PBS Headlines",
+      "title": "Major oil exporters agree to keep production steady in November",
+      "link": "https://www.pbs.org/newshour/world/major-oil-exporters-agree-to-keep-production-steady-in-november",
+      "publishedAt": "Sun, 04 Oct 2026 17:11:27 -0400",
+      "snippet": "The so-called OPEC+ subgroup — Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman — will meet again on Nov. 1 to review conditions in the oil market.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
-      "publishedAt": "Sat, 03 Oct 2026 07:00:00 -0400",
-      "snippet": "Beloved for its dinosaurs, Philadelphia&apos;s storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it.",
+      "source": "PBS Headlines",
+      "title": "WATCH LIVE: Winner of the 2026 Nobel Prize in medicine is ...",
+      "link": "https://www.pbs.org/newshour/health/watch-live-winner-of-the-2026-nobel-prize-in-medicine-is",
+      "publishedAt": "Sun, 04 Oct 2026 17:00:47 -0400",
+      "snippet": "The Nobel Prize in medicine will be announced Monday.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "All&apos;s fair in love and &apos;War&apos; — a well-cast, classy-trashy divorce drama",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
-      "publishedAt": "Sat, 03 Oct 2026 07:00:00 -0400",
-      "snippet": "HBO&apos;s War is intended to be an anthology series about two dueling London law firms. The first season stars Dominic West and Sienna Miller as a high-profile couple in the midst of a very nasty divorce.",
+      "source": "PBS Headlines",
+      "title": "Despair over future fuels political anxiety for college students on the cusp of adulthood",
+      "link": "https://www.pbs.org/newshour/education/despair-over-future-fuels-political-anxiety-for-college-students-on-the-cusp-of-adulthood",
+      "publishedAt": "Sun, 04 Oct 2026 16:30:22 -0400",
+      "snippet": "Their anxiety is fueling a restlessness with a national political system that they worry is no longer capable of improving their lives or no longer interested in helping.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "The Supreme Court faces another term jam-packed with controversy",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
-      "publishedAt": "Sat, 03 Oct 2026 05:00:00 -0400",
-      "snippet": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.",
+      "source": "PBS Headlines",
+      "title": "The misperception that keeps bystanders from intervening and how to short&#8209;circuit it",
+      "link": "https://www.pbs.org/newshour/nation/the-misperception-that-keeps-bystanders-from-intervening-and-how-to-short%e2%80%91circuit-it",
+      "publishedAt": "Sun, 04 Oct 2026 15:02:10 -0400",
+      "snippet": "People may accept bad behavior — even sexual assault — when they overestimate how acceptable their peers think it is. But there are ways to undermine this thinking and make intervention more likely.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "No one expected Leo to be pope — except everyone who knew him as &apos;Bob&apos;",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
-      "publishedAt": "Sat, 03 Oct 2026 05:00:00 -0400",
-      "snippet": "When the 2025 conclave began, no one expected an American pope. But by its end, Cardinal Robert Prevost had become Pope Leo. Here&apos;s a look behind the scenes.",
+      "source": "PBS Headlines",
+      "title": "Search ongoing for missing medical flight from Bermuda to Boston as crews plan to scour ocean floor",
+      "link": "https://www.pbs.org/newshour/nation/search-ongoing-for-missing-medical-flight-from-bermuda-to-boston-as-crews-plan-to-scour-ocean-floor",
+      "publishedAt": "Sun, 04 Oct 2026 13:53:51 -0400",
+      "snippet": "The Federal Aviation Administration contacted the Coast Guard at 2 a.m. Saturday that it had lost contact with the Gulfstream G100 carrying four Canadians and two Bermudian nationals over the Atlantic Ocean.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions and EU hopes collide",
+      "link": "https://www.pbs.org/newshour/world/bosnia-votes-as-pro-russian-politician-looms-large-and-ethnic-tensions-simmer",
+      "publishedAt": "Sun, 04 Oct 2026 12:42:31 -0400",
+      "snippet": "Around 3.4 million voters were eligible to choose the three members of the country's multi-ethnic presidency, lawmakers for the national parliament and heads of institutions for the country's two entities.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
+      "link": "https://www.pbs.org/newshour/politics/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force",
+      "publishedAt": "Sun, 04 Oct 2026 12:31:42 -0400",
+      "snippet": "The announcement comes after Trump hosted top executives of AI companies at the White House last week and said they had signed a voluntary accord that would effectively self-police the development of the technology.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "AP report: UAE had shared details about FlyDubai flight with Israel, including pilots' names and nationalities",
+      "link": "https://www.pbs.org/newshour/world/ap-report-uae-had-shared-details-about-flydubai-flight-with-israel-including-pilots-names-and-nationalities",
+      "publishedAt": "Sun, 04 Oct 2026 12:14:24 -0400",
+      "snippet": "With the investigation underway, preliminary details about the incident have highlighted several major security lapses.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Christa Pike's lawyer says she has not regained consciousness since her failed Tennessee execution",
+      "link": "https://www.pbs.org/newshour/nation/christa-pikes-lawyer-says-she-has-not-regained-consciousness-since-her-failed-tennessee-execution",
+      "publishedAt": "Sun, 04 Oct 2026 11:56:07 -0400",
+      "snippet": "Little has been released about Pike's condition since Wednesday night's execution attempt. She has since remained hospitalized under guard as doctors try to get the massive dose of the barbiturate pentobarbital out of her system.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Brazilians voted for next president as Lula and Fl&aacute;vio Bolsonaro hope for first round victory",
+      "link": "https://www.pbs.org/newshour/world/brazils-presidential-vote-pits-trump-ally-against-incumbent-lula",
+      "publishedAt": "Sun, 04 Oct 2026 11:40:54 -0400",
+      "snippet": "Bolsonaro is the son of far-right former President Jair Bolsonaro and an ally of U.S. President Donald Trump. Lula is running in his seventh presidential election and has strengthened Brazil's ties with Beijing.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Cornell president calls alleged gang rape 'deeply disturbing,' pledges greater transparency",
+      "link": "https://www.pbs.org/newshour/education/cornell-president-calls-alleged-gang-rape-deeply-disturbing-pledges-greater-transparency",
+      "publishedAt": "Sun, 04 Oct 2026 11:17:27 -0400",
+      "snippet": "\"My heart aches when I think of what she experienced,\" Kotlikoff said. \"It raises heartbreaking and troubling issues about sexual assault, dehumanization and aspects of party culture, alcohol and drug use.\"",
       "tier": 1
     },
     {
@@ -280,10 +376,10 @@
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump rallies in Ohio to boost Jon Husted in a tight Senate race against Sherrod Brown",
+      "title": "Trump defends data centers in Ohio as he rallies to boost Jon Husted in a tight Senate race",
       "link": "https://www.pbs.org/newshour/politics/trump-rallies-in-ohio-to-boost-jon-husted-in-a-tight-senate-race-against-sherrod-brown",
       "publishedAt": "Sat, 03 Oct 2026 16:53:07 -0400",
-      "snippet": "Saturday's rally is just outside Dayton, Ohio, where he is stumping for key candidates in competitive races for the House, Senate and the governor's mansion in Columbus.",
+      "snippet": "Trump is embarking on what he says will be a 32-day blitz ahead of the Nov. 3 elections, hitting the deep red states of Texas, Oklahoma and Alabama this week before pivoting to Ohio, a battleground state that's home to one of the top-tier Senate races this cycle.",
       "tier": 1
     },
     {
@@ -335,107 +431,51 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Tennessee's prisons chief is resigning after the failed execution of Christa Pike",
-      "link": "https://www.pbs.org/newshour/nation/governor-says-tennessees-prisons-chief-is-resigning-after-failed-execution-of-christa-pike",
-      "publishedAt": "Sat, 03 Oct 2026 11:41:53 -0400",
-      "snippet": "Frank Strada said in a statement that resigning was \"in the best interest of Tennesseans\" while an independent review determines what happened Wednesday when the state failed to execute Pike despite administering two doses of a lethal drug.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Dual UK-Iranian national released on bail over suspected plot against U.S.-run military base",
-      "link": "https://www.pbs.org/newshour/world/dual-uk-iranian-national-released-on-bail-over-suspected-plot-against-u-s-run-military-base",
-      "publishedAt": "Sat, 03 Oct 2026 11:33:48 -0400",
-      "snippet": "The 25-year-old man was arrested Thursday in London on suspicion of preparing terrorist acts close to the RAF Fairford air base, which has been used by American bombers to strike Iran. He was the sixth person taken into custody and then released on bail as detectives investigate ",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "AP report: Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns",
-      "link": "https://www.pbs.org/newshour/world/ap-report-axe-wielding-flydubai-co-pilot-had-been-flagged-over-extremism-concerns",
-      "publishedAt": "Sat, 03 Oct 2026 11:15:41 -0400",
-      "snippet": "The new details raised questions about how thoroughly FlyDubai vets potential employees, and how the co-pilot's presence on a flight filled with Israeli passengers got past Israel's strict security protocols.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "FBI gives employees a classified 'Patel Report' about times the agency 'fell short'",
-      "link": "https://www.pbs.org/newshour/politics/fbi-gives-employees-a-classified-patel-report-about-times-the-agency-fell-short",
-      "publishedAt": "Fri, 02 Oct 2026 19:46:02 -0400",
-      "snippet": "The document's existence is in keeping with Director Kash Patel's vocal criticism of the leaders who preceded him",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Could the International Space Station win a Nobel Peace Prize? Here's what to know",
-      "link": "https://www.pbs.org/newshour/science/could-the-international-space-station-win-a-nobel-peace-prize-heres-what-to-know",
-      "publishedAt": "Fri, 02 Oct 2026 19:36:24 -0400",
-      "snippet": "Not-so-outlandish, prognosticators say: The Nobel Peace Prize this year could go galactic, with an award to the International Space Station.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Judge halts border wall construction in Texas' Big Bend region for now",
-      "link": "https://www.pbs.org/newshour/nation/judge-halts-border-wall-construction-in-texas-big-bend-region-for-now",
-      "publishedAt": "Fri, 02 Oct 2026 19:10:59 -0400",
-      "snippet": "A federal court in Texas on Friday issued a ruling temporarily blocking the Trump administration from building a border wall and other infrastructure across the state's Big Bend region, in a victory for opponents who have pushed back against what has long been a key campaign prom",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "What a hiring slowdown signals about the state of the U.S. economy",
-      "link": "https://www.pbs.org/newshour/show/what-a-hiring-slowdown-signals-about-the-state-of-the-u-s-economy",
-      "publishedAt": "Fri, 02 Oct 2026 18:55:34 -0400",
-      "snippet": "U.S. hiring slowed in September as employers added just 29,000 jobs. The disappointing jobs report has wide-reaching implications for consumer prices and interest rates, and it comes a month before Americans head to the polls for midterm elections. Amna Nawaz discussed more with ",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "News Wrap: New York AG appointed as special prosecutor in Cornell rape case",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-new-york-ag-appointed-as-special-prosecutor-in-cornell-rape-case",
-      "publishedAt": "Fri, 02 Oct 2026 18:45:08 -0400",
-      "snippet": "In our news wrap Friday, New York Gov. Kathy Hochul appointed the state Attorney General Letitia James as a special prosecutor to take over the Cornell University rape case, the U.S. is sending an additional aircraft carrier to the Middle East as President Trump weighs further ac",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Who's spending big, and where, in most expensive election cycle ever",
-      "link": "https://www.pbs.org/newshour/show/whos-spending-big-and-where-in-most-expensive-election-cycle-ever",
-      "publishedAt": "Fri, 02 Oct 2026 18:40:47 -0400",
-      "snippet": "Spending for this year's midterms is accelerating as we get closer to Election Day. Political correspondent Lisa Desjardins makes sense of the billions spent to influence who controls Congress next year.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "A look at how overseas ballots are verified and counted in the midterms",
-      "link": "https://www.pbs.org/newshour/show/a-look-at-how-overseas-ballots-are-verified-and-counted-in-the-midterms",
-      "publishedAt": "Fri, 02 Oct 2026 18:35:15 -0400",
-      "snippet": "Defense Secretary Hegseth directed military commanders to have a one-day \"stand down\" this month so service members have time to vote in the midterms. In King County, Washington, ballots are already being processed from service members and Americans living abroad. Some arrive by ",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Brooks and Atkins Stohr on GOP vulnerabilities in the midterms",
-      "link": "https://www.pbs.org/newshour/show/brooks-and-atkins-stohr-on-gop-vulnerabilities-in-the-midterms",
-      "publishedAt": "Fri, 02 Oct 2026 18:30:44 -0400",
-      "snippet": "David Brooks of The Atlantic and Kimberly Atkins Stohr of The Boston Globe join Geoff Bennett to discuss the week in politics, including President Trump hitting the campaign trail in a string of reliably Republican states, GOP vulnerabilities heading into the midterms and the adm",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "How the West is preparing for a drier future as water supplies hit lows",
-      "link": "https://www.pbs.org/newshour/show/drying-uphow-the-west-is-preparing-for-a-drier-future-as-water-supplies-hit-lows",
-      "publishedAt": "Fri, 02 Oct 2026 18:25:32 -0400",
-      "snippet": "Mandatory cuts from the federal government on water from the Colorado River will soon take effect in Arizona, Nevada, and California. Now, some water managers in the region are spending billions to prepare for a drier future. Special correspondent Ben Tracy with Climate Central r",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nationalists top Bosnia-Herzegovina&apos;s divisive election",
+      "link": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Bosnia-Herzegovina&apos;s three-member presidency is set to be dominated by nationalists from the three major ethnic groups, including Zeljka ​Cvijanovic, backed by disqualified Serb secessionist leader Milorad Dodik.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pakistan: Imran Khan supporters demand ex-PM&apos;s release",
+      "link": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Thousands of Imran Khan supporters have begun a trek to Islamabad to demand he be freed as Pakistan&apos;s political leadership remains in deadlock. The government has set up roadblocks to keep protesters at bay.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?",
+      "link": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "An Anthropic report says the AI model Claude was used in pro-Russian campaigns in the Central African Republic. Similar allegations were raised for the Democratic Republic of the Congo, Kenya, Sudan and Mali.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany&apos;s Merz visits Kyiv as Russia strikes bridge",
+      "link": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As air raid sirens sounded in Kyiv, Chancellor Merz called on President Putin to end his \"senseless war\" and announced new measures to support Ukraine, including plans for joint Ukrainian-German drone production.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump names AI czar to head White House task force",
+      "link": "https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US President Donald Trump has chosen members to lead a new AI task force to coordinate the administration&apos;s response to the rapidly evolving technology.",
       "tier": 2
     },
     {
@@ -448,26 +488,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Voting in Brazil&apos;s 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-      "link": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Japan: US Marine arrested in Okinawa on suspicion of murder",
       "link": "https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The Japanese government has lodged an official protest with Washington after a US Marine was arrested on suspicion of murdering a woman in Okinawa — where incidents involving US service personnel are not uncommon.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
-      "link": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Polls have opened in Bosnia and Herzegovina, where voters are taking part in parliamentary, presidential and local elections.",
       "tier": 2
     },
     {
@@ -492,14 +516,6 @@
       "link": "https://www.dw.com/en/germany-news-many-believe-merkel-more-capable-than-merz/live-79528092?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Nearly half of Germans view former Chancellor Angela Merkel as better suited to handle Germany&apos;s challenges than current Chancellor Friedrich Merz. Also, today is the last day of Oktoberfest in Munich. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s Merz visits Kyiv as Russia strikes bridge",
-      "link": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As air raid sirens sounded in Kyiv, Chancellor Merz called on President Putin to end his \"senseless war\" and announced new measures to support Ukraine, including plans for joint Ukrainian-German drone production.",
       "tier": 2
     },
     {
@@ -572,22 +588,6 @@
       "link": "https://www.dw.com/en/greece-returns-remains-of-czar-samuel-to-bulgaria/a-79530104?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "A warrior emperor who ruled the Bulgarian Empire in the Middle Ages, Czar Samuel is a symbol of Bulgarian national identity. But his remains have been in Greece for decades – and he is also claimed by North Macedonia.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Spain: Floods leave 102-year-old woman dead in southeast",
-      "link": "https://www.dw.com/en/spain-floods-leave-102-year-old-woman-dead-in-southeast/a-79529983?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Authorities in Spain rescued some 90 people after heavy rain sparked flooding in the town of Madrigueras. Prime Minister Pedro Sanchez expressed his condolences to the family of a 102-year-old woman who died.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Flydubai co-pilot attempted &apos;terrorist attack,&apos; UAE says",
-      "link": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The man, who stabbed his fellow pilot on an Israel-bound Flydubai flight, was reportedly barred from flying in his native Oman over security concerns.",
       "tier": 2
     }
   ]
