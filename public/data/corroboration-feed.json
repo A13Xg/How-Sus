@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:12:16.861Z",
+  "generatedAt": "2026-10-07T12:47:39.542Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,90 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 12:16:58 GMT",
+      "snippet": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
       "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 00:56:59 GMT",
-      "snippet": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "publishedAt": "Wed, 07 Oct 2026 10:12:36 GMT",
+      "snippet": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\".",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 18:03:19 GMT",
-      "snippet": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 05:02:18 GMT",
+      "snippet": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Former German spy chief arrested for espionage and treason",
-      "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 10:05:42 GMT",
-      "snippet": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 11:24:17 GMT",
+      "snippet": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 11:05:37 GMT",
+      "snippet": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 09:49:31 GMT",
+      "snippet": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 11:51:52 GMT",
+      "snippet": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 12:09:59 GMT",
+      "snippet": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+      "link": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 07:37:16 GMT",
+      "snippet": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "California pair charged with abusing at least 14 surrogate-born children",
+      "link": "https://www.bbc.co.uk/news/articles/crx23dvnp8vxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 09:38:00 GMT",
+      "snippet": "Guojun Xuan and Silvia Zhang were arrested at their Arcadia mansion after 21 children were removed from their custody last year.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "India's opposition leader dragged on to bus as police break up protest",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 07:45:47 GMT",
+      "snippet": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
       "tier": 1
     },
     {
@@ -64,210 +128,146 @@
     },
     {
       "source": "BBC World",
-      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 18:05:53 GMT",
-      "snippet": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+      "title": "What is pneumonic plague and how does it spread?",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 15:35:22 GMT",
+      "snippet": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Finland orders halt to work on two Google data centres",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 17:15:46 GMT",
-      "snippet": "The order affecting two planned data centres follows concerns over forest clearance.",
+      "title": "How did Christa Pike survive two lethal injections - and what happens now?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 10:01:47 GMT",
+      "snippet": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Kenya confirms its first Ebola death as outbreak spreads",
-      "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 16:02:32 GMT",
-      "snippet": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+      "link": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 22:17:56 GMT",
+      "snippet": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "AfD candidate elected speaker of German regional parliament for first time",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 14:44:03 GMT",
-      "snippet": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+      "title": "The Republican candidates walking a Trump tightrope",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 05:00:21 GMT",
+      "snippet": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 11:24:19 GMT",
-      "snippet": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 20:40:01 GMT",
+      "snippet": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 11:53:21 GMT",
-      "snippet": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 18:42:58 GMT",
+      "snippet": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Indian opposition MPs detained in protest against election chief",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 10:05:22 GMT",
-      "snippet": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
+      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
+      "link": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 23:42:35 GMT",
+      "snippet": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 20:15:31 GMT",
-      "snippet": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 12:00:10 GMT",
-      "snippet": "The arrests are part of the country's efforts to curb the misuse and abuse of the national currency.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
-      "link": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 13:31:56 GMT",
-      "snippet": "Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Yemeni military says it has 'secured' Red Sea waterway",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 07:43:07 GMT",
-      "snippet": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 12:51:05 GMT",
-      "snippet": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 16:51:59 GMT",
-      "snippet": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 02:22:24 GMT",
-      "snippet": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 06:53:17 GMT",
-      "snippet": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Samoa leader apologises for Nazi salute after video from 2007 emerges",
-      "link": "https://www.bbc.co.uk/news/articles/c862ylle91k7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 02:36:21 GMT",
-      "snippet": "Schmidt acknowledged that his actions \"were inappropriate and capable of causing offence and hurt\".",
+      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+      "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 21:22:22 GMT",
+      "snippet": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Actress Eva Marie Saint, who won an Oscar for &apos;On the Waterfront,&apos; dies at 102",
-      "link": "https://www.npr.org/2026/10/06/462030457/eva-marie-saint-on-the-waterfront-dead-102",
-      "publishedAt": "Tue, 06 Oct 2026 18:45:00 -0400",
-      "snippet": "Saint won an Oscar for her portrayal of Edie, a Catholic schoolgirl whose longshoreman brother is murdered. She went on to star in Alfred Hitchcock&apos;s North by Northwest.",
+      "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
+      "link": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day",
+      "publishedAt": "Wed, 07 Oct 2026 06:52:58 -0400",
+      "snippet": "A possible Iranian threat led the U.S. to remove long-range bombers from a U.K. base. And, Israelis are learning that their prime minister may have been warned before the Oct. 7 attacks.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Cornell names former acting U.S. attorney general to review rape case",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review",
-      "publishedAt": "Tue, 06 Oct 2026 14:31:45 -0400",
-      "snippet": "Cornell University names Sally Yates, former acting U.S. attorney general and career federal prosecutor, to lead an independent review into how the school handled a former student&apos;s rape allegations.",
+      "title": "Who will win the 2026 Nobel Prize in economics?",
+      "link": "https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics",
+      "publishedAt": "Wed, 07 Oct 2026 06:30:00 -0400",
+      "snippet": "A thinly traded prediction market offers a starting point. We explore potential winners and the big ideas that could earn them economics&apos; biggest prize.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "France&apos;s police fire tear gas and water cannons as school protests sweep the country",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
-      "publishedAt": "Tue, 06 Oct 2026 14:05:44 -0400",
-      "snippet": "More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.",
+      "title": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
+      "link": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
+      "publishedAt": "Wed, 07 Oct 2026 06:05:54 -0400",
+      "snippet": "Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Here are the finalists for the 2026 National Book Awards",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
-      "publishedAt": "Tue, 06 Oct 2026 10:30:20 -0400",
-      "snippet": "Three-time National Book Award finalist Edwidge Danticat and debut novelist Morgan Thomas are up for the fiction prize. Nonfiction books cover the prison system and music, and queer parenthood.",
+      "title": "Here&apos;s the latest sticker shock: Borrowing for a mortgage -- or a car",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5991910/interest-rates-economy-inflation-bonds",
+      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "snippet": "It&apos;s not just mortgages being at their highest level in almost three years — but the cost of loans for cars and higher education are among the borrowing costs affected, too.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "What to know about nationwide protests in India over voter list changes",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
-      "publishedAt": "Tue, 06 Oct 2026 07:44:06 -0400",
-      "snippet": "The campaign is led in part by India&apos;s \"Cockroach\" youth movement, which previously forced the education minister to resign.",
+      "title": "Over 1,000 children are buried at juvenile detention centers nationwide",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5986124/over-1-000-children-are-buried-at-juvenile-detention-centers-nationwide",
+      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "snippet": "Researchers uncovered the graves of more than 1,000 children next to juvenile detention facilities in 29 states. At one Maryland gravesite, 230 Black boys are buried.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat",
-      "publishedAt": "Tue, 06 Oct 2026 07:38:48 -0400",
-      "snippet": "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night.",
+      "title": "An early flu season means it might be time to think about a flu shot",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992940/early-flu-season-vaccine",
+      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "snippet": "Flu season typically starts in October or November. But it looks like the flu started to pick up in September this year.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets",
-      "publishedAt": "Tue, 06 Oct 2026 07:31:48 -0400",
-      "snippet": "A former head of Germany &apos;s foreign intelligence service was arrested on suspicion that he had passed state secrets to a foreign intelligence service, the federal prosecutor&apos;s office said.",
+      "title": "&apos;Medicare for All&apos; message attracts midterm voters buckling under medical bills",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992772/medicare-for-all-midterm-voters-medical-bills-affordability",
+      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "snippet": "Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don&apos;t really know what it is.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
-      "publishedAt": "Tue, 06 Oct 2026 07:19:25 -0400",
-      "snippet": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn&apos;t tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.",
+      "title": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks",
+      "link": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning",
+      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "snippet": "On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "What voters in 6 key states could tell us about the 2026 midterms",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
-      "publishedAt": "Tue, 06 Oct 2026 07:00:00 -0400",
-      "snippet": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
+      "title": "Deep in Appalachia, a rail-to-trail project builds bipartisan support for a bridge",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5980349/rail-trail-bridge-ohio-river",
+      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "snippet": "The Trump administration has been hostile to federal spending on bicycle and pedestrian infrastructure. But there&apos;s bipartisan support for a multiuse trail that would connect Ohio and West Virginia.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "A history of presidents naming things after themselves (It&apos;s short. They rarely do)",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
-      "publishedAt": "Tue, 06 Oct 2026 07:00:00 -0400",
-      "snippet": "While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets.",
+      "title": "Carpetbagger allegation, misplaced valor make Nevada&apos;s safe red House seat competitive",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5984671/nevada-midterm-election-valor-carpetbagger-reno",
+      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400",
+      "snippet": "Northern Nevada has a reliably red congressional seat, represented by a Republican since it was drawn in the early 1980s. A complicated candidate and a potential blue wave this year could change that.",
       "tier": 1
     },
     {
@@ -440,6 +440,134 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "France suspends use of stun grenades against protesters",
+      "link": "https://www.dw.com/en/france-suspends-use-of-stun-grenades-against-protesters/a-79577769?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "France is suspending the use of stun grenades against protesters as allegations of student brutality draw more anger. Prime Minister Sebastien Lecornu is also set to address the nation later this evening.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: Ex-spy chief sent to pretrial detention on treason charges",
+      "link": "https://www.dw.com/en/germany-ex-spy-chief-sent-to-pretrial-detention-on-treason-charges/a-79576300?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "August Hanning has been remanded into pretrial detention after his arrest. The case has prompted calls for transparency when spies leave the government.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: Did CDU lawmakers support the far-right AfD?",
+      "link": "https://www.dw.com/en/germany-did-cdu-lawmakers-support-the-far-right-afd/a-79577396?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Lawmakers of the center-right CDU may have voted for the far-right AfD candidate for parliamentary speaker in Saxony-Anhalt. Germany&apos;s Social Democrats warn of a \"unique breach of taboos.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nobel Prize in Chemistry goes to Henri B. Kagan and Kenso Soai",
+      "link": "https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Henri B. Kagan and Kenso Soai won the Nobel Prize in Chemistry for their groundbreaking discoveries related to the origin of chirality and life&apos;s building blocks.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Suspected pneumonic plague in Siberia: What we know about the disease",
+      "link": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "After a worker at a Russian plague research institute in Siberia died October 2, 2026, nearly 200 of her contacts were under medical observation. But authorities there denied pneumonic plague had caused the death.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ronaldo stays on under cloud as Messi exits internationals",
+      "link": "https://www.dw.com/en/ronaldo-stays-on-under-cloud-as-messi-exits-internationals/a-79574551?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Just hours before Lionel Messi played his last match for Argentina, Cristiano Ronaldo posted his latest salvo in a row with Portugal. Ronaldo wants to play on despite the troubles, while Messi bathed in adulation.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nobelitis — How winning a Nobel Prize can give you delusions of grandeur",
+      "link": "https://www.dw.com/en/nobelitis-how-winning-a-nobel-prize-can-give-you-delusions-of-grandeur/a-79525772?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "After being chosen for one of the world&apos;s most prestigious awards, some Nobel laureates lose touch with reality and suddenly start spouting unscientific nonsense. They&apos;re afflicted by what some have called \"Nobelitis.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "The solar boom is rapidly transforming emerging economies",
+      "link": "https://www.dw.com/en/the-solar-boom-is-rapidly-transforming-emerging-economies/a-79474847?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Renewable electricity is cheaper than ever. So while the West got rich on coal and oil, some of the poorest countries in the world are banking on solar, wind and water instead.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Israel marks third anniversary of October 7 Hamas terror attacks with memorials",
+      "link": "https://www.dw.com/en/israel-marks-third-anniversary-of-october-7-hamas-terror-attacks-with-memorials/a-79571380?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Families gathered at the Nova music festival site and other attack locations in memory of those killed by Hamas on October 7, 2023.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Yemen&apos;s Houthis claim strikes on Aden, Riyadh airports",
+      "link": "https://www.dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Aden International Airport came under attack as Yemen&apos;s war intensified, with the Houthis targeting key transport hubs.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Government presents plan for railroad revamp",
+      "link": "https://www.dw.com/en/germany-news-government-presents-plan-for-railroad-revamp/live-79570924?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Transport Ministry has put forward a five-year plan for improving Germany&apos;s ailing railroad infrastructure. Chancellor Merz has voiced solidarity with Israel on the anniversary of the October 7 attacks. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Opposition protest clouds Modi&apos;s 25-year milestone",
+      "link": "https://www.dw.com/en/india-news-opposition-protest-clouds-modi-s-25-year-milestone/live-79570653?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Delhi police has beefed up security around the Election Commission of India, likely preparing for another day of &apos;vote theft&apos; protests. Meanwhile, PM Modi marks 25 years in public service. Follow live.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Where is Spain headed after the snap election announcement?",
+      "link": "https://www.dw.com/en/where-is-spain-headed-after-the-snap-election-announcement/a-79567959?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Prime Minister Pedro Sanchez is taking a gamble by calling an early election in Spain. The housing crisis, migration and the rise of the right-wing populist Vox party are all likely to dominate the campaign.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Mali: Junta forces retake strategic town of Kidal from separatists",
+      "link": "https://www.dw.com/en/mali-junta-forces-retake-strategic-town-of-kidal-from-separatists/a-79570617?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Mali&apos;s military regained control of the strategic town of Kidal after forcing Tuareg separatists and al Qaeda-linked jihadists to withdraw following an offensive backed by Russia&apos;s Africa Corps.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Football: Lionel Messi plays final game for Argentina",
+      "link": "https://www.dw.com/en/football-lionel-messi-plays-final-game-for-argentina/a-79570608?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Argentinian superstar Lionel Messi bowed out of international football with one last goal for his country. For football in Argentina, and indeed across the world, it&apos;s the end of an era.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Christa Pike awake after failed Tennessee execution: lawyers",
+      "link": "https://www.dw.com/en/christa-pike-awake-after-failed-tennessee-execution-lawyers/a-79569867?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A death row inmate who survived a botched execution last week is conscious and talking in hospital, according to her lawyers, who want to commute her death sentence to life imprisonment without parole.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Munich up against at least six competitors for 2036 Olympics",
       "link": "https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -460,134 +588,6 @@
       "link": "https://www.dw.com/en/naked-trump-statue-goes-on-display-in-strasbourg/a-79568640?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Titled \"The Orange Plague,\" a gold-coated statue presents Donald Trump sitting on a smaller man&apos;s back. The Danish artist blamed Trump for getting in the way of efforts to address climate change.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany shaken by espionage and treason allegations",
-      "link": "https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The former head of Germany&apos;s foreign intelligence service, the BND, has been accused of spying for a foreign country. Never before has a German official of August Hanning&apos;s stature been accused of treason.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU seeks ways to make expansion more palatable to members",
-      "link": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The European Commission has put forward ideas it hopes will both ease the EU expansion process and allay concerns among existing members. Several countries, not least war-torn Ukraine, are among the candidates.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Russia denies anti-plague measures after pneumonia death",
-      "link": "https://www.dw.com/en/russia-denies-anti-plague-measures-after-pneumonia-death/a-79567922?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The death of an employee at an anti-plague institute in Irkutsk is still being looked into, the authorities said. US Secretary of State Marco Rubio called for Russia to be transparent about its findings.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "France’s conundrum: How to cut spending amid protests",
-      "link": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Prime Minister Lecornu is pledging to improve schools at a time when the government seeks to save billions. France&apos;s dilemma can be seen across the EU: How to cut spending when citizens are demanding more from the state?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK: Seventh arrest made after air base plot",
-      "link": "https://www.dw.com/en/uk-seventh-arrest-made-after-air-base-plot/a-79566985?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The man, a British national in his twenties, was arrested in London in suspicion of \"preparing terrorist acts.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Paramount and Warner Bros merge into one Hollywood giant",
-      "link": "https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Paramount has completed an $81 billion purchase of Warner Bros. Discovery, as its owner Skydance creates a new entertainment behemoth. Billionaire David Ellison&apos;s hostile takeover bid defeated rival efforts from Netflix.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Spain court lifts Puigdemont arrest warrant, clearing way for his return home ahead of November elections",
-      "link": "https://www.dw.com/en/spain-court-lifts-puigdemont-arrest-warrant-clearing-way-for-his-return-home-ahead-of-november-elections/a-79565853?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Catalan separatist leader Carles Puigdemont fled Spain in 2017 after launching an independence bid. The court&apos;s decision means he can return home without fear of arrest after almost a decade in exile.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "As more Iranian women reject hijab rules, regime looks at new ways to force compliance",
-      "link": "https://www.dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As more women in Iran reject rules on wearing hijab headscarves, hardliners are shifting focus from \"morality police\" street enforcement towards social pressure in workplaces, services and businesses.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Southeast Asia&apos;s haze crisis: Have lessons been learned?",
-      "link": "https://www.dw.com/en/southeast-asia-s-haze-crisis-have-lessons-been-learned/a-79564992?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Eleven years after catastrophic fires prompted promises of tougher action, Southeast Asia is again choking on transboundary haze, raising questions about whether the region has learned the lessons of 2015.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed&apos;s rhetoric",
-      "link": "https://www.dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ethiopia&apos;s Prime Minister Abiy Ahmed is consolidating power, but he must contend with a regional alliance opposing him and a Tigray conflict that could spill over into Eritrea.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s far-right AfD makes history again in Saxony-Anhalt",
-      "link": "https://www.dw.com/en/germany-s-far-right-afd-makes-history-again-in-saxony-anhalt/a-79565146?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "For the first time since the end of World War II, a German state parliament has chosen parliamentary speaker from the far right: Tobias Rausch of the Alternative for Germany (AfD).",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Nobel Literature Prize: How the winner is secretly chosen",
-      "link": "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Can Xue is considered one of this year&apos;s favorites; Margaret Atwood and Salman Rushdie are other strong contenders. But what goes on behind the scenes in the selection of the Nobel Prize in Literature?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Spain approves new emergency housing measures",
-      "link": "https://www.dw.com/en/spain-approves-new-emergency-housing-measures/a-79564344?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Spanish government has approved a pair of emergency housing decrees, including extended eviction protections and limits on property speculation, after major protests rocked Barcelona.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Nigerian military plane crash kills all 25 on board",
-      "link": "https://www.dw.com/en/nigerian-military-plane-crash-kills-all-25-on-board/a-79552403?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Rescue teams searched the crash site after the military aircraft went down in southern Nigeria, with everyone on board now confirmed to have died.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Kenya reports first-ever Ebola death",
-      "link": "https://www.dw.com/en/kenya-reports-first-ever-ebola-death/a-79563120?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The patient arrived in Kenya over the weekend from the Democratic Republic of Congo before testing positive for the virus. Health authorities are on high alert and monitoring for more cases.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fact check: Misleading claims spark plague fears in Russia",
-      "link": "https://www.dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The death of a lab worker at a plague research institute in Russia has sparked claims about a lab accident, hundreds of infections and international spread. Some of these viral narratives are misleading.",
       "tier": 2
     }
   ]
