@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T01:13:57.603Z",
+  "generatedAt": "2026-10-09T12:45:02.213Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,7 +32,31 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "title": "Firing squad execution to be livestreamed, Pentagon says",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 12:24:58 GMT",
+      "snippet": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 09:43:22 GMT",
+      "snippet": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "France promises 3,000 extra teachers in first step to calm student protests",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 11:35:00 GMT",
+      "snippet": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
       "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 08 Oct 2026 23:11:10 GMT",
       "snippet": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
@@ -40,42 +64,90 @@
     },
     {
       "source": "BBC World",
-      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 23:35:57 GMT",
-      "snippet": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+      "title": "Thieves steal 30,000 wine bottles worth €5m in Italy, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 09:09:03 GMT",
+      "snippet": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 16:31:29 GMT",
-      "snippet": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "title": "Two Renoir paintings stolen from French museum are recovered",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 12:05:12 GMT",
+      "snippet": "The two works were seized last month when thieves cut through a fence and smashed a window at the Renoir Museum on the French Riviera.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 15:02:32 GMT",
-      "snippet": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+      "title": "ICE agent shoots man in New York City",
+      "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 12:18:52 GMT",
+      "snippet": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Crazy Rich Asians to return as TV show with original film's stars",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 10:54:21 GMT",
+      "snippet": "The show will pick up after the hit 2018 film, and will also star Michelle Yeoh and Ronny Chieng.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 11:44:49 GMT",
+      "snippet": "Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 10:07:04 GMT",
+      "snippet": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+      "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 04:53:50 GMT",
+      "snippet": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 08:28:57 GMT",
+      "snippet": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 02:09:45 GMT",
+      "snippet": "Pike's lawyers say her recovery is \"remarkable\" as they give an update on her condition after she survived an execution attempt by lethal injection.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+      "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 09:30:49 GMT",
+      "snippet": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Adidas sues Australian label White Fox over four stripes design",
       "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 18:17:28 GMT",
+      "publishedAt": "Fri, 09 Oct 2026 03:36:41 GMT",
       "snippet": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 19:10:06 GMT",
-      "snippet": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
       "tier": 1
     },
     {
@@ -96,22 +168,6 @@
     },
     {
       "source": "BBC World",
-      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 17:16:32 GMT",
-      "snippet": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 20:38:11 GMT",
-      "snippet": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
       "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 08 Oct 2026 12:04:25 GMT",
@@ -128,146 +184,90 @@
     },
     {
       "source": "BBC World",
-      "title": "Residents airlifted to safety after flooding in central Chile",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 11:31:22 GMT",
-      "snippet": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Zambia signs US health deal after disputes over data-sharing",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 16:24:05 GMT",
-      "snippet": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-      "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 12:11:31 GMT",
-      "snippet": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-      "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 16:23:09 GMT",
-      "snippet": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
-      "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 14:10:58 GMT",
-      "snippet": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 05:00:44 GMT",
-      "snippet": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 15:21:46 GMT",
-      "snippet": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 07:15:45 GMT",
-      "snippet": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 08 Oct 2026 17:16:32 GMT",
+      "snippet": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
-      "publishedAt": "Thu, 08 Oct 2026 20:25:15 -0400",
-      "snippet": "The company says Russian operatives used its AI chatbot to update their bosses, shedding light on influence campaigns previously not attributed to Russia.",
+      "title": "Trump says U.S. won&apos;t attack Iran before midterms. And, ICE agent shoots man in NYC",
+      "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+      "publishedAt": "Fri, 09 Oct 2026 07:37:04 -0400",
+      "snippet": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-      "publishedAt": "Thu, 08 Oct 2026 20:05:48 -0400",
-      "snippet": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew stress and supply shortages.",
+      "title": "Why American investors love European defense startups",
+      "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
+      "publishedAt": "Fri, 09 Oct 2026 07:00:00 -0400",
+      "snippet": "As European defense spending takes off, just about half of the funding in Europe&apos;s defense tech industry is coming from American investors this year. One reason why: European investment firms have restrictions on how they can invest.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Suicide is up among Black Americans. We need to talk about it.",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
-      "publishedAt": "Thu, 08 Oct 2026 14:37:02 -0400",
-      "snippet": "NPR&apos;s Michel Martin hosted a panel conversation about mental health and suicide in the Black community, exploring a difficult subject in deeply personal conversations.",
+      "title": "In Central African Republic, deported immigrants find themselves in limbo",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba",
+      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400",
+      "snippet": "The Trump administration says it has deported more than 25,000 people to countries to which they have no ties. NPR spoke to three men who say it feels like they&apos;ve lost control over their own lives.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The long-deployed USS Lincoln is returning home to San Diego",
-      "link": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
-      "publishedAt": "Thu, 08 Oct 2026 12:18:20 -0400",
-      "snippet": "The USS Abraham Lincoln is returning home to San Diego Thursday after supporting the Iran war during a record long deployment of 265 uninterrupted days at sea that included reports of deteriorating conditions among its crew.",
+      "title": "Why we remember: One student&apos;s journey into memory",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
+      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400",
+      "snippet": "Why one teen can&apos;t let go of the time he ate fries with his great-grandpa.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
-      "publishedAt": "Thu, 08 Oct 2026 12:05:37 -0400",
-      "snippet": "U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.",
+      "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400",
+      "snippet": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "4 people on NASA&apos;s Crew-12 mission return to Earth after 8 months in space",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
-      "publishedAt": "Thu, 08 Oct 2026 11:34:39 -0400",
-      "snippet": "Four people — two NASA astronauts, one from the European Space Agency and a Russian cosmonaut — spent nearly eight months at the space station, conducting spacewalks, science experiments and research.",
+      "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
+      "link": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
+      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400",
+      "snippet": "Plus: Nobels! Protests! Ambiguous quotes! A mysterious death in Russia!",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "White House correspondent April Ryan reflects on reporting while under attack",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack",
-      "publishedAt": "Thu, 08 Oct 2026 11:24:23 -0400",
-      "snippet": "Ryan has spent decades pressing presidents for answers. She talks about access, power, race and how asking questions put her in President Trump&apos;s crosshairs. Her new book is Notes on a Blacklash .",
+      "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don&apos;t work",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
+      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400",
+      "snippet": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn&apos;t alert parents when users talk about self-harm and suicide.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
-      "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
-      "publishedAt": "Thu, 08 Oct 2026 08:13:54 -0400",
-      "snippet": "The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation.",
+      "title": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
+      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400",
+      "snippet": "If you&apos;re using the U.S. Postal Service to return a ballot close to Election Day, officials recommend getting it postmarked at a post office to avoid getting caught up in mail processing changes.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-      "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
-      "publishedAt": "Thu, 08 Oct 2026 08:01:34 -0400",
-      "snippet": "The test follows North Korea&apos;s recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
+      "title": "A student hated reading for years. Her podcast explores finding the right diagnosis",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
+      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400",
+      "snippet": "Middle schooler Cora Walsh of Long Island, N.Y., has won the 2026 NPR Student Podcast Challenge with a story about her journey with dyslexia.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
-      "link": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
-      "publishedAt": "Thu, 08 Oct 2026 07:35:22 -0400",
-      "snippet": "People in the Gulf are preparing for bad weather this weekend after Isaias intensified into a hurricane. And, a judge has ordered Christa Pike&apos;s failed execution evidence be preserved.",
+      "title": "NEWSBRIEF: HURRICANE ISAIAS, UKRAINE WAR LATEST, POLITICS OF IRAN WAR",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5988274/newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war",
+      "publishedAt": "Fri, 09 Oct 2026 04:28:16 -0400",
+      "snippet": "Gulf Coast Preps for Isaias, Ukraine expects Russian winter offensive, and Trump&apos;s Iran War in focus as Midterms approach.",
       "tier": 1
     },
     {
@@ -440,6 +440,118 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Hurricane Isaias intensifies en route to US Gulf Coast",
+      "link": "https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Oil and gas production in the Gulf of Mexico has already been affected by the approaching hurricane, which has strengthened so far to Category 2.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "World Cup 2034: Does Saudi Arabia shelving Neom Stadium spell trouble?",
+      "link": "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Since winning the right to hold the 2034 World Cup unopposed, Saudi Arabia has been pulling away from sport. With reports that its most ambitious stadium project will be abandoned, what does this mean for the World Cup?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "France: Investigators recover 2 stolen Renoir paintings",
+      "link": "https://www.dw.com/en/france-investigators-recover-2-stolen-renoir-paintings/a-79614538?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Thieves had initially taken four pieces with a value of over $10 million, but dropped two as they fled. Officials praised everyone that tracked down the paintings, but didn&apos;t reveal how they found them.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Voting to begin in local elections in the Czech Republic",
+      "link": "https://www.dw.com/en/voting-to-begin-in-local-elections-in-the-czech-republic/a-79612365?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The vote is being seen as a test of popularity for the Andrej Babis government.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "South Africa pulls asylum directive after violent protests",
+      "link": "https://www.dw.com/en/south-africa-pulls-asylum-directive-after-violent-protests/a-79605037?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "South Africa has withdrawn a controversial asylum directive after anti-migrant protests descended into violence and chaos on Thursday.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany women&apos;s football team: Can Ena Mahmutovic make a case to become Germany&apos;s next No.1 goalkeeper?",
+      "link": "https://www.dw.com/en/germany-women-s-football-team-can-ena-mahmutovic-make-a-case-to-become-germany-s-next-no-1-goalkeeper/a-79609341?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The women&apos;s friendlies against Australia and Japan present an opportunity for Ena Mahmutovic to make her case for succeeding Ann-Katrin Berger as Germany&apos;s first-choice goalkeeper.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Bosnia and Herzegovina will soon have a new Grand Mufti",
+      "link": "https://www.dw.com/en/bosnia-and-herzegovina-will-soon-have-a-new-grand-mufti/a-79604402?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The new leader of the Islamic Community in Bosnia and Herzegovina will be elected on October 10. The reis-ul-ulema&apos;s role is not only important for Muslims in the country itself, but could inspire Muslims across Europe.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Finland: The world&apos;s happiest country has a debt problem it can no longer ignore",
+      "link": "https://www.dw.com/en/finland-the-world-s-happiest-country-has-a-debt-problem-it-can-no-longer-ignore/a-79544348?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Finns have many reasons to feel content, but the country&apos;s pile of debt is not one of them. Russia&apos;s war in Ukraine has added to the fiscal burden. Can the Nordic nation absorb another shock?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nobel Peace Prize 2026 goes to Navanethem &apos;Navi&apos; Pillay for her efforts to promote peace and international law",
+      "link": "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "South African judge Navanethem \"Navi\" Pillay has won this year&apos;s Nobel Peace Prize for her efforts to promote peace and international law. Follow DW live.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Malaysia shuts schools amid toxic haze from Indonesian fires",
+      "link": "https://www.dw.com/en/malaysia-shuts-schools-amid-toxic-haze-from-indonesian-fires/a-79607231?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Toxic smoke from forest fires in Indonesia has pushed air pollution to unhealthy levels, prompting authorities in Malaysia to take emergency measures.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India: Cockroach party denied permission to protest in Delhi, founder Dipke pushes on",
+      "link": "https://www.dw.com/en/india-cockroach-party-denied-permission-to-protest-in-delhi-founder-dipke-pushes-on/live-79606961?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Train cancellations have been reported in Delhi ahead of CJP’s protest tomorrow. There is heavy security in the capital. Police have denied permission to protest but CJP&apos;s leader has vowed to press on with the plan.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Two German officials shot dead during routine gun inspection in Bavaria; suspect arrested after overnight standoff",
+      "link": "https://www.dw.com/en/two-german-officials-shot-dead-during-routine-gun-inspection-in-bavaria-suspect-arrested-after-overnight-standoff/live-79607225?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A routine inspection of legally owned firearms turned deadly in Bavaria. Police spent hours negotiating with an armed suspect before storming his home. Follow DW for more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine, Europe, US to meet in Miami for talks on ending war",
+      "link": "https://www.dw.com/en/ukraine-europe-us-to-meet-in-miami-for-talks-on-ending-war/a-79606735?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Officials from Ukraine, Europe and the US are meeting in Miami to discuss ways to break the deadlock in the war. The meeting comes as Russian strikes on Ukraine killed more than 70 people this week.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Man injured after New York shooting involving ICE",
+      "link": "https://www.dw.com/en/man-injured-after-new-york-shooting-involving-ice/a-79606159?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "New York City Mayor Zohran Mamdani has condemned the incident and urged Donald Trump to end ICE actions in the city. The man was being treated at a nearby hospital, New York police said.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "US to livestream Fort Hood shooter&apos;s execution: Pentagon",
       "link": "https://www.dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -476,118 +588,6 @@
       "link": "https://www.dw.com/en/us-suspends-microsoft-adobe-from-filing-for-green-cards/a-79605053?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The Trump administration cut off tech firms, including Microsoft and Adobe, from filing for green cards for their foreign workers.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Africa: Anti-migrant protests turn violent",
-      "link": "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A court order requiring the government to resume processing asylum applications reignited violent protests against immigration in South Africa.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US will not resume strikes on Iran before midterms — Trump",
-      "link": "https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "President Donald Trump said the US will not resume strikes on Iran before the midterm elections on November 3. High gas and grocery prices are top concerns for voters.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "France: Police clash with protesters at Paris student rally",
-      "link": "https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Police fired tear gas at protesters in Paris again as students continue to voice grievances about school conditions across France. The education minister has said 3,000 substitute teachers will reach schools soon.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US prosecutors add new torture charge against Maduro",
-      "link": "https://www.dw.com/en/us-prosecutors-add-new-torture-charge-against-maduro/a-79588019?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US prosecutors have added a new charge to their case against deposed Venezuelan leader Nicolas Maduro and his wife, Cilia Flores, accusing the couple of conspiring to commit torture.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU pulls sponsorship from Disinfo2026 event in Lithuania",
-      "link": "https://www.dw.com/en/eu-pulls-sponsorship-from-disinfo2026-event-in-lithuania/a-79599615?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The EU&apos;s diplomatic service, Canada and host nation Lithuania all pulled support from a disinformation event in Vilnius. Amid reports of US pressure, the EU said it was \"uncomfortable with the framing\" of some panels.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How the Houthi-Saudi conflict is affecting countries on Africa&apos;s Red Sea coast — and beyond",
-      "link": "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Bab el-Mandeb Strait, which Yemeni government forces are trying to take back from the Houthis, is located not far from Djibouti and other African states.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Rodrigo Duterte ruled fit to stand trial by ICC judges",
-      "link": "https://www.dw.com/en/rodrigo-duterte-ruled-fit-to-stand-trial-by-icc-judges/a-79599372?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Judges at the International Criminal Court said Rodrigo Duterte was fit to understand the charges at his trial, which is set to begin in November. His legal team argued that he suffers from cognitive deficiencies.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "2026 Nobel Prize winner Anne Carson: Where to start reading",
-      "link": "https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The works of this year&apos;s Nobel Literature Prize-winning poet and essayist Anne Carson can feel slightly daunting. Here are some keys to understanding her universe.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU envoy in Beijing for talks to calm trade tensions",
-      "link": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The EU trade envoy said he hoped to make progress in tackling the bloc&apos;s \"unsustainable\" trade imbalance with China. Beijing called for trade disputes to be resolved through equal dialogue.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India faces water and power shortages after weak monsoon",
-      "link": "https://www.dw.com/en/india-faces-water-and-power-shortages-after-weak-monsoon/a-79599540?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A weak monsoon in India is hitting farmers, water supplies and the power system, while raising wider questions about increasingly erratic rainfall and the economic costs.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "World Cup 2034: Does Saudi Arabia shelving Neom Stadium spell trouble?",
-      "link": "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Since winning the right to hold the 2034 World Cup unopposed, Saudi Arabia has been pulling away from sport. With reports that its most ambitious stadium project will be abandoned, what does this mean for the World Cup?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Early-onset cancer rising worldwide: Causes, risk, prevention",
-      "link": "https://www.dw.com/en/early-onset-cancer-rising-worldwide-causes-risk-prevention/a-79597097?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Across Latin America, early-onset cancer rates have risen, with Chile and Brazil seeing the fastest growth, especially of bowel, breast and cervical cancers. But it is a worldwide trend.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: UK&apos;s Burnham visits Berlin for talks with Merz",
-      "link": "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "UK Prime Minister Andy Burnham is visiting Berlin to launch a new bilateral treaty and hold talks with Chancellor Friedrich Merz. President Steinmeier is on a state visit to France.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Korea warns of AI-aided hacking after bank data breaches",
-      "link": "https://www.dw.com/en/south-korea-warns-of-ai-aided-hacking-after-bank-data-breaches/a-79592922?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Seoul is alarmed after a recent breach of South Korean banks&apos; cyber defenses that reportedly involved AI-assisted hacking. Officials warn such methods could be used to also target other sectors and government agencies.",
       "tier": 2
     }
   ]
