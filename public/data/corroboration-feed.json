@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:42:39.586Z",
+  "generatedAt": "2026-10-11T01:17:03.228Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,42 +32,90 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 19:28:28 GMT",
+      "snippet": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 11 Oct 2026 00:21:52 GMT",
+      "snippet": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 22:13:08 GMT",
+      "snippet": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
       "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 11:17:15 GMT",
-      "snippet": "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.",
+      "publishedAt": "Sat, 10 Oct 2026 20:51:12 GMT",
+      "snippet": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 04:38:20 GMT",
-      "snippet": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 17:44:26 GMT",
+      "snippet": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 22:30:22 GMT",
-      "snippet": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 23:19:55 GMT",
+      "snippet": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 21:55:51 GMT",
-      "snippet": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 18:22:29 GMT",
+      "snippet": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 04:34:55 GMT",
-      "snippet": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 12:28:51 GMT",
+      "snippet": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Woman injures three people in third Poland school knife attack in a week",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 14:58:55 GMT",
+      "snippet": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 15:23:47 GMT",
+      "snippet": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 12:29:31 GMT",
+      "snippet": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
       "tier": 1
     },
     {
@@ -80,26 +128,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Hurricane Isaias downgraded after making landfall in Florida",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 11:55:12 GMT",
-      "snippet": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-      "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 04:07:11 GMT",
-      "snippet": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 21:26:30 GMT",
-      "snippet": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 14:49:32 GMT",
+      "snippet": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
       "tier": 1
     },
     {
@@ -112,18 +144,26 @@
     },
     {
       "source": "BBC World",
-      "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 21:50:47 GMT",
-      "snippet": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 04:34:55 GMT",
+      "snippet": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 18:40:10 GMT",
-      "snippet": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 21:55:51 GMT",
+      "snippet": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 21:50:47 GMT",
+      "snippet": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
       "tier": 1
     },
     {
@@ -144,50 +184,58 @@
     },
     {
       "source": "BBC World",
-      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 15:24:43 GMT",
-      "snippet": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 10 Oct 2026 23:31:35 GMT",
+      "snippet": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Commentator Katie Zacharia picked as new White House press secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 22:41:21 GMT",
-      "snippet": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+      "source": "NPR News",
+      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+      "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "publishedAt": "Sat, 10 Oct 2026 19:44:15 -0400",
+      "snippet": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an E",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 04:51:57 GMT",
-      "snippet": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+      "source": "NPR News",
+      "title": "Christa Pike discharged from the hospital and back in prison",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
+      "publishedAt": "Sat, 10 Oct 2026 18:15:04 -0400",
+      "snippet": "Pike&apos;s attorneys say she is grateful for the care of first responders and her medical team.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 09:17:36 GMT",
-      "snippet": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
+      "source": "NPR News",
+      "title": "Bayeux Tapestry&apos;s London tour spurs enthusiasts to Battle of Hastings reenactment",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+      "publishedAt": "Sat, 10 Oct 2026 17:40:58 -0400",
+      "snippet": "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 23:24:33 GMT",
-      "snippet": "Students taking to the streets have become a focal point in the country's increasingly polarised politics.",
+      "source": "NPR News",
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "publishedAt": "Sat, 10 Oct 2026 17:32:53 -0400",
+      "snippet": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Questions remain over Ebola patient who travelled across three nations undetected",
-      "link": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 10 Oct 2026 00:00:08 GMT",
-      "snippet": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
+      "source": "NPR News",
+      "title": "The Kennedy Center names new artistic director, amid concerns",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
+      "publishedAt": "Sat, 10 Oct 2026 14:17:12 -0400",
+      "snippet": "The center&apos;s executive director has named an agent who has worked with ZZ Top and Motley Crue drummer Tommy Lee as the head of programming for the arts institution.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
+      "link": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+      "publishedAt": "Sat, 10 Oct 2026 13:14:03 -0400",
+      "snippet": "Hurricane Isaias is blamed for at least two deaths, after the storm made landfall on the Florida coast and ran through Alabama. There are numerous reports of downed trees, with hundreds of thousands of people without power.",
       "tier": 1
     },
     {
@@ -208,14 +256,6 @@
     },
     {
       "source": "NPR News",
-      "title": "A year of ceasefire in Gaza through the lens of NPR&apos;s reporter",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
-      "publishedAt": "Sat, 10 Oct 2026 05:00:00 -0400",
-      "snippet": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
       "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
       "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
       "publishedAt": "Sat, 10 Oct 2026 05:00:00 -0400",
@@ -228,46 +268,6 @@
       "link": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
       "publishedAt": "Sat, 10 Oct 2026 05:00:00 -0400",
       "snippet": "Carve a pumpkin? You can do better than that. Fun and unusual ways to celebrate the season, from writing a gratitude letter to making an ancestral altar.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "The Met puts a modern artist front and center (and there&apos;s some Jackson Pollock, too)",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met",
-      "publishedAt": "Sat, 10 Oct 2026 05:00:00 -0400",
-      "snippet": "In a blockbuster show, The Metropolitan Museum of Art places the work of two major 20th century artists side by side: the married couple Lee Krasner and Jackson Pollock.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "India cracks down on youth protests as anger grows against Modi and election chief",
-      "link": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
-      "publishedAt": "Sat, 10 Oct 2026 04:31:28 -0400",
-      "snippet": "Indian authorities have launched a major security crackdown in New Delhi, detaining thousands of protesters who intended to hold a mass demonstration against Prime Minister Narendra Modi&apos;s government.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Kalshi taps former FBI agent to fight against money laundering",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
-      "publishedAt": "Fri, 09 Oct 2026 18:23:11 -0400",
-      "snippet": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Fired OpenAI employees question the company&apos;s commitment to safety",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
-      "publishedAt": "Fri, 09 Oct 2026 17:28:09 -0400",
-      "snippet": "The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-      "publishedAt": "Fri, 09 Oct 2026 17:24:13 -0400",
-      "snippet": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
       "tier": 1
     },
     {
@@ -440,10 +440,66 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "US midterms: Women candidates could make history",
-      "link": "https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-top-1022-rdf",
+      "title": "Palestinian president postpones elections until late 2027",
+      "link": "https://www.dw.com/en/palestinian-president-postpones-elections-until-late-2027/a-79630075?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Palestinian President Mahmoud Abbas previously committed to holding legislative elections in November 2026. He said that due to \"obstacles ⁠posed by Israeli measures\" the vote would be pushed back until late next year.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
+      "link": "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Officials said at least 12 people were killed in a strike on King Khalid International Airport in the Saudi capital, Riyadh. The airport had already been targeted multiple times this week.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Money, networks and bias: Why women struggle to win seats in US politics",
+      "link": "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The US is holding Congress and state governors elections. At all levels of US politics, women are underrepresented — but they may win some historic victories in the midterms on November 3.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Eritrea urges UN deterrence measures against Ethiopia",
+      "link": "https://www.dw.com/en/eritrea-urges-un-deterrence-measures-against-ethiopia/a-79629670?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Eritrea has officially requested UN Security Council assistance over the conflict in Tigray. Both Eritrea and Ethiopia accuse each other of fueling regional instability.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump slams Zelenskyy, says Ukraine should elect new president",
+      "link": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "President Trump has criticized Volodymyr Zelenskyy for not making a deal with Russia to end the Ukraine war. Trump also warned Kyiv against targeting Russian oil refineries that will supply the US with diesel fuel.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "&apos;Ragebait&apos; is the 2026 German Youth Word of the Year",
+      "link": "https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Already named the 2025 Oxford Word of the Year, \"rage bait\" has also been widely adopted in German slang.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany sticks to Russia sanctions after Trump diesel deal",
+      "link": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "After Washington announced a sanctions pause on Russian diesel, Germany has said it remains committed to pressuring Moscow and supporting Ukraine. More on DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Operations Plan Germany: How the Bundeswehr trains for NATO collective defense",
+      "link": "https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "How prepared is Germany for national defense? The answer lies in the Operations Plan Germany. Military exercises such as \"Red Storm Charlie\" are designed to put these preparations to the test in realistic scenarios.",
       "tier": 2
     },
     {
@@ -532,62 +588,6 @@
       "link": "https://www.dw.com/en/strong-earthquakes-shake-panama-buildings-damaged/a-79623168?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Panama&apos;s president has declared a \"major disaster\" after a series of tremors damaged buildings, briefly suspended flights and triggered a tsunami alert in Central and South America.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UAE: Omani Flydubai co-pilot planned suicide attack",
-      "link": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A Flydubai co-pilot planned to crash a Dubai-Tel Aviv flight into the terminal at Israel&apos;s Ben Gurion Airport, according to a UAE official.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "China, EU reach deal to &apos;moderate&apos; China&apos;s car exports to EU",
-      "link": "https://www.dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "An agreement between the EU and China would reduce exports of Chinese electric and plug-in hybrid cars to the 27-member European bloc by up to 50%, according to the EU trade envoy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Brussels: Rioters clash with police at anti-austerity rally",
-      "link": "https://www.dw.com/en/brussels-rioters-clash-with-police-at-anti-austerity-rally/a-79620594?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Violent rioters, many of whom were masked, confronted police at the edge of an anti-austerity march in Brussels. Police responded with water cannons and tear gas.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Eritrean troops in Ethiopia raise fears of a regional war",
-      "link": "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ethiopia and Eritrea are trading blame for confrontations in Tigray amid international calls for restraint. Their respective allies have the potential to catapult the conflict into a regional war.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Macron and Steinmeier struggle to revive Franco-German ties",
-      "link": "https://www.dw.com/en/macron-and-steinmeier-struggle-to-revive-franco-german-ties/a-79618635?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Presidents Frank-Walter Steinmeier and Emmanuel Macron are about to step down from their offices. Their meeting in France made it clear how urgently the Franco-German partnership needs new momentum.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Author or artificial intelligence? Literature in crisis",
-      "link": "https://www.dw.com/en/author-or-artificial-intelligence-literature-in-crisis/a-79618610?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "AI is a hot topic at this year&apos;s Frankfurt Book Fair. An international literary scandal has raised questions about machine-generated texts.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US imposes sanctions aiming to &apos;dismantle&apos; International Criminal Court",
-      "link": "https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US has announced new sanctions on the International Criminal Court. It&apos;s the latest in a series of steps by the Donald Trump administration as it seeks to \"dismantle\" the intergovernmental organization.",
       "tier": 2
     }
   ]
