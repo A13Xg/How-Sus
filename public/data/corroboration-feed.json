@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:45:50.937Z",
+  "generatedAt": "2026-10-20T01:02:00.822Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,34 +32,82 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 09:24:33 GMT",
-      "snippet": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 21:14:53 GMT",
+      "snippet": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 20:49:00 GMT",
+      "snippet": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
       "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 10:33:12 GMT",
-      "snippet": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
+      "publishedAt": "Mon, 19 Oct 2026 17:18:04 GMT",
+      "snippet": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 06:00:18 GMT",
-      "snippet": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 21:02:33 GMT",
+      "snippet": "The two top tennis pros married in 2021 and have one child together.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 23:20:15 GMT",
-      "snippet": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 23:08:25 GMT",
+      "snippet": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 21:12:30 GMT",
+      "snippet": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Exiled critic of Rwandan president found beheaded",
+      "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 13:42:41 GMT",
+      "snippet": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 16:20:51 GMT",
+      "snippet": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
+      "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 14:13:18 GMT",
+      "snippet": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 16:16:51 GMT",
+      "snippet": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
       "tier": 1
     },
     {
@@ -72,18 +120,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Italian PM Meloni to hold emergency meeting after weekend of violent clashes",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 11:23:36 GMT",
-      "snippet": "More than 200 people were detained during two days of rioting in the city, Italian media reports.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 08:17:19 GMT",
-      "snippet": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 18:22:48 GMT",
+      "snippet": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
       "tier": 1
     },
     {
@@ -96,10 +136,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 09:40:44 GMT",
-      "snippet": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "title": "Catalonia's former rebel president can return to Spain, court rules",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 14:06:53 GMT",
+      "snippet": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Italy plans tougher security measures after violent protests",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 11:23:36 GMT",
+      "snippet": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 23:20:15 GMT",
+      "snippet": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 08:17:19 GMT",
+      "snippet": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
       "tier": 1
     },
     {
@@ -112,82 +176,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-      "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 06:29:55 GMT",
-      "snippet": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 16:32:47 GMT",
+      "snippet": "In the apparent attack on MP Helen Haines, the worst fears of politicians and public figures appear to have been realised.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 23:28:45 GMT",
-      "snippet": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 19 Oct 2026 23:30:03 GMT",
+      "snippet": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Musk and Anthropic pledge public share giveaways",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 09:38:25 GMT",
-      "snippet": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+      "source": "NPR News",
+      "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+      "link": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
+      "publishedAt": "Mon, 19 Oct 2026 17:56:37 -0400",
+      "snippet": "The Trump administration wants to turn a historic public golf course into championship links. Despite a judge&apos;s order, hundreds of trees were cut down to make way for the renovation.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Australian Greens senator denies claims of misconduct towards women",
-      "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 04:54:25 GMT",
-      "snippet": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
-      "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 07:46:54 GMT",
-      "snippet": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 19 Oct 2026 00:06:25 GMT",
-      "snippet": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 05:04:31 GMT",
-      "snippet": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 22:09:50 GMT",
-      "snippet": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "The uncertain future of Canada's 30 rescued belugas",
-      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 01:18:08 GMT",
-      "snippet": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 21:00:22 GMT",
-      "snippet": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+      "source": "NPR News",
+      "title": "Schools struggle to measure how much AI experiments are helping",
+      "link": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
+      "publishedAt": "Mon, 19 Oct 2026 16:59:57 -0400",
+      "snippet": "Schools are experimenting with AI, and a lot of them are encountering the same problem: It&apos;s hard to measure whether the technology is good or bad for students.",
       "tier": 1
     },
     {
@@ -255,179 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-      "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
-      "publishedAt": "Mon, 19 Oct 2026 01:35:39 -0400",
-      "snippet": "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\"",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Trump to close and renovate D.C. golf course, despite legal battle",
-      "link": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle",
-      "publishedAt": "Sun, 18 Oct 2026 22:09:43 -0400",
-      "snippet": "President Trump continues his efforts to remake Washington, D.C. He wants to turn an area used by the public into a world-class golf course.",
+      "source": "PBS Headlines",
+      "title": "Trump escalates clash with Zelenskyy as Russia continues deadly attacks on Ukraine",
+      "link": "https://www.pbs.org/newshour/show/trump-escalates-clash-with-zelenskyy-as-russia-continues-deadly-attacks-on-ukraine",
+      "publishedAt": "Mon, 19 Oct 2026 18:55:00 -0400",
+      "snippet": "The war of words between President Trump and Ukraine's Volodymyr Zelenskyy reached another fever pitch on Monday. Trump again excoriated the embattled Ukrainian leader, putting more pressure on Zelenskyy than on the man in Moscow who started this war, Vladimir Putin. The presiden",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again",
-      "link": "https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-got-no-early-warning-from-partners-as-russia-hits-the-power-grid-again",
-      "publishedAt": "Mon, 19 Oct 2026 08:25:53 -0400",
-      "snippet": "Ukrainian President Volodymyr Zelenskyy is grappling with the implications of recent Washington moves benefiting Russian President Vladimir Putin, including waiving U.S. sanctions on Moscow and signing a deal to import Russian diesel.",
+      "title": "U.S. must put pressure on Russia so Putin ends the war, Ukrainian official says",
+      "link": "https://www.pbs.org/newshour/show/u-s-must-put-pressure-on-russia-so-putin-ends-the-war-ukrainian-official-says",
+      "publishedAt": "Mon, 19 Oct 2026 18:50:35 -0400",
+      "snippet": "As Ukraine and Russia trade attacks, President Trump has exempted Russia from sanctions, widening his rift with Ukrainian President Zelenskyy. To discuss the latest developments, Geoff Bennett spoke with Denys Sienik, Ukraine's Deputy Ambassador to the U.S.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "French Prime Minister Lecornu calls for localized curfews in cities to curb rioting and looting",
-      "link": "https://www.pbs.org/newshour/world/french-prime-minister-lecornu-calls-for-localized-curfews-in-cities-to-curb-rioting-and-looting",
-      "publishedAt": "Mon, 19 Oct 2026 08:07:59 -0400",
-      "snippet": "On Sunday evening, groups of people set fires to trash bins, bicycles and other objects in the streets and looted businesses in Paris, Lyon, Marseille and other cities, a day after major violence erupted Saturday during nationwide protests against rising living costs and poor con",
+      "title": "French authorities impose curfews after weekend rioting",
+      "link": "https://www.pbs.org/newshour/show/french-authorities-impose-curfews-after-weekend-rioting",
+      "publishedAt": "Mon, 19 Oct 2026 18:45:22 -0400",
+      "snippet": "Curfews are in effect in parts of Paris and other French cities as authorities try to restore order following widespread rioting this weekend. Government officials have acknowledged \"failures\" in their handling of the unrest and say an investigation is underway to track down thos",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Australian lawmaker critically injured by car is 'no accident,' prime minister says",
-      "link": "https://www.pbs.org/newshour/world/australian-lawmaker-critically-injured-by-car-is-no-accident-prime-minister-says",
-      "publishedAt": "Mon, 19 Oct 2026 07:45:04 -0400",
-      "snippet": "Helen Haines, 65, was struck by a Toyota Land Cruiser SUV outside her electoral district office mid afternoon in the city of Wangaratta in Victoria state, a police said.",
+      "title": "News Wrap: Federal judge clashes with DOJ over D.C. golf course",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-federal-judge-clashes-with-doj-over-d-c-golf-course",
+      "publishedAt": "Mon, 19 Oct 2026 18:40:37 -0400",
+      "snippet": "In our news wrap Monday, a federal judge clashed with Justice Department lawyers in the latest legal standoff over the fate of a Washington, D.C. golf course, the Supreme Court will review a Reconstruction-era ban on home distilleries and Israeli authorities say they've arrested ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Criminal networks threaten the Amazon. Indigenous leaders want the UN to act",
-      "link": "https://www.pbs.org/newshour/world/criminal-networks-threaten-the-amazon-indigenous-leaders-want-the-un-to-act",
-      "publishedAt": "Sun, 18 Oct 2026 17:40:14 -0400",
-      "snippet": "More than a dozen Indigenous representatives from Peru, Brazil, Colombia and Ecuador are participating in the Oct. 19-23 U.N. conference on transnational organized crime, known as COP13.",
+      "title": "Ohio becomes midterm battleground after years of Republican wins",
+      "link": "https://www.pbs.org/newshour/show/ohio-becomes-midterm-battleground-after-years-of-republican-wins",
+      "publishedAt": "Mon, 19 Oct 2026 18:35:56 -0400",
+      "snippet": "In recent presidential elections, Ohio has become a reliably Republican state. But in this year's midterms, it's once again a battleground. The races for governor and U.S. Senate are both seen as toss-ups by The Cook Political Report, and there are a handful of competitive House ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Latino voters helped put Trump back in the White House. What's their next move?",
-      "link": "https://www.pbs.org/newshour/politics/latino-voters-helped-put-trump-back-in-the-white-house-whats-their-next-move",
-      "publishedAt": "Sun, 18 Oct 2026 16:46:52 -0400",
-      "snippet": "The path to a U.S. House majority runs through heavily Latino districts in states such as Arizona, Colorado and Texas, where Democrats are counting on disaffected Trump supporters to swing back their way.",
+      "title": "Tamara Keith and Carrie Dann on Trump's approval rating hitting a record low",
+      "link": "https://www.pbs.org/newshour/show/tamara-keith-and-carrie-dann-on-trumps-approval-rating-hitting-a-record-low",
+      "publishedAt": "Mon, 19 Oct 2026 18:30:45 -0400",
+      "snippet": "NPR's Tamara Keith and Carrie Dann of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including a new poll putting President Trump's approval rating at a record low, the amount of money being spent on Senate races, Trump escalati",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Rubio heads to Central Asia as some wonder if he's keeping the most pressing matters at a distance",
-      "link": "https://www.pbs.org/newshour/politics/rubio-heads-to-central-asia-as-some-wonder-if-hes-keeping-the-most-pressing-matters-at-a-distance",
-      "publishedAt": "Sun, 18 Oct 2026 15:49:23 -0400",
-      "snippet": "This tour is intended to promote U.S. economic and security ties with Central and South Asia. But it has only tangential links to the Trump administration's current main foreign policy dilemmas in the Middle East and with the Russia-Ukraine war.",
+      "title": "Electric aviation takes off as companies seek new era of flight",
+      "link": "https://www.pbs.org/newshour/show/electric-aviation-takes-off-as-companies-seek-new-era-of-flight",
+      "publishedAt": "Mon, 19 Oct 2026 18:25:57 -0400",
+      "snippet": "Electric aviation is still in the very early stages of its development. But a number of companies are moving forward with more ambitious plans. In contrast to its approach with other forms of electric transportation, the Trump administration seems willing to embrace a bigger roll",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Egypt's top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
-      "link": "https://www.pbs.org/newshour/world/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks",
-      "publishedAt": "Sun, 18 Oct 2026 15:22:43 -0400",
-      "snippet": "The Houthis have repeatedly attacked airports and oil infrastructure across the kingdom with drones and missiles that can change direction during flight, posing a challenge to interceptors.",
+      "title": "Arthur Jafa explores complexities of Black American life in new exhibition",
+      "link": "https://www.pbs.org/newshour/show/arthur-jafa-explores-complexities-of-black-american-life-in-new-exhibition",
+      "publishedAt": "Mon, 19 Oct 2026 18:20:52 -0400",
+      "snippet": "As cultural institutions across the country face growing pressure to avoid issues of race, a major new exhibition is confronting them head-on. The work of artist Arthur Jafa spans two floors of New York's New Museum in his largest exhibition to date. Senior arts correspondent Jef",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests",
-      "link": "https://www.pbs.org/newshour/world/frances-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic",
-      "publishedAt": "Sun, 18 Oct 2026 15:00:06 -0400",
-      "snippet": "\"Those who looted will have to pay back for the damage, and those who sought to bring down the Republic will be held accountable,\" Macron said in a televised address to the nation.",
+      "title": "Remembering Ann Hornaday, film critic and News Hour regular",
+      "link": "https://www.pbs.org/newshour/show/remembering-ann-hornaday-film-critic-and-news-hour-regular",
+      "publishedAt": "Mon, 19 Oct 2026 18:20:31 -0400",
+      "snippet": "Film critic Ann Hornaday has died. As chief film critic for The Washington Post, she was a respected and passionate voice in the world of cinema. She was also a longtime regular on the News Hour, sharing her love of film with our viewers. Senior arts correspondent Jeffrey Brown h",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Jackson doesn't regret telling Collins to 'shut up' after protester interrupted Maine Senate debate",
-      "link": "https://www.pbs.org/newshour/politics/jackson-doesnt-regret-telling-collins-to-shut-up-after-protester-interrupted-maine-senate-debate",
-      "publishedAt": "Sun, 18 Oct 2026 14:01:07 -0400",
-      "snippet": "\"She said that it was a Troy supporter. She accused me of setting that up. I had no idea who it was,\" Jackson said.",
+      "title": "Minnesota teen accused of plotting terror attack at Mall of America to remain jailed",
+      "link": "https://www.pbs.org/newshour/nation/minnesota-teen-accused-of-plotting-terror-attack-at-mall-of-america-to-remain-jailed",
+      "publishedAt": "Mon, 19 Oct 2026 18:18:06 -0400",
+      "snippet": "Authorities have said the attack was thwarted by FBI agents after they monitored the 18-year-old for nearly two years and ultimately supplied him with the AK-47 he planned to use.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Photographer attacked by settlers in the West Bank feels insulted by Netanyahu",
-      "link": "https://www.pbs.org/newshour/world/photographer-attacked-by-settlers-in-the-west-bank-feels-insulted-by-netanyahu",
-      "publishedAt": "Sun, 18 Oct 2026 13:13:24 -0400",
-      "snippet": "The attack on Heidi Levine and Palestinians during the sensitive olive harvest again highlights the rampant settler violence that Prime Minister Benjamin Netanyahu has blamed on a small number of troublemakers.",
+      "title": "On 'Settle In,' Kathryn Jezer-Morton and Geoff Bennett discuss social media's impact",
+      "link": "https://www.pbs.org/newshour/show/on-settle-in-kathryn-jezer-morton-and-geoff-bennett-discuss-social-media-s-impact",
+      "publishedAt": "Mon, 19 Oct 2026 18:15:00 -0400",
+      "snippet": "Social media lets us share our lives with family, friends, and strangers. But how do people decide what to post, what to leave out, and what do those decisions say about them? On \"Settle In,\" Geoff Bennett discusses that with Kathryn Jezer-Morton, author of \"The Story of Your Lif",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump says he will close historic D.C. golf course for 15 months of renovations",
-      "link": "https://www.pbs.org/newshour/politics/trump-says-he-will-close-historic-d-c-golf-course-for-15-months-of-renovations",
-      "publishedAt": "Sun, 18 Oct 2026 12:46:41 -0400",
-      "snippet": "A judge last week, however, ordered a halt to his redevelopment plans until at least Oct. 26 after scolding the government for starting a large-scale tree removal at the course over a holiday weekend while providing little notice to the court or the plaintiffs trying to stop the ",
+      "title": "Mississippi attorney general says officer's force was justified in death of 1-year-old Kohen Wiley",
+      "link": "https://www.pbs.org/newshour/nation/mississippi-attorney-general-says-officers-force-was-justified-in-death-of-1-year-old-kohen-wiley",
+      "publishedAt": "Mon, 19 Oct 2026 18:10:32 -0400",
+      "snippet": "Mississippi's attorney general says a Senatobia officer was justified in using force when he responded to a shoplifting call and fired at a moving vehicle that investigators said was driving toward police, killing a boy who was in the car.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery",
-      "link": "https://www.pbs.org/newshour/world/pope-leo-tells-faithful-in-st-peters-square-he-will-gradually-resume-duties-after-cancer-surgery",
-      "publishedAt": "Sun, 18 Oct 2026 12:34:03 -0400",
-      "snippet": "\"Now that this delicate phase is behind me, I will gradually resume my activities, always with God's help and your prayers,\" Leo said, his voice sounding strong four days after the lower lobe of his right lung was removed.",
+      "title": "From France to Albania, how social unrest is fueling protests across Europe",
+      "link": "https://www.pbs.org/newshour/world/from-france-to-albania-how-social-unrest-is-fueling-protests-across-europe",
+      "publishedAt": "Mon, 19 Oct 2026 18:00:53 -0400",
+      "snippet": "Rising food and fuel prices, a lack of funding for education, the state of public services, and access to housing have created the perfect breeding ground for a fall of protests across Europe.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-      "link": "https://www.pbs.org/newshour/politics/trump-endorses-embattled-israeli-prime-minister-benjamin-netanyahu-for-reelection",
-      "publishedAt": "Sun, 18 Oct 2026 12:18:14 -0400",
-      "snippet": "Israelis are set to vote Oct. 27, in the first national elections since Hamas attacked Israel on Oct. 7, 2023.",
+      "title": "Activist Mahmoud Khalil asks Supreme Court to let judges quickly reverse immigration detentions",
+      "link": "https://www.pbs.org/newshour/politics/activist-mahmoud-khalil-asks-supreme-court-to-let-judges-quickly-reverse-immigration-detentions",
+      "publishedAt": "Mon, 19 Oct 2026 17:42:41 -0400",
+      "snippet": "Khalil, a lawful permanent U.S. resident, was detained by immigration authorities last year because of his participation in pro-Palestinian demonstrations at Columbia University in the spring of 2024.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-      "link": "https://www.pbs.org/newshour/politics/vance-faces-tough-questions-on-iran-war-immigration-and-more-in-cbs-town-hall",
-      "publishedAt": "Sun, 18 Oct 2026 11:25:44 -0400",
-      "snippet": "The string of sharp queries, some from voters who said they had supported him and President Donald Trump, previewed the rocky path Vance may face trying to answer for the administration's record if he runs for president himself in 2028.",
+      "title": "Japan launches spacecraft to Mars' moon in mission to bring back soil samples",
+      "link": "https://www.pbs.org/newshour/science/japan-launches-spacecraft-to-mars-moon-in-mission-to-bring-back-soil-samples",
+      "publishedAt": "Mon, 19 Oct 2026 16:54:50 -0400",
+      "snippet": "Five of the world's space agencies have joined forces for the five-year mission that will attempt to land a robotic prospector plus a rover on Phobos, the larger of Mars' two moons.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
-      "link": "https://www.pbs.org/newshour/world/major-fire-breaks-out-in-alberta-after-deadly-incident-at-canadian-military-base",
-      "publishedAt": "Sun, 18 Oct 2026 11:16:06 -0400",
-      "snippet": "Fire crews scrambled late Saturday as fierce winds whipped flames beyond Canadian Forces Base Wainwright and into the surrounding rural area.",
+      "title": "Ex-OpenAI worker accused of bugging conference room planned to fly to Saudi Arabia, prosecutors say",
+      "link": "https://www.pbs.org/newshour/world/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say",
+      "publishedAt": "Mon, 19 Oct 2026 16:35:15 -0400",
+      "snippet": "Prosecutors have not said what Abdulrahman Alfozan, a 35-year-old Saudi national, might have wanted to do with the recordings, but say he was in \"frequent communication\" with a member of the Saudi royal family.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "The Republican governor candidates walking back some of their abortion stances",
-      "link": "https://www.pbs.org/newshour/politics/the-republican-governor-candidates-walking-back-some-of-their-abortion-stances",
-      "publishedAt": "Sat, 17 Oct 2026 17:23:59 -0400",
-      "snippet": "The candidates' retreat suggests that, even as reproductive rights fade from the national spotlight and polls show voters are far more likely to prioritize cost-of-living concerns, the political ramifications of pushing for new abortion restrictions remain substantial.",
+      "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
+      "link": "https://www.pbs.org/newshour/politics/a-bitter-michigan-senate-race-rattles-jewish-and-muslim-voters-already-on-edge-over-the-war-in-gaza",
+      "publishedAt": "Mon, 19 Oct 2026 16:26:07 -0400",
+      "snippet": "Michigan's closely contested Senate race has become deeply personal for some voters.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
-      "link": "https://www.pbs.org/newshour/world/houthi-strikes-on-saudi-arabia-show-the-yemeni-rebels-growing-strength",
-      "publishedAt": "Sat, 17 Oct 2026 17:04:33 -0400",
-      "snippet": "At various times over the last decade, Saudi Arabia, the United Arab Emirates, the United States, Britain and Israel have carried out punishing air raids on the rebels — only to see them grow even stronger.",
+      "title": "Homeland Security grants temporary deportation reprieve for more than 100,000 Ukrainians and Sudanese",
+      "link": "https://www.pbs.org/newshour/world/homeland-security-grants-temporary-deportation-reprieve-for-more-than-100000-ukrainians-and-sudanese",
+      "publishedAt": "Mon, 19 Oct 2026 15:56:50 -0400",
+      "snippet": "This decision comes as activists and lawmakers argue there are no safe conditions for Ukrainians to return to amid the war with Russia.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Oregon father is the latest armed civilian to confront a gunman in a U.S. mass shooting",
-      "link": "https://www.pbs.org/newshour/nation/oregon-father-is-the-latest-armed-civilian-to-confront-a-gunman-in-a-u-s-mass-shooting",
-      "publishedAt": "Sat, 17 Oct 2026 15:07:44 -0400",
-      "snippet": "The heroic \"good guy with a gun\" who can stop an attack even before law enforcement can arrive has long been a rallying cry by gun rights advocates, arguing that armed citizens can act as a first line of self-defense and public protection.",
+      "title": "AP source: Eagles QB Jalen Hurts expected to miss rest of season after blood clots found in lungs and leg",
+      "link": "https://www.pbs.org/newshour/nation/ap-source-eagles-qb-jalen-hurts-expected-to-miss-rest-of-season-after-blood-clots-found-in-lungs-and-leg",
+      "publishedAt": "Mon, 19 Oct 2026 15:42:53 -0400",
+      "snippet": "Hurts has deep vein thrombosis and a bilateral pulmonary emboli, meaning a clot has traveled from his legs to his lungs.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "America's politically divided Jewish community braces for Israel's elections",
-      "link": "https://www.pbs.org/newshour/politics/americas-politically-divided-jewish-community-braces-for-israels-elections",
-      "publishedAt": "Sat, 17 Oct 2026 14:41:18 -0400",
-      "snippet": "Netanyahu's supporters, especially among Orthodox Jews, believe he's protecting a country they love as central to their identity. Many liberal and younger Jewish Americans believe his policies have harmed Israel's global standing.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms",
-      "link": "https://www.pbs.org/newshour/nation/no-kings-rallies-across-u-s-urge-voters-to-cast-ballots-early-ahead-of-midterms",
-      "publishedAt": "Sat, 17 Oct 2026 14:26:29 -0400",
-      "snippet": "The hundreds of planned events were being billed as nonpartisan, though they sought to build on nearly two years' worth of No Kings marches and demonstrations by people upset with Trump's presidency.",
+      "title": "Longtime CNN anchor Christiane Amanpour leaving network after a storied career of 43 years",
+      "link": "https://www.pbs.org/newshour/nation/longtime-cnn-anchor-christiane-amanpour-leaving-network-after-a-storied-career-of-43-years",
+      "publishedAt": "Mon, 19 Oct 2026 15:35:34 -0400",
+      "snippet": "Amanpour's exit coincides with a new era at CNN as it comes under new owner Skydance, after an $81 billion merger that brings CNN and CBS under one roof.",
       "tier": 1
     },
     {
@@ -440,8 +440,72 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "&apos;We don&apos;t have to wait for others to support us&apos;: Myanmar refugees find hope in Thailand&apos;s work program",
-      "link": "https://www.dw.com/en/we-don-t-have-to-wait-for-others-to-support-us-myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-top-1022-rdf",
+      "title": "France: Partial curfews imposed in Paris, Nice after unrest",
+      "link": "https://www.dw.com/en/france-partial-curfews-imposed-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "French authorities imposed curfews in towns and cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+      "link": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A Bulgarian court has issued arrest warrants for two young German nationals suspected of setting fire to Starlink antennas. The case is reminiscent of another in Poland, which Warsaw says was orchestrated by Russia.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Emergency at Leipzig airport sparked by novice driver",
+      "link": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Two men breached a fence at the Leipzig/Halle airport while practicing for a driving test. Meanwhile, German Chancellor Friedrich Merz announced an industrial AI partnership with Nvidia. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Kenya: Cult leader guilty of murdering 190 children, 1 adult",
+      "link": "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Preacher Paul Mackenzie was accused of encouraging his followers to starve themselves to death. He ran a Christian doomsday cult called the Good News International Church that claimed the end of the world was imminent.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Canada: Alberta votes on holding independence referendum",
+      "link": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Canada&apos;s oil-rich western province of Alberta is not deemed likely to vote in favor of a real breakaway plebiscite. Nevertheless the separatist movement hopes to gain leverage over Mark Carney&apos;s government.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
+      "link": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Houthi strike on Yemen government military camp kills at least 50",
+      "link": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Iran-backed group has claimed responsibility for the attack which killed new recruits at a military camp. The strikes follow deadly attacks over the weekend blamed on Saudi-led forces.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Rubio visits India with a trip to the world&apos;s largest oil refinery topping the agenda",
+      "link": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A visit to India this week by Washington&apos;s top diplomat will skip New Delhi and instead include the world&apos;s largest oil refinery, which processes massive amounts of Russian crude. Is Trump looking for a new deal?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Myanmar refugees find hope in Thailand&apos;s work program",
+      "link": "https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program&apos;s first year has exposed significant shortcomings.",
       "tier": 2
@@ -512,18 +576,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Berlin conference seeks to drum up investment",
-      "link": "https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The \"Invest in Germany Summit\" is set to kick off in Berlin as the government looks to fill gaps in public funding. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "India news: CJP alleges &apos;deliberate&apos; delay in leaders&apos; release",
       "link": "https://www.dw.com/en/india-news-cjp-alleges-deliberate-delay-in-leaders-release/live-79695410?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "CJP leaders Saurav Das and Ashutosh Ranka were due to be released on Sunday. The judge in the case has recused himself after claiming that he was threatened. DW has more.",
+      "snippet": "CJP leaders Saurav Das and Ashutosh Ranka were due to be released on Sunday. The judge in the case has recused himself after claiming that he was threatened.",
       "tier": 2
     },
     {
@@ -532,62 +588,6 @@
       "link": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The candidates traded barbs, including over Bolsonaro&apos;s ties to US President Donald Trump in their first debate, days before the October 25 election runoff.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Emmanuel Macron slams &apos;failures&apos; over protest unrest in France but refuses his interior minister&apos;s resignation",
-      "link": "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "France&apos;s president has refused the resignation of his interior minister, who says police \"lost control\" during protests that turned violent at the weekend. France&apos;s PM has called for limited curfews around the country.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "What Earth&apos;s sixth mass extinction event means for humans",
-      "link": "https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Human activity is driving plants and animals to extinction at an unprecedented rate. As countries meet in Armenia to discuss ways to reverse nature loss, DW reveals how declining biodiversity is already harming people.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Austrian Airlines flight from Tel Aviv makes emergency landing after bomb threat",
-      "link": "https://www.dw.com/en/austrian-airlines-flight-from-tel-aviv-makes-emergency-landing-after-bomb-threat/a-79695070?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "An Austrian Airlines flight from Tel Aviv to Vienna made an emergency landing in Bulgaria after a bomb threat was reported near the Bulgarian-Romanian border. A MiG-29 fighter jet escorted the plane.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump defends Russia sanctions waivers, accuses Zelenskyy of &apos;prolonging war&apos;",
-      "link": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US president again accused his Ukrainian counterpart Volodymyr Zelenskyy of not wanting to end the war. The remarks come amid renewed tensions over US policy toward Moscow, including waiving some sanctions.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition",
-      "link": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Canadian Prime Minister Mark Carney says a \"serious incident\" sparked a major fire at on Alberta military base. Four people have died, 39 are in hospital and at least 19 are in critical condition.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
-      "link": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A senior health official in Kenya said there have now been eight Ebola infections in the country, while in DR Congo the disease has spread to an eighth province.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Albania&apos;s Prime Minister Edi Rama ignores calls to resign amid violent clashes",
-      "link": "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Anti-government protesters continued calls for Edi Rama to step down as violent clashes between demonstrators and police persisted.",
       "tier": 2
     }
   ]
