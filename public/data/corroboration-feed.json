@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T01:04:01.597Z",
+  "generatedAt": "2026-10-23T12:42:32.972Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,18 +32,82 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 11:01:08 GMT",
+      "snippet": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 10:26:06 GMT",
+      "snippet": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 08:45:58 GMT",
+      "snippet": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "At least one dead and four injured in Paris suburb shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 12:06:50 GMT",
+      "snippet": "Anti-terrorism police have taken up the investigation into the incident in Trappes, to the west of Paris.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 10:14:37 GMT",
+      "snippet": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Denmark to ban mink farming in government U-turn",
+      "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 12:17:45 GMT",
+      "snippet": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 10:14:33 GMT",
+      "snippet": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 05:16:37 GMT",
+      "snippet": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 23:16:16 GMT",
+      "publishedAt": "Fri, 23 Oct 2026 10:23:07 GMT",
       "snippet": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 21:42:39 GMT",
-      "snippet": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 01:38:44 GMT",
+      "snippet": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
       "tier": 1
     },
     {
@@ -56,18 +120,10 @@
     },
     {
       "source": "BBC World",
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 22:27:53 GMT",
-      "snippet": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 00:10:46 GMT",
-      "snippet": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "title": "Malawi opposition demands answers over president's prolonged stay abroad",
+      "link": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 10:36:01 GMT",
+      "snippet": "This is President Peter Mutharika's fifth visit to South Africa this year.",
       "tier": 1
     },
     {
@@ -80,6 +136,14 @@
     },
     {
       "source": "BBC World",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 22:27:53 GMT",
+      "snippet": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Crowd of 50 beats foreigner to death in South Africa",
       "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 22 Oct 2026 16:15:25 GMT",
@@ -88,186 +152,122 @@
     },
     {
       "source": "BBC World",
-      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 17:07:03 GMT",
-      "snippet": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+      "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 11:30:32 GMT",
+      "snippet": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. BBC Africa correspondent Barbara Plett Usher explains.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "At least four dead after storm brings flooding to southern France",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 11:23:16 GMT",
-      "snippet": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+      "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 05:05:03 GMT",
+      "snippet": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 17:01:47 GMT",
-      "snippet": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies.",
+      "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+      "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 20:48:56 GMT",
+      "snippet": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 19:25:26 GMT",
-      "snippet": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+      "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 17:49:13 GMT",
+      "snippet": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 14:09:54 GMT",
-      "snippet": "The teacher said she could not help children because she was badly injured by the attacker.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 19:27:57 GMT",
-      "snippet": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 18:26:56 GMT",
-      "snippet": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 17:21:42 GMT",
-      "snippet": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 09:47:54 GMT",
-      "snippet": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 13:46:33 GMT",
-      "snippet": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
-      "link": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 13:36:21 GMT",
-      "snippet": "The congresswoman said federal agents seized over a dozen items, including cell phones and notebooks, as part of a federal investigation.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 14:08:10 GMT",
-      "snippet": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 22 Oct 2026 10:16:35 GMT",
-      "snippet": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+      "title": "Damaging hail pelts Phoenix in rare storm",
+      "link": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 15:11:49 GMT",
+      "snippet": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
-      "link": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
-      "publishedAt": "Thu, 22 Oct 2026 16:12:52 -0400",
-      "snippet": "Skerritt was Captain Dallas in Alien , Viper in Top Gun , and a small town sheriff in the TV series Picket Fences .",
+      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+      "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+      "publishedAt": "Fri, 23 Oct 2026 07:22:25 -0400",
+      "snippet": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
-      "publishedAt": "Thu, 22 Oct 2026 15:16:20 -0400",
-      "snippet": "The judge found the department&apos;s field operations to identify noncitizens who voted likely violated the Voting Rights Act, which bars voter intimidation.",
+      "title": "Why Meta is charging to post more hyperlinks",
+      "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
+      "publishedAt": "Fri, 23 Oct 2026 07:00:00 -0400",
+      "snippet": "Social media sites aren&apos;t the biggest fans of people leaving via hyperlinks. In fact, Meta has made it subscription-worthy for a Facebook Page to post more than two hyperlinks per month. What&apos;s the rationale for companies want to keep you on their site?",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-      "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
-      "publishedAt": "Thu, 22 Oct 2026 09:50:55 -0400",
-      "snippet": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.",
+      "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+      "publishedAt": "Fri, 23 Oct 2026 05:40:32 -0400",
+      "snippet": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were injured, including some critically.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-      "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-      "publishedAt": "Thu, 22 Oct 2026 07:28:24 -0400",
-      "snippet": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
+      "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+      "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
+      "publishedAt": "Fri, 23 Oct 2026 05:37:38 -0400",
+      "snippet": "Governments around the world are rushing to implement safety measures after AI technology found &apos;severe&apos; vulnerabilities in a key programming language called PHP.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Achy from sitting at a desk all day? Try doing this",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
-      "publishedAt": "Thu, 22 Oct 2026 05:01:00 -0400",
-      "snippet": "Sitting at a desk all day hurts. And it isn&apos;t good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
+      "title": "What if you gave yourself a day to cancel all the plans you dread?",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
+      "publishedAt": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "snippet": "It&apos;s a day to think about all the upcoming appointments and commitments you&apos;re dreading — and then decline some of them. Writer Caroline Sylge shares a suggested schedule for the day.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
-      "publishedAt": "Thu, 22 Oct 2026 05:00:00 -0400",
-      "snippet": "Republican U.S. Rep. David Valadao is fighting for reelection in central California. 6 in 10 residents of his district are covered by Medicaid, which he voted to cut last year.",
+      "title": "Amid Trump&apos;s assaults on DEI, how one university is elevating Black students",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
+      "publishedAt": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "snippet": "As many colleges roll back or eliminate such programs, Sacramento State has expanded its offerings for students of color.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trump&apos;s redistricting gave Republicans a head start, now it goes to the voters",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
-      "publishedAt": "Thu, 22 Oct 2026 05:00:00 -0400",
-      "snippet": "President Trump, seeking to reshape the voting map, prompted a rare wave of mid-decade redistricting that gave Republicans a boost for holding the House. But the voters will determine if it works.",
+      "title": "With jet fuel prices near a record, holiday airfares soar higher",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
+      "publishedAt": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "snippet": "If you&apos;re planning to fly this holiday season, be prepared to pay more than you did last year. The price of jet fuel — one of airlines&apos; biggest expenses — is close to an all-time high in the U.S.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Trump merchandise stores are closing: &apos;He has peaked&apos;",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
-      "publishedAt": "Thu, 22 Oct 2026 05:00:00 -0400",
-      "snippet": "At least four Trump merchandise stores have closed this year. Store owners say with Trump in his final term, there isn&apos;t as much to fire up his consumer fan base and sales have softened.",
+      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi&apos;s son hears her voice",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+      "publishedAt": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "snippet": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "See how Big Tech is transforming Spain&apos;s landscape",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
-      "publishedAt": "Thu, 22 Oct 2026 05:00:00 -0400",
-      "snippet": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
+      "title": "Brazil&apos;s runoff: Lula&apos;s legacy vs. Bolsonaro&apos;s dynasty",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "publishedAt": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "snippet": "Brazil&apos;s tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country&apos;s political future.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Farm country has beef with Trump as midterms approach",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
-      "publishedAt": "Thu, 22 Oct 2026 05:00:00 -0400",
-      "snippet": "President Trump&apos;s attempts to bring beef prices down has potentially backfired politically in several key states.",
+      "title": "Gen Z is &apos;in the thick&apos; of high housing costs. These candidates aim to solve it",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
+      "publishedAt": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "snippet": "Young candidates who rent or live with parents say their generation is \"in the thick\" of the country&apos;s housing affordability crisis. They argue this gives them new energy to solve it for everyone.",
       "tier": 1
     },
     {
@@ -440,6 +440,126 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+      "link": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "After two years of protests, Serbia faces a pivotal election on Sunday, with a student-led challenge to Aleksandar Vucic&apos;s lengthy rule. Allegations of electoral irregularities and fears of a post-election crisis abound.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "France: 1 killed, 4 wounded after shooting near Paris",
+      "link": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "French police have arrested a suspect after gunshots were fired in a town in the suburbs of Paris on Friday. Police are investigating a possible racist motivation.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
+      "link": "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The death of what was thought to be Sri Lanka’s largest elephant has drawn attention to human-elephant conflict in rural communities. The island country sees a high number of deadly encounters.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
+      "link": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Greece has passed legislation banning social media access for children under 15. New rules will come into effect on January 1, 2027, and are designed to protect children&apos;s mental health.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Wadephul says &apos;threat of famine&apos; due to ongoing wars",
+      "link": "https://www.dw.com/en/germany-news-wadephul-says-threat-of-famine-due-to-ongoing-wars/live-79738902?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "German Foreign Minister Johann Wadephul is joining counterparts in Turkey for discussions on a range of interlinked geopolitical crises. Back in Germany, the Bavarian CSU party begins its two-day conference in Munich.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Israel preparing &apos;full closure&apos; of West Bank, Netanyahu says",
+      "link": "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Prime Minister Benjamin Netanyahu said Israel is shutting down the occupied West Bank after having prevented a \"major attack.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "South Korea proposes military talks with North again",
+      "link": "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "South Korea is attempting to mutually determine the land border with North Korea amid military incidents and escalating tensions.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany sit out FIFA Under-15 World Cup as Russia return",
+      "link": "https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany is one a handful of FIFA&apos;s 211 nations to refuse an invitation to play at the inaugural Under-15 World Cup. The tournament will also mark Russia&apos;s return to the FIFA fold.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Taiwan braces as El Nino-supercharged Typhoon Champi approaches island",
+      "link": "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "One person has died and thousands have been evacuated as Taiwan prepares for a possible direct hit. Though no longer a \"super\" typhoon, Champi is still packing winds of nearly 200 kmh and will bring torrential rain.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Musk&apos;s Starshield system &apos;back&apos; in Ukraine, says Trump",
+      "link": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US President Trump has said he wouldn&apos;t comment on who called for capping Ukraine&apos;s Starshield access but added that Elon Musk had \"put it back.\" His account was rejected by Ukraine, which says nothing has changed.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Embarrassing name? How we live with names we don&apos;t like",
+      "link": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Names are central to our identity, so what happens when that name is a source of ridicule? Research points to negative life outcomes, but some people learn to embrace unfortunate names.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Protesters march to Election Commission demanding CEC Gyanesh Kumar&apos;s resignation",
+      "link": "https://www.dw.com/en/india-news-protesters-march-to-election-commission-demanding-cec-gyanesh-kumar-s-resignation/live-79738437?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A coalition of students, farmers and civil society groups have joined calls for Chief Election Commissioner Gyanesh Kumar&apos;s resignation over India&apos;s voter roll revision exercise. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Serbia: Tens of thousands rally ahead of elections",
+      "link": "https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "After two years of student-led protests, Serbia will soon vote in what observers describe as a referendum-like snap election pitting strongman Aleksandar Vucic against the student movement.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Airbnb scraps guest checkout chores such as cleaning",
+      "link": "https://www.dw.com/en/airbnb-scraps-guest-checkout-chores-such-as-cleaning/a-79738340?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Under new rules, guests will no longer have to do tasks that cleaners would normally handle. Hosts can now only make \"reasonable\" requests, such as leaving dirty dishes in the sink and sorting trash from recycling.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
+      "link": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A powerful magnitude 7 earthquake has struck Tibet in southwestern China, official media reported. Chinese state TV said it&apos;s the strongest quake to hit the remote Himalayan region in five years.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Poland: Thousands protest for more abortion rights",
       "link": "https://www.dw.com/en/poland-thousands-protest-for-more-abortion-rights/a-79737572?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -468,126 +588,6 @@
       "link": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Almost all of the world’s shallow-water coral reefs are at risk of collapse by 2075, with climate change the biggest threat. A new study found that 96% of reef systems are critically endangered.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Canada&apos;s Mark Carney visits Turkey to boost trade ties",
-      "link": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "It&apos;s the first bilateral visit by a Canadian prime minister to Turkey. Canada and Turkey upgraded their relations to a \"strategic partnership\" as Canada seeks to diversify trade beyond the US.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "France&apos;s Macron says &apos;illegitimate&apos; protests will be banned in coming days",
-      "link": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "French President Emmanuel Macron vowed to ban unauthorized protests after France was rocked by violence and looting. As anger over public services and the cost of living grows, authorities are bracing for more protests.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Are the French police the most violent in the EU?",
-      "link": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As protests continue in France, the French police are under scrutiny after new allegations of police brutality. The force has a bigger arsenal than most in Europe.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Is Iran ready for another major US attack after midterm elections?",
-      "link": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Iranian officials say the goal is to keep the regime in power and threaten enough regional costs to make a prolonged campaign unattractive. US media reports indicate that Trump is considering strikes after the midterms.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Is EU putting profits over human rights in Vietnam?",
-      "link": "https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The EU and Vietnam are deepening economic and diplomatic ties, but closer cooperation raises concerns about whether Brussels is doing enough to address Hanoi&apos;s human rights record, labor standards and trade imbalances.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Government expecting increased tax revenue in 2027",
-      "link": "https://www.dw.com/en/germany-news-government-expecting-increased-tax-revenue-in-2027/live-79728628?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Finance Minister Lars Klingbeil said state tax revenue will increase by €4 billion in 2027. Meanwhile, public service websites have been coming back online after a PHP security scare.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Gandhi&apos;s nephew forced to pull protest photos",
-      "link": "https://www.dw.com/en/india-news-gandhi-s-nephew-forced-to-pull-protest-photos/live-79727462?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The requested removal of \"objectionable\" photos from a cultural center took place in state run by Modi&apos;s BJP.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "France confirms first Shamonda virus infection in a human death of &apos;severely immunocompromised&apos; individual",
-      "link": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Shamonda virus has been detected in a human for the first time, French health officials said. Authorities see no risk to the public, adding that the victim, who died in early October, was severely immunocompromised.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran&apos;s Balochistan border region sees growing unrest",
-      "link": "https://www.dw.com/en/iran-s-balochistan-border-region-sees-growing-unrest/a-79716399?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Violence is on the rise in Iran&apos;s border region with Afghanistan and Pakistan. The Iran war could shift the strategic balance for militant groups operating in the area.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine: Life near the front line in Sloviansk",
-      "link": "https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As Russian continues to attack Sloviansk in eastern Ukraine, thousands of residents refuse to leave or struggle to find a way out. For many, poverty, family ties and beloved pets make evacuation painfully difficult.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany arrests Ukrainian man suspected of spying for Russia",
-      "link": "https://www.dw.com/en/germany-arrests-ukrainian-man-suspected-of-spying-for-russia/a-79732373?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The suspect is thought to have gathered defense-related information on the production of tanks and munitions, as well as details about NATO&apos;s eastern flank.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU&apos;s Sakharov Prize won by the International Criminal Court",
-      "link": "https://www.dw.com/en/eu-s-sakharov-prize-won-by-the-international-criminal-court/a-79730914?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The EU has announced the International Criminal Court as the winner of this year&apos;s Sakharov Prize. The annual prize is awarded to individuals and organizations for their work in supporting human rights and democracy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Can Germany overhaul its economy before AfD grows stronger?",
-      "link": "https://www.dw.com/en/can-germany-overhaul-its-economy-before-afd-grows-stronger/a-79696102?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Conflicts, rising costs and Chinese competition are testing Germany&apos;s economic model like never before. Which new sectors could revive growth and contain the far-right AfD, whose support has grown larger than ever?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
-      "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Bayern Munich striker Harry Kane is the clear front-runner for football&apos;s most prestigious individual prize, which will be awarded on Monday. Kane has developed even more in the Bundesliga despite an uneven league.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
-      "link": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Bulgaria&apos;s presidential election campaign has been shaped by recent drone attacks on ships in the Black Sea and the government&apos;s reduced support for Ukraine, making foreign policy a key factor in the first round.",
       "tier": 2
     }
   ]
