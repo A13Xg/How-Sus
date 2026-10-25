@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T12:38:42.367Z",
+  "generatedAt": "2026-10-25T01:06:26.032Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,6 +32,14 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 24 Oct 2026 21:09:27 GMT",
+      "snippet": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 24 Oct 2026 12:12:40 GMT",
@@ -40,10 +48,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 24 Oct 2026 23:02:06 GMT",
+      "snippet": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
       "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 11:23:59 GMT",
-      "snippet": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "publishedAt": "Sat, 24 Oct 2026 15:21:44 GMT",
+      "snippet": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
       "tier": 1
     },
     {
@@ -58,16 +74,24 @@
       "source": "BBC World",
       "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
       "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 09:45:47 GMT",
-      "snippet": "The children were subsequently rescued from the water, police say.",
+      "publishedAt": "Sat, 24 Oct 2026 17:11:56 GMT",
+      "snippet": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 23:08:23 GMT",
-      "snippet": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 24 Oct 2026 19:12:51 GMT",
+      "snippet": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 24 Oct 2026 09:38:28 GMT",
+      "snippet": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
       "tier": 1
     },
     {
@@ -88,6 +112,14 @@
     },
     {
       "source": "BBC World",
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 23 Oct 2026 23:08:23 GMT",
+      "snippet": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
       "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 24 Oct 2026 00:36:47 GMT",
@@ -96,10 +128,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "title": "Two rescued after Nairobi building collapse with five still missing",
       "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 24 Oct 2026 09:44:01 GMT",
-      "snippet": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
+      "publishedAt": "Sat, 24 Oct 2026 17:25:46 GMT",
+      "snippet": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
       "tier": 1
     },
     {
@@ -136,14 +168,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 15:37:07 GMT",
-      "snippet": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Argentina drops investigation into President Milei over crypto fraud",
       "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 23 Oct 2026 20:59:39 GMT",
@@ -167,27 +191,35 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 15:30:47 GMT",
-      "snippet": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+      "source": "NPR News",
+      "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
+      "publishedAt": "Sat, 24 Oct 2026 18:47:58 -0400",
+      "snippet": "The 1,300 survivors of sexual abuse by clergy members and lay workers have all agreed to the settlement, according to an attorney for some of the plaintiffs.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Who actually controls Ukraine's access to Starlink?",
-      "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 22:24:36 GMT",
-      "snippet": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
+      "source": "NPR News",
+      "title": "Trade tariffs cause whiplash at Port Milwaukee",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+      "publishedAt": "Sat, 24 Oct 2026 17:20:55 -0400",
+      "snippet": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump&apos;s tariffs have affected the flow of goods and impacted the regional economy.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-      "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 23 Oct 2026 11:30:32 GMT",
-      "snippet": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
+      "source": "NPR News",
+      "title": "How data centers became a bipartisan political issue in Wisconsin",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
+      "publishedAt": "Sat, 24 Oct 2026 17:20:53 -0400",
+      "snippet": "Data centers are a big issue across the country. As midterms approach, many look to the swing state of Wisconsin for lessons for how that issue could play out nationally.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Ukraine says Starlink is back to normal after disruptions",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+      "publishedAt": "Sat, 24 Oct 2026 13:54:25 -0400",
+      "snippet": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.",
       "tier": 1
     },
     {
@@ -239,35 +271,91 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Severe flooding hits Four Corners region, more expected through the weekend",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
-      "publishedAt": "Fri, 23 Oct 2026 20:40:42 -0400",
-      "snippet": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues.",
+      "source": "PBS Headlines",
+      "title": "Trump casts his midterm ballot early in Florida",
+      "link": "https://www.pbs.org/newshour/politics/trump-casts-his-midterm-ballot-early-in-florida",
+      "publishedAt": "Sat, 24 Oct 2026 17:29:15 -0400",
+      "snippet": "Trump has been criticized in the past for voting by mail despite his long history of railing against that method of submitting ballots.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Russia steps up election influence efforts in final stretch of midterms",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
-      "publishedAt": "Fri, 23 Oct 2026 17:40:02 -0400",
-      "snippet": "Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they&apos;ve used to sow distrust and discord in previous elections in the U.S. and around the world.",
+      "source": "PBS Headlines",
+      "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+      "link": "https://www.pbs.org/newshour/world/soldiers-guard-center-of-milan-as-thousands-of-protesters-march-in-cities-across-europe",
+      "publishedAt": "Sat, 24 Oct 2026 15:50:31 -0400",
+      "snippet": "The demonstration in Milan remained peaceful, but there were brief clashes with police in both Rome and Turin.",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "The Pentagon&apos;s guidelines for \"responsible AI\" aren&apos;t always followed, report shows",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
-      "publishedAt": "Fri, 23 Oct 2026 15:31:15 -0400",
-      "snippet": "The Pentagon is building weapons and projects with AI capabilities that officials say don&apos;t always closely adhere to the agency&apos;s own guidelines for AI, according to a congressional watchdog report published in October.",
+      "source": "PBS Headlines",
+      "title": "Republican billionaire Rick Jackson is walking a Trump tightrope in his quest to lead Georgia",
+      "link": "https://www.pbs.org/newshour/politics/republican-billionaire-rick-jackson-is-walking-a-trump-tightrope-in-his-quest-to-lead-georgia",
+      "publishedAt": "Sat, 24 Oct 2026 15:04:00 -0400",
+      "snippet": "Jackson's path differs from Donald Trump's, and the 72-year-old healthcare magnate and investor brings a vastly different persona to his first campaign. Unlike Trump, who was born to wealth, Jackson spent his early years bouncing through foster homes before launching his first co",
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
-      "publishedAt": "Fri, 23 Oct 2026 14:30:00 -0400",
-      "snippet": "Ohio has been a reliably red state for several elections but it&apos;s competitive this year. If Democrats want to prevail, they&apos;ll have to win people who have backed Republicans, like rural voters.",
+      "source": "PBS Headlines",
+      "title": "New York state woman charged with voting illegally says she recently learned she wasn't a citizen",
+      "link": "https://www.pbs.org/newshour/politics/new-york-state-woman-charged-with-voting-illegally-says-she-recently-learned-she-wasnt-a-citizen",
+      "publishedAt": "Sat, 24 Oct 2026 14:07:33 -0400",
+      "snippet": "Marva Cook was adopted as a toddler and had always assumed she was a U.S. citizen, she told Homeland Security investigators earlier this month, according to the criminal complaint.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Six Flags says it will install seat belts on Georgia roller coaster after rider's death",
+      "link": "https://www.pbs.org/newshour/nation/six-flags-says-it-will-install-seat-belts-on-georgia-roller-coaster-after-riders-death",
+      "publishedAt": "Sat, 24 Oct 2026 13:32:10 -0400",
+      "snippet": "The theme park operator announced the extra safeguard less than two weeks after 42-year-old Hassan Jihad Ibn Kariem of Atlanta died after being ejected from his seat on the Goliath coaster at Six Flags Over Georgia.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
+      "link": "https://www.pbs.org/newshour/world/more-than-400000-protest-across-france-challenging-macron-as-paris-clashes-erupt",
+      "publishedAt": "Sat, 24 Oct 2026 12:51:55 -0400",
+      "snippet": "Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs in a fresh challenge to President Emmanuel Macron. Police made nearly 1,000 arrests, the government said.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "What's going on with Dan Sullivan and Dan Sullivan? The Alaska Senate litigation, explained",
+      "link": "https://www.pbs.org/newshour/politics/whats-going-on-with-dan-sullivan-and-dan-sullivan-the-alaska-senate-litigation-explained",
+      "publishedAt": "Sat, 24 Oct 2026 12:36:58 -0400",
+      "snippet": "One of them is a Republican senator and ally of the president. The other is a retired schoolteacher whom Republicans accuse of being a Democratic plant to siphon away votes.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Musk says he was behind Starlink speed restriction after service in Ukraine is restored",
+      "link": "https://www.pbs.org/newshour/world/ukraines-starlink-satellite-speeds-restored-after-a-week-of-front-line-disruption",
+      "publishedAt": "Sat, 24 Oct 2026 12:05:47 -0400",
+      "snippet": "Questions have persisted since last week about who ordered the interruptions to the Musk-made satellite internet system that Kyiv has relied on for years to counter Moscow's attacks.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "U.S. is reducing staffing at 4 Middle East embassies over increased threats from Iran",
+      "link": "https://www.pbs.org/newshour/politics/u-s-is-reducing-staffing-at-4-middle-east-embassies-over-increased-threats-from-iran",
+      "publishedAt": "Sat, 24 Oct 2026 11:09:20 -0400",
+      "snippet": "In a memo sent Friday to Secretary of State Marco Rubio, Director of National Intelligence Jay Clayton said his teams \"have received intelligence that Iran has substantially increased efforts to target U.S. personnel.\"",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "DOJ orders some California counties to set aside ballots from suspected noncitizens",
+      "link": "https://www.pbs.org/newshour/politics/doj-orders-some-california-counties-to-set-aside-ballots-from-suspected-noncitizens",
+      "publishedAt": "Sat, 24 Oct 2026 10:49:32 -0400",
+      "snippet": "The letters are the latest escalation in a legal battle between California and President Donald Trump's Department of Justice, which has recently focused on the state in its efforts to root out noncitizen voting ahead of the midterm elections.",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge",
+      "link": "https://www.pbs.org/newshour/world/north-korean-leader-kim-jong-un-visits-china-to-inaugurate-a-new-cross-border-bridge",
+      "publishedAt": "Sat, 24 Oct 2026 10:30:19 -0400",
+      "snippet": "Kim's visit to China is his latest move in an increasingly assertive foreign policy as he seeks to align Pyongyang with Beijing and Moscow in a united front against the United States under what he portrays as a \"new Cold War.\" It's his first visit in a year.",
       "tier": 1
     },
     {
@@ -343,99 +431,43 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Brazil's high-stakes presidential runoff could reshape country's future",
-      "link": "https://www.pbs.org/newshour/show/brazils-high-stakes-presidential-runoff-could-reshape-countrys-future",
-      "publishedAt": "Fri, 23 Oct 2026 18:35:09 -0400",
-      "snippet": "This weekend, voters in Brazil head to the polls in a high-stakes presidential runoff that could reshape that country's political future. Will Brazil join a rightward shift across parts of the Americas, or stick with its left-wing leadership? Voting is compulsory for most adults,",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Medicare Advantage cuts leave millions scrambling to find coverage",
-      "link": "https://www.pbs.org/newshour/show/medicare-advantage-cuts-leave-millions-scrambling-to-find-coverage",
-      "publishedAt": "Fri, 23 Oct 2026 18:30:39 -0400",
-      "snippet": "Health care costs are climbing, putting new pressure on millions of Americans and raising questions about the coverage they can afford. The challenges extend to Medicare Advantage. In some parts of the country, insurers are pulling out of markets or eliminating plans that many re",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Why 'You Can See Everything' is captivating audiences",
-      "link": "https://www.pbs.org/newshour/show/why-you-can-see-everything-is-captivating-audiences",
-      "publishedAt": "Fri, 23 Oct 2026 18:25:15 -0400",
-      "snippet": "\"You Can See Everything,\" the documentary co-directed by Lance Oppenheim and Nathan Fielder, is a breakthrough success. It follows Elizabeth Holmes, the convicted founder of Theranos, just weeks before she goes to prison. The intimate access and the questions it raises are the ta",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Defense attorneys in case over Charlie Kirk's killing say they need years to prepare for trial",
-      "link": "https://www.pbs.org/newshour/nation/defense-attorneys-in-case-over-charlie-kirks-killing-say-they-need-years-to-prepare-for-trial",
-      "publishedAt": "Fri, 23 Oct 2026 18:03:01 -0400",
-      "snippet": "Defense attorneys for the man accused of assassinating conservative activist Charlie Kirk are suggesting a 2029 trial date because they say it could take them that long to prepare their case.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "WATCH: Trump defends Musk on Starlink disturbances, says he'll 'never do anything wrong'",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-defends-musk-on-starlink-disturbances-says-hell-never-do-anything-wrong",
-      "publishedAt": "Fri, 23 Oct 2026 17:54:05 -0400",
-      "snippet": "Ukrainian President Volodymyr Zelenskyy said Friday that service remained slow from Starshield, SpaceX's military-grade version of the Starlink satellite internet service.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "WATCH: Trump at GOP rally in Florida revives idea of military intervention in Cuba after Iran",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-at-gop-rally-in-florida-revives-idea-of-military-intervention-in-cuba-after-iran",
-      "publishedAt": "Fri, 23 Oct 2026 17:40:21 -0400",
-      "snippet": "President Donald Trump on Friday told a rally for candidates in South Florida that U.S. warships returning from the Middle East could stop over in Cuba on their way back from the Iran war, his latest suggestion of taking an interventionist approach to the nearby country.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Oregon father who killed school shooter says he regrets there were children he didn't save",
-      "link": "https://www.pbs.org/newshour/nation/oregon-father-who-killed-school-shooter-says-he-regrets-there-were-children-he-didnt-save",
-      "publishedAt": "Fri, 23 Oct 2026 17:19:05 -0400",
-      "snippet": "Kaylub Giamanco, whose two daughters attend Silver Rail Elementary, where the Oct. 15 attack occurred, said he was the children's \"last line of defense\" and that he regrets not arriving soon enough to save them all.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Why experts are pushing RFK Jr. to release a federal definition of ultraprocessed foods",
-      "link": "https://www.pbs.org/newshour/health/why-experts-are-pushing-rfk-jr-to-release-a-federal-definition-of-ultraprocessed-foods",
-      "publishedAt": "Fri, 23 Oct 2026 16:24:23 -0400",
-      "snippet": "More than 100 science, medical and nutrition experts signed and sent an open letter Friday to the Office of Management and Budget, urging the administration to release the first-ever government definition of ultraprocessed foods.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "DOJ has monitored elections for decades. Here's why some state officials are concerned this year",
-      "link": "https://www.pbs.org/newshour/politics/doj-has-monitored-elections-for-decades-heres-why-some-state-officials-are-concerned-this-year",
-      "publishedAt": "Fri, 23 Oct 2026 16:16:57 -0400",
-      "snippet": "The agency regularly monitors polling places. But this year's effort on Nov. 3 will more than double the number of federal monitors deployed during the 2022 midterms.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, mayor says",
-      "link": "https://www.pbs.org/newshour/nation/police-officer-who-shot-and-killed-1-year-old-boy-in-mississippi-has-resigned-mayor-says",
-      "publishedAt": "Fri, 23 Oct 2026 15:55:02 -0400",
-      "snippet": "Sgt. Hunter Foster, 33, had been cleared of criminal wrongdoing by the Mississippi Attorney General's office earlier this week after its monthslong probe concluded his use of force had been justified.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say",
-      "link": "https://www.pbs.org/newshour/nation/trump-administration-stopped-sharing-evidence-in-good-and-pretti-killings-minnesota-officials-say",
-      "publishedAt": "Fri, 23 Oct 2026 14:56:29 -0400",
-      "snippet": "The Trump administration has suggested that state prosecutors don't have jurisdiction to investigate federal officers, while Minnesota officials have said they don't trust the federal government to investigate itself.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine: Starlink satellite speeds restored to normal",
+      "link": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The announcement comes after Starlink and Starshield restrictions had disrupted military operations in Ukraine and sparked tensions with the US.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "German national facing trial for alleged attempt to join IS",
+      "link": "https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A 21-year-old suspect is being held in pre-trial detention for allegedly trying to join the \"Islamic State\" terror group.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Turkey&apos;s new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+      "link": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Will Guinea-Bissau remain trapped in political chaos?",
+      "link": "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Elections scheduled for December 6 in Guinea-Bissau have been postponed indefinitely. No new date has been set, leaving the country&apos;s return to civilian rule uncertain.",
       "tier": 2
     },
     {
@@ -464,16 +496,16 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "France protests: More violence feared amid renewed demonstrations",
-      "link": "https://www.dw.com/en/france-protests-more-violence-feared-amid-renewed-demonstrations/live-79748223?maca=en-rss-en-top-1022-rdf",
+      "title": "France: Clashes break out as protests go nationwide",
+      "link": "https://www.dw.com/en/france-clashes-break-out-as-protests-go-nationwide/live-79748223?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "France is deploying some 70,000 police officers as fresh nationwide protests begin. A deadly shooting near Paris has additionally fueled tensions. DW has the latest.",
+      "snippet": "Police and elite security forces were out in force in French cities as tens of thousands participated in protests on Saturday. The situation turned tense toward the end of protests in several cities, including Paris.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Japan-Russia ties erode as journalist sits in Moscow jail",
-      "link": "https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995?maca=en-rss-en-top-1022-rdf",
+      "title": "Why Russia&apos;s arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
+      "link": "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.",
       "tier": 2
@@ -556,38 +588,6 @@
       "link": "https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The US has defunded one of the last universities giving Afghan women the chance to receive an education after the Taliban takeover in 2021. DW spoke with a student who says she&apos;s lost hope of ever earning a degree.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Romania blames Russia for ship attack in the Black Sea",
-      "link": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Russian strikes against ships attempting to export Ukrainian grain and cargo through the western Black Sea have sharply increased this month.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine tries to shut Moscow&apos;s airports with drone strikes on Russia",
-      "link": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Repeated Ukrainian drone attacks are increasingly disrupting operations at Moscow&apos;s airports. The pounding is part of Ukraine&apos;s plan to shut down Russia&apos;s airpace.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Many feared trapped under collapsed building in Nairobi",
-      "link": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "People are feared to be trapped after a large, unfinished building in Nairobi collapsed during construction. Rescue operations have proven complicated as police fired tear gas to disperse looters.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
-      "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda&apos;s main airport as conflicting accounts cloud the source of one infection.",
       "tier": 2
     }
   ]
