@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:34:35.693Z",
+  "generatedAt": "2026-10-31T00:41:38.531Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,90 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 00:40:43 GMT",
+      "snippet": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 21:13:14 GMT",
+      "snippet": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:07:19 GMT",
+      "snippet": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
       "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 12:25:53 GMT",
-      "snippet": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+      "publishedAt": "Fri, 30 Oct 2026 16:26:11 GMT",
+      "snippet": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 20:52:01 GMT",
+      "snippet": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 20:41:51 GMT",
+      "snippet": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 15:03:39 GMT",
+      "snippet": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 14:48:22 GMT",
+      "snippet": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 20:34:46 GMT",
+      "snippet": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 22:11:52 GMT",
+      "snippet": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 17:00:32 GMT",
+      "snippet": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
       "tier": 1
     },
     {
@@ -48,6 +128,14 @@
     },
     {
       "source": "BBC World",
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 15:17:11 GMT",
+      "snippet": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
       "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 30 Oct 2026 06:02:23 GMT",
@@ -56,18 +144,26 @@
     },
     {
       "source": "BBC World",
-      "title": "How Kenyans got caught in $130m US ghost student scam",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 08:32:35 GMT",
-      "snippet": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 31 Oct 2026 00:29:58 GMT",
+      "snippet": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Helicopter carrying six people crashes in northern Indian state",
+      "title": "Six dead after helicopter crashes in northern Indian state",
       "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 10:07:58 GMT",
+      "publishedAt": "Fri, 30 Oct 2026 15:06:05 GMT",
       "snippet": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "China denies allegations of spy operation targeting Nvidia CEO",
+      "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 12:20:04 GMT",
+      "snippet": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
       "tier": 1
     },
     {
@@ -80,6 +176,14 @@
     },
     {
       "source": "BBC World",
+      "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 12:36:55 GMT",
+      "snippet": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Google value plunges by $500bn as its own AI search hits ad sales",
       "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 30 Oct 2026 12:04:02 GMT",
@@ -87,107 +191,43 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 03:24:12 GMT",
-      "snippet": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
+      "source": "NPR News",
+      "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
+      "publishedAt": "Fri, 30 Oct 2026 18:06:18 -0400",
+      "snippet": "Several children have had to leave the state to receive medical care, including abortions, that is unavailable in Texas.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Student-backed election winners demand sweeping resignations in Serbia",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 00:17:28 GMT",
-      "snippet": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
+      "source": "NPR News",
+      "title": "Judge orders an inquiry into potential DOJ misconduct in Trump&apos;s golf course case",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+      "publishedAt": "Fri, 30 Oct 2026 17:56:52 -0400",
+      "snippet": "A federal judge is opening an formal inquiry into Trump officials&apos; conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "More than 43 million ballots cast so far in midterms early voting surge",
-      "link": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 01:44:24 GMT",
-      "snippet": "Hispanic voters have helped drive the early voting numbers, which appear to outpace overall turnout for previous elections in some battleground counties.",
+      "source": "NPR News",
+      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
+      "publishedAt": "Fri, 30 Oct 2026 13:45:27 -0400",
+      "snippet": "Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "New York police will now investigate Cornell sex complaints, governor says",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 03:32:44 GMT",
-      "snippet": "The change was announced amid backlash over the school's handling of gang rape allegations involving a fraternity on campus.",
+      "source": "NPR News",
+      "title": "NPR special: 5 takeaways from a year of listening to swing voters",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
+      "publishedAt": "Fri, 30 Oct 2026 11:00:00 -0400",
+      "snippet": "Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Three dead after two helicopters collide midair near Oregon airport",
-      "link": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 03:05:17 GMT",
-      "snippet": "The collision involving a Robinson R22 and an Airbus helicopter occurred on Thursday afternoon, with both aircraft crashing in a field adjacent to a highway.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Venezuela opposition leader María Machado calls for elections upon return",
-      "link": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 21:05:03 GMT",
-      "snippet": "Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be \"irreversible, organised, pacific\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 20:21:54 GMT",
-      "snippet": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 11:07:35 GMT",
-      "snippet": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 14:58:28 GMT",
-      "snippet": "The defeated presidential candidate says he will lead the opposition from the US.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 17:02:59 GMT",
-      "snippet": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 14:17:35 GMT",
-      "snippet": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 13:25:07 GMT",
-      "snippet": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 13:44:39 GMT",
-      "snippet": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
+      "source": "NPR News",
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+      "publishedAt": "Fri, 30 Oct 2026 09:01:22 -0400",
+      "snippet": "The world&apos;s biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.",
       "tier": 1
     },
     {
@@ -231,203 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "&apos;Affordability? For who?&apos; Voters decide between helping homeowners or public services",
-      "link": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
-      "publishedAt": "Fri, 30 Oct 2026 05:00:00 -0400",
-      "snippet": "Candidates across the U.S. have paid lip service to affordability issues. In Florida, the question of how to save voters money, and at what cost, is literally on the ballot.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "2026 midterm election voter guides: Find local resources in your community",
-      "link": "https://www.npr.org/2026/10/30/g-s1-149560/2026-vote-midterm-election-local-voter-guides",
-      "publishedAt": "Fri, 30 Oct 2026 05:00:00 -0400",
-      "snippet": "NPR member stations are gathering information for voters — from voter guides down to local races. Scroll through to find your state and the resources available from your local member station.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "For voters from immigrant families and new citizens, voting is bigger than themselves",
-      "link": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
-      "publishedAt": "Fri, 30 Oct 2026 05:00:00 -0400",
-      "snippet": "While many young voters are focused on the cost of living in the election, for some from immigrant families, the political calculation — and their votes — is often about even more than the economy.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "On what anatomical feature was Trump fixated this week? The quiz knows — do you?",
-      "link": "https://www.npr.org/2026/10/30/g-s1-150445/trump-midterms-ai-china-star-trek-dhs-news-quiz",
-      "publishedAt": "Fri, 30 Oct 2026 05:00:00 -0400",
-      "snippet": "Hint: He likes them big (and he cannot lie).",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Here are the Senate races to watch ahead of Election Day",
-      "link": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
-      "publishedAt": "Fri, 30 Oct 2026 05:00:00 -0400",
-      "snippet": "The competitive map for control of the U.S. Senate has expanded considerably in the final days before Election Day. Here&apos;s a ranking of those competitive races from most likely to flip to least likely.",
+      "source": "PBS Headlines",
+      "title": "For many, striped bass fishing is a way of life. But the iconic species could face collapse",
+      "link": "https://www.pbs.org/newshour/science/for-many-striped-bass-fishing-is-a-way-of-life-but-the-iconic-species-could-face-collapse",
+      "publishedAt": "Fri, 30 Oct 2026 20:01:16 -0400",
+      "snippet": "Scientists who study striped bass say anglers on the East Coast are right to be concerned, and they say years of overfishing are just part of the problem.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Netanyahu's party claims Israeli election 'stolen' as results show him losing majority",
-      "link": "https://www.pbs.org/newshour/world/netanyahus-party-claims-israeli-election-stolen-as-results-show-him-losing-majority",
-      "publishedAt": "Thu, 29 Oct 2026 20:44:24 -0400",
-      "snippet": "Results released by election officials on Thursday showed Netanyahu's bloc winning 53 seats in the 120-member assembly, well below the 68 seats it had controlled at its peak in the previous parliament.",
+      "title": "Judge orders 3 taxpayer-funded Trump administration ads to be pulled from TV, social media",
+      "link": "https://www.pbs.org/newshour/politics/judge-orders-3-taxpayer-funded-trump-administration-ads-to-be-pulled-from-tv-social-media",
+      "publishedAt": "Fri, 30 Oct 2026 18:57:18 -0400",
+      "snippet": "The federal government must pull three taxpayer-funded Trump administration ads that appear to have been made for political or propaganda purposes, including one touting the president's claim that every American will get $5,000 if Republicans keep control of Congress in the upcom",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Trumps host Halloween celebration at the White House",
-      "link": "https://www.pbs.org/newshour/politics/watch-trumps-host-halloween-celebration-at-the-white-house",
-      "publishedAt": "Thu, 29 Oct 2026 19:53:45 -0400",
-      "snippet": "President Donald Trump and first lady Melania Trump handed out candy to hundreds of costumed kids outside the White House residence at Thursday's annual Halloween celebration.",
+      "title": "Candidates make final midterm stops as early voting surges",
+      "link": "https://www.pbs.org/newshour/show/candidates-make-final-midterm-stops-as-early-voting-surges",
+      "publishedAt": "Fri, 30 Oct 2026 18:55:00 -0400",
+      "snippet": "Candidates around the country are making their final campaign stops before Election Day with just the weekend left to go. President Trump is in Florida and will then head to Iowa and Kansas -- a last-minute change after initially cancelling those rallies. Lisa Desjardins reports.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: Trump calls reporter 'disgusting' when questioned about not traveling to Kansas",
-      "link": "https://www.pbs.org/newshour/politics/watch-trump-calls-reporter-disgusting-when-questioned-about-not-traveling-to-kansas",
-      "publishedAt": "Thu, 29 Oct 2026 19:49:01 -0400",
-      "snippet": "A reporter from Reuters asked the president why he no longer plans to attend a rally in Kansas Saturday for Republican Sen. Roger Marshall, who is in a competitive reelection race.",
+      "title": "$6 billion cryptocurrency heist puts investors on edge",
+      "link": "https://www.pbs.org/newshour/show/6-billion-cryptocurrency-heist-puts-investors-on-edge",
+      "publishedAt": "Fri, 30 Oct 2026 18:50:03 -0400",
+      "snippet": "Binance, the world's largest cryptocurrency exchange, says it's working to recover funds after the biggest crypto heist in history. The company halted withdrawals after hackers made off with $6 billion in assets. The cyber heist is raising questions about the security of crypto a",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "New survey finds more than two-thirds of Americans believe their country is in decline",
-      "link": "https://www.pbs.org/newshour/nation/new-survey-finds-more-than-two-thirds-of-americans-believe-their-country-is-in-decline",
-      "publishedAt": "Thu, 29 Oct 2026 19:37:11 -0400",
-      "snippet": "Almost half of Americans, 47%, say they are experiencing real pain from rising prices – a sharp rise from previous years.",
+      "title": "News Wrap: Judge investigating if Trump officials misled court about D.C. golf course plan",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-judge-investigating-if-trump-officials-misled-court-about-d-c-golf-course-plan",
+      "publishedAt": "Fri, 30 Oct 2026 18:45:35 -0400",
+      "snippet": "In our news wrap Friday, a federal judge is opening an investigation into whether Justice Department lawyers misled the court about plans to renovate a D.C. golf course, the DOJ told a judge that it may bring more charges against former FBI Director James Comey and Christa Pike s",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting",
-      "link": "https://www.pbs.org/newshour/politics/judge-denies-federal-request-to-segregate-california-ballots-says-it-would-wreak-havoc-on-voting",
-      "publishedAt": "Thu, 29 Oct 2026 18:57:32 -0400",
-      "snippet": "A federal judge rejected on Wednesday a Trump administration request to stop California from processing the ballots of up to 20,000 people over allegations they are likely noncitizens, warning it would \"wreak havoc\" on the midterm elections.",
+      "title": "Inside a Ukrainian city hit by Russian drones during the Starlink disruption",
+      "link": "https://www.pbs.org/newshour/show/inside-a-ukrainian-city-hit-by-russian-drones-during-the-starlink-disruption",
+      "publishedAt": "Fri, 30 Oct 2026 18:40:28 -0400",
+      "snippet": "In Ukraine, President Zelenskyy made the clearest indication yet that a disruption of Starlink technology contributed to civilian deaths. Elon Musk admitted last week to ordering the slowdown of the service. The intentional hindrance of Ukrainian defenses led to bipartisan anger ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: How does The Associated Press call 2026 midterm election winners? 4 things to know",
-      "link": "https://www.pbs.org/newshour/politics/watch-how-does-the-associated-press-call-2026-midterm-election-winners-4-things-to-know",
-      "publishedAt": "Thu, 29 Oct 2026 18:55:29 -0400",
-      "snippet": "The AP will tabulate results for nearly 7,000 races, including national congressional contests, state legislative and gubernatorial races, as well as some local elections for mayor, city council and school board.",
+      "title": "Trump should 'take stock' and 'own' election outcome, Sen. Tillis says",
+      "link": "https://www.pbs.org/newshour/show/trump-should-take-stock-and-own-election-outcome-sen-tillis-says",
+      "publishedAt": "Fri, 30 Oct 2026 18:35:37 -0400",
+      "snippet": "Republican Sen. Thom Tillis of North Carolina is sounding the alarm about the future of his own party. In his new book, \"How to Lose Friends and Antagonize Presidents,\" Tillis warns that GOP lawmakers are afraid to challenge President Trump, Congress is surrendering its power, an",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Republicans seize on controversy in Alaska's closely watched Senate race",
-      "link": "https://www.pbs.org/newshour/show/republicans-seize-on-controversy-in-alaskas-closely-watched-senate-race",
-      "publishedAt": "Thu, 29 Oct 2026 18:55:01 -0400",
-      "snippet": "Alaska's governor is ordering an investigation into Democrat Mary Peltola's Senate campaign over reports that it recruited a spoiler candidate to dilute Republican votes. That's as President Trump repeated calls for Peltola's prosecution during a trip to another deep red state wh",
+      "title": "'A down payment on change': Rahm Emanuel on what Democrats should do after midterms",
+      "link": "https://www.pbs.org/newshour/show/a-down-payment-on-change-rahm-emanuel-on-what-democrats-should-do-after-midterms",
+      "publishedAt": "Fri, 30 Oct 2026 18:30:44 -0400",
+      "snippet": "On Election Day, Democrats are looking to do what they did 20 years ago – turn widespread dissatisfaction with a Republican president into a sweeping congressional victory. Rahm Emanuel helped engineer that victory in 2006. Now, as his party looks to regain power, Geoff Bennett s",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Ceasefire in Oleshky holds for a third day",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-ceasefire-in-oleshky-holds-for-a-third-day",
-      "publishedAt": "Thu, 29 Oct 2026 18:50:05 -0400",
-      "snippet": "In our news wrap Thursday, a local ceasefire in Oleshky held for a third day with humanitarian aid set to enter the Russian-held Ukrainian city soon, the Pentagon is reportedly accusing a recently fired Army general of misconduct amid allegations that he leaked classified informa",
+      "title": "Capehart and Continetti on closing messages and midterm predictions",
+      "link": "https://www.pbs.org/newshour/show/capehart-and-continetti-on-closing-messages-and-midterm-predictions",
+      "publishedAt": "Fri, 30 Oct 2026 18:25:37 -0400",
+      "snippet": "Jonathan Capehart of MS NOW and Wall Street Journal opinion columnist Matthew Continetti join Amna Nawaz to discuss the week in politics, including the last week of the midterm campaigns, predictions on which party will control Congress and the closing messages from President Tru",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Pennsylvania congressional races could hinge on who voters blame for high prices",
-      "link": "https://www.pbs.org/newshour/show/pennsylvania-congressional-races-could-hinge-on-who-voters-blame-for-high-prices",
-      "publishedAt": "Thu, 29 Oct 2026 18:45:48 -0400",
-      "snippet": "Democrats are favored to take the House in November, but the size of their potential majority could hinge on a handful of competitive races. Four are in Pennsylvania, where President Trump and Republicans made significant gains in 2024. Now, Democrats are betting that the preside",
+      "title": "Top federal prosecutor in Alaska says criminal probe underway over would-be spoiler Senate candidate",
+      "link": "https://www.pbs.org/newshour/politics/top-federal-prosecutor-in-alaska-says-criminal-probe-underway-over-would-be-spoiler-senate-candidate",
+      "publishedAt": "Fri, 30 Oct 2026 18:12:36 -0400",
+      "snippet": "Separately, the U.S. Department of Justice — as part of an ongoing lawsuit filed last week — asked a federal judge to order that state elections officials isolate ballots ranking Dan J. Sullivan to investigate potential voter \"confusion\" with the two-term incumbent Republican Dan",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "DoorDash offers $17 billion for Instacart in what would be big grocery delivery consolidation",
-      "link": "https://www.pbs.org/newshour/economy/doordash-offers-17-billion-for-instacart-in-what-would-be-big-grocery-delivery-consolidation",
-      "publishedAt": "Thu, 29 Oct 2026 18:41:40 -0400",
-      "snippet": "The companies say the tie-up would combine DoorDash's global reach and expertise in logistics with Instacart's purpose-built technology and long relationships with grocers.",
+      "title": "As early voting surges, Trump reshuffles his schedule to add back rallies in Iowa and Kansas",
+      "link": "https://www.pbs.org/newshour/politics/as-early-voting-surges-trump-reshuffles-his-schedule-to-add-back-rallies-in-iowa-and-kansas",
+      "publishedAt": "Fri, 30 Oct 2026 17:12:12 -0400",
+      "snippet": "The Republican president will now visit Iowa and Kansas for back-to-back campaign rallies on Sunday. Both events had previously been canceled for a slew of telerallies.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Mapping the battle for control of the House",
-      "link": "https://www.pbs.org/newshour/show/mapping-the-battle-for-control-of-the-house",
-      "publishedAt": "Thu, 29 Oct 2026 18:40:48 -0400",
-      "snippet": "As candidates make a final push to win over voters ahead of Election Day, Lisa Desjardins takes a deep dive into the battle for the House of Representatives.",
+      "title": "Appeals court rejects Justice Department request for California to set aside disputed ballots",
+      "link": "https://www.pbs.org/newshour/politics/appeals-court-rejects-justice-department-request-for-california-to-set-aside-disputed-ballots",
+      "publishedAt": "Fri, 30 Oct 2026 16:56:32 -0400",
+      "snippet": "The administration has alleged California sent ballots to some 20,000 people who may not be U.S. citizens. It wants the state to set those ballots aside and not count them until citizenship can be verified.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Retired Israeli general on what the election results tell us",
-      "link": "https://www.pbs.org/newshour/show/retired-israeli-general-on-what-the-election-results-tell-us",
-      "publishedAt": "Thu, 29 Oct 2026 18:35:03 -0400",
-      "snippet": "Israel is facing political uncertainty after an election that produced no clear governing majority. But what do the results reveal about how Israelis want leaders to confront the country's challenges? Nick Schifrin discussed that with Tamir Hayman, former chief of Israeli militar",
+      "title": "Canada is taking steps toward becoming European Union's first associate member",
+      "link": "https://www.pbs.org/newshour/world/canada-is-taking-steps-toward-becoming-european-unions-first-associate-member",
+      "publishedAt": "Fri, 30 Oct 2026 15:25:06 -0400",
+      "snippet": "Prime Minister Mark Carney said he would attend a meeting of European leaders in June to conclude negotiations on the proposed relationship.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Maria Ressa offers a guide to defending democracy in 'The Fight Back'",
-      "link": "https://www.pbs.org/newshour/show/maria-ressa-offers-a-guide-to-defending-democracy-in-the-fight-back",
-      "publishedAt": "Thu, 29 Oct 2026 18:30:44 -0400",
-      "snippet": "Journalist and Nobel Peace Prize laureate Maria Ressa chronicled her fight against the Duterte regime in the Philippines in her 2022 book, \"How to Stand Up to a Dictator.\" She detailed attacks on her reporting and her newsroom's struggle to defend press freedom and democracy. In ",
+      "title": "2 Trump attempts to change the D.C. landscape play out in the courts as midterms near",
+      "link": "https://www.pbs.org/newshour/politics/2-trump-attempts-to-change-the-d-c-landscape-play-out-in-the-courts-as-midterms-near",
+      "publishedAt": "Fri, 30 Oct 2026 14:34:47 -0400",
+      "snippet": "The cases involved are an impending shutdown and reconfiguration of a historic public golf course and the construction of the monumental arch that, at 250 feet, would be 100 feet taller than the Statue of Liberty is from its base to the top of the torch.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How colleges are helping students build social skills for the workforce",
-      "link": "https://www.pbs.org/newshour/show/how-colleges-are-helping-students-build-social-skills-for-the-workforce",
-      "publishedAt": "Thu, 29 Oct 2026 18:25:53 -0400",
-      "snippet": "Much of the debate over higher education today centers on cost, career prospects and whether a college degree can prepare students for a rapidly changing job market. But in an era increasingly shaped by artificial intelligence, one of the oldest skills taught on college campuses ",
+      "title": "WATCH: Rubio welcomes G20 foreign ministers to Atlanta at 'critical moment'",
+      "link": "https://www.pbs.org/newshour/politics/watch-rubio-welcomes-g20-foreign-ministers-to-atlanta-at-critical-moment",
+      "publishedAt": "Fri, 30 Oct 2026 14:10:01 -0400",
+      "snippet": "Secretary of State Marco Rubio pulled the plug on the traditional group photo after several European officials threatened to boycott or walk out of the snapshot that usually helps kick off such diplomatic gatherings.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Brewers bring World Series title to MLB's smallest market",
-      "link": "https://www.pbs.org/newshour/show/brewers-bring-world-series-title-to-mlbs-smallest-market",
-      "publishedAt": "Thu, 29 Oct 2026 18:20:45 -0400",
-      "snippet": "Tap the kegs and break out the bratwurst, the Milwaukee Brewers are World Series champions! Milwaukee is the smallest market in the major leagues. But this year, the Brewers dominated the regular season, and then rolled through the playoffs with ruthless efficiency. To break it a",
+      "title": "An ICE officer is charged with assault for striking a man with a car in Houston",
+      "link": "https://www.pbs.org/newshour/nation/an-ice-officer-has-been-charged-after-striking-a-man-with-a-car-in-houston",
+      "publishedAt": "Fri, 30 Oct 2026 13:53:28 -0400",
+      "snippet": "The officer, Mario Alberto Morales, was driving an unmarked SUV on Oct. 10 when he struck and ran over Miguel Parra Hernandez, 48, who was running away during a pursuit through a parking lot, the Harris County District Attorney's Office said.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Senate is skeptical about making daylight saving time permanent despite Trump's pressure",
-      "link": "https://www.pbs.org/newshour/politics/senate-is-skeptical-about-making-daylight-saving-time-permanent-despite-trumps-pressure",
-      "publishedAt": "Thu, 29 Oct 2026 18:19:56 -0400",
-      "snippet": "WASHINGTON (AP) — The Senate is unlikely to act before the end of the year on a House-passed bill that would make daylight saving time permanent, defying President Donald Trump and dashing the hopes of Americans who don't like having to change their clocks twice a year. As daylig",
+      "title": "WATCH LIVE: Election night 2026 PBS News special coverage",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-election-night-2026-pbs-news-special-coverage",
+      "publishedAt": "Fri, 30 Oct 2026 13:42:42 -0400",
+      "snippet": "PBS News' live special coverage of the 2026 midterms will begin at 6 p.m. EST on Tuesday, Nov. 3.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "5 expert takeaways on 2026 midterm election security",
-      "link": "https://www.pbs.org/newshour/politics/5-expert-takeaways-on-2026-midterm-election-security",
-      "publishedAt": "Thu, 29 Oct 2026 17:35:11 -0400",
-      "snippet": "With Election Day around the corner, states have been working hard to prepare, with some adopting new congressional maps and voting rules on top of normal election security measures. PBS News' Liz Landers and Votebeat editorial director Jessica Huseman hosted a Reddit \"Ask Me Any",
+      "title": "Christa Pike says she feels constant pain in first public statement since failed execution",
+      "link": "https://www.pbs.org/newshour/nation/christa-pike-says-she-feels-constant-pain-in-first-public-statement-since-failed-execution",
+      "publishedAt": "Fri, 30 Oct 2026 13:40:05 -0400",
+      "snippet": "In her first public statement since her botched execution last month, Pike said she went into the execution chamber prepared to die in peace.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes",
-      "link": "https://www.pbs.org/newshour/politics/hegseth-fires-the-pentagons-top-military-planner-even-as-trump-considers-new-iran-strikes",
-      "publishedAt": "Thu, 29 Oct 2026 16:51:20 -0400",
-      "snippet": "Army Lt. Gen. Brett Sylvia was the second general under Hegseth to be removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
+      "title": "Leo XIV has become the first pope in history to vote in a U.S. general election",
+      "link": "https://www.pbs.org/newshour/politics/leo-xiv-has-become-the-first-pope-in-history-to-vote-in-a-u-s-general-election",
+      "publishedAt": "Fri, 30 Oct 2026 12:53:35 -0400",
+      "snippet": "Leo XIV has become the first pope to vote in a U.S. general election, casting a mail-in ballot in a contest that will decide America's future as the Trump era slowly comes to an end.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Patrick Stewart, star of stage and 'Star Trek,' dies at 86",
-      "link": "https://www.pbs.org/newshour/arts/patrick-stewart-star-of-stage-and-star-trek-dies-at-86",
-      "publishedAt": "Thu, 29 Oct 2026 16:02:17 -0400",
-      "snippet": "Stewart was a classically trained stage actor who scaled the Shakespearean canon and added gravitas to a \"Star Trek\" franchise and the \"X-Men\" films.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Judge blocks Trump administration's Medicaid work requirement rule forcing proof of medical frailty",
-      "link": "https://www.pbs.org/newshour/health/judge-blocks-trump-administrations-medicaid-work-requirement-rule-forcing-proof-of-medical-frailty",
-      "publishedAt": "Thu, 29 Oct 2026 15:53:52 -0400",
-      "snippet": "Twenty-five states sued the Trump administration in June over the new Centers for Medicare and Medicaid Services guidance tied to the 2025 law known as the \"One Big Beautiful Bill.\"",
+      "title": "Israel's election results are in. Here's what could happen next",
+      "link": "https://www.pbs.org/newshour/world/israels-election-results-are-in-heres-what-could-happen-next",
+      "publishedAt": "Fri, 30 Oct 2026 12:27:48 -0400",
+      "snippet": "Israeli election results are in, showing the makeup of the country's next parliament but leaving open the question of who will be prime minister.",
       "tier": 1
     },
     {
@@ -436,6 +436,102 @@
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+      "link": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine: Oleshky residents evacuate war-ravaged city",
+      "link": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Under the local ceasefire, an aid convoy of 25 buses arrived with humanitarian aid and as transport for fleeing Oleshky residents. The Ukrainian city has been occupied by Russia since 2022 and faces food shortages.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
+      "link": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "There is currently more irregular migration between eastern Libya and Crete, Greece. It&apos;s raising questions as to what connects people smugglers with powerful militias in eastern Libya and then in turn, Europeans.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Tennessee woman Christa Pike describes pain after failed execution",
+      "link": "https://www.dw.com/en/tennessee-woman-christa-pike-describes-pain-after-failed-execution/a-79810735?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Christa Pike says she remains in constant pain a month after surviving a lethal injection in Tennessee. Her lawyers want her death sentence reduced to life, while the state governor has ordered an investigation.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "What the rift within the Tsikhanouski family means for the Belarusian opposition in exile",
+      "link": "https://www.dw.com/en/what-the-rift-within-the-tsikhanouski-family-means-for-the-belarusian-opposition-in-exile/a-79802776?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Siarhei Tsikhanouski criticizes the work of his wife, Sviatlana Tsikhanouskaya, and her office. He also questions her legitimacy. What are the implications for Belarusian political forces in exile?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US midterms: Pope Leo XIV casts vote by mail",
+      "link": "https://www.dw.com/en/us-midterms-pope-leo-xiv-casts-vote-by-mail/a-79810339?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As a US citizen, Pope Leo XIV is eligible to vote in US elections and has made use of that right with a postal ballot ahead of Tuesday&apos;s midterms. The pontiff, a Chicago native, did not reveal who he voted for.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Binance crypto exchange suspends trades over North Korea-linked hack",
+      "link": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Crypto platform Binance has suspended trading following a suspected hack now linked to North Korea. The disruption has left users unable to trade on the cryptocurrency platform while the suspected breach is investigated.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Merz hopes for Korean reunification at DMZ",
+      "link": "https://www.dw.com/en/germany-news-merz-hopes-for-korean-reunification-at-dmz/live-79803462?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Chancellor Friedrich Merz has expressed hope for Korean reunification during a visit to the heavily fortified border. Meanwhile, President Steinmeier has held talks with China&apos;s Xi Jinping in Beijing. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Seoul fears being sidelined as US reaches out to North Korea",
+      "link": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "With ties between South Korea and the Trump administration strained, the South Korean government worries that Donald Trump&apos;s pursuit of a diplomatic breakthrough with Kim Jong Un may come at Seoul&apos;s expense.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Bollywood and the underworld — together in the spotlight?",
+      "link": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A wave of shootings and extortion threats has rattled India&apos;s film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Bayern Munich&apos;s Kenya friendly highlights Africa&apos;s growing pull for global sport",
+      "link": "https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Bayern Munich are to open Nairobi&apos;s new Raila Odinga International Stadium against Ajax as Kenya prepares for AFCON 2027. The match highlights Africa&apos;s growing sports ambitions — and questions over cost and legacy.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Italy: Students and workers rally over living costs",
+      "link": "https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Students and workers have marched across Italy for more school funding and relief from rising living costs. The rallies follow weeks of school occupations and protests against higher military spending.",
       "tier": 2
     },
     {
@@ -488,106 +584,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Merz in Asia warns against weaponizing trade",
-      "link": "https://www.dw.com/en/germany-news-merz-in-asia-warns-against-weaponizing-trade/live-79803462?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "German diplomacy in Asia takes focus this week, as Chancellor Merz wraps up a three-country Asian business tour in South Korea. Meanwhile, President Steinmeier held talks with Xi Jinping in Beijing. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "India news: Space agency to boost GPS alternative with new satellite",
       "link": "https://www.dw.com/en/india-news-space-agency-to-boost-gps-alternative-with-new-satellite/live-79803564?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The Indian national space agency&apos;s mission aims to strengthen its indigenous navigation system and reduce reliance on the US-owned GPS. Meanwhile, Rahul Gandhi renewed his call for more election protests. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Israeli election: Netanyahu, main rival fall short of majority after all votes counted",
-      "link": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "With all the votes counted, the pro-Netanyahu bloc finished ahead of Gadi Eisenkot&apos;s anti-Netanyahu bloc. But tough coalition talks loom as neither grouping won a majority. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Venezuela: Opposition leader Maria Corina Machado says US backs 2027 election",
-      "link": "https://www.dw.com/en/venezuela-opposition-leader-maria-corina-machado-says-us-backs-2027-election/a-79803426?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The return of Maria Corina Machado, who says Trump opened the \"floodgate to freedom\" for Venezuela, presents a challenge for Washington as Trump has also backed interim President Delcy Rodriguez.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bayer wins Roundup cancer trial after Supreme Court ruling",
-      "link": "https://www.dw.com/en/bayer-wins-roundup-cancer-trial-after-supreme-court-ruling/a-79803301?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The weedkiller Roundup has been accused of being carcinogenic to humans despite no warning on its label. Bayer is seeking to settle tens of thousands of further cases.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s Alexander Zverev clinches tennis No. 1 ranking",
-      "link": "https://www.dw.com/en/germany-s-alexander-zverev-clinches-tennis-no-1-ranking/a-79803048?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Alexander Zverev is the second German man, after Boris Becker, to clinch the No. 1 spot in tennis.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "&apos;Star Trek&apos; star Patrick Stewart dies age 86",
-      "link": "https://www.dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Shakespearean actor landed the role of a lifetime as \"Star Trek\" Captain Picard. He passed away at age 86.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Justice for Maya women in Guatemala, girls back in school in India, restored land in Mali: The UN has named its 2026 SDG Action Award winners",
-      "link": "https://www.dw.com/en/justice-for-maya-women-in-guatemala-girls-back-in-school-in-india-restored-land-in-mali-the-un-has-named-its-2026-sdg-action-award-winners/a-79801727?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Champions of indigenous women&apos;s rights in Guatemala, girls&apos; education in India, and restored farmland in Mali all featured among the winners of UN&apos;s SDG Action Awards.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Berlin&apos;s Elif Eralp under fire over Der Spiegel interview",
-      "link": "https://www.dw.com/en/berlin-s-elif-eralp-under-fire-over-der-spiegel-interview/a-79799766?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Left candidate Elif Eralp has sparked controversy after Der Spiegel reported she was advised against mentioning a pro-Palestinian activist for fear of reprisals against her family.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iraq: Life sentences for 3 French &apos;Islamic State&apos; suspects",
-      "link": "https://www.dw.com/en/iraq-life-sentences-for-3-french-islamic-state-suspects/a-79802390?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The three were among 47 French \"Islamic State\" suspects transferred from Syrian detention. So far, ten French nationals have received prison terms after being convicted of belonging to the group.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "EU seeks &apos;highest level&apos; ties with Canada in Montreal summit",
-      "link": "https://www.dw.com/en/eu-seeks-highest-level-ties-with-canada-in-montreal-summit/a-79800299?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "European Commission President Ursula von der Leyen said EU seeks \"association without accession\" for Canada, after EU members snub \"associate member\" designation.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Israel election: Authorities dispute Netanyahu&apos;s fraud claims",
-      "link": "https://www.dw.com/en/israel-election-authorities-dispute-netanyahu-s-fraud-claims/a-79799574?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Benjamin Netanyahu&apos;s Likud claims large-scale foreign involvement in the elections led by Qatar and Turkey, with Israel’s authorities so far refuting the claims.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India increases growth forecast for fiscal year",
-      "link": "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "India&apos;s Ministry of Finance has increased its growth forecasts for the current fiscal year. But it also warned about inflation, particularly for fuel and energy, amid continued instability in the Middle East.",
       "tier": 2
     }
   ]
