@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:41:33.946Z",
+  "generatedAt": "2026-11-04T12:29:53.589Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,18 +32,82 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 22:45:59 GMT",
-      "snippet": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "title": "South Carolina elects Democratic senator for first time in almost three decades",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 07:32:02 GMT",
+      "snippet": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 20:42:47 GMT",
-      "snippet": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 05:39:36 GMT",
+      "snippet": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Florida Republicans fend off Democrats as state elects first black governor",
+      "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 07:12:21 GMT",
+      "snippet": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 12:21:21 GMT",
+      "snippet": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 07:39:38 GMT",
+      "snippet": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 11:47:44 GMT",
+      "snippet": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 11:46:09 GMT",
+      "snippet": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 02:11:40 GMT",
+      "snippet": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+      "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 03:46:10 GMT",
+      "snippet": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 22:45:59 GMT",
+      "snippet": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
       "tier": 1
     },
     {
@@ -56,378 +120,314 @@
     },
     {
       "source": "BBC World",
-      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 21:53:38 GMT",
-      "snippet": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "title": "US contractor gave Ethiopia secrets to help kill Tigray fighters",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 10:35:03 GMT",
+      "snippet": "The Ethiopian-born American citizen admitted sharing dozens of classified documents with senior Ethiopian officials.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Libya's top religious authority rules against wearing Nike clothes",
-      "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 14:56:46 GMT",
-      "snippet": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 20:42:47 GMT",
+      "snippet": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 13:55:47 GMT",
-      "snippet": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+      "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+      "link": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 23:58:36 GMT",
+      "snippet": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 16:57:41 GMT",
-      "snippet": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 03 Nov 2026 00:09:13 GMT",
+      "snippet": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 11:33:33 GMT",
-      "snippet": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "title": "What Florida jet audio and flight data tells us about its final moments",
+      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 19:49:22 GMT",
+      "snippet": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 11:51:08 GMT",
-      "snippet": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 17:34:58 GMT",
+      "snippet": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
-      "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 17:07:28 GMT",
-      "snippet": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 14:24:25 GMT",
+      "snippet": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Tenerife striker De Miguel dies after on-field collision",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 09:09:18 GMT",
-      "snippet": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+      "title": "How America voted in maps and charts",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 09:53:18 GMT",
+      "snippet": "See the maps and charts that show how America voted in the US midterm elections.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "US urges Venezuela to release remaining political prisoners",
-      "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 12:09:20 GMT",
-      "snippet": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Mining giant joins fight to stop killer toad march across Australia",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 15:05:01 GMT",
-      "snippet": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 07:15:17 GMT",
-      "snippet": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 00:07:05 GMT",
-      "snippet": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 13:26:19 GMT",
-      "snippet": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-      "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 13:44:44 GMT",
-      "snippet": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 13:28:30 GMT",
-      "snippet": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 03 Nov 2026 03:32:36 GMT",
-      "snippet": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 17:33:19 GMT",
-      "snippet": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "title": "Everything you need to know from the US midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 04 Nov 2026 12:01:07 GMT",
+      "snippet": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Election Day 2026: Photos from around the country",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/11/03/g-s1-151528/election-day-2026-photos-from-around-the-country",
-      "publishedAt": "Tue, 03 Nov 2026 19:00:10 -0500",
-      "snippet": "Voters across the country are heading to the polls today to cast their ballots in the 2026 midterm elections.",
+      "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+      "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+      "publishedAt": "Wed, 04 Nov 2026 07:18:39 -0500",
+      "snippet": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here&apos;s what happened last night.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "What Democrats plan to prioritize if they retake the House",
-      "link": "https://www.npr.org/2026/11/03/nx-s1-6026666/what-democrats-plan-to-prioritize-if-they-retake-the-house",
-      "publishedAt": "Tue, 03 Nov 2026 18:11:49 -0500",
-      "snippet": "This election will determine control of Congress. Rep. Pete Aguilar, who represents California&apos;s 33rd Congressional District, shares how Democratic Party leaders are feeling as results come in.",
+      "title": "6 takeaways from Democrats&apos; big wave on election night",
+      "link": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
+      "publishedAt": "Wed, 04 Nov 2026 07:02:38 -0500",
+      "snippet": "The magnitude of the Democrats&apos; outcome was always a possibility, but the depth and breadth of their victories were jaw-dropping.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Results: States decide on voter ID and redistricting ballot measures",
-      "link": "https://www.npr.org/2026/11/03/nx-s1-6027957/results-voter-id-citizenship-ballot-measures",
-      "publishedAt": "Tue, 03 Nov 2026 17:53:23 -0500",
-      "snippet": "Several states — including Alaska, Arizona, California and Nevada — are voting on changes to how their elections are run, including voter ID measures. Other states decide on redistricting proposals.",
+      "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+      "link": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
+      "publishedAt": "Wed, 04 Nov 2026 06:00:00 -0500",
+      "snippet": "Nintendo&apos;s new Ocarina of Time remake enshrines its place in the gaming canon for generations to come. But despite its stupendous production values, the game left me feeling oddly bereft.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Legendary Photographer on getting that perfect election night picture",
-      "link": "https://www.npr.org/2026/11/03/nx-s1-6005523/legendary-photographer-on-getting-that-perfect-election-night-picture",
-      "publishedAt": "Tue, 03 Nov 2026 17:33:33 -0500",
-      "snippet": "On election night, photographers will be in position, ready to snap history-making moments. It&apos;s something Pulitzer-prize-winner photographer David Hume Kennerly, has done for decades.",
+      "title": "Hakeem Jeffries is poised to become the first Black speaker of the House",
+      "link": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms",
+      "publishedAt": "Wed, 04 Nov 2026 05:00:00 -0500",
+      "snippet": "As speaker, the New York Democrat would be second in the presidential line of succession, after the vice president. He has vowed to focus on affordability and holding the administration accountable.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Connecticut bakers are bringing joy back to election day, one cake at a time",
-      "link": "https://www.npr.org/2026/11/03/nx-s1-6026494/election-cake-bake-off-hartford-connecticut",
-      "publishedAt": "Tue, 03 Nov 2026 17:28:33 -0500",
-      "snippet": "Nicole Sousa from the Old Statehouse in Hartford, CT, discusses the history of election cakes, a sweet civic tradition dating back to 1771.",
+      "title": "These 9 candidates for governor just made history",
+      "link": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026",
+      "publishedAt": "Wed, 04 Nov 2026 05:00:00 -0500",
+      "snippet": "Voters on Tuesday elected the nation&apos;s first Black woman governor and the nation&apos;s first Native American woman governor.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
-      "link": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
-      "publishedAt": "Tue, 03 Nov 2026 17:25:15 -0500",
-      "snippet": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.",
+      "title": "Nevada Attorney General Aaron Ford beats GOP incumbent for governor",
+      "link": "https://www.npr.org/2026/11/04/g-s1-151138/midterms-ford-nevada-governor-lombardo",
+      "publishedAt": "Wed, 04 Nov 2026 04:48:40 -0500",
+      "snippet": "Democrat Aaron Ford defeated Republican Gov. Joe Lombardo. He&apos;s set to become Nevada&apos;s first Black governor.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Supreme Court leans toward LGBTQ exclusion for publicly funded Catholic preschools",
-      "link": "https://www.npr.org/2026/11/03/nx-s1-6026566/scotus-religious-freedom-case",
-      "publishedAt": "Tue, 03 Nov 2026 17:14:29 -0500",
-      "snippet": "The Supreme Court heard arguments Tuesday about Colorado&apos;s universal pre-K program and whether religious schools can bar certain families despite the state&apos;s anti-discrimination law.",
+      "title": "Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race",
+      "link": "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
+      "publishedAt": "Wed, 04 Nov 2026 02:28:02 -0500",
+      "snippet": "El-Sayed&apos;s campaign tested how an antiestablishment candidate on the left would fare in a perennial Midwest battleground. With the win, he&apos;ll become the first Muslim American to serve in the Senate.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "A Binance engineer thought he was interviewing for a job. Then the hackers pounced",
-      "link": "https://www.npr.org/2026/11/03/nx-s1-6027799/binance-crypto-exchange-cyber-heist",
-      "publishedAt": "Tue, 03 Nov 2026 16:30:20 -0500",
-      "snippet": "North Korean hackers pulled off the biggest cyber heist ever by duping a Binance engineer into thinking he was being recruited for a job, the crypto exchange says.",
+      "title": "Republicans tried to gerrymander their way out of big congressional losses. It didn&apos;t work",
+      "link": "https://www.npr.org/2026/11/04/nx-s1-6028588/redistricting-efforts-failed-republicans",
+      "publishedAt": "Wed, 04 Nov 2026 02:23:28 -0500",
+      "snippet": "Among the sweeping victories by Democrats on Tuesday were wins in several congressional districts that Republicans had redrawn explicitly to boost their party ahead of the midterms.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "When caring for aging family members becomes cost prohibitive",
-      "link": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
-      "publishedAt": "Tue, 03 Nov 2026 12:09:56 -0500",
-      "snippet": "AARP reports family caregivers are spending 60% more than they were five years ago. Journalist Paula Span discusses the rising costs of caregiving and senior living, and the options available to us.",
+      "title": "House Democratic Leader Hakeem Jeffries declares \"America is back\"",
+      "link": "https://www.npr.org/2026/11/04/nx-s1-6028572/hakeem-jeffries-midterms-house",
+      "publishedAt": "Wed, 04 Nov 2026 01:50:28 -0500",
+      "snippet": "Jeffries, who addressed supporters after House control was called for Democrats , argued voters have sent Congress a message to end extremism and \"corruption.\"",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "For Ukraine&apos;s Kherson region, a short ceasefire meant a momentary return to normal life",
-      "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
-      "publishedAt": "Tue, 03 Nov 2026 10:54:39 -0500",
-      "snippet": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
+      "title": "Troy Jackson wins Maine Senate race over Susan Collins, in big victory for Democrats",
+      "link": "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
+      "publishedAt": "Wed, 04 Nov 2026 01:02:31 -0500",
+      "snippet": "The result is a crucial victory for Democrats in their push to retake the Senate majority, flipping a seat that Collins has held for nearly 30 years.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Authorities release 911 call from the man who killed a shooter inside an Oregon elementary school",
-      "link": "https://www.pbs.org/newshour/nation/authorities-release-911-call-from-the-man-who-killed-a-shooter-inside-an-oregon-elementary-school",
-      "publishedAt": "Tue, 03 Nov 2026 19:32:24 -0500",
-      "snippet": "A frantic 911 call from the man who fatally shot a 16-year-old shooter at an Oregon elementary school has been released. Kaylub Giamanco told the 911 operator there was \"someone with a gun\" at Silver Rail Elementary in Bend. The audio from the tense call lasting a little more tha",
+      "title": "Democrat Abdul El-Sayed wins election to U.S. Senate from Michigan",
+      "link": "https://www.pbs.org/newshour/politics/democrat-abdul-el-sayed-wins-election-to-u-s-senate-from-michigan",
+      "publishedAt": "Wed, 04 Nov 2026 07:22:33 -0500",
+      "snippet": "Progressive Democrat Abdul El-Sayed will become first Muslim U.S. senator.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Greenland approves trilateral deal with Denmark and U.S. following pressure from Trump",
-      "link": "https://www.pbs.org/newshour/world/greenland-approves-trilateral-deal-with-denmark-and-u-s-following-pressure-from-trump",
-      "publishedAt": "Tue, 03 Nov 2026 19:21:22 -0500",
-      "snippet": "The decision follows months of pressure from U.S. President Donald Trump, who sought to control the semiautonomous territory of a NATO ally.",
+      "title": "WATCH: Democrat Troy Jackson speaks after Maine Sen. Susan Collins concedes",
+      "link": "https://www.pbs.org/newshour/politics/watch-democrat-troy-jackson-speaks-after-maine-sen-susan-collins-concedes",
+      "publishedAt": "Wed, 04 Nov 2026 01:55:51 -0500",
+      "snippet": "Jackson won election Wednesday to the U.S. Senate representing Maine, defeating Republican incumbent Sen. Susan Collins.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Justice Department sent target letters in Alaska Senate criminal probe. Here's what that means",
-      "link": "https://www.pbs.org/newshour/politics/justice-department-sent-target-letters-in-alaska-senate-criminal-probe-heres-what-that-means",
-      "publishedAt": "Tue, 03 Nov 2026 19:14:51 -0500",
-      "snippet": "The Justice Department has escalated its investigation over a Senate candidate who shares a name with the Republican incumbent, issuing a letter to a prominent Democratic attorney in Washington and others that they may be targets of the criminal inquiry.",
+      "title": "WATCH: Sen. Chuck Schumer speaks after Democrats win control of Senate",
+      "link": "https://www.pbs.org/newshour/politics/watch-sen-chuck-schumer-speaks-after-democrats-win-control-of-senate",
+      "publishedAt": "Wed, 04 Nov 2026 01:42:06 -0500",
+      "snippet": "The longtime Democratic leader told reporters in Washington that \"Americans voted for change\" and that there had been a \"generational remake of the Senate map.\"",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Voters head to polls to decide control of House and Senate",
-      "link": "https://www.pbs.org/newshour/show/voters-head-to-polls-to-decide-control-of-house-and-senate",
-      "publishedAt": "Tue, 03 Nov 2026 18:55:40 -0500",
-      "snippet": "Tuesday on the News Hour, voters across the country head to the polls to decide control of the House and Senate in a midterm election widely seen as a referendum on President Trump and his administration. A look at the DOJ's efforts to change voter rolls and even block some resul",
+      "title": "WATCH: New York Gov. Kathy Hochul speaks after winning reelection",
+      "link": "https://www.pbs.org/newshour/politics/watch-new-york-gov-kathy-hochul-speaks-after-winning-reelection",
+      "publishedAt": "Wed, 04 Nov 2026 01:32:22 -0500",
+      "snippet": "This is Hochul's second time being elected governor. She was serving as lieutenant governor when Andrew Cuomo resigned in 2021, and she ascended to take his place.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Expert panel on what to expect on Election Night",
-      "link": "https://www.pbs.org/newshour/show/expert-panel-on-what-to-expect-on-election-night",
-      "publishedAt": "Tue, 03 Nov 2026 18:54:50 -0500",
-      "snippet": "To preview what to expect on Election Night, Amna Nawaz and Geoff Bennett sat down with our expert panel: Amy Walter, David Brooks, Kimberly Atkins-Stohr, Mo Elleithee, Doug Heye and Tiffany Smiley.",
+      "title": "Democrat J.D. Ford wins election to U.S. House in Indiana's 5th Congressional District",
+      "link": "https://www.pbs.org/newshour/politics/democrat-j-d-ford-wins-election-to-u-s-house-in-indianas-5th-congressional-district",
+      "publishedAt": "Wed, 04 Nov 2026 01:29:46 -0500",
+      "snippet": "In an upset that many analysts did not see coming, Democratic nominee J.D. Ford defeated three-term Rep. Victoria Spartz in Indiana's 5th Congressional District in Tuesday's election.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "A look at the DOJ's effort to gain greater control over elections",
-      "link": "https://www.pbs.org/newshour/show/a-look-at-the-dojs-effort-to-gain-greater-control-over-elections",
-      "publishedAt": "Tue, 03 Nov 2026 18:50:58 -0500",
-      "snippet": "In recent months, the Trump administration and the Department of Justice have led an extraordinary effort to exert federal control over state-run elections. Nearly all of those efforts, so far, have been blocked or rejected by the courts. To discuss election security and the pros",
+      "title": "Democrats win control of U.S. House, in major rebuke to Trump",
+      "link": "https://www.pbs.org/newshour/politics/democrats-win-control-of-the-u-s-house",
+      "publishedAt": "Wed, 04 Nov 2026 01:27:26 -0500",
+      "snippet": "Democrats have won control of the U.S. House in addition to the U.S. Senate, delivering a shockingly decisive rebuke of Republican governance in Washington and ushering in a new era of congressional resistance to President Donald Trump.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Pelosi reflects on historic career and predicts 'big victory' for Democrats",
-      "link": "https://www.pbs.org/newshour/show/pelosi-reflects-on-historic-career-and-predicts-big-victory-for-democrats",
-      "publishedAt": "Tue, 03 Nov 2026 18:45:16 -0500",
-      "snippet": "The political environment this year is often compared to the midterms of 2006, when Democrats won back control of Congress. After that election, Nancy Pelosi became the first female Speaker of the House. Twenty years later, Pelosi is in the final months of her historic political ",
+      "title": "WATCH: Democrat Annie Andrews' full victory speech after flipping South Carolina Senate seat",
+      "link": "https://www.pbs.org/newshour/politics/watch-democrat-annie-andrews-full-victory-speech-after-flipping-south-carolina-senate-seat",
+      "publishedAt": "Wed, 04 Nov 2026 01:20:51 -0500",
+      "snippet": "Andrews' victory in a state President Donald Trump won three times by double digits is a stark defeat for the Republican Party.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Former RNC chair Ronna McDaniel on GOP's political challenges",
-      "link": "https://www.pbs.org/newshour/show/former-rnc-chair-ronna-mcdaniel-on-gops-political-challenges",
-      "publishedAt": "Tue, 03 Nov 2026 18:40:33 -0500",
-      "snippet": "Ronna McDaniel served as chairwoman of the Republican National Committee during President Trump's first term. Now, she's a surrogate for Mike Rogers' Senate campaign in Michigan. McDaniel joined Geoff Bennett to discuss the race.",
+      "title": "Democrat Troy Jackson wins election to U.S. Senate from Maine",
+      "link": "https://www.pbs.org/newshour/politics/democrat-troy-jackson-wins-election-to-u-s-senate-from-maine",
+      "publishedAt": "Wed, 04 Nov 2026 01:06:36 -0500",
+      "snippet": "Jackson, 58, a fifth-generation logger and former president of the state Senate, had a little more than 100 days to sell himself to Maine voters after he replaced Graham Platner as the party's nominee in July.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "How exit polls are evolving as more Americans vote early",
-      "link": "https://www.pbs.org/newshour/show/how-exit-polls-are-evolving-as-more-americans-vote-early",
-      "publishedAt": "Tue, 03 Nov 2026 18:35:13 -0500",
-      "snippet": "On Election Day, candidates, campaigns and analysts are looking for more than the total number of voters. They also want to know who showed up to the polls and what issues were on their minds. Traditional exit polls are evolving as the way people vote has changed. Deema Zein take",
+      "title": "Democrat Christina Bohannan wins election to U.S. House in Iowa's 1st Congressional District",
+      "link": "https://www.pbs.org/newshour/politics/democrat-christina-bohannan-wins-election-to-u-s-house-in-iowas-1st-congressional-district",
+      "publishedAt": "Wed, 04 Nov 2026 00:43:15 -0500",
+      "snippet": "The third time was the charm for Bohannan, who lost by just 799 votes in her second race against Miller-Meeks two years ago.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Trump says U.S. will suspend $4B annual aid to Israel next year",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-trump-says-u-s-will-suspend-4b-annual-aid-to-israel-next-year",
-      "publishedAt": "Tue, 03 Nov 2026 18:30:16 -0500",
-      "snippet": "In our news wrap Tuesday, President Trump says the U.S. will suspend $4 billion in annual aid to Israel next year but arms sales will continue, investigators say they found some plane parts nearly four miles from the site of a jet crash in Florida and New York officials say a chi",
+      "title": "WATCH: Republican Ken Paxton speaks after losing Texas Senate race",
+      "link": "https://www.pbs.org/newshour/politics/watch-republican-ken-paxton-speaks-after-losing-texas-senate-race",
+      "publishedAt": "Wed, 04 Nov 2026 00:41:40 -0500",
+      "snippet": "\"I will commit that I will be praying for him, that he will do good for Texas and this nation,\" Paxton said about Talarico.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "AP Voter Poll: The economy and the state of democracy are voters' top issues",
-      "link": "https://www.pbs.org/newshour/politics/ap-voter-poll-the-economy-and-the-state-of-democracy-are-voters-top-issues",
-      "publishedAt": "Tue, 03 Nov 2026 18:26:06 -0500",
-      "snippet": "About 4 in 10 U.S. voters nationally say the economy is the most important issue facing the country, as most express concern about gas prices and the cost of groceries. About 3 in 10 say the state of democracy is the top issue.",
+      "title": "Trump says Democrats 'did a good job,' blames Republican candidates for midterm losses",
+      "link": "https://www.pbs.org/newshour/politics/trump-says-democrats-did-a-good-job-blames-republican-candidates-for-midterm-losses",
+      "publishedAt": "Wed, 04 Nov 2026 00:34:43 -0500",
+      "snippet": "Voters delivered a significant rebuke to President Donald Trump on Tuesday by handing Democrats control of the Senate, rejecting his handpicked candidates while airing widespread concerns about high costs in the wake of his war against Iran and his punishing tariff policy.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "AP Voter Poll: Voters want Congress to impose more checks on an unpopular president",
-      "link": "https://www.pbs.org/newshour/politics/ap-voter-poll-voters-want-congress-to-impose-more-checks-on-an-unpopular-president",
-      "publishedAt": "Tue, 03 Nov 2026 18:08:12 -0500",
-      "snippet": "The AP Voter Poll, an expansive survey of the electorate, suggests most are deeply unhappy with Trump, with roughly 6 in 10 saying they disapprove of how he's handling the presidency.",
+      "title": "WATCH: Democrat James Talarico speaks after winning Texas Senate seat",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-democrat-james-talarico-speaks-after-winning-texas-senate-seat",
+      "publishedAt": "Wed, 04 Nov 2026 00:26:09 -0500",
+      "snippet": "Talarico's victory represents the first time a Democrat has won a statewide office in Texas since 1994, a shakeup for a state long dominated by Republicans.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Here's what to know about another cyberattack on European supermarket fridges",
-      "link": "https://www.pbs.org/newshour/world/heres-what-to-know-about-another-cyberattack-on-european-supermarket-fridges",
-      "publishedAt": "Tue, 03 Nov 2026 18:01:53 -0500",
-      "snippet": "Experts say outdated technology and weak passwords are to blame.",
+      "title": "Democrat Denise Powell wins election to U.S. House in Nebraska's 2nd Congressional District",
+      "link": "https://www.pbs.org/newshour/politics/democrat-denise-powell-wins-election-to-u-s-house-in-nebraskas-2nd-congressional-district",
+      "publishedAt": "Wed, 04 Nov 2026 00:23:40 -0500",
+      "snippet": "Powell flipped a district that Democrats have been targeting for several election cycles.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump and the high cost of living loom over California governor's race between Becerra and Hilton",
-      "link": "https://www.pbs.org/newshour/politics/trump-and-the-high-cost-of-living-loom-over-california-governors-race-between-becerra-and-hilton",
-      "publishedAt": "Tue, 03 Nov 2026 17:51:39 -0500",
-      "snippet": "The winner will succeed Democratic Gov. Gavin Newsom, who can't seek a third term but is considering a White House run.",
+      "title": "Democrats take control of the Senate after winning key midterm races",
+      "link": "https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races",
+      "publishedAt": "Tue, 03 Nov 2026 23:40:42 -0500",
+      "snippet": "Democrats have won the U.S. Senate, ending Republican dominance in Washington by harnessing voters' frustration with President Donald Trump.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Spain's transport minister steps down 6 days after high-speed train crash that killed 69 people",
-      "link": "https://www.pbs.org/newshour/world/spains-transport-minister-steps-down-6-days-after-high-speed-train-crash-that-killed-69-people",
-      "publishedAt": "Tue, 03 Nov 2026 17:27:17 -0500",
-      "snippet": "Earlier Tuesday, he announced new safety measures, including improvements in control centers and a faster rollout of the European Rail Traffic Management System.",
+      "title": "Democrat Rob Sand wins election to be Iowa's next governor",
+      "link": "https://www.pbs.org/newshour/politics/democrat-rob-sand-wins-election-to-be-iowas-next-governor",
+      "publishedAt": "Tue, 03 Nov 2026 23:30:52 -0500",
+      "snippet": "Democrat Rob Sand has won Tuesday's election to be the next governor of Iowa. His win flips the seat held by a retiring Republican governor and likely sets up four years of divided government in the state.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Flights across Europe face disruption after false bomb threats",
-      "link": "https://www.pbs.org/newshour/world/flights-across-europe-face-disruption-after-false-bomb-threats",
-      "publishedAt": "Tue, 03 Nov 2026 16:53:00 -0500",
-      "snippet": "Several flights across Europe received alleged bomb threats on Tuesday that ultimately turned out to be hoaxes but prompted searches, diversions and, in one case, an escort by the Italian Air Force until landing, officials said.",
+      "title": "Democrat Gina Hinojosa wins election for governor in Texas",
+      "link": "https://www.pbs.org/newshour/politics/democrat-gina-hinojosa-wins-election-for-governor-in-texas",
+      "publishedAt": "Tue, 03 Nov 2026 23:26:33 -0500",
+      "snippet": "In a stunning upset, Gina Hinojosa was elected the first Democratic governor of Texas in more than 30 years on Tuesday, ousting Republican incumbent Greg Abbott and catapulting a decided underdog to national prominence leading what has long been the nation's most populous red sta",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Parts of jet's tail found more than a mile from plane crash site in South Florida, official says",
-      "link": "https://www.pbs.org/newshour/nation/parts-of-jets-tail-found-more-than-a-mile-from-plane-crash-site-in-south-florida-official-says",
-      "publishedAt": "Tue, 03 Nov 2026 16:39:42 -0500",
-      "snippet": "National Transportation Safety Board member Tom Chapman said during a news conference Tuesday that the discovery of tail parts broken into three pieces confirms the plane was breaking apart before it hit the ground.",
+      "title": "WATCH: Pennsylvania Gov. Josh Shapiro speaks after winning reelection",
+      "link": "https://www.pbs.org/newshour/politics/watch-pennsylvania-gov-josh-shapiro-speaks-after-winning-reelection",
+      "publishedAt": "Tue, 03 Nov 2026 23:13:36 -0500",
+      "snippet": "Shapiro was seeking a second term. He previously served two terms as state attorney general, and he's considered a potential contender for the White House in 2028.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Escaped Tennessee inmate convicted of co-worker's murder is recaptured in Missouri, officials say",
-      "link": "https://www.pbs.org/newshour/nation/escaped-tennessee-inmate-convicted-of-co-workers-murder-is-recaptured-in-missouri-officials-say",
-      "publishedAt": "Tue, 03 Nov 2026 15:54:40 -0500",
-      "snippet": "Jacob Morley escaped from the Northwest Correctional Complex in Tennessee's far northwestern corner on Oct. 25, after he slipped through a fence in his prison clothes.",
+      "title": "4 takeaways from election night",
+      "link": "https://www.pbs.org/newshour/politics/takeaways-from-election-night-young-voters-hispanics-shift-away-from-the-gop-as-voters-show-unhappiness-with-trump",
+      "publishedAt": "Tue, 03 Nov 2026 23:12:33 -0500",
+      "snippet": "President Donald Trump repeatedly encouraged voters to pretend he was on the midterm ballot. They did. And it went very badly for him and his Republican Party.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Man charged with mailing hundreds of letters containing powder to officials ahead of the election",
-      "link": "https://www.pbs.org/newshour/politics/man-charged-with-mailing-hundreds-of-letters-containing-powder-to-officials-ahead-of-the-election",
-      "publishedAt": "Tue, 03 Nov 2026 15:37:47 -0500",
-      "snippet": "Federal authorities charged an Oklahoma City man with sending hundreds of letters containing white powder and ominous warnings about treason to public officials ahead of the 2024 and 2026 elections.",
+      "title": "Democrat Xavier Becerra wins California governor's race, defeating Republican Steve Hilton",
+      "link": "https://www.pbs.org/newshour/politics/democrat-xavier-becerra-wins-california-governors-race-defeating-republican-steve-hilton",
+      "publishedAt": "Tue, 03 Nov 2026 23:12:28 -0500",
+      "snippet": "The odds were in Becerra's favor as a Democrat running in a state that hasn't elected a Republican statewide in 20 years.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Spanish police investigating after soccer player dies following on-field collision",
-      "link": "https://www.pbs.org/newshour/world/spanish-police-investigating-after-soccer-player-dies-following-on-field-collision",
-      "publishedAt": "Tue, 03 Nov 2026 15:14:35 -0500",
-      "snippet": "Under Spanish law, deaths from non-natural causes, including accidents, are subject to judicial investigation.",
+      "title": "Democrat James Talarico wins election to U.S. Senate from Texas",
+      "link": "https://www.pbs.org/newshour/politics/democrat-james-talarico-wins-election-to-u-s-senate-from-texas",
+      "publishedAt": "Tue, 03 Nov 2026 23:06:18 -0500",
+      "snippet": "Democrat James Talarico flipped a U.S. Senate seat in Texas on Tuesday, defeating Republican Ken Paxton to pull off the first statewide victory in more than 30 years and sending a jolt through a longtime GOP stronghold that President Donald Trump carried by double digits just two",
       "tier": 1
     },
     {
@@ -436,6 +436,78 @@
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Wawira Njiru — Kenya&apos;s No. 1 school feeder honored with the German Africa Prize",
+      "link": "https://www.dw.com/en/wawira-njiru-kenya-s-no-1-school-feeder-honored-with-the-german-africa-prize/a-79646537?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "From a small fundraiser to a big enterprise, Wawira Njiru&apos;s Kenyan school feeding scheme has been more successful than even she would have thought. She&apos;s now being awarded with the German Africa Prize.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "BMW reports lower Q3 earnings as China woes mount",
+      "link": "https://www.dw.com/en/bmw-reports-lower-q3-earnings-as-china-woes-mount/a-79850847?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "BMW reports a drop in profits in the July to September quarter amid fierce competition from China.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany&apos;s celebrated children&apos;s author Janosch has died",
+      "link": "https://www.dw.com/en/germany-s-celebrated-children-s-author-janosch-has-died/a-79851600?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Bear, Tiger and Tiger-Duck: The author and illustrator Janosch achieved world fame with his heartwarming children&apos;s figures. He died at the age of 95.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "South Africans vote in local elections in test for ANC",
+      "link": "https://www.dw.com/en/south-africans-vote-in-local-elections-in-test-for-anc/a-79851651?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Failing public services, corruption and high crime rates have led to growing frustration among South African voters. That could lead to further losses for the ANC.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+      "link": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Donald Trump&apos;s Republicans will no longer control the US Congress after the Democrats flipped both chambers in the midterm elections. The outcome could impact conflicts in Europe and the Middle East.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US midterm election results: Democrats flip House and Senate. Here&apos;s what else the data tells us",
+      "link": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Democrats have won the majority in both House and Senate. Vote counts are still ongoing. DW takes a look at who voted Republican, who voted Democrat and what it all means.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Election body opens door for voter reinclusion",
+      "link": "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Indian poll body said no action will be taken against deleted voters for using Form 6 for re-enrolment in voter rolls. Follow DW for more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "From rotten food to political opponents: Researchers explore how disgust relates to our beliefs, and why the connection is complicated",
+      "link": "https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Some studies have linked disgust sensitivity to socially conservative attitudes. But does disgust shape our politics, or do our beliefs shape what we find disgusting?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US to cut nearly $4 billion in Israel military aid, Trump says",
+      "link": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "President Donald Trump said that the United States would still sell weapons to Israel. He added that Democratic candidates were using US military support for Israel against Republicans in the midterm elections.",
       "tier": 2
     },
     {
@@ -504,14 +576,6 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
-      "link": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Donald Trump&apos;s Republicans control the US Congress, but that could change after the midterm elections. The outcome of the ballot will not only impact domestic policy but also conflicts in Europe and the Middle East.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Yemen: Houthi clashes near Taiz leave residents in a &apos;state of panic&apos;",
       "link": "https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -523,71 +587,7 @@
       "title": "Multiple flights to European airports targeted by bomb threats",
       "link": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The bomb threats involved two passenger planes bound for Warsaw, a Ryanair flight from London to Spain, and a fourth flight traveling from Israel to the Bulgarian capital, Sofia. No explosives were found.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Can US midterm election really change Trump&apos;s Iran policy?",
-      "link": "https://www.dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US midterms are at hand, but their impact on the Iran war remains far from clear. Analysts say the Washington political elite may not be as divided on Iran as it appears.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Football: Spanish player dies on after cardiac arrest on the pitch",
-      "link": "https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Tenerife forward Jesus de Miguel has died following a collision with the opposing goalkeeper. The Spanish second-division club has said it is \"heartbroken\" by the loss.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Asian Cup postponed due to Middle East conflict",
-      "link": "https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Asian Cup has become the latest sporting event to be affected by the ongoing conflict in the Middle East. Organizers cite \"exceptional circumstances\" in Saudi Arabia, which has seen several Houthi attacks of late.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Could the AI boom make borrowing more expensive in Europe?",
-      "link": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "France, Germany and Italy face a volatile bond market as war inflation bites. With US tech giants now issuing billions in AI bonds, they are competing with cash-strapped European governments.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US midterms: Polling stations have closed in five eastern states",
-      "link": "https://www.dw.com/en/us-midterms-polling-stations-have-closed-in-five-eastern-states/live-79829440?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The crucial midterms could put a check on how much power President Donald Trump can wield during the last two years of his term. Follow DW&apos;s live updates.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US midterm election: Why it&apos;s important and races to watch",
-      "link": "https://www.dw.com/en/us-midterm-election-why-it-s-important-and-races-to-watch/a-79789932?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US voters are electing a new Congress. The results will be decisive for the future of the United States, and a judgment on Donald Trump&apos;s second term as president.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Ukraine in focus at Berlin Security Conference",
-      "link": "https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A security conference in the German capital is addressing defending Europe against threats from Russia. Meanwhile, Germany&apos;s justice minister wants to raise penalties for sexual offenses. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Cyclone Murasu wreaks havoc after landfall",
-      "link": "https://www.dw.com/en/india-news-cyclone-murasu-wreaks-havoc-after-landfall/live-79835410?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Cyclone Murasu made landfall in Andhra Pradesh, leaving a trail of destruction. Weather agencies have warned of heavy rainfall in the next 12 hours. Follow DW for more.",
+      "snippet": "The bomb threats involved two passenger planes bound for Warsaw, a Ryanair flight from London to Spain, two flights to Rome and a flight traveling from Israel to the Bulgarian capital, Sofia. No explosives were found.",
       "tier": 2
     }
   ]
