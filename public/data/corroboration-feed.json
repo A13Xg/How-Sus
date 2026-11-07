@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:30:28.888Z",
+  "generatedAt": "2026-11-07T00:40:25.321Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,34 +32,66 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 02:08:57 GMT",
-      "snippet": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 21:06:25 GMT",
+      "snippet": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Trump signs order to preserve Oval Office as national monument",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 09:19:57 GMT",
-      "snippet": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+      "title": "Four midterms takeaways for 2028 White House race",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 16:12:22 GMT",
+      "snippet": "The buzz about the presidential election is already under way - here's what we learned this week.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Two dead after bus crashes in France, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 12:27:33 GMT",
+      "publishedAt": "Fri, 06 Nov 2026 15:33:52 GMT",
       "snippet": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "New wave of bomb threats hit European airlines",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 15:25:35 GMT",
+      "snippet": "No link has been established between the threats against the airlines and those against the media outlets.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
       "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 12:19:41 GMT",
+      "publishedAt": "Fri, 06 Nov 2026 14:46:03 GMT",
       "snippet": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 17:44:02 GMT",
+      "snippet": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 15:30:42 GMT",
+      "snippet": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 12:51:38 GMT",
+      "snippet": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
       "tier": 1
     },
     {
@@ -72,9 +104,17 @@
     },
     {
       "source": "BBC World",
+      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 16:51:01 GMT",
+      "snippet": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
       "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 11:36:14 GMT",
+      "publishedAt": "Fri, 06 Nov 2026 14:57:08 GMT",
       "snippet": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
       "tier": 1
     },
@@ -82,7 +122,7 @@
       "source": "BBC World",
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 09:57:04 GMT",
+      "publishedAt": "Fri, 06 Nov 2026 21:49:50 GMT",
       "snippet": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
       "tier": 1
     },
@@ -114,7 +154,7 @@
       "source": "BBC World",
       "title": "Nigerian court rules opposition candidate cannot stand in elections",
       "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 22:00:33 GMT",
+      "publishedAt": "Fri, 06 Nov 2026 17:35:55 GMT",
       "snippet": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
       "tier": 1
     },
@@ -136,42 +176,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 17:39:48 GMT",
-      "snippet": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "French protests see numbers surge as unions join strikes over high cost of living",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 17:59:53 GMT",
-      "snippet": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 01:28:03 GMT",
-      "snippet": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Eight killed in series of shootings in western Turkey",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 19:32:54 GMT",
-      "snippet": "Victims are found in several locations in three separate vehicles, according to local reports.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 07:56:19 GMT",
-      "snippet": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 15:02:03 GMT",
+      "snippet": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
       "tier": 1
     },
     {
@@ -183,251 +191,243 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-      "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 19:08:48 GMT",
-      "snippet": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
+      "source": "NPR News",
+      "title": "Israel&apos;s Arab-led parties in spotlight after inconclusive election",
+      "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+      "publishedAt": "Fri, 06 Nov 2026 15:42:51 -0500",
+      "snippet": "Israel&apos;s center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Why gold prices are surprisingly low",
-      "link": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
-      "publishedAt": "Fri, 06 Nov 2026 07:00:00 -0500",
-      "snippet": "Gold tends to go up when there&apos;s uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. What&apos;s going on?",
+      "title": "The incoming class of U.S. senators is full of historic firsts",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+      "publishedAt": "Fri, 06 Nov 2026 15:21:13 -0500",
+      "snippet": "From the first Native American woman elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate&apos;s first Paralympian, voters elected historic candidates on Tuesday.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Past White House adviser Raj Panjabi has written a playbook for &apos;living room&apos; crises",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
-      "publishedAt": "Fri, 06 Nov 2026 06:57:32 -0500",
-      "snippet": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis — health, workplace, family conflicts — and \"turn fear into action.\"",
+      "title": "Trump&apos;s global health strategy is emerging. What will the Democratic Congress say?",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+      "publishedAt": "Fri, 06 Nov 2026 15:09:58 -0500",
+      "snippet": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
-      "publishedAt": "Fri, 06 Nov 2026 05:00:00 -0500",
-      "snippet": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse.",
+      "title": "No one knows how many ballots are outstanding in Mississippi&apos;s Senate race",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+      "publishedAt": "Fri, 06 Nov 2026 14:50:14 -0500",
+      "snippet": "The razor-thin margin between GOP Sen. Cindy Hyde-Smith and Democrat Scott Colom is shining a light on an election process in Mississippi that is among the slowest and most decentralized in the U.S.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Fill in the blank in the quiz: Vance says they lost the midterms because of ____",
-      "link": "https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center",
-      "publishedAt": "Fri, 06 Nov 2026 05:00:00 -0500",
-      "snippet": "Plus: Heidi Klum&apos;s hand, hackers and the pope&apos;s visitor!",
+      "title": "Stephen Miller will replace Susie Wiles as Trump&apos;s chief of staff",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+      "publishedAt": "Fri, 06 Nov 2026 14:13:52 -0500",
+      "snippet": "The change comes after sweeping Republican losses in the midterm elections.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6023117/morning-news-brief",
-      "publishedAt": "Fri, 06 Nov 2026 04:47:37 -0500",
-      "snippet": "The Labor Department to release October jobs report Friday, what tactics are available to the Democratic Party to bring down fuel prices, judge blocks construction of Trump&apos;s arch for 14 days.",
+      "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+      "publishedAt": "Fri, 06 Nov 2026 14:13:06 -0500",
+      "snippet": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Former Army medic reflects on his toughest moments helping the wounded",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6027720/former-army-medic-reflects-on-his-toughest-moments-helping-the-wounded",
-      "publishedAt": "Fri, 06 Nov 2026 04:46:06 -0500",
-      "snippet": "Twenty years ago, Army Staff Sergeant Phillip Trezza deployed to Iraq as a medic. He speaks with his teenage daughter about some of his toughest moments.",
+      "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+      "publishedAt": "Fri, 06 Nov 2026 14:00:21 -0500",
+      "snippet": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
-      "publishedAt": "Fri, 06 Nov 2026 04:19:57 -0500",
-      "snippet": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into question.",
+      "title": "Remembering &apos;Star Trek&apos; actor Patrick Stewart",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
+      "publishedAt": "Fri, 06 Nov 2026 12:36:39 -0500",
+      "snippet": "Stewart, who died Oct. 28, performed with the Royal Shakespeare Company before becoming famous as Star Trek&apos;s Picard. Critic David Bianculli has a tribute, and we listen back to a 2020 interview.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "A judge blocks construction of Trump&apos;s arch moments after it won federal approval",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
-      "publishedAt": "Fri, 06 Nov 2026 00:05:43 -0500",
-      "snippet": "The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocking work for 14 days.",
+      "title": "European flights and broadcasters are targeted with another wave of bomb threats",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+      "publishedAt": "Fri, 06 Nov 2026 10:21:31 -0500",
+      "snippet": "Officials across Europe reported a slew of bomb threats against multiple flights, following a string of hoaxes that caused flight diversions this week. Three broadcasters also received threats.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
-      "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
-      "publishedAt": "Thu, 05 Nov 2026 19:16:53 -0500",
-      "snippet": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "These are the races in the House and Senate that haven&apos;t been called yet",
-      "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
-      "publishedAt": "Thu, 05 Nov 2026 19:03:45 -0500",
-      "snippet": "Democrats are poised to have a strong majority in the upcoming Congress. The final numbers are still being determined. Here&apos;s where things stand in the races that are waiting to be called by the AP.",
+      "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+      "publishedAt": "Fri, 06 Nov 2026 09:53:46 -0500",
+      "snippet": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Alabama executes man for 1991 killings in last of 3 U.S. executions carried out the same day",
-      "link": "https://www.pbs.org/newshour/nation/alabama-executes-man-for-1991-killings-in-last-of-3-u-s-executions-carried-out-the-same-day",
-      "publishedAt": "Thu, 05 Nov 2026 19:49:28 -0500",
-      "snippet": "Florida carried out a record-tying 19th execution of the year in an unusual instance of three states administering the death penalty on the same day.",
+      "title": "What Trump picking Stephen Miller for chief of staff signals about his agenda",
+      "link": "https://www.pbs.org/newshour/show/what-trump-picking-stephen-miller-for-chief-of-staff-signals-about-his-agenda",
+      "publishedAt": "Fri, 06 Nov 2026 18:55:50 -0500",
+      "snippet": "Trump has replaced White House chief of staff Susie Wiles with Stephen Miller, the hardline architect of his immigration agenda, after a crushing midterm defeat. Immigration, once a political strength for Trump, became a liability after two years of mass detentions, deportations ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech",
-      "link": "https://www.pbs.org/newshour/politics/jd-habibi-arabs-celebrate-el-sayeds-use-of-a-term-of-affection-in-his-victory-speech",
-      "publishedAt": "Thu, 05 Nov 2026 19:42:09 -0500",
-      "snippet": "\"Habibi\" literally translates to \"my beloved\" and is peppered through Arab pop songs. In everyday speech, it often means \"buddy,\" \"pal,\" or \"bro.\" El-Sayed's supporters have sported shirts reading \"Habibi for Abdul.\"",
+      "title": "News Wrap: Judge blocks construction of Trump's triumphal arch for now",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-judge-blocks-construction-of-trumps-triumphal-arch-for-now",
+      "publishedAt": "Fri, 06 Nov 2026 18:50:18 -0500",
+      "snippet": "In our news wrap Friday, Trump's plans to build a massive triumphal arch near Arlington National Cemetery have been put on hold, two more top officials resigned from the Justice Department, residents along the Georgia-Tennessee border are returning home after record floodwaters r",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Tankers carrying Russian diesel change course, raising doubts about shipments to U.S.",
-      "link": "https://www.pbs.org/newshour/world/tankers-carrying-russian-diesel-change-course-raising-doubts-about-shipments-to-u-s",
-      "publishedAt": "Thu, 05 Nov 2026 19:17:51 -0500",
-      "snippet": "President Donald Trump's plan to allow imports of Russian diesel appeared to falter this week after state and federal officials warned that handling any shipments could bring legal consequences and two tankers initially bound for the United States changed course.",
+      "title": "What to know about a better-than-expected jobs report amid AI bubble concerns",
+      "link": "https://www.pbs.org/newshour/show/what-to-know-about-a-better-than-expected-jobs-report-amid-ai-bubble-concerns",
+      "publishedAt": "Fri, 06 Nov 2026 18:45:56 -0500",
+      "snippet": "Employers added 165,000 new jobs in October, according to a new government report. Job gains for August and September were revised upward as well, by a combined 84,000 jobs. That makes the last three months of the job market look better than expected, but it comes as questions gr",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "A look at the midterm races that remain undecided",
-      "link": "https://www.pbs.org/newshour/show/a-look-at-the-midterm-races-that-remain-undecided",
-      "publishedAt": "Thu, 05 Nov 2026 18:55:48 -0500",
-      "snippet": "As Democrats prepare to take control of Congress and Republicans grapple with stunning losses, every remaining race matters. Some races are still too close to call, including Senate battles in both Alaska and Mississippi. Congressional correspondent Lisa Desjardins reports.",
+      "title": "Sen.-elect Hamilton reflects on why Kansas voters chose a Democrat for U.S. Senate",
+      "link": "https://www.pbs.org/newshour/show/sen-elect-hamilton-reflects-on-why-kansas-voters-chose-a-democrat-for-u-s-senate",
+      "publishedAt": "Fri, 06 Nov 2026 18:40:45 -0500",
+      "snippet": "Democrats' midterm wins have reached red states across the country, including Kansas, which has not sent a Democrat to the U.S. Senate since 1932. That will soon change after Rev. Adam Hamilton, who leads the largest United Methodist church in the country, defeated Republican inc",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Head of Justice Department's civil rights division resigns",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-head-of-justice-departments-civil-rights-division-resigns",
-      "publishedAt": "Thu, 05 Nov 2026 18:50:08 -0500",
-      "snippet": "In our news wrap Thursday, Harmeet Dhillon is stepping down as head of the Justice Department's civil rights division, Melania Trump hosted Russian and Ukrainian officials to mark a localized ceasefire and European authorities are investigating a series of bomb threats that targe",
+      "title": "Georgia Gov.-elect Bottoms reflects on historic victory and the path forward for Democrats",
+      "link": "https://www.pbs.org/newshour/show/georgia-gov-elect-bottoms-reflects-on-historic-victory-and-the-path-forward-for-democrats",
+      "publishedAt": "Fri, 06 Nov 2026 18:35:55 -0500",
+      "snippet": "Georgia voters made history this week, electing Keisha Lance Bottoms as the state's first Democratic senator in more than two decades and the first-ever Black woman governor in the country. The former Atlanta mayor campaigned on lowering costs, expanding healthcare access and pus",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "After midterms, Trump is left to weigh his next move in Iran war that contributed to GOP loss",
-      "link": "https://www.pbs.org/newshour/politics/after-midterms-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-loss",
-      "publishedAt": "Thu, 05 Nov 2026 18:46:36 -0500",
-      "snippet": "As Trump ponders his next move, the stakes couldn't be higher for Iran, the Middle East and the global economy writ large.",
+      "title": "Former Sen. Flake, outspoken Trump critic, on the GOP reckoning post-midterms",
+      "link": "https://www.pbs.org/newshour/show/former-sen-flake-outspoken-trump-critic-on-the-gop-reckoning-post-midterms",
+      "publishedAt": "Fri, 06 Nov 2026 18:30:54 -0500",
+      "snippet": "As Democrats celebrate their historic gains, Republicans are beginning to take stock of major upsets and what comes next for their party. Amna Nawaz speaks with former Arizona Sen. Jeff Flake, one of the most outspoken Republican critics of Trump during his first administration a",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "After midterms, world leaders await Trump's next move in Iran",
-      "link": "https://www.pbs.org/newshour/show/after-midterms-world-leaders-await-trumps-next-move-in-iran",
-      "publishedAt": "Thu, 05 Nov 2026 18:45:29 -0500",
-      "snippet": "Tuesday's election results were not just closely watched in the U.S. American elections, in many ways, have become global events and the Democratic wave led to an extraordinary outpouring. Nick Schifrin gauges that reaction.",
+      "title": "Brooks and Capehart on Trump's White House shakeup and fallout from the midterms",
+      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-white-house-shakeup-and-fallout-from-the-midterms",
+      "publishedAt": "Fri, 06 Nov 2026 18:25:07 -0500",
+      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including Trump shaking up his White House leadership, deep divisions in the Republican Party and how Democrats are preparing to take control of Congress.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Newsom plans to commute all of California's death sentences",
-      "link": "https://www.pbs.org/newshour/show/newsom-plans-to-commute-all-of-californias-death-sentences",
-      "publishedAt": "Thu, 05 Nov 2026 18:40:51 -0500",
-      "snippet": "California Gov. Gavin Newsom commuted the state's entire death row population to life in prison without parole. The decision could grant clemency to 548 people. Newsom had previously put a moratorium on executions in the state in 2019, but left hundreds on death row. Amna Nawaz d",
+      "title": "Remembering Jay Rockefeller's life and legacy of public service",
+      "link": "https://www.pbs.org/newshour/show/remembering-jay-rockefellers-life-and-legacy-of-public-service",
+      "publishedAt": "Fri, 06 Nov 2026 18:20:13 -0500",
+      "snippet": "Jay Rockefeller, former West Virginia governor and longtime U.S. senator, has died at age 89. Born into one of America's wealthiest and most prominent families, Rockefeller forged his own path in politics and became a leading voice on healthcare, education and the needs of workin",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Rep. Garcia says voters gave Democrats a mandate to pursue accountability",
-      "link": "https://www.pbs.org/newshour/show/rep-garcia-says-voters-gave-democrats-a-mandate-to-pursue-accountability",
-      "publishedAt": "Thu, 05 Nov 2026 18:40:32 -0500",
-      "snippet": "With Democrats set to take control of the House, they are making plans to use their majority not only to advance legislation but also to ramp up congressional oversight. California Rep. Robert Garcia is expected to become the new chairman of the House Oversight Committee. He says",
+      "title": "Seeds and preserved hair in tomb point to oldest signs of cannabis high 2,800 years ago, study suggests",
+      "link": "https://www.pbs.org/newshour/science/seeds-and-preserved-hair-in-tomb-point-to-oldest-signs-of-cannabis-high-2800-years-ago-study-suggests",
+      "publishedAt": "Fri, 06 Nov 2026 17:19:59 -0500",
+      "snippet": "Archaeologists who led a dig at a monumental tomb in Siberia said they turned up evidence of the earliest known use of cannabis for psychoactive purposes.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Refugee influx and foreign aid cuts strain South Sudan's health care system",
-      "link": "https://www.pbs.org/newshour/show/refugee-influx-and-foreign-aid-cuts-strain-south-sudans-health-care-system",
-      "publishedAt": "Thu, 05 Nov 2026 18:35:31 -0500",
-      "snippet": "There are few places where the consequences of the Trump administration's cuts to global aid programs are more apparent than South Sudan. With a raging civil war in Sudan to its north, South Sudan is contending not just with its own underserved people, but with more than a millio",
+      "title": "Dad of 20-year-old co-pilot in Florida jet crash says her final radio calls showed 'she's tough'",
+      "link": "https://www.pbs.org/newshour/nation/dad-of-20-year-old-co-pilot-in-florida-jet-crash-says-her-final-radio-calls-showed-shes-tough",
+      "publishedAt": "Fri, 06 Nov 2026 16:52:13 -0500",
+      "snippet": "\"I wanted to be by her side,\" Allan Filgueiras, a pilot who helped teach his daughter to fly, said at a news conference Friday, at times holding back tears. \"Inside the plane. To help.\"",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Hegseth allows National Guard to boost DC patrols with military vehicles, boats and patrol cars",
-      "link": "https://www.pbs.org/newshour/politics/hegseth-allows-national-guard-to-boost-dc-patrols-with-military-vehicles-boats-and-patrol-cars",
-      "publishedAt": "Thu, 05 Nov 2026 18:31:50 -0500",
-      "snippet": "Defense Secretary Pete Hegseth has signed off on the National Guard ramping up its presence in the nation's capital in military vehicles and boats as troops deepen their integration with local law enforcement.",
+      "title": "Cornell faculty vote 'no confidence' in university leadership after alleged fraternity gang rape",
+      "link": "https://www.pbs.org/newshour/nation/cornell-faculty-vote-no-confidence-in-university-leadership-after-alleged-fraternity-gang-rape",
+      "publishedAt": "Fri, 06 Nov 2026 16:28:00 -0500",
+      "snippet": "While the faculty body has no power over the university's top leaders, backers of the resolution had said they hoped it would pressure Cornell's trustees to address longstanding institutional failures they identified.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "State lawmakers seek greater control over what universities can teach",
-      "link": "https://www.pbs.org/newshour/show/state-lawmakers-seek-greater-control-over-what-universities-can-teach",
-      "publishedAt": "Thu, 05 Nov 2026 18:30:54 -0500",
-      "snippet": "Democrats in Texas will head to Austin with power they haven't had in decades. One of the many questions is whether they will try to reverse changes made at universities in recent years by Republicans. Texas is not alone. More than half of all college students are enrolled in a s",
+      "title": "Democrats win the Arizona House, Senate and governor's office for the first time since 1966",
+      "link": "https://www.pbs.org/newshour/politics/democrats-win-the-arizona-house-senate-and-governors-office-for-the-first-time-since-1966",
+      "publishedAt": "Fri, 06 Nov 2026 16:16:31 -0500",
+      "snippet": "The Associated Press called enough legislative races to confirm that both chambers flipped on Friday.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "On 'Settle In,' D.L. Hughley recounts his confrontation with Bill Cosby",
-      "link": "https://www.pbs.org/newshour/show/on-settle-in-d-l-hughley-recounts-his-confrontation-with-bill-cosby",
-      "publishedAt": "Thu, 05 Nov 2026 18:25:09 -0500",
-      "snippet": "D.L. Hughley is one of comedy's most enduring stars. His new memoir, \"Charlie's Boy,\" offers a candid look at fatherhood, family trauma, and the path he took from South Central LA to some of the biggest stages on the planet. Geoff Bennett spoke with Hughley about all that and mor",
+      "title": "WATCH: 'Elections matter.' Houston mayor limits police cooperation with ICE",
+      "link": "https://www.pbs.org/newshour/politics/watch-elections-matter-houston-mayor-limits-police-cooperation-with-ice",
+      "publishedAt": "Fri, 06 Nov 2026 15:51:53 -0500",
+      "snippet": "The shift in the nation's fourth-largest city is one of the first actions to restrict U.S. Immigration and Customs Enforcement operations since Democrats' rout in Tuesday's midterm elections.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Paraguay prosecutor will seek charges against embattled president after bank collapse",
-      "link": "https://www.pbs.org/newshour/world/paraguay-prosecutor-will-seek-charges-against-embattled-president-after-bank-collapse",
-      "publishedAt": "Thu, 05 Nov 2026 18:16:26 -0500",
-      "snippet": "Paraguayan President Santiago Peña is under criminal investigation following the collapse of a major digital bank, prosecutors announced, hours after the South American leader's resignation and impeachment Thursday.",
+      "title": "Trump's triumphal arch is blocked for now, but a new website highlights the plans",
+      "link": "https://www.pbs.org/newshour/politics/trumps-triumphal-arch-is-blocked-for-now-but-a-new-website-highlights-the-plans",
+      "publishedAt": "Fri, 06 Nov 2026 15:36:43 -0500",
+      "snippet": "The White House highlighted the website the morning after U.S. District Judge Tanya Chutkan issued a temporary restraining order that prohibits work on the site for 14 days.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption'",
-      "link": "https://www.pbs.org/newshour/politics/after-taking-control-of-congress-democrats-vow-major-probes-into-trumps-tentacles-of-corruption",
-      "publishedAt": "Thu, 05 Nov 2026 18:00:50 -0500",
-      "snippet": "Corruption topped the list of concerns for voters who ousted Republicans and handed Democrats control of Congress in the midterm elections. Now, the newly empowered Democratic Party is putting the issue front and center as its leaders chart their course for investigations and pol",
+      "title": "Connecticut Sen. Chris Murphy released from hospital after stroke",
+      "link": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-released-from-hospital-after-stroke",
+      "publishedAt": "Fri, 06 Nov 2026 14:52:13 -0500",
+      "snippet": "The 53-year-old Democrat said in a statement Friday that doctors are \"encouraged by the progress\" he's made so far.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Elon Musk gambled $445 million to boost Republicans in the midterms. It came up short",
-      "link": "https://www.pbs.org/newshour/politics/elon-musk-gambled-445-million-to-boost-republicans-in-the-midterms-it-came-up-short",
-      "publishedAt": "Thu, 05 Nov 2026 17:44:08 -0500",
-      "snippet": "Nobody may have suffered bigger losses Tuesday than President Donald Trump. But few others had more on the line than Musk, who gambled big and came up holding the midterm's worst return on investment.",
+      "title": "Schumer says Democrats will stop Trump from placing 'right-winger' on the Supreme Court",
+      "link": "https://www.pbs.org/newshour/politics/schumer-says-democrats-will-stop-trump-from-placing-right-winger-on-the-supreme-court",
+      "publishedAt": "Fri, 06 Nov 2026 14:46:53 -0500",
+      "snippet": "Schumer says the party's agenda will center around lowering prices, along with five issues that they have focused on in the minority — healthcare, housing, Trump's tariffs, childcare and lowering energy bills.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What happens when airlines receive bomb threats?",
-      "link": "https://www.pbs.org/newshour/world/what-happens-when-airlines-receive-bomb-threats",
-      "publishedAt": "Thu, 05 Nov 2026 17:31:45 -0500",
-      "snippet": "Hundreds of airline passengers in Europe had their flights diverted or given military escorts this week after a series of bomb threats that officials have said were malicious hoaxes.",
+      "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
+      "link": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
+      "publishedAt": "Fri, 06 Nov 2026 14:17:44 -0500",
+      "snippet": "President Trump's White House chief of staff, Susie Wiles, is stepping down. She is Trump's longest-serving chief of staff and the first woman ever to hold the position.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "WATCH: First lady Melania Trump hosted Russian and Ukrainian officials. Trump met with Putin's envoy",
-      "link": "https://www.pbs.org/newshour/politics/watch-first-lady-melania-trump-hosted-russian-and-ukrainian-officials-trump-met-with-putins-envoy",
-      "publishedAt": "Thu, 05 Nov 2026 17:04:18 -0500",
-      "snippet": "President Donald Trump said he met with Vladimir Putin's envoy at the White House on Thursday but did not meet with Ukrainian officials who were also visiting.",
+      "title": "Latino voters propel Democrats to big wins with leftward swing",
+      "link": "https://www.pbs.org/newshour/politics/latino-voters-propel-democrats-to-big-wins-with-leftward-swing",
+      "publishedAt": "Fri, 06 Nov 2026 14:07:57 -0500",
+      "snippet": "Hispanic voters, especially those in the working class, have been impacted by economic challenges, leading them to reject President Donald Trump and his Republican Party.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump makes the Oval Office a national monument, but future presidents can still redecorate",
-      "link": "https://www.pbs.org/newshour/politics/trump-signs-proclamation-he-says-will-prevent-future-changes-to-oval-office-and-cabinet-room",
-      "publishedAt": "Thu, 05 Nov 2026 16:48:33 -0500",
-      "snippet": "It was the third day this week that the president, a real estate mogul, delivered remarks fixated on his pet projects in Washington.",
+      "title": "3 charged in $129 million AI scheme targeting thousands of companies",
+      "link": "https://www.pbs.org/newshour/nation/3-charged-in-129-million-ai-scheme-targeting-thousands-of-companies",
+      "publishedAt": "Fri, 06 Nov 2026 13:59:17 -0500",
+      "snippet": "Their victims included hospital systems in Missouri and California, a bank in Rhode Island, a financial technology company in the United Kingdom, a mutual fund company in Massachusetts and a pet food company in Florida, according to court documents.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Key federal panel expected to approve Trump's arch amid court challenge",
-      "link": "https://www.pbs.org/newshour/politics/key-federal-panel-expected-to-approve-trumps-arch-amid-court-challenge",
-      "publishedAt": "Thu, 05 Nov 2026 16:34:07 -0500",
-      "snippet": "The approval would clear a hurdle on the road to breaking ground on the project, and the administration has said it could launch construction within a day of the vote. But the proposed 250-foot tall gilded arch still faced legal challenges.",
+      "title": "Online magazine Salon announces it is shutting down",
+      "link": "https://www.pbs.org/newshour/arts/online-magazine-salon-announces-it-is-shutting-down",
+      "publishedAt": "Fri, 06 Nov 2026 13:46:46 -0500",
+      "snippet": "Salon said there were no immediate plans to take down its online archives, which include three decades of stories from across the world and across topics and genres.",
       "tier": 1
     },
     {
@@ -440,154 +440,154 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "India: Why does Delhi keep failing to tackle its air pollution crisis?",
-      "link": "https://www.dw.com/en/india-why-does-delhi-keep-failing-to-tackle-its-air-pollution-crisis/a-79873124?maca=en-rss-en-top-1022-rdf",
+      "title": "Pope Leo arrives in Uruguay at start of South America tour",
+      "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Despite years of government interventions, emergency restrictions and public outrage, Delhi continues to battle dangerously polluted air every winter. Why isn&apos;t there a lasting solution to a predictable crisis?",
+      "snippet": "Pope Leo has arrived in Uruguay at the start of a 12-day trip through three South American nations. His trip, which is intense with a packed itinerary, comes just weeks after his lung cancer surgery.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
-      "link": "https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-top-1022-rdf",
+      "title": "Tankers carrying Russian diesel to the US change course",
+      "link": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A court in Kenya has sentenced Paul Mackenzie to 200 years in prison for the murders of 190 children and an adult. He told them to starve themselves to death as part of his apocalyptic religious cult.",
+      "snippet": "Despite an ostensible deal between Donald Trump and Vladimir Putin to bring diesel to the US, tankers are reportedly unable to dock due to existing sanctions.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Exercise and cancer: What \"living longer\" really means",
-      "link": "https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-top-1022-rdf",
+      "title": "Stephen Miller named by Trump as new White House chief of staff",
+      "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A major trial found more colon cancer patients were alive eight years after treatment with long-term exercise coaching. But what does \"living longer\" mean, and who does it apply to?",
+      "snippet": "Trump said he would be replacing Susie Wiles for the top advisory role. Miller is controversial figure, known as a key architect of the administration&apos;s hardline immigration policies.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Turkey: Ex-minister arrested in a major fund manipulation scandal",
-      "link": "https://www.dw.com/en/turkey-ex-minister-arrested-in-a-major-fund-manipulation-scandal/a-79872732?maca=en-rss-en-top-1022-rdf",
+      "title": "Ueno Bank scandal plunges Paraguay into political crisis",
+      "link": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Fatma Betul Sayan Kaya, a former deputy chair of President Erdogan&apos;s party, was arrested in a major funds scandal. The opposition claims Sayan Kaya and her husband cashed in shares worth millions in the illegal scheme.",
+      "snippet": "Suspected financial fraud, public money at risk and millions of customers affected: Paraguay is in serious crisis following the sudden collapse of Ueno Bank. President Santiago Pena is facing impeachment.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "French bus carrying school children crashes, killing 2",
-      "link": "https://www.dw.com/en/french-bus-carrying-school-children-crashes-killing-2/a-79873221?maca=en-rss-en-top-1022-rdf",
+      "title": "Critics say Democrats should look into Trump&apos;s Middle East deals in future corruption investigations",
+      "link": "https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The bus reportedly veered off the road and crashed into a tree. French Transport Minister Philippe Tabarot was on his way to the scene.",
+      "snippet": "After their victory in the US midterm elections, the Democrats have promised to investigate corruption in the Trump administration. Critics say the president&apos;s Middle East deals is an area they should focus on.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
-      "link": "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-top-1022-rdf",
+      "title": "Ilse Aigner tipped by party allies as next German president",
+      "link": "https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "European shares have fallen after sharp losses in Asia and on Wall Street. Doubts over huge AI investments and fears of curbs following the Democrats&apos; US midterm victory have rattled global markets.",
+      "snippet": "German media reports suggest that Bavarian politician Ilse Aigner&apos;s chances of becoming the next president are on the up. Long favored by her Bavarian CSU, now it seems Christian Democrats nationwide plan to back her.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Pope Leo sets off on 12-day South America tour",
-      "link": "https://www.dw.com/en/pope-leo-sets-off-on-12-day-south-america-tour/a-79872584?maca=en-rss-en-top-1022-rdf",
+      "title": "Meghan Markle&apos;s father arrested in US over child sex abuse material",
+      "link": "https://www.dw.com/en/meghan-markle-s-father-arrested-in-us-over-child-sex-abuse-material/a-79879676?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The pontiff will hold meetings and celebrate Mass in Uruguay, Argentina and Peru, with the latter attracting particular interest. The trip will be the longest and farthest of his papacy so far.",
+      "snippet": "US federal agents arrested Thomas Markle in Florida. The Duchess of Sussex and television actress Meghan Markle, who is estranged from her father, said she was \"deeply distressed\" by the charges.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Malaysia: Ex-leader Najib seeks to leave prison for house arrest",
-      "link": "https://www.dw.com/en/malaysia-ex-leader-najib-seeks-to-leave-prison-for-house-arrest/a-79872493?maca=en-rss-en-top-1022-rdf",
+      "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+      "link": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Convicted for embezzlement, former Prime Minister Najib Razak hopes to serve his prison term under house arrest after his party paid a fine. But the attorney general later said his transfer was on hold temporarily.",
+      "snippet": "Iran is stepping up attacks on shipping in the Persian Gulf and Strait of Hormuz. A Greek-owned tanker believed to have been struck with a missile, and Iran said two other vessels were on fire.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Trial of alleged &apos;Reichsbürger&apos; group ringleaders begins",
-      "link": "https://www.dw.com/en/germany-news-trial-of-alleged-reichsbürger-group-ringleaders-begins/live-79872046?maca=en-rss-en-top-1022-rdf",
+      "title": "Tesla to &apos;wind down&apos; production of flop Cybertruck",
+      "link": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Four members of the banned far-right \"Kingdom of Germany\" are on trial for belonging to a criminal organization. Meanwhile, a new study warns data centers could lead to water stress in Germany. Follow DW for more.",
+      "snippet": "Elon Musk&apos;s electric pickup for the future will start to be consigned to the past next year. The Cybertruck&apos;s bulk and crude shape meant it could only pass regulatory standards in more permissive markets.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "India: Umar Khalid, Sharjeel Imam go back to Supreme Court for bail",
-      "link": "https://www.dw.com/en/india-umar-khalid-sharjeel-imam-go-back-to-supreme-court-for-bail/live-79872047?maca=en-rss-en-top-1022-rdf",
+      "title": "Data center protesters break into Microsoft site in Amsterdam",
+      "link": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Umar Khalid and Sharjeel Imam have asked the Supreme Court for bail once more, having spent over six years in jail. Elsewhere, the top court has clarified when the 24-hour clock for producing an arrested person starts.",
+      "snippet": "Protesters are demanding a pause in data center construction in Europe. Campaigners planning protests in 16 countries say the AI building boom threatens water supplies, power grids and climate goals.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "US judge temporarily blocks Trump&apos;s arch project after panel approval",
-      "link": "https://www.dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690?maca=en-rss-en-top-1022-rdf",
+      "title": "Despite Russia impasse, Germany still hoping to host Men&apos;s Ice Hockey World Championship",
+      "link": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A judge ordered a two-week stop to construction on US President Trump&apos;s arch project in Washington. A federal panel had approved Trump&apos;s triumphal arch plans in an 8-4 vote.",
+      "snippet": "A week after a court ruled that Russia must be allowed to return to international ice hockey, the way forward remains unclear. Berlin is seeking a solution that will allow Germany to host next year&apos;s Word Championship.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Ex-lawmaker jailed in Macau&apos;s first national security trial",
-      "link": "https://www.dw.com/en/ex-lawmaker-jailed-in-macau-s-first-national-security-trial/a-79871673?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany: Small plane crashes onto A2 highway, killing 2",
+      "link": "https://www.dw.com/en/germany-small-plane-crashes-onto-a2-highway-killing-2/a-79878930?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Pro-democracy former lawmaker Au Kam San was found guilty of \"subversion against the political power of the State.\" He was handed a prison sentence of 12-and-a-half years.",
+      "snippet": "Two people have died after a small plane crashed onto Germany&apos;s A2 highway near Magdeburg. The crash closed the Hannover-bound lanes on a major east-west route, with no road vehicles reported to be involved.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Trump raises prospect of &apos;big, beautiful&apos; Russia-Ukraine deal",
-      "link": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-top-1022-rdf",
+      "title": "Fact check: Three viral Iran war posts debunked",
+      "link": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "US President Donald Trump said the Ukraine war was close to being settled and that ending it might involve \"all of Europe.\" Trump has previously made several similar promises, with no resolution to the conflict in sight.",
+      "snippet": "After Monday&apos;s US attack on Iran, social media is awash with dramatic images and claims about renewed fighting. DW Fact Check found AI-generated and recycled videos — as well as misleading posts from dubious accounts.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Austrian tycoon Rene Benko sentenced to 2 years in prison for fraud",
-      "link": "https://www.dw.com/en/austrian-tycoon-rene-benko-sentenced-to-2-years-in-prison-for-fraud/a-79870056?maca=en-rss-en-top-1022-rdf",
+      "title": "Protests and reforms: France&apos;s rising debt costs threaten stability",
+      "link": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Austrian businessman Rene Benko, who suffered a major fall from grace after his real estate empire, Signa Holding, went bust, was handed two more years in prison.",
+      "snippet": "France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Gavin Newsom commutes sentences of all death row inmates in California",
-      "link": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-top-1022-rdf",
+      "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
+      "link": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Gavin Newsom, a Democrat and a rumored presidential candidate, moved to commute the death sentences of 548 inmates in California for one of his last acts as governor of the state.",
+      "snippet": "Czech arms makers have thrived on demand linked to the war in Ukraine. To sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Americans voted against Trump&apos;s Iran war. Gulf countries hope that means an end to the conflict",
-      "link": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-top-1022-rdf",
+      "title": "Zambia&apos;s civil service overhaul raises questions",
+      "link": "https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The US midterm results showed how unpopular Donald Trump&apos;s Iran war is. Now, Gulf countries, trapped for months in the middle of the war between the US and Iran, see reason for optimism.",
+      "snippet": "Government-backed retirements and institutional realignments are fueling debate in Zambia, with opposition politicians questioning transparency while officials defend the changes as necessary reforms.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Pete Hegseth under fire as Republicans trade blame for midterm debacle",
-      "link": "https://www.dw.com/en/pete-hegseth-under-fire-as-republicans-trade-blame-for-midterm-debacle/a-79869867?maca=en-rss-en-top-1022-rdf",
+      "title": "What to know about the IIHF Women&apos;s Ice Hockey World Championship",
+      "link": "https://www.dw.com/en/what-to-know-about-the-iihf-women-s-ice-hockey-world-championship/a-79876148?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Iran war hawk Pete Hegseth is facing the fallout from Republicans&apos; midterms losses as high energy prices turned voters toward Democrats. US President Trump continues to support his embattled defense chief — for now.",
+      "snippet": "As ice hockey&apos;s governing body continues to wrangle over how to respond to a CAS order to reinstate Russia to international play, the top women&apos;s tournament gets underway in Denmark without Russia.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Does the Oleshky ceasefire signal progress to come in Ukraine?",
-      "link": "https://www.dw.com/en/does-the-oleshky-ceasefire-signal-progress-to-come-in-ukraine/a-79869164?maca=en-rss-en-top-1022-rdf",
+      "title": "Global temperatures are set to exceed 1.5 degrees above pre-industrial levels in 2026, likely the second-warmest year on record",
+      "link": "https://www.dw.com/en/global-temperatures-are-set-to-exceed-1-5-degrees-above-pre-industrial-levels-in-2026-likely-the-second-warmest-year-on-record/a-79874098?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Hundreds of civilians were evacuated from the city of Oleshky after Russia and Ukraine agreed to a US-brokered ceasefire. Some observers have expressed optimism that more such humanitarian missions might follow.",
+      "snippet": "Climate scientists say the world is set to breach the critical 1.5-degree Celsius threshold in 2026. This year is also on track to become the second-warmest on record.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "France: More than 600,000 protest as anger grows over cost of living",
-      "link": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-top-1022-rdf",
+      "title": "For people in Iran, a constant threat of war and dearth of information",
+      "link": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Demonstrators took to the streets in several French cities to call for government action on the high cost of living. Protests were largely peaceful, but there were some reports of escalation, including in Paris.",
+      "snippet": "Most people in Iran have little idea of the course of the US-led war and peace talks on the global stage. With few sources of information, the population must navigate conflicting rumors and fears of a nuclear attack.",
       "tier": 2
     }
   ]
