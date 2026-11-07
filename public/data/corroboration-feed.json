@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T00:40:25.321Z",
+  "generatedAt": "2026-11-07T12:28:04.832Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,26 +32,34 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 23:24:15 GMT",
+      "snippet": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 07:20:00 GMT",
+      "snippet": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 06:59:48 GMT",
+      "snippet": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "AI stocks climb after trillions wiped from market values",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 06 Nov 2026 21:06:25 GMT",
       "snippet": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 16:12:22 GMT",
-      "snippet": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Two dead after bus crashes in France, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 15:33:52 GMT",
-      "snippet": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
       "tier": 1
     },
     {
@@ -64,6 +72,14 @@
     },
     {
       "source": "BBC World",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 17:44:02 GMT",
+      "snippet": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
       "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 06 Nov 2026 14:46:03 GMT",
@@ -72,10 +88,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 17:44:02 GMT",
-      "snippet": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "title": "Two dead after bus crashes in France, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 15:33:52 GMT",
+      "snippet": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
       "tier": 1
     },
     {
@@ -88,18 +104,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 12:51:38 GMT",
-      "snippet": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 23:46:08 GMT",
+      "snippet": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 00:02:57 GMT",
-      "snippet": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 12:51:38 GMT",
+      "snippet": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
       "tier": 1
     },
     {
@@ -128,54 +144,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 08:18:10 GMT",
-      "snippet": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 07:33:41 GMT",
-      "snippet": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 23:09:33 GMT",
-      "snippet": "California has historically had the largest population of people on death row in the US.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 17:35:55 GMT",
-      "snippet": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 06:46:21 GMT",
-      "snippet": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 17:40:40 GMT",
-      "snippet": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
       "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 06 Nov 2026 15:02:03 GMT",
@@ -188,6 +156,62 @@
       "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 05 Nov 2026 18:22:46 GMT",
       "snippet": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 10:33:21 GMT",
+      "snippet": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 01:27:47 GMT",
+      "snippet": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Four things we learned this week about 2028 White House race",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 12:23:28 GMT",
+      "snippet": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Spate of bomb threats poses serious challenge to airline industry",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 16:18:44 GMT",
+      "snippet": "After a week of disruption, airlines are facing both safety and financial concerns.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "This teen boy set out to get people talking about periods. He&apos;s now a Diana honoree",
+      "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+      "publishedAt": "Sat, 07 Nov 2026 06:50:21 -0500",
+      "snippet": "This year&apos;s the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+      "publishedAt": "Sat, 07 Nov 2026 05:00:00 -0500",
+      "snippet": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who&apos;d been evicted after a pay cut and became a leader of a community effort that blocked a vast project.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "The economy propelled Democrats to victory. What can they actually do about it?",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
+      "publishedAt": "Fri, 06 Nov 2026 16:53:10 -0500",
+      "snippet": "The party&apos;s success was fueled by frustrations over the cost of living. But in divided government, they&apos;ll face opposition from Republicans in Congress and a president vowing to use his veto pen.",
       "tier": 1
     },
     {
@@ -244,30 +268,6 @@
       "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
       "publishedAt": "Fri, 06 Nov 2026 14:00:21 -0500",
       "snippet": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Remembering &apos;Star Trek&apos; actor Patrick Stewart",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
-      "publishedAt": "Fri, 06 Nov 2026 12:36:39 -0500",
-      "snippet": "Stewart, who died Oct. 28, performed with the Royal Shakespeare Company before becoming famous as Star Trek&apos;s Picard. Critic David Bianculli has a tribute, and we listen back to a 2020 interview.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "European flights and broadcasters are targeted with another wave of bomb threats",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
-      "publishedAt": "Fri, 06 Nov 2026 10:21:31 -0500",
-      "snippet": "Officials across Europe reported a slew of bomb threats against multiple flights, following a string of hoaxes that caused flight diversions this week. Three broadcasters also received threats.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-      "publishedAt": "Fri, 06 Nov 2026 09:53:46 -0500",
-      "snippet": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
       "tier": 1
     },
     {
@@ -440,6 +440,86 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Germany hopes to host world ice hockey championship — without Russia",
+      "link": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "International protests continue after a court ruled that Russia must be allowed to return to international ice hockey. Germany is seeking a solution that will allow the country to host next year&apos;s world championship.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "France braces for new round of Yellow Vest, student protests",
+      "link": "https://www.dw.com/en/france-braces-for-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Two major protests have been announced for Saturday. One will see students and unions marching against high living costs, while the Yellow Vests plan to march separately, despite a police ban.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+      "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Frankfurt braces for Iran protests",
+      "link": "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "An appearance by Iranian opposition figure Reza Pahlavi is expected to trigger demonstrations in Frankfurt. Meanwhile, Germany&apos;s defense minister says he believes military conscription will not be needed. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Amid protests, France&apos;s rising debt costs threaten stability",
+      "link": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US: Giant pandas from China make public debut at Atlanta zoo",
+      "link": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Vehicles major cause of Delhi pollution, top court says",
+      "link": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "India&apos;s Supreme Court called for responsible celebrations during festivals, particularly Diwali, as it addressed the issue of air pollution in Delhi. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US asks China to uphold Busan trade deal commitments",
+      "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US&apos; \"economic, trade restrictive\" measures.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Cornell faculty declares &apos;no confidence&apos; in university leadership",
+      "link": "https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The university leadership has faced intense criticism for its handling of sexual crimes on campus since a former student filed a lawsuit saying she was drugged and raped at a fraternity house in October 2024.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
+      "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Paraguay’s Senate has ousted President Santiago Pena over the collapse of a major bank tied to his government. Millions of customers&apos; accounts are frozen, with public pension and health care funds also tied up.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Pope Leo arrives in Uruguay at start of South America tour",
       "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -459,7 +539,7 @@
       "title": "Stephen Miller named by Trump as new White House chief of staff",
       "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Trump said he would be replacing Susie Wiles for the top advisory role. Miller is controversial figure, known as a key architect of the administration&apos;s hardline immigration policies.",
+      "snippet": "The US president said he would be replacing Susie Wiles for the top advisory role. Stephen Miller is a controversial figure, known as a key architect of the administration&apos;s hard-line immigration policies.",
       "tier": 2
     },
     {
@@ -508,86 +588,6 @@
       "link": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Elon Musk&apos;s electric pickup for the future will start to be consigned to the past next year. The Cybertruck&apos;s bulk and crude shape meant it could only pass regulatory standards in more permissive markets.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Data center protesters break into Microsoft site in Amsterdam",
-      "link": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Protesters are demanding a pause in data center construction in Europe. Campaigners planning protests in 16 countries say the AI building boom threatens water supplies, power grids and climate goals.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Despite Russia impasse, Germany still hoping to host Men&apos;s Ice Hockey World Championship",
-      "link": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A week after a court ruled that Russia must be allowed to return to international ice hockey, the way forward remains unclear. Berlin is seeking a solution that will allow Germany to host next year&apos;s Word Championship.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: Small plane crashes onto A2 highway, killing 2",
-      "link": "https://www.dw.com/en/germany-small-plane-crashes-onto-a2-highway-killing-2/a-79878930?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Two people have died after a small plane crashed onto Germany&apos;s A2 highway near Magdeburg. The crash closed the Hannover-bound lanes on a major east-west route, with no road vehicles reported to be involved.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fact check: Three viral Iran war posts debunked",
-      "link": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After Monday&apos;s US attack on Iran, social media is awash with dramatic images and claims about renewed fighting. DW Fact Check found AI-generated and recycled videos — as well as misleading posts from dubious accounts.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Protests and reforms: France&apos;s rising debt costs threaten stability",
-      "link": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
-      "link": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Czech arms makers have thrived on demand linked to the war in Ukraine. To sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Zambia&apos;s civil service overhaul raises questions",
-      "link": "https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Government-backed retirements and institutional realignments are fueling debate in Zambia, with opposition politicians questioning transparency while officials defend the changes as necessary reforms.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "What to know about the IIHF Women&apos;s Ice Hockey World Championship",
-      "link": "https://www.dw.com/en/what-to-know-about-the-iihf-women-s-ice-hockey-world-championship/a-79876148?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As ice hockey&apos;s governing body continues to wrangle over how to respond to a CAS order to reinstate Russia to international play, the top women&apos;s tournament gets underway in Denmark without Russia.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Global temperatures are set to exceed 1.5 degrees above pre-industrial levels in 2026, likely the second-warmest year on record",
-      "link": "https://www.dw.com/en/global-temperatures-are-set-to-exceed-1-5-degrees-above-pre-industrial-levels-in-2026-likely-the-second-warmest-year-on-record/a-79874098?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Climate scientists say the world is set to breach the critical 1.5-degree Celsius threshold in 2026. This year is also on track to become the second-warmest on record.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "For people in Iran, a constant threat of war and dearth of information",
-      "link": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Most people in Iran have little idea of the course of the US-led war and peace talks on the global stage. With few sources of information, the population must navigate conflicting rumors and fears of a nuclear attack.",
       "tier": 2
     }
   ]
