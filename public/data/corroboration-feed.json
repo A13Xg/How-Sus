@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:45:32.472Z",
+  "generatedAt": "2026-11-08T12:27:54.319Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -34,8 +34,24 @@
       "source": "BBC World",
       "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 22:58:49 GMT",
-      "snippet": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "publishedAt": "Sun, 08 Nov 2026 11:22:17 GMT",
+      "snippet": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 08 Nov 2026 04:03:12 GMT",
+      "snippet": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 21:36:16 GMT",
+      "snippet": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
       "tier": 1
     },
     {
@@ -48,14 +64,6 @@
     },
     {
       "source": "BBC World",
-      "title": "No clear winner after tight New Zealand general election",
-      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 15:56:28 GMT",
-      "snippet": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "US offers $20m reward for information about Iran's nuclear programme",
       "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 07 Nov 2026 18:14:38 GMT",
@@ -64,26 +72,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 17:09:24 GMT",
-      "snippet": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 07 Nov 2026 15:19:35 GMT",
       "snippet": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 23:24:15 GMT",
-      "snippet": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
       "tier": 1
     },
     {
@@ -168,6 +160,14 @@
     },
     {
       "source": "BBC World",
+      "title": "How the deadly shooting in Krakow unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 08 Nov 2026 09:29:24 GMT",
+      "snippet": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Gaza wedding festival sees 250 couples married at the same time",
       "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 07 Nov 2026 17:58:41 GMT",
@@ -192,6 +192,46 @@
     },
     {
       "source": "NPR News",
+      "title": "A desert stirs to life: Chile&apos;s Atacama erupts in its biggest floral display in decades",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+      "publishedAt": "Sun, 08 Nov 2026 06:00:00 -0500",
+      "snippet": "El Niño rains have transformed Chile&apos;s Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+      "publishedAt": "Sun, 08 Nov 2026 06:00:00 -0500",
+      "snippet": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "In Maine, a new approach to practicing medicine in the sky",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+      "publishedAt": "Sun, 08 Nov 2026 06:00:00 -0500",
+      "snippet": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "How Gen Z voters helped fuel a blue wave for Democrats",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
+      "publishedAt": "Sun, 08 Nov 2026 05:00:00 -0500",
+      "snippet": "Republicans made gains with young voters in 2024, but in this year&apos;s midterms Americans under 30 issued a strong rebuke of President Trump and his party, voting decisively for Democrats instead.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "UFC&apos;s Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+      "publishedAt": "Sun, 08 Nov 2026 02:35:29 -0500",
+      "snippet": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
       "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
       "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
       "publishedAt": "Sat, 07 Nov 2026 19:19:52 -0500",
@@ -208,6 +248,14 @@
     },
     {
       "source": "NPR News",
+      "title": "Oklahoma tribes say proposed legal changes put ancestral lands in Ohio at risk",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6029409/oklahoma-tribes-says-proposed-legal-changes-puts-ancestral-lands-in-ohio-at-risk",
+      "publishedAt": "Sat, 07 Nov 2026 17:12:02 -0500",
+      "snippet": "The Trump administration has proposed changes to the National Historic Preservation Act that could endanger historic sites significant to tribal nations across the country. Oklahoma tribes say that puts ancestral lands in Ohio at risk.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
       "title": "Israel&apos;s president taps opposition candidate, not Netanyahu, to form a government",
       "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
       "publishedAt": "Sat, 07 Nov 2026 15:18:18 -0500",
@@ -216,58 +264,10 @@
     },
     {
       "source": "NPR News",
-      "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+      "title": "Polish gunman who killed 6 people in Krakow has &apos;ultranationalistic&apos; views, authorities say",
       "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
       "publishedAt": "Sat, 07 Nov 2026 13:37:36 -0500",
       "snippet": "A gunman targeted random people as he drove into Krakow&apos;s Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Ousted Paraguayan president appears before prosecutors",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-      "publishedAt": "Sat, 07 Nov 2026 12:14:36 -0500",
-      "snippet": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "A promising new medicine against heart disease fails unexpectedly",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
-      "publishedAt": "Sat, 07 Nov 2026 09:50:00 -0500",
-      "snippet": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients&apos; lives. The medicine made no difference.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Democrats plan to widen their probes of fatal ICE shootings",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
-      "publishedAt": "Sat, 07 Nov 2026 08:19:09 -0500",
-      "snippet": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats&apos; sweeping wins this week, their deaths at the hands of immigration agents will likely be the targets of renewed investigations.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Perspective: Simon Winchester was here to tell a story",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
-      "publishedAt": "Sat, 07 Nov 2026 08:00:00 -0500",
-      "snippet": "British American reporter and author Simon Winchester died of a heart attack Nov. 3. We take a moment to remember his long career, which included covering Bloody Sunday and Watergate.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "This teen boy set out to get people talking about periods. He&apos;s now a Diana honoree",
-      "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
-      "publishedAt": "Sat, 07 Nov 2026 06:50:21 -0500",
-      "snippet": "This year&apos;s the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-      "publishedAt": "Sat, 07 Nov 2026 05:00:00 -0500",
-      "snippet": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who&apos;d been evicted after a pay cut and became a leader of a community effort that blocked a vast project.",
       "tier": 1
     },
     {
@@ -440,6 +440,54 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "&apos;Never Again!&apos;: Holocaust remembrance under pressure",
+      "link": "https://www.dw.com/en/never-again-holocaust-remembrance-under-pressure/a-79840894?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Only a few Holocaust survivors remain who can share their stories firsthand. Meanwhile, voices calling for an end to what they describe as a \"cult of guilt\" are growing louder. How can Holocaust remembrance survive?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Poland begins two days of mourning over Krakow shooting",
+      "link": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Polish authorities have opened a terror probe after the shooting on Krakow&apos;s Main Square. Police confirmed that the bodies found at the suspect&apos;s home were those of his parents and sister.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Friedrich Merz set to confirm presidential nominee",
+      "link": "https://www.dw.com/en/germany-news-friedrich-merz-set-to-confirm-presidential-nominee/live-79883533?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The executive committee of the German chancellor&apos;s CDU party is expected to finalize its nomination for the country&apos;s president. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India: Delhi chokes on most polluted Diwali eve in 10 years",
+      "link": "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Delhi was ranked as the world&apos;s most polluted major city on the eve of Diwali. Delhi&apos;s air pollution is expected to get worse in the coming days. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
+      "link": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges to concrete action?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Poland: Gunman kills 6 in Krakow main square, police say",
+      "link": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square-police-say/a-79886489?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A suspect who fired from a car killed at least six people, including a British tourist, in Krakow&apos;s main market square. Officials said the man was fascinated with \"radical\" and \"far-right\" ideologies.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Ebola: Why is there still no vaccine?",
       "link": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -451,7 +499,7 @@
       "title": "Israeli president tasks Gadi Eisenkot with forming government",
       "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying to form a government, with tricky coalition talks expected.",
+      "snippet": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying to form a government. Tricky coalition talks are expected.",
       "tier": 2
     },
     {
@@ -491,7 +539,7 @@
       "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
       "link": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Massive crowds have turned out for the pontiff as he celebrates the first Mass of his South America tour. A nighttime prayer vigil in Montevideo is expected to draw more than 60,000 young people.",
+      "snippet": "Leo celebrated the first Mass of his South America tour less than a month after undergoing cancer surgery. He is seeking to raise interest in the Catholic Church in Uruguay, South America&apos;s most secular country.",
       "tier": 2
     },
     {
@@ -528,10 +576,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
-      "link": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-top-1022-rdf",
+      "title": "Yemen: 33 killed in strike near Sanaa, Houthis say",
+      "link": "https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The Iran-backed Houthi rebel group accused Saudi Arabia of hitting several homes in the village of al-Shariya near the Yemeni capital. There was no initial comment from Riyadh.",
+      "snippet": "The Iran-backed Houthi rebel group accused Saudi Arabia of hitting several homes in the village of al-Shariya near the Yemeni capital.",
       "tier": 2
     },
     {
@@ -540,54 +588,6 @@
       "link": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Initial results in New Zealand show the two main parties neck-and-neck with fewer than 4,000 votes separating them. Official results aren&apos;t expected until later this month once special votes have been counted.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany hopes to host world ice hockey championship — without Russia",
-      "link": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "International protests continue after a court ruled that Russia must be allowed to return to international ice hockey. Germany is seeking a solution that will allow the country to host next year&apos;s world championship.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
-      "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Son of Iran&apos;s last shah takes center stage in Frankfurt",
-      "link": "https://www.dw.com/en/germany-news-son-of-iran-s-last-shah-takes-center-stage-in-frankfurt/live-79883533?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Iranian opposition leader Reza Pahlavi accepted a peace prize in the name of the Iranian people in Frankfurt. Meanwhile, Germany&apos;s defense minister said he believes military conscription will not be needed. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Amid protests, France&apos;s rising debt costs threaten stability",
-      "link": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US: Giant pandas from China make public debut at Atlanta zoo",
-      "link": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Vehicles major cause of Delhi pollution, top court says",
-      "link": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Supreme Court implored responsible Diwali celebrations as the Indian government sets out to tackle the country&apos;s severe air pollution crisis. DW has more.",
       "tier": 2
     }
   ]
