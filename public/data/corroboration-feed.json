@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:45:24.012Z",
+  "generatedAt": "2026-11-09T12:30:44.734Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,58 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 23:34:18 GMT",
-      "snippet": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 11:56:25 GMT",
+      "snippet": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 06:00:26 GMT",
+      "snippet": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 08:49:17 GMT",
+      "snippet": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 10:59:26 GMT",
+      "snippet": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 05:30:37 GMT",
+      "snippet": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 02:50:13 GMT",
+      "snippet": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 10:41:57 GMT",
+      "snippet": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
       "tier": 1
     },
     {
@@ -48,18 +96,26 @@
     },
     {
       "source": "BBC World",
-      "title": "Homes and temples glow across India to mark Diwali",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 14:42:09 GMT",
-      "snippet": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 08 Nov 2026 17:51:03 GMT",
+      "snippet": "President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome \"catastrophic\".",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 13:37:50 GMT",
-      "snippet": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 08 Nov 2026 23:34:18 GMT",
+      "snippet": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 08 Nov 2026 14:42:09 GMT",
+      "snippet": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
       "tier": 1
     },
     {
@@ -80,18 +136,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Paraguay's former president charged after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 19:17:22 GMT",
-      "snippet": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 08 Nov 2026 13:37:50 GMT",
+      "snippet": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 06:59:48 GMT",
-      "snippet": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "title": "Paraguay's former president charged after bank collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 19:17:22 GMT",
+      "snippet": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "tier": 1
     },
     {
@@ -135,139 +191,83 @@
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Texas mayor instructs police to limit co-operation with ICE",
-      "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 08:15:55 GMT",
-      "snippet": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 21:06:25 GMT",
-      "snippet": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "New wave of bomb threats hit European airlines",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 15:25:35 GMT",
-      "snippet": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 17:44:02 GMT",
-      "snippet": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 14:46:03 GMT",
-      "snippet": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
-      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 22:05:12 GMT",
-      "snippet": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-      "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 16:05:57 GMT",
-      "snippet": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
+      "source": "NPR News",
+      "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
+      "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+      "publishedAt": "Mon, 09 Nov 2026 05:47:00 -0500",
+      "snippet": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\"",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Nvidia launches investigation into CEO&apos;s alleged relationship with Chinese spy",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
-      "publishedAt": "Sun, 08 Nov 2026 19:17:43 -0500",
-      "snippet": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.",
+      "title": "Democrats won big on issues like immigration. But ICE still has the money",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
+      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
+      "snippet": "Following Tuesday&apos;s \"blue wave,\" Democrats have vowed to reign in ICE&apos;s power. What could they actually accomplish?",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "NASA is looking for astronauts to live and work on the Moon",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
-      "publishedAt": "Sun, 08 Nov 2026 18:36:47 -0500",
-      "snippet": "NASA needs more recruits in order to return to the moon after being gone more than half a century.",
+      "title": "Nebraska rushed Medicaid work rules. Then a cancer patient was told he&apos;d lost coverage",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
+      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
+      "snippet": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
-      "publishedAt": "Sun, 08 Nov 2026 14:25:30 -0500",
-      "snippet": "France says European officials will attend this week&apos;s U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+      "title": "Democrats won big. Can they lower your grocery bill?",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
+      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
+      "snippet": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs. Now, Americans are expecting relief from Washington.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
-      "publishedAt": "Sun, 08 Nov 2026 11:46:15 -0500",
-      "snippet": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone&apos;s over politics so let&apos;s all have a bit of a break for the next three weeks\".",
+      "title": "On wild Cumberland Island, a land swap proposal stirs controversy",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal",
+      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
+      "snippet": "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia. But they have different ideas of how to best protect it.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-      "publishedAt": "Sun, 08 Nov 2026 11:30:16 -0500",
-      "snippet": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
+      "title": "U.N. climate talks begin today. Here are 3 things to know",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6026787/climate-talks-antalya-turkey-cop31",
+      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
+      "snippet": "Countries are gathering in Antalya, Turkey, for the annual U.N. climate conference. Many are frustrated with the lack of focus on fossil fuels, the main driver of climate change.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
-      "publishedAt": "Sun, 08 Nov 2026 10:07:15 -0500",
-      "snippet": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
+      "title": "Congress is coming back to Washington. Here&apos;s what to expect",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect",
+      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
+      "snippet": "Lawmakers are coming back to Washington this week after the midterm elections. Republicans plan to finish work on several outstanding issues before Democrats take control of Congress in January.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "SS United States, a historic ship will be sunk to create an artificial reef",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
-      "publishedAt": "Sun, 08 Nov 2026 08:34:34 -0500",
-      "snippet": "NPR&apos;s Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
+      "title": "Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6013575/supreme-court-federal-law-enforcement-prison-rights",
+      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
+      "snippet": "The Supreme Court considers the case of a prisoner who suffered brutal injuries, only to be denied medical care behind bars. He wants to sue the prison nurse in a case that could change the law on holding federal officers accountable.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-      "publishedAt": "Sun, 08 Nov 2026 06:00:00 -0500",
-      "snippet": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
+      "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
+      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
+      "snippet": "The secretive software company has been accused of letting its powerful tools be used by the Trump administration to surveil Americans. Now it&apos;s hiring former Sen. Jon Tester to burnish its image.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "One air ambulance service rethinks what it takes to practice medicine in the sky",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
-      "publishedAt": "Sun, 08 Nov 2026 06:00:00 -0500",
-      "snippet": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "A desert stirs to life: Chile&apos;s Atacama erupts in its biggest floral display in decades",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
-      "publishedAt": "Sun, 08 Nov 2026 06:00:00 -0500",
-      "snippet": "El Niño rains have transformed Chile&apos;s Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6027654/morning-news-brief",
+      "publishedAt": "Mon, 09 Nov 2026 04:45:58 -0500",
+      "snippet": "President Trump shakes up his staff after midterm losses, Congress returns to Washington, Nvidia launches investigation into CEO&apos;s alleged relationship with Chinese spy.",
       "tier": 1
     },
     {
@@ -440,6 +440,94 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "EU aims to pick new ECB chief by year-end",
+      "link": "https://www.dw.com/en/eu-aims-to-pick-new-ecb-chief-by-year-end/a-79898169?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Christine Lagarde&apos;s early decision to step down as head of the European Central Bank (ECB) has put the European Union on a tight schedule. The bloc expects to pick a new ECB chief by the end of December.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Why Nvidia CEO&apos;s affair with alleged Chinese spy matters",
+      "link": "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Nvidia CEO Jensen Huang has apologized for an affair with a woman the US believes was spying for China. The story could have profound implications for the world&apos;s most valuable company and the global AI race.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Who is Ilse Aigner, leading candidate for Germany&apos;s next president?",
+      "link": "https://www.dw.com/en/who-is-ilse-aigner-leading-candidate-for-germany-s-next-president/a-79898848?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "She would be the first female president and the first Christian Social Union politician to hold Germany&apos;s highest office. Ilse Aigner is the favored candidate for the Federal Convention vote on January 30.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Turkey pushes for transition at COP31 as coal burns",
+      "link": "https://www.dw.com/en/turkey-pushes-for-transition-at-cop31-as-coal-burns/a-79871687?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The host of this year&apos;s UN climate summit remains heavily dependent on fossil fuels as it tries to inspire a global switch to clean energy.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Germany marks fateful date of November 9",
+      "link": "https://www.dw.com/en/germany-news-germany-marks-fateful-date-of-november-9/live-79895613?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany is commemorating the Nazi-led November pogroms 88 years ago. Events are also being held to mark the anniversary of the fall of the Berlin Wall in 1989. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Delhi air quality level &apos;severe&apos; after Diwali",
+      "link": "https://www.dw.com/en/india-news-delhi-air-quality-level-severe-after-diwali/live-79895307?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Illegal fireworks during Diwali celebrations have impacted New Delhi&apos;s air quality level. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+      "link": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The alleged gunman who killed six people in a shooting spree in the Polish city of Krakow has died of injuries sustained in a shootout with police, authorities say.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US President Donald Trump says deportation policy was &apos;too tough&apos; for voters",
+      "link": "https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Trump said his deportation policy may be one of the reasons the Republicans lost so much ground in the midterm elections.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "G7 ministers meet as Europe seeks greater say in Ukraine peace talks",
+      "link": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "With Washington preparing negotiations with Moscow and Kyiv, European leaders fear Ukraine could face pressure to accept a bad deal. Iran tensions and the threat of renewed US strikes are also on the agenda.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pope Leo urges Argentina&apos;s Milei to put people before the economy",
+      "link": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Pope Leo XIV has urged Argentina to protect democracy and ensure economic growth benefits the poor, delivering a message to President Javier Milei over austerity, social welfare and political divisions.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
+      "link": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Following reports of Nvidia&apos;s chief Jensen Huang becoming involved with a Chinese spy, Huang offered an apology for cheating on his wife. Meanwhile, the US tech company pledged to investigate the alleged espionage.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Iran: Trump says strikes unlikely if peace talks keep moving",
       "link": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -448,8 +536,8 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Germany news: Merz to nominate Aigner for president",
-      "link": "https://www.dw.com/en/germany-news-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany: Chancellor Merz to nominate Aigner for president",
+      "link": "https://www.dw.com/en/germany-chancellor-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "German Chancellor Friedrich Merz announced that he will nominate Ilse Aigner for federal president, paving the way for her to be the first woman to hold the office. DW has more.",
       "tier": 2
@@ -467,7 +555,7 @@
       "title": "South Africa elections: ANC marks its worst-ever performance",
       "link": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa&apos;s municipal election. The voters blame the ANC for water and electricity shortages.",
+      "snippet": "The African National Congress, the party of late liberation icon Nelson Mandela, slumped to its worst-ever result in South Africa&apos;s municipal election. Voters blame the ANC for water and electricity shortages.",
       "tier": 2
     },
     {
@@ -500,94 +588,6 @@
       "link": "https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "With most homes damaged or destroyed by the war, Gazans are facing worsening humanitarian conditions due to heavy rain.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "&apos;Never Again!&apos;: Holocaust remembrance under pressure",
-      "link": "https://www.dw.com/en/never-again-holocaust-remembrance-under-pressure/a-79840894?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Only a few Holocaust survivors remain who can share their stories firsthand. Meanwhile, voices calling for an end to what they describe as a \"cult of guilt\" are growing louder. How can Holocaust remembrance survive?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Poland begins two days of mourning over Krakow shooting",
-      "link": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Polish authorities have opened a terror probe after the shooting on Krakow&apos;s Main Square. Police confirmed that the bodies found at the suspect&apos;s home were those of his parents and sister.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India: Delhi chokes on most polluted Diwali eve in 10 years",
-      "link": "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Delhi was ranked as the world&apos;s most polluted major city on the eve of Diwali. Delhi&apos;s air pollution is expected to get worse in the coming days.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
-      "link": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges to concrete action?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Poland: Gunman kills 6 in Krakow main square, police say",
-      "link": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square-police-say/a-79886489?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A suspect who fired from a car killed at least six people, including a British tourist, in Krakow&apos;s main market square. Officials said the man was fascinated with \"radical\" and \"far-right\" ideologies.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Ebola: Why is there still no vaccine?",
-      "link": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ebola has been known about for decades, but there is still no vaccine against the Bundibugyo strain of the virus causing the current outbreak. New research raises hopes of protection against the various types of Ebola.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Israeli president tasks Gadi Eisenkot with forming government",
-      "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying to form a government. Tricky coalition talks are expected.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Trump offers White House press secretary role to Dana White",
-      "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "US President Donald Trump has offered the White House press secretary job to Dana White, the chief executive of the Ultimate Fighting Championship. White has neither formally accepted nor turned down the invitation.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "France sees new round of Yellow Vest, student protests",
-      "link": "https://www.dw.com/en/france-sees-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Although fewer protesters turned out in comparison with previous weeks, several cities saw clashes between police and demonstrators.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Armenia&apos;s selective prosecution: A threat to EU relations?",
-      "link": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "While Brussels has refrained from harsh criticism, Armenian civil society has warned of selective justice against opposition figures. Could the EU&apos;s pragmatic stance risk repeating past mistakes?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
-      "link": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Leo celebrated the first Mass of his South America tour less than a month after undergoing cancer surgery. He is seeking to raise interest in the Catholic Church in Uruguay, South America&apos;s most secular country.",
       "tier": 2
     }
   ]
