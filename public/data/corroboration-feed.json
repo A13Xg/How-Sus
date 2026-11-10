@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T12:30:44.734Z",
+  "generatedAt": "2026-11-10T00:41:15.657Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,6 +32,110 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 00:34:53 GMT",
+      "snippet": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 19:58:01 GMT",
+      "snippet": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 00:09:49 GMT",
+      "snippet": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 00:14:03 GMT",
+      "snippet": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 20:20:08 GMT",
+      "snippet": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 23:45:14 GMT",
+      "snippet": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 18:08:07 GMT",
+      "snippet": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 20:42:04 GMT",
+      "snippet": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 23:28:53 GMT",
+      "snippet": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
+      "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 21:48:38 GMT",
+      "snippet": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 17:06:18 GMT",
+      "snippet": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 17:47:29 GMT",
+      "snippet": "Trump made the claims, without evidence, on Truth Social on Monday.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 16:33:55 GMT",
+      "snippet": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Krakow shooting suspect has died in hospital, police say",
       "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 09 Nov 2026 11:56:25 GMT",
@@ -40,34 +144,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 09 Nov 2026 06:00:26 GMT",
-      "snippet": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 09 Nov 2026 08:49:17 GMT",
-      "snippet": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 09 Nov 2026 10:59:26 GMT",
-      "snippet": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 09 Nov 2026 05:30:37 GMT",
-      "snippet": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour.",
+      "title": "Thirteen migrants die after boat sinks off Crete",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 13:50:01 GMT",
+      "snippet": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals.",
       "tier": 1
     },
     {
@@ -80,114 +160,82 @@
     },
     {
       "source": "BBC World",
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 09 Nov 2026 10:41:57 GMT",
-      "snippet": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
+      "title": "Dana White declines Trump’s offer to be White House press secretary",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 22:46:27 GMT",
+      "snippet": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 19:58:02 GMT",
-      "snippet": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+      "link": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 19:09:27 GMT",
+      "snippet": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 17:51:03 GMT",
-      "snippet": "President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome \"catastrophic\".",
+      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
+      "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 16:59:46 GMT",
+      "snippet": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 23:34:18 GMT",
-      "snippet": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 09 Nov 2026 14:50:35 GMT",
+      "snippet": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Homes and temples glow across India to mark Diwali",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 14:42:09 GMT",
-      "snippet": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "source": "NPR News",
+      "title": "France accuses Iran of cyber &apos;sabotage&apos; in fridge attacks",
+      "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+      "publishedAt": "Mon, 09 Nov 2026 17:30:49 -0500",
+      "snippet": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars&apos; worth of food.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 21:37:36 GMT",
-      "snippet": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "source": "NPR News",
+      "title": "Supreme Court says border wall construction can continue in west Texas",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+      "publishedAt": "Mon, 09 Nov 2026 16:47:39 -0500",
+      "snippet": "The Trump administration filed an emergency relief request with the high court earlier in October asking for the construction to continue while a lawsuit over the plan moves forward.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 21:36:16 GMT",
-      "snippet": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "source": "NPR News",
+      "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+      "publishedAt": "Mon, 09 Nov 2026 15:52:24 -0500",
+      "snippet": "The articles accuse Hegseth of \"high crimes and misdemeanors,\" including for waging war against Iran in violation of the War Powers Resolution.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 08 Nov 2026 13:37:50 GMT",
-      "snippet": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "source": "NPR News",
+      "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+      "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
+      "publishedAt": "Mon, 09 Nov 2026 10:09:53 -0500",
+      "snippet": "New Delhi, home to over 30 million people, regularly ranks among the world&apos;s most polluted areas during winter, with pollution worsening in late October and November.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Paraguay's former president charged after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 19:17:22 GMT",
-      "snippet": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "source": "NPR News",
+      "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+      "publishedAt": "Mon, 09 Nov 2026 09:36:54 -0500",
+      "snippet": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Italian foreign minister says hackers leaked his personal data",
-      "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 16:50:06 GMT",
-      "snippet": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 12:49:36 GMT",
-      "snippet": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 18:14:38 GMT",
-      "snippet": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 07:27:44 GMT",
-      "snippet": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 15:19:35 GMT",
-      "snippet": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "source": "NPR News",
+      "title": "Congress is back after GOP&apos;s midterm defeat. And, Trump appoints new chief of staff",
+      "link": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+      "publishedAt": "Mon, 09 Nov 2026 07:45:14 -0500",
+      "snippet": "Republicans have just weeks left of control of Congress. Here&apos;s what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confront his opposition.",
       "tier": 1
     },
     {
@@ -208,22 +256,6 @@
     },
     {
       "source": "NPR News",
-      "title": "Nebraska rushed Medicaid work rules. Then a cancer patient was told he&apos;d lost coverage",
-      "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
-      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
-      "snippet": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Democrats won big. Can they lower your grocery bill?",
-      "link": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
-      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
-      "snippet": "Affordability concerns were top of mind for voters heading into the midterms, as tariffs and the war in Iran drove up prices, including food costs. Now, Americans are expecting relief from Washington.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
       "title": "On wild Cumberland Island, a land swap proposal stirs controversy",
       "link": "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal",
       "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
@@ -232,202 +264,170 @@
     },
     {
       "source": "NPR News",
-      "title": "U.N. climate talks begin today. Here are 3 things to know",
-      "link": "https://www.npr.org/2026/11/09/nx-s1-6026787/climate-talks-antalya-turkey-cop31",
+      "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
+      "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
       "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
-      "snippet": "Countries are gathering in Antalya, Turkey, for the annual U.N. climate conference. Many are frustrated with the lack of focus on fossil fuels, the main driver of climate change.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Congress is coming back to Washington. Here&apos;s what to expect",
-      "link": "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect",
-      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
-      "snippet": "Lawmakers are coming back to Washington this week after the midterm elections. Republicans plan to finish work on several outstanding issues before Democrats take control of Congress in January.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise",
-      "link": "https://www.npr.org/2026/11/09/nx-s1-6013575/supreme-court-federal-law-enforcement-prison-rights",
-      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
-      "snippet": "The Supreme Court considers the case of a prisoner who suffered brutal injuries, only to be denied medical care behind bars. He wants to sue the prison nurse in a case that could change the law on holding federal officers accountable.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-      "link": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
-      "publishedAt": "Mon, 09 Nov 2026 05:00:00 -0500",
-      "snippet": "The secretive software company has been accused of letting its powerful tools be used by the Trump administration to surveil Americans. Now it&apos;s hiring former Sen. Jon Tester to burnish its image.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/11/09/nx-s1-6027654/morning-news-brief",
-      "publishedAt": "Mon, 09 Nov 2026 04:45:58 -0500",
-      "snippet": "President Trump shakes up his staff after midterm losses, Congress returns to Washington, Nvidia launches investigation into CEO&apos;s alleged relationship with Chinese spy.",
+      "snippet": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Pope Leo arrives in Argentina and tells Milei that people, not the economy, should come first",
-      "link": "https://www.pbs.org/newshour/world/pope-arrives-in-argentina-and-tells-milei-that-people-not-the-economy-should-come-first",
-      "publishedAt": "Sun, 08 Nov 2026 17:42:57 -0500",
-      "snippet": "Leo's visit to Argentina is by far the most politically delicate of his three-nation South American tour, and a place where Leo will also confront the complicated legacy of Argentine Pope Francis, who never returned home during his 12-year pontificate.",
+      "title": "Nvidia's Jensen Huang faces scrutiny over alleged affair with Chinese spy",
+      "link": "https://www.pbs.org/newshour/show/nvidias-jensen-huang-faces-scrutiny-over-alleged-affair-with-chinese-spy",
+      "publishedAt": "Mon, 09 Nov 2026 18:55:35 -0500",
+      "snippet": "Lawmakers, investors and tech leaders are assessing bombshell revelations about Nvidia founder and CEO Jensen Huang. Huang admitted to an affair with a woman accused of being a Chinese spy. Nvidia designs chips and processors that power artificial intelligence and underpin much o",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Voters demanded economic relief. Trump and Democrats face tough choices on how to deliver",
-      "link": "https://www.pbs.org/newshour/economy/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver",
-      "publishedAt": "Sun, 08 Nov 2026 16:59:15 -0500",
-      "snippet": "Trump, who campaigned on the idea that a Democratic victory in the midterms would trigger a 1929-style economic depression, has maintained that the economy is booming. Since his party lost in Tuesday's voting, he has claimed he is willing to work with Democrats in the House and S",
+      "title": "What China stands to gain from Nvidia's CEO's alleged affair with spy",
+      "link": "https://www.pbs.org/newshour/show/what-china-stands-to-gain-from-nvidias-ceos-alleged-affair-with-spy",
+      "publishedAt": "Mon, 09 Nov 2026 18:50:09 -0500",
+      "snippet": "To discuss the national security risks of Nvidia's CEO having an affair with a possible foreign intelligence agent, Amna Nawaz spoke with Christopher Johnson. He spent 20 years in the U.S. intelligence community focusing on China. He now runs his own consulting firm, China Strate",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Native American women made history in tribal, state and federal elections",
-      "link": "https://www.pbs.org/newshour/politics/native-american-women-made-history-in-tribal-state-and-federal-elections",
-      "publishedAt": "Sun, 08 Nov 2026 16:15:34 -0500",
-      "snippet": "Peggy Flanagan became the first Native American woman elected to the Senate, Deb Haaland the first to win a state governorship, and Crystalyne Curley the first to lead the Navajo Nation.",
+      "title": "Citing government pressure, Russia's top independent newspaper closes its office after three decades",
+      "link": "https://www.pbs.org/newshour/world/citing-government-pressure-russias-top-independent-newspaper-closes-its-office-after-three-decades",
+      "publishedAt": "Mon, 09 Nov 2026 18:46:13 -0500",
+      "snippet": "Novaya Gazeta was the last major independent media outlet critical of the Kremlin that remained active in Russia.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump and his Justice Department stand defiant as Democrats ready an investigative blitz",
-      "link": "https://www.pbs.org/newshour/politics/trump-and-his-justice-department-stand-defiant-as-democrats-ready-an-investigative-blitz",
-      "publishedAt": "Sun, 08 Nov 2026 15:58:15 -0500",
-      "snippet": "Trump set the tone, declaring on social media that investigative requests already made by Democrats are \"extortion at the highest level, and they should be held accountable.\"",
+      "title": "How the Nvidia revelations could ripple through the AI industry and global economy",
+      "link": "https://www.pbs.org/newshour/show/what-china-stands-to-gain-from-nvidias-ceos-alleged-affair-with-spy-2",
+      "publishedAt": "Mon, 09 Nov 2026 18:45:32 -0500",
+      "snippet": "To discuss the national security risks of Nvidia's CEO having an affair with a possible foreign intelligence agent, Amna Nawaz spoke with Christopher Johnson. He spent 20 years in the U.S. intelligence community focusing on China. He now runs his own consulting firm, China Strate",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "The Kremlin hopes the U.S. election shake-up won't shift Trump's negotiations on Ukraine",
-      "link": "https://www.pbs.org/newshour/world/the-kremlin-hopes-the-u-s-election-shake-up-wont-shift-trumps-negotiations-on-ukraine",
-      "publishedAt": "Sun, 08 Nov 2026 15:15:36 -0500",
-      "snippet": "Asked if the election's outcome could stymie U.S. attempts to help negotiate a settlement between Moscow and Kyiv, Kremlin spokesperson Dmitry Peskov voiced hope that President Donald Trump will continue to pursue his peace efforts.",
+      "title": "News Wrap: Supreme Court allows border wall construction in Big Bend",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-border-wall-construction-in-big-bend",
+      "publishedAt": "Mon, 09 Nov 2026 18:40:07 -0500",
+      "snippet": "In our news wrap Monday, the Supreme Court is allowing the Trump administration to continue building a section of border wall in a remote part of Texas that includes Big Bend National Park, Russia and Ukraine exchanged long-range strikes ahead of U.S. brokered talks and French of",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
-      "link": "https://www.pbs.org/newshour/world/poles-mourn-rare-mass-killing-as-authorities-say-attacker-had-far-right-views",
-      "publishedAt": "Sun, 08 Nov 2026 15:02:39 -0500",
-      "snippet": "The attack, which Poland's defense minister described as an \"act of terror,\" happened on Saturday in the Main Square, in the heart of Krakow's Old Town. The square is a major tourist hub in the country's second-largest city.",
+      "title": "What we know &mdash; and what we don't &mdash; as Nvidia investigates an alleged spy plot involving its CEO",
+      "link": "https://www.pbs.org/newshour/world/what-we-know-and-what-we-dont-as-nvidia-investigates-an-alleged-spy-plot-involving-its-ceo",
+      "publishedAt": "Mon, 09 Nov 2026 18:35:18 -0500",
+      "snippet": "Many questions remain unanswered. But the scandal is already bringing turmoil to California-based Nvidia, whose high-end chips have emerged as the leading building blocks for artificial intelligence.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "The midterms energized a powerful political constituency: abuse survivors",
-      "link": "https://www.pbs.org/newshour/politics/the-midterms-energized-a-powerful-political-constituency-abuse-survivors",
-      "publishedAt": "Sun, 08 Nov 2026 13:41:30 -0500",
-      "snippet": "From Ohio Gov.-elect Amy Acton's victory to candidates accused of abuse withdrawing, advocates are calling this year's elections \"a win for survivors.\"",
+      "title": "Hegseth faces impeachment push as Congress returns to Washington",
+      "link": "https://www.pbs.org/newshour/show/hegseth-faces-impeachment-push-as-congress-returns-to-washington",
+      "publishedAt": "Mon, 09 Nov 2026 18:35:16 -0500",
+      "snippet": "There were some new faces on Capitol Hill on Monday as incoming lawmakers arrived for their orientation. But for the current House and Senate, it was back to business. They began one final stretch before the GOP loses its control of Congress in January. Rep. Thomas Massie of Kent",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns",
-      "link": "https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns",
-      "publishedAt": "Sun, 08 Nov 2026 13:05:01 -0500",
-      "snippet": "Officials with the Center for Advancing Innovation and Standards for Super Intelligence, or CAISSI, an independent division of the Commerce Department, recently were asked to informally report to an office of the White House.",
+      "title": "South Carolina wins give Democrats hope to expand reach in Deep South",
+      "link": "https://www.pbs.org/newshour/show/south-carolina-wins-give-democrats-hope-to-expand-reach-in-deep-south",
+      "publishedAt": "Mon, 09 Nov 2026 18:30:31 -0500",
+      "snippet": "One of the stunning upsets of last week's election was in South Carolina, where Democrat Annie Andrews defeated incumbent Republican Darline Graham in the Senate race. That wasn't the only Democratic victory in the deep red state. Democrats also flipped a House seat and flipped 1",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Collision between 2 trains in Egypt kills 7 and injures at least 125",
-      "link": "https://www.pbs.org/newshour/world/collision-between-2-trains-in-egypt-kills-7-and-injures-more-than-100",
-      "publishedAt": "Sun, 08 Nov 2026 12:40:25 -0500",
-      "snippet": "Train derailments and crashes are common in Egypt, where the railway system has a history of mismanagement and poor maintenance of equipment. In recent years, the government has announced modernization initiatives.",
+      "title": "Judge's ruling could clear the way for Lindsay Clancy to be tried again in the deaths of her three kids",
+      "link": "https://www.pbs.org/newshour/nation/judges-ruling-could-clear-the-way-for-lindsay-clancy-to-be-tried-again-in-the-deaths-of-her-three-kids",
+      "publishedAt": "Mon, 09 Nov 2026 18:25:36 -0500",
+      "snippet": "Clancy's defense team had asked the court to end the case based on an unusual argument that the judge shouldn't have declared a mistrial in September when jurors were unable to reach a unanimous verdict.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Floods bring rare relief to U.S. Southwest reservoirs as Lake Powell rises 20 feet",
-      "link": "https://www.pbs.org/newshour/nation/floods-bring-rare-relief-to-u-s-southwest-reservoirs-as-lake-powell-rises-20-feet",
-      "publishedAt": "Sun, 08 Nov 2026 12:31:40 -0500",
-      "snippet": "Storms in late October and early November sent torrents of water through normally small or dry creeks that overflowed their banks and flooded local communities.",
+      "title": "Tamara Keith and Amy Walter on how Trump will govern after the blue wave",
+      "link": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-how-trump-will-govern-after-the-blue-wave",
+      "publishedAt": "Mon, 09 Nov 2026 18:20:06 -0500",
+      "snippet": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump sending mixed messages about how he plans to govern for the remainder of his term after Democrats' historic wins in the m",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Israel's president formally gives Eisenkot the first chance to form the next government",
-      "link": "https://www.pbs.org/newshour/world/israels-president-formally-gives-eisenkot-the-first-chance-to-form-the-next-government",
-      "publishedAt": "Sun, 08 Nov 2026 11:32:35 -0500",
-      "snippet": "The announcement doesn't guarantee that Eisenkot, a former army chief, will become the next prime minister. He has up to six weeks to form a coalition government by securing alliances, a daunting challenge because the Oct. 27 election gave neither his bloc nor Netanyahu's a clear",
+      "title": "Gaza students work toward college degrees after years of war and displacement",
+      "link": "https://www.pbs.org/newshour/show/gaza-students-work-toward-college-degrees-after-years-of-war-and-displacement",
+      "publishedAt": "Mon, 09 Nov 2026 18:15:22 -0500",
+      "snippet": "In Gaza, more than half a million students are back in school after three years. The picture has been equally bleak for post-secondary education, which has been virtually non-existent since the start of the war in Gaza. Special correspondent Fred de Sam Lazaro reports on an unusu",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "What is Diwali, the Festival of Lights, and how is it celebrated?",
-      "link": "https://www.pbs.org/newshour/world/what-is-diwali-the-festival-of-lights-and-how-is-it-celebrated",
-      "publishedAt": "Sat, 07 Nov 2026 18:01:43 -0500",
-      "snippet": "The festival follows the Hindu lunar calendar, typically falling in late October or early November. This year, Diwali falls on Nov. 8.",
+      "title": "Judge dismisses case from Dolly Parton's manager alleging her nephew threatened her estate",
+      "link": "https://www.pbs.org/newshour/arts/judge-dismisses-case-from-dolly-partons-manager-alleging-her-nephew-threatened-her-estate",
+      "publishedAt": "Mon, 09 Nov 2026 18:15:00 -0500",
+      "snippet": "A Tennessee judge on Monday dismissed a case brought by Dolly Parton 's longtime manager who was seeking an injunction against her nephew and head of security, alleging he had threatened her estate and its employees.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Sen. Chris Murphy's stroke at 53 highlights a trend: Strokes among younger adults have risen",
-      "link": "https://www.pbs.org/newshour/health/sen-chris-murphys-stroke-at-53-highlights-a-trend-strokes-among-younger-adults-have-risen",
-      "publishedAt": "Sat, 07 Nov 2026 16:14:44 -0500",
-      "snippet": "Researchers found that the stroke incidence rate among adults from 1993-94 nearly doubled in 2020, jumping from 33.90 cases per 100,000 people to 62.18 cases.",
+      "title": "WATCH: Trump says FBI is looking into Nvidia CEO Jensen Huang's affair with alleged Chinese agent",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-fbi-is-looking-into-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-agent",
+      "publishedAt": "Mon, 09 Nov 2026 18:04:24 -0500",
+      "snippet": "President Donald Trump said Monday that Nvidia CEO Jensen Huang should not worry about the FBI looking into his affair with a woman alleged to be a Chinese government agent.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Trump says he's asked UFC's Dana White to be his press secretary",
-      "link": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary",
-      "publishedAt": "Sat, 07 Nov 2026 15:55:40 -0500",
-      "snippet": "Trump's social media post about the offer came as his White House is in a period of major transition and struggling with his party's deep losses in Tuesday's midterm elections.",
+      "title": "Democrats plan to use new power to rein in Trump's education agenda. But their tools are limited",
+      "link": "https://www.pbs.org/newshour/politics/democrats-plan-to-use-new-power-to-rein-in-trumps-education-agenda-but-their-tools-are-limited",
+      "publishedAt": "Mon, 09 Nov 2026 16:59:27 -0500",
+      "snippet": "Democrats in Congress are gearing up to challenge President Donald Trump's education policies, including the dismantling of the U.S. Education Department.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
-      "link": "https://www.pbs.org/newshour/world/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
-      "publishedAt": "Sat, 07 Nov 2026 15:39:08 -0500",
-      "snippet": "Neither Eisenkot nor Netanyahu won a clear majority in the vote. But in marathon discussions with the president this week, representatives from most of Israel's main parties recommended Eisenkot be tasked with assembling a new government.",
+      "title": "California's fifth consecutive Catholic governor exemplifies the faith's deep roots",
+      "link": "https://www.pbs.org/newshour/politics/californias-fifth-consecutive-catholic-governor-exemplifies-the-faiths-deep-roots",
+      "publishedAt": "Mon, 09 Nov 2026 16:31:13 -0500",
+      "snippet": "Xavier Becerra's recent election as California governor highlights the state's unique blend of Catholicism and progressive politics.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Melania Trump and LSU announce a scholarship program for students who were in foster care",
-      "link": "https://www.pbs.org/newshour/politics/melania-trump-and-lsu-announce-a-scholarship-program-for-students-who-were-in-foster-care",
-      "publishedAt": "Sat, 07 Nov 2026 14:35:15 -0500",
-      "snippet": "Trump and LSU secured more than $7 million in private donations to create an endowment fund for the scholarships, the White House said.",
+      "title": "France blames Iran for last month's cyberattack on supermarket fridges",
+      "link": "https://www.pbs.org/newshour/world/france-blames-iran-for-last-months-cyberattack-on-supermarket-fridges",
+      "publishedAt": "Mon, 09 Nov 2026 16:18:01 -0500",
+      "snippet": "France on Monday blamed Iran for last month's massive cyberattack on supermarket fridges, summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case",
-      "link": "https://www.pbs.org/newshour/politics/judge-wants-former-u-s-attorney-to-investigate-whether-the-government-misled-her-in-trump-golf-case",
-      "publishedAt": "Sat, 07 Nov 2026 13:34:30 -0500",
-      "snippet": "The administration plans to close the East Potomac Golf Course and park on Nov. 15 with the intention of constructing a \"World Class, championship-level golf course that is capable of hosting major events.\"",
+      "title": "WATCH: Smog blankets New Delhi after Diwali celebrations",
+      "link": "https://www.pbs.org/newshour/world/watch-smog-blankets-new-delhi-after-diwali-celebrations",
+      "publishedAt": "Mon, 09 Nov 2026 15:42:42 -0500",
+      "snippet": "New Delhi was blanketed by hazy smog Monday after a weekend of Diwali celebrations.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "With an ode to mate, Pope Leo urges faithful in Uruguay to build bridges of fraternity and faith",
-      "link": "https://www.pbs.org/newshour/world/with-an-ode-to-mate-pope-leo-urges-faithful-in-uruguay-to-build-bridges-of-fraternity-and-faith",
-      "publishedAt": "Sat, 07 Nov 2026 13:14:13 -0500",
-      "snippet": "More than 30,000 people — many from Uruguay but also from neighboring Argentina and Brazil — had registered in advance to attend the service. The Vatican said Saturday that another 10,000 had attended, despite the morning rain.",
+      "title": "WATCH: Rep. Massie speaks after filing Hegseth impeachment resolution",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-rep-massie-speaks-after-filing-hegseth-impeachment-resolution",
+      "publishedAt": "Mon, 09 Nov 2026 15:26:39 -0500",
+      "snippet": "Rep. Thomas Massie moved Monday to force a vote to impeach Defense Secretary Pete Hegseth, setting the stage for a dramatic vote on whether to remove one of the Trump administration's most prominent figures following sweeping election losses.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on",
-      "link": "https://www.pbs.org/newshour/politics/scott-colom-and-black-mississippians-stand-on-the-cusp-of-senate-history-as-vote-count-stretches-on",
-      "publishedAt": "Sat, 07 Nov 2026 12:54:01 -0500",
-      "snippet": "The state is still tallying ballots that could make Colom the first Black senator from this Deep South state since post-Civil War Reconstruction.",
+      "title": "Even after the midterm rout of Trumpism, the world struggles to trust America",
+      "link": "https://www.pbs.org/newshour/politics/even-after-the-midterm-rout-of-trumpism-the-world-struggles-to-trust-america",
+      "publishedAt": "Mon, 09 Nov 2026 14:45:49 -0500",
+      "snippet": "The U.S. midterm rout of President Donald Trump's stewardship doesn't mean the world trusts America again.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "In his words: Stephen Miller is an immigration hardliner and a bombastic critic of Democrats",
-      "link": "https://www.pbs.org/newshour/politics/in-his-words-stephen-miller-is-an-immigration-hardliner-and-a-bombastic-critic-of-democrats",
-      "publishedAt": "Sat, 07 Nov 2026 12:39:49 -0500",
-      "snippet": "An outspoken defender of President Donald Trump's most far-reaching goals to remake government going back to his 2016 run for president, Miller is known for his harsh language and unapologetic bombast.",
+      "title": "In memoir, Biden says Trump should carry the weight of Jan. 6 riots 'to his grave'",
+      "link": "https://www.pbs.org/newshour/arts/in-memoir-biden-says-trump-should-carry-the-weight-of-jan-6-riots-to-his-grave",
+      "publishedAt": "Mon, 09 Nov 2026 14:09:14 -0500",
+      "snippet": "The first excerpt of \"Promise Me, America\" was published Monday by The Atlantic. The full memoir is set for a Nov. 17 release.",
       "tier": 1
     },
     {
@@ -440,10 +440,122 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+      "link": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ukrainian and Russian representatives last met in February for talks on ending the war, but the same sticking points remain. Ukraine continues to demand security guarantees, which is a non-starter for Russia.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Skydance replaces James Gunn and Peter Safran as DC Studios chiefs following Warner Bros. takeover",
+      "link": "https://www.dw.com/en/skydance-replaces-james-gunn-and-peter-safran-as-dc-studios-chiefs-following-warner-bros-takeover/a-79904972?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In another major shake-up for the DC Studios, Skydance is replacing Hollywood director James Gunn and producer Peter Safran with a former Marvel executive.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US Pentagon chief Hegseth faces impeachment push over Iran war",
+      "link": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Trump critic Thomas Massie is calling for a vote to impeach Pentagon chief Pete Hegseth, accusing Hegseth of waging war without congressional approval.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Pope Leo draws 2.5 million in Buenos Aires, renews warning over Milei&apos;s austerity",
+      "link": "https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Some 2.5 million people have attended Pope Leo&apos;s mass in Buenos Aires, his largest gathering yet. The pontiff once again called for protecting the vulnerable as President Milei cuts disability care and social services.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "French officials blame Iran for supermarket fridge hacking",
+      "link": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The recent cyberattack on refrigerators and freezers in supermarkets in France was organized by Iran&apos;s Revolutionary Guards, French Foreign Minister Jean-Noel Barrot has said, describing the hacking as \"unprecedented.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
+      "link": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The investigative newspaper is closing its doors after Russian authorities labeled it a \"foreign agent\" and ordered it vacate its Moscow premises.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India’s demonetization: 10 years on, promises remain unfulfilled",
+      "link": "https://www.dw.com/en/india-s-demonetization-10-years-on-promises-remain-unfulfilled/a-79903331?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A decade after the 2016 currency ban, its impact on India&apos;s economy and the fight against black money remains contested.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ice hockey: Norway says it&apos;s been kicked out of World Juniors in favor of Russia",
+      "link": "https://www.dw.com/en/ice-hockey-norway-says-it-s-been-kicked-out-of-world-juniors-in-favor-of-russia/a-79901844?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The wrangling over Russia&apos;s return to international ice hockey continues, with Norway saying it has been kicked out of the next major tournament to accommodate Russia. Switzerland has joined a \"boycott.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Fake news in Africa: In an age of disinformation, who decides what&apos;s true?",
+      "link": "https://www.dw.com/en/fake-news-in-africa-in-an-age-of-disinformation-who-decides-what-s-true/a-79874039?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "From Ghana to Mozambique, the fight against fake news keeps gaining momentum. But combating disinformation also requires safeguards for free speech, leaving some governments in an inconvenient position.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Turkey: Workers killed in Izmir steel plant blast",
+      "link": "https://www.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "At least 16 workers lost their lives in an explosion at a steel factory in Izmir. President Recep Tayyip Erdogan issued an updated casualty toll after a Cabinet meeting.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Strait of Hormuz still a source of leverage for Iran",
+      "link": "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Attacks in the Strait of Hormuz put crews at risk and drive up energy shipping costs. Iran&apos;s ability to sustain them and the limits of US protection will shape how much trade can continue and at what price.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Russell Brand sentenced to over 10 years in prison for rape and sexual assault convictions",
+      "link": "https://www.dw.com/en/russell-brand-sentenced-to-over-10-years-in-prison-for-rape-and-sexual-assault-convictions/a-79896124?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The former comedian was found guilty of raping one woman and sexually assaulting three others last week. The judge referred to Brand as a \"predator.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "37 years after fall of Berlin Wall: How divided are Germans?",
+      "link": "https://www.dw.com/en/37-years-after-fall-of-berlin-wall-how-divided-are-germans/a-79877461?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Three artists share their thoughts on the reunification of East and West Germany. How do they perceive a shared \"we\" and what gives them cause for optimism?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany: CDU names Ilse Aigner as candidate for president",
+      "link": "https://www.dw.com/en/germany-cdu-names-ilse-aigner-as-candidate-for-president/a-79898143?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The steering committtee of the CDU have announced Bavarian politician Ilse Aigner as presidential candidate. This gives her a good chance of becoming the first woman to occupy the role.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "EU aims to pick new ECB chief by year-end",
       "link": "https://www.dw.com/en/eu-aims-to-pick-new-ecb-chief-by-year-end/a-79898169?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Christine Lagarde&apos;s early decision to step down as head of the European Central Bank (ECB) has put the European Union on a tight schedule. The bloc expects to pick a new ECB chief by the end of December.",
+      "snippet": "Christine Lagarde&apos;s decision to step down early as head of the European Central Bank (ECB) has put the European Union on a tight schedule. The bloc expects to pick a new ECB chief by the end of December.",
       "tier": 2
     },
     {
@@ -476,118 +588,6 @@
       "link": "https://www.dw.com/en/germany-news-germany-marks-fateful-date-of-november-9/live-79895613?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Germany is commemorating the Nazi-led November pogroms 88 years ago. Events are also being held to mark the anniversary of the fall of the Berlin Wall in 1989. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India news: Delhi air quality level &apos;severe&apos; after Diwali",
-      "link": "https://www.dw.com/en/india-news-delhi-air-quality-level-severe-after-diwali/live-79895307?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Illegal fireworks during Diwali celebrations have impacted New Delhi&apos;s air quality level. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
-      "link": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The alleged gunman who killed six people in a shooting spree in the Polish city of Krakow has died of injuries sustained in a shootout with police, authorities say.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "US President Donald Trump says deportation policy was &apos;too tough&apos; for voters",
-      "link": "https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Trump said his deportation policy may be one of the reasons the Republicans lost so much ground in the midterm elections.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "G7 ministers meet as Europe seeks greater say in Ukraine peace talks",
-      "link": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "With Washington preparing negotiations with Moscow and Kyiv, European leaders fear Ukraine could face pressure to accept a bad deal. Iran tensions and the threat of renewed US strikes are also on the agenda.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pope Leo urges Argentina&apos;s Milei to put people before the economy",
-      "link": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Pope Leo XIV has urged Argentina to protect democracy and ensure economic growth benefits the poor, delivering a message to President Javier Milei over austerity, social welfare and political divisions.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
-      "link": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Following reports of Nvidia&apos;s chief Jensen Huang becoming involved with a Chinese spy, Huang offered an apology for cheating on his wife. Meanwhile, the US tech company pledged to investigate the alleged espionage.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran: Trump says strikes unlikely if peace talks keep moving",
-      "link": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After weeks of rumors that the US and Israel were preparing new strikes on Iran, President Donald Trump said it was \"highly unlikely\" that he would order a new escalation as the Iranians \"want to make a deal so badly.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany: Chancellor Merz to nominate Aigner for president",
-      "link": "https://www.dw.com/en/germany-chancellor-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "German Chancellor Friedrich Merz announced that he will nominate Ilse Aigner for federal president, paving the way for her to be the first woman to hold the office. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Many killed after migrant boat sinks off Senegal",
-      "link": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The incident occurred near Kebemer off the coast of northwestern Senegal. Authorities on El Hierro in the Canary Islands have declared an emergency after a marked increase in migrant boat arrivals.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Africa elections: ANC marks its worst-ever performance",
-      "link": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The African National Congress, the party of late liberation icon Nelson Mandela, slumped to its worst-ever result in South Africa&apos;s municipal election. Voters blame the ANC for water and electricity shortages.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Egypt train crash leaves several dead, over 100 injured",
-      "link": "https://www.dw.com/en/egypt-train-crash-leaves-several-dead-over-100-injured/a-79892916?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A train derailed after colliding with another train south of Cairo, with authorities confirming several deaths and saying more than 100 passengers were injured. Over 50 ambulances were deployed to the scene.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Israel: Eisenkot officially tasked with forming a government",
-      "link": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Israeli President Isaac Herzog tasked Gadi Eisenkot with the right of trying to form a government. The opposition leader&apos;s way to replacing Benjamin Netanyahu as prime minister is full of political challenges.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran: US strikes ship after Hormuz blockade breach",
-      "link": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The US military said a vessel trying to leave an Iranian port was hit due to the naval blockade on the country. On its part, Iran said three \"non compliant\" oil tankers caught fire in the Strait of Hormuz.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Gaza: Rains add misery to humanitarian catastrophe",
-      "link": "https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "With most homes damaged or destroyed by the war, Gazans are facing worsening humanitarian conditions due to heavy rain.",
       "tier": 2
     }
   ]
