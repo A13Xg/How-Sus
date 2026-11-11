@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T00:42:12.426Z",
+  "generatedAt": "2026-11-11T12:30:35.876Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,9 +32,17 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "US House blocks bid to impeach Defence Secretary Hegseth, for now",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 01:01:20 GMT",
+      "snippet": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
       "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 00:38:33 GMT",
+      "publishedAt": "Wed, 11 Nov 2026 11:47:22 GMT",
       "snippet": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
       "tier": 1
     },
@@ -42,40 +50,72 @@
       "source": "BBC World",
       "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
       "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 22:17:45 GMT",
+      "publishedAt": "Wed, 11 Nov 2026 02:41:16 GMT",
       "snippet": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 18:33:51 GMT",
-      "snippet": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 00:19:42 GMT",
+      "snippet": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 17:03:16 GMT",
-      "snippet": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 12:14:12 GMT",
+      "snippet": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 00:18:07 GMT",
-      "snippet": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 03:44:06 GMT",
+      "snippet": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 19:26:42 GMT",
-      "snippet": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+      "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 01:18:09 GMT",
+      "snippet": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US warns Madagascar over growing military ties with Russia",
+      "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 07:30:15 GMT",
+      "snippet": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Tearful Smith switches allegiance to Netherlands",
+      "link": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 09:45:14 GMT",
+      "snippet": "Tatjana Smith, South Africa's most decorated Olympian, switches allegiance to the Netherlands.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Eswatini gives illegal foreign businesses 12 months to leave",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gnq2pw2kro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 11:15:00 GMT",
+      "snippet": "The law follows the growth of foreign-owned businesses in retail sector in rural areas.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 20:20:04 GMT",
+      "snippet": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
       "tier": 1
     },
     {
@@ -88,6 +128,22 @@
     },
     {
       "source": "BBC World",
+      "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 00:17:42 GMT",
+      "snippet": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 19:26:42 GMT",
+      "snippet": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Spain's king and queen attend memorial service for rail crash victims",
       "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 10 Nov 2026 20:46:40 GMT",
@@ -96,178 +152,122 @@
     },
     {
       "source": "BBC World",
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 15:21:18 GMT",
-      "snippet": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
+      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 09:28:36 GMT",
+      "snippet": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 21:21:55 GMT",
-      "snippet": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
+      "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 20:31:17 GMT",
+      "snippet": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 22:52:15 GMT",
-      "snippet": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "title": "Why are these purple flowers shutting down streets in Sydney?",
+      "link": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 18:03:52 GMT",
+      "snippet": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 13:23:54 GMT",
-      "snippet": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
+      "title": "'If I tell you to run, run': BBC joins a Ukrainian drone unit as it protects a front-line city",
+      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 10 Nov 2026 18:35:35 GMT",
+      "snippet": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
-      "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 18:43:04 GMT",
-      "snippet": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Arrests made after visit from former US President Biden",
-      "link": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 18:07:56 GMT",
-      "snippet": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 16:07:51 GMT",
-      "snippet": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "US federal authorities could have prevented Epstein crimes, report finds",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 20:36:58 GMT",
-      "snippet": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 16:19:48 GMT",
-      "snippet": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
-      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 11:25:46 GMT",
-      "snippet": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-      "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 08:39:05 GMT",
-      "snippet": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "'Cruise for life' ship seized in Singapore",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 10 Nov 2026 01:49:06 GMT",
-      "snippet": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 00:18:07 GMT",
+      "snippet": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
-      "publishedAt": "Tue, 10 Nov 2026 18:43:11 -0500",
-      "snippet": "House Republicans managed to short-circuit a floor vote on the impeachment effort brought against the Defense Secretary by Kentucky Republican Thomas Massie.",
+      "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+      "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+      "publishedAt": "Wed, 11 Nov 2026 07:21:59 -0500",
+      "snippet": "Defense Secretary Pete Hegseth has been spared from the House&apos;s impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Supreme Court seems split over federal agencies&apos; ability to fine for law violations",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6034950/2026-11-10-nx-s1-6034950-supreme-court-seems-divided-over-federal-agencies-ability-to-fine-for-law-violations",
-      "publishedAt": "Tue, 10 Nov 2026 18:27:32 -0500",
-      "snippet": "The Supreme Court heard arguments Tuesday in a case related to temporary worker visas. The company involved says enforcement issues should go through the courts, not the federal agency alone.",
+      "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+      "publishedAt": "Wed, 11 Nov 2026 05:02:54 -0500",
+      "snippet": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Should you trust new AI agents with your money and data?",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
-      "publishedAt": "Tue, 10 Nov 2026 16:44:32 -0500",
-      "snippet": "Tech companies want agentic AI to be the new way you shop. But should you trust AI when your money&apos;s involved?",
+      "title": "Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot",
+      "link": "https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot",
+      "publishedAt": "Wed, 11 Nov 2026 05:02:44 -0500",
+      "snippet": "Republicans block Hegseth impeachment, Trump ally picked to lead House GOP minority, UK investigates alleged Iran-backed plot.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
-      "publishedAt": "Tue, 10 Nov 2026 14:00:00 -0500",
-      "snippet": "Drone makers are testing new, big drones that can deliver water or fire retardant with AI assistance. Aspen, Colorado is the first place trying them out. Cool and expensive? Yes. Effective? TBD.",
+      "title": "Oil giant ExxonMobil left Venezuela years ago. Now it&apos;s considering a return",
+      "link": "https://www.npr.org/2026/11/11/nx-s1-5979080/exxonmobil-oil-mou-venezuela",
+      "publishedAt": "Wed, 11 Nov 2026 05:00:00 -0500",
+      "snippet": "ExxonMobil has signed a memorandum of understanding with the Venezuelan government and its state-owned oil company to explore opportunities in the country.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S. boycotts U.N. human rights review for second year running",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
-      "publishedAt": "Tue, 10 Nov 2026 13:53:34 -0500",
-      "snippet": "The U.S. has skipped a key U.N. human rights review for the second year running. Rights groups warn the absence risks undermining global accountability.",
+      "title": "AI hoaxes are deceiving 911 dispatchers, and they&apos;re only getting harder to detect",
+      "link": "https://www.npr.org/2026/11/11/nx-s1-6034449/ai-911-calls-swatting",
+      "publishedAt": "Wed, 11 Nov 2026 05:00:00 -0500",
+      "snippet": "Swatters are increasingly using AI technology that creates synthetic voices or sound effects to generate remarkably believable fake emergency calls to law enforcement.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Americans across the economic spectrum feel a &apos;panic&apos; about finances, author says",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
-      "publishedAt": "Tue, 10 Nov 2026 12:46:25 -0500",
-      "snippet": "Mona Chalabi spent five years following Americans living paycheck to paycheck, as well as those earning top wages. Her new book, Ten Lives, explores why financial security can feel so elusive.",
+      "title": "Volunteer musicians play songs for veterans who are hospitalized",
+      "link": "https://www.npr.org/2026/11/11/nx-s1-6005263/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
+      "publishedAt": "Wed, 11 Nov 2026 05:00:00 -0500",
+      "snippet": "Volunteer musicians play for veterans and others who are hospitalized. They&apos;re part of Musicians On Call, a group that spreads the healing power of music.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Gas prices dip below $4 but inflation remains stubbornly high",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
-      "publishedAt": "Tue, 10 Nov 2026 09:35:50 -0500",
-      "snippet": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high.",
+      "title": "Both sides now? Critics slam DOJ moves to dismiss convictions of Trump allies",
+      "link": "https://www.npr.org/2026/11/11/g-s1-152713/doj-abandons-convictions-trump-allies-no-defense",
+      "publishedAt": "Wed, 11 Nov 2026 05:00:00 -0500",
+      "snippet": "The DOJ moved to dismiss criminal convictions of former Trump adviser Steve Bannon and of the Oath Keepers, in what it calls \"the interests of justice.\" Critics are crying foul.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "&apos;Like gods reigning over humans&apos;: Many defectors see daughter of North Korea&apos;s Kim as heir apparent",
-      "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
-      "publishedAt": "Tue, 10 Nov 2026 09:16:53 -0500",
-      "snippet": "Little is known about her except that she&apos;s reportedly about 13 and named Kim Ju Ae, but Korea&apos;s spy agency says she&apos;s likely her father&apos;s heir.",
+      "title": "Your guide to hosting a flavorful, cozy and stress-free Thanksgiving",
+      "link": "https://www.npr.org/2026/11/11/nx-s1-6034639/your-guide-to-hosting-a-flavorful-cozy-and-stress-free-thanksgiving",
+      "publishedAt": "Wed, 11 Nov 2026 05:00:00 -0500",
+      "snippet": "Whether you&apos;re hosting friendsgiving or Thanksgiving, we&apos;ve got foolproof turkey recipes, advice on how to stay present while hosting, and directions on how to create a stunning floral arrangement.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Indonesia&apos;s VP offers resignation as questions mount over his eligibility",
-      "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
-      "publishedAt": "Tue, 10 Nov 2026 09:01:14 -0500",
-      "snippet": "His resignation offer comes amid a widening political rift between Prabowo and Widodo and a separate investigation into allegations that senior police officials wiretapped the president.",
+      "title": "U.S. officials look to Europe to learn how to make prison better",
+      "link": "https://www.npr.org/2026/11/11/nx-s1-6026417/us-prisons-european-model-rehabilitation",
+      "publishedAt": "Wed, 11 Nov 2026 05:00:00 -0500",
+      "snippet": "American prison officials are looking to European nations like Germany and Norway for a roadmap on how to design a prison that emphasizes rehabilitation and a successful return to life on the outside.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
-      "publishedAt": "Tue, 10 Nov 2026 08:30:00 -0500",
-      "snippet": "Vehicle transaction prices are up to a new record high, according to the Kelley Blue Book — and some buyers are extending their car loans to finance them.",
+      "title": "Spain&apos;s first general strike in 14 years demands solutions to housing crisis",
+      "link": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
+      "publishedAt": "Wed, 11 Nov 2026 04:54:54 -0500",
+      "snippet": "Less than three weeks before a national election that could catapult the far right to power, Spain&apos;s workers are striking on Wednesday to demand that the government remedy the nation&apos;s housing crisis.",
       "tier": 1
     },
     {
@@ -440,6 +440,86 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Iran classes Argentina navy, air force as &apos;terrorist organizations&apos;",
+      "link": "https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In a tit-for-tat move, Iran has said it now considers Argentina&apos;s navy and air force as \"terrorist organizations.\" Tehran claimed Buenos Aires is responsible for further consequences.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Spain: Housing crisis prompts general strike",
+      "link": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Workers across nearly all industries have taken to the picket lines as rents soar and the housing crunch worsens. The crisis is the main political debate ahead of Spain&apos;s November 29 elections.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "DW Science explainer on the default mode network: what your brain does when you aren&apos;t focusing on anything, and why it&apos;s important.",
+      "link": "https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Doing nothing might be the ultimate brain hack. When you&apos;re bored, the brain goes into default mode network. It&apos;s not only healthy for you, but it may also shape the very essence of your identity.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India: CPCB addresses stark Delhi pollution data gap on Diwali night",
+      "link": "https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "India&apos;s main pollution monitor has issued a clarification on a wide air quality data gap between official and private reporting in New Delhi that saw the city choked amid Diwali fireworks. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany slips in climate protection rankings as other countries make gains",
+      "link": "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Record renewable energy growth is driving climate progress in some countries, but Germany and many major emitters are falling behind.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "How AI worsens online violence against Middle East women",
+      "link": "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Women in the Middle East already have to deal with an above-average share of online harassment and violence. The proliferation of AI-enabled tools is making it worse.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "South Korea bus causes large crash near Seoul, dozens hurt",
+      "link": "https://www.dw.com/en/south-korea-bus-causes-large-crash-near-seoul-dozens-hurt/a-79914074?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The bus triggered a collision involving more than 30 vehicles, including other buses, during rush hour traffic in the South Korean city of Seongnam, just south of Seoul.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Israel: Eisenkot proposes October 7 probe as new Knesset sworn in",
+      "link": "https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ex-IDF chief Gadi Eisenkot has yet to forge a coalition that would allow him to replace Benjamin Netanyahu, despite the new Knesset being dominated by the critics of the current prime minister.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US Republicans derail push to impeach Defense Secretary Pete Hegseth",
+      "link": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Pentagon chief Pete Hegseth seems set to survive the impeachment bid launched by maverick Republican lawmaker Thomas Massie, with President Donald Trump praising the outcome of the vote.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US charges 3 alleged Iranian operatives over plots targeting Jewish communities and a UK airbase",
+      "link": "https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US prosecutors claim the three men were planning a \"campaign of terror\" against Jewish communities and a UK airbase. The Fairford incident prompted the US to pull out its bombers used for operations against Iran.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Former Malaysian leader Najib Razak returns home under royal pardon, but faces a separate 15-year prison sentence",
       "link": "https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -508,86 +588,6 @@
       "link": "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Jensen Huang&apos;s affair with a suspected Chinese spy has shone a light on Megaspeed, the company she worked for. It is under investigation in the US for smuggling Nvidia chips into China, which it denies.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pope Leo vs. Javier Milei: How political is the pope?",
-      "link": "https://www.dw.com/en/pope-leo-vs-javier-milei-how-political-is-the-pope/a-79907666?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Pope Leo XIV&apos;s tour of South America has drawn huge crowds — and a measure of political controversy. Perceived criticism of Argentina&apos;s leader, and earlier rebukes of Donald Trump, offer a glimpse into papacy politics.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Japan watches for signs of change in Trump&apos;s foreign policy priorities",
-      "link": "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Tokyo fears the drubbing US President Donald Trump suffered in last week&apos;s midterm election may push him to pursue a diplomatic quick win at the expense of Washington&apos;s allies in the Indo-Pacific.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Bulgaria highway pileup kills 12, dozens injured: PM",
-      "link": "https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "At least 12 people were killed and dozens injured in a series of crashes caused by thick fog in Bulgaria. Police, firefighters and paramedics were dispatched to the scene for the rescue operation.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India: Sonia Gandhi&apos;s memoir &apos;Belonging: A Journey of Love&apos; released",
-      "link": "https://www.dw.com/en/india-sonia-gandhi-s-memoir-belonging-a-journey-of-love-released/a-79908336?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The book goes through the Italian-born matriarch&apos;s journey with one of India&apos;s most politically influential families. It has already garnered political controversy, with the ruling BJP accusing her of \"whitewashing.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Borussia Dortmund&apos;s Felix Nmecha and the question of religion",
-      "link": "https://www.dw.com/en/borussia-dortmund-s-felix-nmecha-and-the-question-of-religion/a-79900432?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Felix Nmecha&apos;s \"Crowns down\" celebration has drawn criticism from a Borussia Dortmund fan club, reopening debate over faith, inclusion and religious messaging in football.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Spain: Police officer killed in Oviedo after neighborhood dispute escalates with explosion",
-      "link": "https://www.dw.com/en/spain-police-officer-killed-in-oviedo-after-neighborhood-dispute-escalates-with-explosion/a-79907509?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "After security services responded to a shooting, a bomb found in a backpack nearby detonated before it could be defused.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Fact check: Online disinformation rife after Krakow mass shooting",
-      "link": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Fake and AI-manipulated images spread online in the hours after the Krakow attack, fueling false narratives about the mass shooting. DW Fact Check examined what&apos;s real, and what isn&apos;t.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "DR Congo: 66 soldiers sentenced to death for &apos;cowardice&apos; in conflict with FRN rebels",
-      "link": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Dozens of defendants were put on trial over accusations that they abandoned their posts and refused to follow direct orders.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Ilse Aigner meets parties at Bundestag",
-      "link": "https://www.dw.com/en/germany-news-ilse-aigner-meets-parties-at-bundestag/live-79906440?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Ilse Aigner said she wouldn&apos;t meet with the far-right AfD. Meanwhile, Chancellor Merz is set to host Hungarian Prime Minister Magyar. DW has more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Why electrification is the climate game changer we need",
-      "link": "https://www.dw.com/en/why-electrification-is-the-climate-game-changer-we-need/a-79615979?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "From EVs and electric buses on the road, heat pumps warming homes and solar panels powering appliances, the shift to electrifying tech is already in full swing. But what exactly does \"electrification\" mean?",
       "tier": 2
     }
   ]
