@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T00:43:29.790Z",
+  "generatedAt": "2026-11-13T12:30:20.719Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,42 +32,50 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "title": "What we know about the global Microsoft outage",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 12:09:57 GMT",
+      "snippet": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: How Microsoft services went down around the world",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 07:18:17 GMT",
+      "snippet": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 23:34:05 GMT",
-      "snippet": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+      "publishedAt": "Fri, 13 Nov 2026 03:57:01 GMT",
+      "snippet": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 21:00:42 GMT",
-      "snippet": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 02:01:35 GMT",
+      "snippet": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 00:20:24 GMT",
-      "snippet": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 02:48:29 GMT",
+      "snippet": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 20:09:16 GMT",
-      "snippet": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 19:23:02 GMT",
-      "snippet": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 07:01:43 GMT",
+      "snippet": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
       "tier": 1
     },
     {
@@ -80,194 +88,194 @@
     },
     {
       "source": "BBC World",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 12:56:55 GMT",
-      "snippet": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 20:09:16 GMT",
+      "snippet": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 15:18:20 GMT",
-      "snippet": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 03:02:54 GMT",
+      "snippet": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 16:54:12 GMT",
-      "snippet": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 19:23:02 GMT",
+      "snippet": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Five new miniature frog species found in eastern Himalayas",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 11:07:19 GMT",
-      "snippet": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+      "title": "Will the Eurovision Song Contest succeed in Asia?",
+      "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 02:24:11 GMT",
+      "snippet": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 07:45:52 GMT",
-      "snippet": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
+      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 23:42:52 GMT",
+      "snippet": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 13:58:49 GMT",
-      "snippet": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 13:02:46 GMT",
+      "snippet": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 21:27:21 GMT",
-      "snippet": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
+      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 21:43:35 GMT",
+      "snippet": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 22:07:37 GMT",
-      "snippet": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
+      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 11 Nov 2026 09:28:36 GMT",
+      "snippet": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 02:40:18 GMT",
-      "snippet": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+      "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+      "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 08:20:28 GMT",
+      "snippet": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 08:46:57 GMT",
-      "snippet": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 00:20:24 GMT",
+      "snippet": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 04:03:13 GMT",
-      "snippet": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 17:11:48 GMT",
+      "snippet": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 14:56:11 GMT",
-      "snippet": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 19:33:37 GMT",
+      "snippet": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 18:38:45 GMT",
-      "snippet": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-      "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 18:10:57 GMT",
-      "snippet": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
+      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 14:12:55 GMT",
+      "snippet": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Cindy Holscher wins in Kansas, holding governor&apos;s office for Democrats",
-      "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
-      "publishedAt": "Thu, 12 Nov 2026 18:36:19 -0500",
-      "snippet": "Holscher, a state senator, overcame a more well-known Republican who had Trump&apos;s endorsement in the state that has gone to the GOP in most other statewide races.",
+      "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+      "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+      "publishedAt": "Fri, 13 Nov 2026 07:07:12 -0500",
+      "snippet": "Nvidia&apos;s chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Cindy Holscher wins in Kansas, holding governor&apos;s office for Democrats",
-      "link": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
-      "publishedAt": "Thu, 12 Nov 2026 17:52:49 -0500",
-      "snippet": "Holscher, a state senator, overcame a more well-known Republican who had Trump&apos;s endorsement in the state that has gone to the GOP in most other statewide races.",
+      "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+      "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+      "publishedAt": "Fri, 13 Nov 2026 07:06:28 -0500",
+      "snippet": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "What&apos;s a Honey Trap? The spy tactic that helped topple Jensen Huang",
-      "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
-      "publishedAt": "Thu, 12 Nov 2026 17:45:40 -0500",
-      "snippet": "Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S. says is a Chinese spy. This espionage tactic is known as a honey trap.",
+      "title": "Kratom and 7-OH can feel like &apos;a miracle.&apos; They can also be addictive",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
+      "publishedAt": "Fri, 13 Nov 2026 06:00:00 -0500",
+      "snippet": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That&apos;s started to change. A crackdown for some highly potent products related to kratom is coming.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "&apos;Punch in the gut&apos;: Homes sales fall to their lowest in 16 years",
-      "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
-      "publishedAt": "Thu, 12 Nov 2026 13:44:00 -0500",
-      "snippet": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
+      "title": "Hegseth awards medal to soldier who chastised him",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
+      "publishedAt": "Fri, 13 Nov 2026 05:27:08 -0500",
+      "snippet": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has given him a medal.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Casualties continue to rise after Brooklyn building collapses",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
-      "publishedAt": "Thu, 12 Nov 2026 13:15:00 -0500",
-      "snippet": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured.",
+      "title": "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
+      "publishedAt": "Fri, 13 Nov 2026 05:01:00 -0500",
+      "snippet": "Atmospheric rivers are large bands of water vapor in the sky. They are dumping trillions of gallons of water on Washington and Oregon, just as high tides and winds batter shorelines.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Democrats want to stop Trump&apos;s arch, golf course and more. What are their options?",
-      "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
-      "publishedAt": "Thu, 12 Nov 2026 12:13:54 -0500",
-      "snippet": "As Trump&apos;s arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
+      "publishedAt": "Fri, 13 Nov 2026 05:00:00 -0500",
+      "snippet": "The forthcoming move has left some parents and educators frustrated and wondering about the company&apos;s motivations.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
-      "link": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
-      "publishedAt": "Thu, 12 Nov 2026 11:20:04 -0500",
-      "snippet": "A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef.",
+      "title": "Fed up with the healthcare industry, this red state capped insulin prices for patients",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6032717/diabetes-insurance-insulin-price",
+      "publishedAt": "Fri, 13 Nov 2026 05:00:00 -0500",
+      "snippet": "Republicans and Democrats in North Dakota worked together to limit what people with diabetes have to pay for insulin, joining a growing bipartisan push across the country to protect patients.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
-      "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
-      "publishedAt": "Thu, 12 Nov 2026 11:12:53 -0500",
-      "snippet": "A gunman opened fire at a gym in Washington, D.C.&apos;s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.",
+      "title": "Why even a fraction of a degree can escalate climate change impacts",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6035801/climate-goal-degrees-cop31-summit",
+      "publishedAt": "Fri, 13 Nov 2026 05:00:00 -0500",
+      "snippet": "Countries are not meeting their goal of limiting climate change to 1.5 degrees Celsius. How much hotter the planet gets makes a profound difference for the impacts the world could see.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
-      "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
-      "publishedAt": "Thu, 12 Nov 2026 10:26:34 -0500",
-      "snippet": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.",
+      "title": "The cost of college is confusing. Some schools are trying to change that",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6023392/real-college-costs-confusing",
+      "publishedAt": "Fri, 13 Nov 2026 05:00:00 -0500",
+      "snippet": "Many Americans have soured on higher education because of how frustratingly hard it is to figure out what they will pay to attend.",
       "tier": 1
     },
     {
       "source": "NPR News",
-      "title": "Indonesia&apos;s VP resigns as his eligibility and academic credentials are questioned",
-      "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
-      "publishedAt": "Thu, 12 Nov 2026 09:22:50 -0500",
-      "snippet": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn&apos;t meet election requirements.",
+      "title": "Fill in the blank in the quiz: NASA will pay astronauts $___ to live on the moon",
+      "link": "https://www.npr.org/2026/11/13/g-s1-153174/tesla-nvidia-huang-arch-nasa-gas-trump-news-quiz",
+      "publishedAt": "Fri, 13 Nov 2026 05:00:00 -0500",
+      "snippet": "Plus: Have you been following news about cars and Pete Hegseth this week?",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "Senators probe RFK Jr.'s reason for Samoa trip after letter refuting his testimony published",
+      "link": "https://www.pbs.org/newshour/politics/senators-probe-rfk-jr-s-reason-for-samoa-trip-after-letter-refuting-his-testimony-published",
+      "publishedAt": "Thu, 12 Nov 2026 19:50:18 -0500",
+      "snippet": "Two Democratic senators are launching an investigation into whether Health Secretary Robert F. Kennedy Jr. lied to Congress about his reason for a 2019 trip to Samoa after The Associated Press and The Guardian published documents in August refuting his testimony.",
       "tier": 1
     },
     {
@@ -280,7 +288,7 @@
     },
     {
       "source": "PBS Headlines",
-      "title": "What Huang's resignation mean for chipmakers, AI and U.S. national security",
+      "title": "What Huang's resignation means for chipmakers, AI and U.S. national security",
       "link": "https://www.pbs.org/newshour/show/what-huangs-resignation-mean-for-chipmakers-ai-and-u-s-national-security",
       "publishedAt": "Thu, 12 Nov 2026 18:55:39 -0500",
       "snippet": "Nvidia CEO Jensen Huang announced his resignation after it was reported that he had an affair with a businesswoman accused of being a Chinese spy and an extramarital relationship with an Nvidia executive. Huang's departure has sparked questions about the future of Nvidia, the AI ",
@@ -323,7 +331,7 @@
       "title": "Abdul El-Sayed on Democratic leadership, health care access and inspiring a new generation",
       "link": "https://www.pbs.org/newshour/show/abdul-el-sayed-on-democratic-leadership-health-care-access-and-inspiring-a-new-generation",
       "publishedAt": "Thu, 12 Nov 2026 18:35:14 -0500",
-      "snippet": "The new wave of Democratic senators are in Washington for orientation and are already facing tough questions about how they plan to govern. One is Abdul El-Sayed of Michigan, the first Muslim elected to the Senate. His win came after a hard-fought race marked by outside spending ",
+      "snippet": "The new Democratic senators are in Washington for orientation and are already facing tough questions about how they plan to govern. One is Abdul El-Sayed of Michigan, the first Muslim elected to the Senate. His win came after a hard-fought race marked by outside spending and atta",
       "tier": 1
     },
     {
@@ -423,14 +431,6 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "House approves bill to boost compensation for many veterans, with some floor drama",
-      "link": "https://www.pbs.org/newshour/politics/house-approves-bill-to-boost-compensation-for-many-veterans-with-some-floor-drama",
-      "publishedAt": "Thu, 12 Nov 2026 13:28:00 -0500",
-      "snippet": "The centerpiece of the package is an effort to boost compensation for an estimated 58,000 veterans who are medically retired because of combat-related injuries. That objective has broad, bipartisan support in Congress, but lawmakers and veterans groups aren't on the same page abo",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
@@ -440,18 +440,130 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
-      "link": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-top-1022-rdf",
+      "title": "Germany&apos;s Nmecha won&apos;t repeat controversial goal celebration",
+      "link": "https://www.dw.com/en/germany-s-nmecha-won-t-repeat-controversial-goal-celebration/a-79937994?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "A seat at the table for Europe now appears likely following comments by a US envoy who just held talks with Putin. But who will take that seat remains unclear.",
+      "snippet": "Germany head coach Jürgen Klopp says that midfielder Felix Nmecha will not repeat a goal celebration that sparked controversy over the past week. Germany are set to face Serbia and the Netherlands in the Nations League.",
       "tier": 2
     },
     {
       "source": "DW Top Stories",
-      "title": "Microsoft reports mass outages in US, impacting customer accessibility",
-      "link": "https://www.dw.com/en/microsoft-reports-mass-outages-in-us-impacting-customer-accessibility/a-79935611?maca=en-rss-en-top-1022-rdf",
+      "title": "EU leaders gather for first ever AI summit",
+      "link": "https://www.dw.com/en/eu-leaders-gather-for-first-ever-ai-summit/a-79937463?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Software giant Microsoft has reported widespread outages of its Outlook and Teams services in the US. Nearly 130,000 users have reported disruptions.",
+      "snippet": "The summit comes as worries about the artificial intelligence&apos;s global impact mount and Europe seeks a role in its development and regulation.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine updates: Second car bomb to hit Russia in two days",
+      "link": "https://www.dw.com/en/ukraine-updates-second-car-bomb-to-hit-russia-in-two-days/live-79937459?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A second car bomb in two days exploded in Moscow, targeting an exiled Ukrainian political aide, according to Russian media. Meanwhile, Ukraine and Russia exchanged deadly strikes overnight. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Humanitarian situation in Gaza worsens amid political deadlock",
+      "link": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In war-battered Gaza, heavy rain flooded and damaged thousands of tents. Several people died. Could pressure by Trump&apos;s Board of Peace on Israel and Hamas help to ease the humanitarian crisis amid stalled peace talks?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Parliament agrees on debt-laden 2027 budget",
+      "link": "https://www.dw.com/en/germany-news-parliament-agrees-on-debt-laden-2027-budget/live-79936897?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The budget committee in the Bundestag worked into the night to sign off on next year&apos;s spending plans. These include levels of new debt only eclipsed once, at the height of the COVID pandemic. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Czechia braces for massive protest against cuts to public media",
+      "link": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-cuts-to-public-media/a-79933533?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A fast-tracked bill to cut public media funding has sparked strikes, rallies and fears for the independence of public broadcasting in Czechia. A massive protest is planned for Prague on Sunday.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "After suffering its worst election result, what&apos;s next for the ANC — and for South Africa?",
+      "link": "https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A crushing local election result across the country has left South Africa&apos;s ruling ANC searching for answers. Experts say the vote reflects public frustration with service delivery failures — signaling a political shift.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Could lack of money sink TFFF rainforest fund before it even launches?",
+      "link": "https://www.dw.com/en/could-lack-of-money-sink-tfff-rainforest-fund-before-it-even-launches/a-79878673?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The TFFF rainforest fund aims to make forest conservation more profitable than deforestation. But a lack of money may prevent it from getting off the ground.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US Senate asks Huang, Lutnick to testify on Nvidia",
+      "link": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Senate Banking Committee Chairman Tim Scott has asked Commerce Secretary Howard Lutnick and former Nvidia chief Jensen Huang to testify, as House Republicans demand closed-door interviews amid national security concerns.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Iranian activist and Nobel Peace Prize winner Narges Mohammadi shares her story in memoir",
+      "link": "https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Written and smuggled out of prison, the 2023 Nobel Prize laureate&apos;s memoir reveals the cost of defying Iran&apos;s regime and fighting for freedom.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Microsoft rules out &apos;malicious activity&apos; as cause for global outage",
+      "link": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A Microsoft outage disrupted Outlook and Teams worldwide, with reports from scores of countries and territories. The software giant said that it was \"not aware\" of malicious activity that could have caused the outage.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Sonam Wangchuk says he is under house arrest in Ladakh",
+      "link": "https://www.dw.com/en/india-news-sonam-wangchuk-says-he-is-under-house-arrest-in-ladakh/live-79936475?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Wangchuk is among activists in Ladakh who have raised concerns about upcoming regional elections, which they say are designed to diminish voter participation as they will be held in the harsh winter period. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US disrupts North Korea&apos;s $400 million crypto scam, FBI says",
+      "link": "https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US has seized servers linked to a North Korean scam that used fake video meetings and deepfakes to steal more than $400 million in crypto, and has moved to seize $1.2 billion that was taken from Binance.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Darth Vader strikes back at auction as his lightsaber from two original Star Wars films reclaims the record from Luke Skywalker&apos;s prop",
+      "link": "https://www.dw.com/en/darth-vader-strikes-back-at-auction-as-his-lightsaber-from-two-original-star-wars-films-reclaims-the-record-from-luke-skywalker-s-prop/a-79935960?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Darth Vader&apos;s lightsaber sold for nearly $5 million, breaking the record set by Luke Skywalker&apos;s in July. The hilt, made from a 1950s camera flash attachment, was used in two of the original trilogy&apos;s duels.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "FIFA loses bid to block UEFA evidence gathering against Infantino",
+      "link": "https://www.dw.com/en/fifa-loses-bid-to-block-uefa-evidence-gathering-against-infantino/a-79935807?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A New York judge has dismissed soccer governing body FIFA&apos;s attempts to shield its president from investigation. Europe&apos;s UEFA is seeking evidence of wrongdoing by Gianni Infantino.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+      "link": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A seat at the table for Europe now appears likely following comments by a US envoy who just held talks with Putin. But who will take that seat remains unclear.",
       "tier": 2
     },
     {
@@ -459,7 +571,7 @@
       "title": "Pete Hegseth honors soldier who scolded him at Arlington cemetery",
       "link": "https://www.dw.com/en/pete-hegseth-honors-soldier-who-scolded-him-at-arlington-cemetery/a-79935075?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "The soldier had reprimanded the US Defense Secretary and his group after they were heard talking and laughing at the Tomb of the Unknown Soldier. The site is one of the most solemn military memorials in the US.",
+      "snippet": "The soldier had reprimanded the US defense secretary and his group after they were heard talking and laughing at the Tomb of the Unknown Soldier. The site is one of the most solemn military memorials in the US.",
       "tier": 2
     },
     {
@@ -472,122 +584,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Czechia braces for massive protest as anger over government&apos;s public media reform plans boils",
-      "link": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A fast-tracked bill on public media funding reform has sparked strikes, rallies and fears for the independence of public broadcasting in Czechia. A massive protest is due to take place in Prague on November 15.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
       "title": "Can the EU make it harder to trick consumers online?",
       "link": "https://www.dw.com/en/can-the-eu-make-it-harder-to-trick-consumers-online/a-79933447?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The EU wants to curb subscription traps, misleading sales tactics and features that keep people scrolling. What would the proposed Digital Fairness Act change, and does it go far enough?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Mercedes-Benz halts all further investment at German facilities",
-      "link": "https://www.dw.com/en/mercedes-benz-halts-all-further-investment-at-german-facilities/a-79934509?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The announcement comes as the luxury German automaker faces increasing pressure from the works council and trade unions.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
-      "link": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The first trilateral talks between Ukraine, the US and Russia in nine months have ended with an agreement on exchanging prisoners. Does this mark a genuine breakthrough and a step toward peace?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Hungary eases abortion restrictions in women&apos;s rights overhaul",
-      "link": "https://www.dw.com/en/hungary-eases-abortion-restrictions-in-women-s-rights-overhaul/a-79931614?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The reforms mark a break the the conservative policies of former PM Viktor Orban. The controversial \"heartbeat regulation\" is to be scrapped and women are to be better protected against violence.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Sri Lanka: Rights groups sound alarm over proposed anti-terror law",
-      "link": "https://www.dw.com/en/sri-lanka-rights-groups-sound-alarm-over-proposed-anti-terror-law/a-79932227?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Sri Lankan government is looking to replace a controversial anti-terror law, but critics say the new one is just as bad.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "UK court convicts 2 Iranian men of spying on journalists",
-      "link": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A London court has found two Iranian citizens guilty of surveilling reporters for a Persian-language television station critical of Iran&apos;s government. One was also convicted of planning a violent attack against them.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Impeachment: How it works and why Trump should be worried",
-      "link": "https://www.dw.com/en/impeachment-how-it-works-and-why-trump-should-be-worried/a-79931040?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Pete Hegseth, Bill Clinton and Donald Trump (twice so far): attempts to impeach political figures are becoming common. The failure rate looks high, but according to experts, conviction is not always the aim.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Jensen Huang: Spy row, second affair leaves Nvidia without its rockstar CEO",
-      "link": "https://www.dw.com/en/jensen-huang-spy-row-second-affair-leaves-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Jensen Huang, who built Nvidia into the world’s dominant AI chipmaker, is stepping down as CEO after a second affair came to light. DW examines how losing its figurehead will affect the firm and the US-China AI race.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran: Exiled journalists still repressed by regime",
-      "link": "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "For many independent reporters, leaving Iran does not mean fully escaping the grasp of the Iranian state. The regime uses family members, bank accounts and the property they left behind to apply pressure across borders.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "China&apos;s Xi Jinping renews calls for &apos;reunification&apos; with Taiwan",
-      "link": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Xi Jinping said that reunification was inevitable, but stopped short of mentioning military force. Taiwan though swiftly rejected Beijing&apos;s demands as tensions continue over the island&apos;s future.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "What are fossil fuels?",
-      "link": "https://www.dw.com/en/what-are-fossil-fuels/a-67970540?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "They are in our shampoo bottles, power our cars and heat our homes. But what actually are fossil fuels, and why do they matter?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
-      "link": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Israel says Hamas was using the hospital as a military command center, while Palestinian officials report at least six people killed, including a surgeon. The strike comes amid an increasingly fragile ceasefire.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Police raid chapters of Gremium MC biker gang",
-      "link": "https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Police in southwestern Germany launched major early-morning operations against a biker gang. The state of Baden-Württemberg is outlawing three of its chapters. Meanwhile, unions are planning more strikes.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Australian teen found alive after six days in the bush",
-      "link": "https://www.dw.com/en/australian-teen-found-alive-after-six-days-in-the-bush/a-79926046?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The teenager was spotted during an aerial search, after spending days navigating rugged terrain. He had fallen down the side of a riverbed two days before being found.",
       "tier": 2
     }
   ]
