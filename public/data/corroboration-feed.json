@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T00:49:00.044Z",
+  "generatedAt": "2026-11-16T12:39:21.004Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,6 +32,94 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Yemeni forces retreat to defend port city from Houthis",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 11:09:38 GMT",
+      "snippet": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 12:20:49 GMT",
+      "snippet": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 12:36:17 GMT",
+      "snippet": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 08:56:04 GMT",
+      "snippet": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 10:57:48 GMT",
+      "snippet": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 03:09:49 GMT",
+      "snippet": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 03:21:56 GMT",
+      "snippet": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 03:21:56 GMT",
+      "snippet": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 01:05:44 GMT",
+      "snippet": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
+      "link": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 07:24:45 GMT",
+      "snippet": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Klopp says Infantino worse than Blatter",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 11:27:08 GMT",
+      "snippet": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 15 Nov 2026 19:32:39 GMT",
@@ -40,90 +128,26 @@
     },
     {
       "source": "BBC World",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 22:24:20 GMT",
-      "snippet": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "title": "Teenager Andreeva caps stunning week with WTA Finals title",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 15 Nov 2026 23:18:38 GMT",
+      "snippet": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 23:52:10 GMT",
-      "snippet": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
+      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 09:21:31 GMT",
+      "snippet": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 13:37:45 GMT",
-      "snippet": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 18:38:11 GMT",
-      "snippet": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-      "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 22:57:27 GMT",
-      "snippet": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Czechs rally against plan to switch funding of public media",
-      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 21:03:40 GMT",
-      "snippet": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Police ban protests near 10 schools and five universities in Paris",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 22:28:54 GMT",
-      "snippet": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 11:06:32 GMT",
-      "snippet": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 16:15:20 GMT",
-      "snippet": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 00:03:29 GMT",
-      "snippet": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 13:42:58 GMT",
-      "snippet": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "title": "Watch: New York teen reunites with cat missing after building collapse",
+      "link": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 04:36:45 GMT",
+      "snippet": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
       "tier": 1
     },
     {
@@ -160,34 +184,74 @@
     },
     {
       "source": "BBC World",
-      "title": "Judo champion shakes up French presidential race with surprise candidacy",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 00:06:51 GMT",
-      "snippet": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+      "title": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
+      "link": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 00:11:12 GMT",
+      "snippet": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 00:06:55 GMT",
-      "snippet": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+      "source": "NPR News",
+      "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+      "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+      "publishedAt": "Mon, 16 Nov 2026 07:08:14 -0500",
+      "snippet": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "How telecoms upgrade work sparked US flight chaos",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 14:57:15 GMT",
-      "snippet": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "source": "NPR News",
+      "title": "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
+      "publishedAt": "Mon, 16 Nov 2026 05:00:00 -0500",
+      "snippet": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn&apos;t sit back while their neighbors went hungry.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 14 Nov 2026 00:03:56 GMT",
-      "snippet": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "source": "NPR News",
+      "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+      "publishedAt": "Mon, 16 Nov 2026 05:00:00 -0500",
+      "snippet": "The trip to China marks Trump&apos;s second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
+      "publishedAt": "Mon, 16 Nov 2026 05:00:00 -0500",
+      "snippet": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "NPR&apos;s Student Podcast Challenge is back for 2027",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline",
+      "publishedAt": "Mon, 16 Nov 2026 05:00:00 -0500",
+      "snippet": "The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Why sleep matters when it comes to weight gain and loss",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
+      "publishedAt": "Mon, 16 Nov 2026 05:00:00 -0500",
+      "snippet": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6038373/morning-news-brief",
+      "publishedAt": "Mon, 16 Nov 2026 04:46:19 -0500",
+      "snippet": "Thousands of travelers are still waiting to reschedule flights after Friday&apos;s nationwide ground stop, Sen. Chris Van Hollen mounts bid to become Senate majority leader, President Trump heads to Asia.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Flight disruptions expected to last into Monday",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
+      "publishedAt": "Sun, 15 Nov 2026 20:19:28 -0500",
+      "snippet": "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more.",
       "tier": 1
     },
     {
@@ -204,70 +268,6 @@
       "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
       "publishedAt": "Sun, 15 Nov 2026 17:07:55 -0500",
       "snippet": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
-      "publishedAt": "Sun, 15 Nov 2026 12:45:27 -0500",
-      "snippet": "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week. The incident was dubbed \"the miracle on the Mississippi\" after no one was killed.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Laws limiting coal miners&apos; exposure to toxic dust are in danger of being rolled back",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
-      "publishedAt": "Sun, 15 Nov 2026 08:11:30 -0500",
-      "snippet": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
-      "publishedAt": "Sun, 15 Nov 2026 05:00:00 -0500",
-      "snippet": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "New Mexico wanted free childcare for all. This is what&apos;s worked — and what hasn&apos;t",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-      "publishedAt": "Sun, 15 Nov 2026 05:00:00 -0500",
-      "snippet": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "A new generation of disability rights activists carry on Judy Heumann&apos;s legacy",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
-      "publishedAt": "Sun, 15 Nov 2026 05:00:00 -0500",
-      "snippet": "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-      "publishedAt": "Sat, 14 Nov 2026 23:28:45 -0500",
-      "snippet": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "FAA ground stop disrupts college football",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
-      "publishedAt": "Sat, 14 Nov 2026 20:13:59 -0500",
-      "snippet": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Florida city cancels St. Patrick&apos;s Day parade, citing new anti-DEI law",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
-      "publishedAt": "Sat, 14 Nov 2026 19:03:52 -0500",
-      "snippet": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick&apos;s Day parade after a nearly 60-year run.",
       "tier": 1
     },
     {
@@ -440,6 +440,102 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "Klopp wants Infantino out as FIFA candidate deadline looms",
+      "link": "https://www.dw.com/en/klopp-wants-infantino-out-as-fifa-candidate-deadline-looms/a-79958229?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany coach Jürgen Klopp has joined the chorus of football figures critical of FIFA President Gianni Infantino. But with time running out, there are few who seem willing to run against him.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "South Africa: 17 killed in separate mass shooting incidents",
+      "link": "https://www.dw.com/en/south-africa-17-killed-in-separate-mass-shooting-incidents/a-79956966?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Police are investigating two mass shooting incidents in Gauteng and KwaZulu-Natal provinces. There has been a growing trend of mass shooting incidents making headlines in recent years.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Polish police arrest 3 teens over suspected neo-Nazi terror plot",
+      "link": "https://www.dw.com/en/polish-police-arrest-3-teens-over-suspected-neo-nazi-terror-plot/a-79957798?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Investigators found information sharing on how to make explosives at home as well as chemicals needed for that purpose.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Jordan bans Telegram app over &apos;radicalisation&apos; claims",
+      "link": "https://www.dw.com/en/jordan-bans-telegram-app-over-radicalisation-claims/a-79956706?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Jordan has imposed a ban on Telegram over a deadly church attack which left seven people dead. The kingdom claims that content on the messaging app poses a threat to \"national interests.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Merz heads to Munich for talks with CSU",
+      "link": "https://www.dw.com/en/germany-news-merz-heads-to-munich-for-talks-with-csu/live-79954869?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Chancellor Friedrich Merz starts the week with his Bavarian allies. Manuela Schwesig faces a vote on a new term as regional leader. And an autobahn \"bridge to nowhere\" will finally link up to the road network. Follow DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Can a &apos;coalition of the willing&apos; create momentum for a fossil fuel phaseout?",
+      "link": "https://www.dw.com/en/can-a-coalition-of-the-willing-create-momentum-for-a-fossil-fuel-phaseout/a-79926748?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In April, about 60 countries held an unprecedented meeting in Colombia to work out a plan to slowly quit oil, coal and gas. How influential is this coalition at the COP31 climate summit?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "AI in German classrooms: Fighting the great &apos;dumbing down&apos;",
+      "link": "https://www.dw.com/en/ai-in-german-classrooms-fighting-the-great-dumbing-down/a-79949229?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The research points in one direction: If students aren&apos;t careful about how they use AI-enabled tools, then academic performance can plummet. It&apos;s a huge challenge for teachers.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Mozambique&apos;s justice under scrutiny as Venancio Mondlane faces trial",
+      "link": "https://www.dw.com/en/mozambique-s-justice-under-scrutiny-as-venancio-mondlane-faces-trial/a-79949795?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The trial of opposition politician Venancio Mondlane begins in Mozambique on Tuesday. The former presidential candidate is facing five charges, including incitement to terrorism.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Modi heads to ASEAN meet in Manila",
+      "link": "https://www.dw.com/en/india-news-modi-heads-to-asean-meet-in-manila/live-79954596?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Modi is also likely to attend the Quad leaders&apos; summit involving the US, Japan and Australia on the sidelines of the ASEAN meeting. Meanwhile, the Sabarimala temple has opened for an annual pilgrimage. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Mexican drug lord Felix Gallardo dies at 80",
+      "link": "https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Felix Gallardo was considered to be the architect of Mexico&apos;s modern drug-trafficking trade. He died of multiple organ failure at the age of 80.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
+      "link": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "A Vulcan rocket suffered an anomaly about 10 minutes after liftoff from Florida, failing to deliver 40 Amazon Leo satellites to orbit. It was the first total mission failure in the company&apos;s history.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Yemen: Anti-Houthi forces pull back as rebels advance",
+      "link": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Forces aligned with the Yemeni government and Saudi Arabia are seeking to strengthen control over the interim capital Aden as the Iran-backed Houthis approach.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Goodbye, overtourism? Sustainable travel gains ground",
       "link": "https://www.dw.com/en/goodbye-overtourism-sustainable-travel-gains-ground/a-79934295?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -456,8 +552,8 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Czechia: Scores protest against public media reform",
-      "link": "https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-top-1022-rdf",
+      "title": "Czechia: Thousands protest against public media reform",
+      "link": "https://www.dw.com/en/czechia-thousands-protest-against-public-media-reform/a-79953057?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "Hundreds of thousands of people gathered to protest against the government&apos;s plan to abolish broadcasting fees. Critics say the nationalist coalition would like to secure control over the media.",
       "tier": 2
@@ -467,7 +563,7 @@
       "title": "Estonia closes border to Russia after suspected drone factory arson",
       "link": "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Estonia has accused Russia of conducting hybrid warfare after a drone factory was set alight in Viimsi. Now it will close its border crossings at the start of December.",
+      "snippet": "Tallinn has accused Russia of conducting hybrid warfare after a drone factory was set alight in Viimsi. Now it will close its border crossings at the start of December.",
       "tier": 2
     },
     {
@@ -480,10 +576,10 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "Cape Verde goes to the polls in presidential vote",
-      "link": "https://www.dw.com/en/cape-verde-goes-to-the-polls-in-presidential-vote/a-79952606?maca=en-rss-en-top-1022-rdf",
+      "title": "Cape Verde election: Jose Maria Neves set to win second term",
+      "link": "https://www.dw.com/en/cape-verde-election-jose-maria-neves-set-to-win-second-term/a-79952606?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "Known for its political stability and good governance, the island nation will vote for its next president. About 420,000 people are eligible to vote",
+      "snippet": "Nearly two-thirds of the voters in the West African nation voted to keep President Jose Maria Neves in office, according to provisional results.",
       "tier": 2
     },
     {
@@ -492,102 +588,6 @@
       "link": "https://www.dw.com/en/german-economy-returns-to-growth-so-why-is-the-country-still-worried/a-79932220?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The German economy is growing again, albeit slightly. However, economists warn that without reforms, higher productivity and solid public finances, a loss of prosperity and growing debt threaten future generations.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Pope Leo heads to the Amazon on the final leg of his South American tour",
-      "link": "https://www.dw.com/en/pope-leo-heads-to-the-amazon-on-the-final-leg-of-his-south-american-tour/a-79952884?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The religious leader warned that deforestation, illegal mining and pollution threaten the Amazon and its inhabitants. In Peru, the pope also demanded justice for Indigenous leaders killed defending their ancestral lands.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Despite restrictive abortion laws, Poland&apos;s &apos;Abortomat&apos; — a locker that dispenses abortion pills — helps women who want to end a pregnancy",
-      "link": "https://www.dw.com/en/despite-restrictive-abortion-laws-poland-s-abortomat-a-locker-that-dispenses-abortion-pills-helps-women-who-want-to-end-a-pregnancy/a-79943914?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Abortion laws in Poland are very restrictive. Activists there have found a new way to help women wanting to terminate a pregnancy: the \"Abortomat,\" a locker that dispenses abortion pills. But they face fierce opposition.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "ASEAN offers Myanmar&apos;s sidelined leaders a path back to summits, but says restrictions will stay until there is meaningful progress on its peace plan",
-      "link": "https://www.dw.com/en/asean-offers-myanmar-s-sidelined-leaders-a-path-back-to-summits-but-says-restrictions-will-stay-until-there-is-meaningful-progress-on-its-peace-plan/a-79951878?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Southeast Asian leaders have agreed to engage Myanmar in stages after years of excluding its leaders from high-level meetings. The bloc says Myanmar could regain full representation if it makes progress on a peace plan.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Macron urges unity as Francophonie summit opens in Cambodia",
-      "link": "https://www.dw.com/en/macron-urges-unity-as-francophonie-summit-opens-in-cambodia/a-79951201?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Leaders of French-speaking nations gathered in Phnom Penh as a row over who should lead the Francophonie and Congo’s threat to quit put pressure on Macron to broker consensus.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Germany holds national day of remembrance",
-      "link": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Events were held for \"Volkstrauertag,\" a day commemorating victims of war and oppression. Meanwhile, experts said the country is headed for a budget crisis.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How AI is likely to change Germany&apos;s job market",
-      "link": "https://www.dw.com/en/how-ai-is-likely-to-change-germany-s-job-market/a-79941597?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The scale of the economic disruption caused by AI has led even conservative politicians to talk about universal basic income. But economists aren&apos;t convinced, and campaigners think we need to ask deeper questions.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Tens of thousands continue to protest across France",
-      "link": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Some 106,000 people marched through French cities for a fifth consecutive weekend of protests, marking the lowest turnout in recent weeks.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "link": "https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Eleven countries took part in the competition in Bangkok. Teenage winner Carmelle Collado&apos;s winning dance song is a tribute to Filipino women.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "SpaceX completes first-ever spaceship capture",
-      "link": "https://www.dw.com/en/spacex-completes-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The successful recovery of SpaceX&apos;s Starship marks a breakthrough in founder Elon Musk&apos;s goal of developing a fully reusable rocket system.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany&apos;s 2027 budget: A record €561 billion and a mountain of debt",
-      "link": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The 2027 federal budget proposal has finally been hammered out and is set for a vote in parliament. What are the government&apos;s policy priorities in defense, infrastructure, the economy and social spending?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Nigeria&apos;s upcoming election marred by rising AI disinformation",
-      "link": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Sudan pushes back elections amid violent flare-ups",
-      "link": "https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "South Sudan has been independent from Sudan since 2011, and has not yet held national elections. Since then, the country faces cycles of violence after a civil war led to a tenuous peace deal.",
       "tier": 2
     }
   ]
