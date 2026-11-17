@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T00:43:49.293Z",
+  "generatedAt": "2026-11-17T12:30:48.034Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,98 +32,106 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 23:20:45 GMT",
-      "snippet": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 10:45:55 GMT",
+      "snippet": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 21:40:07 GMT",
-      "snippet": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 05:59:01 GMT",
+      "snippet": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 11:17:32 GMT",
+      "snippet": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+      "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 09:27:44 GMT",
+      "snippet": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 01:26:01 GMT",
+      "snippet": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 11:58:16 GMT",
+      "snippet": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
+      "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 07:01:00 GMT",
+      "snippet": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan sends up jets after alleged Russian incursion of its airspace",
+      "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 07:44:17 GMT",
+      "snippet": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+      "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 09:20:29 GMT",
+      "snippet": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
       "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 22:21:27 GMT",
+      "publishedAt": "Tue, 17 Nov 2026 02:37:53 GMT",
       "snippet": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 14:58:12 GMT",
-      "snippet": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+      "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 08:11:20 GMT",
+      "snippet": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "When will we see Robert Pattinson as Bond in cinemas?",
-      "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 17:18:54 GMT",
-      "snippet": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+      "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 06:23:51 GMT",
+      "snippet": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-      "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 20:33:57 GMT",
-      "snippet": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-      "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 19:30:30 GMT",
-      "snippet": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Two mass shootings in South Africa leave 17 dead",
-      "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 10:57:48 GMT",
-      "snippet": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-      "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 13:40:56 GMT",
-      "snippet": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
-      "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 14:48:55 GMT",
-      "snippet": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
-      "link": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 12:42:14 GMT",
-      "snippet": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-      "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 14:22:36 GMT",
-      "snippet": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
+      "title": "Will President Trump meet Kim Jong Un?",
+      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 10:13:27 GMT",
+      "snippet": "President Trump says he would be keen to meet the North Korea leader in China.",
       "tier": 1
     },
     {
@@ -144,50 +152,114 @@
     },
     {
       "source": "BBC World",
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 15 Nov 2026 18:38:11 GMT",
-      "snippet": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+      "link": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 16 Nov 2026 21:12:13 GMT",
+      "snippet": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 14 Nov 2026 22:09:40 GMT",
-      "snippet": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 10:22:09 GMT",
+      "snippet": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Russia's mega-rich are already imagining a future after Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 00:13:14 GMT",
-      "snippet": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power.",
+      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 11:49:01 GMT",
+      "snippet": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Robert Pattinson: How the Twilight star became 007",
-      "link": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 15:02:41 GMT",
-      "snippet": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
+      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 02:38:08 GMT",
+      "snippet": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Is India rethinking its short-term military recruitment scheme?",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 00:41:42 GMT",
-      "snippet": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
+      "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 17 Nov 2026 00:08:19 GMT",
+      "snippet": "The new show brings English, maths and science lessons to children via TV, radio and social media.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 16 Nov 2026 15:40:16 GMT",
-      "snippet": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "source": "NPR News",
+      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+      "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+      "publishedAt": "Tue, 17 Nov 2026 07:20:57 -0500",
+      "snippet": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang&apos;s return to Nvidia.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Can Google win the AI race without killing its cash cow?",
+      "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
+      "publishedAt": "Tue, 17 Nov 2026 06:30:00 -0500",
+      "snippet": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator&apos;s dilemma\"?",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "I&apos;m a human doctor with human intelligence. But I sure do like my AI notetaker",
+      "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+      "publishedAt": "Tue, 17 Nov 2026 06:00:00 -0500",
+      "snippet": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It&apos;s very popular, and here&apos;s how to think through the pros and the cons of the new technology.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Trump arrives in Philippines to kick off Asia trip",
+      "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+      "publishedAt": "Tue, 17 Nov 2026 05:43:55 -0500",
+      "snippet": "Manila is President Trump&apos;s first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "She went to college to become a social worker. Now she&apos;s joined the skilled trades",
+      "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
+      "publishedAt": "Tue, 17 Nov 2026 05:00:00 -0500",
+      "snippet": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "More people are getting the flu. Should you get a flu shot before you travel?",
+      "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
+      "publishedAt": "Tue, 17 Nov 2026 05:00:00 -0500",
+      "snippet": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that&apos;s upon us? Cold and flu season.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Do school cellphone bans work? New study says yes – but it&apos;s complicated",
+      "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
+      "publishedAt": "Tue, 17 Nov 2026 05:00:00 -0500",
+      "snippet": "A new study of school cellphone bans finds they may help students make up for some of the learning they&apos;ve lost since 2013 – a divergence from earlier study results.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+      "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+      "publishedAt": "Tue, 17 Nov 2026 04:50:45 -0500",
+      "snippet": "A Ukrainian drone and missile attack prepared over several weeks struck a vital Russian rail and road bridge to the occupied Crimean Peninsula, Ukrainian President Volodymyr Zelenskyy said Tuesday.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/11/17/nx-s1-6042259/morning-news-brief",
+      "publishedAt": "Tue, 17 Nov 2026 04:46:54 -0500",
+      "snippet": "The FAA says it will rethink how it upgrades its aging system after nationwide ground stop, Trump to hold joint summit with leaders of China and Russia, Silicon Valley reacts to Nvidia scandal.",
       "tier": 1
     },
     {
@@ -199,75 +271,11 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-      "publishedAt": "Mon, 16 Nov 2026 13:49:26 -0500",
-      "snippet": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "U.N. talks seek to rein in &apos;killer robots&apos; as fears over AI weapons grow",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-      "publishedAt": "Mon, 16 Nov 2026 13:04:50 -0500",
-      "snippet": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Nearly two million people are behind bars in the US. How did we get here?",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
-      "publishedAt": "Mon, 16 Nov 2026 12:34:07 -0500",
-      "snippet": "Lynn Novick&apos;s new, four-part PBS documentary series, Crime and Punishment in America , goes inside the U.S. prison system and explores how our approach to criminals has changed over time.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Lindsay Clancy to face a new trial in spring of 2027 over children&apos;s killing",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
-      "publishedAt": "Mon, 16 Nov 2026 11:28:19 -0500",
-      "snippet": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
-      "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
-      "publishedAt": "Mon, 16 Nov 2026 07:08:14 -0500",
-      "snippet": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Chris Van Hollen says he can beat Chuck Schumer. Here&apos;s his case",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
-      "publishedAt": "Mon, 16 Nov 2026 06:39:14 -0500",
-      "snippet": "Sen. Chris Van Hollen told NPR&apos;s Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Regulating AI will being a top priority for congressional Democrats in the new year",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6037801/regulating-ai-will-being-a-top-priority-for-congressional-democrats-in-the-new-year",
-      "publishedAt": "Mon, 16 Nov 2026 06:38:50 -0500",
-      "snippet": "A big priority for the incoming Congress will be regulating artificial intelligence. Democrats will face stiff opposition from the Trump administration and its hands-off policy towards AI.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
-      "publishedAt": "Mon, 16 Nov 2026 05:00:00 -0500",
-      "snippet": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "NPR&apos;s Student Podcast Challenge is back for 2027",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline",
-      "publishedAt": "Mon, 16 Nov 2026 05:00:00 -0500",
-      "snippet": "The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.",
+      "source": "PBS Headlines",
+      "title": "Trump appeals to state and federal courts to erase hush money criminal conviction",
+      "link": "https://www.pbs.org/newshour/politics/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-criminal-conviction",
+      "publishedAt": "Mon, 16 Nov 2026 19:48:19 -0500",
+      "snippet": "A federal appeals court is weighing whether it can — or should — intervene in President Donald Trump's hush money case now that a New York State appellate court has heard arguments in his quest to erase the historic conviction.",
       "tier": 1
     },
     {
@@ -336,6 +344,14 @@
     },
     {
       "source": "PBS Headlines",
+      "title": "Why many white South Africans who left are migrating back home",
+      "link": "https://www.pbs.org/newshour/show/why-many-white-south-african-who-left-are-migrating-back-home",
+      "publishedAt": "Mon, 16 Nov 2026 18:30:58 -0500",
+      "snippet": "President Trump has alleged that violence in South Africa has targeted the country's white minority. While his administration has had a strict ban on refugee admissions, it has carved out an exception for white South Africans. Of the over 16,000 refugees admitted through Septembe",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
       "title": "Trump backs campaign to reinstate Huang as CEO of Nvidia",
       "link": "https://www.pbs.org/newshour/politics/trump-backs-campaign-to-reinstate-huang-as-ceo-of-nvidia",
       "publishedAt": "Mon, 16 Nov 2026 18:25:54 -0500",
@@ -344,10 +360,18 @@
     },
     {
       "source": "PBS Headlines",
-      "title": "'It's close to bulletproof' doctor says of MMR vaccine as measles cases rise",
+      "title": "'It's close to bulletproof,' doctor says of MMR vaccine as measles cases rise",
       "link": "https://www.pbs.org/newshour/show/its-close-to-bulletproof-doctor-says-of-mmr-vaccine-as-measles-cases-rise",
       "publishedAt": "Mon, 16 Nov 2026 18:25:20 -0500",
       "snippet": "Global health authorities are expected to announce that the U.S. has lost its status as a country where measles is eliminated, a public health milestone it achieved 26 years ago. This past year, the number of cases in the U.S. doubled, making it the worst year in three decades. T",
+      "tier": 1
+    },
+    {
+      "source": "PBS Headlines",
+      "title": "New documentary explores history of crime and punishment in America",
+      "link": "https://www.pbs.org/newshour/show/new-documentary-explores-history-of-crime-and-punishment-in-america",
+      "publishedAt": "Mon, 16 Nov 2026 18:20:00 -0500",
+      "snippet": "A new PBS documentary, \"Crime and Punishment in America,\" traces the evolution of policing, prisons and the criminal justice system across four centuries. Directed by Lynn Novick and executive produced by Ken Burns, the series examines how Americans have defined crime, determined",
       "tier": 1
     },
     {
@@ -376,10 +400,10 @@
     },
     {
       "source": "PBS Headlines",
-      "title": "Customers at major banks are experiencing issues accessing their accounts",
+      "title": "Technical issue at JPMorgan Chase triggers online delays for major U.S. banks",
       "link": "https://www.pbs.org/newshour/nation/customers-at-major-banks-are-experiencing-issues-accessing-their-accounts",
       "publishedAt": "Mon, 16 Nov 2026 14:32:41 -0500",
-      "snippet": "Customers reported difficulty accessing the online accounts at some major banks Monday.",
+      "snippet": "Chase said Monday that the technical problems were not the result of a cyberattack, and that it was working to bring banking services back online by the end of the day Monday.",
       "tier": 1
     },
     {
@@ -407,35 +431,115 @@
       "tier": 1
     },
     {
-      "source": "PBS Headlines",
-      "title": "Raye leads 2027 Grammy nominations as women dominate top categories",
-      "link": "https://www.pbs.org/newshour/arts/raye-leads-2027-grammy-nominations-as-women-dominate-top-categories",
-      "publishedAt": "Mon, 16 Nov 2026 13:32:59 -0500",
-      "snippet": "The Recording Academy announced the 2027 Grammy Award nominations on Monday, with English singer-songwriter Raye leading the pack.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit",
-      "link": "https://www.pbs.org/newshour/world/the-nvidia-scandal-is-heightening-americas-ai-rivalry-with-china-ahead-of-trumps-visit",
-      "publishedAt": "Mon, 16 Nov 2026 12:50:59 -0500",
-      "snippet": "Well before reports emerged that former Nvidia CEO Jensen Huang was having an affair with a suspected Chinese spy, the advanced chips made by his company were at the center of the race between the U.S. and China to dominate artificial intelligence.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "Preliminary study finds a clue in the quest to help diagnose CTE in the living",
-      "link": "https://www.pbs.org/newshour/science/preliminary-study-finds-a-clue-in-the-quest-to-help-diagnose-cte-in-the-living",
-      "publishedAt": "Mon, 16 Nov 2026 12:14:11 -0500",
-      "snippet": "Scientists stumbled onto a hint that measuring a toxic protein tied to Alzheimer's disease just might one day be useful in diagnosing a different brain disease in football players and others who have suffered repeated blows to the head.",
-      "tier": 1
-    },
-    {
       "source": "DW Top Stories",
       "title": "DW",
       "link": "https://www.dw.com/english/?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "News, Analysis and Service from Germany and Europe - in 30 Languages",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Students&apos; List candidates take seats as Serbian parliament opens",
+      "link": "https://www.dw.com/en/students-list-candidates-take-seats-as-serbian-parliament-opens/a-79969166?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Serbia&apos;s Student List&apos;s candidates have taken their oaths in the inaugural parliament session. As the new majority, they have 90 days to form a government.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Klopp and Wirtz offer glimpse of bright German future",
+      "link": "https://www.dw.com/en/klopp-and-wirtz-offer-glimpse-of-bright-german-future/a-79968184?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany&apos;s fall from grace in recent years has seen the team drift away from the fans. But Monday&apos;s drubbing of the Netherlands and the impact of Jürgen Klopp, Florian Wirtz and emerging youngsters offers hope.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine updates: Russia-Crimea bridge appears destroyed after strike",
+      "link": "https://www.dw.com/en/ukraine-updates-russia-crimea-bridge-appears-destroyed-after-strike/live-79964446?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Zelenskyy said a strike on the Kerch bridge in Crimea was in response to continued Russian attacks targeting his country&apos;s infrastructure. Meanwhile, two bridges were hit in Russian attacks on Kyiv. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US challenges Airbus €3 billion EIB financing, raising fears of renewed transatlantic trade tensions",
+      "link": "https://www.dw.com/en/us-challenges-airbus-€3-billion-eib-financing-raising-fears-of-renewed-transatlantic-trade-tensions/a-79943075?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The US says a record €3 billion financing package for Airbus may conflict with a transatlantic aircraft-subsidy truce. EU officials insist the funding complies with market-based rules.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Turkish authorities raid opposition Sozcu news channel, appoint new management",
+      "link": "https://www.dw.com/en/turkish-authorities-raid-opposition-sozcu-news-channel-appoint-new-management/a-79966297?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Turkish authorities have raided the Istanbul offices of Sozcu TV, halting broadcasts, appointing a trustee and opening an investigation. This marks another crackdown on pro-opposition television channels in Turkey.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Plans for Rwanda migrant hub come under fire",
+      "link": "https://www.dw.com/en/germany-news-plans-for-rwanda-migrant-hub-come-under-fire/live-79965639?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Human rights groups have slammed plans by Germany and four other EU states to send rejected asylum seekers to Rwanda. In other news, business start-ups in Germany are on track to reach the highest level since 2015.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "What makes &apos;Grand Theft Auto VI&apos; more than just a game?",
+      "link": "https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "When \"GTA VI\" is released on November 19, millions of people worldwide will rush to their consoles to play it. How has this video game created such a cross-generational buzz?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Trump kicks off Asia tour ahead of major talks with Putin, Xi in China",
+      "link": "https://www.dw.com/en/trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china/live-79964719?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "US President Donald Trump flew into Manila for a Quad meeting before he takes off to China for a much anticipated meet with Russian and Chinese counterparts. Follow live.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Canada, China agree to ease tariffs amid trade rows with US",
+      "link": "https://www.dw.com/en/canada-china-agree-to-ease-tariffs-amid-trade-rows-with-us/a-79964912?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Canadian and Chinese leaders have vowed closer cooperation as both nations seek to reduce reliance on the US. Canada&apos;s government said it had agreed to further reduce tariffs on a range of products.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India news: Modi proposes e-visas for ASEAN tourists",
+      "link": "https://www.dw.com/en/india-news-modi-proposes-e-visas-for-asean-tourists/live-79964913?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Speaking at the ASEAN summit in Manila, Modi said that India&apos;s development and ASEAN&apos;s prosperity are \"deeply interconnected.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Mongolian President Khurelsukh to resign amid corruption allegations",
+      "link": "https://www.dw.com/en/mongolian-president-khurelsukh-to-resign-amid-corruption-allegations/a-79964717?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Khurelsukh has said he will step down over accusations that he profited from a government railway project, but said he had been \"falsely accused.\"",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Japan scrambles jets to counter suspected Russian aircraft",
+      "link": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Japan said it lodged a \"very stern protest\" with Moscow after two suspected Russian aircraft violated Japanese airspace.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany beat Netherlands 5-0 to win Nations League group",
+      "link": "https://www.dw.com/en/germany-beat-netherlands-5-0-to-win-nations-league-group/a-79964394?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Florian Wirtz scored twice as Germany cruised to a comfortable 5-0 win over the Netherlands to qualify for the Nations League quarter-finals on Monday.",
       "tier": 2
     },
     {
@@ -484,110 +588,6 @@
       "link": "https://www.dw.com/en/nasa-s-voyager-1-reaches-a-light-day-away-from-earth/a-79961817?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "When just saying &apos;hello&apos; takes a two-day round trip, you&apos;re a light-day, or 26 billion kilometers, from Earth. Only one human-made object has ever traveled that far — and its journey into interstellar space continues.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "What has changed in James Bond films over the decades",
-      "link": "https://www.dw.com/en/what-has-changed-in-james-bond-films-over-the-decades/a-63332001?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "In 1962, a martini-drinking womanizer saved the world for the first time in \"Dr. No.\" As Robert Pattinson takes on the role of 007, here&apos;s how the films evolved.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Nvidia scandal: China&apos;s chips dilemma, US rivalry shape AI race",
-      "link": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The controversy surrounding Nvidia and its former CEO Jensen Huang has put a spotlight on the intensifying AI race between the US and China.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Tesla planning €3BN investment in German factory to produce Cybercabs",
-      "link": "https://www.dw.com/en/tesla-planning-€3bn-investment-in-german-factory-to-produce-cybercabs/a-79961416?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Elon Musk-owned company is looking to further expand its only European production line. Brandenburg&apos;s state leader has welcomed the decision.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "The AfD and neo-Nazi networks: how close are the connections?",
-      "link": "https://www.dw.com/en/the-afd-and-neo-nazi-networks-how-close-are-the-connections/a-79961920?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The Alternative for Germany party (AfD) has become a focal point for the far right. Many of its members and staff have ties to ethnonationalist or neo-Nazi organizations.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iran&apos;s growing exodus of young talent",
-      "link": "https://www.dw.com/en/iran-s-growing-exodus-of-young-talent/a-79960368?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Conflict and uncertainty are driving more and more educated young Iranians to consider leaving the country.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "British actor Robert Pattinson confirmed as new James Bond",
-      "link": "https://www.dw.com/en/british-actor-robert-pattinson-confirmed-as-new-james-bond/a-79961789?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "James Bond 007 ranks among the longest-running and highest-grossing movie franchises in Hollywood&apos;s ​history.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Guinea&apos;s gold rush: Arrests, deportations spark outcry",
-      "link": "https://www.dw.com/en/guinea-s-gold-rush-arrests-deportations-spark-outcry/a-79922842?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Guinea has banned illegal gold mining, citing environmental concerns. It has further charged hundreds of suspected local and foreign illegal miners amid reports of rights abuses and deportations.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "COP31 draft deal calls for &apos;immediate&apos; shift away from fossil fuels",
-      "link": "https://www.dw.com/en/cop31-draft-deal-calls-for-immediate-shift-away-from-fossil-fuels/a-79960705?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The preliminary agreement at UN climate talks in Turkey calls for a rapid reduction of planet-warming emissions and at least $120 billion to help countries adapt to climate change.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "China says Xi, Trump, Putin to discuss &apos;world peace&apos;",
-      "link": "https://www.dw.com/en/china-says-xi-trump-putin-to-discuss-world-peace/a-79959570?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "China says presidents Xi, Trump and Putin are going to have \"in-depth discussions on global peace.\" Ukraine, Iran and denuclearization could also feature in the talks.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany joins 4 other EU states to set up Rwanda deportation hub",
-      "link": "https://www.dw.com/en/germany-joins-4-other-eu-states-to-set-up-rwanda-deportation-hub/a-79959158?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The move follows approval of EU regulations that ease deportations and allow hubs to be set up outside the bloc. A similar scheme by the UK government fell apart over legal issues though the US has one up and running.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Klopp wants Infantino out as FIFA candidate deadline looms",
-      "link": "https://www.dw.com/en/klopp-wants-infantino-out-as-fifa-candidate-deadline-looms/a-79958229?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany coach Jürgen Klopp has joined the chorus of football figures critical of FIFA President Gianni Infantino. But with time running out, there are few who seem willing to run against him.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "South Africa: 17 killed in separate mass shooting incidents",
-      "link": "https://www.dw.com/en/south-africa-17-killed-in-separate-mass-shooting-incidents/a-79956966?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Police are investigating two mass shooting incidents in Gauteng and KwaZulu-Natal provinces. There has been a growing trend of mass shooting incidents making headlines in recent years.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Polish police arrest 3 teens over suspected neo-Nazi terror plot",
-      "link": "https://www.dw.com/en/polish-police-arrest-3-teens-over-suspected-neo-nazi-terror-plot/a-79957798?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Investigators found information sharing on how to make explosives at home as well as chemicals needed for that purpose.",
       "tier": 2
     }
   ]
