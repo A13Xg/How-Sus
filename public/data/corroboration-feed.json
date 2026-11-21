@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:31:43.535Z",
+  "generatedAt": "2026-11-21T00:42:55.682Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,42 +32,114 @@
   "entries": [
     {
       "source": "BBC World",
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 07:14:46 GMT",
-      "snippet": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 22:42:47 GMT",
+      "snippet": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Three Kyiv bridges hit during major Russian missile attack",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 17:49:48 GMT",
+      "snippet": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 16:54:29 GMT",
+      "snippet": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 22:37:09 GMT",
+      "snippet": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 23:08:57 GMT",
+      "snippet": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 19:45:20 GMT",
+      "snippet": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
       "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 12:09:55 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 13:01:16 GMT",
       "snippet": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 00:13:21 GMT",
-      "snippet": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 21 Nov 2026 00:01:39 GMT",
+      "snippet": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 21:57:07 GMT",
+      "snippet": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 20:54:12 GMT",
+      "snippet": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 19:27:49 GMT",
+      "snippet": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
       "tier": 1
     },
     {
       "source": "BBC World",
       "title": "Nearly 600 women killed in South Africa within three months",
       "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 10:56:02 GMT",
+      "publishedAt": "Fri, 20 Nov 2026 15:55:16 GMT",
       "snippet": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 09:37:59 GMT",
-      "snippet": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+      "title": "Texas death-row inmate screams as execution takes more than one hour",
+      "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 12:42:37 GMT",
+      "snippet": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 15:55:02 GMT",
+      "snippet": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
       "tier": 1
     },
     {
@@ -80,114 +152,114 @@
     },
     {
       "source": "BBC World",
-      "title": "Nigeria moves to end jail terms for attempted suicide",
-      "link": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 06:32:17 GMT",
-      "snippet": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
+      "title": "US declassifies more UFO footage filmed in the Middle East",
+      "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 23:15:20 GMT",
+      "snippet": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 00:50:24 GMT",
-      "snippet": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+      "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 21:43:22 GMT",
+      "snippet": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 23:33:51 GMT",
-      "snippet": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "title": "Cost of living protests sweep across Europe",
+      "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 16:45:34 GMT",
+      "snippet": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 17:38:22 GMT",
-      "snippet": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 20 Nov 2026 15:14:01 GMT",
+      "snippet": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
       "tier": 1
     },
     {
       "source": "BBC World",
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 20:07:02 GMT",
-      "snippet": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "title": "From premature baby to social media star - Famed hippo Fiona dies",
+      "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 22:54:03 GMT",
+      "snippet": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "US army warns detonation of unstable explosives will create toxic plume",
-      "link": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 01:27:27 GMT",
-      "snippet": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
+      "source": "NPR News",
+      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+      "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+      "publishedAt": "Fri, 20 Nov 2026 17:11:29 -0500",
+      "snippet": "AI stocks have hefty market values and have a much bigger impact on the market&apos;s direction. They were responsible for Wall Street&apos;s big gains this year and are now behind the big slide for the market.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 23:40:29 GMT",
-      "snippet": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "source": "NPR News",
+      "title": "The latest from Trump&apos;s press conference",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+      "publishedAt": "Fri, 20 Nov 2026 16:38:21 -0500",
+      "snippet": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "China issues Mount Fuji warning as family of missing climber offers reward",
-      "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 20 Nov 2026 04:13:22 GMT",
-      "snippet": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+      "source": "NPR News",
+      "title": "Rising seas have forced this Quinault village to relocate",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+      "publishedAt": "Fri, 20 Nov 2026 16:38:13 -0500",
+      "snippet": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "California targets Nvidia in China AI chip probe",
-      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 23:04:30 GMT",
-      "snippet": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "source": "NPR News",
+      "title": "Trump&apos;s impact on an Ohio steel plant",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+      "publishedAt": "Fri, 20 Nov 2026 16:38:11 -0500",
+      "snippet": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under President Trump",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-      "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 22:48:22 GMT",
-      "snippet": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+      "source": "NPR News",
+      "title": "A second judge blocks Trump&apos;s arch, saying it&apos;s unlikely to succeed in court",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+      "publishedAt": "Fri, 20 Nov 2026 13:25:09 -0500",
+      "snippet": "A federal judge in Virginia said she will issue a preliminary injunction against Trump&apos;s arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Trump posthumously pardons US baseball legend Pete Rose",
-      "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 23:51:50 GMT",
-      "snippet": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "source": "NPR News",
+      "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+      "publishedAt": "Fri, 20 Nov 2026 12:00:00 -0500",
+      "snippet": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-      "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 15:52:26 GMT",
-      "snippet": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+      "source": "NPR News",
+      "title": "How Orchestra Noir turned classical music into a cultural movement",
+      "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
+      "publishedAt": "Fri, 20 Nov 2026 11:12:18 -0500",
+      "snippet": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 13:07:35 GMT",
-      "snippet": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+      "source": "NPR News",
+      "title": "Trump touts meeting with Xi and Putin but offers little results",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+      "publishedAt": "Fri, 20 Nov 2026 10:00:00 -0500",
+      "snippet": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 00:49:19 GMT",
-      "snippet": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "source": "NPR News",
+      "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
+      "publishedAt": "Fri, 20 Nov 2026 07:24:40 -0500",
+      "snippet": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
       "tier": 1
     },
     {
@@ -199,235 +271,163 @@
       "tier": 1
     },
     {
-      "source": "NPR News",
-      "title": "Just how vulnerable are we to cyberattacks?",
-      "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
-      "publishedAt": "Fri, 20 Nov 2026 07:00:00 -0500",
-      "snippet": "In a week of outages, we&apos;re thinking about the rising threat of AI-powered cyberattacks. But sometimes, it&apos;s not the most sophisticated attack that&apos;s concerning, but the easy targets buried in old software.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Senate passes bipartisan energy bill amid environmental concerns",
-      "link": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-      "publishedAt": "Fri, 20 Nov 2026 06:00:28 -0500",
-      "snippet": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "How exactly did Trump get so rich on crypto? We explain",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-      "publishedAt": "Fri, 20 Nov 2026 05:00:00 -0500",
-      "snippet": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "New York City unveils a bold plan to move its jails off Rikers Island",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-      "publishedAt": "Fri, 20 Nov 2026 05:00:00 -0500",
-      "snippet": "New York City officials are moving forward with plans to close Rikers, the city&apos;s main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
-      "link": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
-      "publishedAt": "Fri, 20 Nov 2026 05:00:00 -0500",
-      "snippet": "Plus: Are you up to date on your James Bond news? If so, you&apos;ll get at least one question right.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Young people record their older relatives for The Great Listen",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6045879/young-people-record-their-older-relatives-for-the-great-listen",
-      "publishedAt": "Fri, 20 Nov 2026 04:41:31 -0500",
-      "snippet": "Young people sit down to record their elders as part of the annual holiday tradition from StoryCorps called The Great Listen.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "The U.K. and EU hold a rare summit to strengthen ties",
-      "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-      "publishedAt": "Fri, 20 Nov 2026 04:14:41 -0500",
-      "snippet": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Why the U.S. air traffic control system still relies on an &apos;antique&apos; network",
-      "link": "https://www.npr.org/2026/11/19/nx-s1-6045773/faa-air-traffic-control-system-modernization-challenges",
-      "publishedAt": "Thu, 19 Nov 2026 16:59:57 -0500",
-      "snippet": "The FAA says the telecom outage that led to Friday&apos;s nationwide ground stop began with an upgrade to fiber-optic cables. Industry experts say the work is long overdue.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Judges have put Trump&apos;s arch and golf course on hold, but only for a matter of days",
-      "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
-      "publishedAt": "Thu, 19 Nov 2026 14:46:27 -0500",
-      "snippet": "A federal judge has twice delayed construction of Trump&apos;s arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
+      "source": "PBS Headlines",
+      "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
+      "link": "https://www.pbs.org/newshour/world/rights-groups-urge-sanctions-after-icj-finds-myanmar-guilty-of-genocide-against-rohingya",
+      "publishedAt": "Fri, 20 Nov 2026 19:28:54 -0500",
+      "snippet": "The International Court of Justice has no power to enforce Thursday's ruling, which orders Myanmar's military-supported government to allow those who fled the violence to return home safely, to pay reparations to the Rohingya Muslims and prosecute those suspected of having commit",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Do you need a measles booster shot now that the U.S. has lost its elimination status?",
-      "link": "https://www.pbs.org/newshour/health/do-you-need-a-measles-booster-shot-now-that-the-u-s-has-lost-its-elimination-status",
-      "publishedAt": "Thu, 19 Nov 2026 19:10:07 -0500",
-      "snippet": "The U.S., Mexico and Bolivia lost their measles-free status this week after stubborn outbreaks erased decades of progress.",
+      "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
+      "link": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
+      "publishedAt": "Fri, 20 Nov 2026 19:01:50 -0500",
+      "snippet": "The man accused of sparking last year's deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "FCC votes to allow state prisons to jam signals from contraband cellphones",
-      "link": "https://www.pbs.org/newshour/nation/fcc-votes-to-allow-state-prisons-to-jam-signals-from-contraband-cellphones",
-      "publishedAt": "Thu, 19 Nov 2026 19:02:08 -0500",
-      "snippet": "The Federal Communications Commission on Thursday acted to allow state prisons across the United States to jam the signals of cellphones smuggled to inmates as the federal government cracks down on devices that authorities say are the No. 1 security threat in the nation's correct",
+      "title": "What Trump addressed during his lengthy White House news conference",
+      "link": "https://www.pbs.org/newshour/show/what-trump-addressed-during-his-lengthy-white-house-news-conference",
+      "publishedAt": "Fri, 20 Nov 2026 18:55:30 -0500",
+      "snippet": "In a lengthy press conference, President Trump touted his recent trip to Asia and defended his relationship with Chinese President Xi Jinping and Russian President Vladimir Putin. White House correspondent Liz Landers was in the briefing room as the president took questions from ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Inside the historic summit between Trump, Xi and Putin",
-      "link": "https://www.pbs.org/newshour/show/inside-the-historic-summit-between-trump-xi-and-putin",
-      "publishedAt": "Thu, 19 Nov 2026 18:55:57 -0500",
-      "snippet": "It was the summit seen around the world. The first-ever trilateral meeting between the leaders of the United States, China and Russia resulted in a joint statement that included promises to release more oil and hold formal talks about nuclear weapons. Nick Schifrin reports from S",
+      "title": "News Wrap: Stocks tumble as worries about AI rattle market",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-stocks-tumble-as-worries-about-ai-rattle-market",
+      "publishedAt": "Fri, 20 Nov 2026 18:50:42 -0500",
+      "snippet": "In our news wrap Friday, stocks tumbled to end the week as worries about AI rattled the market, a second federal judge is blocking President Trump's triumphal arch in Washington and a federal appeals court is blocking the Army from detonating several tons of bomb-making chemicals",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Experts assess what was addressed and overlooked at trilateral meeting in China",
-      "link": "https://www.pbs.org/newshour/show/experts-assess-what-was-addressed-and-overlooked-at-trilateral-meeting-in-china",
-      "publishedAt": "Thu, 19 Nov 2026 18:50:53 -0500",
-      "snippet": "For perspective on the Trump, Xi and Putin summit in China, Amna Nawaz spoke with Dennis Wilder and Fred Fleitz. Wilder was senior director for East Asia and special assistant to President George W. Bush and was the editor of the president's daily brief during the Obama administr",
+      "title": "Mounting tech disruptions raise concerns about U.S. cybersecurity",
+      "link": "https://www.pbs.org/newshour/show/mounting-tech-disruptions-raise-concerns-about-u-s-cybersecurity",
+      "publishedAt": "Fri, 20 Nov 2026 18:45:36 -0500",
+      "snippet": "President Trump has replaced the nation's top cybersecurity official following a string of seemingly unrelated technology outages over the last couple of weeks. Officials have repeatedly stressed that these outages were not the result of intentional attacks, but given the growth ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "News Wrap: Russian drone attack damages Dutch embassy and cathedral in Ukraine",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-russian-drone-attack-damages-dutch-embassy-and-cathedral-in-ukraine",
-      "publishedAt": "Thu, 19 Nov 2026 18:45:23 -0500",
-      "snippet": "In our news wrap Thursday, a Russian drone damaged the Dutch embassy and a cathedral in Ukraine, President Trump says he posthumously pardoned Pete Rose, record-breaking rains inundated parts of Florida's Atlantic coast and the Cincinnati Zoo says its famous hippo, Fiona, died af",
+      "title": "Josh Shapiro on foreign policy, Democratic wins and his 2028 ambitions",
+      "link": "https://www.pbs.org/newshour/show/josh-shapiro-on-foreign-policy-democratic-wins-and-his-2028-ambitions",
+      "publishedAt": "Fri, 20 Nov 2026 18:40:50 -0500",
+      "snippet": "Pennsylvania Gov. Josh Shapiro is fresh off a reelection campaign that gave him another four years in office and Democrats majorities in the state House. Now Shapiro is turning his attention to foreign policy, laying out his prescriptions to solve pressing global crises. Amna Naw",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Anthropic's trillion-dollar valuation tests its promise to develop AI responsibly",
-      "link": "https://www.pbs.org/newshour/show/anthropics-trillion-dollar-valuation-tests-its-promise-to-develop-ai-responsibly",
-      "publishedAt": "Thu, 19 Nov 2026 18:40:24 -0500",
-      "snippet": "Artificial intelligence giant Anthropic completed the largest initial public offering of all time. Even as CEO Dario Amodei celebrated the huge launch, he reiterated his commitment to developing artificial intelligence responsibly. William Brangham discussed more with Jessica Les",
+      "title": "Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo",
+      "link": "https://www.pbs.org/newshour/nation/fionas-caretakers-and-fans-mourn-the-beloved-hippo-after-her-death-at-cincinnati-zoo",
+      "publishedAt": "Fri, 20 Nov 2026 18:39:39 -0500",
+      "snippet": "Born prematurely almost a decade ago and given slim odds of survival, Fiona became not only a source of hometown pride but also a worldwide symbol of hope and inspiration for many.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "International Court of Justice finds Myanmar guilty of genocide against Rohingya",
-      "link": "https://www.pbs.org/newshour/show/international-court-of-justice-finds-myanmar-guilty-of-genocide-against-rohingya",
-      "publishedAt": "Thu, 19 Nov 2026 18:35:01 -0500",
-      "snippet": "A historic judgment from the International Court of Justice ruled that Myanmar committed genocide against its Rohingya minority. The ruling comes years after Myanmar's Muslim minority was forced to flee. Stephanie Sy discusses what the genocide verdict means for international law",
+      "title": "Brooks and Capehart on Trump's summit with Putin and Xi",
+      "link": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-summit-with-putin-and-xi",
+      "publishedAt": "Fri, 20 Nov 2026 18:35:27 -0500",
+      "snippet": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including President Trump's trilateral summit with Xi and Putin, the ongoing debate surrounding data centers, and Elon Musk's attempt to distance himself from MAGA.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Americans will pay more for Thanksgiving dinners this year, says Farm Bureau survey",
-      "link": "https://www.pbs.org/newshour/economy/americans-will-pay-more-for-thanksgiving-dinners-this-year-says-farm-bureau-survey",
-      "publishedAt": "Thu, 19 Nov 2026 18:30:20 -0500",
-      "snippet": "High diesel prices have made it more expensive for farmers to process and transport Thanksgiving staples like milk, dinner rolls, potatoes and cranberries, the Farm Bureau said.",
+      "title": "Inside the museum preserving the story of JFK's assassination",
+      "link": "https://www.pbs.org/newshour/show/inside-the-museum-preserving-the-story-of-jfks-assassination",
+      "publishedAt": "Fri, 20 Nov 2026 18:30:10 -0500",
+      "snippet": "On November 22, 1963, President John F. Kennedy was killed while driving in a motorcade in downtown Dallas. As the story continues to be told and questioned, those memories are preserved and displayed at The Sixth Floor Museum at Dealey Plaza. Senior arts correspondent Jeffrey Br",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Tennessee Democrat describes how she won a Trump district with almost no ad money",
-      "link": "https://www.pbs.org/newshour/show/tennessee-democrat-describes-how-she-won-a-trump-district-with-almost-no-ad-money",
-      "publishedAt": "Thu, 19 Nov 2026 18:30:05 -0500",
-      "snippet": "When Democrats take control of the House, one of their new members will hail from a district no one expected them to win. Victoria Broderick is a tech support worker from rural Tennessee who unseated eight-term Republican Rep. Scott Desjarlais. She did so despite raising less tha",
+      "title": "Court approves $7.25 billion Bayer settlement over claims Roundup weed killer caused cancer",
+      "link": "https://www.pbs.org/newshour/nation/court-approves-7-25-billion-bayer-settlement-over-claims-roundup-weed-killer-caused-cancer",
+      "publishedAt": "Fri, 20 Nov 2026 18:25:19 -0500",
+      "snippet": "Agrochemical maker Bayer will pay up to $7.25 billion over two decades to resolve thousands of claims from U.S. cancer patients asserting the company should have warned people that its popular weed killer Roundup could cause lymphoma, according to a settlement approved Friday by ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "'Huna' wins National Book Award, but author denied visa to attend ceremony",
-      "link": "https://www.pbs.org/newshour/show/huna-wins-national-book-award-but-author-denied-visa-to-attend-ceremony",
-      "publishedAt": "Thu, 19 Nov 2026 18:25:47 -0500",
-      "snippet": "At the National Book Awards, Abdelrahman ElGendy won the nonfiction prize for his book \"Huna,\" a memoir of his six years as a political prisoner in Egypt. But ElGendy wasn't there to accept the award. His visa to travel from Europe was denied by the U.S. government. Amna Nawaz sp",
+      "title": "Activists, leaders criticize COP31 climate talks as fossil fuels go unmentioned in draft deal",
+      "link": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal",
+      "publishedAt": "Fri, 20 Nov 2026 18:06:45 -0500",
+      "snippet": "United Nations climate talks in Turkey stretched into overtime Friday and delegates put off some decisions to next year, unable to find common ground on multiple issues with mutterings and protests about failure.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "House music pioneer Crystal Waters celebrates the genre's influence and impact",
-      "link": "https://www.pbs.org/newshour/show/house-music-pioneer-crystal-waters-celebrates-the-genres-influence-and-impact",
-      "publishedAt": "Thu, 19 Nov 2026 18:20:13 -0500",
-      "snippet": "In New York, house music pioneer Crystal Waters is bringing together major figures like Deborah Cox and Billy Porter with a live orchestra. It's all to celebrate the genre's 30-year legacy. Geoff Bennett spoke with Waters about \"I Am House Orchestrated\" and how the music has grow",
+      "title": "Lawsuits allege corner cutting, ignored warnings led to fatal Brooklyn building collapse",
+      "link": "https://www.pbs.org/newshour/nation/lawsuits-allege-corner-cutting-ignored-warnings-led-to-fatal-brooklyn-building-collapse",
+      "publishedAt": "Fri, 20 Nov 2026 17:52:22 -0500",
+      "snippet": "As investigators probe what caused a New York City building collapse that killed eight people, workers and residents are painting a portrait of two trouble spots side-by-side: the apartment house that fell down and the construction site being excavated next door.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "3 takeaways from Trump, Xi and Putin's historic summit",
-      "link": "https://www.pbs.org/newshour/world/3-takeaways-from-trump-xi-and-putins-historic-summit",
-      "publishedAt": "Thu, 19 Nov 2026 17:58:31 -0500",
-      "snippet": "The meeting between U.S. President Donald Trump, China's Xi Jinping and Russia's Vladimir Putin on Thursday was the first-ever sit-down for the leaders of the three countries.",
+      "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace",
+      "link": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace",
+      "publishedAt": "Fri, 20 Nov 2026 17:42:43 -0500",
+      "snippet": "Two Russian missiles and a suspected drone came down in Poland on Friday in what its prime minister said was likely a provocation timed to coincide with European military exercises in his country for a possible postwar mission in Ukraine.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Prosecutor declines to charge Wisconsin officer who fatally shot Black man in Madison",
-      "link": "https://www.pbs.org/newshour/nation/prosecutor-declines-to-charge-wisconsin-officer-who-fatally-shot-black-man-in-madison",
-      "publishedAt": "Thu, 19 Nov 2026 17:48:50 -0500",
-      "snippet": "The Wisconsin police officer who shot and killed a 38-year-old Black man in Madison in July will not face criminal charges, a prosecutor announced Thursday, sparking calls for justice from the victim's family members and community advocates.",
+      "title": "Second federal judge blocks construction of Trump's memorial arch",
+      "link": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
+      "publishedAt": "Fri, 20 Nov 2026 16:28:49 -0500",
+      "snippet": "A second federal judge has blocked President Donald Trump's administration from building a 250-foot memorial arch in the nation's capital, issuing an order on Friday that keeps the construction work on hold indefinitely, according to plaintiffs' lawyers who sued to challenge the ",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Judge issues 14-day extension of order blocking Trump's triumphal arch construction",
-      "link": "https://www.pbs.org/newshour/politics/judge-issues-14-day-extension-of-order-blocking-trumps-triumphal-arch-construction",
-      "publishedAt": "Thu, 19 Nov 2026 17:39:21 -0500",
-      "snippet": "A federal judge on Wednesday temporarily extended an order blocking the Trump administration from breaking ground on a towering memorial arch in the nation's capital.",
+      "title": "WATCH: Trump on data centers: 'Take advantage, don't shut them off'",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-on-data-centers-take-advantage-dont-shut-them-off",
+      "publishedAt": "Fri, 20 Nov 2026 16:25:01 -0500",
+      "snippet": "The president said he doesn't want to allow the centers to be built outside the U.S. \"because China will take all of them.\" He added that companies that try to build elsewhere will face \"tremendous penalties.\"",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Ella Langley sweeps the 2026 CMA Awards and wins entertainer of the year",
-      "link": "https://www.pbs.org/newshour/arts/ella-langley-sweeps-the-2026-cma-awards-and-wins-entertainer-of-the-year",
-      "publishedAt": "Thu, 19 Nov 2026 16:56:04 -0500",
-      "snippet": "It didn't take a crystal ball to see: The 2026 Country Music Association Awards were always going to be all about Ella Langley.",
+      "title": "WATCH: Cascade of tech outages 'separate events' and 'under control,' Trump says",
+      "link": "https://www.pbs.org/newshour/politics/watch-cascade-of-tech-outages-separate-events-and-under-control-trump-says",
+      "publishedAt": "Fri, 20 Nov 2026 16:13:21 -0500",
+      "snippet": "\"If there's any silver lining to what happened last week, it's that Congress seems to be very receptive now to giving us the money,\" Trump said about the administration's plan to overhaul air traffic control.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Cincinnati Zoo says Fiona the hippo has died, more than a week after ingesting a hat",
-      "link": "https://www.pbs.org/newshour/nation/cincinnati-zoo-says-fiona-the-hippo-has-died-more-than-a-week-after-ingesting-a-hat",
-      "publishedAt": "Thu, 19 Nov 2026 16:11:32 -0500",
-      "snippet": "\"It is with extreme sadness that we share with you the devastating news that Fiona did not make it after multiple attempts from our amazing vets and keeper team to help her through what ended up being a medical emergency,\" the zoo said in a statement.",
+      "title": "WATCH: Trump says he would love former Nvidia CEO Jensen Huang to 'be given a second chance'",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-he-would-love-former-nvidia-ceo-jensen-huang-to-be-given-a-second-chance",
+      "publishedAt": "Fri, 20 Nov 2026 15:34:56 -0500",
+      "snippet": "\"We have to protect our brilliant people. Jensen is one of them,\" Trump said during a news conference at the White House, touting Nvidia as \"a very important company to us.\"",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Fact-checking Mullin's House hearing on FAA ground stop, outages and dirty bombs",
-      "link": "https://www.pbs.org/newshour/politics/fact-checking-mullins-house-hearing-on-faa-ground-stop-outages-and-dirty-bombs",
-      "publishedAt": "Thu, 19 Nov 2026 15:12:55 -0500",
-      "snippet": "Following a week of flight delays, website outages and the possibility of an Iranian dirty bomb attack, House lawmakers grilled top administration officials, including Homeland Security Secretary Markwayne Mullin, about threats to the United States.",
+      "title": "WATCH: 'We will not allow that to happen,' Trump says of reported Iran dirty bomb threat",
+      "link": "https://www.pbs.org/newshour/politics/watch-we-will-not-allow-that-to-happen-trump-says-of-reported-iran-dirty-bomb-threat",
+      "publishedAt": "Fri, 20 Nov 2026 15:12:12 -0500",
+      "snippet": "\"We know a lot about what's happening in Iran,\" Trump said, speaking during a news briefing at the White House. \"We know everything they say. We know who they are, where they are. We'll find out about it.\"",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Iowans brace for lead dust cloud as Army plans to detonate 5 tons of bomb-making chemicals",
-      "link": "https://www.pbs.org/newshour/nation/iowans-brace-for-lead-dust-cloud-as-army-plans-to-detonate-5-tons-of-bomb-making-chemicals",
-      "publishedAt": "Thu, 19 Nov 2026 14:41:20 -0500",
-      "snippet": "Plans by the U.S. Army to detonate about 5 tons of bomb-making chemicals that have become unusable and might explode if moved have residents in southeast Iowa worried that a cloud of lead dust could cause environmental contamination and health problems.",
+      "title": "Court grants request to prevent military from detonating bomb-making chemicals in Iowa",
+      "link": "https://www.pbs.org/newshour/nation/court-grants-request-to-prevent-military-from-detonating-bomb-making-chemicals-in-iowa",
+      "publishedAt": "Fri, 20 Nov 2026 14:27:47 -0500",
+      "snippet": "The detonation was initially planned for Friday, but the Army pushed it to Monday following an outpouring of public concern about the potential health and environmental consequences.",
       "tier": 1
     },
     {
       "source": "PBS Headlines",
-      "title": "Mississippi saw a spike in 'inactive' voters for the midterms. Democratic lawmakers want answers",
-      "link": "https://www.pbs.org/newshour/politics/mississippi-saw-a-spike-in-inactive-voters-for-the-midterms-democratic-lawmakers-want-answers",
-      "publishedAt": "Thu, 19 Nov 2026 14:07:14 -0500",
-      "snippet": "Lawmakers want an investigation and legislation to ensure that eligible voters are not mistakenly moved to inactive status, especially as the party tries to maintain its political momentum going into next year's race for governor.",
-      "tier": 1
-    },
-    {
-      "source": "PBS Headlines",
-      "title": "NASA's Voyager 1 calls Earth from more than 16 billion miles, or one light-day, away",
-      "link": "https://www.pbs.org/newshour/science/nasas-voyager-1-calls-earth-from-more-than-16-billion-miles-or-one-light-day-away",
-      "publishedAt": "Thu, 19 Nov 2026 13:51:11 -0500",
-      "snippet": "It marked another day in the history books for Voyager 1, which launched in 1977.",
+      "title": "WATCH: After calling Putin his friend, Trump 'can't speak to' whether Putin is a friend to America",
+      "link": "https://www.pbs.org/newshour/politics/trump-defends-calling-putin-a-friend-saying-they-have-a-very-good-personal-relationship",
+      "publishedAt": "Fri, 20 Nov 2026 14:09:45 -0500",
+      "snippet": "President Donald Trump doubled down Friday on his description of Vladimir Putin as a friend but said he \"can't speak\" to whether the Russian president is a friend to the U.S.",
       "tier": 1
     },
     {
@@ -440,10 +440,66 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "EU and UK hold a rare summit in bid to &apos;rebuild ties&apos;",
-      "link": "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-top-1022-rdf",
+      "title": "Russian ornithologist jailed over small donations to Navalny&apos;s foundation",
+      "link": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "European Union officials and UK Prime Minister Andy Burnham met in Brussels to discuss efforts to rebuild ties following Brexit.",
+      "snippet": "Sofia Rosenfeld has devoted her life to studying Arctic birds. A Russian court sentenced her to 3.5 years in a penal colony over donations to Navalny&apos;s foundation. Friends and family are fighting for her release.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Repression against Iranian lawyers increases",
+      "link": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "At least 135 lawyers in Iran have been subjected to repressive measures over the past year. UN experts warn that this seriously jeopardizes the right of those accused to trial in a constitutional court.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "At COP31, conflict over climate science slows action on global warming",
+      "link": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Attacks on climate science and disinformation risk delaying key measures at COP31 in Antalya. As the UN climate talks draw to a close, how will that affect efforts to come to an agreement?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "COP31: UN Climate summit enters final phase with no deal in sight",
+      "link": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "After nearly two weeks of negotiations, countries remain divided on how to fight global warming. A new draft declaration doesn&apos;t mention the phaseout of fossil fuels, the main drivers of climate change. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Has the &apos;Parthenon puzzle&apos; been solved? The long quest to reassemble lost eastern pediment",
+      "link": "https://www.dw.com/en/has-the-parthenon-puzzle-been-solved-the-long-quest-to-reassemble-lost-eastern-pediment/a-79982098?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The depiction of the birth of the goddess Athena above the Parthenon&apos;s entrance is considered a masterpiece of ancient art. Now, a German research team has pieced together all the surviving fragments.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Kids take to streets over school, climate and costs",
+      "link": "https://www.dw.com/en/germany-news-kids-take-to-streets-over-school-climate-and-costs/live-79998529?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Thousands of young people turned out across Germany demanding improvements in education, climate and affordability. Protesters say they aren&apos;t being taken seriously and will keep protesting until things change.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Ukraine updates: Russian attack &apos;one of largest,&apos; Zelenskyy says",
+      "link": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Ukrainian President Zelenskyy said Russia launched one of the largest aerial attacks since the invasion began. Poland accused Moscow of a \"provocation,\" saying two missiles landed in the NATO country. Follow DW.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Better educated than ever — yet Germany&apos;s Gen Z is being shut out of its own future",
+      "link": "https://www.dw.com/en/better-educated-than-ever-yet-germany-s-gen-z-is-being-shut-out-of-its-own-future/a-80005823?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Never before have young people faced so many challenges. Young Germans are asking: Will I be better off than my parents later in life?",
       "tier": 2
     },
     {
@@ -456,10 +512,66 @@
     },
     {
       "source": "DW Top Stories",
-      "title": "COP31: UN Climate summit enters final phase with no deal in sight",
-      "link": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516?maca=en-rss-en-top-1022-rdf",
+      "title": "Measles in America: Here&apos;s a constructive approach to beating the disease, based on Brazil&apos;s experience",
+      "link": "https://www.dw.com/en/measles-in-america-here-s-a-constructive-approach-to-beating-the-disease-based-on-brazil-s-experience/a-79990626?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
-      "snippet": "After nearly two weeks of negotiations, countries remain divided on how to fight global warming. A new draft declaration doesn&apos;t mention the phaseout of fossil fuels, the main drivers of climate change. DW has more.",
+      "snippet": "The US is now officially a measles contagion zone. By mid-2026, there were more infections than in all of the previous year. But the country could beat measles again, just like Brazil did two years ago.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Is Pakistan backing anti-Taliban groups in Afghanistan?",
+      "link": "https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Taliban rulers in Afghanistan have accused Pakistan of aiding and sheltering armed resistance groups. The allegations come amid heightened tensions and are likely to deepen the rift between the two neighbors.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany face belgium in Nations League quarterfinals — Klopp plays down favorites tag",
+      "link": "https://www.dw.com/en/germany-face-belgium-in-nations-league-quarterfinals-klopp-plays-down-favorites-tag/a-80004794?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Germany coach Jürgen Klopp is looking to \"carry positive momentum forward\" as his team draw neighboring Belgium in the quarterfinals of the UEFA Nations League.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "EU and UK strike &apos;landmark deal&apos; to strengthen ties after Brexit",
+      "link": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The European Union and the United Kingdom have agreed on \"landmark\" deals on youth mobility and trade. Leaders on both sides praised the agreement as they seek to rebuild ties.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Turkey takes control of opposition broadcaster Sozcu TV",
+      "link": "https://www.dw.com/en/turkey-takes-control-of-opposition-broadcaster-sozcu-tv/a-80001984?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "In the latest in a series of raids and arrests, another major pro-opposition Turkish broadcaster has been brought under state control. This is the third in a year.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Africa at COP31: Will climate cash finally flow?",
+      "link": "https://www.dw.com/en/africa-at-cop31-will-climate-cash-finally-flow/a-80002269?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "As the curtains draw to a close on COP31 in Antalya, one question looms large for African countries: Will climate promises finally translate into the funding African communities need to cope with a warming world?",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
+      "link": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The ICJ has held Myanmar responsible for genocide against the Rohingya and ordered restitution and reparations. Community members have hailed the ruling, but caution that achieving real change will be long and hard.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "FIFA presidential election 2027: Infantino facing Diallo and Tashima — could an alliance change everything?",
+      "link": "https://www.dw.com/en/fifa-presidential-election-2027-infantino-facing-diallo-and-tashima-could-an-alliance-change-everything/a-80002882?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Two challengers to Gianni Infantino have registered for next year&apos;s FIFA presidential election. What do Philippe Diallo and Kozo Tashima stand for – and do they stand a chance against the incumbent?",
       "tier": 2
     },
     {
@@ -476,118 +588,6 @@
       "link": "https://www.dw.com/en/have-we-missed-our-chance-to-stop-climate-change/a-79986199?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "From record-breaking heat to devastating floods and wildfires, the warning signs are everywhere. Can rising temperatures still be brought under control?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "India: Pakistani minister visits Delhi for SCO forum amid frozen ties",
-      "link": "https://www.dw.com/en/india-pakistani-minister-visits-delhi-for-sco-forum-amid-frozen-ties/live-79999264?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Pakistan&apos;s Climate Minister Musadik Malik has arrived in New Delhi for an SCO cultural forum, the first visit by a Pakistani federal minister since 2023. Meanwhile, Cyclone Akvan has made landfall.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "China&apos;s Xi praises &apos;turnaround&apos; in relationship with Australia",
-      "link": "https://www.dw.com/en/china-s-xi-praises-turnaround-in-relationship-with-australia/a-79999229?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The leaders of Australia and China have held talks on sidelines of APEC summit. Australian PM Anthony Albanese is also slated to meet Chinese Premier Li Qiang.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Merz joins German-Ukrainian business forum",
-      "link": "https://www.dw.com/en/germany-news-merz-joins-german-ukrainian-business-forum/live-79998529?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Chancellor Merz is taking part in a forum to boost business ties with Ukraine. Meanwhile, youth protests are expected to take to the streets again. DW has the latest.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "White House replaces cyber security chief after tech outages",
-      "link": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Sean Cairncross is leaving his role as national cyber director after a chaotic week of tech outages. Kirsten Davies, the Pentagon&apos;s chief information officer, will assume the position in an acting capacity.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "New Ukraine talks including Europe to be held &apos;soon&apos; — Merz",
-      "link": "https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany&apos;s Chancellor Friedrich Merz says European leaders could take part in fresh Ukraine talks on \"neutral ground.\" The UK and EU countries have urged a seat at the table in meetings between the US, Russia and Ukraine.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Cincinnati&apos;s famous hippo Fiona dies after eating visitor&apos;s hat",
-      "link": "https://www.dw.com/en/cincinnati-s-famous-hippo-fiona-dies-after-eating-visitor-s-hat/a-79998371?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Fiona was a global sensation at the Cincinnati Zoo in the US. The hippo, who was born prematurely, was named after the \"Shrek\" film character.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Price tag for US war in Iran barrels past $48 billion",
-      "link": "https://www.dw.com/en/price-tag-for-us-war-in-iran-barrels-past-48-billion/a-79998255?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "A Pentagon budget officer has said the price of the Iran war surpassed $48.3 billion last week. That does not include costs sustained in Iranian attacks on US bases — lawmakers want details the Pentagon is loath to give.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "&apos;Humanitarian mission&apos; for Kostiantynivka: Is it a trap?",
-      "link": "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Russian President Putin has proposed an evacuation of the Ukrainian city of Kostiantynivka, like the recent operation in Oleshky. Experts warn this could serve military, not humanitarian, aims. What should Kyiv do?",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Uganda minister at COP31: &apos;We need a just transition&apos;",
-      "link": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Funding from wealthy countries to help deal with the impacts of climate change hasn&apos;t materialized, says Uganda&apos;s environment minister. The East African country is hoping oil and carbon credits will help boost finances.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Germany news: Pistorius visits Auschwitz memorial in Poland trip",
-      "link": "https://www.dw.com/en/germany-news-pistorius-visits-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Germany&apos;s defense minister&apos;s first stop in Poland was the memorial site of the former Nazi extermination camp Auschwitz-Birkenau. Follow DW for more.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Iraq&apos;s risky standoff: The state vs. Iran-allied militias",
-      "link": "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "This week, Iraqi security forces surrounded an area run by the Kataib Hezbollah militia. Onlookers describe it as the most dangerous confrontation between the Iraqi state and Iran-allied militias in decades.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "European leaders present united front in push for peace in Ukraine",
-      "link": "https://www.dw.com/en/european-leaders-present-united-front-in-push-for-peace-in-ukraine/live-79986520?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Talks in Berlin end with reaffirmed support for Kyiv and a concerted push for European representation at future peace talks to end Russia&apos;s invasion of Ukraine.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?",
-      "link": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The presidents of China, the US and Russia have held an unprecedented summit. While Trump said the three leaders were \"making history,\" Xi described the talks as \"fruitful\" and Putin called them \"open and candid.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "No mention of fossil fuels in latest COP31 draft deal",
-      "link": "https://www.dw.com/en/no-mention-of-fossil-fuels-in-latest-cop31-draft-deal/a-79992394?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "One of the most fraught debates at the UN climate talks in Turkey has revolved around the future of coal, oil and gas. Now, all mention of fossil fuels has been removed from the summit&apos;s new draft agreement.",
       "tier": 2
     }
   ]
