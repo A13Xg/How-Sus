@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:42:11.087Z",
+  "generatedAt": "2026-11-28T12:30:38.784Z",
   "source": "github-actions-static-refresh",
   "feedStatus": [
     {
@@ -32,10 +32,74 @@
   "entries": [
     {
       "source": "BBC World",
+      "title": "Argentina's bid to stop Falkland Islands oil drilling rejected",
+      "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 28 Nov 2026 12:15:45 GMT",
+      "snippet": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 28 Nov 2026 10:34:58 GMT",
+      "snippet": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 28 Nov 2026 11:18:37 GMT",
+      "snippet": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
       "title": "Spanish PM and rivals rally supporters in final pitch for votes",
       "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 27 Nov 2026 21:55:53 GMT",
       "snippet": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 28 Nov 2026 11:35:34 GMT",
+      "snippet": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 28 Nov 2026 04:19:16 GMT",
+      "snippet": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 28 Nov 2026 07:31:14 GMT",
+      "snippet": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 28 Nov 2026 00:56:55 GMT",
+      "snippet": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 28 Nov 2026 04:13:45 GMT",
+      "snippet": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
       "tier": 1
     },
     {
@@ -48,50 +112,10 @@
     },
     {
       "source": "BBC World",
-      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 27 Nov 2026 18:42:50 GMT",
-      "snippet": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
       "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 27 Nov 2026 20:06:31 GMT",
       "snippet": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Brazil pushes back on Macron calling its meat 'doped'",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 27 Nov 2026 15:54:15 GMT",
-      "snippet": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 27 Nov 2026 22:03:46 GMT",
-      "snippet": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 27 Nov 2026 20:34:45 GMT",
-      "snippet": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Millions of wives in South Asia unprotected from marital rape - study",
-      "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 27 Nov 2026 08:13:43 GMT",
-      "snippet": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
       "tier": 1
     },
     {
@@ -104,26 +128,18 @@
     },
     {
       "source": "BBC World",
-      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
-      "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 27 Nov 2026 07:28:10 GMT",
-      "snippet": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
-      "title": "Rare turtles found inside baggage at Amsterdam airport",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 27 Nov 2026 13:38:07 GMT",
-      "snippet": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-      "tier": 1
-    },
-    {
-      "source": "BBC World",
       "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
       "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 27 Nov 2026 17:19:31 GMT",
       "snippet": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "tier": 1
+    },
+    {
+      "source": "BBC World",
+      "title": "Millions of wives in South Asia unprotected from marital rape - study",
+      "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 27 Nov 2026 08:13:43 GMT",
+      "snippet": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
       "tier": 1
     },
     {
@@ -168,26 +184,34 @@
     },
     {
       "source": "BBC World",
-      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
-      "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 27 Nov 2026 23:02:35 GMT",
-      "snippet": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 27 Nov 2026 18:42:50 GMT",
+      "snippet": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
-      "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 28 Nov 2026 00:05:17 GMT",
-      "snippet": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "source": "NPR News",
+      "title": "Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+      "link": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+      "publishedAt": "Sat, 28 Nov 2026 06:32:37 -0500",
+      "snippet": "Local officials said the blast appeared to have originated in a neighboring depot for mining explosives.",
       "tier": 1
     },
     {
-      "source": "BBC World",
-      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 27 Nov 2026 06:04:51 GMT",
-      "snippet": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+      "source": "NPR News",
+      "title": "New wave of Democratic attorneys general may reshape the justice system",
+      "link": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas",
+      "publishedAt": "Sat, 28 Nov 2026 05:00:00 -0500",
+      "snippet": "The Democratic victories could have major effects for what alleged crimes are investigated, lawsuits filed and court cases heard across the U.S.",
+      "tier": 1
+    },
+    {
+      "source": "NPR News",
+      "title": "Sudan&apos;s lost generation: War is stealing the childhood of millions",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+      "publishedAt": "Fri, 27 Nov 2026 17:54:53 -0500",
+      "snippet": "Three years of war have stolen childhood from millions of children in Sudan, leaving them displaced, hungry and fighting for survival instead of learning in a classroom.",
       "tier": 1
     },
     {
@@ -224,14 +248,6 @@
     },
     {
       "source": "NPR News",
-      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
-      "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
-      "publishedAt": "Fri, 27 Nov 2026 05:00:00 -0500",
-      "snippet": "Trump&apos;s sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
       "title": "Screen-free tweens try their hand at Dungeons & Dragons",
       "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
       "publishedAt": "Fri, 27 Nov 2026 05:00:00 -0500",
@@ -248,26 +264,10 @@
     },
     {
       "source": "NPR News",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
-      "publishedAt": "Fri, 27 Nov 2026 04:47:08 -0500",
-      "snippet": "Thanksgiving storm pummels the East Coast, Americans expected to spend record amount on Black Friday, Israeli rival factions consider deals in race to form a new government.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "New balloons will fly in the postponed 100th Macy&apos;s Thanksgiving Day Parade",
-      "link": "https://www.npr.org/2026/11/27/nx-s1-6043796/new-balloons-will-fly-in-the-postponed-100th-macys-thanksgiving-day-parade",
-      "publishedAt": "Fri, 27 Nov 2026 04:45:12 -0500",
-      "snippet": "Some new balloons are set to fly in the weather-delayed Macy&apos;s Thanksgiving Day Parade.",
-      "tier": 1
-    },
-    {
-      "source": "NPR News",
-      "title": "Eagles rally to stun Cowboys coming back from 21 points behind",
-      "link": "https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys",
-      "publishedAt": "Fri, 27 Nov 2026 03:23:12 -0500",
-      "snippet": "Eagles QB Joe Milton threw two long touchdowns against the quarterback&apos;s former team, the Dallas Cowboys, for the the start of quite a comeback, after being down 31-10 early in the third quarter.",
+      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+      "publishedAt": "Fri, 27 Nov 2026 05:00:00 -0500",
+      "snippet": "Trump&apos;s sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
       "tier": 1
     },
     {
@@ -307,7 +307,7 @@
       "title": "Exploring an AI reboot and the ethics that surround it",
       "link": "https://www.pbs.org/newshour/show/exploring-an-ai-reboot-and-the-ethics-that-surround-it",
       "publishedAt": "Fri, 27 Nov 2026 18:35:30 -0500",
-      "snippet": "As artificial intelligence reshapes industries and our daily lives, questions about its use in drones, robots, and machines and the ethics behind how it's utilized has never been more urgent. Geoff Bennett spoke with Dr. Ayanna Howard, who began her career with NASA and is now th",
+      "snippet": "As artificial intelligence reshapes industries and our daily lives, questions about its use in drones, robots, and machines and the ethics behind how it's utilized have never been more urgent. Geoff Bennett spoke with Dr. Ayanna Howard, who began her career with NASA and is now t",
       "tier": 1
     },
     {
@@ -440,6 +440,70 @@
     },
     {
       "source": "DW Top Stories",
+      "title": "As Spain votes, what could change for Europe?",
+      "link": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Spain votes on Sunday. A loss for Pedro Sanchez and a shift to the right in Madrid could affect how one of the EU&apos;s largest countries approaches migration, defense and the war in Gaza.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Germany news: Job market unlikely to recover before summer",
+      "link": "https://www.dw.com/en/germany-news-job-market-unlikely-to-recover-before-summer/live-80084280?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The head of Germany&apos;s employment agency said employment would remain at its current level for a while. Meanwhile, electric vehicle sales are expected to pass 1 million next year. DW has more.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Afghanistan: Several killed in blast near middle school",
+      "link": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Officials have said improperly stored explosives at a mining site ignited, damaging nearby buildings including a school. An investigation is ongoing.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "India: Hindu lamp lighting at disputed Thiruparankundram pillar today",
+      "link": "https://www.dw.com/en/india-hindu-lamp-lighting-at-disputed-thiruparankundram-pillar-today/live-80083375?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The Supreme Court has directed that the Tamil Hindu ceremonial Karthigai Deepam lamp be lit today at the disputed Deepathoon pillar. DW has the latest.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Indian workers fill Germany&apos;s labor gaps but face hurdles and risks",
+      "link": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The number of Indians working in Germany has grown rapidly in recent years. But many continue to face challenges in the labor market. Some also fall victim to recruitment scams, leaving them vulnerable to exploitation.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Polls close in Taiwan&apos;s closely watched local elections",
+      "link": "https://www.dw.com/en/polls-close-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Campaigners have stayed away from the topic of China and focused on issues like transport and childcare. Still, Beijing had put pressure on the progressive candidate for Taipei mayor, who ended up losing the race.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "Spain&apos;s Sanchez makes final appeal to voters before election",
+      "link": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "Spanish Prime Minister Pedro Sanchez told people to turn out in large numbers so the country does not go \"backwards.\" Polls suggest an end to his eight-year leftist leadership of Spain.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
+      "title": "US disables ship in Gulf of Oman under Iran blockade",
+      "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-top-1022-rdf",
+      "publishedAt": null,
+      "snippet": "The United States said it was continuing \"to strictly enforce the blockade\" of Iran&apos;s ports. Meanwhile, Kuwait summoned Iran&apos;s ambassador over a strike that killed two Italian technicians.",
+      "tier": 2
+    },
+    {
+      "source": "DW Top Stories",
       "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
       "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
@@ -524,70 +588,6 @@
       "link": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-top-1022-rdf",
       "publishedAt": null,
       "snippet": "The low-cost airline was only founded a few years ago and had been struggling to turn a profit. The spike in aviation fuel prices caused by the war in Iran has now driven Norway&apos;s Norse Atlantic into bankruptcy.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "As Gambia gears up for election, can Barrow secure a third term?",
-      "link": "https://www.dw.com/en/as-gambia-gears-up-for-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "President Adama Barrow is seeking a third term as Gambians vote on December 5. The election will test the opposition&apos;s appeal and the country&apos;s progress on democratic reform.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Informer TV owner Vucicevic arrested: Has the reckoning with Serbia&apos;s pro-Vucic media machine begun?",
-      "link": "https://www.dw.com/en/informer-tv-owner-vucicevic-arrested-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "The arrest of media owner Dragan J. Vucicevic raises questions about whether Serbia is holding the people behind the country&apos;s pro-Vucic media accountable — or whether this is another political power struggle.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Duterte&apos;s ICC trial: What is at stake for the Philippines?",
-      "link": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Former Philippine President Rodrigo Duterte faces trial in The Hague over his deadly war on drugs. The proceedings could determine the political fortunes of a powerful dynasty. Victims&apos; families hope to see justice.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "In Iran, child marriage risks complicated by war",
-      "link": "https://www.dw.com/en/in-iran-child-marriage-risks-complicated-by-war/a-80075473?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "War, poverty and disrupted schooling could put more girls in Iran at risk of child marriage, rights advocates have warned.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Philippines: VP Duterte says father&apos;s ICC case &apos;not a fair trial&apos;",
-      "link": "https://www.dw.com/en/philippines-vp-duterte-says-father-s-icc-case-not-a-fair-trial/a-80074359?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Sara Duterte has said the ICC will not give her father a fair trial and that the Hague-based court wants to \"make a statement.\" Duterte alleges the case against her father is politically motivated.",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "The tiny BSW is a party in crisis, as it is set to hand the far-right AfD power in eastern Germany",
-      "link": "https://www.dw.com/en/the-tiny-bsw-is-a-party-in-crisis-as-it-is-set-to-hand-the-far-right-afd-power-in-eastern-germany/a-80074417?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "Sahra Wagenknecht&apos;s BSW party is set to disrupt German politics yet again. Espousing a mix of left-wing economic policy and populist far-right anti-migration rhetoric, it now stands to play kingmaker to the far right AfD",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "Russia sports ban: Ukraine&apos;s Heraskevych hails EU pushback",
-      "link": "https://www.dw.com/en/russia-sports-ban-ukraine-s-heraskevych-hails-eu-pushback/a-80074375?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "As European countries challenge Russia&apos;s sporting return, Ukrainian Olympian Vladyslav Heraskevych believes the IOC is facing a \"very big crisis.\"",
-      "tier": 2
-    },
-    {
-      "source": "DW Top Stories",
-      "title": "How East Germany boosted Vietnam&apos;s coffee industry",
-      "link": "https://www.dw.com/en/how-east-germany-boosted-vietnam-s-coffee-industry/a-80029974?maca=en-rss-en-top-1022-rdf",
-      "publishedAt": null,
-      "snippet": "When East Germany could no longer afford to import coffee, it introduced a substitute blend containing rye and chicory in 1977. A public outcry ensued. The solution to the problem lay 9,000 kilometers away — in Vietnam.",
       "tier": 2
     }
   ]
